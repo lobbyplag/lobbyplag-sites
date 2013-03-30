@@ -35,7 +35,6 @@ var _amendments = JSON.parse(fs.readFileSync(path.resolve(config.datadir, 'amend
 var _proposals = JSON.parse(fs.readFileSync(path.resolve(config.datadir, 'proposals.json')));
 
 var _mep = JSON.parse(fs.readFileSync(path.resolve(config.datadir, 'mep.json')));
-var _mep_aliases = JSON.parse(fs.readFileSync(path.resolve(config.datadir, 'mep.aliases.json')));
 var _mep_groups = JSON.parse(fs.readFileSync(path.resolve(config.datadir, 'groups.json')));
 var _countries = JSON.parse(fs.readFileSync(path.resolve(config.datadir, 'countries.json')));
 
