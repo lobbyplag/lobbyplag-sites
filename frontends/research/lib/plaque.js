@@ -18,14 +18,17 @@ data["lob"] = JSON.parse(fs.readFileSync(__dirname+"/../data/data.prop.json"));
 amd_data.forEach(function(s){	
 	data['amd'][s.uid] = {
 		"uid": s.uid,
-		"ptid": s.ptid,
-		"committee": s.committee,
+		"ptid": s.ids.parltrack,
+		"committee": s.committee.toUpperCase(),
 		"date": s.date,
-		"amendment": s.amendment,
+		"number": s.number,
 		"authors": s.authors,
 		"location": s.location,
-		"diff": s.diff
+		"text": []
 	};
+	s.text.forEach(function(text){
+		data['amd'][s.uid].text.push({"diff": text.diff});
+	});
 });
 
 module.exports.search = function(query) {

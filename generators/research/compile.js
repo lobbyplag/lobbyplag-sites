@@ -1,8 +1,5 @@
 #!/usr/bin/env node
 
-console.log("UPDATE ME");
-process.exit();
-
 String.prototype.clean = function(){
 	return this.toLowerCase().replace(/[^\u0030-\u0039\u0041-\u005A\u0061-\u007A\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u017F]/g, ' ').replace(/\s+/g, ' ');
 };
@@ -10,9 +7,21 @@ String.prototype.clean = function(){
 var fs = require('fs');
 var path = require('path');
 var colors = require('colors');
+var argv = require("optimist")
+	.boolean(['d'])
+	.alias("d","debug")
+	.argv;
+
+/* get config */
+var config = require(path.resolve(__dirname, '../../config.js'));
+
+/* mep data */
+var _mep = JSON.parse(fs.readFileSync(path.resolve(config.datadir, 'mep.json')));
+var _mep_groups = JSON.parse(fs.readFileSync(path.resolve(config.datadir, 'groups.json')));
+var _countries = JSON.parse(fs.readFileSync(path.resolve(config.datadir, 'countries.json')));
 
 /* amendments */
-var _amds = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../../data/amendments.json'))).amendments;
+var _amds = JSON.parse(fs.readFileSync(path.resolve(config.datadir, 'amendments.json')));
 var _amds_index = [];
 var _amds_display = 0;
 
@@ -26,13 +35,16 @@ _amds.forEach(function(_amd, _amds_count){
 		process.stdout.write('\r'+(" IDX-A ".inverse.bold.magenta)+(" "+_amds_display+"%").cyan);
 	}
 	
-	/* add to index */
-	_amds_index.push({
-		'uid': _amd.uid,
-		'text': {
-			'old': _amd.text.old.toString().clean(),
-			'new': _amd.text.new.toString().clean()
-		}
+	_amd.text.forEach(function(text){
+
+		/* add to index */
+		_amds_index.push({
+			'uid': _amd.uid,
+			'text': {
+				'old': text.old.toString().clean(),
+				'new': text.new.toString().clean()
+			}
+		});
 	});
 	
 });
@@ -41,23 +53,28 @@ _amds.forEach(function(_amd, _amds_count){
 process.stdout.write('\r'+(" IDX-A ".inverse.bold.magenta)+(" complete. ").green+'\n');
 
 /* write index and data */
-fs.writeFileSync(path.resolve(__dirname, '../../frontends/research/data/index.amd.json'), JSON.stringify(_amds_index));
-fs.writeFileSync(path.resolve(__dirname, '../../frontends/research/data/data.amd.json'), JSON.stringify(_amds));
+if (argv.d) {
+	fs.writeFileSync('debug-index.amd.json', JSON.stringify(_amds_index));
+	fs.writeFileSync('debug-data.amd.json', JSON.stringify(_amds));
+} else {
+	fs.writeFileSync(path.resolve(config.frontenddir, 'research/data/index.amd.json'), JSON.stringify(_amds_index));
+	fs.writeFileSync(path.resolve(config.frontenddir, 'research/data/data.amd.json'), JSON.stringify(_amds));
+}
 
 /* lobbyist index */
 var _lobbyists = {};
-JSON.parse(fs.readFileSync(path.resolve(__dirname, '../../data/lobbyists.json'))).forEach(function(_lobbyist){
+JSON.parse(fs.readFileSync(path.resolve(config.datadir, 'lobbyists.json'))).forEach(function(_lobbyist){
 	_lobbyists[_lobbyist.id] = _lobbyist;
 });
 
 /* document index */
 var _documents = {};
-JSON.parse(fs.readFileSync(path.resolve(__dirname, '../../data/documents.json'))).forEach(function(_document){
+JSON.parse(fs.readFileSync(path.resolve(config.datadir, 'documents.json'))).forEach(function(_document){
 	_documents[_document.uid] = _document;
 });
 
 /* proposals */
-var _props = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../../data/proposals.json')));
+var _props = JSON.parse(fs.readFileSync(path.resolve(config.datadir, 'proposals.json')));
 var _props_index = [];
 var _props_data = {};
 var _props_display = 0;
@@ -100,8 +117,13 @@ _props.forEach(function(_prop, _props_count){
 process.stdout.write('\r'+(" IDX-P ".inverse.bold.magenta)+(" complete. ").green+'\n');
 
 /* write index and data */
-fs.writeFileSync(path.resolve(__dirname, '../../frontends/research/data/index.prop.json'), JSON.stringify(_props_index));
-fs.writeFileSync(path.resolve(__dirname, '../../frontends/research/data/data.prop.json'), JSON.stringify(_props_data));
+if (argv.d) {
+	fs.writeFileSync('debug-index.prop.json', JSON.stringify(_props_index));
+	fs.writeFileSync('debug-data.prop.json', JSON.stringify(_props_data));
+} else {
+	fs.writeFileSync(path.resolve(config.frontenddir, 'research/data/index.prop.json'), JSON.stringify(_props_index));
+	fs.writeFileSync(path.resolve(config.frontenddir, 'research/data/data.prop.json'), JSON.stringify(_props_data));
+}
 
 console.error(' <3 '.inverse.bold.magenta, 'made with datalove'.bold.magenta);
 process.exit(0);

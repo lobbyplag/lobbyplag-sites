@@ -34,8 +34,9 @@
 				<h2>Amendments</h2>
 				{{#amd}}
 					<section class="result">
-						<h3>{{committee}} Amendment #{{amendment}}</h3>
+						<h3>{{committee}} Amendment #{{number}}</h3>
 						<p class="location">{{location}}</p>
+						{{#text}}
 						<div class="diff-container">
 							<div class="diff-buttons btn-group">
 								<a class="btn btn-mini btn-inverse button-old" href="javascript:;">Regulation Draft</a>
@@ -44,6 +45,7 @@
 							</div>
 							<div class="diff">{{{diff}}}</div>
 						</div>
+						{{/text}}
 						<p class="authors"><strong>Authors:</strong>{{#authors}} {{.}};{{/authors}}</p>
 					</section>
 				{{/amd}}
