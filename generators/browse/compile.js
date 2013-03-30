@@ -1,8 +1,5 @@
 #!/usr/bin/env node
 
-console.log("UPDATE ME");
-process.exit();
-
 /**
 	compiles the data file for the browse interface
 **/
@@ -25,15 +22,22 @@ String.prototype.expand = function() {
 var fs = require("fs");
 var path = require("path");
 var colors = require("colors");
+var argv = require("optimist")
+	.boolean(['d'])
+	.alias("d","debug")
+	.argv;
 
-var _directive = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../../data/directive.json')));
-var _amendments = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../../data/amendments.json'))).amendments;
-var _proposals = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../../data/proposals.json')));
+/* get config */
+var config = require(path.resolve(__dirname, '../../config.js'));
 
-var _mep = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../../data/mep.json')));
-var _mep_aliases = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../../data/mep.aliases.json')));
-var _mep_groups = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../../data/mep-groups.json')));
-var _countries = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../../data/countries.json')));
+var _directive = JSON.parse(fs.readFileSync(path.resolve(config.datadir, 'directive.json')));
+var _amendments = JSON.parse(fs.readFileSync(path.resolve(config.datadir, 'amendments.json'))).amendments;
+var _proposals = JSON.parse(fs.readFileSync(path.resolve(config.datadir, 'proposals.json')));
+
+var _mep = JSON.parse(fs.readFileSync(path.resolve(config.datadir, 'mep.json')));
+var _mep_aliases = JSON.parse(fs.readFileSync(path.resolve(config.datadir, 'mep.aliases.json')));
+var _mep_groups = JSON.parse(fs.readFileSync(path.resolve(config.datadir, 'groups.json')));
+var _countries = JSON.parse(fs.readFileSync(path.resolve(config.datadir, 'countries.json')));
 
 var _patterns = {};
 var _list = [];
@@ -275,7 +279,11 @@ for (_id in _data) {
 	})();
 }
 
-fs.writeFileSync(path.resolve(__dirname, '../../frontends/browse/assets/data/compiled.json'), JSON.stringify(_data,null,'\t'));
+if (argv.d) {
+	fs.writeFileSync('debug-compiled.json', JSON.stringify(_data,null,'\t'));
+} else {
+	fs.writeFileSync(path.resolve(config.frontenddir, 'browse/assets/data/compiled.json'), JSON.stringify(_data,null,'\t'));
+}
 
 /* generate list */
 var _list_html = [];
@@ -297,7 +305,12 @@ _list.forEach(function(_item){
 	_list_html.push('</tr>');
 });
 _list_html.push('</tbody></table>');
-fs.writeFileSync(path.resolve(__dirname, '../../frontends/browse/assets/tmpl/list.mustache'), _list_html.join(''));
+
+if (argv.d) {
+	fs.writeFileSync('debug-list.mustache', _list_html.join(''));
+} else {
+	fs.writeFileSync(path.resolve(config.frontenddir, 'browse/assets/tmpl/list.mustache'), _list_html.join(''));
+}
 
 /* generate indicator */
 var _indicator_html = [];
@@ -325,7 +338,11 @@ _list.forEach(function(_item,_num){
 });
 _indicator_html = '<ul id="directive-items">\n\t'+(_indicator_html.join('\n\t'))+'\n</ul>';
 
-fs.writeFileSync(path.resolve(__dirname, '../../frontends/browse/assets/tmpl/indicator.mustache'), _indicator_html);
+if (argv.d) {
+	fs.writeFileSync('debug-indicator.mustache', _indicator_html);
+} else {
+	fs.writeFileSync(path.resolve(config.frontenddir, 'browse/assets/tmpl/indicator.mustache'), _indicator_html);
+}
 
 console.error(' <3 '.inverse.bold.magenta, 'made with datalove'.bold.magenta);
 process.exit(0);
