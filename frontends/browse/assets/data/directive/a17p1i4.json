@@ -1,0 +1,102 @@
+{
+	"id": "a17p1i4",
+	"type": "point",
+	"literal": "d",
+	"parent": "a17p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the processing of the data does not comply with this Regulation for other reasons."
+		},
+		{
+			"lang": "de",
+			"text": "Die Verarbeitung der Daten ist aus anderen Gründen nicht mit der Verordnung vereinbar."
+		},
+		{
+			"lang": "fr",
+			"text": "le traitement des données n'est pas conforme au présent règlement pour d'autres motifs."
+		},
+		{
+			"lang": "es",
+			"text": "el tratamiento de datos no es conforme con el presente Reglamento por otros motivos."
+		},
+		{
+			"lang": "pt",
+			"text": "O tratamento dos dados não respeita o presente regulamento por outros motivos."
+		},
+		{
+			"lang": "it",
+			"text": "il trattamento dei dati non è conforme al presente regolamento per altri motivi."
+		},
+		{
+			"lang": "ga",
+			"text": "níl próiseáil na sonraí i gcomhréir leis an Rialachán seo ar chúiseanna eile."
+		},
+		{
+			"lang": "cs",
+			"text": "zpracování údajů není slučitelné s tímto nařízením z jiných důvodů."
+		},
+		{
+			"lang": "da",
+			"text": "behandlingen af personoplysningerne af andre grunde er i strid med denne forordning."
+		},
+		{
+			"lang": "et",
+			"text": "andmete töötlemine ei vasta käesolevale määrusele muudel põhjustel."
+		},
+		{
+			"lang": "el",
+			"text": "δ) η επεξεργασία των δεδομένων δεν είναι σύμφωνη προς τον παρόντα κανονισμό για άλλους λόγους."
+		},
+		{
+			"lang": "bg",
+			"text": "г) обработването на данните не е в съответствие с настоящия регламент по други причини."
+		},
+		{
+			"lang": "hu",
+			"text": "az adatfeldolgozás egyéb okokból nem áll összhangban e rendelettel."
+		},
+		{
+			"lang": "mt",
+			"text": "l-ipproċessar tad-dejta ma jikkonformax ma’ dan ir-Regolament għal raġunijiet oħra."
+		},
+		{
+			"lang": "lv",
+			"text": "datu apstrāde nav saskaņā ar šo regulu citu iemeslu dēļ."
+		},
+		{
+			"lang": "ro",
+			"text": "prelucrarea datelor nu este conformă cu prezentul regulament din alte motive."
+		},
+		{
+			"lang": "sk",
+			"text": "spracovanie údajov nie je v súlade s týmto nariadením z iných dôvodov."
+		},
+		{
+			"lang": "sl",
+			"text": "obdelava podatkov ni v skladu s to uredbo iz drugih razlogov."
+		},
+		{
+			"lang": "fi",
+			"text": "tietojenkäsittely ei muista syistä ole tämän asetuksen mukaista."
+		},
+		{
+			"lang": "pl",
+			"text": "przetwarzanie danych nie jest zgodne z niniejszym rozporządzeniem z innych powodów."
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų tvarkymas neatitinka šio reglamento dėl kitų priežasčių."
+		},
+		{
+			"lang": "nl",
+			"text": "de verwerking van de gegevens voldoet op andere gronden niet aan deze verordening."
+		},
+		{
+			"lang": "sv",
+			"text": "Behandlingen av uppgifterna uppfyller inte villkoren i denna förordning av andra skäl."
+		}
+	],
+	"children": [],
+	"title": "Article 17 – Paragraph 1 – Point 4"
+}

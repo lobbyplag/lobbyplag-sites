@@ -1,0 +1,102 @@
+{
+	"id": "a81p1i1",
+	"type": "point",
+	"literal": "a",
+	"parent": "a81p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the purposes of preventive or occupational medicine, medical diagnosis, the provision of care or treatment or the management of health-care services, and where those data are processed by a health professional subject to the obligation of professional secrecy or another person also subject to an equivalent obligation of confidentiality under Member State law or rules established by national competent bodies; or"
+		},
+		{
+			"lang": "de",
+			"text": "für Zwecke der Gesundheitsvorsorge oder der Arbeitsmedizin, der medizinischen Diagnostik, der Gesundheitsversorgung oder Behandlung oder für die Verwaltung von Gesundheitsdiensten, sofern die Verarbeitung dieser Daten durch dem Berufsgeheimnis unterliegendes ärztliches Personal erfolgt oder durch sonstige Personen, die nach mitgliedstaatlichem Recht, einschließlich der von den zuständigen einzelstaatlichen Stellen erlassenen Regelungen, einer entsprechenden Geheimhaltungspflicht unterliegen;"
+		},
+		{
+			"lang": "fr",
+			"text": "aux fins de la médecine préventive, des diagnostics médicaux, de l'administration de soins ou de traitements ou de la gestion de services de santé et lorsque le traitement de ces données est effectué par un praticien de la santé soumis au secret professionnel, ou par une autre personne également soumise à une obligation de confidentialité équivalente, par le droit d'un État membre ou par des réglementations arrêtées par les autorités nationales compétentes; ou"
+		},
+		{
+			"lang": "es",
+			"text": "a los fines de la medicina preventiva o la medicina del trabajo, el diagnóstico médico, la prestación de asistencia sanitaria o el tratamiento o la gestión de los servicios de asistencia sanitaria, siempre que tales datos sean tratados por un profesional sanitario sujeto a la obligación del secreto profesional o por otra persona también sujeta a una obligación de confidencialidad equivalente en virtud de la legislación del Estado miembro o de las normas establecidas por los organismos nacionales competentes; o"
+		},
+		{
+			"lang": "pt",
+			"text": "Para efeitos de medicina preventiva ou do trabalho, diagnósticos médicos, prestação de cuidados de saúde ou tratamentos médicos, ou gestão de serviços da saúde e sempre que o tratamento desses dados for efetuado por um profissional da saúde sujeito ao segredo profissional, ou por outra pessoa igualmente sujeita a uma obrigação de confidencialidade equivalente, ao abrigo da legislação ou regulamentação do Estado-Membro estabelecida pelas autoridades nacionais competentes; ou"
+		},
+		{
+			"lang": "it",
+			"text": "per finalità di medicina del lavoro, prevenzione medica, diagnosi, assistenza sanitaria o terapia ovvero gestione dei servizi sanitari, e quando il trattamento dei medesimi dati è effettuato da un professionista della sanità vincolato da segreto professionale o altra persona del pari soggetta a un equivalente obbligo di segretezza ai sensi della legislazione degli Stati membri o di norme stabilite dagli organismi nazionali competenti, oppure"
+		},
+		{
+			"lang": "ga",
+			"text": "chun críocha leighis choiscthigh nó saothair, chun críocha diagnóise leighis, chun cúram nó cóireáil a sholáthar nó chun seirbhísí cúraim sláinte a bhainistiú, agus i gcás inar gairmí sláinte atá faoi réir oibleagáide rúndachta gairmiúla a phróiseálann na sonraí sin, nó duine eile atá faoi réir oibleagáide comhionainne rúndachta faoi dhlí Ballstáit nó faoi rialacha arna mbunú ag comhlachtaí inniúla náisiúnta; nó"
+		},
+		{
+			"lang": "cs",
+			"text": "pro účely preventivní či pracovní medicíny, lékařské diagnostiky, pro účely poskytování zdravotní péče či léčby nebo pro účely řízení zdravotnických služeb, přičemž údaje musí zpracovávat zdravotník vázaný profesním tajemstvím nebo jiná osoba, na kterou se podle práva členského státu nebo podle pravidel stanovených příslušnými vnitrostátními orgány vztahuje rovnocenná povinnost mlčenlivosti, nebo"
+		},
+		{
+			"lang": "da",
+			"text": "i forbindelse med forebyggende medicin, arbejdsmedicin, medicinsk diagnose, sygepleje eller patientbehandling eller forvaltning af læge- og sundheds­tjenester, og hvis behandlingen af disse oplysninger foretages af en erhvervsudøvende i sundhedssektoren, der i henhold til medlemsstatens lovgivning eller regler, der er fastsat af kompetente nationale organer, har tavshedspligt, eller af en anden person med tilsvarende tavshedspligt"
+		},
+		{
+			"lang": "et",
+			"text": "ennetava meditsiini või töömeditsiini, meditsiinilise diagnoosi, meditsiinilise abi või ravi võimaldamise või tervishoiuteenuste korraldamise jaoks ja kui kõnealuseid andmeid töötleb tervishoiutöötaja, kelle puhul kehtib ametisaladuse hoidmise kohustus, või mõni teine isik, kelle suhtes kehtib liikmesriigi õiguses või liikmesriigi pädevate ametiasutuste kehtestatud eeskirjades sätestatud samaväärne saladuse hoidmise kohustus, või"
+		},
+		{
+			"lang": "el",
+			"text": "α) σκοπούς προληπτικής ή επαγγελματικής ιατρικής, ιατρικής διάγνωσης, παροχής περίθαλψης ή θεραπείας ή διαχείρισης υγειονομικών υπηρεσιών και εφόσον τα εν λόγω δεδομένα υποβάλλονται σε επεξεργασία από επαγγελματία του τομέα της υγείας, με την επιφύλαξη της υποχρέωσης τήρησης επαγγελματικού απορρήτου, ή άλλο πρόσωπο το οποίο υπέχει επίσης αντίστοιχη υποχρέωση εμπιστευτικότητας βάσει του δικαίου κράτους μέλους ή των κανόνων που θεσπίζονται από αρμόδιους εθνικούς φορείς· ή"
+		},
+		{
+			"lang": "bg",
+			"text": "а) за целите на профилактичната или трудовата медицина, поставянето на медицинска диагноза, предоставянето на грижи или лечение или за управлението на здравното обслужване и когато тези данни се обработват от здравен специалист, който е обвързан със задължение за опазване на професионална тайна или от друго лице, което също е обвързано с равностойно задължение за поверителност по силата на правото на дадена държава-членка или на разпоредби, установени от компетентни национални органи; или"
+		},
+		{
+			"lang": "hu",
+			"text": "a megelőző orvoslás vagy foglalkozás-egészségügy, az orvosi diagnózis, az ellátások vagy kezelések biztosítása vagy az egészségügyi szolgáltatások irányítása érdekében, ha ezeket az adatokat a szakmai titoktartás kötelezettsége alatt álló egészségügyi szakember, vagy a tagállamok joga vagy az illetékes nemzeti hatóságok által létrehozott szabályok szerint ezzel azonos titoktartási kötelezettség alatt álló más személy dolgozza fel; vagy"
+		},
+		{
+			"lang": "mt",
+			"text": "l-għanijiet ta’ mediċina preventiva jew okkupazzjonali, dijanjożi medika, l-għoti ta’ kura jew trattament jew il-ġestjoni ta’ servizzi ta’ kura tas-saħħa, u meta dik id-dejta tkun ipproċessata minn professjonista tas-saħħa soġġett għall-obbligu ta’ segretezza professjonali jew persuna oħra soġġetta wkoll għal obbligu ekwivalenti ta’ kunfidenzjalità taħt il-liġi tal-Istat Membru jew regoli stabbiliti minn korpi nazzjonali kompetenti; jew"
+		},
+		{
+			"lang": "lv",
+			"text": "profilaktiskās vai arodmedicīnas, medicīniskas diagnozes, aprūpes vai ārstēšanas vai veselības aprūpes pakalpojumu pārvaldības nodrošināšanas nolūkos un, ja šos datus apstrādā veselības aizsardzības darba profesionālis, kas saskaņā ar attiecīgās dalībvalsts tiesībām vai valsts kompetento iestāžu ieviestiem noteikumiem ir pakļauts dienesta noslēpuma glabāšanas pienākumam, vai cita persona, uz kuru arī attiecas tāds pat pienākums ievērot konfidencialitāti; vai"
+		},
+		{
+			"lang": "ro",
+			"text": "în scopuri legate de medicina preventivă sau a muncii, stabilirea diagnosticului, administrarea unor îngrijiri medicale sau a unui tratament sau de gestionarea serviciilor medicale, precum și în cazul în care datele respective sunt prelucrate de un cadru medical supus obligației de a respecta secretul profesional sau de o altă persoană supusă, de asemenea, unei obligații echivalente în ceea ce privește confidențialitatea în temeiul legislației statului membru ori al normelor stabilite de autoritățile naționale competente; sau"
+		},
+		{
+			"lang": "sk",
+			"text": "na účely preventívneho alebo pracovného lekárstva, lekárskej diagnostiky, poskytovania starostlivosti alebo terapií, alebo riadenia služieb zdravotnej starostlivosti, a v prípade, že tieto údaje spracúva zdravotnícky odborník, ktorý podlieha povinnosti zachovávať lekárske tajomstvo, alebo iná osoba, ktorá takisto podlieha rovnocennej povinnosti dôvernosti podľa právnych predpisov členského štátu alebo pravidiel ustanovených príslušnými vnútroštátnymi orgánmi, alebo"
+		},
+		{
+			"lang": "sl",
+			"text": "za namene preventivne ali poklicne medicine, zdravstvene diagnoze, za zagotovitev oskrbe ali zdravljenja ali upravljanje storitev zdravstvenega varstva in kadar te podatke obdeluje zdravstveni delavec, za katerega velja obveznost poklicne molčečnosti, ali druga oseba, za katero prav tako velja enaka obveznost molčečnosti na podlagi zakonodaje države članice ali pravil, ki jih sprejmejo pristojni nacionalni organi; ali"
+		},
+		{
+			"lang": "fi",
+			"text": "ennalta ehkäisevää tai työterveydenhuoltoa tai lääketieteellisiä diagnooseja koskevia tarkoituksia, hoidon tai käsittelyn suorittamista tai terveydenhuollon palvelujen hallintoa varten ja jos näitä tietoja käsittelee terveydenhuollon ammattikoulutuksen saanut henkilö, jota koskee vaitiolovelvollisuus, tai muu henkilö, jota koskee vastaava velvoite jäsenvaltion lain tai toimivaltaisten kansallisten viranomaisten vahvistamien sääntöjen nojalla; tai"
+		},
+		{
+			"lang": "pl",
+			"text": "dla celów medycyny prewencyjnej lub medycyny pracy, diagnostyki medycznej, opieki lub leczenia lub zarządzania opieką zdrowotną, w przypadkach, gdy dane te są przetwarzane przez pracownika służby zdrowia podlegającego obowiązkowi zachowania tajemnicy zawodowej lub przez inną osobę również podlegającą równoważnemu obowiązkowi zachowania poufności na podstawie prawa państwa członkowskiego lub przepisów ustanowionych przez właściwe organy krajowe; lub"
+		},
+		{
+			"lang": "lt",
+			"text": "teikiant profilaktinės ar darbo medicinos, medicininės diagnostikos, medicininės priežiūros ar gydymo paslaugas arba sveikatos priežiūros valdymui ir jeigu tokius duomenis tvarko sveikatos priežiūros specialistas, kuriam taikoma pareiga saugoti profesinę paslaptį, arba kitas asmuo, kuriam taip pat taikoma lygiavertė konfidencialumo pareiga pagal valstybės narės teisės aktus arba nacionalinių kompetentingų institucijų nustatytas taisykles; arba"
+		},
+		{
+			"lang": "nl",
+			"text": "voor doeleinden van preventieve of arbeidsgeneeskunde, medische diagnose, het verstrekken van zorg of behandelingen of het beheren van gezondheidsdiensten, mits die gegevens worden verwerkt door een gezondheidswerker die onderworpen is aan het in de nationale wetgeving, of in de door nationale bevoegde instanties vastgestelde regelgeving, vastgelegde beroepsgeheim of door een andere persoon voor wie een gelijkwaardige vertrouwelijkheidsplicht geldt; of"
+		},
+		{
+			"lang": "sv",
+			"text": "förebyggande hälso- och sjukvård och yrkesmedicin, medicinska diagnoser, vård eller behandling eller administration av hälso- och sjukvårdstjänster, om uppgifterna behandlas av någon som är yrkesmässigt verksam på hälso- och sjukvårdsområdet och som enligt nationell lagstiftning eller bestämmelser som antagits av behöriga nationella organ är underkastad tystnadsplikt, eller av en annan person som är ålagd en motsvarande tystnadsplikt,"
+		}
+	],
+	"children": [],
+	"title": "Article 81 – Paragraph 1 – Point 1"
+}

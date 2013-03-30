@@ -1,0 +1,102 @@
+{
+	"id": "a4i9",
+	"type": "point",
+	"literal": "9",
+	"parent": "a4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "'personal data breach' means a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data transmitted, stored or otherwise processed;"
+		},
+		{
+			"lang": "de",
+			"text": "&quot;Verletzung des Schutzes personenbezogener Daten&quot; eine Verletzung der Sicherheit, die zur Vernichtung, zum Verlust oder zur Veränderung, ob unbeabsichtigt oder widerrechtlich, oder zur unbefugten Weitergabe von beziehungsweise zum unbefugten Zugang zu personenbezogenen Daten führt, die übermittelt, gespeichert oder auf sonstige Weise verarbeitet wurden;"
+		},
+		{
+			"lang": "fr",
+			"text": "«violation de données à caractère personnel»: une violation de la sécurité entraînant de manière accidentelle ou illicite la destruction, la perte, l'altération, la divulgation ou la consultation non autorisées de données à caractère personnel transmises, conservées ou traitées d’une autre manière;"
+		},
+		{
+			"lang": "es",
+			"text": "«violación de datos personales»: toda violación de la seguridad que ocasione la destrucción accidental o ilícita, la pérdida, alteración, comunicación no autorizada o el acceso a datos personales transmitidos, conservados o tratados de otra forma;"
+		},
+		{
+			"lang": "pt",
+			"text": "«Violação de dados pessoais», uma violação da segurança que provoca, de modo acidental ou ilícito, a destruição, a perda, a alteração, a divulgação, ou o acesso, não autorizados, de dados pessoais transmitidos, conservados ou tratados de outro modo;"
+		},
+		{
+			"lang": "it",
+			"text": "“violazione dei dati personali”: violazione di sicurezza che comporta accidentalmente o in modo illecito la distruzione, la perdita, la modifica, la rivelazione non autorizzata o l’accesso ai dati personali trasmessi, memorizzati o comunque elaborati;"
+		},
+		{
+			"lang": "ga",
+			"text": "ciallaíonn ‘sárú i ndáil le sonraí pearsanta’ sárú ar shlándáil as a dtiocfaidh díothú, cailleadh, athrú, nó nochtadh neamhúdaraithe sonraí pearsanta, nó rochtain neamhúdaraithe ar na sonraí sin, bíodh sé sin neamhdhleathach nó de thaisme, ar sonraí iad a rinneadh a tharchur, a stóráil nó a phróiseáil ar bhealach éigin eile;"
+		},
+		{
+			"lang": "cs",
+			"text": "„narušením bezpečnosti osobních údajů“ narušení bezpečnosti, které vede k náhodnému nebo protiprávnímu zničení, ztrátě, změně či neoprávněnému vyzrazení nebo zpřístupnění osobních údajů přenášených, uchovávaných nebo jinak zpracovávaných;"
+		},
+		{
+			"lang": "da",
+			"text": "&quot;brud på persondatasikkerheden&quot;: brud på sikkerheden, der fører til hændelig eller ulovlig tilintetgørelse, tab, ændring, ubeføjet udbredelse af eller adgang til personoplysninger, der er videregivet, lagret eller på anden måde behandlet"
+		},
+		{
+			"lang": "et",
+			"text": "„isikuandmetega seotud rikkumine” – turvanõuete rikkumine, mis põhjustab edastatavate, salvestatud või muul viisil töödeldavate isikuandmete juhusliku või ebaseadusliku hävitamise, kaotsimineku, muutmise ja loata avalikustamise või neile juurdepääsu;"
+		},
+		{
+			"lang": "el",
+			"text": "«παραβίαση προσωπικών δεδομένων»: η παραβίαση της ασφάλειας που οδηγεί σε τυχαία ή παράνομη καταστροφή, απώλεια, μεταβολή, άνευ αδείας κοινολόγηση ή προσπέλαση προσωπικών δεδομένων που διαβιβάσθηκαν, αποθηκεύτηκαν ή υποβλήθηκαν κατ’ άλλο τρόπο σε επεξεργασία·"
+		},
+		{
+			"lang": "bg",
+			"text": "„нарушение на сигурността на лични данни“ означава нарушение на сигурността, което води до случайно или неправомерно унищожаване, загуба, промяна, неразрешено разкриване или достъп до лични данни, които се предават, съхраняват или обработват по друг начин;"
+		},
+		{
+			"lang": "hu",
+			"text": "„személyes adatok megsértése”: a biztonság olyan megsértése, amely a továbbított, tárolt vagy más módon feldolgozott személyes adatok véletlen vagy jogellenes megsemmisítését, elvesztését, módosítását, jogosulatlan felfedését vagy az azokhoz való jogosulatlan hozzáférést eredményezi;"
+		},
+		{
+			"lang": "mt",
+			"text": "'ksur ta’ dejta personali' tfisser ksur tas-sigurtà li jwassal għal qerda aċċidentali jew illegali, telf, bdil, żvelar mhux awtorizzat ta’, jew aċċess għal, dejta personali trażmessa, maħżuna jew ipproċessata mod ieħor;"
+		},
+		{
+			"lang": "lv",
+			"text": "&quot;personas datu aizsardzības pārkāpums&quot; ir drošības pārkāpums, kura rezultātā notiek nejauša vai nelikumīga nosūtīto, uzglabāto vai citādi apstrādāto personas datu iznīcināšana, nozaudēšana, pārveidošana, neatļauta izpaušana vai piekļuve tiem;"
+		},
+		{
+			"lang": "ro",
+			"text": "„încălcarea securității datelor cu caracter personal” înseamnă o încălcare a securității care duce, în mod accidental sau ilegal, la distrugerea, pierderea, modificarea, divulgarea neautorizată sau accesul neautorizat la datele cu caracter personal transmise, stocate sau prelucrate în alt mod;"
+		},
+		{
+			"lang": "sk",
+			"text": "„porušenie ochrany osobných údajov“ znamená porušenie bezpečnosti, ktoré má za následok náhodnú alebo nelegálnu likvidáciu, stratu, zmenu, neoprávnené zverejnenie alebo sprístupnenie osobných údajov, ktoré sa prenášajú, uchovávajú alebo inak spracúvajú;"
+		},
+		{
+			"lang": "sl",
+			"text": "„kršitev varnosti osebnih podatkov“ pomeni kršitev varnosti, ki povzroči nenamerno ali nezakonito uničenje, izgubo, spremembo, nepooblaščeno razkritje ali dostop do osebnih podatkov, ki so poslani, shranjeni ali kako drugače obdelani;"
+		},
+		{
+			"lang": "fi",
+			"text": "’henkilötietojen tietoturvaloukkauksella’ tietoturvaloukkausta, jonka seurauksena on vahingossa tapahtuva tai lainvastainen siirrettyjen, tallennettujen tai muuten käsiteltyjen henkilötietojen tuhoaminen, häviäminen, muuttaminen, luvaton luovuttaminen taikka saanti;"
+		},
+		{
+			"lang": "pl",
+			"text": "„naruszenie ochrony danych osobowych” oznacza naruszenie bezpieczeństwa prowadzące do przypadkowego lub niezgodnego z prawem zniszczenia, utraty, modyfikacji, nieuprawnionego ujawnienia lub dostępu do danych osobowych przesyłanych, przechowywanych lub przetwarzanych w inny sposób;"
+		},
+		{
+			"lang": "lt",
+			"text": "asmens duomenų saugumo pažeidimas – saugumo pažeidimas, dėl kurio netyčia arba neteisėtai sunaikinami, prarandami, pakeičiami, be leidimo atskleidžiami perduoti, saugomi arba kitaip tvarkomi asmens duomenys arba prie jų gaunama prieiga;"
+		},
+		{
+			"lang": "nl",
+			"text": "“inbreuk in verband met persoonsgegevens”: een inbreuk op de beveiliging met de vernietiging, het verlies, de wijziging of de ongeoorloofde verstrekking van of de ongeoorloofde toegang tot de doorgezonden, opgeslagen of anderszins verwerkte gegevens, hetzij per ongeluk hetzij onrechtmatig, tot gevolg;"
+		},
+		{
+			"lang": "sv",
+			"text": "personuppgiftsbrott: ett säkerhetsbrott som leder till förstöring, förlust eller ändringar genom olyckshändelse eller otillåtna handlingar eller till obehörigt röjande av eller obehörig åtkomst till de personuppgifter som överförts, lagrats eller på annat sätt behandlats."
+		}
+	],
+	"children": [],
+	"title": "Article 4 – Point 9"
+}

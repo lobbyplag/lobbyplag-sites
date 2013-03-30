@@ -1,0 +1,102 @@
+{
+	"id": "a30p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a30",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller and the processor shall, following an evaluation of the risks, take the measures referred to in paragraph 1 to protect personal data against accidental or unlawful destruction or accidental loss and to prevent any unlawful forms of processing, in particular any unauthorised disclosure, dissemination or access, or alteration of personal data."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche und der Auftragsverarbeiter treffen im Anschluss an eine Risikobewertung die in Absatz 1 genannten Maßnahmen zum Schutz personenbezogener Daten vor unbeabsichtigter oder widerrechtlichen Zerstörung oder vor unbeabsichtigtem Verlust sowie zur Vermeidung jedweder unrechtmäßigen Verarbeitung, insbesondere jeder unbefugten Offenlegung, Verbreitung beziehungsweise Einsichtnahme oder Veränderung."
+		},
+		{
+			"lang": "fr",
+			"text": "À la suite d'une évaluation des risques, le responsable du traitement et le sous‑traitant prennent les mesures prévues au paragraphe 1 pour protéger les données à caractère personnel contre la destruction accidentelle ou illicite et la perte accidentelle et pour empêcher toute forme illicite de traitement, notamment la divulgation, la diffusion ou l'accès non autorisés, ou l'altération de données à caractère personnel."
+		},
+		{
+			"lang": "es",
+			"text": "A raíz de una evaluación de los riesgos, el responsable y el encargado del tratamiento adoptarán las medidas contempladas en el apartado 1 a fin de proteger los datos personales contra su destrucción accidental o ilícita, o su pérdida accidental, y de impedir cualquier forma de tratamiento ilícito, en particular la comunicación, la difusión o el acceso no autorizados o la alteración de los datos personales."
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento e o subcontratante adotam, na sequência de uma avaliação de riscos, as medidas referidas no n.º 1 para proteger os dados pessoais contra a destruição acidental ou ilícita e a perda acidental, e para evitar qualquer forma de tratamento ilícito, em especial a divulgação, a difusão, ou o acesso, não autorizados, ou a alteração de dados pessoais."
+		},
+		{
+			"lang": "it",
+			"text": "Previa valutazione dei rischi, il responsabile del trattamento e l’incaricato del trattamento prendono le misure di cui al paragrafo 1 per proteggere i dati personali dalla distruzione accidentale o illegale o dalla perdita accidentale e per impedire qualsiasi forma illegittima di trattamento, in particolare la comunicazione, la divulgazione o l’accesso non autorizzati o la modifica dei dati personali."
+		},
+		{
+			"lang": "ga",
+			"text": "Déanfaidh an rialaitheoir agus an próiseálaí na bearta dá dtagraítear i mír 1, tar éis measúnú riosca a dhéanamh, chun sonraí pearsanta a chosaint i gcoinne díothú de thaisme nó díothú neamhdhleathach nó i gcoinne cailleadh de thaisme agus chun próiseáil neamhdhleathach a chosc, go háirithe nochtadh nó scaipeadh neamhúdaraithe aon sonraí pearsanta, nó rochtain neamhúdaraithe orthu, nó aon athrú neamhúdaraithe ar shonraí pearsanta."
+		},
+		{
+			"lang": "cs",
+			"text": "Správce a zpracovatel přijmou po vyhodnocení rizik opatření podle odstavce 1, aby ochránili osobní údaje před náhodným či nepovoleným zničením nebo před náhodnou ztrátou a aby předešli jakýmkoli nepovoleným formám zpracování, zejména nedovolenému sdělování či šíření osobních údajů, přístupu k nim nebo jejich pozměnění."
+		},
+		{
+			"lang": "da",
+			"text": "Efter en evaluering af risiciene træffer den registeransvarlige og registerføreren foranstaltninger som omhandlet i stk. 1 for at beskytte personoplysninger mod hændelig eller ulovlig tilintetgørelse eller hændeligt tab og for at forhindre enhver form for ulovlig behandling, navnlig ubeføjet videregivelse, udbredelse eller adgang, eller ændring af personoplysninger."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja ja volitatud töötleja rakendavad riskianalüüsi alusel lõikes 1 osutatud tehnilisi ja organisatsioonilisi meetmeid, et kaitsta isikuandmeid juhusliku ja ebaseadusliku hävimise ning juhusliku kadumise ja muutmise eest ning vältida igasugust ebaseaduslikku töötlemist, eriti loata avalikustamist, levitamist ja juurdepääsu."
+		},
+		{
+			"lang": "el",
+			"text": "Κατόπιν αξιολόγησης των κινδύνων, ο υπεύθυνος επεξεργασίας και ο εκτελών την επεξεργασία λαμβάνουν τα μέτρα που αναφέρονται στην παράγραφο 1 για την προστασία των δεδομένων προσωπικού χαρακτήρα κατά της τυχαίας ή παράνομης καταστροφής ή της τυχαίας απώλειας, καθώς και για την αποφυγή κάθε παράνομης μορφής επεξεργασίας, ιδίως δε κάθε μη εξουσιοδοτημένης κοινοποίησης, διάδοσης ή πρόσβασης ή αλλοίωσης των δεδομένων προσωπικού χαρακτήρα."
+		},
+		{
+			"lang": "bg",
+			"text": "След извършване на оценка на рисковете администраторът и обработващият лични данни предприемат посочените в параграф 1 мерки за защита на личните данни срещу случайно или неправомерно унищожаване или случайна загуба, както и за предотвратяване на всякакви неправомерни форми на обработване, по-специално на неразрешено разкриване, разпространение или достъп, или промяна на личните данни."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő és az adatfeldolgozó a kockázatok értékelését követően végrehajtja az (1) bekezdés szerinti intézkedéseket a személyes adatok véletlen vagy jogellenes megsemmisülése vagy véletlen elvesztése elleni védelme, valamint a feldolgozás jogellenes formáinak, különösen a személyes adatok jogosulatlan nyilvánosságra hozatalának, terjesztésének vagy az azokhoz való hozzáférésnek vagy azok megváltoztatásának megelőzése érdekében."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur u l-proċessur għandhom, wara valutazzjoni tar-riskji, jieħdu l-miżuri msemmija fil-paragrafu 1 sabiex jipproteġu dejta personali kontra l-qerda aċċidentali jew illegali jew it-telf aċċidentali u sabiex jipprevjenu kull forma illegali ta’ pproċessar, b’mod partikolari kull żvelar, tixrid jew aċċess mhux awtorizzat, jew it-tibdil ta’ dejta personali."
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinis un apstrādātājs pēc tam, kad ir novērtēti riski, īsteno 1. punktā minētos pasākumus, lai aizsargātu personas datus pret nejaušu vai nelikumīgu iznīcināšana un nejaušu nozaudēšanu un novērstu jebkāda veida nelikumīgu apstrādi, jo īpaši neatļautu izpaušanu, izplatīšanu vai piekļuvi, vai personas datu pārveidošanu."
+		},
+		{
+			"lang": "ro",
+			"text": "În urma unei evaluări a riscurilor, operatorul și persoana împuternicită de operator adoptă măsurile prevăzute la alineatul (1) pentru protejarea datelor cu caracter personal împotriva distrugerii accidentale sau ilegale ori a pierderii accidentale, și pentru prevenirea oricărei forme de prelucrare ilegală, în special divulgarea, accesul sau diseminarea neautorizată ori modificarea datelor cu caracter personal."
+		},
+		{
+			"lang": "sk",
+			"text": "Na základe vyhodnotenia príslušných rizík prevádzkovateľ a sprostredkovateľ prijmú opatrenia uvedené v odseku 1 na ochranu osobných údajov pred ich náhodnou alebo protizákonnou likvidáciou alebo náhodnou stratou a s cieľom predísť akýmkoľvek nezákonným formám spracovania, najmä akémukoľvek neoprávnenému zverejneniu, sprístupneniu alebo pozmeňovaniu osobných údajov."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec in obdelovalec po oceni tveganj izvedeta ukrepe iz odstavka 1, da bi osebne podatke zaščitila pred naključnim ali nezakonitim uničenjem ali naključno izgubo ter preprečila morebitne nezakonite oblike obdelave, zlasti nepooblaščeno razkritje, širjenje ali dostop do osebnih podatkov oziroma njihovo predelavo."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän ja henkilötietojen käsittelijän on toteutettava riskinarvioinnin pohjalta 1 kohdassa tarkoitetut toimenpiteet henkilötietojen suojaamiseksi vahingossa tapahtuvalta tai laittomalta tuhoamiselta tai vahingossa tapahtuvalta häviämiseltä sekä lainvastaisen käsittelyn ja erityisesti luvattoman luovuttamisen, levittämisen tai tiedonsaannin taikka henkilötietojen muuttamisen estämiseksi."
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator i podmiot przetwarzający, po dokonaniu oceny ryzyk, podejmują środki, o których mowa w ust. 1, by chronić dane osobowe przed ich przypadkowym lub niezgodnym z prawem zniszczeniem bądź przypadkową utratą oraz by zapobiec wszelkim innym formom niezgodnego z prawem przetwarzania, w szczególności nieuprawnionemu ujawnieniu, rozpowszechnieniu, dostępowi lub zmianie danych osobowych."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas ir duomenų tvarkytojas, įvertinę riziką, imasi 1 dalyje nurodytų priemonių, kad apsaugotų asmens duomenis nuo netyčinio ar neteisėto sunaikinimo arba netyčinio praradimo ir užkirstų kelią bet kokio pobūdžio neteisėtam duomenų tvarkymui, visų pirma asmens duomenų neleistinam atskleidimui, platinimui ar susipažinimui su jais arba jų pakeitimui."
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke en de verwerker nemen, na een evaluatie van de risico’s, de in lid 1 bedoelde maatregelen ter bescherming van persoonsgegevens tegen vernietiging, hetzij per ongeluk, hetzij onrechtmatig, of tegen verlies en om andere vormen van onrechtmatige verwerking te voorkomen, met name ongeoorloofde verstrekking of verspreiding van, toegang tot, of wijziging van persoonsgegevens."
+		},
+		{
+			"lang": "sv",
+			"text": "Efter en bedömning av riskerna ska den registeransvarige och registerföraren vidta de åtgärder som avses i punkt 1 för att skydda personuppgifter från förstöring genom olyckshändelse eller otillåtna handlingar eller förlust genom olyckshändelse och för att förhindra otillåten behandling, särskilt obehörigt röjande, obehörig spridning eller åtkomst, eller ändringar av personuppgifter."
+		}
+	],
+	"children": [],
+	"title": "Article 30 – Paragraph 2"
+}

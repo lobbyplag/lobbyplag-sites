@@ -1,0 +1,102 @@
+{
+	"id": "a81p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a81",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Processing of personal data concerning health which is necessary for historical, statistical or scientific research purposes, such as patient registries set up for improving diagnoses and differentiating between similar types of diseases and preparing studies for therapies, is subject to the conditions and safeguards referred to in Article 83."
+		},
+		{
+			"lang": "de",
+			"text": "Die Verarbeitung personenbezogener Gesundheitsdaten, die zu historischen oder statistischen Zwecken oder zum Zwecke der wissenschaftlichen Forschung unter anderem zur Erstellung von Patientenregistern zur Verbesserung der Diagnose sowie zur Unterscheidung zwischen ähnlichen Krankheitsarten und zur Vorbereitung von Studien zu Therapiezwecken erforderlich ist, unterliegt den Bedingungen und Garantien gemäß Artikel 83."
+		},
+		{
+			"lang": "fr",
+			"text": "Les traitements de données à caractère personnel relatives à la santé qui sont nécessaires à des fins de recherche historique, statistique ou scientifique, tels que les registres de patients établis pour améliorer les diagnostics, distinguer entre des types de maladies similaires et préparer des études en vue de thérapies sont soumis aux conditions et aux garanties énoncées à l'article 83."
+		},
+		{
+			"lang": "es",
+			"text": "El tratamiento de datos personales relativos a la salud que sea necesario para los fines de la investigación histórica, estadística o científica, como el establecimiento de registros de pacientes con el fin de mejorar el diagnóstico, distinguir entre tipos de enfermedades similares y preparar estudios para terapias, estará supeditado al cumplimiento de las condiciones y garantías contempladas en el artículo 83."
+		},
+		{
+			"lang": "pt",
+			"text": "O tratamento de dados pessoais no domínio da saúde que se revele necessário para fins de investigação histórica, estatística ou científica, como a criação de registos de doentes para melhoria de diagnósticos, distinguir entre tipos de doenças semelhantes e elaborar estudos para terapias, estão sujeitos às condições e garantias previstas no artigo 83.º."
+		},
+		{
+			"lang": "it",
+			"text": "Il trattamento di dati personali relativi alla salute che risulti necessario per finalità storiche, statistiche o di ricerca scientifica, come la creazione di registri dei pazienti per migliorare le diagnosi, distinguere tra tipi simili di malattie e condurre studi sulle terapie, è soggetto alle condizioni e garanzie di cui all’articolo 83."
+		},
+		{
+			"lang": "ga",
+			"text": "Aon phróiseáil sonraí pearsanta maidir le sláinte atá de dhíth chun críocha taighde stairiúil, staidrimh nó eolaíoch, amhail cláir othar arna mbunú chun diagnóisí a fheabhsú, chun éagsúlú a dhéanamh idir cineálacha cosúla galar agus chun staidéir a ullmhú le haghaidh teiripí, tá an phróiseáil sin faoi réir na gcoinníollacha agus na gcosaintí dá dtagraítear in Airteagal 83."
+		},
+		{
+			"lang": "cs",
+			"text": "Na zpracovávání osobních údajů o zdravotním stavu, jež je zapotřebí pro účely historiografického, statistického či vědeckého výzkumu, například v souvislosti se zřizováním rejstříků pacientů za účelem zlepšování diagnostiky a rozlišování mezi podobnými typy nemocí a za účelem přípravy terapeutických studií, se vztahují podmínky a záruky uvedené v článku 83."
+		},
+		{
+			"lang": "da",
+			"text": "Behandling af personoplysninger, der er nødvendig til historiske, statistiske eller videnskabelige forskningsformål, f.eks. patientregistre, der oprettes for at forbedre diagnosticering og differentiering af lignende sygdomstyper samt forberedelse af forsøgsbehandlinger, er underlagt de betingelser og garantier, der er omhandlet i artikel 83."
+		},
+		{
+			"lang": "et",
+			"text": "Terviseandmete töötlemise puhul, mis on vajalik ajaloo- ja statistikauurimuste ning teadustöö eesmärgil, näiteks patsientide registrite loomine, et parandada diagnoosimist ja eristada sarnast tüüpi haigusi ja valmistada ette ravivõimaluste uuringuid, kohaldatakse artiklis 83 osutatud tingimusi ja kaitsemeetmeid."
+		},
+		{
+			"lang": "el",
+			"text": "Η επεξεργασία δεδομένων προσωπικού χαρακτήρα που αφορούν την υγεία η οποία είναι απαραίτητη για ιστορικούς και στατιστικούς σκοπούς ή για σκοπούς επιστημονικής έρευνας, όπως τα μητρώα ασθενών που συστήνονται για τη βελτίωση των διαγνώσεων και τη διαφοροποίηση μεταξύ παρόμοιων τύπων ασθενειών και την εκπόνηση μελετών για θεραπείες, υπόκειται στις προϋποθέσεις και στις εγγυήσεις που αναφέρονται στο άρθρο 83."
+		},
+		{
+			"lang": "bg",
+			"text": "Обработването на лични данни за здравословното състояние, което е необходимо за исторически, статистически или научноизследователски цели като списъци на пациенти, изготвени с цел подобряване на диагностиката, разграничаване на сходни по вид заболявания и подготвяне на изследвания за терапии, подлежи на условията и гаранциите, посочени в член 83."
+		},
+		{
+			"lang": "hu",
+			"text": "Az egészségügyi vonatkozású személyes adatok történelmi, statisztikai vagy tudományos kutatási célú feldolgozására, mint például a diagnózisok fejlesztése és a hasonló betegségek megkülönböztetése és terápiás tanulmányok előkészítése céljából betegnyilvántartások létrehozatala, a 83. cikk szerinti feltételeket és biztosítékokat kell alkalmazni."
+		},
+		{
+			"lang": "mt",
+			"text": "L-ipproċessar tad-dejta personali li jirrigwarda s-saħħa huwa meħtieġ għal skopijiet ta’ riċerka storika, xjentifika u ta’ statistika bħar-reġistri tal-pazjenti stabbiliti għat-titjib ta’ dijanjożi u d-divrenzar bejn tipi simili ta’ mard u t-tħejjija tal-istudji għat-terapiji, huwa soġġett għall-kundizzjonijiet u s-salvagwardji msemmija fl-Artikolu 83."
+		},
+		{
+			"lang": "lv",
+			"text": "Personas veselības datu apstrādei, kas ir nepieciešama vēstures, statistikas vai zinātniskās izpētes nolūkos, piemēram, pacientu reģistri, kas izveidoti, lai uzlabotu diagnosticēšanu un nošķirtu līdzīgus slimību veidus, un sagatavotu pētījumus ārstēšanas vajadzībām, piemēro 82. pantā minētos nosacījumus un aizsardzības pasākumus."
+		},
+		{
+			"lang": "ro",
+			"text": "Prelucrarea datelor cu caracter personal privind sănătatea, care este necesară în scopuri de cercetare istorică, statistică sau științifică, cum ar fi registrele de pacienți instituite pentru îmbunătățirea stabilirii diagnosticului și diferențierea între tipuri similare de boli, precum și pentru pregătirea de studii pentru terapii, face obiectul condițiilor și măsurilor de garantare prevăzute la articolul 83."
+		},
+		{
+			"lang": "sk",
+			"text": "Spracúvanie osobných údajov týkajúcich sa zdravia, ktoré je potrebné na historické, štatistické alebo vedeckovýskumné účely a medzi ktoré patria registre pacientov vytvorené na zlepšenie diagnostiky a rozlišovanie medzi podobnými typmi chorôb a na prípravu štúdií na liečbu, podlieha podmienkam a zárukám uvedeným v článku 83."
+		},
+		{
+			"lang": "sl",
+			"text": "Za obdelavo osebnih podatkov v zvezi z zdravjem, ki je potrebna v zgodovinske, statistične ali znanstvenoraziskovalne namene, kot so registri pacientov, uvedeni zaradi izboljšanja diagnoz in za razlikovanje med podobnimi vrstami bolezni ter pripravo študij za terapije, veljajo pogoji in zaščitni ukrepi iz člena 83."
+		},
+		{
+			"lang": "fi",
+			"text": "Terveyttä koskevien henkilötietojen käsittelyyn, joka on tarpeen historiantutkimusta taikka tilastollisia tai tieteellisiä tutkimustarkoituksia varten, esimerkiksi diagnoosien parantamista varten perustettavia potilasrekistereitä ja samantyyppisten sairauksien erottamiseksi toisistaan tai selvitysten laatimiseksi hoitoja varten, sovelletaan 83 artiklassa tarkoitettuja edellytyksiä ja takeita."
+		},
+		{
+			"lang": "pl",
+			"text": "Przetwarzanie danych osobowych dotyczących zdrowia, które jest niezbędne do celów dokumentacji, statystyki i badań naukowych, takie jak prowadzenie rejestrów pacjentów założonych w celu udoskonalenia diagnostyki i rozróżnienia między podobnymi rodzajami chorób i przygotowania opracowań dotyczących terapii, podlega warunkom i gwarancjom, o których mowa w art. 83."
+		},
+		{
+			"lang": "lt",
+			"text": "Asmens sveikatos duomenų tvarkymui, būtinam istoriniais, statistiniais arba mokslinių tyrimų tikslais, kaip antai pacientų registrai, kurie sukurti siekiant gerinti diagnozes ir atskirti panašių rūšių ligas, taip pat rengti gydymo tyrimus, taikomos 83 straipsnyje nurodytos sąlygos ir apsaugos priemonės."
+		},
+		{
+			"lang": "nl",
+			"text": "De verwerking van persoonsgegevens over gezondheid die noodzakelijk is voor historische, statistische of wetenschappelijke doeleinden, zoals patiëntenregisters om de diagnoses te verbeteren, soortgelijke typen ziekten te onderscheiden en studies voor therapieën voor te bereiden, is onderworpen aan de in artikel 83 genoemde voorwaarden en waarborgen."
+		},
+		{
+			"lang": "sv",
+			"text": "Behandling av personuppgifter om en registrerads hälsotillstånd som är nödvändig för historiska, statistiska eller vetenskapliga forskningsändamål, såsom patientregister som upprättas för att förbättra diagnoser, göra åtskillnad mellan likartade typer av sjukdomar och förbereda undersökningar om terapimetoder, omfattas av de villkor och skyddsåtgärder som avses i artikel 83."
+		}
+	],
+	"children": [],
+	"title": "Article 81 – Paragraph 2"
+}

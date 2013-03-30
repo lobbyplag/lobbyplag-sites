@@ -1,0 +1,102 @@
+{
+	"id": "r118",
+	"type": "recital",
+	"literal": "118",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Any damage which a person may suffer as a result of unlawful processing should be compensated by the controller or processor, who may be exempted from liability if they prove that they are not responsible for the damage, in particular where he establishes fault on the part of the data subject or in case of force majeure."
+		},
+		{
+			"lang": "de",
+			"text": "Schäden, die einer Person aufgrund einer rechtswidrigen Verarbeitung entstehen, sollten von dem für die Verarbeitung Verantwortlichen oder dem Auftragsverarbeiter ersetzt werden, die von ihrer Haftung befreit werden können, wenn sie nachweisen, dass ihnen der Schaden nicht angelastet werden kann, insbesondere weil ein Fehlverhalten der betroffenen Person oder ein Fall höherer Gewalt vorliegt."
+		},
+		{
+			"lang": "fr",
+			"text": "Tout dommage qu'une personne pourrait subir du fait d'un traitement illicite devrait être réparé par le responsable du traitement ou le sous‑traitant, qui peut cependant s'exonérer de sa responsabilité s'il prouve que le dommage ne lui est pas imputable, notamment s'il établit l'existence d'une faute de la personne concernée, ou en cas de force majeure."
+		},
+		{
+			"lang": "es",
+			"text": "Cualquier perjuicio que pueda sufrir una persona como consecuencia de un tratamiento ilícito debe ser compensado por el responsable o el encargado del tratamiento, que pueden quedar exentos de responsabilidad si demuestran que no son responsables del perjuicio, en particular si acreditan la conducta culposa del interesado o en caso de fuerza mayor."
+		},
+		{
+			"lang": "pt",
+			"text": "Qualquer dano de que uma pessoa possa ser vítima em virtude de um tratamento ilícito deve ser ressarcido pelo responsável pelo tratamento, ou pelo subcontratante, que no entanto pode ser exonerado da sua responsabilidade se provar que o facto que causou o dano não lhe é imputável, nomeadamente se provar que o dano é imputável à pessoa em causa ou em caso de força maior."
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento o l’incaricato del trattamento deve risarcire i danni cagionati da un trattamento illecito ma può essere esonerato da tale responsabilità se prova che l’evento dannoso non gli è imputabile, segnatamente se dimostra che a causare l’errore è stato l’interessato o in caso di forza maggiore."
+		},
+		{
+			"lang": "ga",
+			"text": "Aon damáiste a fhéadfaidh duine a fhulaingt de bharr próiseáil neamhdhleathach, ba cheart don rialaitheoir nó don phróiseálaí é sin a chúiteamh, ach féadfar an rialaitheoir nó an próiseálaí a dhíolmhú ón dliteanas má chruthaíonn sé nach bhfuil sé freagrach as an damáiste, go háirithe i gcás ina gcruthaíonn sé gur ar an duine is ábhar do na sonraí atá an locht nó i gcás force majeure."
+		},
+		{
+			"lang": "cs",
+			"text": "Veškeré škody, které mohou vzniknout osobám v důsledku protiprávního zpracování by měly být nahrazeny správcem nebo zpracovatelem, který může být zproštěn své odpovědnosti, pokud prokáže, že vznik škody mu nelze přičítat, zejména pokud prokáže chybu subjektu údajů nebo případ vyšší moci."
+		},
+		{
+			"lang": "da",
+			"text": "Personer, der lider skade som følge af en ulovlig behandling, bør have ret til erstatning fra den registeransvarlige eller registerføreren. Denne kan fritages for erstatningsansvar, hvis det bevises, at han ikke er skyld i den forvoldte skade, navnlig hvis der kan henvises til en fejl fra den registreredes side eller et tilfælde af force majeure."
+		},
+		{
+			"lang": "et",
+			"text": "Igasuguse kahju, mida üksikisikule võib põhjustada ebaseaduslik töötlemine, peaks kompenseerima vastutav töötleja või volitatud töötleja, kuid ta võidakse sellest kohustusest vabastada, kui ta tõestab, et ta ei ole kahju eest vastutav, seda eelkõige andmesubjekti süü või vääramatu jõu korral."
+		},
+		{
+			"lang": "el",
+			"text": "Κάθε ζημία την οποία υφίσταται ένα πρόσωπο ως αποτέλεσμα παράνομης επεξεργασίας πρέπει να αποτελεί αντικείμενο αποζημίωσης από τον υπεύθυνο επεξεργασίας ή τον εκτελούντα την επεξεργασία, οι οποίοι μπορεί να απαλλάσσονται από την υποχρέωση αποζημίωσης εάν αποδεικνύουν ότι δεν ευθύνονται για τη ζημία, ιδίως δε εάν αποδεικνύουν υπαιτιότητα του προσώπου στο οποίο αναφέρονται τα δεδομένα ή σε περίπτωση ανωτέρας βίας."
+		},
+		{
+			"lang": "bg",
+			"text": "Всички вреди, които дадено лице може да претърпи в резултат на неправомерно обработване на данни, следва да бъдат обезщетени от администратора или обработващия лични данни, който може да бъде освободен от отговорност, ако докаже, че не е отговорен за вредите, и по-специално когато установи вина от страна на субекта на данни или в случай на непреодолима сила."
+		},
+		{
+			"lang": "hu",
+			"text": "A jogellenes adatfeldolgozás miatt esetlegesen kárt szenvedett személy kártérítését az adatkezelőnek vagy -feldolgozónak kell állnia, aki/amely akkor mentesül a felelősség alól, ha bizonyítja, hogy a kárért nem őt terheli a felelősség, így különösen az érintett felróható magatartásának megállapítása, vagy vis maior esetén."
+		},
+		{
+			"lang": "mt",
+			"text": "Kwalunkwe ħsara li tista’ ssofri persuna b’riżultat ta’ pproċessar illegali għandha tiġi kkumpensata mill-kontrollur jew mill-proċessur, li jistgħu jkunu eżenti mir-responsabbiltà jekk iġibu provi li huma mhumiex responsabbli għall-ħsara, b’mod partikolari jekk jistabbilixxu tort min-naħa tas-suġġett tad-dejta jew f’każ ta’ forza maġġuri."
+		},
+		{
+			"lang": "lv",
+			"text": "Jebkurus zaudējumus, kurus persona var ciest nelikumīgas apstrādes rezultātā, būtu jākompensē pārzinim vai apstrādātājam, kuru var atbrīvot no atbildības, ja tas pierāda, ka nav atbildīgs par zaudējumiem, īpaši gadījumos, kad tas konstatē datu subjekta vainu vai force majeure gadījumā."
+		},
+		{
+			"lang": "ro",
+			"text": "Orice daună pe care o persoană o poate suferi din cauza unei prelucrări ilegale ar trebui să fie compensată de operator sau de persoana împuternicită de către operator, care poate fi exonerat(ă) de răspundere dacă dovedește că nu este răspunzător (răspunzătoare) pentru prejudiciu, în special în cazul în care acesta (aceasta) stabilește vina persoanei vizate sau în caz de forță majoră."
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ alebo sprostredkovateľ by mali nahradiť akúkoľvek škodu, ktorú určitá osoba utrpela v dôsledku nezákonného spracovania, môžu však byť úplne alebo čiastočne zbavení tejto zodpovednosti, ak poskytnú dôkaz o tom, že nenesú zodpovednosť za škodu, a to najmä vtedy, keď zistia pochybenie dotknutej osoby, alebo v prípade vyššej moci."
+		},
+		{
+			"lang": "sl",
+			"text": "Vso škodo, ki jo oseba lahko utrpi zaradi nezakonite obdelave, bi moral povrniti upravljavec ali obdelovalec, vendar mu tega ni treba storiti, če dokaže, da ni odgovoren za škodo, predvsem kadar ugotovi napako na strani posameznika, na katerega se nanašajo osebni podatki, ali v primeru višje sile."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän tai henkilötietojen käsittelijän olisi korvattava yksilöille lainvastaisen tietojenkäsittelyn vuoksi mahdollisesti aiheutuneet vahingot, mutta rekisterinpitäjä tai henkilötietojen käsittelijä voidaan vapauttaa korvausvelvollisuudesta, jos ne osoittavat, etteivät ole vastuussa vahingosta, ja erityisesti, jos ne osoittavat rekisteröidyn tehneen virheen tai jos kyseessä on ylivoimainen este."
+		},
+		{
+			"lang": "pl",
+			"text": "Szkoda, jaką dana osoba może ponieść wskutek niezgodnego z prawem przetwarzania danych, powinna zostać naprawiona przez administratora lub podmiot przetwarzający, który może być zwolniony z odpowiedzialności w przypadku dowiedzenia, że szkoda nie powstała z jego winy, szczególnie wówczas gdy udowodni winę podmiotu danych lub w przypadku siły wyższej."
+		},
+		{
+			"lang": "lt",
+			"text": "bet kokią žalą, kurią asmuo gali patirti dėl neteisėto duomenų tvarkymo, turėtų atlyginti duomenų valdytojas arba tvarkytojas, kurie gali būti atleisti nuo atsakomybės, jeigu įrodo, kad nėra atsakingi už žalą, visų pirma, kai nustatyta duomenų subjekto kaltė arba nenugalimos jėgos atveju;"
+		},
+		{
+			"lang": "nl",
+			"text": "De schade die betrokkenen ten gevolge van een onrechtmatige verwerking kunnen lijden, moet worden vergoed door de voor de verwerking verantwoordelijke of de verwerker, die van zijn aansprakelijkheid kan worden vrijgesteld indien hij bewijst dat het schade veroorzakende feit hem niet kan worden toegerekend, met name wanneer hij aantoont dat er sprake is van een fout van de betrokkene of van overmacht."
+		},
+		{
+			"lang": "sv",
+			"text": "Personer som lider skada till följd av otillåten behandling bör ha rätt till ersättning av registeransvariga eller registerförare, som dock kan befrias från skadeståndsskyldighet om de kan visa att de inte är ansvariga för skadan, särskilt om de kan påvisa att ett fel begåtts av den registrerade eller om det föreligger ett fall av force majeure."
+		}
+	],
+	"children": [],
+	"title": "Recital 118"
+}

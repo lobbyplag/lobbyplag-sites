@@ -1,0 +1,102 @@
+{
+	"id": "r5",
+	"type": "recital",
+	"literal": "5",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Rapid technological developments and globalisation have brought new challenges for the protection of personal data. The scale of data sharing and collecting has increased spectacularly. Technology allows both private companies and public authorities to make use of personal data on an unprecedented scale in order to pursue their activities. Individuals increasingly make personal information available publicly and globally. Technology has transformed both the economy and social life, and requires to further facilitate the free flow of data within the Union and the transfer to third countries and international organisations, while ensuring an high level of the protection of personal data."
+		},
+		{
+			"lang": "de",
+			"text": "Der rasche technologische Fortschritt und die Globalisierung stellen den Datenschutz vor neue Herausforderungen. Das Ausmaß, in dem Daten ausgetauscht und erhoben werden, ist dramatisch gestiegen. Die Technik macht es möglich, dass Privatwirtschaft und Staat zur Ausübung ihrer Tätigkeiten in einem noch nie dagewesenen Umfang auf personenbezogene Daten zugreifen können. Zunehmend werden auch private Informationen ins weltweite Netz gestellt und damit öffentlich zugänglich gemacht. Die Technik hat das wirtschaftliche und gesellschaftliche Leben verändert, weshalb der Datenverkehr innerhalb der Union sowie die Datenübermittlung an Drittländer und internationale Organisationen noch weiter erleichtert werden muss, wobei gleichzeitig ein hohes Maß an Datenschutz zu gewährleisten ist."
+		},
+		{
+			"lang": "fr",
+			"text": "La rapide évolution des technologies et la mondialisation ont créé de nouveaux enjeux pour la protection des données à caractère personnel. La collecte et le partage de données ont connu une augmentation spectaculaire. Les nouvelles technologies permettent tant aux entreprises privées qu’aux pouvoirs publics d’utiliser les données à caractère personnel comme jamais auparavant dans le cadre de leurs activités. De plus en plus de personnes physiques rendent des informations les concernant accessibles à tout un chacun, où qu’il se trouve dans le monde. Les nouvelles technologies ont ainsi transformé l’économie et les rapports sociaux, et elles exigent de faciliter davantage la libre circulation des données au sein de l’Union et leur transfert vers des pays tiers et à des organisations internationales, tout en assurant un niveau élevé de protection des données à caractère personnel."
+		},
+		{
+			"lang": "es",
+			"text": "La rápida evolución tecnológica y la globalización han supuesto nuevos retos para la protección de los datos personales. Se ha incrementado de manera espectacular la magnitud del intercambio y la recogida de datos. La tecnología permite que tanto las empresas privadas como las autoridades públicas utilicen datos personales en una escala sin precedentes a la hora de desarrollar sus actividades. Los individuos difunden un volumen cada vez mayor de información personal a escala mundial. La tecnología ha transformado tanto la economía como la vida social, y requiere que se facilite aún más la libre circulación de datos dentro de la Unión y la transferencia a terceros países y organizaciones internacionales, garantizando al mismo tiempo un elevado nivel de protección de los datos personales."
+		},
+		{
+			"lang": "pt",
+			"text": "A rápida evolução tecnológica e a globalização criaram novos desafios em matéria de proteção de dados pessoais. A partilha e a recolha de dados registaram um espetacular aumento. As novas tecnologias permitem às empresas privadas e às entidades públicas a utilização de dados pessoais numa escala sem precedentes no exercício das suas atividades. As pessoas disponibilizam cada vez mais as suas informações pessoais de uma forma pública e global. As novas tecnologias transformaram a economia e a vida social, e exigem maior facilidade na livre circulação de dados na União e na transferência para países terceiros e organizações internacionais, assegurando simultaneamente um elevado nível de proteção dos dados pessoais."
+		},
+		{
+			"lang": "it",
+			"text": "La rapidità dell’evoluzione tecnologica e la globalizzazione comportano anche nuove sfide per la protezione dei dati personali. La portata della condivisione e della raccolta di dati è aumentata in modo vertiginoso; la tecnologia attuale consente alle imprese private quanto alle autorità pubbliche di utilizzare dati personali, come mai in precedenza, nello svolgimento delle loro attività e, sempre più spesso, gli stessi privati rendono pubbliche sulla rete mondiale informazioni personali che li riguardano. Le nuove tecnologie hanno trasformato non solo l’economia ma anche le relazioni sociali e impongono che si faciliti ancora di più la libera circolazione dei dati all’interno dell’Unione e il loro trasferimento verso paesi terzi e organizzazioni internazionali; al tempo stesso, però, occorre garantire un elevato livello di protezione dei dati personali."
+		},
+		{
+			"lang": "ga",
+			"text": "Tá forbairtí móra meara teicneolaíocha agus domhandú tar éis dúshláin nua a chruthú do chosaint sonraí pearsanta. Tá méadú as cuimse tagtha ar chomhroinnt agus ar bhailiú sonraí. A bhuí leis an teicneolaíocht, is féidir le cuideachtaí príobháideacha agus le húdaráis phoiblí sonraí pearsanta a úsáid ar scála níos mó ná riamh roimhe chun a gcuid gníomhaíochtaí a shaothrú. Tá méadú ag teacht i gcónaí ar an méid faisnéise pearsanta a chuireann daoine aonair ar fáil go poiblí agus ar fud an domhain. Tá an geilleagar agus ár saol sóisialta athruithe ó bhonn ag an teicneolaíocht agus mar gheall uirthi is gá an saorshreabhadh sonraí laistigh den Aontas agus aistriú sonraí go tríú tíortha agus go heagraíochtaí idirnáisiúnta a éascú tuilleadh, chomh maith le leibhéal ard cosanta a áirithiú maidir le sonraí pearsanta."
+		},
+		{
+			"lang": "cs",
+			"text": "Rychlý technologický rozvoj a globalizace s sebou přinesly nové výzvy pro oblast ochrany osobních údajů. Objem sdílených a sbíraných údajů dramaticky vzrostl. Technologie umožňují jak soukromým společnostem, tak orgánům veřejné moci využívat při provádění jejich činností osobní údaje v nebývalém rozsahu. Jednotlivé osoby stále častěji zveřejňují své osobní údaje i v globálním měřítku. Technologie změnily ekonomiku i společenský život a vyžadují další zjednodušení volného pohybu údajů v rámci Unie a předávání do třetích zemí a mezinárodním organizacím a zároveň zajištění vysoké úrovně ochrany osobních údajů."
+		},
+		{
+			"lang": "da",
+			"text": "Den hastige teknologiske udvikling og globaliseringen har skabt nye udfordringer, hvad angår beskyttelsen af personoplysninger. Omfanget af datadeling og -indsamling er steget drastisk. Teknologien giver både private virksomheder og offentlige myndigheder mulighed for at udnytte personoplysninger i et hidtil uset omfang, når de udøver deres aktiviteter. Fysiske personer udbreder i stigende grad deres personoplysninger offentligt og globalt. Teknologien har ændret både økonomien og samfundslivet og skal yderligere fremme den frie udveksling af oplysninger inden for Unionen og videregivelsen af oplysninger til tredjelande og internationale organisationer, samtidig med at der sikres et højt niveau for beskyttelse af personoplysninger."
+		},
+		{
+			"lang": "et",
+			"text": "Kiire tehnoloogiline areng ja üleilmastumine tekitavad isikuandmete kaitsel uusi probleeme. Andmete jagamise ja kogumise ulatus on märkimisväärselt suurenenud. Tehnoloogia võimaldab nii era- kui ka avaliku sektori asutustel kasutada isikuandmeid oma eesmärkide saavutamiseks enneolematus ulatuses. Üksikisikud avaldavad isikuandmeid üha avalikumalt ja ülemaailmsemalt. Tehnoloogia on põhjalikult muutnud nii majandust kui ka ühiskondlikku elu ja nõuab ELi-sisese andmete liikumise ning nende kolmandatesse riikidesse ja rahvusvahelisele organisatsioonile edastamise täiendavat hõlbustamist, tagades samas isikuandmete kõrgetasemelise kaitse."
+		},
+		{
+			"lang": "el",
+			"text": "Οι ραγδαίες τεχνολογικές εξελίξεις και η παγκοσμιοποίηση δημιούργησαν νέες προκλήσεις για την προστασία των δεδομένων προσωπικού χαρακτήρα. Η κλίμακα της ανταλλαγής και της συλλογής δεδομένων αυξήθηκε εντυπωσιακά. Η τεχνολογία επιτρέπει τόσο σε ιδιωτικές επιχειρήσεις όσο και σε δημόσιες αρχές να κάνουν χρήση δεδομένων προσωπικού χαρακτήρα σε πρωτόγνωρη κλίμακα για την επιδίωξη των δραστηριοτήτων τους. Τα φυσικά πρόσωπα καθιστούν ολοένα και περισσότερο δημόσια διαθέσιμες προσωπικές πληροφορίες παγκοσμίως. Η τεχνολογία έχει αλλάξει τόσο την οικονομία όσο και την κοινωνική ζωή και απαιτεί την περαιτέρω διευκόλυνση της ελεύθερης ροής δεδομένων εντός της Ένωσης και της διαβίβασης σε τρίτες χώρες και διεθνείς οργανισμούς, διασφαλίζοντας παράλληλα υψηλό επίπεδο προστασίας των δεδομένων προσωπικού χαρακτήρα."
+		},
+		{
+			"lang": "bg",
+			"text": "Бързото технологично развитие и глобализацията изправиха защитата на личните данни пред нови предизвикателства. Забележително нарасна мащабът на обмена и събирането на данни. Технологиите позволяват на частните дружества и публичните органи да използват лични данни в безпрецедентни мащаби, за да упражняват дейността си. Хората все по-често предоставят лична информация в публичното и световното пространство. Технологиите преобразиха както икономическия, така и социалния живот, като това налага да бъде улеснено още повече свободното движение на данни в Съюза и предаването на данни до трети държави и международни организации, като същевременно се гарантира високо ниво на защита на личните данни."
+		},
+		{
+			"lang": "hu",
+			"text": "A gyors technológiai fejlődés és a globalizáció új kihívások elé állította a személyes adatok védelmét. Az adatmegosztás és -gyűjtés mértéke ugrásszerűen megnőtt. A technológia a magánvállalatok és a hatóságok számára minden eddiginél nagyobb mértékben teszi lehetővé, hogy tevékenységük ellátása érdekében személyes adatokat használjanak fel. Az egyének egyre nagyobb mértékben hoznak nyilvánosságra és tesznek globális szinten elérhetővé személyes információkat. A technológia egyaránt megváltoztatta a gazdaságot és a társadalmi életet, szükségessé téve az Unión belüli szabad adatáramlás és a harmadik országok és nemzetközi szervezetek részére történő adattovábbítás egyszerűbbé tételét, biztosítva egyúttal a személyes adatok magas szintű védelmét."
+		},
+		{
+			"lang": "mt",
+			"text": "L-iżviluppi teknoloġiċi rapidi u l-globalizzazzjoni ġabu sfidi ġodda għall-protezzjoni tad-dejta personali. L-iskala ta’ qsim u ġbir tad-dejta żdiedet b’mod impressjonanti. It-teknoloġija tippermetti kemm lil kumpaniji privati kif ukoll lil awtoritajiet pubbliċi li jagħmlu użu minn dejta personali fuq skala mingħajr preċedenti sabiex iwettqu l-attivitajiet tagħhom. L-individwi qegħdin dejjem aktar jagħmlu l-informazzjoni personali disponibbli pubblikament u globalment. It-teknoloġija bidlet kemm l-ekonomija kif ukoll il-ħajja soċjali, u teħtieġ li tiffaċilita aktar il-fluss liberu tad-dejta fl-Unjoni u t-trasferiment lejn pajjiżi terzi u organizzazzjonijiet internazzjonali, filwaqt li tassigura livell għoli ta’ protezzjoni tad-dejta personali."
+		},
+		{
+			"lang": "lv",
+			"text": "Ātrā tehnoloģiju izaugsme un globalizācija ir radījusi jaunas problēmas personas datu aizsardzības jomā. Datu apmaiņas un vākšanas apjoms ir dramatiski pieaudzis. Jaunākās tehnoloģijas ļauj gan privātām sabiedrībām, gan valsts iestādēm vēl nepieredzētā apjomā savas darbības mērķiem izmantot personas datus. Fiziskas personas aizvien biežāk personiska rakstura informāciju padara publiski un globāli pieejamu. Tehnika ir pārveidojusi ne tikai ekonomiku, bet arī sociālo dzīvi, un ir nepieciešams arī turpmāk uzlabot datu brīvu apriti Savienībā un nosūtīšanu uz trešām valstīm un starptautiskām organizācijām, vienlaikus nodrošinot personas datu augsta līmeņa aizsardzību."
+		},
+		{
+			"lang": "ro",
+			"text": "Evoluțiile tehnologice rapide și globalizarea au generat noi provocări pentru protecția datelor cu caracter personal. Amploarea schimbului și a colectării de date a crescut spectaculos. Tehnologia permite atât societăților private, cât și autorităților publice să utilizeze date cu caracter personal la un nivel fără precedent în cadrul activităților lor. Din ce în ce mai multe persoane fizice fac publice la nivel mondial informații cu caracter personal. Tehnologia a transformat deopotrivă economia și viața socială și necesită facilitarea în continuare a liberei circulații a datelor în cadrul Uniunii și a transferului către țări terțe și organizații internaționale, asigurând, totodată, un nivel ridicat de protecție a datelor cu caracter personal."
+		},
+		{
+			"lang": "sk",
+			"text": "Rýchly technologický rozvoj so sebou priniesol nové výzvy v oblasti ochrany osobných údajov. Rozsah zdieľania a zhromažďovania údajov sa výrazne zväčšil. Technológia umožňuje súkromným podnikom a verejným orgánom pri výkone ich činností využívať osobné údaje v doteraz bezprecedentnom rozsahu. Fyzické osoby vo väčšej miere zverejňujú svoje osobné údaje, a to aj v globálnom meradle. Technológia transformovala hospodársky aj sociálny život a žiada si ďalšie zjednodušenie voľného toku údajov v rámci Únie a prenosu do tretích krajín a medzinárodným organizáciám pri súčasnom zabezpečení vysokej úrovne ochrany osobných údajov."
+		},
+		{
+			"lang": "sl",
+			"text": "Hiter tehnološki razvoj in globalizacija sta prinesla nove izzive za varstvo osebnih podatkov. Obseg izmenjave in zbiranja podatkov se je bistveno povečal. Tehnologija zasebnim podjetjem in javnim organom omogoča, da osebne podatke uporabljajo za izvajanje svojih dejavnosti v obsegu, kakršnega še ni bilo. Posamezniki vedno bolj dajejo osebne podatke na razpolago tako javno kot globalno. Tehnologija je spremenila gospodarstvo in družbeno življenje ter zahteva nadaljnje lajšanje prostega pretoka podatkov v Uniji ter prenosa v tretje države in mednarodne organizacije, pri čemer je treba zagotoviti visoko raven varstva osebnih podatkov."
+		},
+		{
+			"lang": "fi",
+			"text": "Teknologian nopea kehitys ja globalisaatio ovat tuoneet henkilötietojen käsittelyyn uusia haasteita. Tietoja jaetaan ja kerätään nyt valtavan paljon suuremmassa mittakaavassa. Teknologian kehityksen ansiosta sekä yksityiset yritykset että viranomaiset voivat käyttää toiminnassaan henkilötietoja ennennäkemättömän laajasti. Myös yksityiset ihmiset saattavat yhä useammin henkilötietojaan julkisuuteen maailmanlaajuisesti. Teknologia on mullistanut sekä talouden että sosiaalisen elämän, ja sen vuoksi on edelleen helpotettava vapaata tiedonkulkua unionissa ja tietojen siirtämistä kolmansiin maihin ja kansainvälisille järjestöille samalla kun varmistetaan henkilötietojen korkeatasoinen suoja."
+		},
+		{
+			"lang": "pl",
+			"text": "Szybki rozwój technologiczny i globalizacja przyniosły nowe wyzwania w zakresie ochrony danych osobowych. Niezwykle wzrosła skala wymiany i zbierania danych. Technologia umożliwia zarówno przedsiębiorcom prywatnym, jak i organom publicznym wykorzystywanie danych osobowych do wykonywania powierzonych im zadań na niespotykaną dotąd skalę. Osoby fizyczne coraz częściej udostępniają informacje osobowe publicznie i globalnie. Technologia całkowicie zmieniła zarówno gospodarkę, jak i życie społeczne, i wymaga dalszego ułatwienia swobodnego przepływu danych w Unii oraz przekazywania ich do państw trzecich i organizacji międzynarodowych, przy równoczesnym zagwarantowaniu wysokiego poziomu ochrony danych osobowych."
+		},
+		{
+			"lang": "lt",
+			"text": "dėl sparčios technologinės plėtros ir globalizacijos kyla naujų asmens duomenų apsaugos sunkumų. Stipriai išaugo keitimosi duomenimis ir jų rinkimo mastas. Technologijos leidžia privačioms įmonėms ir valdžios institucijoms vykdant savo veiklą precedento neturinčiu mastu naudotis asmens duomenimis. Asmenys vis dažniau viešina asmeninę informaciją, su kuria galima susipažinti pasauliniame tinkle. Technologijos pakeitė ekonominį ir socialinį gyvenimą todėl reikia palengvinti laisvą duomenų judėjimą Sąjungoje ir jų perdavimą į trečiąsias šalis bei tarptautinėms organizacijoms, kartu užtikrinant aukštą asmens duomenų apsaugos lygį;"
+		},
+		{
+			"lang": "nl",
+			"text": "Door snelle technologische ontwikkelingen en globalisering zijn nieuwe uitdagingen voor de bescherming van persoonsgegevens ontstaan. De mate waarin gegevens worden verzameld en gedeeld, is enorm gestegen. Door technologie kunnen bedrijven en overheid bij het uitvoeren van hun activiteiten meer dan ooit tevoren gebruikmaken van persoonsgegevens. Mensen maken hun persoongegevens steeds vaker wereldwijd bekend. Technologie heeft zowel de economie als het maatschappelijk leven ingrijpend veranderd en maakt het noodzakelijk het vrije verkeer van gegevens binnen de Unie en de doorgifte naar derde landen en internationale organisaties verder te vergemakkelijken en daarbij een hoge mate van bescherming van persoonsgegevens te garanderen."
+		},
+		{
+			"lang": "sv",
+			"text": "Den snabba tekniska utvecklingen och globaliseringen har ställt oss inför nya utmaningar vad gäller skyddet av personuppgifter. Omfattningen på datadelning och insamling av uppgifter har ökat spektakulärt. Tekniken gör det möjligt för både företag och myndigheter att i sitt arbete använda sig av personuppgifter i en helt ny omfattning. Allt fler privatpersoner behandlar sina personliga uppgifter på ett sätt som gör att de blir tillgängliga för var och en, oberoende av plats i världen. Tekniken har omvandlat både ekonomin och det sociala livet, vilket gör det nödvändigt att ytterligare underlätta det fria flödet av uppgifter inom unionen samt överföringar till tredjeländer och internationella organisationer, parallellt med att en hög skyddsnivå säkerställs för person­uppgifter."
+		}
+	],
+	"children": [],
+	"title": "Recital 5"
+}

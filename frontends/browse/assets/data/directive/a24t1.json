@@ -1,0 +1,102 @@
+{
+	"id": "a24t1",
+	"type": "introduction",
+	"literal": null,
+	"parent": "a24",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Where a controller determines the purposes, conditions and means of the processing of personal data jointly with others, the joint controllers shall determine their respective responsibilities for compliance with the obligations under this Regulation, in particular as regards the procedures and mechanisms for exercising the rights of the data subject, by means of an arrangement between them."
+		},
+		{
+			"lang": "de",
+			"text": "In allen Fällen, in denen ein für die Verarbeitung Verantwortlicher die Zwecke, Bedingungen und Mittel der Verarbeitung personenbezogener Daten gemeinsam mit anderen Personen festlegt, vereinbaren diese gemeinsam für die Verarbeitung Verantwortlichen, wer von ihnen welche ihnen gemäß dieser Verordnung obliegenden Aufgaben erfüllt, insbesondere was die Verfahren und Mechanismen betrifft, die den betroffenen Person die Wahrnehmung ihrer Rechte ermöglichen."
+		},
+		{
+			"lang": "fr",
+			"text": "Lorsqu'un responsable du traitement définit, conjointement avec d'autres, les finalités, conditions et moyens du traitement de données à caractère personnel, les responsables conjoints du traitement définissent, par voie d’accord, leurs obligations respectives afin de se conformer aux exigences du présent règlement, en ce qui concerne notamment les procédures et mécanismes régissant l'exercice des droits de la personne concernée."
+		},
+		{
+			"lang": "es",
+			"text": "Cuando un responsable del tratamiento determine, conjuntamente con otros, los fines, las condiciones y los medios del tratamiento de datos personales, los corresponsables determinarán, por mutuo acuerdo, cuáles son sus responsabilidades respectivas en el cumplimiento de las obligaciones impuestas por el presente Reglamento, en particular por lo que hace a los procedimientos y mecanismos para el ejercicio de derechos del interesado."
+		},
+		{
+			"lang": "pt",
+			"text": "Sempre que um responsável pelo tratamento definir, em conjunto com outros, as finalidades, as condições e os meios do tratamento de dados pessoais, os responsáveis conjuntos pelo tratamento devem definir, por acordo, as respetivas obrigações, a fim de respeitarem as disposições adotadas em conformidade com o presente regulamento, nomeadamente no que diz respeito aos procedimentos e mecanismos que regulam o exercício de direitos do titular dos dados."
+		},
+		{
+			"lang": "it",
+			"text": "Se il responsabile del trattamento determina le finalità, le condizioni e i mezzi del trattamento dei dati personali insieme ad altri, i corresponsabili del trattamento determinano, mediante accordi interni, le rispettive responsabilità in merito al rispetto degli obblighi derivanti dal presente regolamento, con particolare riguardo alle procedure e ai meccanismi per l’esercizio dei diritti dell’interessato."
+		},
+		{
+			"lang": "ga",
+			"text": "I gcás ina gcinneann rialaitheoir críocha, coinníollacha agus modhanna na próiseála sonraí pearsanta i gcomhpháirt le rialaitheoirí eile, déanfaidh na comhrialaitheoirí cinneadh, trí bhíthin comhshocraithe eatarthu, faoina bhfreagrachtaí faoi seach chun na hoibleagáidí faoin Rialachán seo a chomhlíonadh, go háirithe maidir leis na nósanna imeachta agus sásraí d’fheidhmiú chearta an duine is ábhar do na sonraí."
+		},
+		{
+			"lang": "cs",
+			"text": "Kde správce určuje účel, podmínky a prostředky zpracování osobních údajů společně s ostatními, určí společní správci ve vzájemném ujednání, jakou odpovědnost každý z nich nese za plnění povinností vyplývajících z tohoto nařízení, zejména pokud jde o postupy a mechanismy pro výkon práv subjektu údajů."
+		},
+		{
+			"lang": "da",
+			"text": "Når en registeransvarlig fastsætter formålene med, betingelserne for og metoderne til behandling af personoplysninger sammen med andre, fastsætter de fælles registeransvarlige deres respektive ansvar for overholdelsen af forpligtelserne i henhold til denne forordning, navnlig hvad angår procedurer for og mekanismer til udøvelse af den registreredes rettigheder, ved hjælp af en ordning mellem dem."
+		},
+		{
+			"lang": "et",
+			"text": "Kui mitu vastutavat töötlejat määravad ühiselt kindlaks isikuandmete töötlemise tingimused ja vahendid, on nad kaasvastutavad töötlejad, kes omavaheliste kokkulepetega kehtestavad igaühe vastutuse käesolevast määrusest tulenevate kohustuste täitmisel, eelkõige andmesubjekti õiguste kasutamise korra ja mehhanismid."
+		},
+		{
+			"lang": "el",
+			"text": "Εάν ο υπεύθυνος επεξεργασίας καθορίζει τους σκοπούς, τις προϋποθέσεις και τα μέσα της επεξεργασίας δεδομένων προσωπικού χαρακτήρα από κοινού με άλλους, οι από κοινού υπεύθυνοι επεξεργασίας καθορίζουν τις αντίστοιχες αρμοδιότητές τους για τη συμμόρφωση προς τις υποχρεώσεις που απορρέουν από τον παρόντα κανονισμό, ιδίως όσον αφορά τις διαδικασίες και τους μηχανισμούς για την άσκηση των δικαιωμάτων του προσώπου στο οποίο αναφέρονται τα δεδομένα, μέσω μεταξύ τους συμφωνίας."
+		},
+		{
+			"lang": "bg",
+			"text": "Когато даден администратор определя целите, условията и средствата за обработването на лични данни съвместно с други, съвместните администратори определят чрез договорености помежду си съответните отговорности за спазване на задълженията по настоящия регламент, по-специално по отношение на процедурите и механизмите за упражняване на правата на субекта на данните."
+		},
+		{
+			"lang": "hu",
+			"text": "Amennyiben az adatkezelő másokkal együtt határozza meg a személyes adatok feldolgozásának céljait, feltételeit és módját, a közös adatkezelők egymás között megállapodásban szabályozzák az e rendelet szerinti kötelezettségeknek való megfeleléssel kapcsolatos felelősségüket, különösen az érintett jogainak gyakorlásának vonatkozó eljárások és mechanizmusok "
+		},
+		{
+			"lang": "mt",
+			"text": "Meta kontrollur jiddetermina l-objettivi, il-kundizzjonijiet u l-mezzi tal-ipproċessar ta’ dejta personali flimkien ma’ oħrajn, il-kontrolluri konġunti jridu jistabbilixxu r-responsabbiltajiet rispettivi għall-konformità mal-obbligi taħt dan ir-Regolament, b’mod partikolari fir-rigward tal-proċeduri u l-mekkaniżmi għall-eżerċizzju tad-drittijiet tas-suġġett tad-dejta, permezz ta’ arranġament bejniethom."
+		},
+		{
+			"lang": "lv",
+			"text": "Ja pārzinis personas datu apstrādes nolūkus, nosacījumus un līdzekļus nosaka kopīgi ar citiem, kopīgie pārziņi, savstarpēji vienojoties, nosaka savus attiecīgos pienākumus, lai izpildītu šajā regulā uzliktās saistības, jo īpaši attiecībā uz procedūrām un mehānismiem datu subjekta tiesību izmantošanai."
+		},
+		{
+			"lang": "ro",
+			"text": "Atunci când un operator stabilește, împreună cu alți operatori, scopul, condițiile și mijloacele de prelucrare a datelor cu caracter personal, operatorii asociați stabilesc, de comun acord, responsabilitățile fiecăruia în ceea ce privește îndeplinirea obligațiilor care le revin în temeiul prezentului regulament, în special în ceea ce privește procedurile și mecanismele de exercitare a drepturilor persoanelor vizate, prin intermediul unui acord între acestea."
+		},
+		{
+			"lang": "sk",
+			"text": "Ak prevádzkovateľ stanovuje účely, podmienky a spôsob spracovania osobných údajov spoločne s inými, spoloční prevádzkovatelia formou dohody medzi sebou stanovia svoje príslušné okruhy zodpovednosti za plnenie povinností podľa tohto nariadenia, najmä pokiaľ ide o postupy a mechanizmy na uplatnenie práv dotknutej osoby."
+		},
+		{
+			"lang": "sl",
+			"text": "Kadar upravljavec določi namene, pogoje in sredstva obdelave osebnih podatkov skupaj z drugimi, skupni upravljavci z medsebojnim dogovorom določijo svoje naloge za izpolnitev obveznosti v skladu s to uredbo, zlasti v zvezi s postopki in mehanizmi za uveljavljanje pravic posameznika, na katerega se nanašajo osebni podatki."
+		},
+		{
+			"lang": "fi",
+			"text": "Jos rekisterinpitäjä määrittää henkilötietojen käsittelyn tarkoitukset, edellytykset ja keinot yhdessä muiden rekisterinpitäjien kanssa, näiden yhteisten rekisterinpitäjien on keskinäisellä järjestelyllä määritettävä kunkin vastuualue tässä asetuksessa vahvistettujen velvoitteiden mukaisesti, erityisesti niiden menettelyjen ja mekanismien osalta, joiden avulla rekisteröidyt voivat käyttää oikeuksiaan."
+		},
+		{
+			"lang": "pl",
+			"text": "Jeśli administrator określa cele, warunki i środki przetwarzania danych osobowych wspólnie z innymi administratorami, współadministratorzy danych ustalają zakres odpowiedzialności za zgodność z obowiązkami wynikającymi z niniejszego rozporządzenia spoczywającej na każdym z nich, w szczególności jeśli chodzi o procedury i mechanizmy wykonania praw podmiotu danych, w drodze wspólnych ustaleń."
+		},
+		{
+			"lang": "lt",
+			"text": "Jeigu duomenų valdytojas asmens duomenų tvarkymo tikslus, sąlygas ir būdus nustato kartu su kitais duomenų valdytojais, tokie bendri duomenų valdytojai tarpusavio susitarimu nustato savo atitinkamą atsakomybę už šiame reglamente nustatytų pareigų, visų pirma susijusių su duomenų subjekto naudojimosi savo teisėmis procedūromis ir mechanizmais, laikymąsi."
+		},
+		{
+			"lang": "nl",
+			"text": "Wanneer een voor de verwerking verantwoordelijke de doeleinden, voorwaarden en middelen voor de verwerking van persoonsgegevens samen met anderen vaststelt, stellen de gezamenlijk voor de verwerking verantwoordelijken door middel van een onderlinge regeling hun respectieve verantwoordelijkheden vast voor de nakoming van de verplichtingen uit hoofde van deze verordening, met name met betrekking tot de procedures en mechanismen voor de uitoefening van de rechten van de betrokkene."
+		},
+		{
+			"lang": "sv",
+			"text": "Om en registeransvarig fastställer ändamålen, villkoren och medlen för behandlingen av personuppgifter tillsammans med andra ska de gemensamma registeransvariga fastställa sitt respektive ansvar för att fullgöra skyldigheterna enligt denna förordning, särskilt avseende förfarandena och rutinerna för den registrerades utövande av sina rättigheter, genom ett arrangemang som de enas om sinsemellan."
+		}
+	],
+	"children": [],
+	"title": "Article 24 – Text 1"
+}

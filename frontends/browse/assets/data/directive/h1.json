@@ -1,0 +1,102 @@
+{
+	"id": "h1",
+	"type": "title",
+	"literal": null,
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the protection of individuals with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation)"
+		},
+		{
+			"lang": "de",
+			"text": "Vorschlag für VERORDNUNG DES EUROPÄISCHEN PARLAMENTS UND DES RATES zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten und zum freien Datenverkehr (Datenschutz-Grundverordnung)"
+		},
+		{
+			"lang": "fr",
+			"text": "Proposition de RÈGLEMENT DU PARLEMENT EUROPÉEN ET DU CONSEIL relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données (règlement général sur la protection des données)"
+		},
+		{
+			"lang": "es",
+			"text": "Propuesta de REGLAMENTO DEL PARLAMENTO EUROPEO Y DEL CONSEJO relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos (Reglamento general de protección de datos)"
+		},
+		{
+			"lang": "pt",
+			"text": "Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados (regulamento geral sobre a proteção de dados)"
+		},
+		{
+			"lang": "it",
+			"text": "Proposta di REGOLAMENTO DEL PARLAMENTO EUROPEO E DEL CONSIGLIO concernente la tutela delle persone fisiche con riguardo al trattamento dei dati personali e la libera circolazione di tali dati (regolamento generale sulla protezione dei dati)"
+		},
+		{
+			"lang": "ga",
+			"text": "Togra le haghaidh RIALACHÁIN Ó PHARLAIMINT NA hEORPA AGUS ÓN gCOMHAIRLE maidir le daoine aonair a chosaint i ndáil le sonraí pearsanta a phróiseáil agus maidir le saorghluaiseacht sonraí den sórt sin (Rialachán ginearálta maidir le Cosaint Sonraí)"
+		},
+		{
+			"lang": "cs",
+			"text": "Návrh NAŘÍZENÍ EVROPSKÉHO PARLAMENTU A RADY o ochraně fyzických osob v souvislosti se zpracováváním osobních údajů a o volném pohybu těchto údajů (obecné nařízení o ochraně údajů)"
+		},
+		{
+			"lang": "da",
+			"text": "Forslag til EUROPA-PARLAMENTETS OG RÅDETS FORORDNING om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger (generel forordning om databeskyttelse)"
+		},
+		{
+			"lang": "et",
+			"text": "Ettepanek: EUROOPA PARLAMENDI JA NÕUKOGU MÄÄRUS üksikisikute kaitse kohta isikuandmete töötlemisel ja selliste andmete vaba liikumise kohta (isikuandmete kaitse üldmäärus)"
+		},
+		{
+			"lang": "el",
+			"text": "Πρόταση ΚΑΝΟΝΙΣΜΟΣ ΤΟΥ ΕΥΡΩΠΑΪΚΟΥ ΚΟΙΝΟΒΟΥΛΙΟΥ ΚΑΙ ΤΟΥ ΣΥΜΒΟΥΛΙΟΥ για την προστασία των φυσικών προσώπων έναντι της επεξεργασίας δεδομένων προσωπικού χαρακτήρα και για την ελεύθερη κυκλοφορία των δεδομένων αυτών (γενικός κανονισμός για την προστασία δεδομένων)"
+		},
+		{
+			"lang": "bg",
+			"text": "Предложение за РЕГЛАМЕНТ НА ЕВРОПЕЙСКИЯ ПАРЛАМЕНТ И НА СЪВЕТА относно защитата на физическите лица във връзка с обработването на лични данни и относно свободното движение на такива данни (общ регламент относно защитата на данните)"
+		},
+		{
+			"lang": "hu",
+			"text": "Javaslat AZ EURÓPAI PARLAMENT ÉS A TANÁCS RENDELETE a személyes adatok feldolgozása vonatkozásában az egyének védelméről és az ilyen adatok szabad áramlásáról (általános adatvédelmi rendelet)"
+		},
+		{
+			"lang": "mt",
+			"text": "Proposta għal REGOLAMENT TAL-PARLAMENT EWROPEW U TAL-KUNSILL dwar il-protezzjoni tal-individwi fir-rigward tal-ipproċessar ta’ dejta personali u dwar il-moviment liberu ta’ dik id-dejta (Regolament dwar il-Protezzjoni ta’ Dejta Ġenerali)"
+		},
+		{
+			"lang": "lv",
+			"text": "Priekšlikums EIROPAS PARLAMENTA UN PADOMES REGULA  par fizisku personu aizsardzību attiecībā uz personas datu apstrādi un šādu datu brīvu apriti (Vispārīgā datu aizsardzības regula)"
+		},
+		{
+			"lang": "ro",
+			"text": "Propunere de REGULAMENT AL PARLAMENTULUI EUROPEAN ŞI AL CONSILIULUI privind protecția persoanelor fizice referitor la prelucrarea datelor cu caracter personal și libera circulație a acestor date (Regulament general privind protecția datelor)"
+		},
+		{
+			"lang": "sk",
+			"text": "Návrh NARIADENIE EURÓPSKEHO PARLAMENTU A RADY o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov (všeobecné nariadenie o ochrane údajov)"
+		},
+		{
+			"lang": "sl",
+			"text": "Predlog UREDBA EVROPSKEGA PARLAMENTA IN SVETA o varstvu posameznikov pri obdelavi osebnih podatkov in o prostem pretoku takih podatkov (Splošna uredba o varstvu podatkov)"
+		},
+		{
+			"lang": "fi",
+			"text": "Ehdotus EUROOPAN PARLAMENTIN JA NEUVOSTON ASETUS yksilöiden suojelusta henkilötietojen käsittelyssä sekä näiden tietojen vapaasta liikkuvuudesta (yleinen tietosuoja-asetus)"
+		},
+		{
+			"lang": "pl",
+			"text": "Wniosek ROZPORZĄDZENIE PARLAMENTU EUROPEJSKIEGO I RADY w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i swobodnym przepływem takich danych (ogólne rozporządzenie o ochronie danych)"
+		},
+		{
+			"lang": "lt",
+			"text": "Pasiūlymas EUROPOS PARLAMENTO IR TARYBOS REGLAMENTAS  dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo (Bendrasis duomenų apsaugos reglamentas)"
+		},
+		{
+			"lang": "nl",
+			"text": "Voorstel voor een VERORDENING VAN HET EUROPEES PARLEMENT EN DE RAAD betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens (algemene verordening gegevensbescherming)"
+		},
+		{
+			"lang": "sv",
+			"text": "Förslag till EUROPAPARLAMENTETS OCH RÅDETS FÖRORDNING om skydd för enskilda personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter (allmän uppgiftsskyddsförordning)"
+		}
+	],
+	"children": [],
+	"title": "Title 1"
+}

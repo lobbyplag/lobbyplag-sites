@@ -1,0 +1,102 @@
+{
+	"id": "a71p3i1",
+	"type": "point",
+	"literal": "a",
+	"parent": "a71p3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the day-to-day business of the European Data Protection Board;"
+		},
+		{
+			"lang": "de",
+			"text": "das Tagesgeschäft des Europäischen Datenschutzausschusses;"
+		},
+		{
+			"lang": "fr",
+			"text": "de la gestion courante du comité européen de la protection des données;"
+		},
+		{
+			"lang": "es",
+			"text": "los asuntos corrientes del Consejo Europeo de Protección de Datos;"
+		},
+		{
+			"lang": "pt",
+			"text": "Pela gestão corrente do Comité Europeu para a Proteção de Dados;"
+		},
+		{
+			"lang": "it",
+			"text": "della gestione ordinaria del comitato europeo per la protezione dei dati;"
+		},
+		{
+			"lang": "ga",
+			"text": "gnó laethúil an Bhoird Eorpaigh um Chosaint Sonraí;"
+		},
+		{
+			"lang": "cs",
+			"text": "každodenní fungování Evropské rady pro ochranu údajů;"
+		},
+		{
+			"lang": "da",
+			"text": "Det Europæiske Databeskyttelsesråds daglige arbejde"
+		},
+		{
+			"lang": "et",
+			"text": "Euroopa Andmekaitsenõukogu igapäevane tegevus;"
+		},
+		{
+			"lang": "el",
+			"text": "α) τις καθημερινές εργασίες του Ευρωπαϊκού Συμβουλίου Προστασίας Δεδομένων·"
+		},
+		{
+			"lang": "bg",
+			"text": "а) ежедневната работа на Европейския комитет по защита на данните;"
+		},
+		{
+			"lang": "hu",
+			"text": "az Európai Adatvédelmi Testület mindennapi működéséért;"
+		},
+		{
+			"lang": "mt",
+			"text": "għax-xogħol ta’ kuljum tal-Bord Ewropew għall-Protezzjoni tad-Dejta"
+		},
+		{
+			"lang": "lv",
+			"text": "Eiropas Datu aizsardzības kolēģijas ikdienas darbu;"
+		},
+		{
+			"lang": "ro",
+			"text": "gestionarea cotidiană a Comitetului european pentru protecția datelor;"
+		},
+		{
+			"lang": "sk",
+			"text": "plnenie každodenných úloh Európskeho výboru pre ochranu údajov;"
+		},
+		{
+			"lang": "sl",
+			"text": "vsakodnevno poslovanje Evropskega odbora za varstvo podatkov;"
+		},
+		{
+			"lang": "fi",
+			"text": "hoitaa Euroopan tietosuojaneuvoston juoksevia asioita;"
+		},
+		{
+			"lang": "pl",
+			"text": "bieżącą działalność Europejskiej Rady Ochrony Danych;"
+		},
+		{
+			"lang": "lt",
+			"text": "Europos duomenų apsaugos valdybos kasdienę veiklą;"
+		},
+		{
+			"lang": "nl",
+			"text": "de dagelijkse werking van het Europees Comité voor gegevensbescherming;"
+		},
+		{
+			"lang": "sv",
+			"text": "Europeiska dataskyddsstyrelsens löpande arbete,"
+		}
+	],
+	"children": [],
+	"title": "Article 71 – Paragraph 3 – Point 1"
+}

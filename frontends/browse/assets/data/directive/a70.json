@@ -1,0 +1,105 @@
+{
+	"id": "a70",
+	"type": "article",
+	"literal": "70",
+	"parent": "c7s3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Tasks of the chair"
+		},
+		{
+			"lang": "de",
+			"text": "Aufgaben des Vorsitzenden"
+		},
+		{
+			"lang": "fr",
+			"text": "Missions du président"
+		},
+		{
+			"lang": "es",
+			"text": "Tareas del presidente"
+		},
+		{
+			"lang": "pt",
+			"text": "Funções do presidente"
+		},
+		{
+			"lang": "it",
+			"text": "Compiti del presidente"
+		},
+		{
+			"lang": "ga",
+			"text": "Cúraimí an Chathaoirligh"
+		},
+		{
+			"lang": "cs",
+			"text": "Úkoly předsedy"
+		},
+		{
+			"lang": "da",
+			"text": "Formandens opgaver"
+		},
+		{
+			"lang": "et",
+			"text": "Eesistuja ülesanded"
+		},
+		{
+			"lang": "el",
+			"text": "Καθήκοντα του προέδρου"
+		},
+		{
+			"lang": "bg",
+			"text": "Задачи на председателя"
+		},
+		{
+			"lang": "hu",
+			"text": "Az elnök feladatai"
+		},
+		{
+			"lang": "mt",
+			"text": "Kompiti tal-president tal-Bord Ewropew għall-Protezzjoni tad-Dejta"
+		},
+		{
+			"lang": "lv",
+			"text": "Priekšsēdētāja uzdevumi"
+		},
+		{
+			"lang": "ro",
+			"text": "Sarcinile președintelui"
+		},
+		{
+			"lang": "sk",
+			"text": "Úlohy predsedu"
+		},
+		{
+			"lang": "sl",
+			"text": "Naloge predsednika"
+		},
+		{
+			"lang": "fi",
+			"text": "Puheenjohtajan tehtävät"
+		},
+		{
+			"lang": "pl",
+			"text": "Zadania przewodniczącego"
+		},
+		{
+			"lang": "lt",
+			"text": "Pirmininko užduotys"
+		},
+		{
+			"lang": "nl",
+			"text": "Taken van de voorzitter"
+		},
+		{
+			"lang": "sv",
+			"text": "Ordförandens arbetsuppgifter"
+		}
+	],
+	"children": [
+		"a70p1",
+		"a70p2"
+	],
+	"title": "Article 70"
+}

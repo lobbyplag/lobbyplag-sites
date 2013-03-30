@@ -1,0 +1,102 @@
+{
+	"id": "a26p2i4",
+	"type": "point",
+	"literal": "d",
+	"parent": "a26p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "enlist another processor only with the prior permission of the controller;"
+		},
+		{
+			"lang": "de",
+			"text": "die Dienste eines weiteren Auftragsverarbeiters nur mit vorheriger Zustimmung des für die Verarbeitung Verantwortlichen in Anspruch nehmen darf;"
+		},
+		{
+			"lang": "fr",
+			"text": "n'engage un autre sous‑traitant que moyennant l'autorisation préalable du responsable du traitement;"
+		},
+		{
+			"lang": "es",
+			"text": "solo recurrirá a otro encargado del tratamiento con la autorización previa del responsable del tratamiento;"
+		},
+		{
+			"lang": "pt",
+			"text": "Recrutará outro subcontratante apenas mediante autorização prévia do responsável pelo tratamento;"
+		},
+		{
+			"lang": "it",
+			"text": "ricorra ad un altro incaricato del trattamento solo previa autorizzazione del responsabile del trattamento;"
+		},
+		{
+			"lang": "ga",
+			"text": "ní bhaileoidh sé cúnamh próiseálaí eile chuige gan cead a fháil ón rialaitheoir roimh ré;"
+		},
+		{
+			"lang": "cs",
+			"text": "zapojí do zpracování údajů dalšího zpracovatele pouze s předchozím souhlasem správce;"
+		},
+		{
+			"lang": "da",
+			"text": "kun gør brug af en anden registerfører med den registeransvarliges forudgående tilladelse"
+		},
+		{
+			"lang": "et",
+			"text": "kaasab teisi töötlejaid ainult vastutava töötleja eelneval loal;"
+		},
+		{
+			"lang": "el",
+			"text": "δ) προσλαμβάνει άλλον εκτελούντα την επεξεργασία μόνον με την προηγούμενη άδεια του υπευθύνου επεξεργασίας·"
+		},
+		{
+			"lang": "bg",
+			"text": "г) включва друг обработващ лични данни единствено с предварителното разрешение на администратора;"
+		},
+		{
+			"lang": "hu",
+			"text": "másik adatfeldolgozót kizárólag az adatkezelő előzetes engedélyével vegyen igénybe;"
+		},
+		{
+			"lang": "mt",
+			"text": "jimpjega proċessur ieħor biss bil-permess minn qabel tal-kontrollur;"
+		},
+		{
+			"lang": "lv",
+			"text": "piesaista citu apstrādātāju tikai ar pārziņa iepriekšēju atļauju;"
+		},
+		{
+			"lang": "ro",
+			"text": "recrutează o altă persoană împuternicită de către operator numai cu autorizarea prealabilă a operatorului;"
+		},
+		{
+			"lang": "sk",
+			"text": "zapojí ďalšieho sprostredkovateľa iba na základe predchádzajúceho povolenia prevádzkovateľa;"
+		},
+		{
+			"lang": "sl",
+			"text": "zaposli drugega obdelovalca samo s predhodnim dovoljenjem upravljavca;"
+		},
+		{
+			"lang": "fi",
+			"text": "käyttää toisen henkilötietojen käsittelijän palveluksia vasta rekisterinpitäjän ennakkohyväksynnän saatuaan;"
+		},
+		{
+			"lang": "pl",
+			"text": "zatrudnia inny podmiot przetwarzający jedynie za uprzednią zgodą administratora;"
+		},
+		{
+			"lang": "lt",
+			"text": "pasitelkia kitą duomenų tvarkytoją tik gavęs išankstinį duomenų valdytojo leidimą;"
+		},
+		{
+			"lang": "nl",
+			"text": "slechts met voorafgaande toestemming van de voor de verwerking verantwoordelijke een andere verwerker in dienst neemt;"
+		},
+		{
+			"lang": "sv",
+			"text": "endast får engagera en annan registerförare om den registeransvarige först har godkänt detta,"
+		}
+	],
+	"children": [],
+	"title": "Article 26 – Paragraph 2 – Point 4"
+}

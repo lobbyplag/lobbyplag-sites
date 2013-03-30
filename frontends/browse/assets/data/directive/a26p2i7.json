@@ -1,0 +1,102 @@
+{
+	"id": "a26p2i7",
+	"type": "point",
+	"literal": "g",
+	"parent": "a26p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "hand over all results to the controller after the end of the processing and not process the personal data otherwise;"
+		},
+		{
+			"lang": "de",
+			"text": "nach Abschluss der Verarbeitung dem für die Verarbeitung Verantwortlichen sämtliche Ergebnisse aushändigt und die personenbezogenen Daten auf keine andere Weise weiterverarbeitet;"
+		},
+		{
+			"lang": "fr",
+			"text": "transmet tous les résultats au responsable du traitement après la fin du traitement et s'abstient de traiter les données à caractère personnel de toute autre manière;"
+		},
+		{
+			"lang": "es",
+			"text": "transmitirá todos los resultados al responsable del tratamiento al término de este y se abstendrá de someter los datos personales a otros tratamientos;"
+		},
+		{
+			"lang": "pt",
+			"text": "Findo o tratamento, entregará todos os resultados ao responsável pelo tratamento e não procederá a qualquer outro tratamento dos dados pessoais;"
+		},
+		{
+			"lang": "it",
+			"text": "ultimato il trattamento, trasmetta tutti i risultati al responsabile del trattamento e si astenga dal trattare altrimenti i dati personali;"
+		},
+		{
+			"lang": "ga",
+			"text": "tabharfaidh sé na torthaí ar fad ón bpróiseáil don rialaitheoir ag deireadh na próiseála agus ní dhéanfaidh sé na sonraí pearsanta a phróiseáil ar bhealach ar bith eile;"
+		},
+		{
+			"lang": "cs",
+			"text": "předává po zpracování veškeré výsledky správci a osobní údaje jinak nezpracovává;"
+		},
+		{
+			"lang": "da",
+			"text": "overdrager alle resultater til den registeransvarlige efter afslutningen af behandlingen og ikke senere behandler personoplysningerne"
+		},
+		{
+			"lang": "et",
+			"text": "annab töötlemise tulemused pärast töötlemist üle vastutavale töötlejale ega töötle isikuandmeid muul eesmärgil;"
+		},
+		{
+			"lang": "el",
+			"text": "ζ) παραδίδει όλα τα αποτελέσματα στον υπεύθυνο επεξεργασίας μετά το πέρας της επεξεργασίας και δεν επεξεργάζεται άλλως πως τα δεδομένα προσωπικού χαρακτήρα·"
+		},
+		{
+			"lang": "bg",
+			"text": "ж) предава всички резултати на администратора след края на обработването и не обработва личните данни по друг начин;"
+		},
+		{
+			"lang": "hu",
+			"text": "az adatfeldolgozást követően adja át az összes eredményt az adatkezelőnek, és a személyes adatokat más módon ne dolgozza fel;"
+		},
+		{
+			"lang": "mt",
+			"text": "jgħaddi r-riżultati kollha lill-kontrollur wara li jintemm l-ipproċessar u ma jipproċessax id-dejta personali mod ieħor;"
+		},
+		{
+			"lang": "lv",
+			"text": "pēc apstrādes visus tās rezultātus nodod pārzinim un neapstrādā personas datus citādi;"
+		},
+		{
+			"lang": "ro",
+			"text": "transmite operatorului toate rezultatele după terminarea procesului de prelucrare și nu prelucrează în nici un alt mod datele cu caracter personal;"
+		},
+		{
+			"lang": "sk",
+			"text": "po ukončení spracovania odovzdá všetky výsledky prevádzkovateľovi a nespracúva osobné údaje iným spôsobom;"
+		},
+		{
+			"lang": "sl",
+			"text": "po končani obdelavi upravljavcu preda vse rezultate in ne obdeluje osebnih podatkov na druge načine;"
+		},
+		{
+			"lang": "fi",
+			"text": "luovuttaa käsittelyn päätyttyä kaikki tulokset rekisterinpitäjälle eikä enää muutoin käsittele kyseisiä henkilötietoja;"
+		},
+		{
+			"lang": "pl",
+			"text": "przekazuje całość wyników administratorowi po zakończeniu przetwarzania i nie przetwarza danych osobowych w inny sposób;"
+		},
+		{
+			"lang": "lt",
+			"text": "baigęs tvarkyti duomenis, perduoda visus rezultatus duomenų valdytojui ir kitaip asmens duomenų netvarko;"
+		},
+		{
+			"lang": "nl",
+			"text": "de voor de verwerking verantwoordelijke na de beëindiging van de verwerking alle resultaten overhandigt en de persoonsgegevens niet anderszins verwerkt;"
+		},
+		{
+			"lang": "sv",
+			"text": "ska lämna alla resultat till den registeransvarige efter behandlingens slut och inte behandla personuppgifterna på annat sätt,"
+		}
+	],
+	"children": [],
+	"title": "Article 26 – Paragraph 2 – Point 7"
+}

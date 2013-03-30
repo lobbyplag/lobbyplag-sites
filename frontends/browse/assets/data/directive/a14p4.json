@@ -1,0 +1,105 @@
+{
+	"id": "a14p4",
+	"type": "paragraph",
+	"literal": "4",
+	"parent": "a14",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller shall provide the information referred to in paragraphs 1, 2 and 3:"
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche erteilt die Informationen gemäß den Absätzen 1, 2 und 3"
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement fournit les informations visées aux paragraphes 1, 2 et 3:"
+		},
+		{
+			"lang": "es",
+			"text": "El responsable del tratamiento facilitará la información contemplada en los apartados 1, 2 y 3:"
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento deve comunicar as informações referidas nos n.os 1, 2 e 3:"
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento fornisce le informazioni di cui ai paragrafi 1, 2 e 3:"
+		},
+		{
+			"lang": "ga",
+			"text": "Soláthróidh an rialaitheoir an fhaisnéis dá dtagraítear i mír 1, mír 2 agus mír 3:"
+		},
+		{
+			"lang": "cs",
+			"text": "Správce poskytne informace uvedené v odstavcích 1, 2 a 3:"
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige fremlægger de oplysninger, der er omhandlet i stk. 1, 2 og 3:"
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja esitab lõigetes 1, 2 ja 3 osutatud teabe:"
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας παρέχει τις πληροφορίες που αναφέρονται στις παραγράφους 1, 2 και 3:"
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът предоставя информацията, посочена в параграфи 1, 2 и 3:"
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő az (1), (2) és (3) bekezdés szerinti tájékoztatást akkor nyújtja:"
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur għandu jipprovdi l-informazzjoni msemmija fil-paragrafi 1, 2 u 3:"
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinis sniedz informāciju, kas minēta 1., 2. un 3. punktā:"
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul furnizează informațiile menționate la alineatele (1), (2) și (3):"
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ poskytne informácie uvedené v odsekoch 1, 2 a 3:"
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec zagotovi informacije iz odstavkov 1, 2 in 3:"
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän on toimitettava 1, 2 ja 3 kohdassa tarkoitetut tiedot"
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator udziela informacji, o których mowa w ust. 1, 2 i 3:"
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas 1, 2 ir 3 dalyse nurodytą informaciją pateikia:"
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke verstrekt de in de leden 1, 2 en 3 bedoelde informatie:"
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige ska lämna den information som anges i punkterna 1, 2 och 3"
+		}
+	],
+	"children": [
+		"a14p4i1",
+		"a14p4i2"
+	],
+	"title": "Article 14 – Paragraph 4"
+}

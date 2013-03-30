@@ -1,0 +1,104 @@
+{
+	"id": "a24",
+	"type": "article",
+	"literal": "24",
+	"parent": "c4s1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Joint controllers"
+		},
+		{
+			"lang": "de",
+			"text": "Gemeinsam für die Verarbeitung Verantwortliche"
+		},
+		{
+			"lang": "fr",
+			"text": "Responsables conjoints du traitement"
+		},
+		{
+			"lang": "es",
+			"text": "Corresponsables del tratamiento"
+		},
+		{
+			"lang": "pt",
+			"text": "Responsáveis conjuntos pelo tratamento"
+		},
+		{
+			"lang": "it",
+			"text": "Corresponsabili del trattamento"
+		},
+		{
+			"lang": "ga",
+			"text": "Comh‑Rialaitheoirí"
+		},
+		{
+			"lang": "cs",
+			"text": "Společní správci"
+		},
+		{
+			"lang": "da",
+			"text": "Fælles registeransvarlige"
+		},
+		{
+			"lang": "et",
+			"text": "Kaasvastutavad töötlejad"
+		},
+		{
+			"lang": "el",
+			"text": "Από κοινού υπεύθυνοι επεξεργασίας"
+		},
+		{
+			"lang": "bg",
+			"text": "Съвместни администратори"
+		},
+		{
+			"lang": "hu",
+			"text": "Közös adatkezelők"
+		},
+		{
+			"lang": "mt",
+			"text": "Kontrolluri konġunti"
+		},
+		{
+			"lang": "lv",
+			"text": "Kopīgi pārziņi"
+		},
+		{
+			"lang": "ro",
+			"text": "Operatori asociați"
+		},
+		{
+			"lang": "sk",
+			"text": "Spoloční prevádzkovatelia"
+		},
+		{
+			"lang": "sl",
+			"text": "Skupni upravljavci"
+		},
+		{
+			"lang": "fi",
+			"text": "Yhteiset rekisterinpitäjät"
+		},
+		{
+			"lang": "pl",
+			"text": "Współadministratorzy"
+		},
+		{
+			"lang": "lt",
+			"text": "Bendri duomenų valdytojai"
+		},
+		{
+			"lang": "nl",
+			"text": "Gezamenlijk voor de verwerking verantwoordelijken"
+		},
+		{
+			"lang": "sv",
+			"text": "Gemensamma registeransvariga"
+		}
+	],
+	"children": [
+		"a24t1"
+	],
+	"title": "Article 24"
+}

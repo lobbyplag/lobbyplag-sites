@@ -1,0 +1,102 @@
+{
+	"id": "a35p6",
+	"type": "paragraph",
+	"literal": "6",
+	"parent": "a35",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller or the processor shall ensure that any other professional duties of the data protection officer are compatible with the person's tasks and duties as data protection officer and do not result in a conflict of interests."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche oder der Auftragsverarbeiter stellt sicher, dass etwaige sonstige berufliche Pflichten des Datenschutzbeauftragten mit den Aufgaben und Pflichten, die diesem in seiner Funktion als Datenschutzbeauftragter obliegen, vereinbar sind und zu keinen Interessenkonflikten führen."
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement ou le sous‑traitant veillent à ce que d'éventuelles autres fonctions professionnelles du délégué à la protection des données soient compatibles avec les tâches et fonctions de cette personne en qualité de délégué à la protection des données et n'entraînent pas de conflit d'intérêts."
+		},
+		{
+			"lang": "es",
+			"text": "El responsable o el encargado del tratamiento velarán por que cualesquiera otras funciones profesionales del delegado de protección de datos sean compatibles con sus tareas y funciones en calidad de delegado de protección de datos y no planteen conflictos de intereses."
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento ou o subcontratante deve assegurar que quaisquer outras funções profissionais que incumbem ao delegado para a proteção de dados sejam compatíveis com as atribuições e funções dessa pessoa na qualidade de delegado para a proteção de dados e não impliquem um conflito de interesses."
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento o l’incaricato del trattamento si assicura che ogni altra funzione professionale del responsabile della protezione dei dati sia compatibile con i compiti e le funzioni dello stesso in qualità di responsabile della protezione dei dati e non dia adito a conflitto di interessi."
+		},
+		{
+			"lang": "ga",
+			"text": "Áiritheoidh an rialaitheoir nó an próiseálaí go bhfuil aon dualgais ghairmiúla eile a chuirtear ar an oifigeach cosanta sonraí i gcomhréir le cúraimí agus dualgais an duine sin mar oifigeach cosanta sonraí agus nach mbeidh coinbhleacht leasa mar thoradh orthu."
+		},
+		{
+			"lang": "cs",
+			"text": "Správce nebo zpracovatel zajistí, že jakékoliv jiné profesní povinnosti inspektora ochrany údajů budou slučitelné s jeho úkoly a povinnostmi coby inspektora a že nebudou vyvolávat střet zájmů."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige eller registerføreren sikrer, at den databeskyttelsesansvarliges øvrige arbejdsopgaver er forenelige med den pågældendes opgaver og ansvar som databeskyttelsesansvarlig og ikke medfører interessekonflikt."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja ja volitatud töötleja tagavad, et andmekaitseametniku muud ametiülesanded on kooskõlas tema isikuandmete kaitse alaste ülesannete ja kohustustega ega põhjusta huvide konflikti."
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας ή ο εκτελών την επεξεργασία διασφαλίζουν ότι κάθε άλλο επαγγελματικό καθήκον του υπευθύνου προστασίας δεδομένων είναι συμβατό προς τα καθήκοντα και τις αρμοδιότητες του προσώπου ως υπευθύνου προστασίας δεδομένων και δεν συνεπάγονται σύγκρουση συμφερόντων."
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът или обработващият лични данни гарантира, че всички други професионални задължения на длъжностното лице по защита на данните са съвместими със задачите и задълженията му като длъжностно лице по защита на данните и не водят до конфликт на интереси."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő vagy -feldolgozó biztosítja, hogy az adatvédelmi tisztviselő minden egyéb szakmai kötelezettsége összeegyeztethető legyen az adott személy adatvédelmi tisztviselőként ellátandó feladataival és kötelezettségeivel, és nem eredményez összeférhetetlenséget."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur jew il-proċessur għandu jassigura li kwalunkwe dmir professjonali ieħor tal-uffiċjal tal-protezzjoni tad-dejta jkun kompatibbli mal-kompiti u d-dmirijiet tal-persuna bħala uffiċjal tal-protezzjoni tad-dejta u ma jirriżultax f’kunflitt ta’ interessi."
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinis vai apstrādātājs nodrošina, ka visi pārējie datu aizsardzības inspektora pienākumi ir savienojami ar tā uzdevumiem un pienākumiem datu aizsardzības inspektora statusā un nerada interešu konfliktu."
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul sau persoana împuternicită de către operator se asigură că orice alte îndatoriri profesionale ale responsabilului cu protecția datelor sunt compatibile cu sarcinile și atribuțiile persoanei care are calitatea de responsabil cu protecția datelor și că nu generează un conflict de interese."
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ alebo sprostredkovateľ zabezpečia, aby akékoľvek ďalšie odborné úlohy úradníka pre ochranu údajov boli v súlade s úlohami a povinnosťami tejto osoby ako úradníka pre ochranu údajov a neviedli ku konfliktu záujmov."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec ali obdelovalec zagotovi, da so vse ostale poklicne dolžnosti uradne osebe za varstvo podatkov združljive z nalogami in dolžnostmi osebe kot uradne osebe za varstvo podatkov ter da zaradi tega ne pride do konflikta interesov."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän ja henkilötietojen käsittelijän on varmistettava, että tietosuojavastaavan muut ammatilliset velvollisuudet voidaan sovittaa yhteen tietosuojavastaavan tehtävien ja velvollisuuksien kanssa eturistiriitoja aiheuttamatta."
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator lub podmiot przetwarzający gwarantują, by inne obowiązki zawodowe inspektora ochrony danych były zgodne z zadaniami i obowiązkami tej osoby jako inspektora ochrony danych i by nie skutkowały one konfliktem interesów."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas arba duomenų tvarkytojas užtikrina, kad visos kitos tarnybinės duomenų apsaugos pareigūno pareigos atitiktų jo, kaip duomenų apsaugos pareigūno, užduotis ir pareigas ir kad dėl jų nekiltų interesų konfliktas."
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke en de verwerker zorgen ervoor dat alle andere beroepswerkzaamheden van de functionaris voor gegevensbescherming verenigbaar zijn met zijn taken en verplichtingen als functionaris voor gegevensbescherming en niet tot een belangenconflict leiden."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige eller registerföraren ska se till att uppgiftskyddsombudets eventuella övriga yrkesuppgifter är förenliga med personens arbetsuppgifter och uppdrag som uppgiftsskyddsombud och inte leder till en intressekonflikt."
+		}
+	],
+	"children": [],
+	"title": "Article 35 – Paragraph 6"
+}

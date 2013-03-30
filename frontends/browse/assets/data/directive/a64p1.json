@@ -1,0 +1,102 @@
+{
+	"id": "a64p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a64",
+	"text": [
+		{
+			"lang": "en",
+			"text": "A European Data Protection Board is hereby set up."
+		},
+		{
+			"lang": "de",
+			"text": "Hiermit wird ein Europäischer Datenschutzausschuss eingerichtet."
+		},
+		{
+			"lang": "fr",
+			"text": "Il est institué un comité européen de la protection des données."
+		},
+		{
+			"lang": "es",
+			"text": "Se crea el Consejo Europeo de Protección de Datos."
+		},
+		{
+			"lang": "pt",
+			"text": "É criado um Comité Europeu para a Proteção de Dados."
+		},
+		{
+			"lang": "it",
+			"text": "È istituito un comitato europeo per la protezione dei dati."
+		},
+		{
+			"lang": "ga",
+			"text": "Bunaítear Bord Eorpach um Chosaint Sonraí leis seo."
+		},
+		{
+			"lang": "cs",
+			"text": "Zřizuje se Evropská rada pro ochranu údajů."
+		},
+		{
+			"lang": "da",
+			"text": "Der oprettes herved et europæisk databeskyttelsesråd."
+		},
+		{
+			"lang": "et",
+			"text": "Käesolevaga luuakse Euroopa Andmekaitsenõukogu."
+		},
+		{
+			"lang": "el",
+			"text": "Με τον παρόντα κανονισμό συστήνεται Ευρωπαϊκό Συμβούλιο Προστασίας Δεδομένων."
+		},
+		{
+			"lang": "bg",
+			"text": "Създава се Европейски комитет по защита на данните."
+		},
+		{
+			"lang": "hu",
+			"text": "Létrejön az Európai Adatvédelmi Testület."
+		},
+		{
+			"lang": "mt",
+			"text": "B’dan, qed ikun stabbilit Bord Ewropew għall-Protezzjoni tad-Dejta."
+		},
+		{
+			"lang": "lv",
+			"text": "Ar šo izveido Eiropas Datu aizsardzības kolēģiju."
+		},
+		{
+			"lang": "ro",
+			"text": "Se instituie un Comitet european pentru protecția datelor."
+		},
+		{
+			"lang": "sk",
+			"text": "Týmto sa zriaďuje Európsky výbor pre ochranu údajov."
+		},
+		{
+			"lang": "sl",
+			"text": "Ustanovi se Evropski odbor za varstvo podatkov."
+		},
+		{
+			"lang": "fi",
+			"text": "Perustetaan Euroopan tietosuojaneuvosto."
+		},
+		{
+			"lang": "pl",
+			"text": "Niniejszym ustanawia się Europejską Radę Ochrony Danych."
+		},
+		{
+			"lang": "lt",
+			"text": "Įsteigiama Europos duomenų apsaugos valdyba."
+		},
+		{
+			"lang": "nl",
+			"text": "Er wordt een Europees Comité voor gegevensbescherming ingesteld."
+		},
+		{
+			"lang": "sv",
+			"text": "Härmed inrättas en europeisk dataskyddsstyrelse."
+		}
+	],
+	"children": [],
+	"title": "Article 64 – Paragraph 1"
+}

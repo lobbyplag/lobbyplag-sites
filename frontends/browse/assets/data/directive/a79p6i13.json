@@ -1,0 +1,102 @@
+{
+	"id": "a79p6i13",
+	"type": "point",
+	"literal": "m",
+	"parent": "a79p6",
+	"text": [
+		{
+			"lang": "en",
+			"text": "does not comply with an order or a temporary or definite ban on processing or the suspension of data flows by the supervisory authority pursuant to Article 53(1);"
+		},
+		{
+			"lang": "de",
+			"text": "einer Anweisung oder einem vorübergehenden oder endgültigen Verarbeitungsverbot oder einer Aussetzung der Datenübermittlung durch die Aufsichtsbehörde gemäß Artikel 53 Absatz 1 nicht Folge leistet;"
+		},
+		{
+			"lang": "fr",
+			"text": "ne respecte pas une injonction, une interdiction temporaire ou définitive de traitement ou la suspension de flux de données par l'autorité de contrôle conformément à l'article 53, paragraphe 1;"
+		},
+		{
+			"lang": "es",
+			"text": "no cumpla un requerimiento o la prohibición temporal o definitiva del tratamiento o la suspensión de los flujos de datos por parte de la autoridad de control con arreglo al artículo 53, apartado1;"
+		},
+		{
+			"lang": "pt",
+			"text": "Não respeite uma ordem de proibição, temporária ou definitiva, relativa ao tratamento ou à suspensão de fluxos de dados, emitida pela autoridade de controlo, nos termos do artigo 53.º, n.º 1;"
+		},
+		{
+			"lang": "it",
+			"text": "non si conforma a un ordine, a un divieto provvisorio o definitivo di trattamento o a un ordine di sospensione dei flussi di dati dell’autorità di controllo, di cui all’articolo 53, paragrafo 1;"
+		},
+		{
+			"lang": "ga",
+			"text": "aon duine nach gcomhlíonann ordú nó cosc sealadach nó iomlán ar phróiseáil nó fionraí na sreabh sonraí ag an údarás maoirseachta de bhun Airteagal 53(1);"
+		},
+		{
+			"lang": "cs",
+			"text": "nesplní příkaz nebo dočasný či trvalý zákaz zpracovávání nebo přerušení předávání údajů orgánem dozoru podle čl. 53 odst. 1;"
+		},
+		{
+			"lang": "da",
+			"text": "ikke overholder et påbud eller et midlertidigt eller definitivt forbud mod behandling eller tilsynsmyndighedens suspension af dataoverførsel i henhold til artikel 53, stk. 1"
+		},
+		{
+			"lang": "et",
+			"text": "ei täida järelevalveasutuse ajutist või alalist töötlemiskeeldu või andmevoogude peatamise keeldu vastavalt artikli 53 lõikele 1;"
+		},
+		{
+			"lang": "el",
+			"text": "ιγ) δεν συμμορφώνεται προς εντολή ή προς προσωρινή ή οριστική απαγόρευση της επεξεργασίας ή προς αναστολή της ροής δεδομένων που επιβάλλει η αρχή ελέγχου δυνάμει του άρθρου 53 παράγραφος 1·"
+		},
+		{
+			"lang": "bg",
+			"text": "м) не спазва дадено разпореждане, временна или окончателна забрана за обработване или наложено преустановяване на потоците от данни от надзорния орган съгласно член 53, параграф 1;"
+		},
+		{
+			"lang": "hu",
+			"text": "nem tesz eleget a felügyelő hatóság 53. cikk (1) bekezdése szerinti utasításának vagy az adatfeldolgozás átmeneti vagy végleges tilalmára vagy az adatáramlás felfüggesztésére vonatkozó felszólításának;"
+		},
+		{
+			"lang": "mt",
+			"text": "ma jikkonformax ma’ ordni jew projbizzjoni temporanja jew definittiva fuq l-ipproċessar jew is-sospensjoni ta’ flussi ta’ dejta mill-awtorità ta’ superviżjoni skont l-Artikolu 53(1);"
+		},
+		{
+			"lang": "lv",
+			"text": "nav ievērots uzraudzības iestādes rīkojums vai pagaidu vai galīgs apstrādes vai datu aprites aizliegums saskaņā ar 53. panta 1. punktu;"
+		},
+		{
+			"lang": "ro",
+			"text": "nu respectă un ordin sau o interdicție temporară sau definitivă privind prelucrarea sau suspendarea fluxurilor de date emisă de autoritatea de supraveghere, în temeiul articolului 53 alineatul (1);"
+		},
+		{
+			"lang": "sk",
+			"text": "nesplní príkaz alebo dočasný alebo definitívny zákaz zo strany dozorného orgánu na spracovanie alebo pozastavenie tokov údajov podľa článku 53 ods. 1;"
+		},
+		{
+			"lang": "sl",
+			"text": "ne upošteva odredbe ali začasne ali dokončne prepovedi obdelave ali prekinitve prenosa podatkov s strani nadzornega organa v skladu s členom 53(1);"
+		},
+		{
+			"lang": "fi",
+			"text": "ei noudata valvontaviranomaisen 53 artiklan 1 kohdan nojalla antamaa määräystä tai väliaikaista tai lopullista käsittelykieltoa tai tietovirtojen keskeyttämismääräystä;"
+		},
+		{
+			"lang": "pl",
+			"text": "nie przestrzega nakazu lub tymczasowego albo ostatecznego zakazu dotyczącego przetwarzania lub zawieszenia przepływu danych przez organ nadzorczy na podstawie art. 53 ust. 1;"
+		},
+		{
+			"lang": "lt",
+			"text": "nesilaiko priežiūros institucijos nurodymo arba laikino ar nuolatinio draudimo tvarkyti duomenis arba duomenų srautų sustabdymo pagal 53 straipsnio 1 dalį;"
+		},
+		{
+			"lang": "nl",
+			"text": "een bevel of een tijdelijk of definitief verwerkingsverbod of een opschorting van gegevensstromen door de toezichthoudende autoriteit niet naleeft overeenkomstig artikel 53, lid 1;"
+		},
+		{
+			"lang": "sv",
+			"text": "underlåter att hörsamma en order, ett tillfälligt eller permanent förbud mot behandling av uppgifter eller ett beslut om att avbryta av uppgiftsflödena som meddelats av tillsynsmyndigheten i enlighet med artikel 53.1,"
+		}
+	],
+	"children": [],
+	"title": "Article 79 – Paragraph 6 – Point 13"
+}

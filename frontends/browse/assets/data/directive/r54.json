@@ -1,0 +1,102 @@
+{
+	"id": "r54",
+	"type": "recital",
+	"literal": "54",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "To strengthen the 'right to be forgotten' in the online environment, the right to erasure should also be extended in such a way that a controller who has made the personal data public should be obliged to inform third parties which are processing such data that a data subject requests them to erase any links to, or copies or replications of that personal data. To ensure this information, the controller should take all reasonable steps, including technical measures, in relation to data for the publication of which the controller is responsible. In relation to a third party publication of personal data, the controller should be considered responsible for the publication, where the controller has authorised the publication by the third party."
+		},
+		{
+			"lang": "de",
+			"text": "Um dem ‚Recht auf Vergessenwerden’ im Netz mehr Geltung zu verschaffen, sollte das Recht auf Löschung so weit gehen, dass ein für die Verarbeitung Verantwortlicher, der die personenbezogenen Daten öffentlich gemacht hat, die Pflicht hat, Dritten, die diese Daten verarbeiten, mitzuteilen, dass eine betroffene Person die Löschung von Links zu diesen Daten oder von Kopien oder Reproduktionen dieser Daten verlangt. Der für die Verarbeitung Verantwortliche sollte im Hinblick auf Daten, für deren Veröffentlichung er die Verantwortung trägt, alle vertretbaren Schritte, auch technischer Art, unternehmen, damit diese Information die betroffenen Dritten auch tatsächlich erreicht. Werden personenbezogene Daten von Dritten veröffentlicht, sollte der für die Verarbeitung Verantwortliche für die Veröffentlichung in die Pflicht genommen werden, wenn er die Veröffentlichung gestattet hat."
+		},
+		{
+			"lang": "fr",
+			"text": "Afin de renforcer le «droit à l'oubli numérique» dans l’environnement en ligne, le droit à l'effacement des données devrait en outre être étendu de façon à ce que le responsable du traitement qui a rendu les données à caractère personnel publiques soit tenu d'informer les tiers qui traitent lesdites données qu'une personne concernée leur demande d'effacer tous liens vers ces données, ou toute copie ou reproduction de celles‑ci. Afin d'assurer cette information, le responsable des données devrait prendre toutes les mesures raisonnables, y compris les mesures techniques, à l'égard des données dont la publication lui est imputable. En ce qui concerne la responsabilité de la publication de données à caractère personnel par un tiers, elle devrait être imputée au responsable du traitement lorsqu'il a lui-même autorisé le tiers à l'effectuer."
+		},
+		{
+			"lang": "es",
+			"text": "Con el fin de reforzar el «derecho al olvido» en el entorno en línea, el derecho de supresión también debe ampliarse de tal forma que los responsables del tratamiento que hayan hecho públicos los datos personales deben estar obligados a informar a los terceros que estén tratando tales datos de que un interesado les solicita que supriman todo enlace a tales datos personales, o las copias o réplicas de los mismos. Para garantizar esta información, el responsable del tratamiento debe tomar todas las medidas razonables, incluidas las de carácter técnico, en relación con los datos cuya publicación sea de su competencia. En relación con la publicación de datos personales por un tercero, el responsable del tratamiento debe ser considerado responsable de la publicación, en caso de que haya autorizado la publicación por parte de dicho tercero."
+		},
+		{
+			"lang": "pt",
+			"text": "Para reforçar o «direito a ser esquecido» no ambiente em linha, o âmbito do direito de apagamento deve também ser alargado de forma a que um responsável pelo tratamento que tenha tornado públicos os dados pessoais seja obrigado a informar os terceiros que tratem esses dados que um titular de dados lhes solicita a supressão de quaisquer ligações para esses dados pessoais, cópias ou reproduções dos mesmos. De forma a assegurar esta informação, o responsável pelo tratamento deve adotar todas as medidas razoáveis, incluindo medidas técnicas, no que respeita aos dados cuja publicação seja da sua responsabilidade. No que se refere à publicação de dados pessoais por terceiros, o responsável pelo tratamento é considerado responsável por essa publicação sempre que tiver autorizado a publicação por esse terceiro."
+		},
+		{
+			"lang": "it",
+			"text": "Per rafforzare il “diritto all’oblio” nell’ambiente on line, è necessario che il diritto di cancellazione sia esteso in modo da obbligare il responsabile del trattamento che ha pubblicato dati personali a informare i terzi che stanno trattando tali dati della richiesta dell’interessato di cancellare qualsiasi link, copia o riproduzione dei suoi dati personali. Per garantire tale informazione, è necessario che il responsabile del trattamento prenda tutte le misure ragionevoli, anche di natura tecnica, in relazione ai dati della cui pubblicazione è responsabile. Se ha autorizzato un terzo a pubblicare dati personali, il responsabile del trattamento deve essere ritenuto responsabile di tale pubblicazione."
+		},
+		{
+			"lang": "ga",
+			"text": "Chun an ceart chun sonraí ‘a dhearmad’ a neartú ó thaobh an idirlín de, ba cheart an ceart sonraí a scriosadh a leathnú amach freisin sa dóigh is gur cheart go mbeadh sé d’oibleagáid ar rialaitheoir a bhfuil sonraí pearsanta curtha ar fáil go poiblí aige aon tríú páirtithe atá ag próiseáil na sonraí sin a chur ar an eolas má iarrann an duine is ábhar do na sonraí orthu aon naisc chuig na sonraí pearsanta sin, aon chóipeanna de na sonraí nó aon mhacasamhlú ar na sonraí a scriosadh. Chun a áirithiú go gcuirtear na tríú páirtithe ar an eolas faoi sin, ba cheart don rialaitheoir gach beart réasúnta a ghlacadh, lena n‑áirítear bearta teicniúla, maidir le sonraí a phoiblíonn an rialaitheoir. I gcás ina bpoiblíonn tríú páirtí sonraí pearsanta, ba cheart a mheas go bhfuil an rialaitheoir freagrach as an bpoibliú sin má thug sé údarú don tríú páirtí na sonraí a phoibliú."
+		},
+		{
+			"lang": "cs",
+			"text": "Aby bylo v on-line prostředí posíleno „právo být zapomenut“, mělo by být rovněž rozšířeno právo na výmaz takovým způsobem, aby správce, který zveřejnil osobní údaje, měl povinnost informovat třetí strany, které tyto údaje zpracovávají, že subjekt údajů požaduje vymazání veškerých odkazů na své osobní údaje či veškerých kopií nebo replikací těchto osobních údajů. Správce by měl vzhledem k údajům, za jejichž zveřejnění je zodpovědný, přijmout veškerá rozumná opatření, včetně technických, aby toto informování třetích stran zajistil. V souvislosti se zveřejněním osobních údajů třetí stranou by měl odpovědnost nést správce, pokud třetí straně zveřejnění povolil."
+		},
+		{
+			"lang": "da",
+			"text": "For at styrke &quot;retten til at blive glemt&quot; i onlinemiljøet bør retten til sletning udvides, så den registeransvarlige, der har offentliggjort personoplysningerne, forpligtes til at underrette tredjeparter, der behandler sådanne oplysninger, om, at en registreret har anmodet dem om at slette alle link til, kopier af eller gengivelser af de pågældende personoplysninger. For at sikre disse oplysninger bør den registeransvarlige træffe alle rimelige foranstaltninger, herunder tekniske foranstaltninger, vedrørende de oplysninger, hvis offentliggørelse den registeransvarlige er ansvarlig for. I forhold til en tredjeparts offentliggørelse af personoplysninger betragtes den registeransvarlige som ansvarlig for offentliggørelsen, hvis den registeransvarlige har godkendt tredjepartens offentliggørelse."
+		},
+		{
+			"lang": "et",
+			"text": "Selleks et tugevdada võrgukeskkonnas õigust olla unustatud, tuleks laiendada õigust andmete kustutamisele selliselt, et isikuandmed avaldanud vastutav töötleja on kohustatud teavitama andmeid töötlevaid kolmandaid isikuid andmesubjekti taotlusest kustutada mis tahes lingid nimetatud isikuandmetele ja andmekoopiad ja -kordused. Teavitamise tagamiseks peaks vastutav töötleja võtma kõik mõistlikud meetmed, sealhulgas tehnilised meetmed, mis on seotud andmetega, mille avaldamise eest vastutav töötleja vastutab. Kui isikuandmed avaldab kolmas isik, peaks avaldamise eest vastutama kolmandale isikule avaldamise loa andnud vastutav töötleja."
+		},
+		{
+			"lang": "el",
+			"text": "Για να ενισχυθεί το δικαίωμα του προσώπου στο οποίο αναφέρονται τα δεδομένα «να λησμονηθεί», το δικαίωμα διαγραφής πρέπει επίσης να επεκταθεί με τέτοιο τρόπο ώστε ο υπεύθυνος επεξεργασίας ο οποίος δημοσιοποίησε τα δεδομένα προσωπικού χαρακτήρα να υποχρεούται να ενημερώνει τους τρίτους που επεξεργάζονται τα εν λόγω δεδομένα ότι ένα πρόσωπο στο οποίο αναφέρονται τα δεδομένα του ζήτησε να διαγραφεί κάθε σύνδεσμος ή αντίγραφο ή αναπαραγωγή των εν λόγω δεδομένων προσωπικού χαρακτήρα. Για τη διασφάλιση της εν λόγω ενημέρωσης, ο υπεύθυνος επεξεργασίας πρέπει να λαμβάνει κάθε εύλογο μέτρο, συμπεριλαμβανομένων τεχνικών μέτρων, σε σχέση με τα δεδομένα για τη δημοσίευση των οποίων είναι αρμόδιος. Σε σχέση με τη δημοσίευση δεδομένων προσωπικού χαρακτήρα από τρίτο, ο υπεύθυνος επεξεργασίας πρέπει να θεωρείται υπεύθυνος για τη δημοσίευση, εάν αυτός ο ίδιος ενέκρινε τη δημοσίευση από τον τρίτο."
+		},
+		{
+			"lang": "bg",
+			"text": "С цел утвърждаване на „правото да бъдеш забравен“ в онлайн средата, правото на заличаване следва също да бъде разширено, така че администраторът, който е направил личните данни обществено достъпни, следва да бъде задължен да уведоми третите страни, които обработват такива данни, че субектът на данните е поискал от него заличаването на всякакви връзки към тези лични данни или на техните копия или реплики. С цел да осигури тази информация администраторът следва да предприеме всички разумни мерки, в това число технически мерки, по отношение на данните, за чието публикуване носи отговорност. Що се отнася до публикуването на лични данни от трети страни, администраторът следва да се счита за отговорен за публикуването им, когато е разрешил на третата страна това публикуване."
+		},
+		{
+			"lang": "hu",
+			"text": "A személyes adatok tárolásának megszüntetéséhez való jog online környezetben való erősítése érdekében a törléshez való jogot is ki kell terjeszteni oly módon, hogy a személyes adatokat nyilvánosságra hozó adatkezelőnek tájékoztatnia kell az ilyen adatokat feldolgozó harmadik feleket arról, hogy az érintett kérte e személyes adatokra mutató linkek, vagy e személyes adatok másolatának, illetve másodpéldányának törlését. E tájékoztatás biztosítása érdekében az adatkezelőnek minden ésszerű lépést meg kell tennie – beleértve a műszaki intézkedéseket is – az adatkezelő felelősségi körébe tartozó közléssel érintett adatok tekintetében. A személyes adatok harmadik fél általi közlése tekintetében az adatkezelő felel a nyilvánosságra hozatalért, amennyiben a harmadik fél általi közlést az adatkezelő engedélyezte."
+		},
+		{
+			"lang": "mt",
+			"text": "Sabiex jissaħħaħ id-‘dritt li tkun minsi’ fl-ambjent onlajn, id-dritt għat-tħassir għandu jkun estiż ukoll b’mod li kontrollur li jkun għamel id-dejta personali pubblika, għandu jkun obbligat li jinforma lil partijiet terzi li qegħdin jipproċessaw din id-dejta li s-suġġett tad-dejta jitolbu jħassar kwalunkwe rabta ma’, jew kopji jew replika ta’ dik id-dejta personali. Biex jiżgura din l-informazzjoni, il-kontrollur għandu jieħu l-passi kollha raġonevoli, inklużi miżuri tekniċi, fir-rigward tad-dejta għall-pubblikazzjoni li għaliha l-kontrollur huwa responsabbli. Fir-rigward ta’ pubblikazzjoni ta’ dejta personali ta’ parti terza, il-kontrollur għandu jkun ikkunsidrat bħala responsabbli għall-pubblikazzjoni, meta l-kontrollur ikun awtorizza l-pubblikazzjoni mill-parti terza."
+		},
+		{
+			"lang": "lv",
+			"text": "Lai stiprinātu &quot;tiesības tikt aizmirstam&quot; tiešsaistes vidē, tiesības uz datu dzēšanu būtu paplašināti jāpiemēro tā, lai pārzinim, kas ir publicējis personas datus, būtu pienākums informēt trešās personas, kas apstrādā šādus datus, ka datu subjekts ir pieprasījis dzēst visas saites uz šiem personas datiem, to kopijas vai atveidojumus. Lai nodrošinātu šo informāciju, pārzinim būtu jāveic visi saprātīgi pasākumi, ietverot arī tehniskos pasākumus, saistībā ar datiem, par kuru publicēšanu pārzinis ir atbildīgs. Saistībā ar personas datu publicēšanu, ko veikusi trešā puse, pārzinis būtu jāuzskata par atbildīgu par šo publicēšanu, ja pārzinis ir atļāvis trešai pusei publicēt datus."
+		},
+		{
+			"lang": "ro",
+			"text": "Pentru a se consolida „dreptul de a fi uitat” în mediul on-line, dreptul de ștergere ar trebui, de asemenea, să fie extins astfel încât un operator care a făcut publice date cu caracter personal ar trebui să aibă obligația de a informa terții care prelucrează astfel de date că o persoană vizată le solicită să șteargă orice linkuri către datele cu caracter personal respective sau copii sau reproduceri ale acestora. În scopul asigurării acestor informații, operatorul ar trebui să ia toate măsurile rezonabile, inclusiv măsuri tehnice, în ceea ce privește datele de a căror publicare este responsabil. În legătură cu publicarea datelor cu caracter personal de către un terț, operatorul ar trebui să fie considerat responsabil de publicare, în cazul în care acesta a autorizat publicarea de către terț."
+		},
+		{
+			"lang": "sk",
+			"text": "Aby sa posilnilo právo byť zabudnutý v online prostredí, malo by sa rozšíriť právo na výmaz, a to tak, že by prevádzkovateľ, ktorý osobné údaje zverejnil, bol povinný informovať tretie strany, ktoré takéto údaje spracúvajú, o tom, že dotknutá osoba ich žiada, aby vymazali akékoľvek odkazy na tieto osobné údaje, ich kópie alebo replikácie. Aby sa táto informácia zabezpečila, prevádzkovateľ by mal prijať všetky primerané kroky vrátane technických opatrení v súvislosti s údajmi určenými na zverejnenie, za ktoré je tento prevádzkovateľ zodpovedný. V súvislosti so zverejnením osobných údajov treťou stranou by sa mal za zodpovedného za toto zverejnenie pokladať prevádzkovateľ, ak prevádzkovateľ takéto zverejnenie treťou stranou povolil."
+		},
+		{
+			"lang": "sl",
+			"text": "Za okrepitev „pravice biti pozabljen“ v spletnem okolju bi morala biti pravica do izbrisa razširjena tako, da mora upravljavec, ki je osebne podatke objavil, tretje osebe, ki take podatke obdelujejo, obvestiti, da posameznik, na katerega se nanašajo osebni podatki, zahteva izbris morebitnih povezav do teh osebnih podatkov ali kopij osebnih podatkov. Da bi upravljavec zagotovil te informacije, mora glede podatkov, za objavo katerih je odgovoren, sprejeti vse primerne ukrepe, vključno s tehničnimi. Glede objave osebnih podatkov s strani tretje osebe se upravljavec šteje za odgovornega, če je odobril objavo s strani tretje osebe."
+		},
+		{
+			"lang": "fi",
+			"text": "Jotta voitaisiin lujittaa ”oikeutta tulla unohdetuksi” verkkoympäristössä, olisi laajennettava oikeutta tietojen poistamiseen niin, että tiedot julkistanut rekisterinpitäjä velvoitettaisiin ilmoittamaan tietoja käsitteleville kolmansille osapuolille rekisteröidyn pyynnöstä poistaa kyseisiin henkilötietoihin liittyvät linkit tai näiden henkilötietojen jäljennökset tai kopiot. Tämän ilmoituksen varmistamiseksi rekisterinpitäjän olisi toteutettava kaikki kohtuulliset, muun muassa tekniset toimenpiteet, niiden tietojen suhteen, joiden julkistamisesta rekisterinpitäjä on vastuussa. Kun henkilötiedot julkistaa kolmas osapuoli, rekisterinpitäjän olisi katsottava olevan vastuussa julkistamisesta, jos rekisterinpitäjä on valtuuttanut kolmannen osapuolen julkistamaan tiedot."
+		},
+		{
+			"lang": "pl",
+			"text": "Aby wzmocnić „prawo do bycia zapomnianym” w internecie, prawo do usunięcia danych powinno być także rozszerzone w taki sposób, by administrator, który upublicznił dane, miał obowiązek poinformować osoby trzecie, które przetwarzają te dane, że podmiot przetwarzający dane złożył wniosek o usunięcie wszelkich linków do danych, kopii lub replikacji tych danych osobowych. Aby zapewnić przekazanie tych informacji, administrator powinien podjąć wszelkie racjonalne kroki, w tym środki techniczne, dotyczące danych, za których publikację odpowiada administrator. Jeśli chodzi o publikowanie danych osobowych przez osoby trzecie, administratora należy uznać za odpowiedzialnego za publikację tych danych, jeśli wyraził on zgodę na publikację tych danych przez osobę trzecią."
+		},
+		{
+			"lang": "lt",
+			"text": "siekiant sustiprinti teisę būti užmirštam internetinėje aplinkoje, teisė reikalauti ištrinti duomenis turėtų būti išplėsta taip, kad duomenų valdytojas, kuris asmens duomenis paskelbė viešai, būtų įpareigotas informuoti tokius duomenis tvarkančius trečiuosius asmenis apie duomenų subjekto prašymą ištrinti visas nuorodas į tuos duomenis, jų kopijas ar dublikatus. Dėl duomenų, už kurių paskelbimą duomenų valdytojas yra atsakingas, jis turėtų imtis visų pagrįstų veiksmų, įskaitant technines priemones, kad tokią informaciją perduotų tretiesiems asmenims. Kai asmens duomenis paskelbė tretieji asmenys, duomenų valdytojas turėtų būti laikomas atsakingu už jų paskelbimą, jei jis davė tokį leidimą;"
+		},
+		{
+			"lang": "nl",
+			"text": "Ter versterking van het “recht om te worden vergeten” door onlinetoepassingen, dient het recht op uitwissing van gegevens zodanig te worden uitgebreid, dat de voor de verwerking verantwoordelijke die de persoonsgegevens openbaar heeft gemaakt, verplicht is derden die dergelijke gegevens verwerken, ervan op de hoogte te stellen dat de betrokkene hun verzoekt iedere koppeling met, of kopie of reproductie van die persoonsgegevens uit te wissen. De voor de verwerking verantwoordelijke dient alle redelijke maatregelen te nemen, waaronder technische maatregelen, om te waarborgen dat voor gegevens waarvan de openbaarmaking zijn verantwoordelijkheid is, deze derden daadwerkelijk worden geïnformeerd. Ten aanzien van openbaarmaking van persoonsgegevens door een derde dient de voor de verwerking verantwoordelijke te worden beschouwd als verantwoordelijk voor de openbaarmaking als hij de derde toestemming heeft verleend voor de openbaarmaking."
+		},
+		{
+			"lang": "sv",
+			"text": "För att stärka ”rätten att bli bortglömd” i nätmiljön bör rätten till radering även utvidgas på ett sådant sätt att registeransvariga som offentliggjort personuppgifter bör vara förpliktigade att informera tredje part som behandlar dessa uppgifter om att en registrerad person begärt att de ska radera alla länkar till och kopior eller reproduktioner av dessa personuppgifter. För att säkerställa informationen i fråga bör registeransvariga vidta alla rimliga åtgärder, däribland tekniska sådana, vad avser de uppgifter som de är ansvariga för. När tredje part offentliggör personuppgifter bör de registeransvariga anses bära ansvaret för offentliggörandet om de har lämnat tillstånd till det."
+		}
+	],
+	"children": [],
+	"title": "Recital 54"
+}

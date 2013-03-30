@@ -1,0 +1,102 @@
+{
+	"id": "a12p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a12",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller shall establish procedures for providing the information referred to in Article 14 and for the exercise of the rights of data subjects referred to in Article 13 and Articles 15 to 19. The controller shall provide in particular mechanisms for facilitating the request for the actions referred to in Article 13 and Articles 15 to 19. Where personal data are processed by automated means, the controller shall also provide means for requests to be made electronically."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche legt fest, mittels welcher Verfahren er die Informationen gemäß Artikel 14 bereitstellt und den betroffenen Personen die Ausübung der ihnen gemäß Artikel 13 sowie den Artikeln 15 bis 19 zustehenden Rechte ermöglicht. Er trifft insbesondere Vorkehrungen, um die Beantragung der in Artikel 13 sowie in den Artikeln 15 bis 19 genannten Maßnahmen zu erleichtern. Im Falle der automatischen Verarbeitung personenbezogener Daten sorgt der für die Verarbeitung Verantwortliche dafür, dass die Maßnahme elektronisch beantragt werden kann."
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement établit les procédures d'information prévues à l’article 14 et les procédures d'exercice des droits des personnes concernées mentionnés aux articles 13, et 15 à 19. Il met notamment en place des mécanismes facilitant l’introduction de la demande portant sur les mesures prévues aux articles 13, et 15 à 19. Lorsque des données à caractère personnel font l'objet d'un traitement automatisé, le responsable du traitement doit également fournir les moyens d'effectuer des demandes par voie électronique."
+		},
+		{
+			"lang": "es",
+			"text": "El responsable del tratamiento establecerá procedimientos para facilitar la información contemplada en el artículo 14, y para el ejercicio de los derechos de los interesados contemplados en el artículo 13 y en los artículos 15 a 19. El responsable del tratamiento establecerá, en particular, mecanismos para facilitar la solicitud de las acciones contempladas en el artículo 13 y en los artículos 15 a 19. Cuando los datos personales se sometan a tratamiento de forma automatizada, el responsable también proporcionará medios para que las solicitudes se hagan por vía electrónica."
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento deve estabelecer os procedimentos de informação previstos no artigo 14.º, e os procedimentos de exercício dos direitos dos titulares de dados referidos no artigo 13.º, e nos artigos 15.º a 19.º. Deve prever, nomeadamente, mecanismos destinados a facilitar os pedidos sobre as medidas previstas no artigo 13.º, e nos artigos 15.º a 19.º. Sempre que os dados pessoais forem objeto de tratamento automatizado, o responsável pelo tratamento deve igualmente prever meios para a apresentação de pedidos por via eletrónica."
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento stabilisce le procedure d’informazione di cui all’articolo 14 e le procedure per l’esercizio dei diritti dell’interessato di cui all’articolo 13 e agli articoli da 15 a 19. Il responsabile del trattamento predispone in particolare i meccanismi per agevolare le richieste di cui all’articolo 13 e agli articoli da 15 a 19. Qualora i dati personali siano trattati con modalità automatizzate, il responsabile del trattamento predispone altresì i mezzi per inoltrare le richieste per via elettronica."
+		},
+		{
+			"lang": "ga",
+			"text": "Cuirfidh an rialaitheoir nósanna imeachta ar bun maidir le soláthar na faisnéise dá dtagraítear in Airteagal 14 agus maidir le feidhmiú chearta na ndaoine is ábhar do shonraí dá dtagraítear in Airteagal 13 agus in Airteagail 15 go 19. Cuirfidh an rialaitheoir sásraí ar bun go háirithe le go mbeidh sé níos éasca na gníomhaíochtaí dá dtagraítear in Airteagal 13 agus in Airteagail 15 go 19 a iarraidh. I gcás ina ndéantar sonraí pearsanta a phróiseáil trí mhodhanna uathoibrithe, cuirfidh an rialaitheoir modhanna ar fáil freisin lena bhféadfar iarrataí a dhéanamh go leictreonach."
+		},
+		{
+			"lang": "cs",
+			"text": "Správce zavede postupy pro poskytování informací uvedených v článku 14 a pro výkon práv subjektů údajů uvedených v článku 13 a článcích 15 až 19. Správce vytvoří zejména mechanismy pro zjednodušení žádosti o úkony uvedené v článku 13 a článcích 15 až 19. Pokud se osobní údaje zpracovávají automatizovanými prostředky, správce rovněž poskytne prostředky pro podávání žádostí v elektronické podobě."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige fastlægger procedurer for udlevering af de oplysninger, der er omhandlet i artikel 14, og for udøvelsen af de registreredes rettigheder, der er omhandlet i artikel 13 samt artikel 15-19. Den registeransvarlige fastlægger navnlig ordninger, der gør det lettere at fremsætte anmodninger om de handlinger, der er nævnt i artikel 13 samt artikel 15-19. Hvis personoplysninger behandles automatisk, fastlægger den registeransvarlige også midler til elektronisk indgivelse af anmodninger."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja kehtestab artiklis 14 osutatud teabe esitamise ning artiklites 13 ja 15–19 nimetatud andmesubjekti õiguste kasutamise korra. Ta sätestab eelkõige mehhanismid, mille kohaselt lihtsustatakse artiklites 13 ja 15–19 osutatud toimingute tegemise taotluse esitamist. Isikuandmete automatiseeritud töötlemisel teeb vastutav töötleja kättesaadavaks vahendid, millega taotluse saab esitada elektrooniliselt."
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας θεσπίζει διαδικασίες για την παροχή των πληροφοριών που αναφέρονται στο άρθρο 14 και για την άσκηση των δικαιωμάτων των προσώπων στα οποία αναφέρονται τα δεδομένα που προβλέπονται στο άρθρο 13 και στα άρθρα 15 έως 19. Ο υπεύθυνος επεξεργασίας προβλέπει ειδικότερα μηχανισμούς για τη διευκόλυνση υποβολής του αιτήματος για τις ενέργειες που αναφέρονται στο άρθρο 13 και στα άρθρα 15 έως 19. Εάν τα δεδομένα προσωπικού χαρακτήρα υποβάλλονται σε επεξεργασία με αυτοματοποιημένα μέσα, ο υπεύθυνος επεξεργασίας προβλέπει επίσης μέσα για την υποβολή των αιτημάτων με ηλεκτρονικό τρόπο."
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът установява процедури за предоставяне на информацията, посочена в член 14, и за упражняване на правата на субектите на данни, посочени в член 13 и членове 15—19. Администраторът осигурява по-специално механизми за улесняване на подаването на искания за действията, посочени в член 13 и членове 15—19. Когато личните данни се обработват с автоматични средства, администраторът осигурява също така средства за подаване на искания по електронен път."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő kialakítja a 14. cikk szerinti tájékoztatáshoz, valamint az érintettek 13. cikkben és 15–19. cikkben említett jogainak gyakorlásához szükséges eljárásokat. Az adatkezelő különösen a 13. cikkben és a 15–19. cikkben említett tevékenységek iránti kérelmek megkönnyítésére szolgáló mechanizmusokat biztosítja. Amennyiben a személyes adatokat automatizált módon dolgozzák fel, az adatkezelő biztosítja továbbá a kérelmek elektronikus úton történő benyújtásának lehetőségét is."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur għandu jistabbilixxi proċeduri għall-għoti tal-informazzjoni msemmija fl-Artikolu 14 u għall-eżerċizzju tad-drittijiet tas-suġġetti tad-dejta msemmija fl-Artikou 13 u l-Artikoli15 sa 19. Il-kontrollur għandu jipprovdi b’mod partikolari mekkaniżmi li jiffaċilitaw it-talba għall-azzjonijiet imsemmija fl-Artikolu 13 u l-Artikoli 15 sa 19. Meta d-dejta personali tkun ipproċessata b’mezzi awtomatizzati, il-kontrollur għandu jipprovdi wkoll mezzi sabiex it-talbiet isiru b’mod elettroniku."
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinis izveido procedūras 14. pantā minētās informācijas sniegšanai un 13. pantā un 15. – 19. pantā minēto datu subjekta tiesību izmantošanai. Pārzinis jo īpaši nodrošina mehānismus, kas atvieglo pieprasījumu veikt darbības, kas minētas 13. pantā un 15. – 19. pantā. Ja personas datus apstrādā automatizētiem līdzekļiem, pārzinis nodrošina līdzekļus, ar kuriem pieprasījumu var izdarīt elektroniski."
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul stabilește proceduri pentru furnizarea informațiilor prevăzute la articolul 14 și pentru exercitarea drepturilor persoanelor vizate menționate la articolul 13 și la articolele 15 - 19. Operatorul prevede în special mecanisme pentru facilitarea introducerii unei cereri privind acțiunile menționate la articolul 13 și la articolele 15 - 19. În cazul în care datele cu caracter personal fac obiectul unei prelucrări automatizate, operatorul prevede, de asemenea, modalitățile de introducere a cererilor pe cale electronică."
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ zavedie postupy na poskytovanie informácií uvedených v článku 14 a na výkon práv dotknutých osôb uvedených v článku 13 a v článkoch 15 až 19. Prevádzkovateľ zabezpečí najmä mechanizmy na zjednodušenie podania žiadosti o úkony uvedené v článku 13 a v článkoch 15 až 19. Ak sa osobné údaje spracúvajú automatizovanými prostriedkami, prevádzkovateľ takisto zabezpečí prostriedky na podávanie žiadostí v elektronickej podobe."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec določi postopke za zagotavljanje informacij iz člena 14 in za uveljavljanje pravic posameznikov, na katere se nanašajo osebni podatki, iz člena 13 in členov 15 do 19. Upravljavec zagotovi zlasti mehanizme za omogočanje zahtev za ukrepe iz člena 13 in členov 15 do 19. Kadar se osebni podatki obdelujejo s samodejnimi sredstvi, upravljavec zagotovi tudi sredstva za elektronsko vložitev zahtev."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän on vahvistettava menettelyt 14 artiklassa tarkoitettujen tietojen toimittamista sekä 13 artiklassa ja 15–19 artiklassa tarkoitettujen rekisteröidyn oikeuksien käyttämistä varten. Rekisterinpitäjän on laadittava erityisesti mekanismit, joiden avulla helpotetaan 13 artiklassa ja 15–19 artiklassa tarkoitettujen toimien pyytämistä. Jos henkilötietojen käsittely on automatisoitu, rekisterinpitäjän on tarjottava keinot esittää tällaiset pyynnöt sähköisesti."
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator ustanawia procedury udzielania informacji, o których mowa w art. 14 oraz wykonywania praw przez podmioty danych, o których mowa w art. 13 oraz art. 15-19. Administrator w szczególności zapewnia mechanizmy ułatwiające składanie wniosków o przeprowadzenie czynności, o których mowa w art. 13 oraz art. 15-19. Jeśli przetwarzanie danych odbywa się w sposób zautomatyzowany, administrator zapewnia także możliwość elektronicznego składania wniosków."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas nustato 14 straipsnyje nurodytos informacijos suteikimo ir naudojimosi 13 straipsnyje ir 15–19 straipsniuose nurodytomis duomenų subjektų teisėmis tvarką. Duomenų valdytojas visų pirma numato mechanizmus, kuriais palengvinamos galimybės prašyti taikyti 13 straipsnyje ir 15–19 straipsniuose nurodytas priemones. Kai asmens duomenys tvarkomi automatizuotomis priemonėmis, duomenų valdytojas taip pat užtikrina galimybes prašymus pateikti elektroniniu būdu."
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke stelt procedures vast voor het verstrekken van de in artikel 14 bedoelde informatie en voor de uitoefening van de in artikel 13 en de artikelen 15 tot en met 19 genoemde rechten van de betrokkene. De voor de verwerking verantwoordelijke zorgt met name voor mechanismen die het verzoek om de in de artikel 13 en de artikelen 15 tot en met 19 bedoelde acties vereenvoudigen. Wanneer persoonsgegevens geautomatiseerd worden verwerkt, zorgt de voor de verwerking verantwoordelijke ook voor middelen om verzoeken elektronisch in te dienen."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige ska inrätta förfaranden för att tillhandahålla den information som avses i artikel 14 och för de registrerades utövande av sina rättigheter i enlighet med artikel 13 och artiklarna 15–19. Den registeransvarige ska särskilt skapa rutiner för att underlätta begäran om de åtgärder som avses i artikel 13 och artiklarna 15–19. Om personuppgifter behandlas på automatisk väg ska den registeransvarige också skapa förutsättningar för att begäran ska kunna göras elektroniskt."
+		}
+	],
+	"children": [],
+	"title": "Article 12 – Paragraph 1"
+}

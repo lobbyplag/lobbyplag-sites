@@ -1,0 +1,108 @@
+{
+	"id": "a42",
+	"type": "article",
+	"literal": "42",
+	"parent": "c5",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Transfers by way of appropriate safeguards"
+		},
+		{
+			"lang": "de",
+			"text": "Datenübermittlung auf der Grundlage geeigneter Garantien"
+		},
+		{
+			"lang": "fr",
+			"text": "Transferts moyennant des garanties appropriées"
+		},
+		{
+			"lang": "es",
+			"text": "Transferencias mediante garantías apropiadas"
+		},
+		{
+			"lang": "pt",
+			"text": "Transferências mediante garantias adequadas"
+		},
+		{
+			"lang": "it",
+			"text": "Trasferimento in presenza di garanzie adeguate"
+		},
+		{
+			"lang": "ga",
+			"text": "Aistrithe trí bhíthin cosaintí iomchuí"
+		},
+		{
+			"lang": "cs",
+			"text": "Předávání založené na vhodných zárukách"
+		},
+		{
+			"lang": "da",
+			"text": "Videregivelse ved anvendelse af de fornødne garantier"
+		},
+		{
+			"lang": "et",
+			"text": "Edastamine asjakohaste kaitsemeetmete abil"
+		},
+		{
+			"lang": "el",
+			"text": "Διαβιβάσεις μέσω κατάλληλων εγγυήσεων"
+		},
+		{
+			"lang": "bg",
+			"text": "Предаване на данни с подходящи гаранции"
+		},
+		{
+			"lang": "hu",
+			"text": "Adattovábbítás megfelelő biztosítékok alapján"
+		},
+		{
+			"lang": "mt",
+			"text": "Trasferimenti b’ salvagwardji xierqa"
+		},
+		{
+			"lang": "lv",
+			"text": "Nosūtīšana, pamatojoties uz atbilstošiem aizsardzības pasākumiem"
+		},
+		{
+			"lang": "ro",
+			"text": "Transferurile în baza unor garanții adecvate"
+		},
+		{
+			"lang": "sk",
+			"text": "Prenos na základe náležitých záruk"
+		},
+		{
+			"lang": "sl",
+			"text": "Prenosi z ustreznimi zaščitnimi ukrepi"
+		},
+		{
+			"lang": "fi",
+			"text": "Siirto asianmukaisten takeiden perusteella"
+		},
+		{
+			"lang": "pl",
+			"text": "Operacje przekazywania dzięki odpowiednim gwarancjom"
+		},
+		{
+			"lang": "lt",
+			"text": "Perdavimas remiantis tinkamomis apsaugos priemonėmis"
+		},
+		{
+			"lang": "nl",
+			"text": "Doorgiften op basis van passende garanties"
+		},
+		{
+			"lang": "sv",
+			"text": "Överföring med stöd av lämpliga skyddsåtgärder"
+		}
+	],
+	"children": [
+		"a42p1",
+		"a42p2",
+		"a42p3",
+		"a42p4",
+		"a42p5"
+	],
+	"title": "Article 42"
+}

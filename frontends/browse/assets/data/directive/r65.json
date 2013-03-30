@@ -1,0 +1,102 @@
+{
+	"id": "r65",
+	"type": "recital",
+	"literal": "65",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "In order to demonstrate compliance with this Regulation, the controller or processor should document each processing operation. Each controller and processor should be obliged to co-operate with the supervisory authority and make this documentation, on request, available to it, so that it might serve for monitoring those processing operations."
+		},
+		{
+			"lang": "de",
+			"text": "Zum Nachweis der Einhaltung der in dieser Verordnung festgelegten Bestimmungen sollte der für die Verarbeitung Verantwortliche jeden Verarbeitungsvorgang dokumentieren. Jeder für die Verarbeitung Verantwortliche und jeder Auftragsverarbeiter sollte verpflichtet sein, mit der Aufsichtsbehörde zusammenzuarbeiten und dieser auf Verlangen die entsprechende Dokumentation vorzulegen, damit die betreffenden Verarbeitungsvorgänge anhand dieser Unterlagen kontrolliert werden können."
+		},
+		{
+			"lang": "fr",
+			"text": "Afin d’apporter la preuve qu'il se conforme au présent règlement, le responsable du traitement ou le sous‑traitant devrait consigner chaque opération de traitement. Chaque responsable du traitement et sous‑traitant devrait être tenu de coopérer avec l'autorité de contrôle et de mettre ces informations à sa disposition sur demande pour qu'elles servent au contrôle des opérations en question."
+		},
+		{
+			"lang": "es",
+			"text": "Para demostrar la conformidad con el presente Reglamento, el responsable o el encargado del tratamiento deben documentar cada operación de tratamiento. Todos los responsables y encargados del tratamiento están obligados a cooperar con la autoridad de control y a poner a su disposición, previa solicitud, dicha documentación, de modo que pueda servir para supervisar las operaciones de tratamiento."
+		},
+		{
+			"lang": "pt",
+			"text": "A fim de comprovar a observância do presente regulamento, o responsável pelo tratamento, ou o subcontratante, deve documentar cada operação de tratamento de dados. Cada responsável pelo tratamento e subcontratante devem ser obrigados a cooperar com a autoridade de controlo e a disponibilizar essa documentação, quando tal lhe for solicitado, para que possa servir ao controlo dessas operações de tratamento."
+		},
+		{
+			"lang": "it",
+			"text": "Per dimostrare che si conforma al presente regolamento, il responsabile del trattamento o l’incaricato del trattamento deve documentare ciascuna operazione di trattamento. Bisognerebbe obbligare tutti i responsabili del trattamento e gli incaricati del trattamento a cooperare con l’autorità di controllo e a mettere, su richiesta, detta documentazione a sua disposizione affinché possa servire per monitorare i trattamenti."
+		},
+		{
+			"lang": "ga",
+			"text": "Chun comhlíonadh an Rialacháin seo a léiriú, ba cheart don rialaitheoir nó don phróiseálaí gach oibríocht próiseála a dhoiciméadú. Ba cheart go mbeadh sé d’oibleagáid ar gach rialaitheoir agus próiseálaí comhoibriú leis an údarás maoirseachta agus an doiciméadú sin a chur ar fáil don údarás, arna iarraidh sin dó, le go bhféadfaí é a úsáid chun faireachán a dhéanamh ar na hoibríochtaí próiseála sin."
+		},
+		{
+			"lang": "cs",
+			"text": "Aby bylo prokázáno dodržování tohoto nařízení, měl by správce nebo zpracovatel vést záznamy o všech činnostech zpracování. Každý správce a zpracovatel by měl být povinen spolupracovat s orgánem dozoru a na jeho žádost mu zpřístupnit tyto záznamy, aby na jejich základě mohla být provedena kontrola zpracování."
+		},
+		{
+			"lang": "da",
+			"text": "For at påvise overensstemmelse med denne forordning bør den registeransvarlige eller registerføreren dokumentere hver behandlingsaktivitet. Hver registeransvarlig og registerfører bør have pligt til at samarbejde med tilsynsmyndigheden og efter anmodning stille denne dokumentation til rådighed for tilsynsmyndigheden, så den kan bruges til at kontrollere sådan behandling."
+		},
+		{
+			"lang": "et",
+			"text": "Käesoleva määruse täitmise tõendamiseks peaks vastutav töötleja või volitatud töötleja dokumenteerima iga töötlemistoimingu. Iga vastutav töötleja ja volitatud töötleja peaks olema kohustatud tegema järelevalveasutusega koostööd ja tegema nimetatud dokumendid taotluse korral kättesaadavaks, et neid saaks kasutada nimetatud töötlemistoimingute kontrollimiseks."
+		},
+		{
+			"lang": "el",
+			"text": "Για την απόδειξη της συμμόρφωσης προς τον παρόντα κανονισμό, ο υπεύθυνος επεξεργασίας ή ο εκτελών την επεξεργασία πρέπει να τεκμηριώνουν κάθε πράξη επεξεργασίας. Κάθε υπεύθυνος επεξεργασίας και κάθε εκτελών την επεξεργασία πρέπει να υποχρεούται να συνεργάζεται με την αρχή ελέγχου και να θέτει στη διάθεσή της, κατόπιν αιτήματός της, την εν λόγω τεκμηρίωση ώστε να μπορεί να τη χρησιμοποιήσει για την παρακολούθηση των συγκεκριμένων πράξεων επεξεργασίας."
+		},
+		{
+			"lang": "bg",
+			"text": "За да докаже съответствие с настоящия регламент, администраторът или обработващият лични данни следва да документира всяка операция по обработване. Всеки администратор и обработващ лични данни следва да бъде длъжен да си сътрудничи с надзорния орган и да му предоставя тази документация при поискване, за да може да бъде използвана за наблюдение на тези операции по обработване."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelőnek vagy -feldolgozónak az e rendelettel való összhang igazolása érdekében dokumentálnia kell minden adatfeldolgozási tevékenységet. Minden adatkezelő vagy -feldolgozó köteles a felügyelő hatósággal együttműködni és az említett dokumentációt – kérésre – hozzáférhetővé tenni az adatfeldolgozási műveletek esetleges ellenőrzése céljából."
+		},
+		{
+			"lang": "mt",
+			"text": "Sabiex juri l-konformità ma’ dan ir-Regolament, il-kontrollur jew il-proċessur għandu jiddokumenta kull operazzjoni ta’ pproċessar. Kull kontrollur u proċessur għandu jkun obbligat li jikkoopera mal-awtorità ta’ superviżjoni u jagħmel din id-dokumentazzjoni disponibbli meta tintalab, sabiex tkun tista’ sservi għas-sorveljanza ta’ dawn l-operazzjonijiet ta’ pproċessar."
+		},
+		{
+			"lang": "lv",
+			"text": "Lai uzskatāmi parādītu, ka ir ievēroti šīs regulas noteikumi, pārzinim vai apstrādātājam būtu jādokumentē katra apstrādes darbība. Katram pārzinim un apstrādātājam vajadzētu būt pienākumam sadarboties ar uzraudzības iestādi un pēc pieprasījuma darīt šo dokumentāciju pieejamu, lai tā varētu kalpot apstrādes darbību uzraudzības vajadzībām."
+		},
+		{
+			"lang": "ro",
+			"text": "În vederea demonstrării conformității cu prezentul regulament, operatorul sau persoana împuternicită de către operator ar trebui să documenteze fiecare operațiune de prelucrare. Fiecare operator și fiecare persoană împuternicită de către operator ar trebui să aibă obligația de a coopera cu autoritatea de supraveghere și de a pune la dispoziția acesteia, la cerere, documentația respectivă, pentru a putea fi utilizată în scopul monitorizării operațiunilor de prelucrare respective."
+		},
+		{
+			"lang": "sk",
+			"text": "Aby sa preukázal súlad s týmto nariadením, mal by prevádzkovateľ alebo sprostredkovateľ zdokumentovať každú operáciu spracovania. Každý prevádzkovateľ a sprostredkovateľ by mal byť povinný spolupracovať s dozorným orgánom a na požiadanie mu sprístupniť svoju dokumentáciu tak, aby tento orgán mohol vykonávať monitorovanie týchto operácií spracovania údajov."
+		},
+		{
+			"lang": "sl",
+			"text": "Za dokaz skladnosti s to uredbo bi moral upravljavec ali obdelovalec dokumentirati vsak postopek obdelave. Vsak upravljavec in obdelovalec bi moral biti zavezan k sodelovanju z nadzornimi organi in na zahtevo omogočiti dostop do te dokumentacije, da bi tako lahko služila spremljanju postopkov obdelave."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän tai henkilötietojen käsittelijän olisi dokumentoitava kaikki käsittelytoimet voidakseen osoittaa, että ne ovat tämän asetuksen mukaisia. Rekisterinpitäjät ja henkilötietojen käsittelijät olisi velvoitettava tekemään yhteistyötä valvontaviranomaisen kanssa ja esittämään sille pyydettäessä käsittelyä koskevat dokumentit, jotta tietojenkäsittelytoimia voidaan seurata niiden pohjalta."
+		},
+		{
+			"lang": "pl",
+			"text": "By wykazać zgodność z niniejszym rozporządzeniem, administrator lub podmiot przetwarzający powinni dokumentować każdą operację przetwarzania. Każdy administrator i podmiot przetwarzający powinni być zobowiązani do współpracy z organem nadzorczym oraz do udostępniania mu, na żądanie, dokumentacji, tak by mogła ona służyć do monitorowania tych operacji przetwarzania."
+		},
+		{
+			"lang": "lt",
+			"text": "kad įrodytų, jog laikosi šio reglamento, duomenų valdytojas arba tvarkytojas turėtų dokumentuoti kiekvieną duomenų tvarkymo operaciją. Kiekvienas duomenų valdytojas ir duomenų tvarkytojas turėtų būti įpareigotas bendradarbiauti su priežiūros institucija ir paprašius pateikti turimus dokumentus, kad pagal juos būtų galima patikrinti tvarkymo operacijas;"
+		},
+		{
+			"lang": "nl",
+			"text": "Voor het aantonen van overeenstemming met deze verordening dient de voor de verwerking verantwoordelijke of de verwerker elke verwerking te documenteren. Elke voor de verwerking verantwoordelijke en elke verwerker dient ertoe te worden verplicht medewerking te verlenen aan de toezichthoudende autoriteit en deze documentatie op verzoek te verstrekken met het oog op het gebruik daarvan voor het toezicht op verwerkingsactiviteiten."
+		},
+		{
+			"lang": "sv",
+			"text": "För att påvisa att denna förordning följs, bör de registeransvariga eller registerförarna dokumentera varje behandling. Alla registeransvariga och registerförare bör vara skyldiga att samarbeta med tillsynsmyndigheten och på dennas begäran göra dokumenteringen tillgänglig så att den kan tjäna som grund för övervakningen av behandlingen."
+		}
+	],
+	"children": [],
+	"title": "Recital 65"
+}

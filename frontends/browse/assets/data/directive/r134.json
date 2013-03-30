@@ -1,0 +1,102 @@
+{
+	"id": "r134",
+	"type": "recital",
+	"literal": "134",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Directive 95/46/EC should be repealed by this Regulation. However, Commission decisions adopted and authorisations by supervisory authorities based on Directive 95/46/EC should remain in force."
+		},
+		{
+			"lang": "de",
+			"text": "Die Richtlinie 95/46/EG sollte durch diese Verordnung aufgehoben werden. Die Genehmigungen der Aufsichtsbehörden und die Beschlüsse der Kommission auf der Grundlage der Richtlinie 95/46/EG sollten jedoch in Kraft bleiben."
+		},
+		{
+			"lang": "fr",
+			"text": "La directive 95/46/CE devrait être abrogée par le présent règlement. Néanmoins, les décisions de la Commission qui ont été adoptées, et les autorisations qui ont été accordées par les autorités de contrôle, sur le fondement de ladite directive devraient demeurer en vigueur."
+		},
+		{
+			"lang": "es",
+			"text": "La Directiva 95/46/CE debe ser derogada por el presente Reglamento. Sin embargo, deben seguir en vigor las decisiones de la Comisión adoptadas y las autorizaciones dictadas por las autoridades de control sobre la base de la Directiva 95/46/CE."
+		},
+		{
+			"lang": "pt",
+			"text": "A Diretiva 95/46/CE é revogada pelo presente regulamento. Todavia, as decisões da Comissão que foram adotadas e as autorizações que foram emitidas pelas autoridades de controlo com base da Diretiva 95/46/CE, permanecem em vigor."
+		},
+		{
+			"lang": "it",
+			"text": "Il presente regolamento dovrebbe abrogare la direttiva 95/46/CE. Ciò nondimeno, è opportuno che rimangano in vigore le decisioni della Commissione e le autorizzazioni delle autorità di controllo basate sulla direttiva 95/46/CE."
+		},
+		{
+			"lang": "ga",
+			"text": "Ba cheart Treoir 95/46/CE a aisghairm leis an Rialachán seo. Mar sin féin, ba cheart go bhfanfadh cinntí ón gCoimisiún a glacadh cheana agus údaruithe údarás maoirseachta atá bunaithe ar Threoir 95/46/CE de bheith i bhfeidhm."
+		},
+		{
+			"lang": "cs",
+			"text": "Směrnice 95/46/ES by tudíž měla být tímto nařízením zrušena. Avšak přijatá rozhodnutí Komise a schválení orgánů dozoru vycházející ze směrnice 95/46/ES by měla zůstat v platnosti."
+		},
+		{
+			"lang": "da",
+			"text": "Direktiv 95/46/EF bør ophæves ved denne forordning. Kommissionens afgørelser, der er vedtaget i henhold til direktiv 95/46/EF, og tilsynsmyndigheders godkendelser baseret på direktiv 95/46/EF bør dog fortsat gælde."
+		},
+		{
+			"lang": "et",
+			"text": "Direktiiv 95/46/EÜ tuleks tunnistada käesoleva määrusega kehtetuks. Direktiivi 95/46/EÜ alusel komisjoni vastu võetud otsused ja järelevalveasutuste antud load peaksid siiski jääma kehtima."
+		},
+		{
+			"lang": "el",
+			"text": "Η οδηγία 95/46/ΕΚ πρέπει να καταργηθεί με τον παρόντα κανονισμό. Ωστόσο, οι αποφάσεις της Επιτροπής και οι εγκρίσεις αρχών ελέγχου που εκδόθηκαν βάσει της οδηγίας 95/46/ΕΚ πρέπει να παραμείνουν σε ισχύ."
+		},
+		{
+			"lang": "bg",
+			"text": "Директива 95/46/ЕО следва да бъде отменена с настоящия регламент. Приетите въз основа на Директива 95/46/ЕО решения на Комисията и разрешения на надзорните органи обаче следва да останат в сила."
+		},
+		{
+			"lang": "hu",
+			"text": "E rendelet hatályon kívül helyezi a 95/46/EK irányelvet. Mindazonáltal a 95/46/EK irányelv alapján a Bizottság által hozott határozatok, valamint a felügyelő hatóságok által kiadott engedélyek továbbra is hatályban maradnak."
+		},
+		{
+			"lang": "mt",
+			"text": "Id-Direttiva 95/46/KE għandha tiġi rrevokata minn dan ir-Regolament. Madankollu, id-deċiżjonijiet adottati mill-Kummissjoni u l-awtorizzazzjonijiet mill-awtoritajiet ta’ superviżjoni bbażati fuq id-Direttiva 95/46/KE għandhom jibqgħu fis-seħħ."
+		},
+		{
+			"lang": "lv",
+			"text": "Ar šo regulu būtu jāaizstāj Direktīva 95/46/EK. Tomēr saskaņā ar šo direktīvu pieņemtajiem Komisijas lēmumiem un izsniegtajām uzraudzības iestāžu atļaujām, būtu jāpaliek spēkā."
+		},
+		{
+			"lang": "ro",
+			"text": "Directiva 95/46/CE ar trebui să fie abrogată prin prezentul regulament. Cu toate acestea, deciziile Comisiei care au fost adoptate și autorizațiile care au fost emise de autoritățile de supraveghere pe baza Directivei 95/46/CE ar trebui să rămână în vigoare."
+		},
+		{
+			"lang": "sk",
+			"text": "Smernica 95/46/ES by sa mala týmto nariadením zrušiť. Rozhodnutia, ktoré Komisia prijala, a povolenia, ktoré dozorné orgány vydali na základe smernice 95/46/ES, však zostávajú v platnosti."
+		},
+		{
+			"lang": "sl",
+			"text": "S to uredbo bi bilo treba razveljaviti Direktivo 95/46/ES. Sklepi, ki jih je na podlagi Direktive 95/46/ES sprejela Komisija, in odobritve s strani nadzornih organov bi morali ostati v veljavi."
+		},
+		{
+			"lang": "fi",
+			"text": "Direktiivi 95/46/EY olisi korvattava tällä asetuksella. Direktiiviin 95/46/EY perustuvien komission päätösten ja valvontaviranomaisten antamien ennakkohyväksyntöjen olisi kuitenkin jäätävä voimaan."
+		},
+		{
+			"lang": "pl",
+			"text": "Dyrektywa 95/46/WE powinna zostać uchylona niniejszym rozporządzeniem. Decyzje przyjęte przez Komisję oraz zezwolenia wydane przez organy nadzorcze na podstawie dyrektywy 95/46/WE powinny jednak pozostać w mocy."
+		},
+		{
+			"lang": "lt",
+			"text": "Direktyva 95/46/EB turėtų būti panaikinta šiuo reglamentu. Tačiau pagal Direktyvą 95/46/EB Komisijos priimti sprendimai ir priežiūros institucijų suteikti leidimai turėtų toliau galioti;"
+		},
+		{
+			"lang": "nl",
+			"text": "Richtlijn 95/46/EG dient door deze verordening te worden vervangen. Voor zover besluiten van de Commissie en door de toezichthoudende autoriteiten verleende toestemmingen zijn gebaseerd op Richtlijn 95/46/EG dienen zij echter van kracht te blijven."
+		},
+		{
+			"lang": "sv",
+			"text": "Direktiv 95/46/EG ska därför ersättas med denna förordning. Kommissionens beslut som antagits och tillsynsmyndigheternas tillstånd på grundval av direktiv 95/46/EC bör dock fortsatt vara giltiga."
+		}
+	],
+	"children": [],
+	"title": "Recital 134"
+}

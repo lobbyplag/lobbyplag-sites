@@ -1,0 +1,102 @@
+{
+	"id": "a6p1i5",
+	"type": "point",
+	"literal": "e",
+	"parent": "a6p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller;"
+		},
+		{
+			"lang": "de",
+			"text": "Die Verarbeitung ist für die Wahrnehmung einer Aufgabe erforderlich, die im öffentlichen Interesse liegt oder in Ausübung hoheitlicher Gewalt erfolgt und die dem für die Verarbeitung Verantwortlichen übertragen wurde."
+		},
+		{
+			"lang": "fr",
+			"text": "le traitement est nécessaire à l'exécution d'une mission effectuée dans l'intérêt général ou relevant de l'exercice de l'autorité publique dont est investi le responsable du traitement;"
+		},
+		{
+			"lang": "es",
+			"text": "el tratamiento es necesario para el cumplimiento de una misión de interés público o inherente al ejercicio del poder público conferido al responsable del tratamiento;"
+		},
+		{
+			"lang": "pt",
+			"text": "O tratamento for necessário ao exercício de funções de interesse público ou ao exercício da autoridade pública de que está investido o responsável pelo tratamento;"
+		},
+		{
+			"lang": "it",
+			"text": "il trattamento è necessario per l’esecuzione di un compito di interesse pubblico o connesso all’esercizio di pubblici poteri di cui è investito il responsabile del trattamento;"
+		},
+		{
+			"lang": "ga",
+			"text": "is gá an phróiseáil a dhéanamh chun cúram éigin a chur i gcrích a dhéantar chun leas an phobail nó i bhfeidhmiú údaráis oifigiúil atá dílsithe don rialaitheoir;"
+		},
+		{
+			"lang": "cs",
+			"text": "zpracování je nezbytné pro splnění úkolu prováděného ve veřejném zájmu nebo při výkonu veřejné moci, kterým je pověřen správce;"
+		},
+		{
+			"lang": "da",
+			"text": "behandlingen er nødvendig for udførelse af en opgave i samfundets interesse eller henhørende under offentlig myndighedsudøvelse, som den registeransvarlige har fået pålagt"
+		},
+		{
+			"lang": "et",
+			"text": "töötlemine on vajalik avalikes huvides oleva ülesande täitmiseks või vastutava töötleja avaliku võimu teostamiseks;"
+		},
+		{
+			"lang": "el",
+			"text": "ε) η επεξεργασία είναι απαραίτητη για την εκπλήρωση καθήκοντος δημόσιου συμφέροντος ή για την άσκηση δημόσιας εξουσίας που έχει ανατεθεί στον υπεύθυνο της επεξεργασίας·"
+		},
+		{
+			"lang": "bg",
+			"text": "д) обработването е необходимо за изпълнението на задача от обществен интерес или при упражняването на официални правомощия, които са предоставени на администратора;"
+		},
+		{
+			"lang": "hu",
+			"text": "az adatfeldolgozás közérdekű feladat végrehajtásához vagy az adatkezelőre ruházott hivatali hatáskör gyakorlásához szükséges;"
+		},
+		{
+			"lang": "mt",
+			"text": "l-ipproċessar huwa meħtieġ għat-twettiq ta’ kompitu li jsir fl-interess pubbliku jew fl-eżerċizzju ta’ awtorità uffiċjali mogħtija lill-kontrollur;"
+		},
+		{
+			"lang": "lv",
+			"text": "apstrāde ir vajadzīga, lai veiktu uzdevumu sabiedrības interesēs vai pārzinim likumīgi piešķirtu valsts varas īstenošanas pilnvaru ietvaros;"
+		},
+		{
+			"lang": "ro",
+			"text": "prelucrarea este necesară pentru îndeplinirea unei sarcini care servește unui interes public sau care rezultă din exercitarea autorității publice cu care este învestit operatorul;"
+		},
+		{
+			"lang": "sk",
+			"text": "spracovanie je nevyhnutné na splnenie úlohy vykonávanej vo verejnom záujme alebo v rámci uplatňovania oficiálneho poverenia prevádzkovateľa;"
+		},
+		{
+			"lang": "sl",
+			"text": "obdelava je potrebna za opravljanje naloge v javnem interesu ali pri izvajanju javne oblasti, dodeljene upravljavcu;"
+		},
+		{
+			"lang": "fi",
+			"text": "käsittely on tarpeen yleistä etua koskevan tehtävän suorittamista tai rekisterinpitäjälle kuuluvan julkisen vallan käyttämistä varten;"
+		},
+		{
+			"lang": "pl",
+			"text": "przetwarzanie jest niezbędne do wykonania zadania realizowanego w interesie publicznym lub wykonania władzy publicznej powierzonej administratorowi;"
+		},
+		{
+			"lang": "lt",
+			"text": "tvarkyti duomenis reikia siekiant įvykdyti duomenų valdytojui pavestą viešojo intereso užduotį arba įgyvendinti valdžios įgaliojimus;"
+		},
+		{
+			"lang": "nl",
+			"text": "de verwerking is noodzakelijk voor de vervulling van een taak van algemeen belang of een taak die deel uitmaakt van de uitoefening van het openbaar gezag dat aan de voor de verwerking verantwoordelijke is opgedragen;"
+		},
+		{
+			"lang": "sv",
+			"text": "Behandlingen är nödvändig för att utföra en arbetsuppgift av allmänt intresse eller som är ett led i myndighetsutövning som utförs av den registeransvarige."
+		}
+	],
+	"children": [],
+	"title": "Article 6 – Paragraph 1 – Point 5"
+}

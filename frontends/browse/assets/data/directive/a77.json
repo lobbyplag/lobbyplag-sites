@@ -1,0 +1,106 @@
+{
+	"id": "a77",
+	"type": "article",
+	"literal": "77",
+	"parent": "c8",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Right to compensation and liability"
+		},
+		{
+			"lang": "de",
+			"text": "Haftung und Recht auf Schadenersatz"
+		},
+		{
+			"lang": "fr",
+			"text": "Droit à réparation et responsabilité"
+		},
+		{
+			"lang": "es",
+			"text": "Derecho a indemnización y responsabilidad"
+		},
+		{
+			"lang": "pt",
+			"text": "Direito de indemnização e responsabilidade"
+		},
+		{
+			"lang": "it",
+			"text": "Diritto al risarcimento e responsabilità"
+		},
+		{
+			"lang": "ga",
+			"text": "Ceart chun cúitimh agus dliteanas"
+		},
+		{
+			"lang": "cs",
+			"text": "Právo na odškodnění a odpovědnost"
+		},
+		{
+			"lang": "da",
+			"text": "Ret til erstatning og erstatningsansvar"
+		},
+		{
+			"lang": "et",
+			"text": "Õigus hüvitisele ja vastutus"
+		},
+		{
+			"lang": "el",
+			"text": "Δικαίωμα αποζημίωσης και ευθύνη"
+		},
+		{
+			"lang": "bg",
+			"text": "Право на обезщетение и отговорност за причинени вреди"
+		},
+		{
+			"lang": "hu",
+			"text": "A kártérítéshez való jog és a felelősség"
+		},
+		{
+			"lang": "mt",
+			"text": "Dritt għal kumpens u responsabbiltà"
+		},
+		{
+			"lang": "lv",
+			"text": "Tiesības uz kompensāciju un atbildība"
+		},
+		{
+			"lang": "ro",
+			"text": "Dreptul la despăgubiri și răspundere"
+		},
+		{
+			"lang": "sk",
+			"text": "Právo na kompenzáciu a zodpovednosť"
+		},
+		{
+			"lang": "sl",
+			"text": "Pravica do odškodnine in odgovornost"
+		},
+		{
+			"lang": "fi",
+			"text": "Vastuu ja oikeus korvauksen saamiseen"
+		},
+		{
+			"lang": "pl",
+			"text": "Prawo do odszkodowania i odpowiedzialność"
+		},
+		{
+			"lang": "lt",
+			"text": "Teisė reikalauti atlyginti žalą ir atsakomybė"
+		},
+		{
+			"lang": "nl",
+			"text": "Recht op vergoeding en aansprakelijkheid"
+		},
+		{
+			"lang": "sv",
+			"text": "Ansvar och rätt till ersättning"
+		}
+	],
+	"children": [
+		"a77p1",
+		"a77p2",
+		"a77p3"
+	],
+	"title": "Article 77"
+}

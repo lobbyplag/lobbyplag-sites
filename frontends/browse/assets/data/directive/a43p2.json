@@ -1,0 +1,114 @@
+{
+	"id": "a43p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a43",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The binding corporate rules shall at least specify:"
+		},
+		{
+			"lang": "de",
+			"text": "Alle verbindlichen unternehmensinternen Vorschriften enthalten mindestens folgende Informationen:"
+		},
+		{
+			"lang": "fr",
+			"text": "Les règles d'entreprise contraignantes précisent au moins:"
+		},
+		{
+			"lang": "es",
+			"text": "Las normas corporativas vinculantes especificarán, como mínimo:"
+		},
+		{
+			"lang": "pt",
+			"text": "As regras vinculativas para empresas devem, pelo menos, especificar:"
+		},
+		{
+			"lang": "it",
+			"text": "Le norme vincolanti d’impresa specificano almeno:"
+		},
+		{
+			"lang": "ga",
+			"text": "Sonrófar na nithe seo a leanas ar a laghad sna rialacha ceangailteacha corparáideacha:"
+		},
+		{
+			"lang": "cs",
+			"text": "Závazná podniková pravidla vymezují přinejmenším:"
+		},
+		{
+			"lang": "da",
+			"text": "De bindende virksomhedsregler angiver mindst:"
+		},
+		{
+			"lang": "et",
+			"text": "Siduvates ettevõtluseeskirjades peab vähemalt olema täpsustatud:"
+		},
+		{
+			"lang": "el",
+			"text": "Οι δεσμευτικοί εταιρικοί κανόνες προσδιορίζουν κατ’ ελάχιστο:"
+		},
+		{
+			"lang": "bg",
+			"text": "В задължителните фирмени правила се указват най-малко:"
+		},
+		{
+			"lang": "hu",
+			"text": "A kötelező erejű vállalati szabályok meghatározzák legalább az alábbiakat:"
+		},
+		{
+			"lang": "mt",
+			"text": "Ir-regoli korporattivi vinkolanti għandhom mill-inqas jispeċifikaw:"
+		},
+		{
+			"lang": "lv",
+			"text": "Saistošajos uzņēmuma noteikumos vismaz norāda:"
+		},
+		{
+			"lang": "ro",
+			"text": "Regulile corporatiste obligatorii trebuie să precizeze cel puțin:"
+		},
+		{
+			"lang": "sk",
+			"text": "Záväzné firemné pravidlá obsahujú prinajmenšom:"
+		},
+		{
+			"lang": "sl",
+			"text": "Zavezujoča poslovna pravila določajo vsaj:"
+		},
+		{
+			"lang": "fi",
+			"text": "Yritystä koskevissa sitovissa säännöissä on täsmennettävä vähintään seuraavat seikat:"
+		},
+		{
+			"lang": "pl",
+			"text": "Wiążące reguły korporacyjne określają co najmniej:"
+		},
+		{
+			"lang": "lt",
+			"text": "Įmonei privalomomis taisyklėmis nustatoma bent:"
+		},
+		{
+			"lang": "nl",
+			"text": "In de bindende bedrijfsvoorschriften worden minimaal de volgende elementen vastgelegd:"
+		},
+		{
+			"lang": "sv",
+			"text": "De bindande företagsbestämmelserna ska åtminstone precisera"
+		}
+	],
+	"children": [
+		"a43p2i1",
+		"a43p2i2",
+		"a43p2i3",
+		"a43p2i4",
+		"a43p2i5",
+		"a43p2i6",
+		"a43p2i7",
+		"a43p2i8",
+		"a43p2i9",
+		"a43p2i10",
+		"a43p2i11"
+	],
+	"title": "Article 43 – Paragraph 2"
+}

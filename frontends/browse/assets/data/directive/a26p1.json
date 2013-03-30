@@ -1,0 +1,102 @@
+{
+	"id": "a26p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a26",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Where a processing operation is to be carried out on behalf of a controller, the controller shall choose a processor providing sufficient guarantees to implement appropriate technical and organisational measures and procedures in such a way that the processing will meet the requirements of this Regulation and ensure the protection of the rights of the data subject, in particular in respect of the technical security measures and organizational measures governing the processing to be carried out and shall ensure compliance with those measures."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche wählt für alle in seinem Auftrag durchzuführenden Verarbeitungsvorgänge einen Auftragsverarbeiter aus, der hinreichende Garantien dafür bietet, dass die betreffenden technischen und organisatorischen Maßnahmen so durchgeführt werden, dass die Verarbeitung im Einklang mit den Anforderungen dieser Verordnung erfolgt und dass der Schutz der Rechte der betroffenen Person durch geeignete technische Sicherheitsvorkehrungen und organisatorische Maßnahmen für die vorzunehmende Verarbeitung sichergestellt wird; zudem sorgt er dafür, dass diese Maßnahmen eingehalten werden."
+		},
+		{
+			"lang": "fr",
+			"text": "Lorsque le traitement est effectué pour son compte, le responsable du traitement choisit un sous‑traitant qui présente des garanties suffisantes de mise en œuvre des mesures et procédures techniques et organisationnelles appropriées, de manière à ce que le traitement soit conforme aux prescriptions du présent règlement et garantisse la protection des droits de la personne concernée, en ce qui concerne notamment les mesures de sécurité technique et d'organisation régissant le traitement à effectuer, et veille au respect de ces mesures."
+		},
+		{
+			"lang": "es",
+			"text": "Cuando una operación de tratamiento vaya a ser llevada a cabo por cuenta de un responsable del tratamiento, este elegirá un encargado del tratamiento que ofrezca garantías suficientes para implementar medidas y procedimientos técnicos y organizativos apropiados, de manera que el tratamiento sea conforme con las disposiciones del presente Reglamento y garantice la protección de los derechos del interesado, en particular en lo que respecta a las medidas de seguridad técnica y organizativas que rigen el tratamiento que vaya a efectuarse, y velará por que se cumplan dichas medidas."
+		},
+		{
+			"lang": "pt",
+			"text": "Sempre que o tratamento de dados for efetuado por sua conta, o responsável pelo tratamento escolhe um subcontratante que apresente garantias suficientes de execução das medidas e procedimentos técnicos e organizativos apropriados, de forma a que esse tratamento seja conforme com os requisitos do presente regulamento e garanta a proteção dos direitos do titular de dados, nomeadamente quanto às medidas de segurança técnica e medidas organizativas que regulam o procedimento a realizar, devendo o responsável pelo tratamento assegurar o cumprimento dessas medidas."
+		},
+		{
+			"lang": "it",
+			"text": "Qualora il trattamento debba essere effettuato per conto del responsabile del trattamento, questi sceglie un incaricato del trattamento che presenti garanzie sufficienti per mettere in atto misure e procedure tecniche e organizzative adeguate in modo tale che il trattamento sia conforme al presente regolamento e assicuri la tutela dei diritti dell’interessato, con particolare riguardo alle misure di sicurezza tecnica e organizzative in relazione ai trattamenti da effettuare, e si assicura del rispetto di tali misure."
+		},
+		{
+			"lang": "ga",
+			"text": "I gcás ina bhfuil oibríocht próiseála le déanamh thar ceann rialaitheora, roghnóidh an rialaitheoir próiseálaí a thugann ráthaíochtaí leordhóthanacha chun bearta agus nósanna imeachta iomchuí teicniúla agus eagraíochtúla a chur chun feidhme sa dóigh is go gcomhlíonfaidh an phróiseáil ceanglais an Rialacháin seo agus go n‑áiritheofar cosaint do chearta an duine is ábhar do na sonraí, go háirithe i ndáil le bearta teicniúla slándála agus bearta eagraíochtúla lena rialaítear an phróiseáil atá le déanamh, agus áiritheoidh an rialaitheoir go gcomhlíontar na bearta sin."
+		},
+		{
+			"lang": "cs",
+			"text": "Má-li být provedeno zpracování údajů jménem správce, správce vybere zpracovatele, který nabízí dostatečné záruky k přijetí vhodných technických a organizačních opatření a postupů tak, aby dané zpracování splňovalo požadavky tohoto nařízení a zaručovalo ochranu práv subjektu údajů, zejména pokud jde o technická bezpečnostní opatření a organizační opatření, jimiž se bude plánované zpracování řídit, a zajistí soulad s těmito opatřeními."
+		},
+		{
+			"lang": "da",
+			"text": "Hvis en behandlingsaktivitet foretages på vegne af en registeransvarlig, vælger den registeransvarlige en registerfører, som giver de fornødne garantier for gennemførelsen af passende tekniske og organisatoriske foranstaltninger og procedurer, så behandlingen opfylder denne forordnings krav og sikrer beskyttelsen af den registreredes rettigheder, herunder især med hensyn til de tekniske sikkerhedsforanstaltninger og organisatoriske foranstaltninger, der regulerer den behandling, der foretages, og sikrer overensstemmelse med disse foranstaltninger."
+		},
+		{
+			"lang": "et",
+			"text": "Kui vastutav töötleja soovib lasta isikuandmeid töödelda enda nimel, volitab ta selleks töötleja, kes võtab käesoleva määruse nõuete täitmiseks ja andmesubjekti õiguste kaitsmiseks vajalikke tehnilisi ja organisatsioonilisi meetmeid, eelkõige tehnilisi turbemeetmeid ja töötlemise organisatsioonilisi meetmeid, ning tagab nende järgimise."
+		},
+		{
+			"lang": "el",
+			"text": "Εάν μια πράξη επεξεργασίας πρόκειται να εκτελεσθεί για λογαριασμό υπευθύνου επεξεργασίας, ο υπεύθυνος επεξεργασίας επιλέγει έναν εκτελούντα την επεξεργασία ο οποίος παρέχει επαρκείς εγγυήσεις για την εφαρμογή κατάλληλων τεχνικών και οργανωτικών μέτρων και διαδικασιών, κατά τρόπο ώστε η επεξεργασία να πληροί τις απαιτήσεις του παρόντος κανονισμού και να διασφαλίζεται η προστασία των δικαιωμάτων του προσώπου στο οποίο αναφέρονται τα δεδομένα σε σχέση με τα τεχνικά μέτρα ασφάλειας και τα οργανωτικά μέτρα τα οποία διέπουν την επεξεργασία που πρόκειται να εκτελεσθεί, και διασφαλίζει τη συμμόρφωση προς τα εν λόγω μέτρα."
+		},
+		{
+			"lang": "bg",
+			"text": "Когато дадена операция по обработване се извършва от името на даден администратор, последният избира обработващ лични данни, който предоставя достатъчни гаранции, че ще приложи подходящи технически и организационни мерки и процедури, така че обработването да отговаря на изискванията на настоящия регламент и да гарантира защитата на правата на субекта на данни, по-специално по отношение на техническите мерки за сигурност и организационните мерки, управляващи обработването, които трябва да бъдат изпълнени, както и да гарантира спазването на тези мерки."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő – amennyiben az adatfeldolgozás az ő nevében történik – köteles olyan adatfeldolgozót választani, amely a megfelelő technikai és szervezési intézkedések és eljárások tekintetében kellő garanciákat nyújt oly módon, hogy a feldolgozás megfelel e rendelet követelményeinek, és biztosítja az érintett jogainak védelmét, különösen az elvégzendő feldolgozást szabályozó technikai biztonsági és szervezési intézkedések tekintetében, továbbá köteles biztosítani az említett intézkedések teljesítését."
+		},
+		{
+			"lang": "mt",
+			"text": "Meta operazzjoni ta’ pproċessar tkun sejra ssir f’isem kontrollur, il-kontrollur għandu jagħżel proċessur li jipprovdi biżżejjed garanziji sabiex jimplimenta miżuri u proċeduri tekniċi u organizzattivi xierqa b’mod li l-ipproċessar jissodisfa r-rekwiżiti ta’ dan ir-Regolament u jassigura l-protezzjoni tad-drittijiet tas-suġġett tad-dejta, b’mod partikolari fir-rigward tal-miżuri ta’ sigurtà tekniċi u l-miżuri organizzattivi li jirregolaw l-ipproċessar li għandu jsir u għandu jassigura l-konformità ma’ dawk il-miżuri."
+		},
+		{
+			"lang": "lv",
+			"text": "Ja apstrādes darbību veic pārziņa vārdā, pārzinis izvēlas apstrādātāju, kas pietiekami garantē, ka tiks īstenoti piemēroti tehniskie un organizatoriskie pasākumi un procedūras tādā veidā, ka apstrāde atbildīs šīs regulas prasībām, un nodrošina datu subjektu tiesību aizsardzību, jo īpaši attiecībā uz apstrādi reglamentējošiem tehnikas drošības pasākumiem un organizatoriskajiem pasākumiem, un nodrošina šo pasākumu ievērošanu."
+		},
+		{
+			"lang": "ro",
+			"text": "În cazul în care o operațiune de prelucrare se realizează în numele operatorului, operatorul alege o persoană împuternicită care oferă garanții suficiente pentru punerea în aplicare a măsurilor și a procedurilor tehnice și organizatorice adecvate, astfel încât prelucrarea să respecte cerințele prevăzute în prezentul regulament și să asigure protecția drepturilor persoanei vizate, în special în ceea ce privește măsurile de securitate tehnică și de organizare privind prelucrarea care urmează să fie efectuată, și veghează la respectarea acestor măsuri."
+		},
+		{
+			"lang": "sk",
+			"text": "Ak sa operácia spracovania má vykonať v mene prevádzkovateľa, prevádzkovateľ si zvolí sprostredkovateľa poskytujúceho dostatočné záruky, že uplatní vhodné technické a organizačné opatrenia a postupy tak, aby spracovanie spĺňalo požiadavky tohto nariadenia a aby sa zabezpečila ochrana práv dotknutej osoby, najmä pokiaľ ide o technické bezpečnostné opatrenia a organizačné opatrenia, ktorými sa bude riadiť plánované spracovanie, a že zabezpečí dodržanie týchto opatrení."
+		},
+		{
+			"lang": "sl",
+			"text": "Kadar se postopek obdelave izvaja v imenu upravljavca, upravljavec izbere obdelovalca, ki zagotovi zadostna jamstva za izvedbo ustreznih tehničnih in organizacijskih ukrepov in postopkov na tak način, da obdelava ustreza zahtevam te uredbe in zagotovi zaščito pravic posameznika, na katerega se nanašajo osebni podatki, zlasti glede tehničnih varnostnih ukrepov in organizacijskih ukrepov, ki urejajo obdelavo, ki jo je treba izvesti, ter zagotovi skladnost s temi ukrepi."
+		},
+		{
+			"lang": "fi",
+			"text": "Jos käsittelytoimi suoritetaan rekisterinpitäjän lukuun, tämän on valittava henkilötietojen käsittelijä, joka antaa riittävät takeet siitä, että käsittelyyn liittyvät tekniset ja organisatoriset toimet ja menettelyt toteutetaan niin, että käsittely täyttää tämän asetuksen vaatimukset ja varmistaa rekisteröidyn oikeuksien suojelun, erityisesti suoritettavaa käsittelyä koskevien teknisten turvatoimien ja organisatoristen toimien osalta, ja varmistettava kyseisten toimenpiteiden noudattamisen."
+		},
+		{
+			"lang": "pl",
+			"text": "Jeśli operacja przetwarzania jest realizowana w imieniu administratora, administrator wybiera podmiot przetwarzający dający wystarczające gwarancje wdrożenia odpowiednich środków i procedur technicznych i organizacyjnych, by przetwarzanie odpowiadało wymogom niniejszego rozporządzenia i gwarantowało ochronę praw podmiotów danych, w szczególności jeśli chodzi o techniczne środki bezpieczeństwa i środki organizacyjne regulujące przetwarzanie, które ma być prowadzone, oraz zapewnia zgodność z tym środkami."
+		},
+		{
+			"lang": "lt",
+			"text": "Jeigu duomenų valdytojo pavedimu turi būti atlikta duomenų tvarkymo operacija, duomenų valdytojas pasirenka duomenų tvarkytoją, kuris suteikia pakankamą garantiją, jog bus įdiegtos tinkamos techninės ir organizacinės priemonės ir nustatytos procedūros, kad duomenų tvarkymas atitiktų šio reglamento reikalavimus ir būtų užtikrinta duomenų subjekto teisių apsauga, visų pirma įdiegiant techninio saugumo ir organizacines priemones, susijusias su planuojamu duomenų tvarkymu, ir užtikrina, kad tų priemonių būtų laikomasi."
+		},
+		{
+			"lang": "nl",
+			"text": "Wanneer een verwerking namens de voor de verwerking verantwoordelijke moet worden uitgevoerd, kiest de voor de verwerking verantwoordelijke een verwerker die voldoende waarborgen biedt voor de tenuitvoerlegging van passende technische en organisatorische maatregelen en procedures op dusdanige wijze dat de verwerking voldoet aan de vereisten van deze verordening en de bescherming van de rechten van de betrokkene gewaarborgd is, met name met betrekking tot de technische beveiligingsmaatregelen en de organisatorische maatregelen inzake de te verrichten verwerking, en zorgt hij ervoor dat deze maatregelen in acht worden genomen."
+		},
+		{
+			"lang": "sv",
+			"text": "Om en behandling ska utföras på en registeransvarigs vägnar ska den registeransvarige välja en registerförare som ger tillräckliga garantier för att genomföra lämpliga tekniska och organisatoriska åtgärder och förfaranden på ett sådant sätt att behandlingen uppfyller kraven i denna förordning och säkerställa skyddet av den registrerades rättigheter, särskilt respekten för de tekniska säkerhetsåtgärder och de organisatoriska åtgärder som reglerar den behandling som ska utföras och se till att dessa åtgärder efterlevs."
+		}
+	],
+	"children": [],
+	"title": "Article 26 – Paragraph 1"
+}

@@ -1,0 +1,105 @@
+{
+	"id": "a21",
+	"type": "article",
+	"literal": "21",
+	"parent": "c3s5",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Restrictions"
+		},
+		{
+			"lang": "de",
+			"text": "Beschränkungen"
+		},
+		{
+			"lang": "fr",
+			"text": "Limitations"
+		},
+		{
+			"lang": "es",
+			"text": "Limitaciones"
+		},
+		{
+			"lang": "pt",
+			"text": "Limitações"
+		},
+		{
+			"lang": "it",
+			"text": "Limitazioni"
+		},
+		{
+			"lang": "ga",
+			"text": "Srianta"
+		},
+		{
+			"lang": "cs",
+			"text": "Omezení"
+		},
+		{
+			"lang": "da",
+			"text": "Begrænsninger"
+		},
+		{
+			"lang": "et",
+			"text": "Piirangud"
+		},
+		{
+			"lang": "el",
+			"text": "Περιορισμοί"
+		},
+		{
+			"lang": "bg",
+			"text": "Ограничения"
+		},
+		{
+			"lang": "hu",
+			"text": "Korlátozások"
+		},
+		{
+			"lang": "mt",
+			"text": "Restrizzjonijiet"
+		},
+		{
+			"lang": "lv",
+			"text": "Ierobežojumi"
+		},
+		{
+			"lang": "ro",
+			"text": "Restricții"
+		},
+		{
+			"lang": "sk",
+			"text": "Obmedzenia"
+		},
+		{
+			"lang": "sl",
+			"text": "Omejitve"
+		},
+		{
+			"lang": "fi",
+			"text": "Rajoitukset"
+		},
+		{
+			"lang": "pl",
+			"text": "Ograniczenia"
+		},
+		{
+			"lang": "lt",
+			"text": "Apribojimai"
+		},
+		{
+			"lang": "nl",
+			"text": "Beperkingen"
+		},
+		{
+			"lang": "sv",
+			"text": "Begränsningar"
+		}
+	],
+	"children": [
+		"a21p1",
+		"a21p2"
+	],
+	"title": "Article 21"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "a44p1i3",
+	"type": "point",
+	"literal": "c",
+	"parent": "a44p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the transfer is necessary for the conclusion or performance of a contract concluded in the interest of the data subject between the controller and another natural or legal person; or"
+		},
+		{
+			"lang": "de",
+			"text": "die Übermittlung zum Abschluss oder zur Erfüllung eines im Interesse der betroffenen Person von dem für die Verarbeitung Verantwortlichen mit einer anderen natürlichen oder juristischen Person geschlossenen Vertrags erforderlich ist,"
+		},
+		{
+			"lang": "fr",
+			"text": "le transfert soit nécessaire à la conclusion ou à l'exécution d'un contrat conclu, dans l'intérêt de la personne concernée, entre le responsable du traitement et une autre personne physique ou morale; ou"
+		},
+		{
+			"lang": "es",
+			"text": "la transferencia sea necesaria para la celebración o ejecución de un contrato, en interés del interesado, entre el responsable del tratamiento y otra persona física o jurídica; o"
+		},
+		{
+			"lang": "pt",
+			"text": "A transferência for necessária para a celebração ou execução de um contrato acordado, no interesse do titular dos dados, entre o responsável pelo tratamento e outra pessoa singular ou coletiva; ou"
+		},
+		{
+			"lang": "it",
+			"text": "il trasferimento sia necessario per la conclusione o l’esecuzione di un contratto stipulato tra il responsabile del trattamento e un terzo a favore dell’interessato, oppure"
+		},
+		{
+			"lang": "ga",
+			"text": "gur gá an t‑aistriú a dhéanamh chun conradh, arna dhéanamh chun leas an duine is ábhar do na sonraí, idir an rialaitheoir agus duine nádúrtha nó dlítheanach eile a chur i gcrích nó a chomhlíonadh; nó"
+		},
+		{
+			"lang": "cs",
+			"text": "předání je nezbytné pro uzavření nebo splnění smlouvy, která má být uzavřena nebo která byla uzavřena v zájmu subjektu údajů mezi správcem a jinou fyzickou nebo právnickou osobou, nebo"
+		},
+		{
+			"lang": "da",
+			"text": "videregivelsen er nødvendig af hensyn til indgåelsen eller opfyldelsen af en kontrakt, der i den registreredes interesse er indgået mellem den registeransvarlige og en anden fysisk eller juridisk person, eller"
+		},
+		{
+			"lang": "et",
+			"text": "edastamine on vajalik vastutava töötleja või muu füüsilise või juriidilise isiku vahelise lepingu sõlmimiseks andmesubjekti huvides või selle täitmiseks või"
+		},
+		{
+			"lang": "el",
+			"text": "γ) η διαβίβαση είναι απαραίτητη για τη σύναψη ή την εκτέλεση σύμβασης, η οποία συνάφθηκε προς όφελος του προσώπου στο οποίο αναφέρονται τα δεδομένα μεταξύ του υπευθύνου επεξεργασίας και άλλου φυσικού ή νομικού προσώπου· ή"
+		},
+		{
+			"lang": "bg",
+			"text": "в) предаването е необходимо за сключването или изпълнението на договор, сключен в интерес на субекта на данните между администратора и друго физическо или юридическо лице; или"
+		},
+		{
+			"lang": "hu",
+			"text": "a továbbítás az adatkezelő és valamely más természetes vagy jogi személy közötti, az érintett érdekét szolgáló szerződés megkötéséhez vagy teljesítéséhez szükséges; vagy"
+		},
+		{
+			"lang": "mt",
+			"text": "it-trasferiment ikun meħtieġ għall-konklużjoni jew it-twettiq ta’ kuntratt konkluż fl-interess tas-suġġett tad-dejta bejn il-kontrollur u persuna fiżika jew ġuridika oħra; jew"
+		},
+		{
+			"lang": "lv",
+			"text": "nosūtīšana ir vajadzīga līguma noslēgšanai starp pārzini un citu fizisku vai juridisku personu datu subjekta interesēs vai šāda līguma izpildei; vai"
+		},
+		{
+			"lang": "ro",
+			"text": "transferul este necesar pentru încheierea unui contract sau pentru executarea unui contract încheiat în interesul persoanei vizate între operator și o altă persoană fizică sau juridică; sau"
+		},
+		{
+			"lang": "sk",
+			"text": "prenos je nevyhnutný kvôli uzatvoreniu alebo plneniu zmluvy uzatváranej v záujme dotknutej osoby medzi prevádzkovateľom a inou fyzickou alebo právnickou osobou, alebo"
+		},
+		{
+			"lang": "sl",
+			"text": "je prenos potreben za sklenitev ali izvajanje pogodbe med upravljavcem in drugo fizično ali pravno osebo, ki je v interesu posameznika, na katerega se nanašajo osebni podatki; ali"
+		},
+		{
+			"lang": "fi",
+			"text": "siirto on tarpeen rekisterinpitäjän ja toisen luonnollisen tai oikeushenkilön välisen sopimuksen tekemiseksi tai täytäntöönpanemiseksi rekisteröidyn edun mukaisesti; tai"
+		},
+		{
+			"lang": "pl",
+			"text": "przekazanie jest konieczne do zawarcia lub wykonania umowy zawartej w interesie podmiotu danych między administratorem a inną osobą fizyczną lub prawną, lub"
+		},
+		{
+			"lang": "lt",
+			"text": "perduoti duomenis būtina, kad remiantis duomenų subjekto interesais būtų sudaryta ir įvykdyta duomenų valdytojo ir kito fizinio arba juridinio asmens sutartis; arba"
+		},
+		{
+			"lang": "nl",
+			"text": "de doorgifte noodzakelijk is voor de sluiting of de uitvoering van een in het belang van de betrokkene tussen de voor de verwerking verantwoordelijke en een andere natuurlijke of rechtspersoon gesloten overeenkomst; of"
+		},
+		{
+			"lang": "sv",
+			"text": "Överföringen är nödvändig för att ingå eller fullgöra ett avtal mellan den registeransvarige och en annan fysisk eller juridisk person i den registrerades intresse."
+		}
+	],
+	"children": [],
+	"title": "Article 44 – Paragraph 1 – Point 3"
+}

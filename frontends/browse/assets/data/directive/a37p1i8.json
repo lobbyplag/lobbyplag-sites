@@ -1,0 +1,102 @@
+{
+	"id": "a37p1i8",
+	"type": "point",
+	"literal": "h",
+	"parent": "a37p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "to act as the contact point for the supervisory authority on issues related to the processing and consult with the supervisory authority, if appropriate, on his/her own initiative."
+		},
+		{
+			"lang": "de",
+			"text": "Tätigkeit als Ansprechpartner für die Aufsichtsbehörde in mit der Verarbeitung zusammenhängenden Fragen sowie gegebenenfalls Zurateziehung der Aufsichtsbehörde auf eigene Initiative."
+		},
+		{
+			"lang": "fr",
+			"text": "faire office de point de contact pour l'autorité de contrôle sur les questions liées au traitement, et consulter celle-ci, le cas échéant, de sa propre initiative."
+		},
+		{
+			"lang": "es",
+			"text": "actuar como punto de contacto para la autoridad de control sobre las cuestiones relacionadas con el tratamiento y consultar con la autoridad de control, si procede, a iniciativa propia."
+		},
+		{
+			"lang": "pt",
+			"text": "Atuar como ponto de contacto para a autoridade de controlo sobre assuntos relacionados com o tratamento, e consultar esta autoridade, se for caso disso, por sua própria iniciativa."
+		},
+		{
+			"lang": "it",
+			"text": "fungere da punto di contatto per l’autorità di controllo per questioni connesse al trattamento e, se del caso, consultare l’autorità di controllo di propria iniziativa."
+		},
+		{
+			"lang": "ga",
+			"text": "beidh air a bheith ina phointe teagmhála don údarás maoirseachta maidir le saincheisteanna a bhaineann leis an bpróiseáil agus rachaidh sé i gcomhairle leis an údarás maoirseachta, más iomchuí, ar a thionscnamh féin."
+		},
+		{
+			"lang": "cs",
+			"text": "působit jako kontaktní osoba pro orgán dozoru v záležitostech souvisejících se zpracováváním, a je-li záhodno, vést s orgánem dozoru konzultace z vlastní iniciativy."
+		},
+		{
+			"lang": "da",
+			"text": "at fungere som tilsynsmyndighedens kontaktpunkt i spørgsmål vedrørende behandling og på eget initiativ og efter behov rådføre sig med tilsynsmyn­digheden."
+		},
+		{
+			"lang": "et",
+			"text": "tegutseda isikuandmete töötlemise küsimustes järelevalveasutuse kontaktisikuna ja vajaduse korral konsulteerida järelevalveasutusega omal algatusel."
+		},
+		{
+			"lang": "el",
+			"text": "η) να ενεργεί ως σημείο επικοινωνίας για την αρχή ελέγχου σε ζητήματα που σχετίζονται με την επεξεργασία και να διαβουλεύεται με την αρχή ελέγχου, εφόσον απαιτείται, με δική του πρωτοβουλία."
+		},
+		{
+			"lang": "bg",
+			"text": "з) да действа като звено за контакт за надзорния орган по въпроси, свързани с обработването на данни, и, ако е необходимо, да се консултира с надзорния орган по своя собствена инициатива."
+		},
+		{
+			"lang": "hu",
+			"text": "az adatfeldolgozással kapcsolatos ügyekben kapcsolattartás a felügyelő hatósággal, valamint adott esetben az adatvédelmi tisztviselő saját kezdeményezésére történő konzultáció."
+		},
+		{
+			"lang": "mt",
+			"text": "jaġixxi bħala l-punt ta’ kuntatt għall-awtorità ta’ superviżjoni dwar kwistjonijiet relatati mal-ipproċessar u jikkonsulta mal-awtorità ta’ superviżjoni, jekk ikun xieraq, fuq inizjattiva tiegħu stess."
+		},
+		{
+			"lang": "lv",
+			"text": "būt par uzraudzības iestādes kontaktpunktu ar apstrādi saistītos jautājumos un attiecīgos gadījumos konsultēties ar uzraudzības iestādi, pēc paša iniciatīvas."
+		},
+		{
+			"lang": "ro",
+			"text": "asumarea rolului de punct de contact pentru autoritatea de supraveghere privind aspectele legate de prelucrare și, dacă este cazul, consultarea autorității de supraveghere, din proprie inițiativă."
+		},
+		{
+			"lang": "sk",
+			"text": "plnenie úlohy kontaktného miesta pre dozorný orgán v súvislosti s otázkami týkajúcimi sa spracovania a uskutočňovanie konzultácií s dozorným orgánom, podľa potreby aj na základe vlastného podnetu úradníka pre ochranu údajov."
+		},
+		{
+			"lang": "sl",
+			"text": "delovanje kot kontaktna točka za nadzorni organ pri vprašanjih v zvezi z obdelavo in posvetovanje z nadzornim organom na pobudo uradne osebe za varstvo podatkov, če je to primerno."
+		},
+		{
+			"lang": "fi",
+			"text": "toimia valvontaviranomaisen yhteyspisteenä tietojenkäsittelyyn liittyvissä kysymyksissä ja tarvittaessa kuulla valvontaviranomaista tietosuojavastaavan omasta aloitteesta."
+		},
+		{
+			"lang": "pl",
+			"text": "pełnienie funkcji punktu kontaktowego dla organu nadzorczego w kwestiach związanych z przetwarzaniem oraz zasięganie opinii organu nadzorczego, w odpowiednich przypadkach, z inicjatywy inspektora ochrony danych."
+		},
+		{
+			"lang": "lt",
+			"text": "atlikti asmens ryšiams funkcijas priežiūros institucijai kreipiantis su duomenų tvarkymu susijusiais klausimais ir prireikus savo iniciatyva konsultuotis su priežiūros institucija."
+		},
+		{
+			"lang": "nl",
+			"text": "het optreden als contactpunt voor de toezichthoudende autoriteit inzake aangelegenheden in verband met de verwerking en het op eigen initiatief in voorkomend geval raadplegen van de toezichthoudende autoriteit."
+		},
+		{
+			"lang": "sv",
+			"text": "Att fungera som kontaktpunkt för tillsynsmyndigheten i frågor som rör behandlingen och, om så är lämpligt, samråda med tillsynsmyndigheten på hans eller hennes eget initiativ."
+		}
+	],
+	"children": [],
+	"title": "Article 37 – Paragraph 1 – Point 8"
+}

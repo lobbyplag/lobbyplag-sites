@@ -1,0 +1,102 @@
+{
+	"id": "a17p1i2",
+	"type": "point",
+	"literal": "b",
+	"parent": "a17p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the data subject withdraws consent on which the processing is based according to point (a) of Article 6(1), or when the storage period consented to has expired, and where there is no other legal ground for the processing of the data;"
+		},
+		{
+			"lang": "de",
+			"text": "Die betroffene Person widerruft ihre Einwilligung, auf die sich die Verarbeitung gemäß Artikel 6 Absatz 1 Buchstabe a stützte, oder die Speicherfrist, für die die Einwilligung gegeben wurde, ist abgelaufen und es fehlt an einer anderweitigen Rechtsgrundlage für die Verarbeitung der Daten."
+		},
+		{
+			"lang": "fr",
+			"text": "la personne concernée retire le consentement sur lequel est fondé le traitement, conformément à l'article 6, paragraphe 1, point a), ou lorsque le délai de conservation autorisé a expiré et qu'il n'existe pas d'autre motif légal au traitement des données;"
+		},
+		{
+			"lang": "es",
+			"text": "el interesado retira el consentimiento en que se basa el tratamiento de conformidad con lo dispuesto en el artículo 6, apartado 1, letra a), o ha expirado el plazo de conservación autorizado y no existe otro fundamento jurídico para el tratamiento de los datos;"
+		},
+		{
+			"lang": "pt",
+			"text": "O titular dos dados retira o consentimento sobre o qual é baseado o tratamento nos termos do artigo 6.º, n.º 1, alínea a), ou se o período de conservação consentido tiver terminado e não existir outro fundamento jurídico para o tratamento dos dados;"
+		},
+		{
+			"lang": "it",
+			"text": "l’interessato revoca il consenso su cui si fonda il trattamento, di cui all’articolo 6, paragrafo 1, lettera a), oppure il periodo di conservazione dei dati autorizzato è scaduto e non sussiste altro motivo legittimo per trattare i dati;"
+		},
+		{
+			"lang": "ga",
+			"text": "tarraingíonn an duine is ábhar do na sonraí siar a thoiliú ar a raibh an phróiseáil bunaithe de réir phointe (a) d’Airteagal 6(1), nó tá tréimhse stórála na sonraí ar toilíodh léi tar éis dul in éag, agus níl aon fhoras dlíthiúil eile le próiseáil na sonraí;"
+		},
+		{
+			"lang": "cs",
+			"text": "subjekt údajů odvolá svůj souhlas, na jehož základě byly údaje podle čl. 6 odst. 1 písm. a) zpracovávány, nebo pokud vypršela lhůta pro uchovávání údajů, pro níž byl dán souhlas, a pokud neexistuje žádný další právní důvod pro zpracování údajů;"
+		},
+		{
+			"lang": "da",
+			"text": "den registrerede tilbagetrækker sit samtykke, som er grundlaget for behandlingen i henhold til artikel 6, stk. 1, litra a), eller hvis den opbevaringsperiode, der er givet samtykke til, er udløbet, og hvis der ikke længere er et retligt grundlag for behandlingen af oplysningerne, eller"
+		},
+		{
+			"lang": "et",
+			"text": "andmesubjekt tühistab töötlemiseks antud nõusoleku vastavalt artikli 6 lõike 1 punktile a või kui nõusolekukohane andmete talletamise tähtaeg lõppenud ning puudub muu õiguslik alus andmete töötlemiseks;"
+		},
+		{
+			"lang": "el",
+			"text": "β) το πρόσωπο στο οποίο αναφέρονται τα δεδομένα αποσύρει τη συγκατάθεση επί της οποίας βασίζεται η επεξεργασία σύμφωνα με το άρθρο 6 παράγραφος 1 στοιχείο α), ή εάν το χρονικό διάστημα αποθήκευσης για το οποίο παρασχέθηκε συγκατάθεση έληξε, και εάν δεν υπάρχει άλλος νομικός λόγος για την επεξεργασία των δεδομένων·"
+		},
+		{
+			"lang": "bg",
+			"text": "б) субектът на данните оттегли своето съгласие, върху което се основава обработването на данните съгласно член 6, параграф 1, буква а), или когато срокът за съхранение, за който е било дадено съгласие, е изтекъл и когато няма друго правно основание за обработването на данните;"
+		},
+		{
+			"lang": "hu",
+			"text": "az érintett visszavonta a 6. cikk (1) bekezdésének a) pontja értelmében a feldolgozás alapját képező hozzájárulását, vagy lejárt az engedélyezett adattárolási időtartam, vagy a személyes adatok feldolgozásának nincs más jogalapja; vagy"
+		},
+		{
+			"lang": "mt",
+			"text": "is-suġġett tad-dejta jirtira l-kunsens li fuqu huwa bbażat l-ipproċessar skont l-punt (a) tal-Artikolu 6(1), jew meta l-perjodu ta’ ħażna li jkun ta l-kunsens għalih ikun skada, u meta ma jkun hemm l-ebda raġuni legali għall-ipproċessar tad-dejta;"
+		},
+		{
+			"lang": "lv",
+			"text": "datu subjekts atsauc savu piekrišanu, uz kuras pamata veikta apstrāde, pamatojoties uz 6. panta 1. punkta a) apakšpunktu, vai ir beidzies glabāšanas termiņš, kuram bija izteikta piekrišana, un nav cita likumīga pamata datu apstrādei;"
+		},
+		{
+			"lang": "ro",
+			"text": "persoana vizată își retrage consimțământul pe baza căruia are loc prelucrarea în conformitate cu articolul 6 alineatul (1) litera (a) sau în cazul în care perioada de stocare a datelor a expirat și nu există niciun alt temei legal pentru prelucrarea datelor;"
+		},
+		{
+			"lang": "sk",
+			"text": "dotknutá osoba odvolá súhlas, na základe ktorého sa spracovanie vykonáva, ako je ustanovené v článku 6 ods. 1 písm. a), alebo ak uplynulo obdobie uchovávania, na ktoré bol daný súhlas, a ak nejestvuje iný právny základ pre spracovanie údajov;"
+		},
+		{
+			"lang": "sl",
+			"text": "posameznik, na katerega se nanašajo osebni podatki, prekliče privolitev, na podlagi katere poteka obdelava v skladu s točko (a) člena 6(1), ali pa se je rok shranjevanja, v katerega je posameznik privolil, iztekel, in kadar ni nobenega pravnega razloga za obdelavo podatkov;"
+		},
+		{
+			"lang": "fi",
+			"text": "rekisteröity peruuttaa suostumuksen, johon käsittely on perustunut 6 artiklan 1 kohdan a alakohdan mukaisesti, tai suostumuksen kohteena ollut säilytysaika on päättynyt eikä tietojenkäsittelyyn ole muuta laillista perustetta;"
+		},
+		{
+			"lang": "pl",
+			"text": "podmiot danych odwołuje zgodę, na której opiera się przetwarzanie zgodnie z art. 6 ust. 1 lit. a), lub gdy minął okres przechowywania, na który wyrażono zgodę oraz jeśli nie ma już podstawy prawnej przetwarzania danych;"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų subjektas atšaukia sutikimą, kuriuo pagal 6 straipsnio 1 dalies a punktą grindžiamas duomenų tvarkymas, arba kai yra pasibaigęs saugojimo laikotarpis, dėl kurio duotas sutikimas, ir jeigu nėra jokio kito teisinio pagrindo tvarkyti duomenis;"
+		},
+		{
+			"lang": "nl",
+			"text": "de betrokkene trekt de toestemming waarop de verwerking overeenkomstig artikel 6, lid 1, onder a), is gebaseerd, in of de toegestane termijn voor opslag is verstreken terwijl een andere grond voor de verwerking van de gegevens ontbreekt;"
+		},
+		{
+			"lang": "sv",
+			"text": "Den registrerade återkallar det samtycke på vilket behandlingen grundar sig enligt artikel 6.1 a, eller om en lagringsperiod för vilken samtycke har lämnats har löpt ut, och om det inte finns någon annan rättslig grund för behandlingen av uppgifterna."
+		}
+	],
+	"children": [],
+	"title": "Article 17 – Paragraph 1 – Point 2"
+}

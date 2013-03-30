@@ -1,0 +1,102 @@
+{
+	"id": "a31p4",
+	"type": "paragraph",
+	"literal": "4",
+	"parent": "a31",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller shall document any personal data breaches, comprising the facts surrounding the breach, its effects and the remedial action taken. This documentation must enable the supervisory authority to verify compliance with this Article. The documentation shall only include the information necessary for that purpose."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche dokumentiert etwaige Verletzungen des Schutzes personenbezogener Daten unter Beschreibung aller im Zusammenhang mit der Verletzung stehenden Fakten, von deren Auswirkungen und der ergriffenen Abhilfemaßnahmen. Die Dokumentation muss der Aufsichtsbehörde die Überprüfung der Einhaltung der Bestimmungen dieses Artikels ermöglichen. Die Dokumentation enthält nur die zu diesem Zweck erforderlichen Informationen."
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement conserve une trace documentaire de toute violation de données à caractère personnel, en indiquant son contexte, ses effets et les mesures prises pour y remédier. La documentation constituée doit permettre à l'autorité de contrôle de vérifier le respect des dispositions du présent article. Elle comporte uniquement les informations nécessaires à cette fin."
+		},
+		{
+			"lang": "es",
+			"text": "El responsable del tratamiento documentará cualquier violación de datos personales, indicando su contexto, sus efectos y las medidas correctivas adoptadas. Esta documentación deberá permitir a la autoridad de control verificar el cumplimiento de las disposiciones del presente artículo. Solo incluirá la información necesaria a tal efecto."
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento documenta qualquer violação de dados pessoais, incluindo os factos relacionados com a mesma, os respetivos efeitos e a medida de reparação adotada. Essa documentação deve permitir à autoridade de controlo verificar o respeito do disposto no presente artigo. A documentação deve incluir apenas as informações necessárias para esse efeito."
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento documenta la violazione dei dati personali, incluse le circostanze in cui si è verificata, le sue conseguenze e i provvedimenti adottati per porvi rimedio. La documentazione deve consentire all’autorità di controllo di verificare il rispetto del presente articolo. In essa figurano unicamente le informazioni necessarie a tal fine."
+		},
+		{
+			"lang": "ga",
+			"text": "Déanfaidh an rialaitheoir aon sáruithe i ndáil le sonraí pearsanta a dhoiciméadú, agus áireofar sa doiciméadacht sin na fíricí a bhaineann leis an sárú, na héifeachtaí a bhaineann leis agus na gníomhaíochtaí feabhais arna ndéanamh. Ní mór don doiciméadacht sin cur ar chumas an údaráis mhaoirseachta an tAirteagal seo a chomhlíonadh. Ní áireofar sa doiciméadacht ach an fhaisnéis is gá chun na críche sin."
+		},
+		{
+			"lang": "cs",
+			"text": "Veškeré případy narušení bezpečnosti osobních údajů správce zdokumentuje, přičemž zaznamená příslušné okolnosti, účinky daného narušení a kroky podniknuté pro jeho nápravu. Dokumentace musí orgánu dozoru umožňovat ověření souladu s tímto článkem. Dokumentace obsahuje pouze ty informace, které jsou k tomuto účelu nutné."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige dokumenterer alle brud på persondatasikkerheden, herunder kendsgerningerne i forbindelse med bruddet, dets virkninger og de iværksatte afhjælpende foranstaltninger. Denne dokumentation skal være tilstrækkeligt detaljeret til at sætte tilsynsmyndigheden i stand til at kontrollere, at denne artikel overholdes. Dokumentationen skal kun indeholde de oplysninger, der er nødvendige til dette formål."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja dokumenteerib kõik isikuandmetega seotud rikkumised, sealhulgas rikkumise asjaolud, nende mõju ja võetud parandusmeetmed. Dokumendid peavad võimaldama järelevalveasutusel kontrollida käesolevas artiklis sätestatud nõuete täitmist. Dokumentides esitatakse ainult nimetatud eesmärgi kohane teave."
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας τεκμηριώνει κάθε παραβίαση δεδομένων προσωπικού χαρακτήρα, αναφέροντας τα πραγματικά περιστατικά που αφορούν την παραβίαση, τις συνέπειες και τα ληφθέντα διορθωτικά μέτρα. Η εν λόγω τεκμηρίωση πρέπει να επιτρέπει στην αρχή ελέγχου να ελέγχει τη συμμόρφωση προς το παρόν άρθρο. Η τεκμηρίωση περιέχει μόνον τις απαραίτητες πληροφορίες για τον συγκεκριμένο σκοπό."
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът документира всяко нарушение на сигурността на личните данни, като включва фактите, свързани с нарушението, последиците от него и предприетите действия за справяне с него. Тази документация трябва да позволява на надзорния орган да провери дали е спазен настоящият член. Документацията съдържа единствено информацията, необходима за тази цел."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő dokumentál minden személyesadat-sértést a hozzá kapcsolódó tények, hatások és az orvoslására tett intézkedések feltüntetésével. E dokumentációnak lehetővé kell tennie a felügyelő hatóság számára az e cikkel való összhang vizsgálatát. A dokumentáció csak az említett célból szükséges információt tartalmazza."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur għandu jiddokumenta kwalunkwe ksur tad-dejta personali, fosthom il-fatti li jirrigwardaw il-ksur, l-effetti tiegħu u l-azzjoni ta’ rimedju meħuda. Din id-dokumentazzjoni trid tippermetti lill-awtorità ta’ superviżjoni li tivverifika l-konformità ma’ dan l-Artikolu. Din id-dokumentazzjoni għandha tinkludi biss l-informazzjoni meħtieġa għal dak il-għan."
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinis dokumentē visus personas datu aizsardzības pārkāpumus, norādot pārkāpumu izdarīšanas apstākļus, to sekas un veiktās koriģējošās darbības. Dokumentācijai jāļauj uzraudzības iestādei pārbaudīt šā panta ievērošanu. Dokumentācijā ietver tikai šim nolūkam nepieciešamo informāciju."
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul păstrează documente referitoare la toate cazurile de încălcare a securității datelor cu caracter personal, care cuprind o descriere a situației în care a avut loc încălcarea, a efectelor acesteia și a măsurilor de remediere întreprinse. Această documentație trebuie să permită autorității de supraveghere să verifice conformitatea cu prezentul articol. Documentația respectivă include numai informațiile necesare în acest scop."
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ zdokumentuje každý prípad porušenia ochrany osobných údajov, pričom uvedie všetky skutočnosti spojené s predmetným porušením, jeho následky a prijaté opatrenia na nápravu. Táto dokumentácia musí umožniť dozorným orgánom overiť súlad s týmto článkom. Dokumentácia obsahuje len informácie, ktoré sú na tento účel potrebné."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec dokumentira vsako kršitev varnosti osebnih podatkov, kar vključuje dejstva v zvezi s kršitvijo, njene učinke in sprejete popravne ukrepe. Ta dokumentacija mora nadzornemu organu omogočati, da preveri skladnost s tem členom. Dokumentacija vključuje samo informacije, potrebne za ta namen."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän on dokumentoitava kaikki henkilötietojen tietoturvaloukkaukset, mukaan lukien tietoturvaloukkaukseen liittyvät seikat, sen vaikutukset ja toteutetut korjaavat toimet. Valvontaviranomaisen on voitava näiden asiakirjojen pohjalta tarkistaa, että tätä artiklaa on noudatettu. Asiakirjat saavat sisältää ainoastaan kyseistä tarkoitusta varten välttämättömät tiedot."
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator sporządza dokumentację dotyczącą wszelkich naruszeń ochrony danych osobowych, obejmującą okoliczności naruszenia, jego skutki oraz podjęte działania zaradcze. Dokumentacja ta musi umożliwiać organowi nadzorczemu sprawdzenie zgodności z niniejszym artykułem. Dokumentacja zawiera wyłącznie informacje niezbędne do realizacji powyższego celu."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas dokumentuoja visus asmens duomenų saugumo pažeidimus, įskaitant pažeidimo faktus, jo poveikį ir taisomuosius veiksmus, kurių ėmėsi. Remdamasi šiais dokumentais priežiūros institucija turi galėti patikrinti, ar laikomasi šio straipsnio. Dokumentuose pateikiama tik tam tikslui pasiekti būtina informacija."
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke documenteert alle inbreuken in verband met persoonsgegevens, met inbegrip van de feiten omtrent de inbreuk, de gevolgen van de inbreuk en de corrigerende maatregelen die zijn genomen. Deze documenten moeten de toezichthoudende autoriteit in staat stellen om de naleving van dit artikel te controleren. De documenten omvatten uitsluitend de voor dat doel noodzakelijke informatie."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige ska dokumentera alla personuppgiftsbrott, inbegripet omständigheterna kring brottet, dess effekter och de korrigerande åtgärder som vidtagits. Dokumentationen ska göra det möjligt för tillsynsmyndigheten att kontrollera efterlevnaden av denna artikel. Dokumentationen ska endast innehålla den information som behövs för detta ändamål."
+		}
+	],
+	"children": [],
+	"title": "Article 31 – Paragraph 4"
+}

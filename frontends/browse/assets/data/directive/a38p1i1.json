@@ -1,0 +1,102 @@
+{
+	"id": "a38p1i1",
+	"type": "point",
+	"literal": "a",
+	"parent": "a38p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "fair and transparent data processing;"
+		},
+		{
+			"lang": "de",
+			"text": "faire und transparente Datenverarbeitung,"
+		},
+		{
+			"lang": "fr",
+			"text": "le traitement loyal et transparent des données;"
+		},
+		{
+			"lang": "es",
+			"text": "el tratamiento equitativo y transparente de los datos;"
+		},
+		{
+			"lang": "pt",
+			"text": "Tratamento de dados leal e transparente;"
+		},
+		{
+			"lang": "it",
+			"text": "il trattamento equo e trasparente dei dai;"
+		},
+		{
+			"lang": "ga",
+			"text": "próiseáil chothrom agus thrédhearcach sonraí;"
+		},
+		{
+			"lang": "cs",
+			"text": "korektnost a průhlednost při zpracovávání údajů;"
+		},
+		{
+			"lang": "da",
+			"text": "loyal og gennemsigtig databehandling"
+		},
+		{
+			"lang": "et",
+			"text": "andmete õiglane ja läbipaistev töötlemine;"
+		},
+		{
+			"lang": "el",
+			"text": "α) τη θεμιτή και διαφανή επεξεργασία των δεδομένων·"
+		},
+		{
+			"lang": "bg",
+			"text": "а) добросъвестното и прозрачно обработване на данни;"
+		},
+		{
+			"lang": "hu",
+			"text": "tisztességes és átlátható adatfeldolgozás;"
+		},
+		{
+			"lang": "mt",
+			"text": "ipproċessar ġust u trasparenti tad-dejta;"
+		},
+		{
+			"lang": "lv",
+			"text": "godīgu un caurskatāmu datu apstrādi;"
+		},
+		{
+			"lang": "ro",
+			"text": "prelucrarea datelor în mod echitabil și transparent;"
+		},
+		{
+			"lang": "sk",
+			"text": "spravodlivé a transparentné spracovanie údajov;"
+		},
+		{
+			"lang": "sl",
+			"text": "pošteno in pregledno obdelavo podatkov;"
+		},
+		{
+			"lang": "fi",
+			"text": "tietojenkäsittelyn oikeudenmukaisuus ja läpinäkyvyys;"
+		},
+		{
+			"lang": "pl",
+			"text": "rzetelnego i przejrzystego przetwarzania danych;"
+		},
+		{
+			"lang": "lt",
+			"text": "sąžiningo ir skaidraus duomenų tvarkymo;"
+		},
+		{
+			"lang": "nl",
+			"text": "eerlijke en transparante gegevensverwerking;"
+		},
+		{
+			"lang": "sv",
+			"text": "rättvis och öppen behandling,"
+		}
+	],
+	"children": [],
+	"title": "Article 38 – Paragraph 1 – Point 1"
+}

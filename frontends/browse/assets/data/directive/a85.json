@@ -1,0 +1,105 @@
+{
+	"id": "a85",
+	"type": "article",
+	"literal": "85",
+	"parent": "c9",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Existing data protection rules of churches and religious associations"
+		},
+		{
+			"lang": "de",
+			"text": "Bestehende Datenschutzvorschriften von Kirchen und religiösen Vereinigungen oder Gemeinschaften"
+		},
+		{
+			"lang": "fr",
+			"text": "Règles existantes des églises et associations religieuses en matière de protection des données"
+		},
+		{
+			"lang": "es",
+			"text": "Normas vigentes sobre protección de datos de las iglesias y asociaciones religiosas"
+		},
+		{
+			"lang": "pt",
+			"text": "Regras existentes sobre a proteção de dados das igrejas e associações religiosas"
+		},
+		{
+			"lang": "it",
+			"text": "Norme di protezione dei dati vigenti presso chiese e associazioni religiose"
+		},
+		{
+			"lang": "ga",
+			"text": "Rialacha maidir le cosaint sonraí atá ag eaglaisí agus comhlachais reiligiúnacha cheana"
+		},
+		{
+			"lang": "cs",
+			"text": "Zavedená pravidla pro ochranu údajů uplatňovaná církvemi a náboženskými sdruženími"
+		},
+		{
+			"lang": "da",
+			"text": "Kirkers og religiøse sammenslutningers eksisterende regler"
+		},
+		{
+			"lang": "et",
+			"text": "Kirikute ja usuühenduste suhtes kehtivad isikuandmete kaitse eeskirjad"
+		},
+		{
+			"lang": "el",
+			"text": "Υφιστάμενοι κανόνες προστασίας των δεδομένων εκκλησιών και θρησκευτικών ενώσεων"
+		},
+		{
+			"lang": "bg",
+			"text": "Съществуващи правила за защита на данните на църкви и религиозни сдружения"
+		},
+		{
+			"lang": "hu",
+			"text": "Egyházak és vallási szerveztek létező adatvédelmi szabályai"
+		},
+		{
+			"lang": "mt",
+			"text": "Regoli eżistenti dwar il-protezzjoni tad-dejta ta’ knejjes u assoċjazzjonijiet reliġjużi"
+		},
+		{
+			"lang": "lv",
+			"text": "Baznīcu un reliģisko apvienību datu aizsardzības noteikumi"
+		},
+		{
+			"lang": "ro",
+			"text": "Normele existente în domeniul protecției datelor pentru biserici și asociații religioase"
+		},
+		{
+			"lang": "sk",
+			"text": "Existujúce pravidlá ochrany údajov cirkví a náboženských združení"
+		},
+		{
+			"lang": "sl",
+			"text": "Veljavna pravila o varstvu podatkov cerkva in verskih združenj"
+		},
+		{
+			"lang": "fi",
+			"text": "Kirkkojen ja uskonnollisten yhdistysten voimassa olevat tietosuojasäännöt"
+		},
+		{
+			"lang": "pl",
+			"text": "Obowiązujące przepisy dotyczące ochrony danych stosowane przez kościoły i związki wyznaniowe"
+		},
+		{
+			"lang": "lt",
+			"text": "Bažnyčių ir religinių asociacijų galiojančios duomenų apsaugos taisyklės"
+		},
+		{
+			"lang": "nl",
+			"text": "Bestaande gegevensbeschermingsregels van kerken en religieuze verenigingen"
+		},
+		{
+			"lang": "sv",
+			"text": "Befintliga bestämmelser om uppgiftsskydd inom kyrkor och religiösa samfund"
+		}
+	],
+	"children": [
+		"a85p1",
+		"a85p2"
+	],
+	"title": "Article 85"
+}

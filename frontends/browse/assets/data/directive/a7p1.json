@@ -1,0 +1,102 @@
+{
+	"id": "a7p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a7",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller shall bear the burden of proof for the data subject's consent to the processing of their personal data for specified purposes."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche trägt die Beweislast dafür, dass die betroffene Person ihre Einwilligung zur Verarbeitung ihrer personenbezogenen Daten für eindeutig festgelegte Zwecke erteilt hat."
+		},
+		{
+			"lang": "fr",
+			"text": "La charge de prouver que la personne concernée a consenti au traitement de ses données à caractère personnel à des fins déterminées incombe au responsable du traitement."
+		},
+		{
+			"lang": "es",
+			"text": "El responsable del tratamiento asumirá la carga de la prueba de que el interesado ha dado su consentimiento para el tratamiento de sus datos personales para determinados fines."
+		},
+		{
+			"lang": "pt",
+			"text": "Incumbe ao responsável pelo tratamento o ónus de provar o consentimento do titular dos dados ao tratamento dos seus dados pessoais para finalidades específicas."
+		},
+		{
+			"lang": "it",
+			"text": "L’onere di dimostrare che l’interessato ha espresso il consenso al trattamento dei suoi dati personali per scopi specifici incombe sul responsabile del trattamento."
+		},
+		{
+			"lang": "ga",
+			"text": "Is faoin rialaitheoir a bheidh sé a chruthú gur thoiligh an duine is ábhar do na sonraí le próiseáil a shonraí pearsanta chun críocha sonraithe."
+		},
+		{
+			"lang": "cs",
+			"text": "Důkazní břemeno, že subjekt údajů vyjádřil souhlas se zpracováním svých osobních údajů za určitým účelem, nese správce."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige bærer ansvaret for at bevise, at den registrerede har givet sit samtykke til behandlingen af vedkommendes personoplysninger til de angivne formål."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja peab suutma tõendada, et andmesubjekt on andnud nõusoleku töödelda oma isikuandmeid teatavatel eesmärkidel."
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας φέρει το βάρος της απόδειξης όσον αφορά την παροχή της συγκατάθεσης του προσώπου στο οποίο αναφέρονται τα δεδομένα στην επεξεργασία των δεδομένων προσωπικού χαρακτήρα που το αφορούν για συγκεκριμένους σκοπούς."
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът носи тежестта на доказване, че субектът на данните е дал съгласието си за обработването на неговите лични данни за определени цели."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelőre hárul annak bizonyítása, hogy az érintett hozzájárult személyes adatainak konkrét célokból történő feldolgozásához."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur għandu jġorr l-oneru tal-prova għall-kunsens tas-suġġett tad-dejta għall-ipproċessar tad-dejta personali tiegħu għal għanijiet speċifikati."
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinim ir pienākums pierādīt, ka datu subjekts ir devis piekrišanu viņa personas datu apstrādei konkrētajos nolūkos."
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul suportă sarcina probei în ceea ce privește acordarea de către persoana vizată a consimțământului pentru prelucrarea datelor sale cu caracter personal în scopurile specificate."
+		},
+		{
+			"lang": "sk",
+			"text": "Dôkazné bremeno, že dotknutá osoba vyjadrila súhlas so spracovaním svojich osobných údajov na určené účely, znáša prevádzkovateľ."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec mora dokazati, da je posameznik, na katerega se nanašajo osebni podatki, privolil v obdelavo njegovih osebnih podatkov v določene namene."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän on osoitettava, että rekisteröity on antanut suostumuksensa henkilötietojensa käsittelyyn tiettyjä tarkoituksia varten."
+		},
+		{
+			"lang": "pl",
+			"text": "Ciężar udowodnienia zgody podmiotu danych na przetwarzanie jego danych osobowych w określonych celach spoczywa na administratorze."
+		},
+		{
+			"lang": "lt",
+			"text": "Pareiga įrodyti, kad duomenų subjektas sutiko su jo asmens duomenų tvarkymu nustatytiems tikslams, tenka duomenų valdytojui."
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke moet kunnen aantonen dat de betrokkene toestemming heeft gegeven voor de verwerking van zijn persoonsgegevens voor welbepaalde doeleinden."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige ska bära bevisbördan när det gäller den registrerades samtycke till behandlingen av hans eller hennes personuppgifter för bestämda ändamål."
+		}
+	],
+	"children": [],
+	"title": "Article 7 – Paragraph 1"
+}

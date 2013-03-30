@@ -1,0 +1,102 @@
+{
+	"id": "a27t1",
+	"type": "introduction",
+	"literal": null,
+	"parent": "a27",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The processor and any person acting under the authority of the controller or of the processor who has access to personal data shall not process them except on instructions from the controller, unless required to do so by Union or Member State law."
+		},
+		{
+			"lang": "de",
+			"text": "Personen, die dem für die Verarbeitung Verantwortlichen oder dem Auftragsverarbeiter unterstellt sind und Zugang zu personenbezogenen Daten haben, sowie der Auftragsverarbeiter selbst dürfen personenbezogene Daten nur auf Anweisung des für die Verarbeitung Verantwortlichen verarbeiten, sofern sie keinen anders lautenden, aus dem Unionsrecht oder dem mitgliedstaatlichen Recht erwachsenden Pflichten unterliegen."
+		},
+		{
+			"lang": "fr",
+			"text": "Le sous‑traitant ainsi que toute personne agissant sous l'autorité du responsable du traitement ou sous celle du sous‑traitant, qui a accès à des données à caractère personnel, ne peut les traiter que sur instruction du responsable du traitement, à moins d’y être obligé par la législation de l'Union ou d’un État membre."
+		},
+		{
+			"lang": "es",
+			"text": "El encargado del tratamiento, así como cualquier persona que actúe bajo la autoridad del responsable o del encargado del tratamiento, que tenga acceso a datos personales solo podrá someterlos a tratamiento siguiendo instrucciones del responsable del tratamiento, a menos que esté obligado a hacerlo por el Derecho de la Unión o de un Estado miembro."
+		},
+		{
+			"lang": "pt",
+			"text": "O subcontratante, bem como qualquer pessoa que, agindo sob a autoridade do responsável pelo tratamento ou do subcontratante, tenha acesso a dados pessoais, só pode proceder ao seu tratamento mediante instruções do responsável pelo tratamento, exceto se tal for exigido pela legislação da União ou de um Estado-Membro."
+		},
+		{
+			"lang": "it",
+			"text": "L’incaricato del trattamento, o chiunque agisca sotto la sua autorità o sotto quella del responsabile del trattamento, che abbia accesso a dati personali non può trattare tali dati se non è istruito in tal senso dal responsabile del trattamento, salvo che lo richieda il diritto dell’Unione o di uno Stato membro."
+		},
+		{
+			"lang": "ga",
+			"text": "Ní dhéanfaidh próiseálaí ná aon duine atá ag gníomhú faoi údarás an rialaitheora nó an phróiseálaí agus a bhfuil rochtain aige ar shonraí pearsanta, ní dhéanfaidh sé na sonraí sin a phróiseáil ach amháin ar threoracha a fháil chuige sin ón rialaitheoir, seachas más gá sin a dhéanamh le dlí an Aontais nó le dlí Ballstáit."
+		},
+		{
+			"lang": "cs",
+			"text": "Zpracovatel a kdokoli, kdo jedná z pověření správce nebo zpracovatele a má přístup k osobním údajům, může tyto osobní údaje zpracovávat pouze na pokyn správce s výjimkou situace, kdy je k jejich zpracování povinován právem Unie nebo členského státu."
+		},
+		{
+			"lang": "da",
+			"text": "Registerføreren eller enhver, der udfører arbejde under den registeransvarlige eller registerføreren, og som får adgang til personoplysninger, må kun behandle disse efter instruks fra den registeransvarlige, medmindre det kræves i henhold til EU-retten eller medlemsstatslovgivning."
+		},
+		{
+			"lang": "et",
+			"text": "Volitatud töötleja ja vastutava töötleja või volitatud töötleja volituse alusel tegutsevad isikud, kellel on juurdepääs isikuandmetele, tohivad isikuandmeid töödelda ainult vastutava töötleja juhistele alusel, välja arvatud liidu või liikmesriigi õigusaktidega ettenähtud juhtudel."
+		},
+		{
+			"lang": "el",
+			"text": "Ο εκτελών την επεξεργασία και κάθε πρόσωπο που ενεργεί υπό την εποπτεία του υπευθύνου επεξεργασίας ή του εκτελούντος την επεξεργασία το οποίο έχει πρόσβαση σε δεδομένα προσωπικού χαρακτήρα τα επεξεργάζεται μόνον κατ’ εντολή του υπευθύνου επεξεργασίας, εκτός εάν υποχρεούται προς τούτο από το δίκαιο της Ένωσης ή τη νομοθεσία κράτους μέλους."
+		},
+		{
+			"lang": "bg",
+			"text": "Обработващият лични данни и всяко лице, действащо под ръководството на администратора или на обработващия лични данни, което има достъп до личните данни, обработва тези данни само по указание на администратора, освен ако обработването не се изисква от правото на Съюза или на държава-членка."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatfeldolgozó és bármely, az adatkezelő vagy az adatfeldolgozó felügyelete alatt eljáró, a személyes adatokhoz hozzáféréssel rendelkező személy kizárólag az adatkezelő utasítása alapján dolgozhatja fel ezeket az adatokat, kivéve, ha erre őt az uniós vagy nemzeti jog kötelezi."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-proċessur u kull persuna li taġixxi taħt l-awtorità tal-kontrollur jew tal-proċessur li jkollhom aċċess għal dejta personali ma għandhomx jipproċessawha ħlief fuq struzzjonijiet mingħand il-kontrollur, sakemm ma jkunux meħtieġa jagħmlu dan mil-liġi tal-Unjoni jew tal-Istat Membru."
+		},
+		{
+			"lang": "lv",
+			"text": "Apstrādātājs un jebkura persona, kas darbojas pārziņa vai apstrādātāja pakļautībā un kam ir piekļuve personas datiem, neapstrādā šos datus citādi, kā vien saskaņā ar pārziņa norādījumiem, ja vien to darīt nepieprasa Savienības vai dalībvalsts tiesību akti."
+		},
+		{
+			"lang": "ro",
+			"text": "Persoana împuternicită de către operator și orice persoană care acționează sub autoritatea operatorului sau a persoanei împuternicite de către operator care are acces la datele cu caracter personal nu le prelucrează decât la cererea operatorului, cu excepția cazului în care legislația Uniunii sau a statului membru îl obligă să facă acest lucru."
+		},
+		{
+			"lang": "sk",
+			"text": "Sprostredkovateľ ani žiadna iná osoba konajúca na základe právomoci prevádzkovateľa alebo sprostredkovateľa, ktorá má prístup k osobným údajom, nespracuje tieto údaje inak než podľa pokynov prevádzkovateľa, pokiaľ to od nej nevyžadujú právne predpisy Únie alebo členského štátu."
+		},
+		{
+			"lang": "sl",
+			"text": "Obdelovalec in vsaka oseba, ki ukrepa pod vodstvom upravljavca ali obdelovalca, ki ima dostop do osebnih podatkov, osebnih podatkov ne sme obdelati brez navodil upravljavca, razen če to zahteva zakonodaja Unije ali zakonodaja držav članic."
+		},
+		{
+			"lang": "fi",
+			"text": "Henkilötietojen käsittelijä tai kukaan rekisterinpitäjän tai henkilötietojen käsittelijän alaisuudessa toimiva henkilö, jolla on pääsy henkilötietoihin, ei saa käsitellä niitä muuten kuin rekisterinpitäjän ohjeiden mukaisesti, ellei unionin tai jäsenvaltion lainsäädännössä niin vaadita."
+		},
+		{
+			"lang": "pl",
+			"text": "Podmiot przetwarzający oraz każda osoba działająca z upoważnienia administratora lub podmiotu przetwarzającego, która ma dostęp do danych osobowych, przetwarzają je tylko na polecenie administratora, lub gdy wymaga tego prawo Unii lub państwa członkowskiego."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų tvarkytojas ir bet kuris duomenų valdytojui arba duomenų tvarkytojui pavaldus asmuo, galintis susipažinti su asmens duomenimis, negali jų tvarkyti, išskyrus atvejus, kai duomenų valdytojas duoda nurodymą juos tvarkyti, nebent tai daryti reikalaujama Sąjungos ar valstybės narės teisės aktais."
+		},
+		{
+			"lang": "nl",
+			"text": "De verwerker en eenieder die handelt onder het gezag van de voor de verwerking verantwoordelijke of van de verwerker en toegang heeft tot persoonsgegevens, verwerkt deze slechts in opdracht van de voor de verwerking verantwoordelijke, tenzij hij op grond van de EU-wetgeving of de nationale wetgeving tot de verwerking verplicht is."
+		},
+		{
+			"lang": "sv",
+			"text": "Registerföraren och personer som utför arbete under den registeransvariges eller registerförarens överinseende, och som får tillgång till personuppgifter, får behandla dessa endast enligt instruktion från den registeransvarige, om han eller hon inte är skyldig att göra det enligt unionslagstiftningen eller medlemsstaternas lagstiftning."
+		}
+	],
+	"children": [],
+	"title": "Article 27 – Text 1"
+}

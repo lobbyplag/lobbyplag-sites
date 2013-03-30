@@ -1,0 +1,105 @@
+{
+	"id": "c10",
+	"type": "chapter",
+	"literal": "X",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "DELEGATED ACTS AND IMPLEMENTING ACTS"
+		},
+		{
+			"lang": "de",
+			"text": "DELEGIERTE RECHTSAKTE UND DURCHFÜHRUNGSRECHTSAKTE"
+		},
+		{
+			"lang": "fr",
+			"text": "ACTES DÉLÉGUÉS ET ACTES D'EXÉCUTION"
+		},
+		{
+			"lang": "es",
+			"text": "ACTOS DELEGADOS Y ACTOS DE EJECUCIÓN"
+		},
+		{
+			"lang": "pt",
+			"text": "ATOS DELEGADOS E ATOS DE EXECUÇÃO"
+		},
+		{
+			"lang": "it",
+			"text": "ATTI DELEGATI E ATTI DI ESECUZIONE"
+		},
+		{
+			"lang": "ga",
+			"text": "GNÍOMHARTHA TARMLIGTHE AGUS GNÍOMHARTHA CUR CHUN FEIDHME"
+		},
+		{
+			"lang": "cs",
+			"text": "AKTY V PŘENESENÉ PRAVOMOCI A PROVÁDĚCÍ AKTY"
+		},
+		{
+			"lang": "da",
+			"text": "DELEGEREDE RETSAKTER OG GENNEMFØRELSESFORANSTALTNINGER"
+		},
+		{
+			"lang": "et",
+			"text": "DELEGEERITUD ÕIGUSAKTID JA RAKENDUSAKTID"
+		},
+		{
+			"lang": "el",
+			"text": "ΚΑΤ’ ΕΞΟΥΣΙΟΔΟΤΗΣΗ ΠΡΑΞΕΙΣ ΚΑΙ ΕΚΤΕΛΕΣΤΙΚΕΣ ΠΡΑΞΕΙΣ"
+		},
+		{
+			"lang": "bg",
+			"text": "ДЕЛЕГИРАНИ АКТОВЕ И АКТОВЕ ЗА ИЗПЪЛНЕНИЕ"
+		},
+		{
+			"lang": "hu",
+			"text": "FELHATALMAZÁSON ALAPULÓ ÉS VÉGREHAJTÁSI JOGI AKTUSOK"
+		},
+		{
+			"lang": "mt",
+			"text": "ATTI DELEGATI U ATTI TA’ IMPLIMENTAZZJONI"
+		},
+		{
+			"lang": "lv",
+			"text": "DELEĢĒTIE AKTI UN ĪSTENOŠANAS AKTI"
+		},
+		{
+			"lang": "ro",
+			"text": "ACTE DELEGATE ȘI ACTE DE PUNERE ÎN APLICARE"
+		},
+		{
+			"lang": "sk",
+			"text": "DELEGOVANÉ AKTY A VYKONÁVACIE AKTY"
+		},
+		{
+			"lang": "sl",
+			"text": "DELEGIRANI IN IZVEDBENI AKTI"
+		},
+		{
+			"lang": "fi",
+			"text": "DELEGOIDUT SÄÄDÖKSET JA TÄYTÄNTÖÖNPANOSÄÄDÖKSET"
+		},
+		{
+			"lang": "pl",
+			"text": "AKTY DELEGOWANE I WYKONAWCZE"
+		},
+		{
+			"lang": "lt",
+			"text": "DELEGUOTIEJI AKTAI IR ĮGYVENDINIMO AKTAI"
+		},
+		{
+			"lang": "nl",
+			"text": "GEDELEGEERDE HANDELINGEN EN UITVOERINGSHANDELINGEN"
+		},
+		{
+			"lang": "sv",
+			"text": "DELEGERADE AKTER OCH GENOMFÖRANDEAKTER"
+		}
+	],
+	"children": [
+		"a86",
+		"a87"
+	],
+	"title": "Chapter 10"
+}

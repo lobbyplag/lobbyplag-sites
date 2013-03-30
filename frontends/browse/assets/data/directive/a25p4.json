@@ -1,0 +1,102 @@
+{
+	"id": "a25p4",
+	"type": "paragraph",
+	"literal": "4",
+	"parent": "a25",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The designation of a representative by the controller shall be without prejudice to legal actions which could be initiated against the controller itself."
+		},
+		{
+			"lang": "de",
+			"text": "Die Benennung eines Vertreters durch den für die Verarbeitung Verantwortlichen erfolgt unbeschadet etwaiger rechtlicher Schritte gegen den für die Verarbeitung Verantwortlichen."
+		},
+		{
+			"lang": "fr",
+			"text": "La désignation d'un représentant par le responsable du traitement est sans préjudice d'actions en justice qui pourraient être intentées contre le responsable du traitement lui‑même."
+		},
+		{
+			"lang": "es",
+			"text": "La designación de un representante por el responsable del tratamiento se entenderá sin perjuicio de las acciones legales que pudieran emprenderse contra el propio responsable del tratamiento."
+		},
+		{
+			"lang": "pt",
+			"text": "A designação de um representante pelo responsável pelo tratamento não prejudica as ações judiciais que possam vir a ser intentadas contra o próprio responsável pelo tratamento."
+		},
+		{
+			"lang": "it",
+			"text": "La designazione di un rappresentante a cura del responsabile del trattamento fa salve le azioni legali che potrebbero essere promosse contro lo stesso responsabile del trattamento."
+		},
+		{
+			"lang": "ga",
+			"text": "Ceapfaidh an rialaitheoir ionadaí gan dochar do chaingne dlí a d’fhéadfaí a thionscnamh i gcoinne an rialaitheora féin."
+		},
+		{
+			"lang": "cs",
+			"text": "Tím, že správce jmenuje svého zástupce, nejsou dotčeny právní kroky, které by mohly být podniknuty proti správci samotnému."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarliges udpegning af en repræsentant berører ikke eventuelle retslige skridt mod den registeransvarlige selv."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutava töötleja esindaja määramine ei piira võimalust võtta õiguslikke meetmeid vastutava töötleja enda suhtes."
+		},
+		{
+			"lang": "el",
+			"text": "Ο ορισμός εκπροσώπου από τον υπεύθυνο επεξεργασίας δεν θίγει τις αγωγές οι οποίες μπορούν να ασκηθούν κατά του ίδιου του υπευθύνου επεξεργασίας."
+		},
+		{
+			"lang": "bg",
+			"text": "Определянето на представител от администратора не засяга съдебните производства, които биха могли да бъдат започнати срещу самия администратор."
+		},
+		{
+			"lang": "hu",
+			"text": "A képviselő adatkezelő általi kijelölése nem érinti a magával az adatkezelővel szembeni keresetindításhoz való jogot."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-ħatra ta’ rappreżentant mill-kontrollur għandha tkun mingħajr preġudizzju għal azzjonijiet legali li jistgħu jinbdew kontra l-kontrollur innifsu."
+		},
+		{
+			"lang": "lv",
+			"text": "Pārziņa pārstāvja norīkošana neskar prasības, ko varētu celt pret pašu pārzini."
+		},
+		{
+			"lang": "ro",
+			"text": "Desemnarea unui reprezentant de către operator nu aduce atingere acțiunilor în justiție care ar putea fi introduse împotriva operatorului însuși."
+		},
+		{
+			"lang": "sk",
+			"text": "Určením svojho zástupcu prevádzkovateľom nie sú dotknuté právne kroky, ktoré by mohli byť iniciované proti samotnému prevádzkovateľovi."
+		},
+		{
+			"lang": "sl",
+			"text": "Določitev predstavnika s strani upravljavca ne vpliva na pravne ukrepe, ki bi lahko bili uvedeni zoper samega upravljavca."
+		},
+		{
+			"lang": "fi",
+			"text": "Edustajan nimittäminen rekisterinpitäjän toimesta ei rajoita niitä oikeustoimia, jotka voidaan käynnistää rekisterinpitäjää vastaan."
+		},
+		{
+			"lang": "pl",
+			"text": "Wyznaczenie przedstawiciela przez administratora pozostaje bez uszczerbku dla postępowań sądowych, które można by wszcząć przeciwko samemu administratorowi."
+		},
+		{
+			"lang": "lt",
+			"text": "Atstovą duomenų valdytojas skiria nedarydamas poveikio teisiniams veiksmams, kurių gali būti imtasi prieš patį duomenų valdytoją."
+		},
+		{
+			"lang": "nl",
+			"text": "De aanwijzing van een vertegenwoordiger door de voor de verwerking verantwoordelijke laat de vorderingen die tegen de voor de verwerking verantwoordelijke zelf zouden kunnen worden ingesteld, onverlet."
+		},
+		{
+			"lang": "sv",
+			"text": "Att den registeransvarige utser en företrädare ska inte påverka de rättsliga åtgärder som skulle kunna inledas mot den registeransvarige."
+		}
+	],
+	"children": [],
+	"title": "Article 25 – Paragraph 4"
+}

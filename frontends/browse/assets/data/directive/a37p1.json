@@ -1,0 +1,111 @@
+{
+	"id": "a37p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a37",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller or the processor shall entrust the data protection officer at least with the following tasks:"
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche oder der Auftragsverarbeiter betraut den Datenschutzbeauftragten mit mindestens folgenden Aufgaben:"
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement ou le sous-traitant confient au délégué à la protection des données au moins les missions suivantes:"
+		},
+		{
+			"lang": "es",
+			"text": "El responsable o el encargado del tratamiento encomendarán al delegado de protección de datos, como mínimo, las siguientes tareas:"
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento ou o subcontratante confia ao delegado para a proteção de dados, pelo menos, as seguintes atribuições:"
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento o l’incaricato del trattamento conferisce al responsabile della protezione dei dati almeno i seguenti compiti:"
+		},
+		{
+			"lang": "ga",
+			"text": "Cuirfidh an rialaitheoir nó an próiseálaí na cúraimí seo a leanas ar a laghad ar an oifigeach cosanta sonraí:"
+		},
+		{
+			"lang": "cs",
+			"text": "Správce nebo zpracovatel svěří inspektorovi ochrany údajů alespoň tyto úkoly:"
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige og registerføreren overdrager mindst følgende opgaver til den databeskyttelsesansvarlige:"
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja ja volitatud töötleja annavad andmekaitseametnikule vähemalt järgmised ülesanded:"
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας ή ο εκτελών την επεξεργασία αναθέτουν στον υπεύθυνο προστασίας δεδομένων τουλάχιστον τα ακόλουθα καθήκοντα:"
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът или обработващият лични данни възлага на длъжностно лице по защита на данните най-малко следните задачи:"
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő vagy -feldolgozó az adatvédelmi tisztviselőt legalább a következő feladatokkal bízza meg:"
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur jew il-proċessur għandu jafda lill-uffiċjal tal-protezzjoni tad-dejta tal-anqas bil-kompiti li ġejjin:"
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinis un apstrādātājs uztic datu aizsardzības inspektoram vismaz šādus uzdevumus:"
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul sau persoana împuternicită de către operator încredințează responsabilului cu protecția datelor cel puțin următoarele sarcini:"
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ alebo sprostredkovateľ poverujú úradníka pre ochranu údajov prinajmenšom týmito úlohami:"
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec ali obdelovalec uradni osebi za varstvo podatkov zaupa vsaj naslednje naloge:"
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän tai henkilötietojen käsittelijän on osoitettava tietosuojavastaavalle ainakin seuraavat tehtävät:"
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator lub podmiot przetwarzający powierzają inspektorowi ochrony danych przynajmniej poniższe zadania:"
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas arba duomenų tvarkytojas paveda duomenų apsaugos pareigūnui atlikti bent šias užduotis:"
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke en de verwerker dragen de functionaris voor gegevensbescherming ten minste de volgende taken op:"
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige eller registerföraren ska anförtro uppgiftsskyddsombudet åtminstone följande arbetsuppgifter:"
+		}
+	],
+	"children": [
+		"a37p1i1",
+		"a37p1i2",
+		"a37p1i3",
+		"a37p1i4",
+		"a37p1i5",
+		"a37p1i6",
+		"a37p1i7",
+		"a37p1i8"
+	],
+	"title": "Article 37 – Paragraph 1"
+}

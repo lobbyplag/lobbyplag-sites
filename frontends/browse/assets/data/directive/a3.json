@@ -1,0 +1,106 @@
+{
+	"id": "a3",
+	"type": "article",
+	"literal": "3",
+	"parent": "c1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Territorial scope"
+		},
+		{
+			"lang": "de",
+			"text": "Räumlicher Anwendungsbereich"
+		},
+		{
+			"lang": "fr",
+			"text": "Champ d'application territorial"
+		},
+		{
+			"lang": "es",
+			"text": "Ámbito de aplicación territorial"
+		},
+		{
+			"lang": "pt",
+			"text": "Âmbito de aplicação territorial"
+		},
+		{
+			"lang": "it",
+			"text": "Campo di applicazione territoriale"
+		},
+		{
+			"lang": "ga",
+			"text": "Raon feidhme críochach"
+		},
+		{
+			"lang": "cs",
+			"text": "Územní působnost"
+		},
+		{
+			"lang": "da",
+			"text": "Territorialt anvendelsesområde"
+		},
+		{
+			"lang": "et",
+			"text": "Territoriaalne kohaldamisala"
+		},
+		{
+			"lang": "el",
+			"text": "Γεωγραφικό πεδίο εφαρμογής"
+		},
+		{
+			"lang": "bg",
+			"text": "Териториално приложно поле"
+		},
+		{
+			"lang": "hu",
+			"text": "Területi hatály"
+		},
+		{
+			"lang": "mt",
+			"text": "Kamp ta’ applikazzjoni territorjali"
+		},
+		{
+			"lang": "lv",
+			"text": "Teritoriālā piemērošanas joma"
+		},
+		{
+			"lang": "ro",
+			"text": "Domeniul teritorial de aplicare"
+		},
+		{
+			"lang": "sk",
+			"text": "Územná pôsobnosť"
+		},
+		{
+			"lang": "sl",
+			"text": "Ozemeljsko področje uporabe"
+		},
+		{
+			"lang": "fi",
+			"text": "Alueellinen soveltamisala"
+		},
+		{
+			"lang": "pl",
+			"text": "Zakres terytorialny"
+		},
+		{
+			"lang": "lt",
+			"text": "Teritorinė taikymo sritis"
+		},
+		{
+			"lang": "nl",
+			"text": "Geografisch toepassingsgebied"
+		},
+		{
+			"lang": "sv",
+			"text": "Territoriellt tillämpningsområde"
+		}
+	],
+	"children": [
+		"a3p1",
+		"a3p2",
+		"a3p3"
+	],
+	"title": "Article 3"
+}

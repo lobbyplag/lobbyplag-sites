@@ -1,0 +1,102 @@
+{
+	"id": "a44p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a44",
+	"text": [
+		{
+			"lang": "en",
+			"text": "A transfer pursuant to point (g) of paragraph 1 shall not involve the entirety of the personal data or entire categories of the personal data contained in the register. When the register is intended for consultation by persons having a legitimate interest, the transfer shall be made only at the request of those persons or if they are to be the recipients."
+		},
+		{
+			"lang": "de",
+			"text": "Datenübermittlungen gemäß Absatz 1 Buchstabe g dürfen nicht die Gesamtheit oder ganze Kategorien der im Register enthaltenen Daten umfassen. Wenn das Register der Einsichtnahme durch Personen mit berechtigtem Interesse dient, darf die Übermittlung nur auf Antrag dieser Personen oder nur dann erfolgen, wenn diese Personen die Adressaten der Übermittlung sind."
+		},
+		{
+			"lang": "fr",
+			"text": "Un transfert effectué en vertu du paragraphe 1, point g), ne porte pas sur la totalité des données à caractère personnel ni sur des catégories entières de données à caractère personnel contenues dans le registre. Lorsque le registre est destiné à être consulté par des personnes qui ont un intérêt légitime, le transfert n'est effectué qu'à la demande de ces personnes ou lorsqu'elles en sont les destinataires."
+		},
+		{
+			"lang": "es",
+			"text": "Una transferencia efectuada de conformidad con el apartado 1, letra g), no implicará la totalidad de los datos personales ni categorías enteras de datos personales contenidos en el registro. Cuando la finalidad del registro sea la consulta por parte de personas que tengan un interés legítimo, la transferencia solo se efectuará a solicitud de dichas personas o cuando ellas sean las destinatarias."
+		},
+		{
+			"lang": "pt",
+			"text": "Uma transferência efetuada nos termos do n.º 1, alínea g), não deve envolver a totalidade dos dados pessoais nem categorias completas de dados pessoais constantes do registo. Sempre que o registo se destinar a ser consultado por pessoas com um interesse legítimo, a transferência apenas pode ser efetuada a pedido dessas pessoas ou caso sejam elas os seus destinatários."
+		},
+		{
+			"lang": "it",
+			"text": "Il trasferimento di cui al paragrafo 1, lettera g), non può riguardare la totalità dei dati personali o intere categorie di dati personali contenute nel registro. Se il registro è destinato ad essere consultato da persone aventi un legittimo interesse, il trasferimento è ammesso soltanto su richiesta di tali persone o qualora ne siano i destinatari."
+		},
+		{
+			"lang": "ga",
+			"text": "Ní áireofar na sonraí pearsanta ar fad ná na catagóirí sonraí pearsanta ar fad atá sa chlár i gcás aistrithe de bhun phointe (g) de mhír 1. Nuair atá sé beartaithe go bhféadfaidh daoine a bhfuil leas dlisteanach acu sna sonraí an clár a cheadú, ní dhéanfar an t‑aistriú ach ar iarraidh ó na daoine sin nó más iad na daoine sin a gheobhaidh na sonraí."
+		},
+		{
+			"lang": "cs",
+			"text": "Předmětem předání podle odst. 1 písm. g) nejsou veškeré osobní údaje nebo veškeré kategorie osobních údajů, které jsou v rejstříku obsaženy. Má-li rejstřík sloužit k nahlížení osobám majícím oprávněný zájem, předání se uskuteční, pouze pokud o to tyto osoby požádají nebo pokud jsou tyto osoby příjemcem."
+		},
+		{
+			"lang": "da",
+			"text": "En videregivelse i henhold til stk. 1, litra g), omfatter ikke alle personoplysninger eller hele kategorier af personoplysninger i registret. Når et register er beregnet til at blive konsulteret af personer, der har en legitim interesse heri, sker videregivelse kun på anmodning af disse personer, eller hvis de selv er modtageren."
+		},
+		{
+			"lang": "et",
+			"text": "Lõike 1 punkti g kohane edastamine ei hõlma kõiki registris sisalduvaid isikuandmeid või isikuandmete täielikke kategooriaid. Kui register on mõeldud õigustatud huviga isikutele tutvumiseks, toimub edastamine vaid nende isikute taotluse korral või kui nemad ise on andmete vastuvõtjad."
+		},
+		{
+			"lang": "el",
+			"text": "Διαβίβαση η οποία πραγματοποιείται δυνάμει της παραγράφου 1 στοιχείο ζ) δεν περιλαμβάνει το σύνολο των δεδομένων προσωπικού χαρακτήρα ούτε ολόκληρες κατηγορίες δεδομένων προσωπικού χαρακτήρα που περιέχονται στο μητρώο. Όταν το μητρώο προορίζεται για αναζήτηση πληροφοριών από πρόσωπα τα οποία έχουν έννομο συμφέρον, η διαβίβαση πραγματοποιείται μόνον κατόπιν αιτήματος των εν λόγω προσώπων ή μόνον εάν πρόκειται να είναι οι αποδέκτες."
+		},
+		{
+			"lang": "bg",
+			"text": "Предаването съгласно параграф 1, буква ж) не трябва да включва всички лични данни или всички категории лични данни, съдържащи се в регистрационната система. Когато регистрационната система е предназначена за справка от лица, които имат законен интерес, предаването се извършва единствено по искане на тези лица или ако те са получателите."
+		},
+		{
+			"lang": "hu",
+			"text": "Az (1) bekezdés g) pontja szerinti továbbítás nem érinti a nyilvántartásban szereplő személyes adatok összességét vagy a személyes adatok kategóriáinak összességét. Amennyiben a nyilvántartás a jogos érdekkel rendelkező személyekkel való egyeztetésre szolgál, a továbbításra kizárólag e személyek kérelmére kerülhet sor, vagy ha ők a címzettek."
+		},
+		{
+			"lang": "mt",
+			"text": "Trasferiment skont il-punt (g) tal-paragrafu 1 ma għandux jinvolvi t-totalità tad-dejta personali jew kategoriji sħaħ tad-dejta personali li jinsabu fir-reġistru. Meta r-reġistru huwa maħsub għall-konsultazzjoni minn persuni li jkollhom interess leġittimu, it-trasferiment għandu jsir biss fuq it-talba ta’ dawk il-persuni jew jekk sejrin ikunu r-riċevituri."
+		},
+		{
+			"lang": "lv",
+			"text": "Nosūtot datus saskaņā ar 1. punkta g) apakšpunktu, nenosūta pilnīgi visus reģistrā ietvertos personas datu vai veselas personas datu kategorijas. Ja reģistrs ir paredzēts, lai tajā varētu ieskatīties likumīgi ieinteresētas personas, datus nosūta tikai pēc šo personu pieprasījuma vai ja šīs personas ir datu saņēmēji."
+		},
+		{
+			"lang": "ro",
+			"text": "Transferul în temeiul alineatului (1) litera (g) nu implică totalitatea datelor cu caracter personal sau ansamblul categoriilor de date cu caracter personal cuprinse în registru. Atunci când registrul urmează a fi consultat de către persoane care au un interes legitim, transferul se efectuează numai la cererea persoanelor respective sau, în cazul în care acestea vor fi destinatarii."
+		},
+		{
+			"lang": "sk",
+			"text": "Prenos podľa odseku 1 písm. g) nezahŕňa všetky osobné údaje alebo celé kategórie osobných údajov obsiahnutých v registri. Ak je register určený na nahliadanie pre osoby s oprávneným záujmom, prenos sa uskutoční iba na žiadosť týchto osôb alebo vtedy, keď majú byť príjemcami."
+		},
+		{
+			"lang": "sl",
+			"text": "Prenos v skladu s točko (g) odstavka 1 ne vključuje vseh osebnih podatkov ali vseh vrst osebnih podatkov, ki jih vsebuje register. Kadar je register namenjen vpogledu oseb, ki imajo pravni interes, se prenos opravi samo na zahtevo teh oseb ali če bodo te osebe prejemniki."
+		},
+		{
+			"lang": "fi",
+			"text": "Edellä olevan 1 kohdan g alakohdan mukainen siirto ei saa käsittää rekisteriin sisältyviä henkilötietoja kokonaisuudessaan eikä kokonaisia henkilötietojen ryhmiä. Jos rekisteri on tarkoitettu sellaisten henkilöiden käyttöön, joilla on siihen oikeutettu etu, siirto olisi tehtävä ainoastaan näiden henkilöiden pyynnöstä tai jos he ovat henkilötietojen vastaanottajia."
+		},
+		{
+			"lang": "pl",
+			"text": "Przekazanie na mocy ust. 1 lit. g) nie obejmuje całości danych osobowych lub wszystkich kategorii danych osobowych obecnych w rejestrze. Jeśli rejestr służy do wglądu osobom mającym uzasadniony interes, przekazanie następuje jedynie na wniosek tych osób lub jeśli mają one być odbiorcami tych danych."
+		},
+		{
+			"lang": "lt",
+			"text": "Jeigu duomenys perduodami pagal 1 dalies g punktą, negali būti perduodami visi registre esantys asmens duomenys arba visi tam tikrų kategorijų duomenys. Jeigu registras yra skirtas tam, kad teisėtų interesų turintys asmenys susipažintų su jame esančia informacija, duomenys perduodami tik tų asmenų prašymu arba jei tie asmenys yra tų duomenų gavėjai."
+		},
+		{
+			"lang": "nl",
+			"text": "Een doorgifte overeenkomstig lid 1, onder g), mag geen betrekking hebben op alle persoonsgegevens of volledige categorieën persoonsgegevens die in het register zijn opgeslagen. Wanneer een register bedoeld is om door personen met een gerechtvaardigd belang te worden geraadpleegd, kan de doorgifte slechts plaatsvinden op verzoek van die personen of wanneer de gegevens voor hen zijn bestemd."
+		},
+		{
+			"lang": "sv",
+			"text": "En överföring enligt punkt 1 g får inte omfatta alla personuppgifter eller hela kategorier av personuppgifter som finns i registret. Om registret är avsett att vara tillgängligt för personer med ett berättigat intresse ska överföringen göras endast på begäran av dessa personer eller om de själva är mottagarna."
+		}
+	],
+	"children": [],
+	"title": "Article 44 – Paragraph 2"
+}

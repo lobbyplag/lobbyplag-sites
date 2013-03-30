@@ -1,0 +1,102 @@
+{
+	"id": "a11p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a11",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller shall provide any information and any communication relating to the processing of personal data to the data subject in an intelligible form, using clear and plain language, adapted to the data subject, in particular for any information addressed specifically to a child."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche stellt der betroffenen Person alle Informationen und Mitteilungen zur Verarbeitung personenbezogener Daten in verständlicher Form unter Verwendung einer klaren, einfachen und adressatengerechten Sprache zur Verfügung, besonders dann, wenn die Information an ein Kind gerichtet ist."
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement procède à toutes information et communication relatives au traitement des données à caractère personnel à la personne concernée, sous une forme intelligible et en des termes clairs et simples, adaptés à la personne concernée, en particulier lorsqu'une information est adressée spécifiquement à un enfant."
+		},
+		{
+			"lang": "es",
+			"text": "El responsable del tratamiento facilitará al interesado cualquier información y comunicación relativa al tratamiento de datos personales, en forma inteligible, utilizando un lenguaje sencillo, claro y adaptado al interesado, en particular para cualquier información dirigida específicamente a los niños."
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento deve fornecer quaisquer informações e comunicações relativas ao tratamento de dados pessoais ao titular dos dados de forma inteligível, numa linguagem clara e simples, adaptada à pessoa em causa, em especial quando as informações são dirigidas especificamente a uma criança."
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento fornisce all’interessato tutte le informazioni e le comunicazioni relative al trattamento dei dati personali in forma intelligibile, con linguaggio semplice e chiaro e adeguato all’interessato, in particolare se le informazioni sono destinate ai minori."
+		},
+		{
+			"lang": "ga",
+			"text": "Tabharfaidh an rialaitheoir aon fhaisnéis agus aon chumarsáid a bhaineann le próiseáil sonraí pearsanta don duine is ábhar do na sonraí ar bhealach intuigthe, i dteanga shoiléir shimplí atá curtha in oiriúint don duine is ábhar do na sonraí, go háirithe maidir le haon fhaisnéis atá dírithe go sonrach ar leanbh."
+		},
+		{
+			"lang": "cs",
+			"text": "Správce poskytuje subjektu údajů veškeré informace a veškerá oznámení v souvislosti se zpracováním osobních údajů ve srozumitelné formě, přičemž používá jasný a běžný jazyk přizpůsobený subjektu údajů, zejména v případě jakýchkoli informací určených speciálně dítěti."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige udleverer alle oplysninger og meddelelser vedrørende behandlingen af personoplysninger til den registrerede i en letforståelig form og i et klart og forståeligt sprog, som er tilpasset den registrerede, navnlig hvis oplysningerne specifikt er henvendt til et barn."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja esitab andmesubjektile kogu teabe isikuandmete töötlemise ja sellega seotud teabevahetuse kohta, tehes seda arusaadavas vormis ning andmesubjektile kohandatud selges ja lihtsas keeles, eelkõige kui teave esitatakse lapsele."
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας θέτει στη διάθεση του προσώπου στο οποίο αναφέρονται τα δεδομένα κάθε πληροφορία και γνωστοποίηση σχετική με την επεξεργασία δεδομένων προσωπικού χαρακτήρα σε κατανοητή μορφή, χρησιμοποιώντας σαφή και απλή διατύπωση, προσαρμοσμένη στο συγκεκριμένο πρόσωπο, ιδίως όταν πρόκειται για πληροφορία απευθυνόμενη ειδικά σε παιδιά."
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът предоставя на субекта на данните информация и съобщения, свързани с обработването на личните данни, в лесна за разбиране форма, като използва ясни и недвусмислени формулировки, адаптирани към субекта на данните, по-специално при всяка информация, конкретно насочена към дете."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő a személyes adatok feldolgozására vonatkozó tájékoztatást és értesítést, különösen a kifejezetten gyermekeknek szóló tájékoztatást, az érintett részére érthető formában, az érintett befogadóképességének megfelelő, világos és közérthető nyelven nyújtja."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur għandu jipprovdi kull informazzjoni u kull komunikazzjoni relatata mal-ipproċessar ta’ dejta personali lis-suġġett tad-dejta f’forma li tinftiehem, permezz ta’ lingwaġġ ċar u ħafif, adattat għas-suġġett tad-dejta, b’mod partikolari għal informazzjoni indirizzata speċifikament lil minorenni."
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinis nodrošina visu informāciju un saziņu ar datu subjektu saistībā ar personas datu apstrādi saprotamā veidā, izmantojot skaidru un vienkāršu valodu, kas pielāgota datu subjektam, jo īpaši attiecībā uz informāciju, kas īpaši paredzēta bērnam."
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul transmite persoanei vizate orice informație și orice comunicare cu privire la prelucrarea datelor cu caracter personal într-o formă inteligibilă, utilizând un limbaj clar și simplu, adaptat în funcție de persoana vizată, în special pentru orice informație adresată în mod expres unui minor."
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ poskytuje všetky informácie a uskutočňuje komunikáciu v súvislosti so spracúvaním osobných údajov vo vzťahu k dotknutej osobe v zrozumiteľnej forme, pričom používa jasný a jednoduchý jazyk prispôsobený dotknutej osobe, najmä v prípade akýchkoľvek informácií adresovaných výslovne dieťaťu."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec posamezniku, na katerega se nanašajo osebni podatki, vse informacije in sporočila, povezane z obdelavo osebnih podatkov, zagotovi v razumljivi obliki ter jasnem in razumljivem jeziku, prilagojenem posamezniku, na katerega se nanašajo osebni podatki, kar velja zlasti za informacije, posebej namenjene otroku."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän on toimitettava rekisteröidylle kaikki henkilötietojen käsittelyä koskevat tiedot ja viestit helposti ymmärrettävässä muodossa sekä selkeällä ja yksinkertaisella kielellä, jossa otetaan huomioon rekisteröidyn tarpeet, etenkin kun tiedot on suunnattu erityisesti lapselle."
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator przekazuje informacje i komunikaty dotyczące przetwarzania danych osobowych podmiotowi danych w czytelnej formie, w jasnym i prostym języku, dostosowane do potrzeb podmiotu danych, w szczególności w przypadku informacji adresowanych bezpośrednio do dziecka."
+		},
+		{
+			"lang": "lt",
+			"text": "Visą informaciją ir pranešimus, susijusius su asmens duomenų tvarkymu, duomenų valdytojas duomenų subjektui pateikia suprantama forma, aiškia ir paprasta duomenų subjektui pritaikyta kalba, ypač kai informacija skirta vaikui."
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke verschaft de betrokkene in begrijpelijke vorm alle informatie en mededelingen over de verwerking van persoonsgegevens, waarbij duidelijke en eenvoudige, aan de betrokkene aangepaste taal wordt gebruikt, met name in geval van informatie die specifiek voor kinderen is bedoeld."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige ska tillhandahålla all information och kommunikation som rör behandlingen av personuppgifter till den registrerade i en begriplig form, med användning av klart och tydligt språk, anpassat till den registrerade, i synnerhet för eventuell information särskilt riktad till barn."
+		}
+	],
+	"children": [],
+	"title": "Article 11 – Paragraph 2"
+}

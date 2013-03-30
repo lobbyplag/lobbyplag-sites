@@ -1,0 +1,102 @@
+{
+	"id": "a17p6",
+	"type": "paragraph",
+	"literal": "6",
+	"parent": "a17",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Where processing of personal data is restricted pursuant to paragraph 4, the controller shall inform the data subject before lifting the restriction on processing."
+		},
+		{
+			"lang": "de",
+			"text": "Unterliegt die Verarbeitung personenbezogener Daten gemäß Absatz 4 einer Beschränkung, teilt der für die Verarbeitung Verantwortliche der betroffenen Person im Voraus mit, dass die Beschränkung aufgehoben werden soll."
+		},
+		{
+			"lang": "fr",
+			"text": "Lorsque le traitement des données à caractère personnel est limité conformément au paragraphe 4, le responsable du traitement informe la personne concernée avant de lever la limitation frappant le traitement."
+		},
+		{
+			"lang": "es",
+			"text": "Cuando el tratamiento de datos personales esté limitado de conformidad con lo dispuesto en el apartado 4, el responsable del tratamiento informará al interesado antes de levantar la limitación al tratamiento."
+		},
+		{
+			"lang": "pt",
+			"text": "Sempre que o tratamento de dados pessoais for limitado nos termos do n.º 4, o responsável pelo tratamento informa o titular dos dados antes de anular a limitação ao tratamento."
+		},
+		{
+			"lang": "it",
+			"text": "Quando il trattamento dei dati personali è limitato a norma del paragrafo 4, il responsabile del trattamento informa l’interessato prima di eliminare la limitazione al trattamento."
+		},
+		{
+			"lang": "ga",
+			"text": "I gcás ina bhfuil srian curtha le próiseáil sonraí pearsanta de bhun mhír 4, cuirfidh an rialaitheoir an duine is ábhar do na sonraí ar an eolas sula gcuirfear an srian le próiseáil ar leataobh."
+		},
+		{
+			"lang": "cs",
+			"text": "Pokud je zpracování osobních údajů omezené ve smyslu odstavce 4, správce o tom informuje subjekt údajů před zrušením omezení zpracování."
+		},
+		{
+			"lang": "da",
+			"text": "Hvis behandlingen af personoplysninger er begrænset i henhold til stk. 4, underretter den registeransvarlige den registrerede, inden begrænsningen for behandling ophæves."
+		},
+		{
+			"lang": "et",
+			"text": "Juhul kui isikuandmete töötlemine on lõike 4 kohaselt piiratud, teavitab vastutav töötleja andmesubjekti enne töötlemise piirangute kõrvaldamist."
+		},
+		{
+			"lang": "el",
+			"text": "Εάν η επεξεργασία δεδομένων προσωπικού χαρακτήρα περιορίζεται δυνάμει της παραγράφου 4, ο υπεύθυνος επεξεργασίας ενημερώνει το πρόσωπο στο οποίο αναφέρονται τα δεδομένα πριν από την άρση του περιορισμού της επεξεργασίας."
+		},
+		{
+			"lang": "bg",
+			"text": "Когато обработването на личните данни е ограничено съгласно параграф 4, администраторът информира субекта на данните преди да премахне ограничението за обработването."
+		},
+		{
+			"lang": "hu",
+			"text": "Amennyiben a személyes adatok feldolgozása a (4) bekezdés értelmében korlátozott, az adatkezelő a feldolgozás korlátozásának feloldása előtt tájékoztatja az érintettet."
+		},
+		{
+			"lang": "mt",
+			"text": "Meta l-ipproċessar ta’ dejta personali jkun ristrett skont il-paragrafu 4, il-kontrollur għandu jinforma lis-suġġett tad-dejta qabel ineħħi r-restrizzjoni fuq l-ipproċessar."
+		},
+		{
+			"lang": "lv",
+			"text": "Ja personas datu apstrāde ir ierobežota saskaņā ar 4. punktu, pārzinis informē datu subjektu pirms apstrādes ierobežojuma atcelšanas."
+		},
+		{
+			"lang": "ro",
+			"text": "În cazul în care prelucrarea datelor cu caracter personal este limitată în conformitate cu alineatul (4), operatorul informează în acest sens persoana vizată înainte de ridicarea restricțiilor de prelucrare."
+		},
+		{
+			"lang": "sk",
+			"text": "Ak je spracovanie osobných údajov obmedzené v zmysle odseku 4, prevádzkovateľ pred zrušením obmedzenia na spracovanie informuje o tom dotknutú osobu."
+		},
+		{
+			"lang": "sl",
+			"text": "Če je obdelava osebnih podatkov omejena v skladu z odstavkom 4, upravljavec posameznika, na katerega se nanašajo osebni podatki, obvesti o preklicu omejitve obdelave."
+		},
+		{
+			"lang": "fi",
+			"text": "Jos henkilötietojen käsittelyä on rajoitettu 4 kohdan nojalla, rekisterinpitäjän on ilmoitettava rekisteröidylle, ennen kuin käsittelyä koskeva rajoitus poistetaan."
+		},
+		{
+			"lang": "pl",
+			"text": "Jeżeli przetwarzanie danych osobowych jest ograniczone na mocy ust. 4, administrator informuje podmiot danych przed zniesieniem ograniczenia dotyczącego przetwarzania."
+		},
+		{
+			"lang": "lt",
+			"text": "Jeigu asmens duomenų tvarkymas apribojamas pagal 4 dalį, duomenų valdytojas, prieš panaikindamas duomenų tvarkymo apribojimą, informuoja apie tai duomenų subjektą."
+		},
+		{
+			"lang": "nl",
+			"text": "Wanneer de verwerking van persoonsgegevens op grond van artikel 4 is beperkt, informeert de voor de verwerking verantwoordelijke de betrokkene alvorens de beperking inzake de verwerking op te heffen."
+		},
+		{
+			"lang": "sv",
+			"text": "Om behandlingen av personuppgifter är begränsad enligt punkt 4 ska den registeransvarige underrätta den registrerade innan vederbörande häver begränsningen på behandlingen."
+		}
+	],
+	"children": [],
+	"title": "Article 17 – Paragraph 6"
+}

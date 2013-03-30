@@ -1,0 +1,105 @@
+{
+	"id": "a69",
+	"type": "article",
+	"literal": "69",
+	"parent": "c7s3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Chair"
+		},
+		{
+			"lang": "de",
+			"text": "Vorsitz"
+		},
+		{
+			"lang": "fr",
+			"text": "Présidence"
+		},
+		{
+			"lang": "es",
+			"text": "Presidente"
+		},
+		{
+			"lang": "pt",
+			"text": "Presidente"
+		},
+		{
+			"lang": "it",
+			"text": "Presidenza"
+		},
+		{
+			"lang": "ga",
+			"text": "Cathaoirleach"
+		},
+		{
+			"lang": "cs",
+			"text": "Předseda"
+		},
+		{
+			"lang": "da",
+			"text": "Formanden"
+		},
+		{
+			"lang": "et",
+			"text": "Eesistuja"
+		},
+		{
+			"lang": "el",
+			"text": "Πρόεδρος"
+		},
+		{
+			"lang": "bg",
+			"text": "Председател"
+		},
+		{
+			"lang": "hu",
+			"text": "Az elnök"
+		},
+		{
+			"lang": "mt",
+			"text": "President"
+		},
+		{
+			"lang": "lv",
+			"text": "Priekšsēdētājs"
+		},
+		{
+			"lang": "ro",
+			"text": "Președintele"
+		},
+		{
+			"lang": "sk",
+			"text": "Predseda"
+		},
+		{
+			"lang": "sl",
+			"text": "Predsednik"
+		},
+		{
+			"lang": "fi",
+			"text": "Puheenjohtaja"
+		},
+		{
+			"lang": "pl",
+			"text": "Przewodniczący"
+		},
+		{
+			"lang": "lt",
+			"text": "Pirmininkas"
+		},
+		{
+			"lang": "nl",
+			"text": "Voorzitter"
+		},
+		{
+			"lang": "sv",
+			"text": "Ordförande"
+		}
+	],
+	"children": [
+		"a69p1",
+		"a69p2"
+	],
+	"title": "Article 69"
+}

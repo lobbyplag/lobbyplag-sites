@@ -1,0 +1,106 @@
+{
+	"id": "a51",
+	"type": "article",
+	"literal": "51",
+	"parent": "c6s2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Competence"
+		},
+		{
+			"lang": "de",
+			"text": "Zuständigkeit"
+		},
+		{
+			"lang": "fr",
+			"text": "Compétence"
+		},
+		{
+			"lang": "es",
+			"text": "Competencia"
+		},
+		{
+			"lang": "pt",
+			"text": "Competência"
+		},
+		{
+			"lang": "it",
+			"text": "Competenza"
+		},
+		{
+			"lang": "ga",
+			"text": "Inniúlacht"
+		},
+		{
+			"lang": "cs",
+			"text": "Příslušnost"
+		},
+		{
+			"lang": "da",
+			"text": "Kompetence"
+		},
+		{
+			"lang": "et",
+			"text": "Pädevus"
+		},
+		{
+			"lang": "el",
+			"text": "Αρμοδιότητα"
+		},
+		{
+			"lang": "bg",
+			"text": "Компетентност"
+		},
+		{
+			"lang": "hu",
+			"text": "Illetékesség"
+		},
+		{
+			"lang": "mt",
+			"text": "Kompetenza"
+		},
+		{
+			"lang": "lv",
+			"text": "Kompetence"
+		},
+		{
+			"lang": "ro",
+			"text": "Competență"
+		},
+		{
+			"lang": "sk",
+			"text": "Pôsobnosť"
+		},
+		{
+			"lang": "sl",
+			"text": "Pristojnost"
+		},
+		{
+			"lang": "fi",
+			"text": "Toimivalta"
+		},
+		{
+			"lang": "pl",
+			"text": "Właściwość"
+		},
+		{
+			"lang": "lt",
+			"text": "Kompetencija"
+		},
+		{
+			"lang": "nl",
+			"text": "Competentie"
+		},
+		{
+			"lang": "sv",
+			"text": "Behörighet"
+		}
+	],
+	"children": [
+		"a51p1",
+		"a51p2",
+		"a51p3"
+	],
+	"title": "Article 51"
+}

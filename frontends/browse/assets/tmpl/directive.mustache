@@ -1,0 +1,82 @@
+{{#directive}}
+<div class="directive">
+	<h2>{{#addition}}<small>Addition after</small> {{/addition}}{{longtitle}}</h2>
+	<nav class="btn-group nav-buttons">
+		{{#prev}}<a href="/show/{{id}}" class="btn btn-default btn-small"><i class="icon-chevron-left"></i> {{title}}</a>{{/prev}}
+		{{#parent}}<a href="/show/{{id}}" class="btn btn-default btn-small"><i class="icon-chevron-up"></i> {{title}}</a>{{/parent}}
+		{{#has_children}}{{#children}}
+			<a href="/show/{{id}}" class="btn btn-default btn-small"><i class="icon-chevron-down"></i> {{title}}</a>
+		{{/children}}{{/has_children}}
+		{{#next}}<a href="/show/{{id}}" class="btn btn-default btn-small">{{title}} <i class="icon-chevron-right"></i></a>{{/next}}
+	</nav>
+	<section class="text">
+		<h3>Text</h3>
+		<nav class="btn-group lang-buttons" id="lang-buttons">
+			{{#text}}
+				<a href="javascript:;" class="btn btn-default btn-mini lang-select btn-lang-{{lang}}" data-lang="{{lang}}">{{lang}}</a>
+			{{/text}}
+		</nav>
+		{{#text}}
+			<article class="lang-item lang-{{lang}}">
+				<p>
+					<span class="label label-info label-lang">{{lang}}</span>
+					{{text}}
+				</p>
+			</article>
+		{{/text}}
+		{{^text}}
+			<p><em>This item does not contain text.</em></p>
+		{{/text}}
+	</section>
+	<div class="row">
+		<div class="span6">
+			<h3>Amendments</h3>
+			<section class="amendments">
+				{{#amendments}}
+					<article>
+						<h4>{{committee}} Amendment #{{amendment}}</h4>
+						<div class="diff-container">
+							<div class="diff-buttons btn-group">
+								<a class="btn btn-mini btn-inverse button-old" href="javascript:;">Regulation Draft</a>
+								<a class="btn btn-mini btn-primary button-all" href="javascript:;">Differences</a>
+								<a class="btn btn-mini btn-inverse button-new" href="javascript:;">Changed Version</a>
+							</div>
+							<div class="diff">
+								{{{diff}}}
+							</div>
+						</div>
+						<div class="authors clearfix">{{#authors}}{{>mep}}{{/authors}}</div>
+					</article>
+				{{/amendments}}
+				{{^amendments}}
+					<p>There are no amendments to this part of the directive</p>
+				{{/amendments}}
+			</section>
+		</div>
+		<div class="span6">
+			<h3>Lobby Proposals</h3>
+			<section class="proposals">
+				{{#proposals}}
+					<article>
+						<h4>Proposal by {{lobbyist_title}}</h4>
+						<div class="diff-container">
+							<div class="diff-buttons btn-group">
+								<a class="btn btn-mini btn-inverse button-old" href="javascript:;">Regulation Draft</a>
+								<a class="btn btn-mini btn-primary button-all" href="javascript:;">Differences</a>
+								<a class="btn btn-mini btn-inverse button-new" href="javascript:;">Changed Version</a>
+							</div>
+							<div class="diff">
+								{{{diff}}}
+							</div>
+						</div>
+					</article>
+				{{/proposals}}
+				{{^proposals}}
+					<p>There are no lobby proposals to this part of the directive</p>
+				{{/proposals}}
+			
+			</section>
+		</div>
+	</div>
+</div>
+{{/directive}}

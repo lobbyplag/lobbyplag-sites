@@ -1,0 +1,102 @@
+{
+	"id": "r68",
+	"type": "recital",
+	"literal": "68",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "In order to determine whether a personal data breach is notified to the supervisory authority and to the data subject without undue delay, it should be ascertained whether the controller has implemented and applied appropriate technological protection and organisational measures to establish immediately whether a personal data breach has taken place and to inform promptly the supervisory authority and the data subject, before a damage to personal and economic interests occurs, taking into account in particular the nature and gravity of the personal data breach and its consequences and adverse effects for the data subject."
+		},
+		{
+			"lang": "de",
+			"text": "Um bestimmen zu können, ob eine gegebene Verletzung des Schutzes personenbezogener Daten der Aufsichtsbehörde und der betroffenen Person ohne unangemessene Verzögerung gemeldet wurde, sollte jeweils überprüft werden, ob der für die Verarbeitung Verantwortliche ausreichende technische Vorkehrungen und organisatorische Maßnahmen getroffen hat, um sofort feststellen zu können, ob eine Verletzung des Schutzes personenbezogener Daten aufgetreten ist, und um die Aufsichtsbehörde und die betroffene Person umgehend unterrichten zu können, noch bevor persönliche oder wirtschaftliche Interessen Schaden nehmen können, wobei die Art und Schwere der Verletzung des Schutzes personenbezogener Daten sowie deren negative Folgen für die betroffene Person zu berücksichtigen sind."
+		},
+		{
+			"lang": "fr",
+			"text": "Afin de déterminer si une violation des données à caractère personnel est notifiée sans retard injustifié à l'autorité de contrôle et à la personne concernée, il y a lieu de vérifier si le responsable du traitement a mis en place et appliqué une protection technologique et des mesures d'organisation appropriées pour établir immédiatement si une violation des données est intervenue et pour informer dans les meilleurs délais l'autorité de contrôle et la personne concernée, avant qu'une atteinte ne soit portée aux intérêts personnels ou économiques de la personne, compte tenu notamment de la nature et de la gravité de la violation des données et de ses conséquences et effets néfastes pour la personne concernée."
+		},
+		{
+			"lang": "es",
+			"text": "Con el fin de determinar si una violación de datos personales se notifica a la autoridad de control y al interesado sin retraso injustificado, se debe evaluar si el responsable del tratamiento ha aplicado las medidas tecnológicas de protección y organización adecuadas con el fin de saber de forma inmediata si se ha producido una violación de datos personales y de informar sin demora a la autoridad de control y al interesado antes de que se produzca un perjuicio a sus intereses económicos y personales, habida cuenta en particular de la naturaleza y gravedad de la violación de los datos personales y sus consecuencias y efectos adversos para el interesado."
+		},
+		{
+			"lang": "pt",
+			"text": "Para determinar se uma violação de dados pessoais é notificada à autoridade de controlo e ao titular dos dados sem demora injustificada, deve ser avaliado se o responsável pelo tratamento executou e aplicou medidas tecnológicas de proteção e organizativas para apurar imediatamente a ocorrência de uma violação de dados pessoais e para informar rapidamente a autoridade de controlo e a pessoa em causa, antes da ocorrência de danos aos interesses pessoais e económicos, tendo em consideração, em especial, a natureza e a gravidade da violação de dados pessoais e as respetivas consequências e efeitos adversos para o titular dos dados."
+		},
+		{
+			"lang": "it",
+			"text": "Per determinare se una violazione dei dati personali è notificata all’autorità di controllo e all’interessato senza ingiustificato ritardo, occorre verificare se il responsabile del trattamento ha predisposto e applicato un’adeguata protezione tecnologica e le misure organizzative necessarie a stabilire immediatamente se c’e stata violazione di dati personali e a informare tempestivamente l’autorità di controllo e l’interessato, prima che ne vengano pregiudicati gli interessi personali ed economici, tenendo conto in particolare della natura e della gravità della violazione e delle sue conseguenze e effetti negativi per l’interessato."
+		},
+		{
+			"lang": "ga",
+			"text": "Chun a chinneadh ar cheart fógra faoi shárú i ndáil le sonraí pearsanta a thabhairt don údarás maoirseachta agus don duine is ábhar do na sonraí gan moill mhíchuí, ba cheart a fháil amach an bhfuil cosaint theicneolaíoch iomchuí agus bearta eagraíochtúla curtha chun feidhme agus curtha i bhfeidhm ag an rialaitheoir chun a fháil amach láithreach ar tharla sárú i ndáil le sonraí pearsanta agus chun an t‑údarás maoirseachta agus an duine is ábhar do na sonraí a chur ar an eolas faoi sin go pras, sula ndéantar dochar do leasanna pearsanta agus eacnamaíocha, ag féachaint go háirithe do chineál agus tromaíocht an tsáraithe i ndáil le sonraí pearsanta agus do na hiarmhairtí agus na héifeachtaí díobhálacha a bhaineann leis don duine is ábhar do na sonraí."
+		},
+		{
+			"lang": "cs",
+			"text": "Aby se určilo, zda bylo narušení bezpečnosti osobních údajů ohlášeno orgánu dozoru a subjektu údajů bez zbytečného odkladu, mělo by být prověřeno, zda správce provedl a uplatnil dostatečná technická ochranná a organizační opatření, aby se ihned zjistilo, zda došlo k narušení bezpečnosti údajů, a aby byl orgán dozoru a subjekt údajů ihned informován, a to dříve než dojde k poškození osobních a hospodářských zájmů, přičemž je třeba vzít v úvahu zejména povahu a závažnost daného narušení a jeho důsledky a nežádoucí účinky pro subjekt údajů."
+		},
+		{
+			"lang": "da",
+			"text": "For at afgøre, om et brud på persondatasikkerheden skal meddeles tilsynsmyndigheden og den registrerede uden unødig forsinkelse, bør det kontrolleres, om den registeransvarlige har gennemført og anvendt fornøden teknologi og fornødne organisatoriske foranstaltninger til omgående at fastslå, om et brud på persondatasikkerheden har fundet sted, og til omgående at underrette tilsynsmyndigheden og den registrerede, inden der opstår skade for personlige og økonomiske interesser, under hensyntagen til navnlig karakteren og alvoren af bruddet på persondatasikkerheden og dets konsekvenser og skadevirkninger for den registrerede."
+		},
+		{
+			"lang": "et",
+			"text": "Selleks et määrata kindlaks, kas isikuandmetega seotud rikkumisest on teatatud järelevalveasutusele ja andmesubjektile asjatu viivituseta, tuleks kontrollida, kas vastutav töötleja on rakendanud ja kohaldanud asjakohaseid tehnoloogilise kaitse ja korralduslikke meetmeid, et viivitamata kindlaks teha, kas isikuandmetega seotud rikkumine on toimunud, ning teavitada sellest viivitamata järelevalveasutust ning andmesubjekti, enne kui kahjustatakse isiklikke ja majandushuve kaitsmisele, võttes arvesse eelkõige isikuandmetega seotud rikkumise laadi, tõsidust ja tagajärgi ning kahjulikku mõju andmesubjektile."
+		},
+		{
+			"lang": "el",
+			"text": "Για να καθορισθεί κατά πόσον μια παραβίαση δεδομένων προσωπικού χαρακτήρα γνωστοποιείται αμελλητί στην αρχή ελέγχου και στο πρόσωπο στο οποίο αναφέρονται τα δεδομένα, πρέπει να εξακριβώνεται κατά πόσον ο υπεύθυνος επεξεργασίας θέσπισε και εφάρμοσε κατάλληλα τεχνολογικά μέτρα προστασίας και οργανωτικά μέτρα ώστε να διαπιστώνεται αμέσως κατά πόσον έλαβε χώρα παραβίαση δεδομένων προσωπικού χαρακτήρα και να ενημερώνονται αμέσως η αρχή ελέγχου και το πρόσωπο στο οποίο αναφέρονται τα δεδομένα, προτού επέλθει ζημία σε προσωπικά και οικονομικά συμφέροντα, λαμβάνοντας υπόψη ειδικότερα τη φύση και τη σοβαρότητα της παραβίασης δεδομένων προσωπικού χαρακτήρα καθώς και τις συνέπειες και τα δυσμενή αποτελέσματά της για το πρόσωπο στο οποίο αναφέρονται τα δεδομένα."
+		},
+		{
+			"lang": "bg",
+			"text": "С цел да се определи дали надзорният орган и субектът на данните са били уведомени без излишно забавяне за нарушение на сигурността на лични данни, следва да се установи дали администраторът е изготвил и предприел необходимите технически и организационни мерки за защита, за да установи веднага дали е налице нарушение на сигурността на лични данни и да информира незабавно за това надзорния орган и субекта на данните, преди да са нанесени вреди на личните и икономическите интереси, като се отчита по-специално естеството и тежестта на нарушението на сигурността на личните данни и резултатите и неблагоприятните последици от него за субекта на данните."
+		},
+		{
+			"lang": "hu",
+			"text": "Annak meghatározása érdekében, hogy a személyes adatok megsértéséről haladéktalanul értesítették-e a felügyelő hatóságot, valamint az érintettet, meg kell vizsgálni, hogy az adatkezelő megfelelő technológiai védelmet, illetve szervezeti intézkedéseket vezetett-e be és alkalmazott-e annak haladéktalan megállapítása érdekében, hogy sor került-e a személyes adatok megsértésére, valamint annak érdekében, hogy haladéktalanul tájékoztassa a felügyelőt hatóságot és az érintettet a személyes és gazdasági érdekek sérelmének bekövetkezését megelőzően, figyelemmel különösen a személyes adatok megsértésének jellegére és súlyosságára, valamint annak következményeire, illetve az adatsértésnek az érintettre gyakorolt hátrányos hatásaira."
+		},
+		{
+			"lang": "mt",
+			"text": "Sabiex jiġi stabbilit jekk ksur tad-dejta personali għandux jiġi nnotifikat lill-awtorità ta’ superviżjoni u lis-suġġett tad-dejta mingħajr dewmien żejjed, għandu jiġi vverifikat jekk il-kontrollur jkunx implimenta u applika protezzjoni teknoloġika xierqa u miżuri organizzattivi biex jistabbilixxi immedjatament jekk tkunx seħħet ksur ta’ dejta personali u biex jinforma minnufih lill-awtorità ta’ superviżjoni u lis-suġġett tad-dejta, qabel iseħħ xi dannu fuq l-interessi personali u ekonomiċi, filwaqt li jitqiesu b’mod partikolari n-natura u l-gravità tal-ksur tad-dejta personali u l-konsegwenzi u l-effetti negattivi tagħha għas-suġġett tad-dejta."
+		},
+		{
+			"lang": "lv",
+			"text": "Lai noteiktu, vai personas datu aizsardzības pārkāpums ir paziņots uzraudzības iestādei un datu subjektam bez nepamatotas kavēšanās, būtu jāpārliecinās, vai pārzinis ir īstenojis un piemērojis attiecīgus tehniskos un organizatoriskos aizsardzības pasākumus, lai nekavējoties noteiktu, vai ir noticis personas datu aizsardzības pārkāpums, un atbilstoši informētu uzraudzības iestādi un datu subjektu pirms ir radies kaitējums personiskajām un ekonomiskajām interesēm, jo īpaši ņemot vērā personas datu aizsardzības pārkāpuma būtību un smagumu, kā arī sekas un nelabvēlīgo ietekmi uz datu subjektu."
+		},
+		{
+			"lang": "ro",
+			"text": "Pentru a se determina dacă o încălcare a securității datelor cu caracter personal este notificată fără întârziere nejustificată autorității de supraveghere și persoanei vizate, ar trebui să se analizeze dacă operatorul a implementat și a aplicat măsuri tehnologice de protecție și organizatorice corespunzătoare în scopul de a stabili imediat dacă s-a produs o încălcare a securității datelor cu caracter personal și de a informa cu promptitudine autoritatea de supraveghere și persoana vizată, înainte de prejudicierea intereselor sale personale și economice, luându-se în considerare, în special, natura și gravitatea încălcării securității datelor cu caracter personal, precum și consecințele și efectele negative ale acesteia asupra persoanei vizate."
+		},
+		{
+			"lang": "sk",
+			"text": "Na určenie toho, či porušenie osobných údajov bolo oznámené dozornému orgánu a dotknutej osobe bez zbytočného odkladu, je potrebné uistiť sa, že prevádzkovateľ uplatnil a použil primeranú technologickú ochranu a organizačné opatrenia na bezodkladné zistenie, či došlo k porušeniu ochrany osobných údajov, a na promptné informovanie dozorného orgánu a dotknutej osoby skôr, než príde k poškodeniu osobných a ekonomických záujmov, a zohľadniť pritom najmä povahu a závažnosť porušenia ochrany osobných údajov, dôsledky tohto porušenia a nepriaznivé vplyvy pre dotknutú osobu."
+		},
+		{
+			"lang": "sl",
+			"text": "Za ugotovitev, ali sta nadzorni organ in posameznik, na katerega se nanašajo osebni podatki, obveščena nemudoma, bi bilo treba preveriti, ali je upravljavec izvedel in uporabil ustrezne ukrepe tehnološke zaščite in organizacijske ukrepe, s katerimi bi takoj ugotovil, ali je prišlo do kršitve varnosti osebnih podatkov, ter o tem nemudoma obvestil nadzorni organ in posameznika, na katerega se nanašajo osebni podatki, preden bi to škodovalo osebnim in gospodarskim interesom, ob upoštevanju zlasti narave in teže kršitve varnosti osebnih podatkov ter njenih posledic in škodljivih učinkov za posameznika, na katerega se nanašajo osebni podatki."
+		},
+		{
+			"lang": "fi",
+			"text": "Sen määrittämiseksi, onko henkilötietojen tietoturvaloukkauksesta ilmoitettu valvontaviranomaiselle ja rekisteröidylle ilman aiheetonta viivytystä, olisi tarkistettava, onko rekisterinpitäjä on toteuttanut ja soveltanut asianmukaisia teknisiä ja organisatorisia suojatoimenpiteitä selvittääkseen välittömästi, onko tapahtunut henkilötietojen tietoturvaloukkaus, ja ilmoittaakseen asiasta viipymättä valvontaviranomaiselle ja rekisteröidylle, ennen kuin siitä aiheutuu vahinkoa taloudellisille ja henkilökohtaisille eduille, ottaen huomioon erityisesti tietoturvaloukkauksen luonne ja vakavuus sekä siitä rekisteröidylle aiheutuvat seuraukset ja haittavaikutukset."
+		},
+		{
+			"lang": "pl",
+			"text": "By ustalić, czy organ nadzorczy i podmiot danych zostali niezwłocznie zawiadomieni o naruszeniu ochrony danych osobowych, należy sprawdzić, czy administrator wdrożył i zastosował odpowiednią ochronę technologiczną i środki organizacyjne pozwalające od razu stwierdzić, czy wystąpiło naruszenie ochrony danych osobowych, oraz niezwłocznie poinformować organ nadzorczy i podmiot danych, przed narażeniem na szwank interesu osobistego lub gospodarczego, uwzględniając zwłaszcza charakter i wagę naruszenia ochrony danych osobowych i jego konsekwencje oraz niekorzystne skutki dla podmiotu danych."
+		},
+		{
+			"lang": "lt",
+			"text": "siekiant nustatyti, ar apie asmens duomenų saugumo pažeidimą priežiūros institucijai ir duomenų subjektui pranešta nepagrįstai nedelsiant, reikėtų patikrinti, ar duomenų valdytojas įgyvendino ir taikė tinkamas technologijų apsaugos ir organizacines priemones, kad galėtų iš karto nustatyti, ar buvo padarytas asmens duomenų saugumo pažeidimas, ir nedelsdamas iki žalos padarymo asmeniniams ir ekonominiams interesams apie tai informuoti priežiūros instituciją ir duomenų subjektą, kartu atsižvelgdamas visų pirma į asmens duomenų saugumo pažeidimo pobūdį ir sunkumą, jo pasekmes ir padarinius duomenų subjektui;"
+		},
+		{
+			"lang": "nl",
+			"text": "Om te bepalen of een inbreuk op persoonsgegevens onverwijld aan de toezichthoudende autoriteit en de betrokkene is gemeld, dient te worden vastgesteld of de voor de verwerking verantwoordelijke passende technologische beschermingsmaatregelen en organisatorische maatregelen heeft genomen om onmiddellijk uit te maken of inbreuk op persoonsgegevens heeft plaatsgevonden en de toezichthoudende autoriteiten en de betrokkene zo snel mogelijk te informeren, voordat er persoonlijke of economische belangen worden geschaad, waarbij met name rekening dient te worden gehouden met de aard en ernst van de inbreuk op de persoonsgegevens en de gevolgen en negatieve effecten daarvan voor de betrokkene."
+		},
+		{
+			"lang": "sv",
+			"text": "För att avgöra om tillsynsmyndigheten och den registrerade fått meddelande om ett personuppgiftsbrott utan onödigt dröjsmål bör det utrönas om den registeransvarige har infört och tillämpat lämpligt tekniskt skydd och lämpliga organisatoriska åtgärder för att omedelbart fastställa om ett personuppgiftsbrott har ägt rum och skyndsamt informera tillsynsmyndigheten och den registrerade innan några skador uppstår på personliga och ekonomiska intressen, med hänsyn tagen bl.a. till personuppgiftsbrottets art och svårhetsgrad och dess följder och negativa effekter på den registrerade."
+		}
+	],
+	"children": [],
+	"title": "Recital 68"
+}

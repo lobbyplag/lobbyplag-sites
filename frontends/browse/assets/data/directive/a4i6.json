@@ -1,0 +1,102 @@
+{
+	"id": "a4i6",
+	"type": "point",
+	"literal": "6",
+	"parent": "a4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "'processor' means a natural or legal person, public authority, agency or any other body which processes personal data on behalf of the controller;"
+		},
+		{
+			"lang": "de",
+			"text": "&quot;Auftragsverarbeiter&quot; eine natürliche oder juristische Person, Behörde, Einrichtung oder jede andere Stelle, die personenbezogene Daten im Auftrag des für die Verarbeitung Verantwortlichen verarbeitet;"
+		},
+		{
+			"lang": "fr",
+			"text": "«sous-traitant»: la personne physique ou morale, l'autorité publique, le service ou tout autre organisme qui traite des données à caractère personnel pour le compte du responsable du traitement;"
+		},
+		{
+			"lang": "es",
+			"text": "«encargado del tratamiento»: la persona física o jurídica, autoridad pública, servicio o cualquier otro organismo que, solo o conjuntamente con otros, trate datos personales por cuenta del responsable del tratamiento;"
+		},
+		{
+			"lang": "pt",
+			"text": "«Subcontratante», a pessoa singular ou coletiva, a autoridade pública, serviço ou qualquer outro organismo que trata os dados pessoais por conta do responsável pelo tratamento;"
+		},
+		{
+			"lang": "it",
+			"text": "“incaricato del trattamento”: la persona fisica o giuridica, l’autorità pubblica, il servizio o qualsiasi altro organismo che elabora dati personali per conto del responsabile del trattamento;"
+		},
+		{
+			"lang": "ga",
+			"text": "ciallaíonn ‘próiseálaí’ duine nádúrtha nó dlítheanach, údarás poiblí, gníomhaireacht nó aon chomhlacht eile a phróiseálann sonraí pearsanta thar ceann an rialaitheora;"
+		},
+		{
+			"lang": "cs",
+			"text": "„zpracovatelem“ fyzická nebo právnická osoba, orgán veřejné moci, agentura nebo jakýkoli jiný subjekt, který zpracovává osobní údaje jménem správce;"
+		},
+		{
+			"lang": "da",
+			"text": "&quot;registerfører&quot;: en fysisk eller juridisk person, en offentlig myndighed, en institution eller ethvert andet organ, der behandler personoplysninger på den registeransvarliges vegne"
+		},
+		{
+			"lang": "et",
+			"text": "„volitatud töötleja” – füüsiline või juriidiline isik, avaliku sektori asutus või muu asutus või organ, kes töötleb isikuandmeid vastutava töötleja nimel;"
+		},
+		{
+			"lang": "el",
+			"text": "«εκτελών την επεξεργασία»: το φυσικό ή νομικό πρόσωπο, η δημόσια αρχή, η υπηρεσία ή οποιοσδήποτε άλλος φορέας που επεξεργάζεται τα δεδομένα προσωπικού χαρακτήρα για λογαριασμό του υπευθύνου της επεξεργασίας·"
+		},
+		{
+			"lang": "bg",
+			"text": "„обработващ лични данни“ означава физическо или юридическо лице, публичен орган, агенция или друга структура, която обработва лични данни от името на администратора;"
+		},
+		{
+			"lang": "hu",
+			"text": "„adatfeldolgozó”: az a természetes vagy jogi személy, hatóság, intézmény vagy bármely más szerv, amely személyes adatokat dolgoz fel az adatkezelő nevében;"
+		},
+		{
+			"lang": "mt",
+			"text": "‘proċessur’ tfisser persuna fiżika jew ġuridika, awtorità pubblika, aġenzija jew korp ieħor li jipproċessa dejta personali f’isem il-kontrollur;"
+		},
+		{
+			"lang": "lv",
+			"text": "&quot;apstrādātājs&quot; ir fiziska vai juridiska persona, valsts iestāde, aģentūra vai jebkura cita struktūra, kura pārziņa vārdā apstrādā personas datus;"
+		},
+		{
+			"lang": "ro",
+			"text": "„persoana împuternicită de operator” înseamnă persoana fizică sau juridică, autoritatea publică, agenția sau orice alt organism care prelucrează datele cu caracter personal în numele operatorului;"
+		},
+		{
+			"lang": "sk",
+			"text": "„sprostredkovateľ“ je fyzická alebo právnická osoba, verejný orgán, agentúra alebo akýkoľvek iný subjekt, ktorý spracúva osobné údaje v mene prevádzkovateľa;"
+		},
+		{
+			"lang": "sl",
+			"text": "„obdelovalec“ pomeni fizično ali pravno osebo, javni organ, agencijo ali vsak drug organ, ki obdeluje osebne podatke v imenu upravljavca;"
+		},
+		{
+			"lang": "fi",
+			"text": "’henkilötietojen käsittelijällä’ luonnollista tai oikeushenkilöä, viranomaista, virastoa tai muuta elintä, joka käsittelee henkilötietoja rekisterinpitäjän lukuun;"
+		},
+		{
+			"lang": "pl",
+			"text": "„podmiot przetwarzający” oznacza osobę fizyczną lub prawną, organ publiczny, agencję lub inny podmiot, który przetwarza dane osobowe w imieniu administratora;"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų tvarkytojas – fizinis arba juridinis asmuo, valdžios institucija, agentūra ar bet kuris kitas organas, kuris duomenų valdytojo pavedimu tvarko asmens duomenis;"
+		},
+		{
+			"lang": "nl",
+			"text": "“verwerker”: de natuurlijke of rechtspersoon, de overheidsinstantie, de dienst of enig ander orgaan die, respectievelijk dat ten behoeve van de voor de verwerking verantwoordelijke persoonsgegevens verwerkt;"
+		},
+		{
+			"lang": "sv",
+			"text": "registerförare: en fysisk eller juridisk person, myndighet, institution eller annat organ som behandlar personuppgifter för den registeransvariges räkning."
+		}
+	],
+	"children": [],
+	"title": "Article 4 – Point 6"
+}

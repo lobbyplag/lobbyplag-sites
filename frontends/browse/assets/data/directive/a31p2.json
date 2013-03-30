@@ -1,0 +1,102 @@
+{
+	"id": "a31p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a31",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Pursuant to point (f) of Article 26(2), the processor shall alert and inform the controller immediately after the establishment of a personal data breach."
+		},
+		{
+			"lang": "de",
+			"text": "In Übereinstimmung mit Artikel 26 Absatz 2 Buchstabe f alarmiert und informiert der Auftragsverarbeiter den für die Verarbeitung Verantwortlichen unmittelbar nach Feststellung einer Verletzung des Schutzes personenbezogener Daten."
+		},
+		{
+			"lang": "fr",
+			"text": "En vertu de l’article 26, paragraphe 2, point f), le sous‑traitant alerte et informe le responsable du traitement immédiatement après avoir constaté la violation de données à caractère personnel."
+		},
+		{
+			"lang": "es",
+			"text": "Con arreglo a lo dispuesto en el artículo 26, apartado 2, letra f), el encargado del tratamiento alertará e informará al responsable del tratamiento inmediatamente después de que haya constatado una violación de datos personales."
+		},
+		{
+			"lang": "pt",
+			"text": "Nos termos do artigo 26.º, n.º 2, alínea f), o subcontratante alerta e informa o responsável pelo tratamento imediatamente após a deteção de uma violação de dados pessoais."
+		},
+		{
+			"lang": "it",
+			"text": "In conformità dell’articolo 26, paragrafo 2, lettera f), l’incaricato del trattamento allerta e informa il responsabile del trattamento immediatamente dopo aver accertato la violazione."
+		},
+		{
+			"lang": "ga",
+			"text": "De bhun phointe (f) d’Airteagal 26(2), cuirfidh an próiseálaí an rialaitheoir ar an airdeall agus ar an eolas chomh luath is a thuigtear gur tharla sárú i ndáil le sonraí pearsanta."
+		},
+		{
+			"lang": "cs",
+			"text": "Podle čl. 26 odst. 2 písm. f) je zpracovatel povinen informovat správce o narušení bezpečnosti osobních údajů okamžitě poté, co je narušení zjištěno, a na tuto skutečnost jej upozornit."
+		},
+		{
+			"lang": "da",
+			"text": "I henhold til artikel 26, stk. 2, litra f), varsler og underretter registerføreren omgående den registeransvarlige, når et brud på persondatasikkerheden er konstateret."
+		},
+		{
+			"lang": "et",
+			"text": "Vastavalt artikli 26 lõike 2 punktile f teavitab volitatud töötleja vastutavat töötlejat isikuandmetega seotud rikkumisest kohe pärast selle avastamist."
+		},
+		{
+			"lang": "el",
+			"text": "Δυνάμει του άρθρου 26 παράγραφος 2 στοιχείο στ), ο εκτελών την επεξεργασία ειδοποιεί και ενημερώνει τον υπεύθυνο επεξεργασίας αμέσως μετά τη διαπίστωση παραβίασης δεδομένων προσωπικού χαρακτήρα."
+		},
+		{
+			"lang": "bg",
+			"text": "Съгласно член 26, параграф 2, буква е) обработващият лични данни предупреждава и уведомява администратора незабавно след установяването на нарушение на сигурността на личните данни."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatfeldolgozó a 26. cikk (2) bekezdése f) pontjának megfelelően a személyes adatok megsértésének megállapítását követően azonnal figyelmezteti és tájékoztatja az adatkezelőt."
+		},
+		{
+			"lang": "mt",
+			"text": "Skont il-punt (f) tal-Artikolu 26(2), il-proċessur għandu jwissi u jinforma lill-kontrollur minnufih wara l-istabbiliment ta’ ksur ta’ dejta personali."
+		},
+		{
+			"lang": "lv",
+			"text": "Saskaņā ar 26. panta 2. punkta f) apakšpunktu apstrādātājs nekavējoties tiklīdz ir konstatēts personas datu aizsardzības pārkāpums brīdina un informē pārzini."
+		},
+		{
+			"lang": "ro",
+			"text": "În conformitate cu articolul 26 alineatul (2) litera (f), persoana împuternicită de către operator îl previne și îl informează pe operator imediat după ce s-a constatat încălcarea securității datelor cu caracter personal."
+		},
+		{
+			"lang": "sk",
+			"text": "V súlade s článkom 26 ods. 2 písm. f) sprostredkovateľ upozorní a informuje prevádzkovateľa ihneď po zistení porušenia ochrany osobných údajov."
+		},
+		{
+			"lang": "sl",
+			"text": "Obdelovalec v skladu s točko (f) člena 26(2) takoj po odkritju kršitve varnosti osebnih podatkov na to opozori in o tem obvesti upravljavca."
+		},
+		{
+			"lang": "fi",
+			"text": "Henkilötietojen käsittelijän on 26 artiklan 2 kohdan f alakohdan nojalla ilmoitettava henkilötietojen tietoturvaloukkauksesta rekisterinpitäjälle heti, kun se on tullut ilmi."
+		},
+		{
+			"lang": "pl",
+			"text": "Na mocy art. 26 ust. 2 lit. f) podmiot przetwarzający ostrzega i informuje administratora niezwłocznie po stwierdzeniu naruszenia ochrony danych osobowych."
+		},
+		{
+			"lang": "lt",
+			"text": "Pagal 26 straipsnio 2 dalies f punktą duomenų tvarkytojas, nustatęs asmens duomenų saugumo pažeidimą, nedelsdamas įspėja ir informuoja duomenų valdytoją."
+		},
+		{
+			"lang": "nl",
+			"text": "In overeenstemming met artikel 26, lid 2, onder f), waarschuwt en informeert de verwerker de voor de verwerking verantwoordelijke onmiddellijk na de vaststelling van een inbreuk in verband met persoonsgegevens."
+		},
+		{
+			"lang": "sv",
+			"text": "I enlighet med artikel 26.2 f ska registerföraren underrätta och informera den registeransvarige omedelbart efter det att ett personuppgiftsbrott har konstaterats."
+		}
+	],
+	"children": [],
+	"title": "Article 31 – Paragraph 2"
+}

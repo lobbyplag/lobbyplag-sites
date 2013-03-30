@@ -1,0 +1,102 @@
+{
+	"id": "a14p1i1",
+	"type": "point",
+	"literal": "a",
+	"parent": "a14p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the identity and the contact details of the controller and, if any, of the controller's representative and of the data protection officer;"
+		},
+		{
+			"lang": "de",
+			"text": "den Namen und die Kontaktdaten des für die Verarbeitung Verantwortlichen sowie gegebenenfalls seines Vertreters und des Datenschutzbeauftragten,"
+		},
+		{
+			"lang": "fr",
+			"text": "l’identité et les coordonnées du responsable du traitement et, le cas échéant, du représentant du responsable et celles du délégué à la protection des données;"
+		},
+		{
+			"lang": "es",
+			"text": "la identidad y los datos de contacto del responsable del tratamiento y, en su caso, del representante del responsable del tratamiento y del delegado de protección de datos;"
+		},
+		{
+			"lang": "pt",
+			"text": "Identidade e contactos do responsável pelo tratamento e, se for caso disso, do representante desse responsável e do delegado para a proteção de dados;"
+		},
+		{
+			"lang": "it",
+			"text": "l’identità e le coordinate di contatto del responsabile del trattamento e, eventualmente, del suo rappresentante e del responsabile della protezione dei dati;"
+		},
+		{
+			"lang": "ga",
+			"text": "céannacht agus sonraí teagmhála an rialaitheora agus céannacht agus sonraí teagmhála ionadaí an rialaitheora, más ann dó, agus an oifigigh cosanta sonraí;"
+		},
+		{
+			"lang": "cs",
+			"text": "totožnost a kontaktní údaje správce, případně jeho zástupce a inspektora ochrany údajů;"
+		},
+		{
+			"lang": "da",
+			"text": "identitet og kontaktoplysninger for den registeransvarlige, dennes eventuelle repræsentant og den databeskyttelsesansvarlige"
+		},
+		{
+			"lang": "et",
+			"text": "vastutava töötleja ning vajaduse korral töötleja esindaja ja andmekaitseametniku nimi ja kontaktandmed;"
+		},
+		{
+			"lang": "el",
+			"text": "α) την ταυτότητα και τα στοιχεία επικοινωνίας του υπευθύνου επεξεργασίας και, ενδεχομένως, του εκπροσώπου του υπευθύνου επεξεργασίας και του υπευθύνου προστασίας δεδομένων·"
+		},
+		{
+			"lang": "bg",
+			"text": "а) наименованието и координатите за връзка на администратора, на представителя на администратора, ако има такъв, и на длъжностното лице по защита на данните;"
+		},
+		{
+			"lang": "hu",
+			"text": "az adatkezelő, és – ha van ilyen – az adatkezelő képviselőjének és az adatvédelmi tisztviselőnek a személyazonossága és részletes elérhetősége;"
+		},
+		{
+			"lang": "mt",
+			"text": "l-identità u d-dettalji ta’ kuntatt tal-kontrollur u, jekk ikun hemm, tar-rappreżentant tal-kontrollur u tal-uffiċjal tal-protezzjoni tad-dejta;"
+		},
+		{
+			"lang": "lv",
+			"text": "pārziņa identitāte un kontaktinformācija, kā arī pārziņa pārstāvis, un datu aizsardzības inspektors, ja tādi ir;"
+		},
+		{
+			"lang": "ro",
+			"text": "identitatea și datele de contact ale operatorului și, după caz, ale reprezentantului operatorului și ale responsabilului cu protecția datelor;"
+		},
+		{
+			"lang": "sk",
+			"text": "totožnosť a kontaktné údaje prevádzkovateľa, prípadne jeho zástupcu, ak je ustanovený, a úradníka pre ochranu údajov;"
+		},
+		{
+			"lang": "sl",
+			"text": "informacije o identiteti upravljavca, njegovega predstavnika, če obstaja, in uradne osebe za varstvo podatkov ter njihove kontaktne podatke;"
+		},
+		{
+			"lang": "fi",
+			"text": "rekisterinpitäjän ja tämän mahdollisen edustajan sekä tietosuojavastaavan henkilöllisyys ja yhteystiedot;"
+		},
+		{
+			"lang": "pl",
+			"text": "tożsamość i dane kontaktowe administratora oraz ewentualnie przedstawiciela administratora i inspektora ochrony danych;"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų valdytojo ir prireikus jo atstovo ir duomenų apsaugos pareigūno vardą ir pavardę (pavadinimą) ir duomenis ryšiams;"
+		},
+		{
+			"lang": "nl",
+			"text": "de identiteit en de contactgegevens van de voor de verwerking verantwoordelijke en, in voorkomend geval, van de vertegenwoordiger van de voor de verwerking verantwoordelijke en van de functionaris voor gegevensbescherming;"
+		},
+		{
+			"lang": "sv",
+			"text": "Identitet och kontaktuppgifter för den registeransvarige och, i förekommande fall, för dennes företrädare samt för uppgiftsskyddsombudet."
+		}
+	],
+	"children": [],
+	"title": "Article 14 – Paragraph 1 – Point 1"
+}

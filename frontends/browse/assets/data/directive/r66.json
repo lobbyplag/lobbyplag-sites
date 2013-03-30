@@ -1,0 +1,102 @@
+{
+	"id": "r66",
+	"type": "recital",
+	"literal": "66",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "In order to maintain security and to prevent processing in breach of this Regulation, the controller or processor should evaluate the risks inherent to the processing and implement measures to mitigate those risks. These measures should ensure an appropriate level of security, taking into account the state of the art and the costs of their implementation in relation to the risks and the nature of the personal data to be protected. When establishing technical standards and organisational measures to ensure security of processing, the Commission should promote technological neutrality, interoperability and innovation, and, where appropriate, cooperate with third countries."
+		},
+		{
+			"lang": "de",
+			"text": "Zur Aufrechterhaltung der Sicherheit und zur Vorbeugung gegen eine gegen diese Verordnung verstoßende Verarbeitung sollte der für die Verarbeitung Verantwortliche oder der Auftragsverarbeiter die mit der Verarbeitung verbundenen Risiken ermitteln und Maßnahmen zu deren Eindämmung ergreifen. Diese Maßnahmen müssen unter Berücksichtigung des Standes der Technik und der dabei anfallenden Kosten ein Schutzniveau gewährleisten, das den von der Verarbeitung ausgehenden Risiken und der Art der zu schützenden personenbezogenen Daten angemessen ist. Die Kommission sollte bei der Festlegung technischer Standards und organisatorischer Maßnahmen zur Gewährleistung der Sicherheit der Verarbeitung die technologische Neutralität, die Interoperabilität sowie Innovationen fördern und gegebenenfalls mit Drittländern zusammenarbeiten."
+		},
+		{
+			"lang": "fr",
+			"text": "Afin de préserver la sécurité et de prévenir tout traitement contraire au présent règlement, il importe que le responsable du traitement ou le sous-traitant évalue les risques inhérents au traitement et prenne des mesures pour les atténuer. Ces mesures devraient assurer un niveau de sécurité approprié compte tenu, d'une part, de l'état de la technique et de leur coût de mise en œuvre, et, d'autre part, des risques présentés par les traitements et de la nature des données à protéger. Lors de l’adoption de normes techniques et de mesures organisationnelles destinées à garantir la sécurité du traitement, la Commission devrait promouvoir la neutralité technologique, l’interopérabilité et l’innovation, et au besoin, coopérer avec les pays tiers."
+		},
+		{
+			"lang": "es",
+			"text": "Con objeto de mantener la seguridad y evitar que el tratamiento infrinja lo dispuesto en el presente Reglamento, el responsable o el encargado deben evaluar los riesgos inherentes al tratamiento y aplicar medidas para mitigarlos. Estas medidas deben garantizar un nivel de seguridad adecuado, teniendo en cuenta el estado de la técnica y el coste de su aplicación en relación con los riesgos y la naturaleza de los datos que deban protegerse. A la hora de establecer normas técnicas y medidas organizativas destinadas a garantizar la seguridad del tratamiento, la Comisión debe fomentar la neutralidad tecnológica, la interoperabilidad y la innovación, y, en su caso, cooperar con terceros países."
+		},
+		{
+			"lang": "pt",
+			"text": "A fim de preservar a segurança e evitar o tratamento em violação do presente regulamento, o responsável pelo tratamento, ou o subcontratante, deve avaliar os riscos que o tratamento implica e aplicar medidas que os atenuem. Estas medidas devem assegurar um nível de segurança adequado, atendendo aos conhecimentos técnicos disponíveis e ao custo da sua aplicação em função dos riscos e da natureza dos dados a proteger. Aquando da adoção de normas técnicas e medidas organizacionais destinadas a assegurar a segurança do tratamento, a Comissão deve promover a neutralidade tecnológica, a interoperabilidade e a inovação e, se necessário, cooperar com os países terceiros."
+		},
+		{
+			"lang": "it",
+			"text": "Per mantenere la sicurezza e prevenire trattamenti contrari al presente regolamento, il responsabile del trattamento o l’incaricato del trattamento deve valutare i rischi inerenti al trattamento e provvedere a limitarli. Tali provvedimenti devono assicurare un adeguato livello di sicurezza, tenuto conto degli sviluppi tecnici e dei costi di attuazione rispetto ai rischi che presentano i trattamenti e alla natura dei dati da proteggere. Nel definire le norme tecniche e le misure organizzative atte a garantire la sicurezza del trattamento, la Commissione deve promuovere la neutralità tecnologica, l’interoperabilità e l’innovazione e, ove opportuno, la cooperazione con i paesi terzi."
+		},
+		{
+			"lang": "ga",
+			"text": "Chun slándáil a chothabháil agus chun cosc a chur ar phróiseáil a sháraíonn an Rialachán seo, ba cheart don rialaitheoir nó don phróiseálaí meastóireacht a dhéanamh ar na rioscaí a bhaineann go bunúsach leis an bpróiseáil agus ba cheart dó bearta a chur chun feidhme chun na rioscaí sin a mhaolú. Ba cheart leibhéal iomchuí slándála a áirithiú leis na bearta sin, ag cur na húrscothachta san áireamh agus na costais a bhaineann le cur chun feidhme na mbeart i ndáil leis na rioscaí agus le cineál na sonraí pearsanta atá le cosaint. Agus caighdeáin theicniúla agus bearta eagraíochtúla á mbunú chun slándáil na próiseála a áirithiú, ba cheart don Choimisiún neodracht theicneolaíoch, idir‑inoibritheacht agus nuálaíocht a chur chun cinn agus ba cheart dó, nuair is iomchuí, dul i gcomhar le tríú tíortha."
+		},
+		{
+			"lang": "cs",
+			"text": "Aby byla zachována bezpečnost a zabránilo se zpracování údajů, které by bylo v rozporu s tímto nařízením, měl by správce nebo zpracovatel posoudit riziko spojené se zpracováním a přijmout opatření ke zmírnění těchto rizik. Tato opatření by měla zajistit odpovídající úroveň bezpečnosti s ohledem na stav techniky a náklady na jejich provedení v souvislosti s riziky a povahou osobních údajů, které mají být chráněny. Komise by měla při stanovování technických norem a organizačních opatření k zajištění bezpečnosti zpracování podporovat technologickou neutralitu, interoperabilitu a inovace a případně spolupracovat se třetími zeměmi."
+		},
+		{
+			"lang": "da",
+			"text": "For at opretholde sikkerheden og forhindre behandling i strid med denne forordning bør den registeransvarlige eller registerføreren vurdere de risici, som behandlingen indebærer, og gennemføre foranstaltninger, der kan mindske disse risici. Disse foranstaltninger bør under hensyn til det aktuelle tekniske niveau og de omkostninger, som er forbundet med deres iværksættelse, tilvejebringe et tilstrækkeligt sikkerhedsniveau i forhold til risiciene og karakteren af de oplysninger, der bør beskyttes. Kommissionen bør ved fastsættelsen af tekniske standarder og organisatoriske foranstaltninger for at sikre databehandlingssikkerheden fremme teknologisk neutralitet, interoperabilitet og innovation og, når det er relevant, samarbejde med tredjelande."
+		},
+		{
+			"lang": "et",
+			"text": "Turvalisuse tagamiseks ja käesoleva määruse vastase töötlemise vältimiseks peaks vastutav töötleja või volitatud töötleja hindama töötlemisega seotud ohte ja rakendama meetmeid asjaomaste riskide leevendamiseks. Võttes arvesse tehnika taset ja meetmete rakenduskulusid, tuleks kõnealuste meetmetega tagada vajalik turvalisuse tase, mis vastaks ohtudele ja kaitstavate isikuandmete laadile. Töötlemise turvalisuse tagamiseks tehniliste standardite ja korralduslike meetmete kehtestamisel peaks komisjon edendama tehnoloogia neutraalsust, koostalitusvõimet ja innovatsiooni ning vajaduse korral koostööd kolmandate riikidega."
+		},
+		{
+			"lang": "el",
+			"text": "Για τη διατήρηση της ασφάλειας και την αποφυγή της επεξεργασίας κατά παράβαση του παρόντος κανονισμού, ο υπεύθυνος επεξεργασίας ή ο εκτελών την επεξεργασία πρέπει να αξιολογούν τους εγγενείς κινδύνους της επεξεργασίας και εφαρμόζουν μέτρα για τον μετριασμό των εν λόγω κινδύνων. Τα μέτρα πρέπει να διασφαλίζουν κατάλληλο επίπεδο ασφάλειας, λαμβάνοντας υπόψη την κατάσταση της τεχνολογίας και το κόστος της εφαρμογής τους σε σχέση με τους κινδύνους και τη φύση των δεδομένων προσωπικού χαρακτήρα που πρέπει να προστατευθούν. Κατά τη θέσπιση τεχνικών προτύπων και οργανωτικών μέτρων για τη διασφάλιση της ασφάλειας της επεξεργασίας, η Επιτροπή πρέπει να προωθεί την τεχνολογική ουδετερότητα, τη διαλειτουργικότητα και την καινοτομία και, όπου συντρέχει περίπτωση, να συνεργάζεται με τρίτες χώρες."
+		},
+		{
+			"lang": "bg",
+			"text": "С цел да се поддържа сигурността и да се предотврати обработване, което е в нарушение на настоящия регламент, администраторът или обработващият лични данни следва да извърши оценка на рисковете, свързани с обработването, и да предприеме мерки за намаляване на тези рискове. Тези мерки следва да гарантират подходящо ниво на сигурност, като се вземат предвид достиженията на техническия прогрес и разходите за тяхното внедряване, по отношение на рисковете и естеството на личните данни, които следва да бъдат защитени. При установяването на технически стандарти и организационни мерки с оглед гарантиране на сигурността на обработването Комисията следва да насърчава техническата неутралност, оперативната съвместимост и иновациите и, когато е целесъобразно, сътрудничеството с трети държави."
+		},
+		{
+			"lang": "hu",
+			"text": "A biztonság fenntartása és a jelen rendelettel ellentétes adatfeldolgozás megelőzése érdekében az adatkezelőnek vagy -feldolgozónak értékelnie kell az adatfeldolgozás természetéből fakadó kockázatokat, és meg kell tennie az e kockázatok csökkentésére alkalmas intézkedéseket. Ezeknek az intézkedéseknek biztosítaniuk kell a megfelelő szintű biztonságot, a védendő személyes adatok jellegével és a belőlük fakadó kockázatokkal kapcsolatban figyelembe véve a technika állását és alkalmazásuk költségeit. Az adatfeldolgozás biztonságát biztosító technikai szabványok és szervezeti intézkedések kialakítása során a Bizottságnak elő kell mozdítania a technológiai semlegességet, az átjárhatóságot és az innovációt, valamint adott esetben együtt kell működnie harmadik országokkal."
+		},
+		{
+			"lang": "mt",
+			"text": "Sabiex iżomm is-sigurtà u jipprevjeni l-ipproċessar li jikser dan ir-Regolament, il-kontrollur jew il-proċessur għandu jevalwa r-riskji inerenti għall-ipproċessar u jimplimenta miżuri sabiex itaffi dawk ir-riskji. Dawn il-miżuri għandhom jiżguraw livell xieraq ta’ sigurtà, filwaqt li jikkunsidraw it-teknoloġija u l-ispejjeż tal-implimentazzjoni tagħhom b’konnessjoni mar-riskji u n-natura tad-dejta personali li għandha tkun protetta. Meta tistabbilixxi standards tekniċi u miżuri ta’ organizzazzjoni biex tiżgura s-sigurtà tal-ipproċessar, il-Kummissjoni għandha tippromwovi n-newtralità teknoloġika, l-interoperabbiltà u l-innovazzjoni u fejn adatt tikkoopera ma’ pajjiżi terzi."
+		},
+		{
+			"lang": "lv",
+			"text": "Lai garantētu drošību un novērstu apstrādi, kas ir pretrunā ar šo regulu, pārzinim vai apstrādātājam būtu jānovērtē apstrādei raksturīgie riski un jāīsteno pasākumi šo risku mazināšanai. Šiem pasākumiem, ņemot vērā jaunākās tehniskās iespējas un to ieviešanas izmaksas, būtu jānodrošina attiecīga drošības pakāpe attiecībā uz apstrādei raksturīgajiem riskiem un aizsargājamo personas datu īpatnībām. Nosakot tehniskos standartus un organizatoriskos pasākumus, kas nodrošina apstrādes drošību, Komisijai būtu jāveicina tehnoloģiskā neitralitāte, savietojamība un inovācija un attiecīgos gadījumos jāsadarbojas ar trešām valstīm."
+		},
+		{
+			"lang": "ro",
+			"text": "În vederea menținerii securității și a prevenirii prelucrărilor care încalcă dispozițiile prezentului regulament, operatorul sau persoana împuternicită de către operator ar trebui să evalueze riscurile inerente prelucrării și să pună în aplicare măsuri pentru atenuarea acestor riscuri. Măsurile respective ar trebui să asigure un nivel corespunzător de securitate, luând în considerare stadiul actual al tehnologiei și costurile punerii lor în aplicare în raport cu riscurile și natura datelor cu caracter personal a căror protecție trebuie asigurată. Atunci când se stabilesc standarde tehnice și măsuri organizatorice menite să asigure securitatea prelucrării, Comisia ar trebui să promoveze neutralitatea tehnologică, interoperabilitatea și inovarea, și, dacă este cazul, cooperarea cu țările terțe."
+		},
+		{
+			"lang": "sk",
+			"text": "Aby sa zachovala bezpečnosť a aby sa predišlo spracúvaniu údajov v rozpore s týmto nariadením, prevádzkovateľ alebo sprostredkovateľ by mali posúdiť riziká súvisiace so spracovaním a uplatniť opatrenia na zmiernenie týchto rizík. Tieto opatrenia by mali zabezpečiť primeranú úroveň bezpečnosti pri zohľadnení najnovšieho stavu techniky a nákladov na jej zavedenie v súvislosti s rizikami a povahou osobných údajov, ktoré sa majú chrániť. Pri stanovovaní technických noriem a organizačných opatrení na zaistenie bezpečnosti spracúvania by Komisia mala podporovať technologickú neutralitu, interoperabilitu, inovácie, prípadne spoluprácu s tretími krajinami."
+		},
+		{
+			"lang": "sl",
+			"text": "Za ohranitev varnosti in preprečitev obdelave s kršitvijo te uredbe bi moral upravljavec ali obdelovalec oceniti tveganje, povezano z obdelavo, in izvesti ukrepe za ublažitev tega tveganja. Ti ukrepi bi morali zagotoviti ustrezno raven varnosti ob upoštevanju najsodobnejše tehnologije in stroškov njihovega izvajanja glede na tveganja in na naravo osebnih podatkov, ki jih je treba varovati. Pri določanju tehničnih standardov in organizacijskih ukrepov za zagotavljanje varnosti obdelave bi morala Komisija spodbujati tehnološko nevtralnost, interoperabilnost in inovativnost ter po potrebi sodelovati s tretjimi državami."
+		},
+		{
+			"lang": "fi",
+			"text": "Turvallisuuden ylläpitämiseksi ja asetuksen säännösten vastaisen käsittelyn estämiseksi rekisterinpitäjän tai henkilötietojen käsittelijän olisi arvioitava käsittelyyn liittyvät riskit ja toteutettava toimenpiteitä näiden riskien lieventämiseksi. Näiden toimenpiteiden avulla olisi voitava varmistaa asianmukainen turvallisuustaso ottaen huomioon uusin tekniikka ja toimenpiteiden toteuttamiskustannukset suhteessa tietojenkäsittelyn riskeihin ja suojeltavien henkilötietojen luonteeseen. Vahvistaessaan teknisiä standardeja ja organisatorisia toimenpiteitä tietojenkäsittelyn turvallisuuden varmistamiseksi komission olisi edistettävä teknologianeutraaliutta, yhteentoimivuutta ja innovointia sekä tehtävä tarvittaessa yhteistyötä kolmansien maiden kanssa."
+		},
+		{
+			"lang": "pl",
+			"text": "W celu utrzymania bezpieczeństwa i zapobiegania naruszaniu przepisów niniejszego rozporządzenia administrator i podmiot przetwarzający powinni ocenić ryzyko związane z przetwarzaniem oraz wdrożyć środki mające na celu ograniczenie tego ryzyka. Środki te powinny zapewnić odpowiedni poziom bezpieczeństwa, uwzględniając stan wiedzy naukowej oraz koszty wdrożenia środków w odniesieniu do ryzyka oraz charakteru danych osobowych podlegających ochronie. Ustanawiając standardy techniczne i środki organizacyjne, by zapewnić bezpieczeństwo przetwarzania, Komisja powinna promować neutralność technologiczną, interoperacyjność i innowacyjność oraz, w razie potrzeby, współpracować z państwami trzecimi."
+		},
+		{
+			"lang": "lt",
+			"text": "siekiant užtikrinti saugumą ir užkirsti kelią šio reglamento nuostatų neatitinkančiam duomenų tvarkymui, duomenų valdytojas arba tvarkytojas turėtų įvertinti su duomenų tvarkymu susijusią riziką ir įgyvendinti jas mažinančias priemones. Šiomis priemonėmis turėtų būti užtikrintas saugumo lygis, kuris atsižvelgiant į technologijų lygį ir jų įdiegimo išlaidas, turėtų būti adekvatus tvarkymo keliamai rizikai ir saugotinų asmens duomenų pobūdžiui. Nustatydama techninius standartus ir organizacines priemones duomenų tvarkymo saugumui užtikrinti, Komisija turėtų skatinti technologinį neutralumą, sąveikumą ir inovacijas, o prireikus bendradarbiauti su trečiosiomis šalimis;"
+		},
+		{
+			"lang": "nl",
+			"text": "Teneinde de veiligheid te waarborgen en te voorkomen dat verwerking plaatsvindt die strijdig is met deze verordening, dienen de voor de verwerking verantwoordelijke en de verwerker de risico’s die de verwerking meebrengt te beoordelen en maatregelen te treffen om deze risico’s te beperken. Deze maatregelen dienen een passend niveau van veiligheid te waarborgen, rekening houdend met de stand van de techniek en de kosten van de tenuitvoerlegging enerzijds en de risico’s die de verwerking en de aard van de te beschermen gegevens meebrengen anderzijds. Bij het vaststellen van technische normen en organisatorische maatregelen voor de veiligheid van de verwerking dient de Commissie technologische neutraliteit, interoperabiliteit en innovatie te bevorderen en zo nodig samen te werken met derde landen."
+		},
+		{
+			"lang": "sv",
+			"text": "För att bibehålla säkerheten och förhindra behandling som bryter mot denna förordning bör registeransvariga eller registerförare utvärdera de risker som hör till behandlingen och vidta åtgärder för att mildra dem. Åtgärderna bör leda till en lämplig säkerhetsnivå med hänsyn till dagens tekniska utveckling och till kostnaderna för genomförandet med hänsyn till riskerna och vilken typ av personuppgifter som ska skyddas. Vid införandet av tekniska standarder och organisatoriska åtgärder som ska borga för säkerheten vid behandling bör kommissionen främja teknikneutralitet, interoperabilitet och innovation, och om så är lämpligt samarbeta med tredjeland."
+		}
+	],
+	"children": [],
+	"title": "Recital 66"
+}

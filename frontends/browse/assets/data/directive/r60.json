@@ -1,0 +1,102 @@
+{
+	"id": "r60",
+	"type": "recital",
+	"literal": "60",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Comprehensive responsibility and liability of the controller for any processing of personal data carried out by the controller or on the controller's behalf should be established. In particular, the controller should ensure and be obliged to demonstrate the compliance of each processing operation with this Regulation."
+		},
+		{
+			"lang": "de",
+			"text": "Die Verantwortung und Haftung des für die Verarbeitung Verantwortlichen für jedwede durch diesen oder in dessen Auftrag erfolgende Verarbeitung personenbezogener Daten sollte umfassend geregelt werden. Insbesondere sollte der für die Verarbeitung Verantwortliche dafür Sorge tragen, dass jeder Verarbeitungsvorgang im Einklang mit dieser Verordnung steht, und er sollte dies auch nachweisen müssen."
+		},
+		{
+			"lang": "fr",
+			"text": "Il y a lieu d'instaurer une responsabilité globale du responsable du traitement pour tout traitement de données à caractère personnel qu'il effectue lui‑même ou qui est réalisé pour son compte. Il importe en particulier que le responsable du traitement veille à la conformité de chaque traitement au présent règlement et soit tenu d'en apporter la preuve."
+		},
+		{
+			"lang": "es",
+			"text": "Se debe establecer la responsabilidad general del responsable por cualquier tratamiento de datos personales realizado por él mismo o en su nombre. En particular, el responsable del tratamiento debe garantizar y está obligado a demostrar que cada operación de tratamiento cumple lo dispuesto en el presente Reglamento."
+		},
+		{
+			"lang": "pt",
+			"text": "Deve ser definida a responsabilidade global do responsável por qualquer tratamento de dados pessoais realizado por este ou por sua conta. Em especial, o responsável pelo tratamento deve assegurar e ser obrigado a comprovar que cada operação de tratamento de dados é efetuada em conformidade com o presente regulamento."
+		},
+		{
+			"lang": "it",
+			"text": "Occorre stabilire una responsabilità generale del responsabile del trattamento per qualsiasi trattamento di dati personali che abbia effettuato direttamente o altri abbia effettuato per suo conto. In particolare, il responsabile del trattamento deve garantire ed essere tenuto a dimostrare la conformità di ogni trattamento con il presente regolamento."
+		},
+		{
+			"lang": "ga",
+			"text": "Ba cheart a bhunú gurb é an rialaitheoir atá freagrach as aon phróiseáil a dhéanann sé ar shonraí pearsanta nó as aon phróiseáil den sórt sin a dhéantar thar a cheann agus gurb é atá faoi dhliteanas i leith na próiseála sin. Ba cheart don rialaitheoir a áirithiú, go háirithe, go léiríonn sé go ndéantar gach oibríocht próiseála i gcomhréir leis an Rialachán seo agus ba cheart go mbeadh sé d’oibleagáid air é sin a dhéanamh."
+		},
+		{
+			"lang": "cs",
+			"text": "Měla by být zavedena komplexní odpovědnost správce za jakékoli zpracování osobních údajů prováděné správcem nebo jeho jménem. Správce by měl zejména zajistit, aby každé zpracování bylo v souladu s tímto nařízením, a měl by být povinen tuto skutečnost doložit."
+		},
+		{
+			"lang": "da",
+			"text": "Der bør fastsættes bestemmelser om den registeransvarliges overordnede ansvar, herunder erstatningsansvar, for den behandling af personoplysninger, der foretages af den registeransvarlige eller på vegne af den registeransvarlige. Den registeransvarlige bør navnlig sikre og være forpligtet til at påvise, at hver behandlingsaktivitet gennemføres i overensstemmelse med denne forordning."
+		},
+		{
+			"lang": "et",
+			"text": "Tuleks kehtestada vastutava töötleja laialdane vastutus temapoolse ja tema nimel toimuva isikuandmete mis tahes töötlemise eest. Eelkõige peaks vastutav töötleja tagama iga töötlemistoimingu kooskõla käesoleva määrusega, samuti on ta kohustatud seda kooskõla tõendama."
+		},
+		{
+			"lang": "el",
+			"text": "Πρέπει να θεσπισθεί συνολική ευθύνη και υποχρέωση αποζημίωσης εκ μέρους του υπευθύνου επεξεργασίας για κάθε επεξεργασία δεδομένων προσωπικού χαρακτήρα η οποία διενεργείται από τον υπεύθυνο επεξεργασίας ή για λογαριασμό του υπευθύνου επεξεργασίας. Ειδικότερα, ο υπεύθυνος επεξεργασίας πρέπει να διασφαλίζει και να υποχρεούται να αποδείξει τη συμμόρφωση κάθε πράξης επεξεργασίας προς τον παρόντα κανονισμό."
+		},
+		{
+			"lang": "bg",
+			"text": "Следва да бъдат установени цялостната отговорност и задължения на администратора за всяко обработване на лични данни, извършено от администратора или от негово име. По-специално, администраторът следва да гарантира и да бъде длъжен да докаже съответствието на всяка операция по обработване с настоящия регламент."
+		},
+		{
+			"lang": "hu",
+			"text": "A személyes adatoknak az adatkezelő által vagy az adatkezelő nevében végzett bárminemű feldolgozása tekintetében rögzíteni kell az adatkezelő átfogó feladatát és felelősségét. Az adatkezelőnek biztosítania és kötelezettségének megfelelően bizonyítania kell, hogy valamennyi adatfeldolgozási művelet összhangban áll e rendelettel."
+		},
+		{
+			"lang": "mt",
+			"text": "Għandha tiġi stabbiliti r-responsabbiltà komprensiva tal-kontrollur għal kwalunkwe pproċessar ta’ dejta personali li jitwettaq mill-kontrollur jew f’isem il-kontrollur. B’mod partikolari, il-kontrollur għandu jiżgura u jkun obbligat li juri l-konformità ta’ kull operazzjoni ta’ pproċessar ma’ dan ir-Regolament."
+		},
+		{
+			"lang": "lv",
+			"text": "Būtu jāparedz vispusīga pārziņa atbildība par personas datu apstrādi, ko veic pārzinis vai pārziņa vārdā. Jo īpaši pārzinim būtu jāuzliek pienākums nodrošināt un uzskatāmi parādīt, ka katra apstrādes darbība notiek saskaņā ar šo regulu."
+		},
+		{
+			"lang": "ro",
+			"text": "Ar trebui să se stabilească responsabilitatea și răspunderea generală a operatorului pentru orice prelucrare a datelor cu caracter personal efectuată de către acesta sau în numele său. În special, operatorul ar trebui să asigure și să aibă obligația de a demonstra conformitatea fiecărei operațiuni de prelucrare cu prezentul regulament."
+		},
+		{
+			"lang": "sk",
+			"text": "Mala by sa stanoviť celková zodpovednosť a povinnosť prevádzkovateľa týkajúca sa akéhokoľvek spracúvania osobných údajov vykonávaného prevádzkovateľom alebo v jeho mene. Prevádzkovateľ by mal najmä zabezpečiť a mal by mať povinnosť preukázať súlad každej operácie spracovania údajov s týmto nariadením."
+		},
+		{
+			"lang": "sl",
+			"text": "Uvesti bi bilo treba celovito pristojnost in odgovornost upravljavca glede vsake obdelave osebnih podatkov, ki jo izvede upravljavec ali je izvedena v njegovem imenu. Upravljavec bi moral zlasti zagotoviti in biti k temu zavezan, da dokaže skladnost vsakega postopka obdelave s to uredbo."
+		},
+		{
+			"lang": "fi",
+			"text": "Olisi vahvistettava rekisterinpitäjän kattava vastuu suorittamastaan tai rekisterinpitäjän puolesta suoritetusta henkilötietojen käsittelystä. Rekisterinpitäjän olisi erityisesti varmistettava ja kyettävä osoittamaan, että kaikki käsittelytoimet ovat tämän asetuksen mukaisia."
+		},
+		{
+			"lang": "pl",
+			"text": "Należy obciążyć administratora całkowitą odpowiedzialnością za przetwarzanie danych osobowych prowadzone przez niego samego lub w jego imieniu. W szczególności administrator powinien zapewnić zgodność takiej operacji przetwarzania z niniejszym rozporządzeniem i mieć obowiązek wykazania tej zgodności."
+		},
+		{
+			"lang": "lt",
+			"text": "turėtų būti nustatyta visapusiška duomenų valdytojo atsakomybė už bet kokį duomenų valdytojo arba jo pavedimu vykdomą asmens duomenų tvarkymą. Visų pirma, duomenų valdytojas turėtų užtikrinti, kad kiekviena duomenų tvarkymo operacija atitinka šį reglamentą, ir privalėti tą įrodyti;"
+		},
+		{
+			"lang": "nl",
+			"text": "Er dient te worden voorzien in alomvattende verantwoordelijkheid en aansprakelijkheid van de voor de verwerking verantwoordelijke voor elke verwerking van persoonsgegevens door of namens de voor de verwerking verantwoordelijke. Met name dient de voor de verwerking verantwoordelijke erop toe te zien en te worden verplicht aan te tonen dat elke verwerking overeenkomstig deze verordening geschiedt."
+		},
+		{
+			"lang": "sv",
+			"text": "Registeransvariga bör åläggas ett heltäckande ansvar för all behandling av personuppgifter som de utför eller som utförs på deras vägnar. Registeransvariga bör särskilt säkerställa och vara skyldiga att visa att varje behandling är förenlig med denna förordning."
+		}
+	],
+	"children": [],
+	"title": "Recital 60"
+}

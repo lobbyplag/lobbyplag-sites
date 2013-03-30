@@ -1,0 +1,114 @@
+{
+	"id": "a35",
+	"type": "article",
+	"literal": "35",
+	"parent": "c4s4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Designation of the data protection officer"
+		},
+		{
+			"lang": "de",
+			"text": "Benennung eines Datenschutzbeauftragten"
+		},
+		{
+			"lang": "fr",
+			"text": "Désignation du délégué à la protection des données"
+		},
+		{
+			"lang": "es",
+			"text": "Designación del delegado de protección de datos"
+		},
+		{
+			"lang": "pt",
+			"text": "Designação do delegado para a proteção de dados"
+		},
+		{
+			"lang": "it",
+			"text": "Designazione del responsabile della protezione dei dati"
+		},
+		{
+			"lang": "ga",
+			"text": "An t‑oifigeach cosanta sonraí a cheapadh"
+		},
+		{
+			"lang": "cs",
+			"text": "Jmenování inspektora ochrany údajů"
+		},
+		{
+			"lang": "da",
+			"text": "Udpegning af den databeskyttelsesansvarlige"
+		},
+		{
+			"lang": "et",
+			"text": "Andmekaitseametniku määramine"
+		},
+		{
+			"lang": "el",
+			"text": "Ορισμός του υπευθύνου προστασίας δεδομένων"
+		},
+		{
+			"lang": "bg",
+			"text": "Определяне на длъжностното лице по защита на данните"
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatvédelmi tisztviselő kijelölése"
+		},
+		{
+			"lang": "mt",
+			"text": "Ħatra tal-uffiċjal tal-protezzjoni tad-dejta"
+		},
+		{
+			"lang": "lv",
+			"text": "Datu aizsardzības inspektora iecelšana"
+		},
+		{
+			"lang": "ro",
+			"text": "Desemnarea responsabilului cu protecția datelor"
+		},
+		{
+			"lang": "sk",
+			"text": "Určenie úradníka pre ochranu údajov"
+		},
+		{
+			"lang": "sl",
+			"text": "Imenovanje uradne osebe za varstvo podatkov"
+		},
+		{
+			"lang": "fi",
+			"text": "Tietosuojavastaavan nimittäminen"
+		},
+		{
+			"lang": "pl",
+			"text": "Wyznaczenie inspektora ochrony danych"
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų apsaugos pareigūno paskyrimas"
+		},
+		{
+			"lang": "nl",
+			"text": "Aanwijzing van de functionaris voor gegevensbescherming"
+		},
+		{
+			"lang": "sv",
+			"text": "Utnämning av uppgiftsskyddsombudet"
+		}
+	],
+	"children": [
+		"a35p1",
+		"a35p2",
+		"a35p3",
+		"a35p4",
+		"a35p5",
+		"a35p6",
+		"a35p7",
+		"a35p8",
+		"a35p9",
+		"a35p10",
+		"a35p11"
+	],
+	"title": "Article 35"
+}

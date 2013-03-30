@@ -1,0 +1,107 @@
+{
+	"id": "a25p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a25",
+	"text": [
+		{
+			"lang": "en",
+			"text": "This obligation shall not apply to:"
+		},
+		{
+			"lang": "de",
+			"text": "Diese Pflicht gilt nicht für"
+		},
+		{
+			"lang": "fr",
+			"text": "Cette obligation ne s’applique pas:"
+		},
+		{
+			"lang": "es",
+			"text": "Esta obligación no será aplicable a:"
+		},
+		{
+			"lang": "pt",
+			"text": "Esta obrigação não se aplica a:"
+		},
+		{
+			"lang": "it",
+			"text": "Quest’obbligo non si applica:"
+		},
+		{
+			"lang": "ga",
+			"text": "Ní bheidh feidhm ag an oibleagáid sin maidir leo seo a leanas:"
+		},
+		{
+			"lang": "cs",
+			"text": "Touto povinností nejsou vázáni:"
+		},
+		{
+			"lang": "da",
+			"text": "Denne forpligtelse gælder ikke for:"
+		},
+		{
+			"lang": "et",
+			"text": "Seda nõuet ei kohaldata, kui vastutav töötleja:"
+		},
+		{
+			"lang": "el",
+			"text": "Η υποχρέωση αυτή δεν ισχύει για:"
+		},
+		{
+			"lang": "bg",
+			"text": "Това задължение не се прилага, когато:"
+		},
+		{
+			"lang": "hu",
+			"text": "E kötelezettséget nem kell alkalmazni:"
+		},
+		{
+			"lang": "mt",
+			"text": "Dan l-obbligu m’għandux japplika għal:"
+		},
+		{
+			"lang": "lv",
+			"text": "Šo pienākumu nepiemēro:"
+		},
+		{
+			"lang": "ro",
+			"text": "Prezenta obligație nu se aplică:"
+		},
+		{
+			"lang": "sk",
+			"text": "Táto povinnosť sa nevzťahuje na:"
+		},
+		{
+			"lang": "sl",
+			"text": "Ta obveznost ne velja za:"
+		},
+		{
+			"lang": "fi",
+			"text": "Tätä velvollisuutta ei sovelleta"
+		},
+		{
+			"lang": "pl",
+			"text": "Obowiązku tego nie stosuje się do:"
+		},
+		{
+			"lang": "lt",
+			"text": "Ši pareiga netaikoma:"
+		},
+		{
+			"lang": "nl",
+			"text": "Deze verplichting is niet van toepassing op:"
+		},
+		{
+			"lang": "sv",
+			"text": "Denna skyldighet ska inte gälla"
+		}
+	],
+	"children": [
+		"a25p2i1",
+		"a25p2i2",
+		"a25p2i3",
+		"a25p2i4"
+	],
+	"title": "Article 25 – Paragraph 2"
+}

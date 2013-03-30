@@ -1,0 +1,107 @@
+{
+	"id": "a25",
+	"type": "article",
+	"literal": "25",
+	"parent": "c4s1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Representatives of controllers not established in the Union"
+		},
+		{
+			"lang": "de",
+			"text": "Vertreter von nicht in der Union niedergelassenen für die Verarbeitung Verantwortlichen"
+		},
+		{
+			"lang": "fr",
+			"text": "Représentants des responsables du traitement qui ne sont pas établis dans l’Union"
+		},
+		{
+			"lang": "es",
+			"text": "Representantes de los responsables del tratamiento no establecidos en la Unión"
+		},
+		{
+			"lang": "pt",
+			"text": "Representantes dos responsáveis pelo tratamento não estabelecidos na União"
+		},
+		{
+			"lang": "it",
+			"text": "Rappresentanti di responsabili del trattamento non stabiliti nell’Unione"
+		},
+		{
+			"lang": "ga",
+			"text": "Ionadaithe do rialaitheoirí nach bhfuil bunaithe san Aontas"
+		},
+		{
+			"lang": "cs",
+			"text": "Zástupci správců neusazených v Unii"
+		},
+		{
+			"lang": "da",
+			"text": "Repræsentanter for registeransvarlige, der ikke er etableret i Unionen"
+		},
+		{
+			"lang": "et",
+			"text": "Väljaspool liitu asuvate vastutavate töötlejate esindajad"
+		},
+		{
+			"lang": "el",
+			"text": "Εκπρόσωποι υπευθύνων επεξεργασίας μη εγκαταστημένων στην Ένωση"
+		},
+		{
+			"lang": "bg",
+			"text": "Представители на администратори, които не са установени в Съюза"
+		},
+		{
+			"lang": "hu",
+			"text": "A nem az Unió területén letelepedett adatkezelők képviselői"
+		},
+		{
+			"lang": "mt",
+			"text": "Rappreżentanti ta’ kontrolluri mhux stabbiliti fl-Unjoni"
+		},
+		{
+			"lang": "lv",
+			"text": "Pārziņu, kas neatrodas Savienībā, pārstāvji"
+		},
+		{
+			"lang": "ro",
+			"text": "Reprezentanții operatorilor care nu își au sediul în Uniune"
+		},
+		{
+			"lang": "sk",
+			"text": "Zástupcovia prevádzkovateľov so sídlom mimo Únie"
+		},
+		{
+			"lang": "sl",
+			"text": "Predstavniki upravljavcev, ki nimajo sedeža v Uniji"
+		},
+		{
+			"lang": "fi",
+			"text": "Unionin ulkopuolelle sijoittautuneiden rekisterinpitäjien edustajat"
+		},
+		{
+			"lang": "pl",
+			"text": "Przedstawiciele administratorów nie mających siedziby w Unii"
+		},
+		{
+			"lang": "lt",
+			"text": "Sąjungoje neįsisteigusių duomenų valdytojų atstovai"
+		},
+		{
+			"lang": "nl",
+			"text": "Vertegenwoordigers van niet in de Unie gevestigde voor de verwerking verantwoordelijken"
+		},
+		{
+			"lang": "sv",
+			"text": "Företrädare för registeransvariga som inte är etablerade i unionen"
+		}
+	],
+	"children": [
+		"a25p1",
+		"a25p2",
+		"a25p3",
+		"a25p4"
+	],
+	"title": "Article 25"
+}

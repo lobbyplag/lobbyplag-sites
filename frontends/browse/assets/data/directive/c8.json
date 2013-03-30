@@ -1,0 +1,110 @@
+{
+	"id": "c8",
+	"type": "chapter",
+	"literal": "VIII",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "REMEDIES, LIABILITY AND SANCTIONS"
+		},
+		{
+			"lang": "de",
+			"text": "RECHTSBEHELFE, HAFTUNG UND SANKTIONEN"
+		},
+		{
+			"lang": "fr",
+			"text": "RECOURS, RESPONSABILITÉ ET SANCTIONS"
+		},
+		{
+			"lang": "es",
+			"text": "RECURSOS, RESPONSABILIDAD Y SANCIONES"
+		},
+		{
+			"lang": "pt",
+			"text": "VIAS DE RECURSO, RESPONSABILIDADE E SANÇÕES"
+		},
+		{
+			"lang": "it",
+			"text": "RICORSI, RESPONSABILITÀ E SANZIONI"
+		},
+		{
+			"lang": "ga",
+			"text": "LEIGHEASANNA, DLITEANAS AGUS SMACHTBHANNAÍ"
+		},
+		{
+			"lang": "cs",
+			"text": "OPRAVNÉ PROSTŘEDKY, ODPOVĚDNOST A SANKCE"
+		},
+		{
+			"lang": "da",
+			"text": "KLAGEADGANG, ANSVAR OG SANKTIONER"
+		},
+		{
+			"lang": "et",
+			"text": "ÕIGUSKAITSEVAHENDID, VASTUTUS JA SANKTSIOONID"
+		},
+		{
+			"lang": "el",
+			"text": "ΠΡΟΣΦΥΓΕΣ, ΕΥΘΥΝΗ ΚΑΙ ΚΥΡΩΣΕΙΣ"
+		},
+		{
+			"lang": "bg",
+			"text": "СРЕДСТВА ЗА ПРАВНА ЗАЩИТА, ОТГОВОРНОСТ ЗА ПРИЧИНЕНИ ВРЕДИ И САНКЦИИ"
+		},
+		{
+			"lang": "hu",
+			"text": "JOGORVOSLAT, FELELŐSSÉG ÉS SZANKCIÓK"
+		},
+		{
+			"lang": "mt",
+			"text": "RIMEDJI, RESPONSABBILTÀ U SANZJONIJIET"
+		},
+		{
+			"lang": "lv",
+			"text": "TIESISKĀS AIZSARDZĪBAS LĪDZEKĻI, ATBILDĪBA UN SANKCIJAS"
+		},
+		{
+			"lang": "ro",
+			"text": "Căi de atac, răspundere și sancțiuni"
+		},
+		{
+			"lang": "sk",
+			"text": "PROSTRIEDKY NÁPRAVY, ZODPOVEDNOSŤ A SANKCIE"
+		},
+		{
+			"lang": "sl",
+			"text": "PRAVNA SREDSTVA, ODGOVORNOST IN SANKCIJE"
+		},
+		{
+			"lang": "fi",
+			"text": "OIKEUSSUOJAKEINOT, VASTUU JA SEURAAMUKSET"
+		},
+		{
+			"lang": "pl",
+			"text": "ŚRODKI OCHRONY PRAWNEJ, ODPOWIEDZIALNOŚĆ I SANKCJE"
+		},
+		{
+			"lang": "lt",
+			"text": "TEISIŲ GYNIMO PRIEMONĖS, ATSAKOMYBĖ IR SANKCIJOS"
+		},
+		{
+			"lang": "nl",
+			"text": "BEROEP, AANSPRAKELIJKHEID EN SANCTIES"
+		},
+		{
+			"lang": "sv",
+			"text": "RÄTTSMEDEL, ANSVAR, PÅFÖLJDER OCH ADMINISTRATIVA SANKTIONER"
+		}
+	],
+	"children": [
+		"a73",
+		"a74",
+		"a75",
+		"a76",
+		"a77",
+		"a78",
+		"a79"
+	],
+	"title": "Chapter 8"
+}

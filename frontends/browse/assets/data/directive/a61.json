@@ -1,0 +1,107 @@
+{
+	"id": "a61",
+	"type": "article",
+	"literal": "61",
+	"parent": "c7s2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Urgency procedure"
+		},
+		{
+			"lang": "de",
+			"text": "Dringlichkeitsverfahren"
+		},
+		{
+			"lang": "fr",
+			"text": "Procédure d’urgence"
+		},
+		{
+			"lang": "es",
+			"text": "Procedimiento de urgencia"
+		},
+		{
+			"lang": "pt",
+			"text": "Procedimento de urgência"
+		},
+		{
+			"lang": "it",
+			"text": "Procedura d’urgenza"
+		},
+		{
+			"lang": "ga",
+			"text": "An nós imeachta práinne"
+		},
+		{
+			"lang": "cs",
+			"text": "Postup pro naléhavé případy"
+		},
+		{
+			"lang": "da",
+			"text": "Hasteprocedure"
+		},
+		{
+			"lang": "et",
+			"text": "Kiirmenetlus"
+		},
+		{
+			"lang": "el",
+			"text": "Επείγουσα διαδικασία"
+		},
+		{
+			"lang": "bg",
+			"text": "Процедура по спешност"
+		},
+		{
+			"lang": "hu",
+			"text": "Sürgősségi eljárás"
+		},
+		{
+			"lang": "mt",
+			"text": "Proċedura ta’ urġenza"
+		},
+		{
+			"lang": "lv",
+			"text": "Steidzamības procedūra"
+		},
+		{
+			"lang": "ro",
+			"text": "Procedura de urgență"
+		},
+		{
+			"lang": "sk",
+			"text": "Postup pre naliehavé prípady"
+		},
+		{
+			"lang": "sl",
+			"text": "Nujni postopek"
+		},
+		{
+			"lang": "fi",
+			"text": "Kiireellinen menettely"
+		},
+		{
+			"lang": "pl",
+			"text": "Tryb pilny"
+		},
+		{
+			"lang": "lt",
+			"text": "Skubos tvarka"
+		},
+		{
+			"lang": "nl",
+			"text": "Spoedprocedure"
+		},
+		{
+			"lang": "sv",
+			"text": "Påskyndat förfarande"
+		}
+	],
+	"children": [
+		"a61p1",
+		"a61p2",
+		"a61p3",
+		"a61p4"
+	],
+	"title": "Article 61"
+}

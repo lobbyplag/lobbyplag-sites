@@ -1,0 +1,105 @@
+{
+	"id": "a84",
+	"type": "article",
+	"literal": "84",
+	"parent": "c9",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Obligations of secrecy"
+		},
+		{
+			"lang": "de",
+			"text": "Geheimhaltungspflichten"
+		},
+		{
+			"lang": "fr",
+			"text": "Obligations de secret"
+		},
+		{
+			"lang": "es",
+			"text": "Obligaciones de secreto"
+		},
+		{
+			"lang": "pt",
+			"text": "Obrigações de sigilo"
+		},
+		{
+			"lang": "it",
+			"text": "Obblighi di segretezza"
+		},
+		{
+			"lang": "ga",
+			"text": "Oibleagáidí rúndachta"
+		},
+		{
+			"lang": "cs",
+			"text": "Povinnost mlčenlivosti"
+		},
+		{
+			"lang": "da",
+			"text": "Tavshedspligt"
+		},
+		{
+			"lang": "et",
+			"text": "Saladuse hoidmise kohustused"
+		},
+		{
+			"lang": "el",
+			"text": "Υποχρεώσεις τήρησης απορρήτου"
+		},
+		{
+			"lang": "bg",
+			"text": "Задължения за опазване на тайна"
+		},
+		{
+			"lang": "hu",
+			"text": "Titoktartási kötelezettségek"
+		},
+		{
+			"lang": "mt",
+			"text": "Obbligi ta’ segretezza"
+		},
+		{
+			"lang": "lv",
+			"text": "Dienesta noslēpums"
+		},
+		{
+			"lang": "ro",
+			"text": "Obligații privind păstrarea confidențialității"
+		},
+		{
+			"lang": "sk",
+			"text": "Povinnosť zachovávať mlčanlivosť"
+		},
+		{
+			"lang": "sl",
+			"text": "Obveznost molčečnosti"
+		},
+		{
+			"lang": "fi",
+			"text": "Salassapitovelvollisuus"
+		},
+		{
+			"lang": "pl",
+			"text": "Obowiązki dotyczące zachowania tajemnicy"
+		},
+		{
+			"lang": "lt",
+			"text": "Pareiga saugoti paslaptį"
+		},
+		{
+			"lang": "nl",
+			"text": "Geheimhoudingsplicht"
+		},
+		{
+			"lang": "sv",
+			"text": "Tystnadsplikt"
+		}
+	],
+	"children": [
+		"a84p1",
+		"a84p2"
+	],
+	"title": "Article 84"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "a31p3i2",
+	"type": "point",
+	"literal": "b",
+	"parent": "a31p3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "communicate the identity and contact details of the data protection officer or other contact point where more information can be obtained;"
+		},
+		{
+			"lang": "de",
+			"text": "Name und Kontaktdaten des Datenschutzbeauftragten oder eines sonstigen Ansprechpartners für weitere Informationen;"
+		},
+		{
+			"lang": "fr",
+			"text": "communiquer l’identité et les coordonnées du délégué à la protection des données ou d'un autre point de contact auprès duquel des informations supplémentaires peuvent être obtenues;"
+		},
+		{
+			"lang": "es",
+			"text": "comunicar la identidad y los datos de contacto del delegado de protección de datos o de otro punto de contacto en el que pueda obtenerse más información;"
+		},
+		{
+			"lang": "pt",
+			"text": "Comunicar a identidade e os contactos do delegado para a proteção de dados ou de outro ponto de contacto onde possam ser obtidas informações adicionais;"
+		},
+		{
+			"lang": "it",
+			"text": "indicare l’identità e le coordinate di contatto del responsabile della protezione dei dati o di altro punto di contatto presso cui ottenere più informazioni;"
+		},
+		{
+			"lang": "ga",
+			"text": "cuirfear céannacht agus sonraí teagmhála an oifigigh cosanta sonraí in iúl nó luafar pointe teagmhála eile ónar féidir tuilleadh eolais a fháil;"
+		},
+		{
+			"lang": "cs",
+			"text": "sdělena totožnost a kontaktní údaje inspektora ochrany údajů nebo jiného kontaktního subjektu, který může poskytnout bližší informace;"
+		},
+		{
+			"lang": "da",
+			"text": "angive identitet og kontaktoplysninger for den databeskyttelsesansvarlige eller et andet kontaktpunkt, hvor yderligere oplysninger kan indhentes"
+		},
+		{
+			"lang": "et",
+			"text": "teatada andmekaitseametniku või mõne teise täiendavat teavet andva kontaktisiku nimi ja kontaktandmed;"
+		},
+		{
+			"lang": "el",
+			"text": "β) να γνωστοποιεί την ταυτότητα και τα στοιχεία επικοινωνίας του υπευθύνου προστασίας δεδομένων ή άλλου σημείου επικοινωνίας από το οποίο μπορούν να εξασφαλισθούν περισσότερες πληροφορίες·"
+		},
+		{
+			"lang": "bg",
+			"text": "б) посочване на самоличността и координатите за връзка на длъжностното лице по защита на данните или на друго звено за контакт, от което може да се получи повече информация;"
+		},
+		{
+			"lang": "hu",
+			"text": "az adatvédelmi tisztviselő vagy a további tájékoztatást nyújtó egyéb kapcsolattartó személyének és elérhetőségének közlése;"
+		},
+		{
+			"lang": "mt",
+			"text": "tagħti l-identità u d-dettalji ta’ kuntatt tal-uffiċjal tal-protezzjoni tad-dejta jew ta’ punt ta’ kuntatt ieħor minn fejn tista’ tinkiseb aktar informazzjoni;"
+		},
+		{
+			"lang": "lv",
+			"text": "paziņo datu aizsardzības inspektora vai cita kontaktpunkta, kur var iegūt papildu informāciju, identitāti un kontaktinformāciju;"
+		},
+		{
+			"lang": "ro",
+			"text": "să comunice identitatea și datele de contact ale responsabilului cu protecția datelor sau un alt punct de contact de unde se pot obține mai multe informații;"
+		},
+		{
+			"lang": "sk",
+			"text": "údaje totožnosti a kontaktné údaje úradníka pre ochranu údajov alebo iné kontaktné miesto, kde možno získať viac informácií;"
+		},
+		{
+			"lang": "sl",
+			"text": "sporočilo o istovetnosti in kontaktnih podatkih uradne osebe za varstvo podatkov ali druge kontaktne točke, pri katerih je mogoče pridobiti več informacij;"
+		},
+		{
+			"lang": "fi",
+			"text": "ilmoitettava tietosuojavastaavan henkilöllisyys ja yhteystiedot tai muu yhteyspiste, josta voi saada lisätietoa;"
+		},
+		{
+			"lang": "pl",
+			"text": "podawać imię i nazwisko oraz dane kontaktowe inspektora ochrony danych lub innego punktu kontaktowego, w którym można uzyskać więcej informacji;"
+		},
+		{
+			"lang": "lt",
+			"text": "pateiktas duomenų apsaugos pareigūno vardas ir pavardė ir duomenys ryšiams arba kitas asmuo ryšiams, iš kurio galima gauti daugiau informacijos;"
+		},
+		{
+			"lang": "nl",
+			"text": "de vermelding van de identiteit en de contactgegevens van de functionaris voor gegevensbescherming of een ander contactpunt waar meer informatie kan worden verkregen;"
+		},
+		{
+			"lang": "sv",
+			"text": "förmedla identiteten på och kontaktuppgifterna för uppgiftsskyddsombudet eller andra kontaktpunkter där mer information kan erhållas,"
+		}
+	],
+	"children": [],
+	"title": "Article 31 – Paragraph 3 – Point 2"
+}

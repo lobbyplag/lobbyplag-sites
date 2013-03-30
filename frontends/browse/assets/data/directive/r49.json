@@ -1,0 +1,102 @@
+{
+	"id": "r49",
+	"type": "recital",
+	"literal": "49",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The information in relation to the processing of personal data relating to the data subject should be given to them at the time of collection, or, where the data are not collected from the data subject, within a reasonable period, depending on the circumstances of the case. Where data can be legitimately disclosed to another recipient, the data subject should be informed when the data are first disclosed to the recipient."
+		},
+		{
+			"lang": "de",
+			"text": "Die Unterrichtung einer betroffenen Person, dass sie betreffende personenbezogene Daten verarbeitet werden, sollte zum Zeitpunkt der Erhebung erfolgen oder für den Fall, dass die Daten nicht bei ihr erhoben werden, innerhalb einer angemessenen Frist, die sich nach dem konkreten Einzelfall richtet. Wenn die Daten rechtmäßig an einen anderen Empfänger weitergegeben werden dürfen, sollte die betroffene Person bei der erstmaligen Weitergabe der Daten an diesen Empfänger darüber aufgeklärt werden."
+		},
+		{
+			"lang": "fr",
+			"text": "L'information sur le traitement des données à caractère personnel devrait être donnée à la personne concernée au moment où ces données sont recueillies ou, si la collecte des données n'a pas lieu auprès de la personne concernée, dans un délai raisonnable en fonction des circonstances propres à chaque cas. Lorsque des données peuvent être légitimement divulguées à un autre destinataire, il convient que la personne concernée soit informée lorsque ces données sont divulguées pour la première fois audit destinataire."
+		},
+		{
+			"lang": "es",
+			"text": "La información sobre el tratamiento de los datos de carácter personal relativos a los interesados debe ser facilitada a estos últimos en el momento de su recogida, o, si los datos no se recogieran de los interesados, en un plazo razonable, dependiendo de las circunstancias del caso. Si los datos pueden ser comunicados legítimamente a otro destinatario, se debe informar al interesado cuando se desvelan por primera vez."
+		},
+		{
+			"lang": "pt",
+			"text": "As informações sobre o tratamento de dados pessoais devem ser fornecidas ao titular dos dados no momento da sua recolha ou, se a recolha não foi obtida junto da pessoa em causa, dentro de um prazo, dependendo das circunstâncias do caso. Sempre que os dados forem suscetíveis de serem legitimamente comunicados a outro destinatário, o titular dos dados deve ser informado aquando da primeira comunicação a esse destinatário."
+		},
+		{
+			"lang": "it",
+			"text": "L’interessato deve ricevere le informazioni relative al trattamento di dati personali al momento della raccolta o, se i dati non sono raccolti direttamente presso l’interessato, entro un termine ragionevole, in funzione delle circostanze del caso. Se i dati possono essere legittimamente comunicati a un altro destinatario, l’interessato deve esserne informato al momento in cui il destinatario riceve la prima comunicazione dei dati."
+		},
+		{
+			"lang": "ga",
+			"text": "Ba cheart an fhaisnéis maidir le próiseáil sonraí pearsanta a bhaineann leis an duine is ábhar do na sonraí a thabhairt don duine sin tráth bhailiú na sonraí, nó, i gcás nach mbailítear na sonraí ón duine is ábhar do na sonraí, laistigh de thréimhse réasúnta, ag brath ar imthosca an cháis. I gcás inar féidir sonraí a nochtadh do dhuine eile go dlisteanach, ba cheart an duine is ábhar do na sonraí a chur ar an eolas nuair a nochtar na sonraí an chéad uair don duine eile sin."
+		},
+		{
+			"lang": "cs",
+			"text": "Informování subjektu údajů o tom, že jsou zpracovávány jeho osobní údaje, by mělo proběhnout v okamžiku jejich shromažďování nebo, pokud údaje nejsou získávány od subjektu údajů, v přiměřené lhůtě v závislosti na okolnostech případu. Jestliže mohou být údaje legitimně sděleny jinému příjemci, měl by být subjekt údajů informován o prvním sdělení údajů tomuto příjemci."
+		},
+		{
+			"lang": "da",
+			"text": "Informationen om behandlingen af personoplysninger bør gives til den registrerede på tidspunktet for indsamlingen, eller, hvis oplysningerne ikke indsamles fra den registrerede, inden for en rimelig periode afhængigt af de konkrete omstændigheder. Hvis oplysninger legitimt kan videregives til en anden modtager, bør den registrerede informeres, når oplysningerne første gang videregives til modtageren."
+		},
+		{
+			"lang": "et",
+			"text": "Andmesubjekti isikuandmete töötlemist käsitlev teave tuleks anda talle asjaoludest olenevalt kas kogumise ajal või mõistliku ajavahemiku jooksul, juhul kui andmeid ei koguta andmesubjektilt. Kui andmeid võib õiguspäraselt avaldada muule isikule, teavitatakse andmesubjekti sellest andmete esmakordsel avaldamisel."
+		},
+		{
+			"lang": "el",
+			"text": "Η ενημέρωση σε σχέση με την επεξεργασία των δεδομένων προσωπικού χαρακτήρα που σχετίζονται με το πρόσωπο στο οποίο αναφέρονται τα δεδομένα πρέπει να παρέχεται κατά τη συλλογή ή, εάν τα δεδομένα δεν συλλέγονται από το πρόσωπο στο οποίο αναφέρονται, εντός εύλογης προθεσμίας, ανάλογα με τις συνθήκες κάθε περίπτωσης. Εάν τα δεδομένα επιτρέπεται να κοινοποιηθούν σε άλλον αποδέκτη, το πρόσωπο στο οποίο αναφέρονται τα δεδομένα πρέπει να ενημερώνεται όταν τα δεδομένα κοινοποιούνται για πρώτη φορά στον εν λόγω αποδέκτη."
+		},
+		{
+			"lang": "bg",
+			"text": "Информацията за обработването на лични данни, свързани със субекта на данните, следва да му се предоставя в момента на събирането или, когато данните не са събрани от субекта на данните, в рамките на разумен срок, в зависимост от обстоятелствата в конкретния случай. В случаите, когато данните могат да бъдат законно разкрити на друг получател, субектът на данните следва да бъде информиран, когато данните се разкриват за първи път на получателя."
+		},
+		{
+			"lang": "hu",
+			"text": "Az érintettre vonatkozó személyes adatok feldolgozásával kapcsolatos tájékoztatást az adatgyűjtés időpontjában kell rendelkezésére bocsátani, illetve, abban az esetben, ha az adatokat nem az érintettől gyűjtötték be, ésszerű határidőn belül, az ügy körülményeire tekintettel. Ha az adatok jogszerűen közölhetőek más címzettel, a címzettel történő első közléskor tájékoztatni kell az érintettet."
+		},
+		{
+			"lang": "mt",
+			"text": "L-informazzjoni relatata mal-ipproċessar ta’ dejta personali relatata mas-suġġett tad-dejta għandha tingħatalu meta tinġabar, jew, meta d-dejta ma tinġabarx mis-suġġett tad-dejta, f’perjodu raġonevoli, skont iċ-ċirkostanzi tal-każ. Fejn id-dejta tista’ tkun żvelata b’mod leġittimu lil riċevitur ieħor, is-suġġett tad-dejta għandu jkun informat meta d-dejta tkun żvelata għall-ewwel darba lir-riċevitur."
+		},
+		{
+			"lang": "lv",
+			"text": "Informācija par datu subjekta personas datu apstrādi būtu tam jāsniedz datu ieguves brīdī vai, ja datus neiegūst no datu subjekta, saprātīgā termiņā atkarībā no lietas apstākļiem. Ja datus var likumīgi atklāt citam saņēmējam, datu subjekts būtu jāinformē, kad dati pirmo reizi tiek izpausti saņēmējam."
+		},
+		{
+			"lang": "ro",
+			"text": "Informațiile în legătură cu prelucrarea datelor cu caracter personal referitoare la persoana vizată ar trebui furnizate acesteia la momentul colectării sau, în cazul în care datele nu sunt colectate de la persoana vizată, într-o perioadă rezonabilă, în funcție de circumstanțele cazului. În cazul în care datele pot fi divulgate în mod legitim unui alt destinatar, persoana vizată ar trebui informată atunci când datele sunt divulgate pentru prima dată destinatarului."
+		},
+		{
+			"lang": "sk",
+			"text": "Informácie súvisiace so spracúvaním osobných údajov týkajúcich sa dotknutej osoby by sa dotknutej osobe mali poskytnúť v čase zhromaždenia údajov alebo, ak údaje nie sú zhromaždené od dotknutej osoby, v primeranej lehote v závislosti od okolností prípadu. Ak možno údaje legitímne poskytnúť inému príjemcovi, dotknutá osoba by mala byť informovaná o tom, kedy boli údaje prvýkrát poskytnuté tomuto príjemcovi."
+		},
+		{
+			"lang": "sl",
+			"text": "Posameznikom, na katere se nanašajo osebni podatki, bi bilo treba informacije v zvezi z obdelavo osebnih podatkov, ki se nanje nanašajo, posredovati ob zbiranju podatkov ali, kadar se podatki ne pridobijo od posameznika, v primernem roku in odvisno od okoliščin primera. Kadar se lahko podatki zakonito posredujejo drugemu prejemniku, bi moral biti posameznik, na katerega se nanašajo osebni podatki, obveščen, ko se podatki prvič posredujejo prejemniku."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisteröidylle olisi ilmoitettava häntä koskevien henkilötietojen käsittelystä tietojen keräämisen yhteydessä tai, jos tietoja ei ole saatu suoraan rekisteröidyltä, kohtuullisen ajan kuluessa tietojen keräämisestä, tapaukseen liittyvät olosuhteet huomioon ottaen. Jos tietoja voidaan laillisesti luovuttaa toiselle vastaanottajalle, rekisteröidylle olisi ilmoitettava tästä silloin, kun tietoja luovutetaan ensimmäisen kerran."
+		},
+		{
+			"lang": "pl",
+			"text": "Informacje dotyczące przetwarzania danych osobowych odnoszących się do podmiotu danych powinny być mu przekazane w momencie zbierania danych lub, jeśli dane nie są uzyskiwane od tego podmiotu, w rozsądnym terminie, zależnie od okoliczności sprawy. Jeśli dane można zgodnie z prawem ujawnić innemu odbiorcy, w momencie pierwszorazowego ujawnienia danych temu odbiorcy należy przekazać stosowne informacje podmiotowi danych."
+		},
+		{
+			"lang": "lt",
+			"text": "informacija apie duomenų subjekto asmens duomenų tvarkymą turėtų būti suteikta duomenis renkant arba – kai duomenys renkami ne iš duomenų subjekto – per pagrįstą laikotarpį, priklausomai nuo konkretaus atvejo aplinkybių. Kai duomenis galima teisėtai atskleisti kitam duomenų gavėjui, duomenų subjektas apie tai turėtų būti informuojamas pirmo duomenų atskleidimo jų gavėjui metu;"
+		},
+		{
+			"lang": "nl",
+			"text": "Deze verplichting is echter overbodig wanneer de betrokkene al over deze informatie beschikt, of wanneer de vastlegging of mededeling van de gegevens uitdrukkelijk bij wet is voorgeschreven of de verstrekking van informatie aan de betrokkene onmogelijk blijkt of onevenredig veel moeite zou kosten. Dit laatste zou met name het geval kunnen zijn wanneer verwerking nodig is voor historisch, statistisch of wetenschappelijk onderzoek; hierbij mag in aanmerking worden genomen om hoeveel betrokkenen het gaat, hoe oud de gegevens zijn en welke compenserende maatregelen kunnen worden getroffen."
+		},
+		{
+			"lang": "sv",
+			"text": "Information om behandling av personuppgifter som rör registrerade bör lämnas till dem vid den tidpunkt då uppgifterna samlas in, eller om uppgifterna inte samlas in direkt från de registrerade, inom en rimlig period, beroende på omständigheterna i fallet. När uppgifter legitimt kan lämnas ut till en annan mottagare bör de registrerade informeras första gången uppgifterna lämnas ut till den mottagaren."
+		}
+	],
+	"children": [],
+	"title": "Recital 49"
+}

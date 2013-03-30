@@ -1,0 +1,102 @@
+{
+	"id": "r111",
+	"type": "recital",
+	"literal": "111",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Every data subject should have the right to lodge a complaint with a supervisory authority in any Member State and have the right to a judicial remedy if they consider that their rights under this Regulation are infringed or where the supervisory authority does not react on a complaint or does not act where such action is necessary to protect the rights of the data subject."
+		},
+		{
+			"lang": "de",
+			"text": "Jede betroffene Person, die sich in ihren Rechten verletzt sieht, die ihr aufgrund dieser Verordnung zustehen, sollte das Recht auf Beschwerde bei einer Aufsichtsbehörde in einem Mitgliedstaat sowie das Recht auf einen gerichtlichen Rechtsbehelf haben, wenn die Aufsichtsbehörde auf die Beschwerde nicht reagiert oder nicht tätig wird, obwohl dies zum Schutz der Rechte der betroffenen Person notwendig ist."
+		},
+		{
+			"lang": "fr",
+			"text": "Toute personne concernée devrait avoir le droit d'introduire une réclamation auprès d'une autorité de contrôle dans tout État membre et disposer d'un droit de recours si elle estime que les droits que lui confère le présent règlement ne sont pas respectés, si l’autorité de contrôle ne réagit pas à une réclamation ou si elle n’agit pas alors qu'une action est nécessaire pour protéger les droits de la personne concernée."
+		},
+		{
+			"lang": "es",
+			"text": "Todo interesado debe tener derecho a presentar una reclamación ante una autoridad de control en cualquier Estado miembro y tener derecho a presentar un recurso judicial si considera que se vulneran sus derechos en el marco del presente Reglamento o en caso de que la autoridad de control no reaccione ante una reclamación o no actúe cuando dicha medida sea necesaria para proteger los derechos del interesado."
+		},
+		{
+			"lang": "pt",
+			"text": "Qualquer titular de dados deve ter o direito de apresentar uma queixa à autoridade de controlo em qualquer Estado-Membro e dispor do direito de ação judicial se considerar que os direitos que lhe confere o presente regulamento foram violados, se a autoridade de controlo não responder à queixa ou não agir conforme necessário para proteger os seus direitos."
+		},
+		{
+			"lang": "it",
+			"text": "Ciascun interessato deve avere il diritto di proporre reclamo a un’autorità di controllo di qualunque Stato membro e il diritto di proporre ricorso giurisdizionale qualora ritenga che siano stati violati i diritti di cui gode a norma del presente regolamento o se l’autorità di controllo non dà seguito a un reclamo o non agisce quando è necessario intervenire per proteggere i suoi diritti di interessato."
+		},
+		{
+			"lang": "ga",
+			"text": "Ba cheart go mbeadh sé de cheart ag gach duine is ábhar do shonraí gearán a dhéanamh leis an údarás maoirseachta in aon Bhallstát agus ba cheart an ceart chun leighis bhreithiúnaigh a bheith acu má mheasann siad go bhfuil a gcearta faoin Rialachán seo á sárú nó mura bhfreagraíonn an t‑údarás maoirseachta do ghearán nó mura ngníomhaíonn sé nuair is gá dul i mbun gníomhaíochta chun cearta an duine is ábhar do na sonraí a chosaint."
+		},
+		{
+			"lang": "cs",
+			"text": "Každý subjekt údajů by měl mít právo podat stížnost orgánu dozoru v jakémkoli členském státě a mít právo na soudní opravný prostředek, jestliže se domnívá, že byla porušena jeho práva podle tohoto nařízení, nebo pokud orgán dozoru na stížnost nereaguje nebo nejedná, přestože je to nutné pro ochranu práva subjektu údajů."
+		},
+		{
+			"lang": "da",
+			"text": "Alle registrerede bør have ret til at indgive klage til tilsynsmyndighederne i alle medlemsstater og adgang til domstolsprøvelse, hvis de finder, at deres rettigheder i henhold til denne forordning er blevet krænket, eller hvis tilsynsmyndigheden ikke reagerer på en klage eller ikke vil handle, hvis dette er nødvendigt for at beskytte den registreredes rettigheder."
+		},
+		{
+			"lang": "et",
+			"text": "Igal andmesubjektil peaks olema õigus esitada kaebus ükskõik millise liikmesriigi järelevalveasutusele ja õigus õiguskaitsevahendile, kui ta on seisukohal, et tema käesolevast määrusest tulenevaid õigusi on rikutud, või kui järelevalveasutus ei reageeri kaebusele ega võta meetmeid juhul, kui need on vajalikud andmesubjekti õiguste kaitsmiseks."
+		},
+		{
+			"lang": "el",
+			"text": "Κάθε πρόσωπο στο οποίο αναφέρονται τα δεδομένα πρέπει να έχει δικαίωμα υποβολής καταγγελίας σε αρχή ελέγχου οποιουδήποτε κράτους μέλους και δικαίωμα άσκησης δικαστικής προσφυγής, εάν θεωρεί ότι παραβιάζονται τα δικαιώματά του που απορρέουν από τον παρόντα κανονισμό ή εάν η αρχή ελέγχου δεν απαντά σε μια καταγγελία ή δεν ενεργεί όταν μια ενέργεια είναι απαραίτητη για την προστασία των δικαιωμάτων του προσώπου στο οποίο αναφέρονται τα δεδομένα."
+		},
+		{
+			"lang": "bg",
+			"text": "Всеки субект на данни следва да има право да подаде жалба до надзорен орган във всяка държава-членка, както и право на средства за съдебна защита, ако счита, че правата му по настоящия регламент са нарушени или когато надзорният орган не предприеме действия по подадена жалба или не предприеме действия, когато такива са необходими, за да се защитят правата на субекта на данни."
+		},
+		{
+			"lang": "hu",
+			"text": "Minden érintettnek joga van bármely tagállam felügyelő hatóságánál panaszt emelni, valamint joga van a bírósági jogorvoslathoz, ha álláspontja szerint sérültek az e rendelet szerinti jogai, illetve ha a felügyelő hatóság a panaszra nem válaszol vagy nem jár el, amikor az érintett jogainak védelme ilyen fellépést követel meg."
+		},
+		{
+			"lang": "mt",
+			"text": "Kull suġġett tad-dejta għandu jkollu d-dritt li jressaq ilment quddiem awtorità ta’ superviżjoni fi kwalunkwe Stat Membru u jkollu d-dritt għal rimedju ġudizzjarju jekk iħoss li d-drittijiet tiegħu taħt dan ir-Regolament ikunu miksura jew fejn l-awtorità ta’ superviżjoni ma tirreaġixxix għal ilment jew ma tiħux azzjoni meta dik l-azzjoni tkun neċessarja sabiex ikunu protetti id-drittijiet tas-suġġett tad-dejta."
+		},
+		{
+			"lang": "lv",
+			"text": "Katram datu subjektam būtu jābūt tiesībām iesniegt sūdzību jebkuras dalībvalsts uzraudzības iestādē un uz tiesību aizsardzību tiesā, ja datu subjekts uzskata, ka viņa tiesības saskaņā ar šo regulu ir pārkāptas vai ja uzraudzības iestāde nereaģē uz sūdzību vai nerīkojas, kad šāda rīcība ir nepieciešama, lai aizsargātu datu subjekta tiesības."
+		},
+		{
+			"lang": "ro",
+			"text": "Orice persoană vizată ar trebui să aibă dreptul de a depune o plângere la o autoritate de supraveghere în orice stat membru și dreptul la o cale de atac, în cazul în care consideră că drepturile pe care le are în temeiul prezentului regulament sunt încălcate sau în cazul în care autoritatea de supraveghere nu reacționează la o plângere sau nu acționează atunci când o astfel de acțiune este necesară pentru asigurarea protecției drepturilor persoanei vizate."
+		},
+		{
+			"lang": "sk",
+			"text": "Každá dotknutá osoba by mala mať právo podať sťažnosť u dozorného orgánu v ktoromkoľvek členskom štáte a mať právo na súdne prostriedky nápravy, ak usúdi, že jej práva ustanovené týmto nariadením sa porušujú, alebo ak dozorný orgán nereaguje na sťažnosť alebo nekoná v prípade, že takéto konanie je nevyhnutné na ochranu práv dotknutej osoby."
+		},
+		{
+			"lang": "sl",
+			"text": "Vsak posameznik, na katerega se nanašajo osebni podatki, bi moral imeti pravico do vložitve pritožbe pri nadzornem organu v kateri koli državi članici in pravico do pravnega sredstva v sodnem postopku, če meni, da so njegove pravice iz te uredbe kršene, ali če nadzorni organ ne obravnava pritožbe ali ne ukrepa, kadar je tak ukrep potreben za zaščito pravic posameznika, na katerega se nanašajo osebni podatki."
+		},
+		{
+			"lang": "fi",
+			"text": "Jokaisella rekisteröidyllä olisi oltava oikeus tehdä valitus minkä tahansa jäsenvaltion valvontaviranomaiselle sekä oikeus soveltaa oikeussuojakeinoja, jos hän katsoo, että hänen tähän asetukseen perustuvia oikeuksiaan on loukattu tai jos valvontaviranomainen ei käsittele valitusta tai ei ryhdy toimiin, jotka ovat tarpeen rekisteröidyn oikeuksien suojaamiseksi."
+		},
+		{
+			"lang": "pl",
+			"text": "Każdy podmiot danych powinien mieć prawo do złożenia skargi do organu nadzorczego w dowolnym państwie członkowskim oraz prawo do sądowego środka ochrony prawnej, jeśli uzna, że jego prawa wynikające z niniejszego rozporządzenia są naruszane lub jeśli organ nadzorczy nie reaguje na skargę lub nie podejmuje działania, pomimo iż jest ono niezbędne w celu ochrony praw podmiotu danych."
+		},
+		{
+			"lang": "lt",
+			"text": "kiekvienas duomenų subjektas turėtų turėti teisę pateikti skundą priežiūros institucijai bet kurioje valstybėje narėje ir turėti teisę imtis teisminių teisių gynimo priemonių, jeigu mano, kad jo teisės pagal šį reglamentą pažeistos arba jeigu priežiūros institucija nesiima veiksmų dėl skundo arba nesiima veiksmų, kai tai būtina duomenų subjekto teisėms apsaugoti;"
+		},
+		{
+			"lang": "nl",
+			"text": "Iedere betrokkene dient het recht te hebben om een klacht in te dienen bij een toezichthoudende autoriteit in een lidstaat en een beroep in rechte in te stellen, indien hij meent dat inbreuk is gemaakt op zijn rechten uit hoofde van deze verordening of indien de toezichthoudende autoriteit niet optreedt naar aanleiding van een klacht of indien deze niet optreedt wanneer zulk optreden noodzakelijk is ter bescherming van de rechten van de betrokkene."
+		},
+		{
+			"lang": "sv",
+			"text": "Alla registrerade bör ha rätt klaga hos en tillsynsmyndighet i en medlemsstat och ha rätt till domstolsprövning om de anser att deras rättigheter enligt denna förordning har kränkts eller om tillsynsmyndigheten inte reagerar på ett klagomål eller inte agerar när så är nödvändigt för att skydda de registrerades rättigheter."
+		}
+	],
+	"children": [],
+	"title": "Recital 111"
+}

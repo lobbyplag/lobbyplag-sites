@@ -1,0 +1,102 @@
+{
+	"id": "a38p1i8",
+	"type": "point",
+	"literal": "h",
+	"parent": "a38p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "out-of-court proceedings and other dispute resolution procedures for resolving disputes between controllers and data subjects with respect to the processing of personal data, without prejudice to the rights of the data subjects pursuant to Articles 73 and 75."
+		},
+		{
+			"lang": "de",
+			"text": "außergerichtliche Verfahren und sonstige Streitschlichtungsverfahren zur Beilegung von Streitigkeiten zwischen für die Verarbeitung Verantwortlichen und betroffenen Personen im Zusammenhang mit der Verarbeitung personenbezogener Daten unbeschadet der den betroffenen Personen aus den Artikeln 73 und 75 erwachsenden Rechte."
+		},
+		{
+			"lang": "fr",
+			"text": "les procédures extrajudiciaires et les autres procédures de règlement des conflits permettant de résoudre les litiges entre les responsables du traitement et les personnes concernées relatifs au traitement de données à caractère personnel, sans préjudice des droits des personnes concernées au titre des articles 73 et 75."
+		},
+		{
+			"lang": "es",
+			"text": "los procedimientos extrajudiciales y otros procedimientos de resolución de litigios que permitan resolver las controversias entre los responsables del tratamiento y los interesados relativas al tratamiento de datos personales, sin perjuicio de los derechos de los interesados de conformidad con los artículos 73 y 75."
+		},
+		{
+			"lang": "pt",
+			"text": "Ações extrajudiciais e outros procedimentos de resolução de litígios entre os responsáveis pelo tratamento e os titulares de dados em relação ao tratamento de dados pessoais, sem prejuízo dos direitos dos titulares de dados nos termos dos artigos 73.º e 75.º"
+		},
+		{
+			"lang": "it",
+			"text": "le procedure stragiudiziali e di altro tipo per comporre le controversie tra responsabili del trattamento e interessati in materia di trattamento dei dati personali, fatti salvi i diritti dell’interessato ai sensi degli articoli 73 e 75."
+		},
+		{
+			"lang": "ga",
+			"text": "imeachtaí lasmuigh den chúirt agus nósanna imeachta eile um réiteach díospóide chun díospóidí idir rialaitheoirí agus daoine is ábhar do shonraí maidir le próiseáil sonraí pearsanta a réiteach, gan dochar do chearta na ndaoine is ábhar do na sonraí de bhun Airteagal 73 agus Airteagal 75."
+		},
+		{
+			"lang": "cs",
+			"text": "mimosoudní vyrovnání a jiné postupy pro řešení sporů mezi správci a subjekty údajů v souvislosti se zpracováváním osobních údajů, aniž by byla dotčena práva subjektů údajů podle článků 73 a 75."
+		},
+		{
+			"lang": "da",
+			"text": "udenretslige procedurer og andre procedurer til bilæggelse af tvister mellem registeransvarlige og registrerede vedrørende behandlingen af person­oplysninger, uden at det berører registreredes rettigheder i henhold til artikel 73 og 75."
+		},
+		{
+			"lang": "et",
+			"text": "vastutavate töötlejate ja andmesubjektide vaheliste isikuandmete töötlemist käsitlevate kohtuväliste menetluste ja muude vaidluste lahendamise kord, ilma et see piiraks andmesubjektide õigusi vastavalt artiklitele 73 ja 75."
+		},
+		{
+			"lang": "el",
+			"text": "η) εξωδικαστικές διαδικασίες και άλλες διαδικασίες επίλυσης διαφορών για την επίλυση διαφορών μεταξύ υπευθύνων επεξεργασίας και προσώπων στα οποία αναφέρονται τα δεδομένα όσον αφορά την επεξεργασία δεδομένων προσωπικού χαρακτήρα, με την επιφύλαξη των δικαιωμάτων των προσώπων στα οποία αναφέρονται τα δεδομένα δυνάμει των άρθρων 73 και 75."
+		},
+		{
+			"lang": "bg",
+			"text": "з) извънсъдебните производства и другите процедури за разрешаване на спорове между администраторите и субектите на данни по отношение на обработването на лични данни, без да се засягат правата на субектите на данни съгласно членове 73 и 75."
+		},
+		{
+			"lang": "hu",
+			"text": "a személyes adatok vonatkozásában az adatkezelő és az érintettek közötti érdekellentétek megoldására irányuló peren kívüli eljárások és egyéb jogvita-rendezési eljárások, az érintettek 73. és 75. cikk szerinti jogainak sérelme nélkül."
+		},
+		{
+			"lang": "mt",
+			"text": "proċeduri barra l-qorti u proċeduri oħrajn ta’ riżoluzzjoni ta’ tilwim għas-soluzzjoni ta’ tilwim bejn il-kontrolluri u s-suġġetti tad-dejta fir-rigward tal-ipproċessar ta’ dejta personali, mingħajr preġudizzju għad-drittijiet tas-suġġetti tad-dejta skont l-Artikoli 73 u 75."
+		},
+		{
+			"lang": "lv",
+			"text": "ārpustiesas procedūrām un citām strīdu risināšanas procedūrām attiecībā uz strīdiem starp pārzini un datu subjektu saistībā ar personas datu apstrādi, neskarot datu subjekta tiesības saskaņā ar 73. un 75. pantu."
+		},
+		{
+			"lang": "ro",
+			"text": "proceduri extrajudiciare și alte proceduri de soluționare a litigiilor pentru soluționarea diferendelor între operatori și persoanele vizate în ceea ce privește prelucrarea datelor cu caracter personal, fără a aduce atingere drepturilor persoanelor vizate, conform articolelor 73 și 75."
+		},
+		{
+			"lang": "sk",
+			"text": "mimosúdne konania a iné postupy riešenia sporov zamerané na riešenie sporov medzi prevádzkovateľmi a dotknutými osobami v súvislosti so spracovaním osobných údajov, bez toho, aby boli dotknuté práva dotknutých osôb podľa článkov 73 a 75."
+		},
+		{
+			"lang": "sl",
+			"text": "izvensodnimi postopki in drugimi postopki reševanja sporov za reševanje sporov med upravljavci in posamezniki, na katere se nanašajo osebni podatki, v zvezi z obdelavo osebnih podatkov, brez poseganja v pravice posameznikov, na katere se nanašajo osebni podatki, v skladu s členoma 73 in 75."
+		},
+		{
+			"lang": "fi",
+			"text": "tuomioistuinten ulkopuoliset ja muut riidanratkaisumenettelyt henkilötietojen käsittelyä koskevien kiistojen ratkaisemiseksi rekisterinpitäjien ja rekisteröityjen välillä, 73–75 artiklaan perustuvia rekisteröityjen oikeuksia rajoittamatta."
+		},
+		{
+			"lang": "pl",
+			"text": "postępowań pozasądowych oraz innych trybów rozstrzygania sporów w celu rozstrzygania sporów między administratorami a podmiotami danych w zakresie przetwarzania danych osobowych, bez uszczerbku dla praw podmiotów danych na mocy art. 73 i 75."
+		},
+		{
+			"lang": "lt",
+			"text": "neteisminio ginčo nagrinėjimo ir kitų ginčo sprendimo procedūrų, pagal kurias sprendžiami su asmens duomenų tvarkymu susiję duomenų valdytojų ir duomenų subjektų ginčai, nepažeidžiant duomenų subjektų teisių pagal 73 ir 75 straipsnius."
+		},
+		{
+			"lang": "nl",
+			"text": "buitengerechtelijke procedures en andere procedures voor geschillenbeslechting tussen voor de verwerking verantwoordelijken en betrokkenen met betrekking tot de verwerking van persoonsgegevens, onverminderd de rechten van de betrokkenen op grond van de artikelen 73 en 75."
+		},
+		{
+			"lang": "sv",
+			"text": "utomrättsliga förfaranden och andra förfaranden för biläggande av tvister mellan registeransvariga och registrerade när det gäller behandling av personuppgifter, utan att detta påverkar de registrerades rättigheter enligt artiklarna 73 och 75."
+		}
+	],
+	"children": [],
+	"title": "Article 38 – Paragraph 1 – Point 8"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "a7p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a7",
+	"text": [
+		{
+			"lang": "en",
+			"text": "If the data subject's consent is to be given in the context of a written declaration which also concerns another matter, the requirement to give consent must be presented distinguishable in its appearance from this other matter."
+		},
+		{
+			"lang": "de",
+			"text": "Soll die Einwilligung durch eine schriftliche Erklärung erfolgen, die noch einen anderen Sachverhalt betrifft, muss das Erfordernis der Einwilligung äußerlich erkennbar von dem anderen Sachverhalt getrennt werden."
+		},
+		{
+			"lang": "fr",
+			"text": "Si le consentement de la personne concernée est requis dans le contexte d'une déclaration écrite qui concerne également une autre affaire, l'exigence du consentement doit apparaître sous une forme qui le distingue de cette autre affaire."
+		},
+		{
+			"lang": "es",
+			"text": "Si el consentimiento del interesado se ha de dar en el contexto de una declaración escrita que también se refiera a otro asunto, el requisito de dar el consentimiento deberá presentarse de tal forma que se distinga de ese otro asunto."
+		},
+		{
+			"lang": "pt",
+			"text": "Se o consentimento do titular dos dados for dado no contexto de uma declaração escrita que diga também respeito a outra matéria, a exigência do consentimento deve ser apresentada de uma forma que a distinga dessa outra matéria."
+		},
+		{
+			"lang": "it",
+			"text": "Se il consenso dell’interessato deve essere fornito nel contesto di una dichiarazione scritta che riguarda anche altre materie, l’obbligo di prestare il consenso deve essere presentato in forma distinguibile dalle altre materie."
+		},
+		{
+			"lang": "ga",
+			"text": "Má tá ar an duine is ábhar do na sonraí toiliú leis an bpróiseáil i gcomhthéacs dearbhaithe i scríbhinn a bhaineann le hábhar eile freisin, ní mór an ceanglas maidir le toiliú a chur i láthair i bhfoirm atá so‑aitheanta ón ábhar eile sin."
+		},
+		{
+			"lang": "cs",
+			"text": "Pokud má být souhlas subjektu údajů vyjádřen písemným prohlášením, které se rovněž týká jiné skutečnosti, musí být požadavek na vyjádření souhlasu svou podobou odlišitelný od této druhé skutečnosti."
+		},
+		{
+			"lang": "da",
+			"text": "Hvis den registreredes samtykke skal gives i en skriftlig erklæring, der også vedrører et andet forhold, skal kravet om samtykke synligt kunne skelnes fra dette andet forhold."
+		},
+		{
+			"lang": "et",
+			"text": "Kui andmesubjekt peab nõusoleku andma kirjaliku kinnitusena, mis hõlmab ka muid küsimusi, siis tuleb nõusoleku andmise taotlus esitada selgelt muudest küsimustest eraldi."
+		},
+		{
+			"lang": "el",
+			"text": "Εάν η συγκατάθεση του προσώπου στο οποίο αναφέρονται τα δεδομένα παρέχεται στο πλαίσιο έγγραφης δήλωσης η οποία αφορά και άλλο θέμα, η απαίτηση παροχής συγκατάθεσης πρέπει να είναι διακριτή σε σχέση με το εν λόγω άλλο θέμα."
+		},
+		{
+			"lang": "bg",
+			"text": "Ако съгласието на субекта на данните бъде дадено в контекста на писмена декларация, която се отнася и до друг въпрос, изискването да се даде съгласие трябва ясно да се различава по вида си от този друг въпрос."
+		},
+		{
+			"lang": "hu",
+			"text": "Amennyiben az érintett hozzájárulását valamely más ügyre is vonatkozó írásos nyilatkozattal összefüggésben kell megadni, a hozzájárulás kérésének megjelenésében megkülönböztethetőnek kell lennie ettől a más ügytől."
+		},
+		{
+			"lang": "mt",
+			"text": "Jekk il-kunsens tas-suġġett tad-dejta għandu jingħata fil-kuntest ta’ dikjarazzjoni bil-miktub li tirrigwarda wkoll kwistjoni oħra, ir-rekwiżit biex jingħata kunsensgħandu jiġi ppreżentat b’mod li jintgħaraf fid-dehra tiegħu minn din il-kwistjoni l-oħra."
+		},
+		{
+			"lang": "lv",
+			"text": "Ja datu subjekta piekrišanu jāsniedz saistībā ar rakstisku deklarāciju, kas attiecas arī uz citu jautājumu, prasība sniegt piekrišanu ir jānorāda tā, lai to varētu atšķirt no šā otra jautājuma."
+		},
+		{
+			"lang": "ro",
+			"text": "În cazul în care consimțământul persoanei vizate urmează să fie acordat în contextul unei declarații scrise care se referă și la un alt aspect, solicitarea de a acorda consimțământul trebuie să fie prezentată într-o formă care o diferențiază de celălalt aspect."
+		},
+		{
+			"lang": "sk",
+			"text": "Ak súhlas dotknutej osoby má byť vyjadrený v rámci písomného vyhlásenia, ktoré sa týka aj inej veci, požiadavka na vyjadrenie súhlasu musí byť svojou podobou odlíšiteľná od tejto druhej veci."
+		},
+		{
+			"lang": "sl",
+			"text": "Če bo privolitev posameznika, na katerega se nanašajo osebni podatki, podana v pisni izjavi, ki se nanaša tudi na drugo zadevo, se mora zahteva glede privolitve po videzu jasno razlikovati od te druge zadeve."
+		},
+		{
+			"lang": "fi",
+			"text": "Jos rekisteröidyn on annettava suostumuksensa kirjallisessa ilmoituksessa, joka koskee myös muita asioita, suostumuksen antamista koskeva vaatimus on esitettävä selvästi erillään näistä muista asioista."
+		},
+		{
+			"lang": "pl",
+			"text": "Jeśli zgoda podmiotu danych ma być udzielona w kontekście pisemnego oświadczenia, które dotyczy także innej kwestii, wymóg udzielenia zgody musi zostać przedstawiony w sposób pozwalający wyraźnie odróżnić go od tej innej kwestii."
+		},
+		{
+			"lang": "lt",
+			"text": "Jeigu duomenų subjekto sutikimas turi būti išreikštas rašytiniu pareiškimu, susijusiu ir su kitu klausimu, reikalavimas duoti sutikimą turi būti pateiktas aiškiai atskyrus nuo to kito klausimo."
+		},
+		{
+			"lang": "nl",
+			"text": "Wanneer de betrokkene zijn toestemming moet geven in het kader van een schriftelijke verklaring die ook op een andere aangelegenheid betrekking heeft, moet het vereiste van toestemming duidelijk afzonderlijk van deze andere aangelegenheid worden weergegeven."
+		},
+		{
+			"lang": "sv",
+			"text": "Om den registrerades samtycke ska lämnas inom ramen för en skriftlig deklaration som också rör en annan fråga, måste kravet att lämna samtycke läggas fram i en sådan form att det kan särskiljas från denna andra fråga."
+		}
+	],
+	"children": [],
+	"title": "Article 7 – Paragraph 2"
+}

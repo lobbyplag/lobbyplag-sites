@@ -1,0 +1,108 @@
+{
+	"id": "a6",
+	"type": "article",
+	"literal": "6",
+	"parent": "c2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Lawfulness of processing"
+		},
+		{
+			"lang": "de",
+			"text": "Rechtmäßigkeit der Verarbeitung"
+		},
+		{
+			"lang": "fr",
+			"text": "Licéité du traitement"
+		},
+		{
+			"lang": "es",
+			"text": "Licitud del tratamiento de datos"
+		},
+		{
+			"lang": "pt",
+			"text": "Licitude do tratamento"
+		},
+		{
+			"lang": "it",
+			"text": "Liceità del trattamento"
+		},
+		{
+			"lang": "ga",
+			"text": "Dlíthiúlacht próiseála"
+		},
+		{
+			"lang": "cs",
+			"text": "Zákonnost zpracování"
+		},
+		{
+			"lang": "da",
+			"text": "Lovlig behandling af personoplysninger"
+		},
+		{
+			"lang": "et",
+			"text": "Töötlemise seaduslikkus"
+		},
+		{
+			"lang": "el",
+			"text": "Νομιμότητα της επεξεργασίας"
+		},
+		{
+			"lang": "bg",
+			"text": "Законосъобразност на обработването"
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatfeldolgozás jogszerűsége"
+		},
+		{
+			"lang": "mt",
+			"text": "Legalità tal-ipproċessar"
+		},
+		{
+			"lang": "lv",
+			"text": "Apstrādes likumīgums"
+		},
+		{
+			"lang": "ro",
+			"text": "Legalitatea prelucrării"
+		},
+		{
+			"lang": "sk",
+			"text": "Zákonnosť spracúvania"
+		},
+		{
+			"lang": "sl",
+			"text": "Zakonitost obdelave"
+		},
+		{
+			"lang": "fi",
+			"text": "Käsittelyn lainmukaisuus"
+		},
+		{
+			"lang": "pl",
+			"text": "Zgodność z prawem przetwarzania"
+		},
+		{
+			"lang": "lt",
+			"text": "Tvarkymo teisėtumas"
+		},
+		{
+			"lang": "nl",
+			"text": "Rechtmatigheid van de verwerking"
+		},
+		{
+			"lang": "sv",
+			"text": "När personuppgifter får behandlas"
+		}
+	],
+	"children": [
+		"a6p1",
+		"a6p2",
+		"a6p3",
+		"a6p4",
+		"a6p5"
+	],
+	"title": "Article 6"
+}

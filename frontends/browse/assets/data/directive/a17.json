@@ -1,0 +1,112 @@
+{
+	"id": "a17",
+	"type": "article",
+	"literal": "17",
+	"parent": "c3s3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Right to be forgotten and to erasure"
+		},
+		{
+			"lang": "de",
+			"text": "Recht auf Vergessenwerden und auf Löschung"
+		},
+		{
+			"lang": "fr",
+			"text": "Droit à l'oubli numérique et à l'effacement"
+		},
+		{
+			"lang": "es",
+			"text": "Derecho al olvido y a la supresión"
+		},
+		{
+			"lang": "pt",
+			"text": "Direito a ser esquecido e ao apagamento"
+		},
+		{
+			"lang": "it",
+			"text": "Diritto all’oblio e alla cancellazione"
+		},
+		{
+			"lang": "ga",
+			"text": "An ceart sonraí a dhearmad agus a scriosadh"
+		},
+		{
+			"lang": "cs",
+			"text": "Právo být zapomenut a právo na výmaz"
+		},
+		{
+			"lang": "da",
+			"text": "Ret til at blive glemt og ret til sletning"
+		},
+		{
+			"lang": "et",
+			"text": "Õigus olla unustatud ja õigus andmete kustutamisele"
+		},
+		{
+			"lang": "el",
+			"text": "Δικαίωμα των φυσικών προσώπων «να λησμονηθούν» και δικαίωμα διαγραφής"
+		},
+		{
+			"lang": "bg",
+			"text": "Право „да бъдеш забравен“ и право на заличаване"
+		},
+		{
+			"lang": "hu",
+			"text": "A személyes adatok tárolásának megszüntetéséhez és a törléshez való jog"
+		},
+		{
+			"lang": "mt",
+			"text": "Dritt li jkun minsi u għal tħassir"
+		},
+		{
+			"lang": "lv",
+			"text": "Tiesības tikt aizmirstam un tiesības uz dzēšanu"
+		},
+		{
+			"lang": "ro",
+			"text": "Dreptul de a fi uitat și de a fi șters"
+		},
+		{
+			"lang": "sk",
+			"text": "Právo byť zabudnutý a právo na výmaz"
+		},
+		{
+			"lang": "sl",
+			"text": "Pravica biti pozabljen in pravica do izbrisa"
+		},
+		{
+			"lang": "fi",
+			"text": "Oikeus tulla unohdetuksi ja poistaa tiedot"
+		},
+		{
+			"lang": "pl",
+			"text": "Prawo do bycia zapomnianym i do usunięcia danych"
+		},
+		{
+			"lang": "lt",
+			"text": "Teisė būti pamirštam ir teisė reikalauti ištrinti duomenis"
+		},
+		{
+			"lang": "nl",
+			"text": "Recht om te worden vergeten en om gegevens te laten wissen"
+		},
+		{
+			"lang": "sv",
+			"text": "Rätt att bli bortglömd och till radering"
+		}
+	],
+	"children": [
+		"a17p1",
+		"a17p2",
+		"a17p3",
+		"a17p4",
+		"a17p5",
+		"a17p6",
+		"a17p7",
+		"a17p8",
+		"a17p9"
+	],
+	"title": "Article 17"
+}

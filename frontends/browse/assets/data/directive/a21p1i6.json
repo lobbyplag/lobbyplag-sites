@@ -1,0 +1,102 @@
+{
+	"id": "a21p1i6",
+	"type": "point",
+	"literal": "f",
+	"parent": "a21p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the protection of the data subject or the rights and freedoms of others."
+		},
+		{
+			"lang": "de",
+			"text": "zum Schutz der betroffenen Person und der Rechte und Freiheiten anderer Personen."
+		},
+		{
+			"lang": "fr",
+			"text": "garantir la protection de la personne concernée ou des droits et libertés d'autrui."
+		},
+		{
+			"lang": "es",
+			"text": "la protección del interesado o de los derechos y libertades de otras personas."
+		},
+		{
+			"lang": "pt",
+			"text": "A proteção do titular dos dados ou dos direitos e liberdades de outrem."
+		},
+		{
+			"lang": "it",
+			"text": "la tutela dell’interessato o dei diritti e delle libertà altrui;"
+		},
+		{
+			"lang": "ga",
+			"text": "chun cosaint a áirithiú don duine is ábhar do na sonraí nó do chearta agus saoirsí daoine eile."
+		},
+		{
+			"lang": "cs",
+			"text": "ochranu subjektu údajů nebo práv a svobod druhých."
+		},
+		{
+			"lang": "da",
+			"text": "beskyttelse af den registreredes interesser eller andres rettigheder og frihedsrettigheder."
+		},
+		{
+			"lang": "et",
+			"text": "andmesubjekti kaitse või teiste isikute õiguste ja vabaduste kaitse."
+		},
+		{
+			"lang": "el",
+			"text": "στ) της προστασίας του προσώπου στο οποίο αναφέρονται τα δεδομένα ή των δικαιωμάτων και των ελευθεριών τρίτων."
+		},
+		{
+			"lang": "bg",
+			"text": "е) защитата на субекта на данните или на правата и свободите на други лица."
+		},
+		{
+			"lang": "hu",
+			"text": "az érintett, vagy mások jogainak és szabadságainak védelme."
+		},
+		{
+			"lang": "mt",
+			"text": "il-protezzjoni tas-suġġett tad-dejta jew id-drittijiet u l-libertajiet ta’ oħrajn."
+		},
+		{
+			"lang": "lv",
+			"text": "datu subjekta aizsardzību vai citu personu tiesību un brīvību aizsardzību."
+		},
+		{
+			"lang": "ro",
+			"text": "asigura protecția persoanei vizate sau a drepturilor și libertăților altora."
+		},
+		{
+			"lang": "sk",
+			"text": "ochranu dotknutej osoby alebo práv a slobôd iných."
+		},
+		{
+			"lang": "sl",
+			"text": "za zaščito posameznika, na katerega se nanašajo osebni podatki, ali pravic in svoboščin drugih."
+		},
+		{
+			"lang": "fi",
+			"text": "rekisteröidyn tai muille kuuluvien oikeuksien ja vapauksien suojelu."
+		},
+		{
+			"lang": "pl",
+			"text": "ochronie podmiotu danych lub praw i wolności innych osób."
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų subjekto apsaugą arba kitų asmenų teises ir laisves."
+		},
+		{
+			"lang": "nl",
+			"text": "de bescherming van de betrokkene of van de rechten en vrijheden van anderen."
+		},
+		{
+			"lang": "sv",
+			"text": "skydd av den registrerade eller andras fri- och rättigheter."
+		}
+	],
+	"children": [],
+	"title": "Article 21 – Paragraph 1 – Point 6"
+}

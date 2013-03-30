@@ -1,0 +1,102 @@
+{
+	"id": "a21p1i5",
+	"type": "point",
+	"literal": "e",
+	"parent": "a21p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "a monitoring, inspection or regulatory function connected, even occasionally, with the exercise of official authority in cases referred to in (a), (b), (c) and (d);"
+		},
+		{
+			"lang": "de",
+			"text": "für Kontroll-, Überwachungs- und Ordnungsfunktionen, die dauernd oder zeitweise mit der Ausübung öffentlicher Gewalt für die unter den Buchstaben a, b, c und d genannten Zwecke verbunden sind"
+		},
+		{
+			"lang": "fr",
+			"text": "assurer une mission de contrôle, d'inspection ou de réglementation liée, même occasionnellement, à l'exercice de l'autorité publique, dans les cas visés aux points a), b), c) et d);"
+		},
+		{
+			"lang": "es",
+			"text": "una función reglamentaria, de inspección o de supervisión relacionada, incluso ocasionalmente, con el ejercicio de la autoridad pública en los casos contemplados en las letras a), b), c) y d);"
+		},
+		{
+			"lang": "pt",
+			"text": "Uma missão de controlo, de inspeção ou de regulamentação associada, ainda que ocasionalmente, ao exercício da autoridade pública, nos casos referidos nas alíneas a), b), c) e d);"
+		},
+		{
+			"lang": "it",
+			"text": "una funzione di controllo, d’ispezione o di regolamentazione connessa, anche occasionalmente, all’esercizio di pubblici poteri nei casi di cui alle lettere a), b), c), e d);"
+		},
+		{
+			"lang": "ga",
+			"text": "chun a áirithiú go ndéantar faireachán, imscrúdú nó feidhm rialála a bhfuil baint acu, fiú go hócáideach, le feidhmiú údaráis oifigiúil sna cásanna dá dtagraítear i bpointí (a), (b), (c) agus (d);"
+		},
+		{
+			"lang": "cs",
+			"text": "kontrolní, inspekční nebo regulační funkce vyplývající, i pouze příležitostně, z výkonu veřejné moci v případech uvedených v písmenech a), b) c) a d);"
+		},
+		{
+			"lang": "da",
+			"text": "kontrol-, tilsyns- eller reguleringsfunktioner, selv af midlertidig karakter, der er et led i den offentlige myndighedsudøvelse i de tilfælde, der er nævnt i litra a)-d)"
+		},
+		{
+			"lang": "et",
+			"text": "jälgimine, kontrollimine ja regulatiivsete ülesannete täitmine, mis on kas või ajutiselt seotud avaliku võimu teostamisega punktides a, b, c ja d osutatud juhtudel;"
+		},
+		{
+			"lang": "el",
+			"text": "ε) της παρακολούθησης, του ελέγχου ή κανονιστικού καθήκοντος το οποίο συνδέεται, έστω περιστασιακά, με την άσκηση δημόσιας εξουσίας στις περιπτώσεις που αναφέρονται στα στοιχεία α), β), γ) και δ)·"
+		},
+		{
+			"lang": "bg",
+			"text": "д) функция по наблюдението, проверката или регламентирането, свързана, дори само понякога, с упражняването на официални правомощия в случаите, посочени в букви а), б), в) и г);"
+		},
+		{
+			"lang": "hu",
+			"text": "az a), b) c) és d) pontban említett esetekben – akár alkalmanként – a közhatalom gyakorlásához kapcsolódó ellenőrzési, felügyeleti és szabályozási tevékenység;"
+		},
+		{
+			"lang": "mt",
+			"text": "funzjoni regolatorja ta’ spezzjoni jew ta’ superviżjoni marbuta, anki jekk okkażjonalment, mal-eżerċizzju ta’ awtorità uffiċjali f’każijiet imsemmija f’(a), (b), (c) u (d);"
+		},
+		{
+			"lang": "lv",
+			"text": "uzraudzības, pārbaudes vai regulatīvo funkciju, kas pat tikai epizodiski, ir saistīta ar valsts varas īstenošanu a), b), c) un e) apakšpunktā minētajos gadījumos;"
+		},
+		{
+			"lang": "ro",
+			"text": "asigura funcția de monitorizare, inspectare sau reglementare legată, chiar și ocazional, de exercitarea autorității publice în cazurile menționate la literele (a), (b),(c) și (d);"
+		},
+		{
+			"lang": "sk",
+			"text": "monitorovaciu, kontrolnú alebo regulačnú funkciu spojenú, hoci aj príležitostne, s výkonom úloh oficiálneho orgánu v prípadoch uvedených v písmenách a), b), c) a d);"
+		},
+		{
+			"lang": "sl",
+			"text": "za spremljanje, pregledovanje ali urejanje, povezano, četudi občasno, z izvajanjem javne oblasti v primerih iz točk (a), (b) (c) in (d);"
+		},
+		{
+			"lang": "fi",
+			"text": "valvonta-, tarkastus- tai sääntelytehtävä, joka satunnaisestikin liittyy julkisen vallan käyttämiseen a–d alakohdassa tarkoitetuissa tapauksissa;"
+		},
+		{
+			"lang": "pl",
+			"text": "zapewnieniu funkcji kontrolnych, inspekcyjnych i regulacyjnych związanych, nawet sporadycznie, z wykonywaniem władzy publicznej w przypadkach, o których mowa w lit. a), b) c) i d);"
+		},
+		{
+			"lang": "lt",
+			"text": "stebėjimo, tikrinimo ar reguliavimo funkciją, kuri, net ir laikinai, yra susijusi su naudojimusi valdžios įgaliojimais šios dalies a, b, c ir d punktuose nurodytais atvejais;"
+		},
+		{
+			"lang": "nl",
+			"text": "een taak op het gebied van toezicht, inspectie of regelgeving die verbonden is, ook al is dit incidenteel, met de uitoefening van het openbaar gezag in de onder a), b), c) en d), bedoelde gevallen;"
+		},
+		{
+			"lang": "sv",
+			"text": "en tillsyns-, inspektions- eller regleringsfunktion som, även om den är av övergående karaktär, är förbunden med myndighetsutövning i de i led a, b, c och d nämnda fallen,"
+		}
+	],
+	"children": [],
+	"title": "Article 21 – Paragraph 1 – Point 5"
+}

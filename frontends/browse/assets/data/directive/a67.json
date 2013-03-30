@@ -1,0 +1,105 @@
+{
+	"id": "a67",
+	"type": "article",
+	"literal": "67",
+	"parent": "c7s3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Reports"
+		},
+		{
+			"lang": "de",
+			"text": "Berichterstattung"
+		},
+		{
+			"lang": "fr",
+			"text": "Rapports"
+		},
+		{
+			"lang": "es",
+			"text": "Informes"
+		},
+		{
+			"lang": "pt",
+			"text": "Relatórios"
+		},
+		{
+			"lang": "it",
+			"text": "Relazioni"
+		},
+		{
+			"lang": "ga",
+			"text": "Tuarascálacha"
+		},
+		{
+			"lang": "cs",
+			"text": "Zprávy"
+		},
+		{
+			"lang": "da",
+			"text": "Rapporter"
+		},
+		{
+			"lang": "et",
+			"text": "Aruanded"
+		},
+		{
+			"lang": "el",
+			"text": "Εκθέσεις"
+		},
+		{
+			"lang": "bg",
+			"text": "Доклади"
+		},
+		{
+			"lang": "hu",
+			"text": "Jelentések"
+		},
+		{
+			"lang": "mt",
+			"text": "Rapporti"
+		},
+		{
+			"lang": "lv",
+			"text": "Ziņojumi"
+		},
+		{
+			"lang": "ro",
+			"text": "Rapoarte"
+		},
+		{
+			"lang": "sk",
+			"text": "Podávanie správ"
+		},
+		{
+			"lang": "sl",
+			"text": "Poročila"
+		},
+		{
+			"lang": "fi",
+			"text": "Kertomukset"
+		},
+		{
+			"lang": "pl",
+			"text": "Sprawozdania"
+		},
+		{
+			"lang": "lt",
+			"text": "Ataskaitos"
+		},
+		{
+			"lang": "nl",
+			"text": "Rapportage"
+		},
+		{
+			"lang": "sv",
+			"text": "Rapporter"
+		}
+	],
+	"children": [
+		"a67p1",
+		"a67p2"
+	],
+	"title": "Article 67"
+}

@@ -1,0 +1,113 @@
+{
+	"id": "a55",
+	"type": "article",
+	"literal": "55",
+	"parent": "c7s1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Mutual assistance"
+		},
+		{
+			"lang": "de",
+			"text": "Amtshilfe"
+		},
+		{
+			"lang": "fr",
+			"text": "Assistance mutuelle"
+		},
+		{
+			"lang": "es",
+			"text": "Asistencia mutua"
+		},
+		{
+			"lang": "pt",
+			"text": "Assistência mútua"
+		},
+		{
+			"lang": "it",
+			"text": "Assistenza reciproca"
+		},
+		{
+			"lang": "ga",
+			"text": "Cúnamh frithpháirteach"
+		},
+		{
+			"lang": "cs",
+			"text": "Vzájemná pomoc"
+		},
+		{
+			"lang": "da",
+			"text": "Gensidig bistand"
+		},
+		{
+			"lang": "et",
+			"text": "Vastastikune abi"
+		},
+		{
+			"lang": "el",
+			"text": "Αμοιβαία συνδρομή"
+		},
+		{
+			"lang": "bg",
+			"text": "Взаимопомощ"
+		},
+		{
+			"lang": "hu",
+			"text": "Kölcsönös segítségnyújtás"
+		},
+		{
+			"lang": "mt",
+			"text": "Assistenza reċiproka"
+		},
+		{
+			"lang": "lv",
+			"text": "Savstarpēja palīdzība"
+		},
+		{
+			"lang": "ro",
+			"text": "Asistență reciprocă"
+		},
+		{
+			"lang": "sk",
+			"text": "Vzájomná pomoc"
+		},
+		{
+			"lang": "sl",
+			"text": "Medsebojna pomoč"
+		},
+		{
+			"lang": "fi",
+			"text": "Keskinäinen avunanto"
+		},
+		{
+			"lang": "pl",
+			"text": "Wzajemna pomoc"
+		},
+		{
+			"lang": "lt",
+			"text": "Savitarpio pagalba"
+		},
+		{
+			"lang": "nl",
+			"text": "Wederzijdse bijstand"
+		},
+		{
+			"lang": "sv",
+			"text": "Ömsesidigt bistånd"
+		}
+	],
+	"children": [
+		"a55p1",
+		"a55p2",
+		"a55p3",
+		"a55p4",
+		"a55p5",
+		"a55p6",
+		"a55p7",
+		"a55p8",
+		"a55p9",
+		"a55p10"
+	],
+	"title": "Article 55"
+}

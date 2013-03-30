@@ -1,0 +1,102 @@
+{
+	"id": "a43p2i2",
+	"type": "point",
+	"literal": "b",
+	"parent": "a43p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the data transfers or set of transfers, including the categories of personal data, the type of processing and its purposes, the type of data subjects affected and the identification of the third country or countries in question;"
+		},
+		{
+			"lang": "de",
+			"text": "die betreffenden Datenübermittlungen oder Datenübermittlungskategorien einschließlich der betreffenden Kategorien personenbezogener Daten, Art und Zweck der Datenverarbeitung, Art der betroffenen Personen und das betreffende Drittland beziehungsweise die betreffenden Drittländer;"
+		},
+		{
+			"lang": "fr",
+			"text": "le transfert ou l'ensemble de transferts de données, y compris les catégories de données à caractère personnel, le type de traitement et ses finalités, la catégorie de personnes concernées et le nom du ou des pays tiers en question;"
+		},
+		{
+			"lang": "es",
+			"text": "las transferencias o serie de transferencias de datos, incluidas las categorías de datos personales, el tipo de tratamientos y sus fines, el tipo de interesados afectados y el nombre del tercer o los terceros países en cuestión;"
+		},
+		{
+			"lang": "pt",
+			"text": "As transferências ou conjunto de transferências de dados, incluindo as categorias de dados pessoais, o tipo de tratamento e as finalidades, o tipo de titulares de dados afetado e a identificação do país ou países terceiros em questão;"
+		},
+		{
+			"lang": "it",
+			"text": "i trasferimenti o l’insieme di trasferimenti di dati, in particolare le categorie di dati personali, il tipo di trattamento e relative finalità, il tipo di interessati cui si riferiscono i dati e l’identificazione del paese terzo o dei paesi terzi in questione;"
+		},
+		{
+			"lang": "ga",
+			"text": "na haistrithe sonraí nó an tacar aistrithe sonraí, lena n‑áirítear na catagóirí sonraí pearsanta, an cineál próiseála a dhéantar agus críocha na próiseála sin, an cineál duine is ábhar do shonraí ar a n‑imrítear tionchar agus ainm an tríú tír nó ainmneacha na dtríú tíortha i gceist;"
+		},
+		{
+			"lang": "cs",
+			"text": "předání údajů nebo řadu předání, včetně kategorií osobních údajů, typu zpracování a jeho účelu, typu dotčených subjektů údajů a určení dané třetí země nebo daných třetích zemí;"
+		},
+		{
+			"lang": "da",
+			"text": "videregivelserne eller en serie af videregivelser, herunder kategorier af personoplysninger, behandlingstype og -formål, typen af berørte registrerede og identifikation af det pågældende tredjeland eller de pågældende tredjelande"
+		},
+		{
+			"lang": "et",
+			"text": "edastamine või edastamistoimingute kogumid, sealhulgas isikuandmete liigid, töötlemisviis ja selle eesmärgid, mõjutatud andmesubjektid ning kõnealuse kolmanda riigi või riikide andmed;"
+		},
+		{
+			"lang": "el",
+			"text": "β) τις διαβιβάσεις ή τις σειρές διαβιβάσεων δεδομένων, συμπεριλαμβανομένων των κατηγοριών δεδομένων προσωπικού χαρακτήρα, των τύπων επεξεργασίας και των σκοπών της, του τύπου προσώπων στα οποία αναφέρονται τα δεδομένα που επηρεάζονται, και την εν λόγω τρίτη χώρα ή τις τρίτες χώρες·"
+		},
+		{
+			"lang": "bg",
+			"text": "б) предаването на данни или съвкупността от предавания на данни, включително категориите лични данни, видът на обработването и неговите цели, видът на засегнатите субекти на данни и се посочва въпросната трета държава или държави;"
+		},
+		{
+			"lang": "hu",
+			"text": "az adatok továbbítása vagy továbbítássorozata, beleértve a személyes adatok kategóriáit, a feldolgozás fajtáját és céljait, az érintettek fajtáit és a kérdéses harmadik ország vagy országok azonosítását;"
+		},
+		{
+			"lang": "mt",
+			"text": "it-trasferimenti tad-dejta jew sett ta’trasferimenti, inklużi l-kategoriji ta’ dejta personali, it-tip ta’ pproċessar u l-għanijiet tiegħu, it-tip ta’ suġġetti tad-dejta affettwati u l-identifikazzjoni tal-pajjiż terzi jew pajjiżi inkwistjoni;"
+		},
+		{
+			"lang": "lv",
+			"text": "datu nosūtīšanu vai vairākkārtēju nosūtīšanu, ietverot personas datu kategorijas, apstrādes veidu un nolūkus, attiecīgo datu subjektu veidu un attiecīgās trešās valsts vai valstu identifikāciju;"
+		},
+		{
+			"lang": "ro",
+			"text": "transferurile de date sau setul de transferuri, inclusiv categoriile de date cu caracter personal, tipul prelucrării și scopurile prelucrării, categoriile de persoane vizate și identificarea țării terțe sau a țărilor terțe în cauză;"
+		},
+		{
+			"lang": "sk",
+			"text": "prenosy údajov alebo súbory prenosov vrátane kategórií osobných údajov, druhu spracovania a jeho účelov, typov dotknutých osôb, ktorých sa spracovanie týka a označenie predmetnej tretej krajiny či krajín;"
+		},
+		{
+			"lang": "sl",
+			"text": "prenose podatkov ali nize prenosov, vključno z vrstami osebnih podatkov, vrsto obdelave in njenimi nameni, vrsto posameznikov, na katere se nanašajo osebni podatki in na katere ta pravila vplivajo, ter opredelitvijo zadevne tretje države ali držav;"
+		},
+		{
+			"lang": "fi",
+			"text": "tiedonsiirrot tai tiedonsiirtojen sarjat, henkilötietojen ryhmät mukaan lukien, käsittelytoimien tyyppi ja käsittelyn tarkoitukset, käsittelyn kohteena olevien rekisteröityjen ryhmä sekä tieto siitä, mistä kolmannesta maasta tai kolmansista maista on kyse;"
+		},
+		{
+			"lang": "pl",
+			"text": "operację lub zestaw operacji przekazywania danych, w tym kategorie danych osobowych, rodzaj przetwarzania i jego cele, typy podmiotów danych oraz nazwę państwa trzeciego lub państw trzecich:"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų perdavimai arba perdavimų seka, įskaitant asmens duomenų kategorijas, duomenų tvarkymo rūšį ir jo tikslus, susijusius duomenų subjektus ir atitinkamą trečiąją šalį arba šalis;"
+		},
+		{
+			"lang": "nl",
+			"text": "de gegevensdoorgiften of categorie doorgiften, met inbegrip van de categorieën persoonsgegevens, het soort verwerking en de doeleinden daarvan, het soort betrokkenen en de naam van het betrokken derde land of de betrokken derde landen;"
+		},
+		{
+			"lang": "sv",
+			"text": "vilka överföringar eller serier av överföringar av uppgifter som omfattas, inklusive kategorierna av personuppgifter, typen av behandling och dess ändamål, den typ av registrerade som berörs samt vilket eller vilka tredjeländer som avses,"
+		}
+	],
+	"children": [],
+	"title": "Article 43 – Paragraph 2 – Point 2"
+}

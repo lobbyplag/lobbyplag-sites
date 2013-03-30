@@ -1,0 +1,102 @@
+{
+	"id": "a30p4i3",
+	"type": "point",
+	"literal": "c",
+	"parent": "a30p4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "ensure the verification of the lawfulness of processing operations."
+		},
+		{
+			"lang": "de",
+			"text": "sicherzustellen, dass die Rechtmäßigkeit der Verarbeitungsvorgänge überprüft wird."
+		},
+		{
+			"lang": "fr",
+			"text": "d'assurer la vérification de la licéité des traitements."
+		},
+		{
+			"lang": "es",
+			"text": "garantizar la verificación de la legalidad de las operaciones de tratamiento."
+		},
+		{
+			"lang": "pt",
+			"text": "Assegurar a verificação da licitude das operações de tratamento de dados."
+		},
+		{
+			"lang": "it",
+			"text": "garantire la verifica della liceità del trattamento."
+		},
+		{
+			"lang": "ga",
+			"text": "chun a áirithiú go bhfíorófar dlíthiúlacht na n‑oibríochtaí próiseála."
+		},
+		{
+			"lang": "cs",
+			"text": "zajistila ověření zákonnosti zpracování."
+		},
+		{
+			"lang": "da",
+			"text": "at sikre kontrol af behandlingens lovlighed."
+		},
+		{
+			"lang": "et",
+			"text": "tagada töötlemistoimingute õiguspärasuse kontrollimine."
+		},
+		{
+			"lang": "el",
+			"text": "γ) τη διασφάλιση του ελέγχου της νομιμότητας των πράξεων επεξεργασίας."
+		},
+		{
+			"lang": "bg",
+			"text": "в) да се гарантира проверката на законосъобразността на операциите по обработване."
+		},
+		{
+			"lang": "hu",
+			"text": "a feldolgozási műveletek törvényességi felülvizsgálatának biztosítása"
+		},
+		{
+			"lang": "mt",
+			"text": "tiżgura l-verifika tal-legalità tal-operazzjonijiet ta’ pproċessar."
+		},
+		{
+			"lang": "lv",
+			"text": "nodrošinātu apstrādes darbību likumības pārbaudi."
+		},
+		{
+			"lang": "ro",
+			"text": "asigura verificarea legalității operațiunilor de prelucrare."
+		},
+		{
+			"lang": "sk",
+			"text": "zabezpečiť overenie zákonnosti operácií spracovania."
+		},
+		{
+			"lang": "sl",
+			"text": "zagotovi preverjanje zakonitosti postopkov obdelave."
+		},
+		{
+			"lang": "fi",
+			"text": "käsittelytoimien lainmukaisuuden todentamiseksi."
+		},
+		{
+			"lang": "pl",
+			"text": "zapewnienia weryfikacji zgodności z prawem operacji przetwarzania."
+		},
+		{
+			"lang": "lt",
+			"text": "užtikrinti, kad būtų tikrinamas duomenų tvarkymo operacijų teisėtumas."
+		},
+		{
+			"lang": "nl",
+			"text": "ervoor te zorgen dat de rechtmatigheid van verwerkingen wordt geverifieerd."
+		},
+		{
+			"lang": "sv",
+			"text": "se till att det kontrolleras att behandlingen är laglig."
+		}
+	],
+	"children": [],
+	"title": "Article 30 – Paragraph 4 – Point 3"
+}

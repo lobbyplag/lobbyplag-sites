@@ -1,0 +1,102 @@
+{
+	"id": "a34p2i1",
+	"type": "point",
+	"literal": "a",
+	"parent": "a34p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "a data protection impact assessment as provided for in Article 33 indicates that processing operations are by virtue of their nature, their scope or their purposes, likely to present a high degree of specific risks; or"
+		},
+		{
+			"lang": "de",
+			"text": "aus einer Datenschutz-Folgenabschätzung nach Artikel 33 hervorgeht, dass die geplanten Verarbeitungsvorgänge aufgrund ihres Wesens, ihres Umfangs oder ihrer Zwecke hohe konkrete Risiken bergen können; oder"
+		},
+		{
+			"lang": "fr",
+			"text": "lorsqu'une analyse d’impact relative à la protection des données telle que prévue à l’article 33 indique que les traitements sont, du fait de leur nature, de leur portée ou de leurs finalités, susceptibles de présenter un degré élevé de risques particuliers; ou"
+		},
+		{
+			"lang": "es",
+			"text": "una evaluación del impacto en la protección de los datos, tal como dispone el artículo 33, indique que es probable que las operaciones de tratamiento, por su naturaleza, alcance o fines, entrañen un elevado nivel de riesgos específicos; o"
+		},
+		{
+			"lang": "pt",
+			"text": "Uma avaliação de impacto sobre a proteção de dados, como prevista no artigo 33.º, indicar que as operações de tratamento, devido à sua natureza, âmbito ou finalidade, podem apresentar um elevado nível de riscos específicos; ou"
+		},
+		{
+			"lang": "it",
+			"text": "la valutazione d’impatto sulla protezione dei dati di cui all’articolo 33 indichi che il trattamento, per la sua natura, il suo oggetto o le sue finalità, può presentare un alto grado di rischi specifici, oppure"
+		},
+		{
+			"lang": "ga",
+			"text": "i gcás ina dtugtar le tuiscint i measúnú tionchair ar chosaint sonraí dá bhforáiltear in Airteagal 33 gur dócha go mbainfeadh roinnt mhaith rioscaí sonracha le hoibríochtaí próiseála mar gheall ar chineál na n‑oibríochtaí sin, raon feidhme na n‑oibríochtaí nó cuspóirí na n‑oibríochtaí; nó"
+		},
+		{
+			"lang": "cs",
+			"text": "posouzení dopadu na ochranu údajů, jak je stanoveno v článku 33, nasvědčuje tomu, že zpracování bude kvůli své povaze, rozsahu nebo účelu spojeno s vysokou mírou pravděpodobných specifických rizik, nebo"
+		},
+		{
+			"lang": "da",
+			"text": "en konsekvensanalyse vedrørende databeskyttelse udført i henhold til artikel 33 viser, at en behandling i medfør af dens karakter, omfang eller formål kan indebære store konkrete risici, eller"
+		},
+		{
+			"lang": "et",
+			"text": "artiklis 33 sätestatud isikuandmete kaitse mõjuhinnangu kohaselt kujutavad töötlemistoimingud oma laadi, ulatuse ja eesmärkide tõttu endast konkreetset ja märkimisväärset ohtu või"
+		},
+		{
+			"lang": "el",
+			"text": "α) η εκτίμηση επιπτώσεων σχετικά με την προστασία των δεδομένων, η οποία προβλέπεται στο άρθρο 33, υποδεικνύει ότι οι πράξεις επεξεργασίας ενδέχεται, λόγω της φύσης, της έκτασης ή του σκοπού τους, να ενέχουν υψηλό βαθμό συγκεκριμένων κινδύνων· ή"
+		},
+		{
+			"lang": "bg",
+			"text": "а) дадена оценка на въздействието върху защитата на данните, както е предвидена в член 33, показва, че поради своето естество, обхват или цели операциите по обработване има вероятност да създадат висока степен на конкретни рискове; или"
+		},
+		{
+			"lang": "hu",
+			"text": "a 33. cikk szerinti adatvédelmi hatásvizsgálat azt jelzi, hogy a feldolgozási műveletek jellegüknél, alkalmazási területüknél vagy céljaiknál fogva várhatóan magas szintű különleges kockázatot jelentenek; vagy"
+		},
+		{
+			"lang": "mt",
+			"text": "valutazzjoni tal-impatt fuq il-protezzjoni tad-dejta kif ipprovduta fl-Artikolu 33 tindika li l-operazzjonijiet ta’ pproċessar, minħabba n-natura tagħhom, l-ambitu tagħhom jew l-għanijiet tagħhom, aktarx li jippreżentaw grad għoli ta’ riskji speċifiċi; jew"
+		},
+		{
+			"lang": "lv",
+			"text": "no datu aizsardzības ietekmes novērtējuma, kas paredzēts 33. pantā, izriet, ka apstrādes darbības savas būtības, apmēra vai nolūku dēļ var radīt augsta līmeņa īpašu apdraudējumu; vai"
+		},
+		{
+			"lang": "ro",
+			"text": "o evaluare a impactului privind protecția datelor, astfel cum se prevede la articolul 33, indică faptul că operațiunile de prelucrare pot prezenta, prin însăși natura, domeniul de aplicare sau scopurile lor, un grad înalt de riscuri specifice; sau"
+		},
+		{
+			"lang": "sk",
+			"text": "v posúdení vplyvu na ochranu údajov podľa článku 33 sa uvádza, že operácie spracovania by z dôvodu svojej povahy, rozsahu alebo účelov mohli predstavovať vysoký stupeň špecifických rizík, alebo"
+		},
+		{
+			"lang": "sl",
+			"text": "ocena učinka o varstvu podatkov iz člena 33 kaže, da zaradi svoje narave, obsega ali namenov postopki obdelave verjetno predstavljajo visoko raven posebnih nevarnosti; ali"
+		},
+		{
+			"lang": "fi",
+			"text": "33 artiklassa tarkoitettu tietosuojaa koskeva vaikutustenarviointi osoittaa, että käsittelytoimiin todennäköisesti liittyy niiden luonteen, laajuuden tai tarkoitusten vuoksi merkittäviä erityisiä riskejä; tai"
+		},
+		{
+			"lang": "pl",
+			"text": "ocena skutków ochrony danych przewidziana w art. 33 wskazuje, że operacje przetwarzania danych mogą, ze względu na swój charakter, zakres lub cele, wiązać się z wysokim poziomem szczególnych ryzyk; lub"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų apsaugos poveikio vertinime pagal 33 straipsnį nurodyta, kad atliekant duomenų tvarkymo operacijas dėl jų pobūdžio, aprėpties ar tikslų gali kilti didelė konkreti rizika; arba"
+		},
+		{
+			"lang": "nl",
+			"text": "een privacyeffectbeoordeling als bedoeld in artikel 33 aangeeft dat verwerkingen vanwege hun aard, hun omvang of hun doel waarschijnlijk grote specifieke risico’s met zich brengen; of"
+		},
+		{
+			"lang": "sv",
+			"text": "en konsekvensbedömning avseende uppgiftsskydd enligt artikel 33 visar att behandlingen på grund av sin karaktär, sin omfattning eller sina ändamål sannolikt medför höggradiga särskilda risker, eller"
+		}
+	],
+	"children": [],
+	"title": "Article 34 – Paragraph 2 – Point 1"
+}

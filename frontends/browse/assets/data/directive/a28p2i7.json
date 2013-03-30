@@ -1,0 +1,102 @@
+{
+	"id": "a28p2i7",
+	"type": "point",
+	"literal": "g",
+	"parent": "a28p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "a general indication of the time limits for erasure of the different categories of data;"
+		},
+		{
+			"lang": "de",
+			"text": "eine allgemeine Angabe der Fristen für die Löschung der verschiedenen Datenkategorien;"
+		},
+		{
+			"lang": "fr",
+			"text": "une indication générale des délais impartis pour l'effacement des différentes catégories de données;"
+		},
+		{
+			"lang": "es",
+			"text": "una indicación general de los plazos establecidos para la supresión de las diferentes categorías de datos;"
+		},
+		{
+			"lang": "pt",
+			"text": "Uma indicação geral dos prazos fixados para o apagamento das diferentes categorias de dados;"
+		},
+		{
+			"lang": "it",
+			"text": "indicazione generale dei termini ultimi per cancellare le diverse categorie di dati;"
+		},
+		{
+			"lang": "ga",
+			"text": "sonrú ginearálta maidir leis na teorainneacha ama a bhaineann le scriosadh catagóirí éagsúla sonraí;"
+		},
+		{
+			"lang": "cs",
+			"text": "obecné informace o lhůtách pro výmaz jednotlivých kategorií údajů;"
+		},
+		{
+			"lang": "da",
+			"text": "en generel angivelse af tidsfristerne for sletning af de forskellige kategorier af personoplysninger"
+		},
+		{
+			"lang": "et",
+			"text": "üldine teave eri andmeliikide kustutamise tähtaja kohta;"
+		},
+		{
+			"lang": "el",
+			"text": "ζ) γενική αναφορά στις προθεσμίες για τη διαγραφή των διαφόρων κατηγοριών δεδομένων·"
+		},
+		{
+			"lang": "bg",
+			"text": "ж) общо указване на сроковете за заличаване на различните категории данни;"
+		},
+		{
+			"lang": "hu",
+			"text": "a különböző adatkategóriák törlésére vonatkozó határidők általános meghatározása;"
+		},
+		{
+			"lang": "mt",
+			"text": "indikazzjoni ġenerali tal-limiti ta’ żmien għat-tħassir tad-diversi kategoriji ta’ dejta;"
+		},
+		{
+			"lang": "lv",
+			"text": "vispārīgu norādi par dažādu kategoriju datu dzēšanas termiņiem;"
+		},
+		{
+			"lang": "ro",
+			"text": "o indicație generală a termenelor-limită pentru ștergerea diferitelor categorii de date;"
+		},
+		{
+			"lang": "sk",
+			"text": "všeobecné určenie lehôt na výmaz rôznych kategórií údajov;"
+		},
+		{
+			"lang": "sl",
+			"text": "splošni navedbi rokov za izbris različnih vrst podatkov;"
+		},
+		{
+			"lang": "fi",
+			"text": "yleinen maininta eri tietoryhmien poistamisen määräajoista;"
+		},
+		{
+			"lang": "pl",
+			"text": "ogólnego wskazania terminów usunięcia różnych kategorii danych;"
+		},
+		{
+			"lang": "lt",
+			"text": "bendra informacija apie skirtingų kategorijų duomenų ištrynimo terminus;"
+		},
+		{
+			"lang": "nl",
+			"text": "een algemene aanwijzing betreffende de termijnen waarbinnen de verschillende categorieën gegevens moeten worden gewist;"
+		},
+		{
+			"lang": "sv",
+			"text": "En allmän anvisning om tidsfristerna för radering av de olika kategorierna av uppgifter."
+		}
+	],
+	"children": [],
+	"title": "Article 28 – Paragraph 2 – Point 7"
+}

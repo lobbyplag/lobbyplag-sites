@@ -1,0 +1,108 @@
+{
+	"id": "a74",
+	"type": "article",
+	"literal": "74",
+	"parent": "c8",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Right to a judicial remedy against a supervisory authority"
+		},
+		{
+			"lang": "de",
+			"text": "Recht auf gerichtlichen Rechtsbehelf gegen eine Aufsichtsbehörde"
+		},
+		{
+			"lang": "fr",
+			"text": "Droit à un recours juridictionnel contre une autorité de contrôle"
+		},
+		{
+			"lang": "es",
+			"text": "Derecho a un recurso judicial contra una autoridad de control"
+		},
+		{
+			"lang": "pt",
+			"text": "Direito de ação judicial contra uma autoridade de controlo"
+		},
+		{
+			"lang": "it",
+			"text": "Diritto a un ricorso giurisdizionale contro l’autorità di controllo"
+		},
+		{
+			"lang": "ga",
+			"text": "Ceart chun leighis bhreithiúnaigh i gcoinne údaráis mhaoirseachta"
+		},
+		{
+			"lang": "cs",
+			"text": "Právo na soudní opravné prostředky vůči orgánu dozoru"
+		},
+		{
+			"lang": "da",
+			"text": "Retsmidler over for tilsynsmyndigheden"
+		},
+		{
+			"lang": "et",
+			"text": "Õigus kasutada õiguskaitsevahendit järelevalveasutuse vastu"
+		},
+		{
+			"lang": "el",
+			"text": "Δικαίωμα δικαστικής προσφυγής κατά αρχής ελέγχου"
+		},
+		{
+			"lang": "bg",
+			"text": "Право на средства за съдебна защита срещу надзорен орган"
+		},
+		{
+			"lang": "hu",
+			"text": "A felügyelő hatósággal szembeni bírósági jogorvoslathoz való jog"
+		},
+		{
+			"lang": "mt",
+			"text": "Dritt għal rimedju ġudizzjarju kontra awtorità ta’ superviżjoni"
+		},
+		{
+			"lang": "lv",
+			"text": "Tiesības vērsties tiesā pret uzraudzības iestādi"
+		},
+		{
+			"lang": "ro",
+			"text": "Dreptul la o cale de atac judiciară împotriva unei autorități de supraveghere"
+		},
+		{
+			"lang": "sk",
+			"text": "Právo na súdny prostriedok nápravy voči dozornému orgánu"
+		},
+		{
+			"lang": "sl",
+			"text": "Pravica do pravnega sredstva v sodnem postopku zoper nadzorni organ"
+		},
+		{
+			"lang": "fi",
+			"text": "Oikeus oikeussuojakeinoihin valvontaviranomaista vastaan"
+		},
+		{
+			"lang": "pl",
+			"text": "Prawo do sądowego środka ochrony prawnej przeciwko organowi nadzorczemu"
+		},
+		{
+			"lang": "lt",
+			"text": "Teisė imtis teisminių teisių gynimo priemonių prieš priežiūros instituciją"
+		},
+		{
+			"lang": "nl",
+			"text": "Recht een beroep in rechte in te stellen tegen een toezichthoudende autoriteit"
+		},
+		{
+			"lang": "sv",
+			"text": "Rätt att begära rättslig prövning av en tillsynsmyndighets beslut"
+		}
+	],
+	"children": [
+		"a74p1",
+		"a74p2",
+		"a74p3",
+		"a74p4",
+		"a74p5"
+	],
+	"title": "Article 74"
+}

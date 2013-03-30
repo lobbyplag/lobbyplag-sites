@@ -1,0 +1,106 @@
+{
+	"id": "a71",
+	"type": "article",
+	"literal": "71",
+	"parent": "c7s3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Secretariat"
+		},
+		{
+			"lang": "de",
+			"text": "Sekretariat"
+		},
+		{
+			"lang": "fr",
+			"text": "Secrétariat"
+		},
+		{
+			"lang": "es",
+			"text": "Secretaría"
+		},
+		{
+			"lang": "pt",
+			"text": "Secretariado"
+		},
+		{
+			"lang": "it",
+			"text": "Segreteria"
+		},
+		{
+			"lang": "ga",
+			"text": "Rúnaíocht"
+		},
+		{
+			"lang": "cs",
+			"text": "Sekretariát"
+		},
+		{
+			"lang": "da",
+			"text": "Sekretariat"
+		},
+		{
+			"lang": "et",
+			"text": "Sekretariaat"
+		},
+		{
+			"lang": "el",
+			"text": "Γραμματεία"
+		},
+		{
+			"lang": "bg",
+			"text": "Секретариат"
+		},
+		{
+			"lang": "hu",
+			"text": "A titkárság"
+		},
+		{
+			"lang": "mt",
+			"text": "Segretarjat"
+		},
+		{
+			"lang": "lv",
+			"text": "Sekretariāts"
+		},
+		{
+			"lang": "ro",
+			"text": "Secretariat"
+		},
+		{
+			"lang": "sk",
+			"text": "Sekretariát"
+		},
+		{
+			"lang": "sl",
+			"text": "Sekretariat"
+		},
+		{
+			"lang": "fi",
+			"text": "Sihteeristö"
+		},
+		{
+			"lang": "pl",
+			"text": "Sekretariat"
+		},
+		{
+			"lang": "lt",
+			"text": "Sekretoriatas"
+		},
+		{
+			"lang": "nl",
+			"text": "Secretariaat"
+		},
+		{
+			"lang": "sv",
+			"text": "Sekretariat"
+		}
+	],
+	"children": [
+		"a71p1",
+		"a71p2",
+		"a71p3"
+	],
+	"title": "Article 71"
+}

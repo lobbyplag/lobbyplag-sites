@@ -1,0 +1,102 @@
+{
+	"id": "a17p7",
+	"type": "paragraph",
+	"literal": "7",
+	"parent": "a17",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller shall implement mechanisms to ensure that the time limits established for the erasure of personal data and/or for a periodic review of the need for the storage of the data are observed."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche trifft Vorkehrungen, um sicherzustellen, dass die Fristen für die Löschung personenbezogener Daten und/oder die regelmäßige Überprüfung der Notwendigkeit ihrer Speicherung eingehalten werden."
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement met en œuvre des mécanismes assurant le respect des délais applicables à l’effacement des données à caractère personnel et/ou à un examen périodique de la nécessité de conserver ces données."
+		},
+		{
+			"lang": "es",
+			"text": "El responsable del tratamiento implementará mecanismos para garantizar que se respetan los plazos fijados para la supresión de datos personales y/o para el examen periódico de la necesidad de conservar los datos."
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento deve aplicar mecanismos para assegurar o respeito dos prazos estipulados para o apagamento dos dados pessoais e/ou para a fiscalização periódica da necessidade de conservar esses dados."
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento predispone i meccanismi per assicurare il rispetto dei termini fissati per la cancellazione dei dati personali e/o per un esame periodico della necessità di conservare tali dati."
+		},
+		{
+			"lang": "ga",
+			"text": "Cuirfidh an rialaitheoir sásraí chun feidhme chun a áirithiú go gcloítear leis na teorainneacha ama atá leagtha síos do scriosadh sonraí pearsanta agus/nó d'athbhreithniú tréimhsiúil ar an ngá atá le stóráil na sonraí."
+		},
+		{
+			"lang": "cs",
+			"text": "Správce zavede mechanismy, které zajistí dodržování lhůt stanovených pro výmaz osobních údajů a/nebo pro pravidelný přezkum s cílem posoudit potřebu uchovávat údaje."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige iværksætter mekanismer med henblik på at sikre, at de frister, der er fastsat for sletningen af personoplysninger og/eller for en regelmæssig undersøgelse af behovet for opbevaringen af oplysningerne, overholdes."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja rakendab mehhanismid, millega tagatakse isikuandmete kustutamise ja/või säilitusvajaduse korrapärase läbivaatamise tähtajast kinnipidamine."
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας εφαρμόζει μηχανισμούς ώστε να διασφαλίζεται ότι τηρούνται οι προθεσμίες που θεσπίζονται για τη διαγραφή δεδομένων προσωπικού χαρακτήρα ή/και για την περιοδική επανεξέταση της αναγκαιότητας αποθήκευσης των δεδομένων."
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът прилага механизми, чрез които да гарантира, че се спазват определените срокове за заличаването на лични данни и/или за периодичен преглед на необходимостта от съхранение на данните."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő olyan mechanizmusokat vezet be, amelyek biztosítják a személyes adatok törlésére és/vagy az adattárolás szükségességének időszakos felülvizsgálatára meghatározott határidő tiszteletben tartását."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur għandu jimplimenta mekkaniżmi sabiex jassigura li l-limiti ta’ żmien stabbiliti għat-tħassir ta’ dejta personali u/jew għal reviżjoni perjodika tal-ħtieġa tal-ħażna tad-dejta jiġu osservati."
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinis ievieš mehānismus, ar kuriem nodrošina, ka tiek ievēroti termiņi, kas paredzēti personas datu dzēšanai un/vai periodiskai glabāšanas nepieciešamības pārskatīšanai."
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul pune în aplicare mecanisme pentru a asigura respectarea termenelor stabilite pentru ștergerea datelor cu caracter personal și/sau pentru o revizuire periodică a necesității de stocare a datelor."
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ zavedie mechanizmy na zabezpečenie dodržiavania lehôt stanovených na vymazanie osobných údajov a/alebo na pravidelné prehodnotenie potreby uchovávania týchto údajov."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec uvede mehanizme, s katerimi zagotovi, da se upoštevajo roki, določeni za izbris osebnih podatkov in/ali redno preverjanje potrebe po shranjevanju podatkov."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän on toteutettava mekanismit, joiden avulla voidaan varmistaa, että henkilötietojen poistamista ja/tai niiden säilyttämisen tarpeellisuuden säännöllistä tarkistamista varten asetettuja määräaikoja noudatetaan."
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator wdraża mechanizmy służące zapewnieniu przestrzegania terminów usunięcia danych osobowych lub okresowego przeglądu dokonywanego w celu ustalenia potrzeby przechowywania danych."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas įdiegia mechanizmus, kuriais užtikrina, kad būtų nustatytu laiku ištrinami asmens duomenys ir (arba) periodiškai peržiūrima būtinybė juos saugoti."
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke stelt mechanismen vast om ervoor te zorgen dat de termijnen die zijn vastgesteld voor het wissen van persoonsgegevens en/of voor de periodieke beoordeling van de noodzaak van de opslag van de gegevens, in acht worden genomen."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige ska införa rutiner för att se till att de tidsgränser som införts för raderingen av personuppgifter och/eller för en periodisk översyn av behovet att lagra uppgifter iakttas."
+		}
+	],
+	"children": [],
+	"title": "Article 17 – Paragraph 7"
+}

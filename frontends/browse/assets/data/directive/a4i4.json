@@ -1,0 +1,102 @@
+{
+	"id": "a4i4",
+	"type": "point",
+	"literal": "4",
+	"parent": "a4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "'filing system' means any structured set of personal data which are accessible according to specific criteria, whether centralized, decentralized or dispersed on a functional or geographical basis;"
+		},
+		{
+			"lang": "de",
+			"text": "„Datei&quot; jede strukturierte Sammlung personenbezogener Daten, die nach bestimmten Kriterien zugänglich sind, unabhängig davon, ob diese Sammlung zentral, dezentral oder nach funktionalen oder geografischen Gesichtspunkten geordnet geführt wird;"
+		},
+		{
+			"lang": "fr",
+			"text": "«fichier»: tout ensemble structuré de données à caractère personnel accessibles selon des critères déterminés, que cet ensemble soit centralisé, décentralisé ou réparti de manière fonctionnelle ou géographique;"
+		},
+		{
+			"lang": "es",
+			"text": "«fichero»: todo conjunto estructurado de datos personales, accesibles con arreglo a criterios determinados, ya sea centralizado, descentralizado o repartido de forma funcional o geográfica;"
+		},
+		{
+			"lang": "pt",
+			"text": "«Ficheiro», qualquer conjunto estruturado de dados pessoais, acessível segundo critérios específicos, quer seja centralizado, descentralizado ou repartido de modo funcional ou geográfico;"
+		},
+		{
+			"lang": "it",
+			"text": "“archivio”: qualsiasi insieme strutturato di dati personali accessibili secondo criteri determinati, indipendentemente dal fatto che tale insieme sia centralizzato, decentralizzato o ripartito in modo funzionale o geografico;"
+		},
+		{
+			"lang": "ga",
+			"text": "ciallaíonn ‘córas comhdúcháin’ aon tacar struchtúraithe sonraí pearsanta a bhfuil rochtain orthu de réir critéar sonrach, is cuma má tá an tacar sonraithe pearsanta sin lárnaithe, dílárnaithe nó scaipthe ar bhonn feidhmeach nó geografach;"
+		},
+		{
+			"lang": "cs",
+			"text": "„evidencí“ jakýkoli uspořádaný soubor osobních údajů přístupných podle určených kritérií, ať již je tento soubor centralizován, decentralizován nebo rozdělen podle funkčního či zeměpisného hlediska;"
+		},
+		{
+			"lang": "da",
+			"text": "&quot;register&quot;: enhver struktureret samling af personoplysninger, der er tilgængelige efter bestemte kriterier, hvad enten denne samling er placeret centralt, decentralt eller er fordelt på et funktionsbestemt eller geografisk grundlag"
+		},
+		{
+			"lang": "et",
+			"text": "„toimikusüsteem” – isikuandmete korrastatud kogum, millest võib andmeid leida teatavate kriteeriumide põhjal, olenemata sellest, kas kõnealune andmete kogum on tsentraliseeritud, detsentraliseeritud või funktsionaalsel või geograafilisel põhimõttel hajutatud;"
+		},
+		{
+			"lang": "el",
+			"text": "«σύστημα αρχειοθέτησης»: κάθε διαρθρωμένο σύνολο δεδομένων προσωπικού χαρακτήρα τα οποία είναι προσπελάσιμα με γνώμονα συγκεκριμένα κριτήρια, είτε το σύνολο αυτό είναι συγκεντρωμένο είτε αποκεντρωμένο είτε κατανεμημένο σε λειτουργική ή γεωγραφική βάση·"
+		},
+		{
+			"lang": "bg",
+			"text": "„регистър на лични данни“ означава всеки структуриран набор от лични данни, достъпът до които се осъществява съгласно определени критерии, независимо дали е централизиран, децентрализиран или разпределен съгласно функционален или географски принцип;"
+		},
+		{
+			"lang": "hu",
+			"text": "„nyilvántartó rendszer”: a személyes adatok bármely strukturált, funkcionálisan vagy földrajzilag centralizált, decentralizált vagy szétszórt állománya, amely meghatározott ismérvek alapján hozzáférhető;"
+		},
+		{
+			"lang": "mt",
+			"text": "‘sistema ta’ arkivjar’ tfisser kwalunkwe sett strutturat ta’ dejta personali li jkun aċċessibbli skont kriterji speċifiċi, kemm jekk ċentralizzat, deċentralizzat jew mifrux fuq bażi funzjonali jew ġeografika;"
+		},
+		{
+			"lang": "lv",
+			"text": "&quot;kartotēka&quot; ir jebkurš sakārtots personas datu kopums, kurā šie dati ir pieejami saskaņā ar īpašiem kritērijiem, neatkarīgi no tā, vai datu kopums ir centralizēts, decentralizēts vai izkliedēts, pamatojoties uz funkcionālu vai ģeogrāfisku motivāciju;"
+		},
+		{
+			"lang": "ro",
+			"text": "„sistem de evidență a datelor” înseamnă orice set structurat de date cu caracter personal accesibile conform unor criterii specifice, fie ele centralizate, descentralizate sau repartizate după criterii funcționale sau geografice;"
+		},
+		{
+			"lang": "sk",
+			"text": "„informačný systém“ je akýkoľvek usporiadaný súbor osobných údajov, ktoré sú prístupné podľa konkrétnych kritérií, bez ohľadu na to, či ide o systém centralizovaný, decentralizovaný alebo distribuovaný na funkčnom alebo geografickom základe;"
+		},
+		{
+			"lang": "sl",
+			"text": "„zbirka“ pomeni vsak strukturiran niz osebnih podatkov, ki je dostopen v skladu s posebnimi merili, in sicer centraliziran, decentraliziran ali razpršen na funkcionalni ali geografski podlagi;"
+		},
+		{
+			"lang": "fi",
+			"text": "’rekisteröintijärjestelmällä’ kaikkia sellaisia järjestettyjä henkilötietojen kokoelmia, joista tiedot ovat saatavilla tietyin perustein, oli kokoelma sitten keskitetty, hajautettu tai toiminnallisin tai maantieteellisin perustein jaettu;"
+		},
+		{
+			"lang": "pl",
+			"text": "„zbiór danych” oznacza każdy zorganizowany zestaw danych osobowych, dostępnych według określonych kryteriów, niezależnie od tego, czy zestaw ten jest scentralizowany, zdecentralizowany lub rozproszony funkcjonalnie lub geograficznie;"
+		},
+		{
+			"lang": "lt",
+			"text": "susistemintas rinkinys – bet kuris susistemintas pagal specifinius kriterijus prieinamų asmens duomenų rinkinys, kuris gali būti centralizuotas, decentralizuotas arba suskirstytas funkciniu ar geografiniu pagrindu;"
+		},
+		{
+			"lang": "nl",
+			"text": "“bestand”: elk gestructureerd geheel van persoonsgegevens die volgens bepaalde criteria toegankelijk zijn, ongeacht of dit geheel gecentraliseerd dan wel gedecentraliseerd is of verspreid op een functioneel of geografisch bepaalde wijze;"
+		},
+		{
+			"lang": "sv",
+			"text": "register: varje strukturerad samling av personuppgifter som är tillgänglig enligt särskilda kriterier, oavsett om samlingen är centraliserad, decentraliserad eller spridd på grundval av funktionella eller geografiska förhållanden."
+		}
+	],
+	"children": [],
+	"title": "Article 4 – Point 4"
+}

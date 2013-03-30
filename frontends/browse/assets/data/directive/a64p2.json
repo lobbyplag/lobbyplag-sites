@@ -1,0 +1,102 @@
+{
+	"id": "a64p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a64",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The European Data Protection Board shall be composed of the head of one supervisory authority of each Member State and of the European Data Protection Supervisor."
+		},
+		{
+			"lang": "de",
+			"text": "Der Europäische Datenschutzausschuss besteht aus dem Leiter einer Aufsichtsbehörde jedes Mitgliedstaats und dem Europäischen Datenschutzbeauftragten."
+		},
+		{
+			"lang": "fr",
+			"text": "Le comité européen de la protection des données se compose du directeur d'une autorité de contrôle de chaque État membre et du contrôleur européen de la protection des données."
+		},
+		{
+			"lang": "es",
+			"text": "El Consejo Europeo de Protección de Datos estará compuesto por el director de una autoridad de control de cada Estado miembro y por el Supervisor Europeo de Protección de Datos."
+		},
+		{
+			"lang": "pt",
+			"text": "O Comité Europeu para a Proteção de Dados é composto pelo diretor de uma autoridade de controlo de cada Estado-Membro e da Autoridade Europeia para a Proteção de Dados."
+		},
+		{
+			"lang": "it",
+			"text": "Il comitato europeo per la protezione dei dati è composto dal responsabile di un’autorità di controllo di ciascuno Stato membro e dal garante europeo della protezione dei dati."
+		},
+		{
+			"lang": "ga",
+			"text": "Ar an mBord Eorpach um Chosaint Sonraí beidh ceann údaráis mhaoirseachta amháin ó gach Ballstát agus an Maoirseoir Eorpach ar Chosaint Sonraí."
+		},
+		{
+			"lang": "cs",
+			"text": "Evropskou radu pro ochranu údajů tvoří vedoucí jednoho orgánu dozoru z každého členského státu a evropský inspektor ochrany údajů."
+		},
+		{
+			"lang": "da",
+			"text": "Det Europæiske Databeskyttelsesråd sammensættes af chefen for tilsynsmyndig­heden i hver medlemsstat og Den Europæiske Tilsynsførende for Databeskyttelse."
+		},
+		{
+			"lang": "et",
+			"text": "Euroopa Andmekaitsenõukogu koosneb iga liikmesriigi ühe järelevalveasutuse juhatajast ja Euroopa andmekaitseinspektorist."
+		},
+		{
+			"lang": "el",
+			"text": "Το Ευρωπαϊκό Συμβούλιο Προστασίας Δεδομένων απαρτίζεται από τον προϊστάμενο μίας αρχής ελέγχου κάθε κράτους μέλους και από τον Ευρωπαίο Επόπτη Προστασίας Δεδομένων."
+		},
+		{
+			"lang": "bg",
+			"text": "Европейският комитет по защита на данните е съставен от ръководителя на един надзорен орган от всяка държава-членка и на Европейския надзорен орган по защита на данните."
+		},
+		{
+			"lang": "hu",
+			"text": "Az Európai Adatvédelmi Testület minden tagállam egy felügyelő hatóságának vezetőjéből és az európai adatvédelmi biztosból áll."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-Bord Ewropew għall-Protezzjoni tad-Dejta għandu jkun magħmul mill-kap ta’ awtorità ta’ superviżjoni ta’ kull Stat Membru u mill-Kontrollur Ewropew għall-Protezzjoni tad-Dejta."
+		},
+		{
+			"lang": "lv",
+			"text": "Eiropas Datu aizsardzības kolēģija sastāv no katras dalībvalsts uzraudzības iestādes vadītāja un Eiropas Datu aizsardzības uzraudzītāja."
+		},
+		{
+			"lang": "ro",
+			"text": "Comitetul european pentru protecția datelor este alcătuit din șeful unei autorități de supraveghere din fiecare stat membru și din Autoritatea Europeană pentru Protecția Datelor."
+		},
+		{
+			"lang": "sk",
+			"text": "Európsky výbor pre ochranu údajov pozostáva z vedúcich predstaviteľov dozorných orgánov, vždy jedného z každého členského štátu, a európskeho dozorného úradníka pre ochranu údajov."
+		},
+		{
+			"lang": "sl",
+			"text": "Evropski odbor za varstvo podatkov sestavljajo vodje enega nadzornega organa iz vsake države članice in Evropski nadzornik za varstvo podatkov."
+		},
+		{
+			"lang": "fi",
+			"text": "Euroopan tietosuojaneuvoston muodostavat yksi valvontaviranomaisen johtaja kustakin jäsenvaltiosta ja Euroopan tietosuojavaltuutettu."
+		},
+		{
+			"lang": "pl",
+			"text": "Do Europejskiej Rady Ochrony Danych należą szef jednego organu nadzorczego każdego państwa członkowskiego oraz Europejski Inspektor Ochrony Danych."
+		},
+		{
+			"lang": "lt",
+			"text": "Europos duomenų apsaugos valdybą sudaro kiekvienos valstybės narės vienos priežiūros institucijos vadovai ir Europos duomenų apsaugos priežiūros pareigūnas."
+		},
+		{
+			"lang": "nl",
+			"text": "Het Europees Comité voor gegevensbescherming bestaat uit de voorzitter van één toezichthoudende autoriteit per lidstaat en de Europese Toezichthouder voor gegevensbescherming."
+		},
+		{
+			"lang": "sv",
+			"text": "Europeiska dataskyddsstyrelsen ska bestå av chefen för en tillsynsmyndighet per medlemsstat samt Europeiska datatillsynsmannen."
+		}
+	],
+	"children": [],
+	"title": "Article 64 – Paragraph 2"
+}

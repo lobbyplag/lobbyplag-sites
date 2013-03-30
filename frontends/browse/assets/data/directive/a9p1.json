@@ -1,0 +1,102 @@
+{
+	"id": "a9p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a9",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The processing of personal data, revealing race or ethnic origin, political opinions, religion or beliefs, trade-union membership, and the processing of genetic data or data concerning health or sex life or criminal convictions or related security measures shall be prohibited."
+		},
+		{
+			"lang": "de",
+			"text": "Die Verarbeitung personenbezogener Daten, aus denen die Rasse oder ethnische Herkunft, politische Überzeugungen, die Religions- oder Glaubenszugehörigkeit oder die Zugehörigkeit zu einer Gewerkschaft hervorgehen, sowie von genetischen Daten, Daten über die Gesundheit oder das Sexualleben oder Daten über Strafurteile oder damit zusammenhängende Sicherungsmaßregeln ist untersagt."
+		},
+		{
+			"lang": "fr",
+			"text": "Le traitement des données à caractère personnel qui révèlent l’origine raciale ou ethnique, les opinions politiques, la religion ou les croyances, l'appartenance syndicale, ainsi que le traitement des données génétiques ou des données concernant la santé ou relatives à la vie sexuelle ou à des condamnations pénales ou encore à des mesures de sûreté connexes sont interdits."
+		},
+		{
+			"lang": "es",
+			"text": "Queda prohibido el tratamiento de datos personales que revelen el origen étnico o racial, las opiniones políticas, la religión o las creencias, la afiliación sindical, así como el tratamiento de los datos genéticos o los datos relativos a la salud, la vida sexual, las condenas penales o medidas de seguridad afines."
+		},
+		{
+			"lang": "pt",
+			"text": "É proibido o tratamento de dados pessoais que revelem a origem racial ou étnica, as opiniões políticas, as convicções religiosas ou filosóficas, a filiação sindical, bem como o tratamento de dados genéticos ou dados relativos à saúde ou à orientação sexual ou a condenações penais ou medidas de segurança conexas."
+		},
+		{
+			"lang": "it",
+			"text": "È vietato trattare dati personali che rivelino la razza, l’origine etnica, le opinioni politiche, la religione o le convinzioni personali, l’appartenenza sindacale, come pure trattare dati genetici o dati relativi alla salute e alla vita sessuale o a condanne penali o a connesse misure di sicurezza."
+		},
+		{
+			"lang": "ga",
+			"text": "Toirmeascfar próiseáil sonraí pearsanta lena léirítear tionscnamh ciníoch nó eitneach, tuairim pholaitiúil, reiligiún nó creideamh, ballraíocht i gceardchumann, agus toirmeascfar próiseáil sonraí géiniteacha nó sonraí a bhaineann le sláinte nó le saol gnéis, nó le ciontuithe coiriúla, nó le bearta slándála gaolmhara."
+		},
+		{
+			"lang": "cs",
+			"text": "Zakazuje se zpracování osobních údajů, které odhalují rasový či etnický původ, politické názory, náboženské vyznání nebo přesvědčení, členství v odborových organizacích, jakož i zpracování genetických údajů či údajů týkajících se zdravotního stavu či sexuálního života, nebo odsouzení v trestních věcech či související bezpečnostní opatření."
+		},
+		{
+			"lang": "da",
+			"text": "Behandling af personoplysninger, der viser race og etnisk oprindelse, politisk, religiøs eller filosofisk overbevisning og fagforeningsmæssigt tilhørsforhold og behandling af genetiske data, helbredsoplysninger og oplysninger om seksuelle forhold, straffedomme eller tilknyttede sikkerhedsforanstaltninger er forbudt."
+		},
+		{
+			"lang": "et",
+			"text": "Keelatud on töödelda isikuandmeid, mis kajastavad rassilist ja etnilist päritolu, poliitilisi vaateid, religiooni ja usku ning ametiühingusse kuulumist, samuti geneetilisi andmeid, andmeid tervise, seksuaalelu ning süüdimõistvate kohtuotsuste ja nendega seotud turvameetmete kohta."
+		},
+		{
+			"lang": "el",
+			"text": "Απαγορεύεται η επεξεργασία δεδομένων προσωπικού χαρακτήρα τα οποία αποκαλύπτουν φυλετική ή εθνοτική καταγωγή, πολιτικά φρονήματα, θρησκεία ή πεποιθήσεις, τη συμμετοχή σε συνδικαλιστική οργάνωση, καθώς και η επεξεργασία γενετικών δεδομένων ή δεδομένων που αφορούν την υγεία ή τη σεξουαλική ζωή ή ποινικές καταδίκες ή σχετικά μέτρα ασφάλειας."
+		},
+		{
+			"lang": "bg",
+			"text": "Забранява се обработването на лични данни, които разкриват расов или етнически произход, политически мнения, религия или убеждения, членство в професионални съюзи, като и обработването на генетични данни или данни, свързани със здравословното състояние или половия живот или с наказателни присъди или свързаните с тях мерки за сигурност."
+		},
+		{
+			"lang": "hu",
+			"text": "Tilos a faji vagy etnikai hovatartozásra, a politikai véleményre, a vallási vagy világnézeti meggyőződésre, a szakszervezeti tagságra utaló személyes adatok, valamint a genetikai adatok, az egészségügyi adatok vagy a szexuális életre, büntetőítéletekre, illetve az ezekhez kapcsolódó biztonsági intézkedésekre vonatkozó személyes adatok feldolgozása."
+		},
+		{
+			"lang": "mt",
+			"text": "L-ipproċessar ta’ dejta personali, li tiżvela r-razza jew l-oriġini etnika, l-opinjonijiet politiċi, ir-reliġjon jew it-twemmin, is-sħubija fi trejdjunjins, u l-ipproċessar ta’ dejta ġenetika jew dejta dwar is-saħħa jew il-ħajja sesswali jew sentenzi kriminali jew miżuri relatati ta’ sigurtà għandu jkun ipprojbit."
+		},
+		{
+			"lang": "lv",
+			"text": "Aizliegts apstrādāt personas datus, kas atklāj rasi vai etnisko izcelsmi, politiskos uzskatus, reliģiju vai ticību, piederību arodbiedrībai, kā arī ģenētiskos datus vai datus par personas veselību, seksuālo dzīvi vai sodāmību, vai ar to saistītiem drošības pasākumiem."
+		},
+		{
+			"lang": "ro",
+			"text": "Se interzice prelucrarea datelor cu caracter personal care dezvăluie originea rasială sau etnică, opiniile politice, religia sau convingerile, apartenența sindicală, precum și prelucrarea datelor genetice sau a datelor privind sănătatea, viața sexuală, condamnările penale sau măsurile de securitate conexe."
+		},
+		{
+			"lang": "sk",
+			"text": "Zakazuje sa spracúvanie osobných údajov odhaľujúcich rasový alebo etnický pôvod, politické názory, náboženstvo alebo vieru a členstvo v odboroch, ako aj spracúvanie genetických údajov alebo údajov týkajúcich sa zdravia či sexuálneho života, alebo trestných rozsudkov či súvisiacich bezpečnostných opatrení."
+		},
+		{
+			"lang": "sl",
+			"text": "Prepovedana je obdelava osebnih podatkov, ki razkrivajo rasno ali etnično poreklo, politično prepričanje, vero ali prepričanje, članstvo v sindikatu, genetske podatke, podatke v zvezi z zdravjem ali spolnim življenjem, kazenskimi obsodbami ali s tem povezanimi varnostnimi ukrepi."
+		},
+		{
+			"lang": "fi",
+			"text": "Sellaisten henkilötietojen käsittely, jotka koskevat rotua tai etnistä alkuperää, poliittisia mielipiteitä, uskonnollista tai filosofista vakaumusta tai ammattiliittoon kuulumista, sekä geneettisten tietojen tai terveyteen ja seksuaaliseen käyttäytymiseen tai rikostuomioihin tai niihin liittyviin turvaamistoimenpiteisiin liittyvien tietojen käsittely on kielletty."
+		},
+		{
+			"lang": "pl",
+			"text": "Zakazuje się przetwarzania danych osobowych ujawniających rasę lub pochodzenie etniczne, poglądy polityczne, religię lub przekonania, przynależność do związków zawodowych oraz przetwarzania danych genetycznych lub danych dotyczących zdrowia lub seksualności, wyroków skazujących lub powiązanych środków zabezpieczających."
+		},
+		{
+			"lang": "lt",
+			"text": "Draudžiama tvarkyti asmens duomenis, kurie atskleidžia rasinę arba tautinę kilmę, politines pažiūras, religiją ar tikėjimą, priklausymą profesinėms sąjungoms, taip pat genetinius duomenis arba duomenis apie sveikatą ar lytinį gyvenimą, arba teistumą ar su juo susijusias saugumo priemones."
+		},
+		{
+			"lang": "nl",
+			"text": "De verwerking van persoonsgegevens waaruit ras of etnische afkomst, politieke opvattingen, religie of overtuiging, of het lidmaatschap van een vakvereniging blijkt, en de verwerking van genetische gegevens of gegevens over gezondheid of seksueel gedrag of strafrechtelijke veroordelingen of daarmee verband houdende veiligheidsmaatregelen, zijn verboden."
+		},
+		{
+			"lang": "sv",
+			"text": "Behandling av personuppgifter som avslöjar ras eller etniskt ursprung, politiska åsikter, religion eller övertygelse eller medlemskap i fackförening, och behandling av genetiska uppgifter eller uppgifter om hälsa eller sexualliv eller fällande domar i brottmål eller därmed sammanhängande säkerhetsåtgärder är förbjuden."
+		}
+	],
+	"children": [],
+	"title": "Article 9 – Paragraph 1"
+}

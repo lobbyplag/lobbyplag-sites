@@ -1,0 +1,109 @@
+{
+	"id": "a71p3",
+	"type": "paragraph",
+	"literal": "3",
+	"parent": "a71",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The secretariat shall be responsible in particular for:"
+		},
+		{
+			"lang": "de",
+			"text": "Das Sekretariat ist insbesondere verantwortlich für"
+		},
+		{
+			"lang": "fr",
+			"text": "Le secrétariat est notamment chargé:"
+		},
+		{
+			"lang": "es",
+			"text": "La secretaría será responsable, en particular, de:"
+		},
+		{
+			"lang": "pt",
+			"text": "O secretariado é responsável, em especial:"
+		},
+		{
+			"lang": "it",
+			"text": "La segreteria è incaricata in particolare:"
+		},
+		{
+			"lang": "ga",
+			"text": "Beidh freagracht ar an rúnaíocht as an méid seo a leanas go háirithe:"
+		},
+		{
+			"lang": "cs",
+			"text": "Sekretariát odpovídá zejména za:"
+		},
+		{
+			"lang": "da",
+			"text": "Sekretariatet er navnlig ansvarligt for:"
+		},
+		{
+			"lang": "et",
+			"text": "Sekretariaat vastutab eelkõige järgneva eest:"
+		},
+		{
+			"lang": "el",
+			"text": "Η γραμματεία είναι ειδικότερα υπεύθυνη για τα ακόλουθα:"
+		},
+		{
+			"lang": "bg",
+			"text": "Секретариатът отговаря по-специално за:"
+		},
+		{
+			"lang": "hu",
+			"text": "A titkárság felel különösen:"
+		},
+		{
+			"lang": "mt",
+			"text": "Is-segretarjat għandu jkun responsabbli b’mod partikolari:"
+		},
+		{
+			"lang": "lv",
+			"text": "Sekretariāts jo īpaši ir atbildīgs par:"
+		},
+		{
+			"lang": "ro",
+			"text": "Secretariatul este responsabil în special de următoarele:"
+		},
+		{
+			"lang": "sk",
+			"text": "Sekretariát je zodpovedný najmä za:"
+		},
+		{
+			"lang": "sl",
+			"text": "Sekretariat je odgovoren zlasti za:"
+		},
+		{
+			"lang": "fi",
+			"text": "Sihteeristöllä on erityisesti seuraavat tehtävät:"
+		},
+		{
+			"lang": "pl",
+			"text": "Sekretariat jest w szczególności odpowiedzialny za:"
+		},
+		{
+			"lang": "lt",
+			"text": "Sekretoriatas visų pirma atsako už:"
+		},
+		{
+			"lang": "nl",
+			"text": "Het secretariaat is met name belast met:"
+		},
+		{
+			"lang": "sv",
+			"text": "Sekretariatet ska särskilt ansvara för"
+		}
+	],
+	"children": [
+		"a71p3i1",
+		"a71p3i2",
+		"a71p3i3",
+		"a71p3i4",
+		"a71p3i5",
+		"a71p3i6"
+	],
+	"title": "Article 71 – Paragraph 3"
+}

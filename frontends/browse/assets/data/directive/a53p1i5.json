@@ -1,0 +1,102 @@
+{
+	"id": "a53p1i5",
+	"type": "point",
+	"literal": "e",
+	"parent": "a53p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "to warn or admonish the controller or the processor;"
+		},
+		{
+			"lang": "de",
+			"text": "den für die Verarbeitung Verantwortlichen oder den Auftragsverarbeiter zu ermahnen oder zu verwarnen,"
+		},
+		{
+			"lang": "fr",
+			"text": "d'adresser un avertissement ou une admonestation au responsable du traitement ou au sous‑traitant;"
+		},
+		{
+			"lang": "es",
+			"text": "formular una advertencia o amonestación al responsable o al encargado del tratamiento;"
+		},
+		{
+			"lang": "pt",
+			"text": "Dirigir advertências ou admoestações ao responsável pelo tratamento ou ao subcontratante;"
+		},
+		{
+			"lang": "it",
+			"text": "rivolgere avvertimenti o moniti al responsabile del trattamento o all’incaricato del trattamento;"
+		},
+		{
+			"lang": "ga",
+			"text": "rabhadh a thabhairt don rialaitheoir nó don phróiseálaí nó achasán a thabhairt dó;"
+		},
+		{
+			"lang": "cs",
+			"text": "upozorňovat nebo napomínat správce nebo zpracovatele;"
+		},
+		{
+			"lang": "da",
+			"text": "til at rette en advarsel eller en påtale til den registeransvarlige eller registerføreren"
+		},
+		{
+			"lang": "et",
+			"text": "hoiatada vastutavat töötlejat või volitatud töötlejat või teha talle märkus;"
+		},
+		{
+			"lang": "el",
+			"text": "ε) να προειδοποιεί ή να εφιστά την προσοχή στον υπεύθυνο επεξεργασίας ή στον εκτελούντα την επεξεργασία·"
+		},
+		{
+			"lang": "bg",
+			"text": "д) да отправя предупреждения или порицания до администратора или обработващия лични данни;"
+		},
+		{
+			"lang": "hu",
+			"text": "figyelmeztesse vagy elmarasztalja az adatkezelőt vagy -feldolgozót;"
+		},
+		{
+			"lang": "mt",
+			"text": "li twissi jew twiddeb lill-kontrollur jew lill-proċessur;"
+		},
+		{
+			"lang": "lv",
+			"text": "izteikt brīdinājumu vai aizrādījumu pārzinim vai apstrādātājam;"
+		},
+		{
+			"lang": "ro",
+			"text": "să adreseze un avertisment sau o mustrare operatorului sau persoanei împuternicite de către operator;"
+		},
+		{
+			"lang": "sk",
+			"text": "varovať alebo napomenúť prevádzkovateľa či sprostredkovateľa;"
+		},
+		{
+			"lang": "sl",
+			"text": "opozori ali opomni upravljavca ali obdelovalca;"
+		},
+		{
+			"lang": "fi",
+			"text": "antaa rekisterinpitäjälle tai henkilötietojen käsittelijälle varoitus tai huomautus;"
+		},
+		{
+			"lang": "pl",
+			"text": "ostrzegania lub upominania administratora lub podmiotu przetwarzającego;"
+		},
+		{
+			"lang": "lt",
+			"text": "įspėti duomenų valdytoją arba duomenų tvarkytoją arba pareikšti jiems pastabą;"
+		},
+		{
+			"lang": "nl",
+			"text": "de voor de verwerking verantwoordelijke of de verwerker te waarschuwen of te berispen;"
+		},
+		{
+			"lang": "sv",
+			"text": "varna eller tillrättavisa den registeransvarige eller registerföraren,"
+		}
+	],
+	"children": [],
+	"title": "Article 53 – Paragraph 1 – Point 5"
+}

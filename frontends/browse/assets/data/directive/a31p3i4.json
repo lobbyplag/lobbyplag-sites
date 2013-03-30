@@ -1,0 +1,102 @@
+{
+	"id": "a31p3i4",
+	"type": "point",
+	"literal": "d",
+	"parent": "a31p3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "describe the consequences of the personal data breach;"
+		},
+		{
+			"lang": "de",
+			"text": "eine Beschreibung der Folgen der Verletzung des Schutzes personenbezogener Daten;"
+		},
+		{
+			"lang": "fr",
+			"text": "décrire les conséquences de la violation de données à caractère personnel;"
+		},
+		{
+			"lang": "es",
+			"text": "describir las consecuencias de la violación de datos personales;"
+		},
+		{
+			"lang": "pt",
+			"text": "Descrever as consequências da violação de dados pessoais;"
+		},
+		{
+			"lang": "it",
+			"text": "descrivere le conseguenze della violazione dei dati personali;"
+		},
+		{
+			"lang": "ga",
+			"text": "tabharfar tuairisc ar iarmhairtí an tsáraithe i ndáil le sonraí pearsanta;"
+		},
+		{
+			"lang": "cs",
+			"text": "popsány důsledky narušení bezpečnosti osobních údajů;"
+		},
+		{
+			"lang": "da",
+			"text": "beskrive konsekvenserne af bruddet på persondatasikkerheden"
+		},
+		{
+			"lang": "et",
+			"text": "kirjeldada isikuandmetega seotud rikkumise tagajärgi;"
+		},
+		{
+			"lang": "el",
+			"text": "δ) να περιγράφει τις συνέπειες της παραβίασης των δεδομένων προσωπικού χαρακτήρα·"
+		},
+		{
+			"lang": "bg",
+			"text": "г) описание на последиците от нарушението на сигурността на личните данни;"
+		},
+		{
+			"lang": "hu",
+			"text": "a személyes adatok megsértéséből fakadó következmények ismertetése;"
+		},
+		{
+			"lang": "mt",
+			"text": "tiddeskrivi l-konsegwenzi tal-ksur tad-dejta personali;"
+		},
+		{
+			"lang": "lv",
+			"text": "apraksta personas datu aizsardzības pārkāpuma sekas;"
+		},
+		{
+			"lang": "ro",
+			"text": "să descrie consecințele încălcării securității datelor cu caracter personal;"
+		},
+		{
+			"lang": "sk",
+			"text": "opis dôsledkov porušenia ochrany osobných údajov;"
+		},
+		{
+			"lang": "sl",
+			"text": "opis posledic kršitve varnosti osebnih podatkov;"
+		},
+		{
+			"lang": "fi",
+			"text": "kuvattava henkilötietojen tietoturvaloukkauksen seurauksia;"
+		},
+		{
+			"lang": "pl",
+			"text": "opisywać konsekwencje naruszenia ochrony danych;"
+		},
+		{
+			"lang": "lt",
+			"text": "aprašytos asmens duomenų saugumo pažeidimo pasekmės;"
+		},
+		{
+			"lang": "nl",
+			"text": "een omschrijving van de gevolgen van de inbreuk in verband met persoonsgegevens;"
+		},
+		{
+			"lang": "sv",
+			"text": "beskriva konsekvenserna av personuppgiftsbrottet,"
+		}
+	],
+	"children": [],
+	"title": "Article 31 – Paragraph 3 – Point 4"
+}

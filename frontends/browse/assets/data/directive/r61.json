@@ -1,0 +1,102 @@
+{
+	"id": "r61",
+	"type": "recital",
+	"literal": "61",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The protection of the rights and freedoms of data subjects with regard to the processing of personal data require that appropriate technical and organisational measures are taken, both at the time of the design of the processing and at the time of the processing itself, to ensure that the requirements of this Regulation are met. In order to ensure and demonstrate compliance with this Regulation, the controller should adopt internal policies and implement appropriate measures, which meet in particular the principles of data protection by design and data protection by default."
+		},
+		{
+			"lang": "de",
+			"text": "Zum Schutz der in Bezug auf die Verarbeitung personenbezogener Daten bestehenden Rechte und Freiheiten der betroffenen Personen ist es erforderlich, dass geeignete technische und organisatorische Maßnahmen sowohl bei der Konzipierung der Verarbeitungsvorgänge als auch zum Zeitpunkt der Verarbeitung getroffen werden, damit die Anforderungen dieser Verordnung erfüllt werden. Um die Einhaltung dieser Anforderungen sicherzustellen und nachzuweisen, sollte der für die Verarbeitung Verantwortliche interne Strategien festlegen und geeignete Maßnahmen ergreifen, die insbesondere dem Grundsatz des Datenschutzes durch Technik (data protection by design) und durch datenschutzfreundliche Voreinstellungen (data protection by default) Genüge tun."
+		},
+		{
+			"lang": "fr",
+			"text": "La protection des droits et libertés des personnes concernées à l'égard du traitement des données à caractère personnel nécessite de prendre les mesures techniques et organisationnelles appropriées, tant au moment de la conception que de l'exécution du traitement, de sorte que les exigences du présent règlement soient respectées. Afin d'assurer et de démontrer la conformité de ses activités au présent règlement, le responsable du traitement devrait adopter des règles internes et appliquer des mesures adaptées, qui répondent en particulier aux principes de la protection des données dès la conception et de la protection des données par défaut."
+		},
+		{
+			"lang": "es",
+			"text": "La protección de los derechos y libertades de los interesados con respecto al tratamiento de datos personales exige la adopción de las oportunas medidas de carácter técnico y organizativo, tanto en el momento del diseño del tratamiento como del tratamiento propiamente dicho, con el fin de garantizar que se cumpla lo dispuesto en el presente Reglamento. Con objeto de garantizar y demostrar el cumplimiento de lo dispuesto en el presente Reglamento, el responsable debe adoptar las políticas internas y aplicar las medidas adecuadas que cumplan especialmente los principios de protección de datos desde el diseño y por defecto."
+		},
+		{
+			"lang": "pt",
+			"text": "A proteção dos direitos e liberdades dos titulares dos dados relativamente ao tratamento dos seus dados pessoais exige a tomada de medidas técnicas e organizacionais adequadas, tanto no momento da conceção como no momento da execução do tratamento, para assegurar o cumprimento dos requisitos do presente regulamento. A fim de assegurar e comprovar a conformidade com o presente regulamento, o responsável pelo tratamento deve adotar regras internas e aplicar medidas apropriadas que devem respeitar, em especial, os princípios da proteção de dados desde a conceção e da proteção de dados por defeito."
+		},
+		{
+			"lang": "it",
+			"text": "La tutela dei diritti e delle libertà degli interessati con riguardo al trattamento dei dati personali richiede l’attuazione di adeguate misure tecniche e organizzative al momento sia della progettazione che dell’esecuzione del trattamento stesso, onde garantire il rispetto delle disposizioni del presente regolamento. Al fine di garantire e dimostrare la conformità con il presente regolamento, il responsabile del trattamento deve adottare politiche interne e attuare misure adeguate, che soddisfino in particolare i principi della protezione fin dalla progettazione e della protezione di default."
+		},
+		{
+			"lang": "ga",
+			"text": "Chun cearta agus saoirsí daoine is ábhar do shonraí a chosaint i ndáil le sonraí pearsanta a phróiseáil, ceanglaítear go ndéanfar bearta iomchuí teicniúla agus eagraíochtúla, tráth a cheaptar an phróiseáil a dhéanamh agus tráth a dhéantar an phróiseáil féin, chun a áirithiú go gcomhlíontar ceanglais an Rialacháin seo. Chun comhlíonadh an Rialacháin seo a áirithiú agus chun an comhlíonadh sin a léiriú, ba cheart don rialaitheoir beartais inmheánacha a ghlacadh agus bearta iomchuí a chur chun feidhme, a chomhlíonann, go háirithe, na prionsabail maidir le cosaint sonraí d’aon ghnó agus maidir le cosaint sonraí trí mhainneachtain."
+		},
+		{
+			"lang": "cs",
+			"text": "Ochrana práv a svobod subjektů údajů v souvislosti se zpracováním osobních údajů vyžaduje, aby byla přijata příslušná technická a organizační opatření jak při přípravě zpracování, tak v průběhu vlastního zpracování, s cílem zajistit splnění požadavků tohoto nařízení. Aby správce zajistil a prokázal soulad s tímto nařízením, měl by stanovit interní politiky a přijmout vhodná opatření, která splňují zejména zásady ochrany údajů již od návrhu a standardního nastavení ochrany údajů."
+		},
+		{
+			"lang": "da",
+			"text": "Beskyttelsen af de registreredes rettigheder og frihedsrettigheder i forbindelse med behandling af personoplysninger forudsætter, at der træffes de fornødne tekniske og organisatoriske foranstaltninger, både under udformningen af behandlingen og under selve behandlingen, med henblik på at sikre, at denne forordnings krav opfyldes. For at sikre og påvise overensstemmelse med denne forordning bør den registeransvarlige indføre interne regler og gennemføre passende foranstaltninger, som navnlig er i overensstemmelse med principperne om indbygget databeskyttelse og databeskyttelse gennem indstillinger."
+		},
+		{
+			"lang": "et",
+			"text": "Andmesubjektide õiguste ja vabaduste kaitsmine isikuandmete töötlemisel eeldab vajalike tehniliste ja korralduslike meetmete võtmist nii töötlemise kavandamise kui ka töötlemise ajal, et tagada käesoleva määruse nõuete täitmine. Käesoleva määruse täitmise tagamiseks ja selle tõendamiseks peaks vastutav töötleja võtma vastu sise-eeskirjad ja rakendama asjakohaseid meetmeid, mis vastavad eelkõige isikuandmete lõimitud ja vaikimisi kaitse põhimõtetele."
+		},
+		{
+			"lang": "el",
+			"text": "Η προστασία των δικαιωμάτων και των ελευθεριών των προσώπων στα οποία αναφέρονται τα δεδομένα έναντι της επεξεργασίας δεδομένων προσωπικού χαρακτήρα απαιτεί τη λήψη κατάλληλων τεχνικών και οργανωτικών μέτρων, τόσο κατά τον σχεδιασμό της επεξεργασίας όσο και κατά την ίδια την επεξεργασία, ώστε να διασφαλίζεται ότι πληρούνται οι απαιτήσεις του παρόντος κανονισμού. Για τη διασφάλιση και την απόδειξη της συμμόρφωσης προς τον παρόντα κανονισμό, ο υπεύθυνος επεξεργασίας πρέπει να θεσπίζει εσωτερικές πολιτικές και να εφαρμόζει κατάλληλα μέτρα, τα οποία ανταποκρίνονται ειδικότερα στις αρχές της προστασίας των δεδομένων ήδη από τον σχεδιασμό και της προστασίας των δεδομένων εξ ορισμού."
+		},
+		{
+			"lang": "bg",
+			"text": "Защитата на правата и свободите на субектите на данни във връзка с обработването на лични данни изисква предприемането на подходящи технически и организационни мерки както в момента на разработване на обработването, така и в момента на самото обработване, за да се гарантира, че са изпълнени изискванията на настоящи регламент. С цел да се гарантира и докаже съответствие с настоящия регламент администраторът следва да приеме вътрешни политики и да предприеме подходящи мерки, които отговарят по-специално на принципите за защита на данните още при проектирането и по подразбиране."
+		},
+		{
+			"lang": "hu",
+			"text": "A rendelet követelményeinek kielégítése érdekében az érintetteket személyes adataik feldolgozása tekintetében megillető jogok és szabadságok védelme megfelelő műszaki és szervezési intézkedéseket követel meg mind az adatfeldolgozás megtervezésének mind magának az adatfeldolgozásnak az időpontjában. Az adatkezelő az e rendelettel való összhang biztosítása és bizonyítása érdekében belső szakpolitikákat fogad el, valamint különösen a beépített és az alapértelmezett adatvédelem elveit kielégítő megfelelő intézkedéseket alkalmaz."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-protezzjoni tad-drittijiet u l-libertajiet tas-suġġetti tad-dejta fir-rigward tal-ipproċessar ta’ dejta personali teħtieġ li jittieħdu miżuri tekniċi u organizzattivi xierqa, kemm fiż-żmien tad-disinn tal-ipproċessar u fiż-żmien tal-ipproċessar innifsu, sabiex ikun żgurat li r-rekwiżiti ta’ dan ir-Regolament jiġu ssodisfati. Sabiex jassigura u juri konformità ma’ dan ir-Regolament, il-kontrollur għandu jadotta politiki interni u jimplimenta miżuri xierqa, li b’mod partikolari jissodisfaw il-prinċipji tal-protezzjoni tad-dejta bid-disinn u l-protezzjoni tad-dejta b’mod awtomatiku."
+		},
+		{
+			"lang": "lv",
+			"text": "Datu subjektu tiesību un brīvību aizsardzība attiecībā uz personas datu apstrādi prasa atbilstošus tehniskus un organizatoriskus pasākumus gan apstrādes sistēmas izveides laikā, gan pašas apstrādes laikā, lai nodrošinātu, ka tiek ievērotas šīs regulas prasības. Lai nodrošinātu un uzskatāmi parādītu, ka šī regula ir ievērota, pārzinim būtu jāpieņem iekšējas vadlīnijas un jāīsteno atbilstoši pasākumi, kas jo īpaši atbilst integrētas datu aizsardzības un datu aizsardzības pēc noklusējuma principiem."
+		},
+		{
+			"lang": "ro",
+			"text": "Protecția drepturilor și libertăților persoanelor vizate în ceea ce privește prelucrarea datelor cu caracter personal necesită adoptarea de măsuri tehnice și organizatorice corespunzătoare, atât în momentul conceperii prelucrării, cât și în cel al prelucrării în sine, pentru a se asigura îndeplinirea cerințelor prezentului regulament. În scopul asigurării și al demonstrării conformității cu prezentul regulament, operatorul ar trebui să adopte politici interne și să pună în aplicare măsuri corespunzătoare, care să respecte, în special, principiul luării în considerare a protecției datelor începând cu momentul conceperii și cel al protecției implicite a datelor."
+		},
+		{
+			"lang": "sk",
+			"text": "Ochrana práv a slobôd dotknutých osôb v súvislosti so spracúvaním osobných údajov si vyžaduje prijatie primeraných technických a organizačných opatrení v čase prípravy spracúvania a aj v čase samotného spracúvania, aby sa zabezpečilo splnenie požiadaviek uvedených v tomto nariadení. Aby sa zabezpečil a preukázal súlad s týmto nariadením, prevádzkovateľ by mal prijať interné pravidlá a uplatniť primerané opatrenia, ktoré budú rešpektovať najmä zásady ochrany údajov špecificky navrhnutej a ochrany údajov štandardne určenej."
+		},
+		{
+			"lang": "sl",
+			"text": "Varstvo pravic in svoboščin posameznikov, na katere se nanašajo osebni podatki, pri obdelavi osebnih podatkov zahteva, da se sprejmejo ustrezni tehnični in organizacijski ukrepi, tako med načrtovanjem obdelave kot med samo obdelavo, in tako zagotovi, da so zahteve iz te uredbe izpolnjene. Za zagotovitev in dokaz skladnosti s to uredbo bi moral upravljavec sprejeti notranje politike in izvesti ustrezne ukrepe, ki izpolnjujejo zlasti načeli vgrajenega varstva podatkov."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisteröidyn oikeuksien ja vapauksien suoja henkilötietojen käsittelyssä edellyttää, että toteutetaan asianmukaiset tekniset ja organisatoriset toimenpiteet sekä käsittelyn suunnittelu- että toteuttamisvaiheessa, asetuksessa säädettyjen vaatimusten noudattamiseksi. Varmistaakseen ja osoittaakseen, että asetusta on noudatettu, rekisterinpitäjän olisi hyväksyttävä sisäisiä menettelyjä ja toteutettava asianmukaiset toimenpiteet, jotka vastaavat erityisesti sisäänrakennetun ja oletusarvoisen tietosuojan periaatteita."
+		},
+		{
+			"lang": "pl",
+			"text": "Ochrona praw i wolności podmiotów danych w zakresie przetwarzania danych osobowych wymaga podjęcia odpowiednich środków technicznych i organizacyjnych, zarówno przy przygotowywaniu przetwarzania, jak i podczas samego przetwarzania, w celu zagwarantowania spełnienia wymogów niniejszego rozporządzenia. By zapewnić i wykazać zgodność z niniejszym rozporządzeniem, administrator powinien przyjąć wewnętrzne polityki i wdrożyć odpowiednie środki, które są w szczególności zgodne z zasadą uwzględnienia ochrony danych już w fazie projektowania oraz zasadą domyślnej ochrony danych."
+		},
+		{
+			"lang": "lt",
+			"text": "dėl duomenų subjektų teisių ir laisvių apsaugos tvarkant asmens duomenis reikia imtis tinkamų techninių ir organizacinių priemonių siekiant užtikrinti, kad ir kuriant duomenų tvarkymo sistemas, ir duomenis tvarkant, būtų laikomasi reglamento reikalavimų. Siekdamas užtikrinti ir įrodyti šio reglamento nuostatų laikymąsi, duomenų valdytojas turėtų priimti vidaus nuostatas ir įdiegti tinkamas priemones, kuriomis visų pirma paisoma pritaikytosios ir standartizuotosios duomenų apsaugos principų;"
+		},
+		{
+			"lang": "nl",
+			"text": "Ter bescherming van de rechten en vrijheden van de betrokkenen in verband met de verwerking van persoonsgegevens zijn zowel bij het ontwerpen als bij de uitvoering van de verwerking passende technische en organisatorische maatregelen nodig, om te waarborgen dat aan de bepalingen van deze verordening wordt voldaan. Teneinde overeenstemming met deze verordening te waarborgen en aan te tonen, dient de voor de verwerking verantwoordelijke intern beleid vast te stellen en passende maatregelen te treffen, die in het bijzonder voldoen aan de beginselen inzake privacy by design en by default."
+		},
+		{
+			"lang": "sv",
+			"text": "Skyddet av de registrerades fri- och rättigheter i samband med behandling av personuppgifter förutsätter att lämpliga tekniska och organisatoriska åtgärder vidtas både när behandlingen utformas och i själva behandlingsögonblicket så att kraven i denna förordning uppfylls. För att säkerställa och visa att denna förordning följs, bör den registeransvarige anta interna strategier och vidta lämpliga åtgärder, särskilt för att uppfylla principerna om inbyggt uppgiftsskydd och uppgiftsskydd som standard."
+		}
+	],
+	"children": [],
+	"title": "Recital 61"
+}

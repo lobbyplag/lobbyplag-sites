@@ -1,0 +1,102 @@
+{
+	"id": "a37p1i6",
+	"type": "point",
+	"literal": "f",
+	"parent": "a37p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "to monitor the performance of the data protection impact assessment by the controller or processor and the application for prior authorisation or prior consultation, if required pursuant Articles 33 and 34;"
+		},
+		{
+			"lang": "de",
+			"text": "Überwachung der von dem für die Verarbeitung Verantwortlichen oder vom Auftragsverarbeiter durchgeführten Datenschutz-Folgenabschätzung sowie der Beantragung einer vorherigen Genehmigung beziehungsweise Zurateziehung gemäß den Artikeln 33 und 34;"
+		},
+		{
+			"lang": "fr",
+			"text": "vérifier que le responsable du traitement ou le sous‑traitant a réalisé l’analyse d’impact relative à la protection des données, et que les demandes d'autorisation ou de consultation préalables ont été introduites, si elles sont requises au titre des articles 33 et 34;"
+		},
+		{
+			"lang": "es",
+			"text": "supervisar la realización de la evaluación de impacto relativa a la protección de datos por parte del responsable o del encargado del tratamiento y la presentación de solicitudes de autorización o consulta previas, si fueran necesarias de conformidad con lo dispuesto en los artículos 33 y 34;"
+		},
+		{
+			"lang": "pt",
+			"text": "Acompanhar a realização da avaliação de impacto sobre a proteção de dados pelo responsável pelo tratamento ou pelo subcontratante, bem como os pedidos de autorização prévia ou de consulta prévia, se necessário, nos termos dos artigos 33.º e 34.º;"
+		},
+		{
+			"lang": "it",
+			"text": "controllare che il responsabile del trattamento o l’incaricato del trattamento effettui la valutazione d’impatto sulla protezione dei dati e richieda l’autorizzazione preventiva o la consultazione preventiva nei casi previsti dagli articoli 33 e 34;"
+		},
+		{
+			"lang": "ga",
+			"text": "beidh air faireachán a dhéanamh ar fheidhmíocht an mheasúnaithe tionchair ar chosaint sonraí arna dhéanamh ag an rialaitheoir nó ag an bpróiseálaí agus ar iarratas ar réamhúdarú nó ar réamhchomhairliúchán, má cheanglaítear amhlaidh de bhun Airteagal 33 agus Airteagal 34;"
+		},
+		{
+			"lang": "cs",
+			"text": "sledovat, zda správce nebo zpracovatel vypracovávají posouzení dopadu na ochranu údajů a žádají o předchozí povolení nebo předchozí konzultaci, jsou-li těmito úkony povinováni podle článků 33 a 34;"
+		},
+		{
+			"lang": "da",
+			"text": "at kontrollere den registeransvarliges eller registerførerens gennemførelse af konsekvensanalyser vedrørende databeskyttelse og anvendelsen af forudgående godkendelse eller høring, hvis det kræves i henhold til artikel 33 og 34"
+		},
+		{
+			"lang": "et",
+			"text": "jälgida isikuandmete kaitsele avaldatava mõju hinnangu koostamist vastutava töötleja ja volitatud töötleja poolt ning eelneva loa taotlemist ja eelneva konsulteerimise kohaldamist, kui seda nõutakse vastavalt artiklitele 33 ja 34;"
+		},
+		{
+			"lang": "el",
+			"text": "στ) να παρακολουθεί τη διενέργεια της εκτίμησης επιπτώσεων σχετικά με την προστασία των δεδομένων από τον υπεύθυνο επεξεργασίας ή τον εκτελούντα την επεξεργασία και την αίτηση περί προηγούμενης έγκρισης ή προηγούμενης διαβούλευσης, εφόσον απαιτείται δυνάμει των άρθρων 33 και 34·"
+		},
+		{
+			"lang": "bg",
+			"text": "е) да наблюдава извършването на оценката на въздействието върху защитата на данните от администратора или обработващия лични данни и прилагането на процедурата за предварително разрешение или предварителна консултация, ако това се изисква по силата на членове 33 и 34;"
+		},
+		{
+			"lang": "hu",
+			"text": "az adatkezelő vagy -feldolgozó által végzett adatvédelmi hatásvizsgálat és – szükség esetén – a 33. és 34. cikk szerinti előzetes engedélyezés vagy előzetes konzultáció alkalmazásának ellenőrzése;"
+		},
+		{
+			"lang": "mt",
+			"text": "jissorvelja t-twettiq tal-valutazzjoni tal-impatt fuq il-protezzjoni tad-dejta mill-kontrollur jew mill-proċessur u l-applikazzjoni għal awtorizzazzjoni minn qabel jew konsultazzjoni minn qabel, jekk dan ikun meħtieġ skont l-Artikoli 33 u 34;"
+		},
+		{
+			"lang": "lv",
+			"text": "uzraudzīt, kā pārzinis vai apstrādātājs veic datu aizsardzības ietekmes novērtējumu un kā tiek ievēroti noteikumi par iepriekšēju atļauju vai iepriekšēju apspriešanos saskaņā ar 33. un 34. pantu;"
+		},
+		{
+			"lang": "ro",
+			"text": "monitorizarea efectuării de către operator sau de persoana împuternicită de către operator a evaluării impactului și a introducerii cererilor de autorizare sau consultare prealabilă, dacă este cazul, în conformitate cu articolele 33 și 34;"
+		},
+		{
+			"lang": "sk",
+			"text": "monitorovanie posudzovania vplyvu na ochranu údajov vykonávaného prevádzkovateľom alebo sprostredkovateľom a uplatňovanie požiadavky na povolenie vopred alebo konzultácie vopred, pokiaľ sa vyžadujú podľa článkov 33 a 34;"
+		},
+		{
+			"lang": "sl",
+			"text": "spremljanje izvajanja ocene učinka o varstvu podatkov s strani upravljavca ali obdelovalca in uporabe predhodne odobritve ali predhodnega posvetovanja, če se to zahteva v skladu s členoma 33 in 34;"
+		},
+		{
+			"lang": "fi",
+			"text": "seurata tietosuojaa koskevan vaikutustenarvioinnin laatimista rekisterinpitäjän tai henkilötietojen käsittelijän toimesta sekä ennakkohyväksynnän tai ennakkokuulemisen soveltamista, jos ne vaaditaan 33 ja 34 artiklan nojalla;"
+		},
+		{
+			"lang": "pl",
+			"text": "monitorowanie przeprowadzenia oceny skutków w zakresie ochrony danych przez administratora lub podmiot przetwarzający oraz wniosków o uprzednie zezwolenie lub uprzednią konsultację, jeśli są one wymagane na mocy art. 33 i art. 34;"
+		},
+		{
+			"lang": "lt",
+			"text": "stebėti, kaip duomenų valdytojas arba duomenų tvarkytojas atlieka duomenų apsaugos poveikio vertinimą ir teikia prašymus dėl išankstinio leidimo arba išankstinio konsultavimosi, jei to reikia pagal 33 ir 34 straipsnius;"
+		},
+		{
+			"lang": "nl",
+			"text": "het toezien op de uitvoering van de privacyeffectbeoordeling door de voor de verwerking verantwoordelijke of de verwerker en op het verzoek om voorafgaande toestemming of raadpleging, voor zover daartoe op grond van de artikelen 33 en 34 een verplichting bestaat;"
+		},
+		{
+			"lang": "sv",
+			"text": "Att övervaka genomförandet av den registeransvariges eller registerförarens konsekvensbedömning avseende uppgiftsskydd och ansökan om förhandstillstånd eller förhandssamråd, om så krävs enligt artiklarna 33 och 34."
+		}
+	],
+	"children": [],
+	"title": "Article 37 – Paragraph 1 – Point 6"
+}

@@ -1,0 +1,108 @@
+{
+	"id": "a48",
+	"type": "article",
+	"literal": "48",
+	"parent": "c6s1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "General conditions for the members of the supervisory authority"
+		},
+		{
+			"lang": "de",
+			"text": "Allgemeine Bedingungen für die Mitglieder der Aufsichtsbehörde"
+		},
+		{
+			"lang": "fr",
+			"text": "Conditions générales applicables aux membres de l'autorité de contrôle"
+		},
+		{
+			"lang": "es",
+			"text": "Condiciones generales aplicables a los miembros de la autoridad de control"
+		},
+		{
+			"lang": "pt",
+			"text": "Condições gerais aplicáveis aos membros da autoridade de controlo"
+		},
+		{
+			"lang": "it",
+			"text": "Condizioni generali per i membri dell’autorità di controllo"
+		},
+		{
+			"lang": "ga",
+			"text": "Coinníollacha ginearálta do chomhaltaí an údaráis mhaoirseachta"
+		},
+		{
+			"lang": "cs",
+			"text": "Obecné podmínky pro členy orgánu dozoru"
+		},
+		{
+			"lang": "da",
+			"text": "Generelle betingelser for medlemmerne af tilsynsmyndigheden"
+		},
+		{
+			"lang": "et",
+			"text": "Järelevalveasutuse liikmetele esitatavad üldtingimused"
+		},
+		{
+			"lang": "el",
+			"text": "Γενικές προϋποθέσεις για τα μέλη της αρχής ελέγχου"
+		},
+		{
+			"lang": "bg",
+			"text": "Общи условия за членовете на надзорния орган"
+		},
+		{
+			"lang": "hu",
+			"text": "A felügyelő hatóság tagjaira vonatkozó általános feltételek"
+		},
+		{
+			"lang": "mt",
+			"text": "Kundizzjonijiet ġenerali għall-membri tal-awtorità ta’ superviżjoni"
+		},
+		{
+			"lang": "lv",
+			"text": "Vispārīgi noteikumi par uzraudzības iestādes locekļiem"
+		},
+		{
+			"lang": "ro",
+			"text": "Condiții generale aplicabile membrilor autorității de supraveghere"
+		},
+		{
+			"lang": "sk",
+			"text": "Všeobecné podmienky členstva v dozorných orgánoch"
+		},
+		{
+			"lang": "sl",
+			"text": "Splošni pogoji za člane nadzornega organa"
+		},
+		{
+			"lang": "fi",
+			"text": "Valvontaviranomaisen jäseniä koskevat yleiset edellytykset"
+		},
+		{
+			"lang": "pl",
+			"text": "Ogólne warunki dotyczące członków organu nadzorczego"
+		},
+		{
+			"lang": "lt",
+			"text": "Bendrieji reikalavimai priežiūros institucijos nariams"
+		},
+		{
+			"lang": "nl",
+			"text": "Algemene voorwaarden voor de leden van de toezichthoudende autoriteit"
+		},
+		{
+			"lang": "sv",
+			"text": "Allmänna villkor för tillsynsmyndighetens ledamöter"
+		}
+	],
+	"children": [
+		"a48p1",
+		"a48p2",
+		"a48p3",
+		"a48p4",
+		"a48p5"
+	],
+	"title": "Article 48"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "a53p1i8",
+	"type": "point",
+	"literal": "h",
+	"parent": "a53p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "to suspend data flows to a recipient in a third country or to an international organisation;"
+		},
+		{
+			"lang": "de",
+			"text": "die Übermittlung von Daten an einen Empfänger in einem Drittland oder an eine internationale Organisation zu unterbinden,"
+		},
+		{
+			"lang": "fr",
+			"text": "de suspendre les flux de données adressés à un destinataire situé dans un pays tiers ou à une organisation internationale;"
+		},
+		{
+			"lang": "es",
+			"text": "suspender los flujos de datos hacia un destinatario situado en un tercer país o hacia una organización internacional;"
+		},
+		{
+			"lang": "pt",
+			"text": "Suspender o intercâmbio de dados com um destinatário num país terceiro ou com uma organização internacional;"
+		},
+		{
+			"lang": "it",
+			"text": "sospendere la circolazione dei dati verso un destinatario in un paese terzo o un’organizzazione internazionale;"
+		},
+		{
+			"lang": "ga",
+			"text": "sreabha sonraí chuig tríú tíortha nó chuig eagraíocht idirnáisiúnta a chur ar fionraí;"
+		},
+		{
+			"lang": "cs",
+			"text": "přerušit předávání údajů příjemci ve třetí zemi nebo předávání údajů mezinárodní organizaci;"
+		},
+		{
+			"lang": "da",
+			"text": "til at suspendere videregivelsen af oplysninger til et tredjeland eller en international organisation"
+		},
+		{
+			"lang": "et",
+			"text": "peatada kolmandas riigis asuvale vastuvõtjale või rahvusvahelisele organisatsioonile suunatud andmevoog;"
+		},
+		{
+			"lang": "el",
+			"text": "η) να αναστέλλει τις ροές δεδομένων σε αποδέκτη σε τρίτη χώρα ή σε διεθνή οργανισμό·"
+		},
+		{
+			"lang": "bg",
+			"text": "з) да преустановява потоци от данни към получател в трета държава или към международна организация;"
+		},
+		{
+			"lang": "hu",
+			"text": "felfüggessze a harmadik országbeli címzett vagy nemzetközi szervezet felé irányuló adatáramlást;"
+		},
+		{
+			"lang": "mt",
+			"text": "li tissospendi flussi ta’ dejta lil riċevitur f’pajjiż terz jew lil xi organizzazzjoni internazzjonali;"
+		},
+		{
+			"lang": "lv",
+			"text": "apturēt datu plūsmu pie saņēmēja trešā valstī vai pie starptautiskas organizācijas;"
+		},
+		{
+			"lang": "ro",
+			"text": "să suspende fluxurile de date către un destinatar într-o țară terță sau către o organizație internațională;"
+		},
+		{
+			"lang": "sk",
+			"text": "pozastaviť tok údajov smerom k príjemcovi v tretej krajine alebo medzinárodnej organizácii,"
+		},
+		{
+			"lang": "sl",
+			"text": "prekine prenose podatkov prejemniku v tretji državi ali mednarodni organizaciji;"
+		},
+		{
+			"lang": "fi",
+			"text": "keskeyttää tiedonsiirrot kolmannessa maassa olevalle vastaanottajalle tai kansainväliselle järjestölle;"
+		},
+		{
+			"lang": "pl",
+			"text": "zawieszenia przepływu danych do odbiorcy w państwie trzecim lub w organizacji międzynarodowej;"
+		},
+		{
+			"lang": "lt",
+			"text": "sustabdyti duomenų srautus duomenų gavėjui trečiojoje šalyje arba tarptautinei organizacijai;"
+		},
+		{
+			"lang": "nl",
+			"text": "gegevensstromen naar een ontvanger in een derde land of naar een internationale organisatie op te schorten;"
+		},
+		{
+			"lang": "sv",
+			"text": "avbryta flödet av uppgifter till en mottagare i tredje land eller en internationell organisation,"
+		}
+	],
+	"children": [],
+	"title": "Article 53 – Paragraph 1 – Point 8"
+}

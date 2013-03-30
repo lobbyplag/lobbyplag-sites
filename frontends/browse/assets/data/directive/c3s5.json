@@ -1,0 +1,104 @@
+{
+	"id": "c3s5",
+	"type": "section",
+	"literal": "5",
+	"parent": "c3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Restrictions"
+		},
+		{
+			"lang": "de",
+			"text": "BESCHRÄNKUNGEN"
+		},
+		{
+			"lang": "fr",
+			"text": "Limitations"
+		},
+		{
+			"lang": "es",
+			"text": "Limitaciones"
+		},
+		{
+			"lang": "pt",
+			"text": "LIMITAÇÕES"
+		},
+		{
+			"lang": "it",
+			"text": "Limitazioni"
+		},
+		{
+			"lang": "ga",
+			"text": "Srianta"
+		},
+		{
+			"lang": "cs",
+			"text": "OMEZENÍ"
+		},
+		{
+			"lang": "da",
+			"text": "Begrænsninger"
+		},
+		{
+			"lang": "et",
+			"text": "PIIRANGUD"
+		},
+		{
+			"lang": "el",
+			"text": "ΠΕΡΙΟΡΙΣΜΟΙ"
+		},
+		{
+			"lang": "bg",
+			"text": "Ограничения"
+		},
+		{
+			"lang": "hu",
+			"text": "KORLÁTOZÁSOK"
+		},
+		{
+			"lang": "mt",
+			"text": "RESTRIZZJONIJIET"
+		},
+		{
+			"lang": "lv",
+			"text": "Ierobežojumi"
+		},
+		{
+			"lang": "ro",
+			"text": "Restricții"
+		},
+		{
+			"lang": "sk",
+			"text": "OBMEDZENIA"
+		},
+		{
+			"lang": "sl",
+			"text": "OMEJITVE"
+		},
+		{
+			"lang": "fi",
+			"text": "Rajoitukset"
+		},
+		{
+			"lang": "pl",
+			"text": "Ograniczenia"
+		},
+		{
+			"lang": "lt",
+			"text": "APRIBOJIMAI"
+		},
+		{
+			"lang": "nl",
+			"text": "Beperkingen"
+		},
+		{
+			"lang": "sv",
+			"text": "BEGRÄNSNINGAR"
+		}
+	],
+	"children": [
+		"a21"
+	],
+	"title": "Chapter 3 – Section 5"
+}

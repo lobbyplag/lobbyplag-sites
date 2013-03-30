@@ -1,0 +1,102 @@
+{
+	"id": "a72p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a72",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The discussions of the European Data Protection Board shall be confidential."
+		},
+		{
+			"lang": "de",
+			"text": "Die Beratungen des Europäischen Datenschutzausschusses sind vertraulich."
+		},
+		{
+			"lang": "fr",
+			"text": "Les débats du comité européen de la protection des données sont confidentiels."
+		},
+		{
+			"lang": "es",
+			"text": "Los debates del Consejo Europeo de Protección de Datos serán confidenciales."
+		},
+		{
+			"lang": "pt",
+			"text": "Os debates do Comité Europeu para a Proteção de Dados são confidenciais."
+		},
+		{
+			"lang": "it",
+			"text": "Le deliberazioni del comitato europeo per la protezione dei dati hanno carattere riservato."
+		},
+		{
+			"lang": "ga",
+			"text": "Beidh pléití an Bhoird Eorpaigh um Chosaint Sonraí faoi rún."
+		},
+		{
+			"lang": "cs",
+			"text": "Jednání Evropské rady pro ochranu údajů jsou důvěrná."
+		},
+		{
+			"lang": "da",
+			"text": "Det Europæiske Databeskyttelsesråds drøftelser er fortrolige."
+		},
+		{
+			"lang": "et",
+			"text": "Euroopa Andmekaitsenõukogu arutelud on konfidentsiaalsed."
+		},
+		{
+			"lang": "el",
+			"text": "Οι εργασίες του Ευρωπαϊκού Συμβουλίου Προστασίας Δεδομένων είναι εμπιστευτικές."
+		},
+		{
+			"lang": "bg",
+			"text": "Обсъжданията на Европейския комитет по защита на данните са поверителни."
+		},
+		{
+			"lang": "hu",
+			"text": "Az Európai Adatvédelmi Testület megbeszélései titkosak."
+		},
+		{
+			"lang": "mt",
+			"text": "Id-diskussjonijiet tal-Bord Ewropew għall-Protezzjoni tad-Dejta għandhom ikunu kunfidenzjali."
+		},
+		{
+			"lang": "lv",
+			"text": "Eiropas Datu aizsardzības kolēģijas apspriedes ir konfidenciālas"
+		},
+		{
+			"lang": "ro",
+			"text": "Discuțiile din cadrul Comitetului european pentru protecția datelor sunt confidențiale."
+		},
+		{
+			"lang": "sk",
+			"text": "Zasadnutia Európskeho výboru pre ochranu údajov sú dôverné."
+		},
+		{
+			"lang": "sl",
+			"text": "Razprave Evropskega odbora za varstvo podatkov so zaupne."
+		},
+		{
+			"lang": "fi",
+			"text": "Euroopan tietosuojaneuvoston keskustelut ovat luottamuksellisia."
+		},
+		{
+			"lang": "pl",
+			"text": "Obrady Europejskiej Rady Ochrony Danych są poufne."
+		},
+		{
+			"lang": "lt",
+			"text": "Europos duomenų apsaugos valdybos diskusijos yra konfidencialios."
+		},
+		{
+			"lang": "nl",
+			"text": "De besprekingen van het Europees Comité voor gegevensbescherming zijn vertrouwelijk."
+		},
+		{
+			"lang": "sv",
+			"text": "Europeiska dataskyddsstyrelsens överläggningar ska vara konfidentiella."
+		}
+	],
+	"children": [],
+	"title": "Article 72 – Paragraph 1"
+}

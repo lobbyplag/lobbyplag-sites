@@ -1,0 +1,102 @@
+{
+	"id": "a79p6i8",
+	"type": "point",
+	"literal": "h",
+	"parent": "a79p6",
+	"text": [
+		{
+			"lang": "en",
+			"text": "does not alert on or notify a personal data breach or does not timely or completely notify the data breach to the supervisory authority or to the data subject pursuant to Articles 31 and 32;"
+		},
+		{
+			"lang": "de",
+			"text": "die Aufsichtsbehörde bei einer Verletzung des Schutzes personenbezogener Daten nicht alarmiert oder sie oder die betroffene Person gemäß den Artikeln 31 und 32 nicht oder nicht rechtzeitig oder nicht vollständig von einer solchen Verletzung benachrichtigt;"
+		},
+		{
+			"lang": "fr",
+			"text": "omet de signaler ou de notifier une violation de données à caractère personnel, ou omet de notifier la violation en temps utile ou de façon complète à l'autorité de contrôle ou à la personne concernée conformément aux articles 31 et 32;"
+		},
+		{
+			"lang": "es",
+			"text": "no alerte o no notifique una violación de datos personales o no notifique a tiempo o completamente la violación de datos personales a la autoridad de control o al interesado de acuerdo con los artículos 31 y 32;"
+		},
+		{
+			"lang": "pt",
+			"text": "Não assinale ou não notifique uma violação de dados pessoais, ou não notifique de forma atempada ou completa a violação de dados à autoridade de controlo ou ao titular dos dados, nos termos dos artigos 31.º e 32.º;"
+		},
+		{
+			"lang": "it",
+			"text": "omette di allertare o notificare all’autorità di controllo o all’interessato una violazione di dati personali, oppure non la notifica tempestivamente o integralmente, in violazione degli articoli 31 e 32;"
+		},
+		{
+			"lang": "ga",
+			"text": "aon duine nach dtugann foláireamh ná nach dtugann fógra faoi shárú i ndáil le sonraí pearsanta nó nach dtugann fógra tráthúil nó iomlán faoin sárú i ndáil le sonraí don údarás maoirseachta nó don duine is ábhar do na sonraí de bhun Airteagal 31 agus Airteagal 32;"
+		},
+		{
+			"lang": "cs",
+			"text": "neupozorní na narušení bezpečnosti osobních údajů orgán dozoru nebo subjekt údajů podle článků 31 a 32 nebo jim toto narušení neohlásí nebo je neohlásí včas či v úplnosti;"
+		},
+		{
+			"lang": "da",
+			"text": "ikke varsler eller anmelder et brud på persondatasikkerheden eller ikke rettidigt eller udførligt anmelder bruddet på persondatasikkerheden til tilsynsmyndigheden eller den registrerede i henhold til artikel 31 og 32"
+		},
+		{
+			"lang": "et",
+			"text": "ei hoiata ega teata isikuandmetega seotud rikkumisest ega anna järelevalveasutusele ja andmesubjektile õigeaegselt või täies ulatuses teada andmetega seotud rikkumisest vastavalt artiklitele 31 ja 32;"
+		},
+		{
+			"lang": "el",
+			"text": "η) δεν ειδοποιεί ούτε ενημερώνει για παραβίαση δεδομένων προσωπικού χαρακτήρα ή δεν ενημερώνει εμπρόθεσμα ή πλήρως για παραβίαση δεδομένων την αρχή ελέγχου ή το πρόσωπο στο οποίο αναφέρονται τα δεδομένα δυνάμει των άρθρων 31 και 32·"
+		},
+		{
+			"lang": "bg",
+			"text": "з) не предупреждава или не уведомява за нарушение на сигурността на личните данни, или не уведомява своевременно или изчерпателно за нарушението надзорния орган или субекта на данни съгласно членове 31 и 32;"
+		},
+		{
+			"lang": "hu",
+			"text": "nem, vagy nem időben vagy nem teljes mértékben figyelmezteti vagy értesíti a felügyelő hatóságot vagy az érintettet a személyes adatok megsértéséről a 31. és a 32. cikk szerint;"
+		},
+		{
+			"lang": "mt",
+			"text": "ma jwissix dwar jew ma jinnotifikax ksur ta’ dejta personali jew ma jinnotifikax fil-ħin jew għal kollox il-ksur tad-dejta lill-awtorità ta’ superviżjoni jew lis-suġġett tad-dejta skont l-Artikoli 31 u 32;"
+		},
+		{
+			"lang": "lv",
+			"text": "nebrīdina vai nepaziņo par personas datu aizsardzības pārkāpumu, vai nepaziņo laicīgi, vai paziņo nepilnīgi par datu aizsardzības pārkāpumu uzraudzības iestādei vai datu subjektam saskaņā ar 31. un 32. pantu;"
+		},
+		{
+			"lang": "ro",
+			"text": "nu semnalează sau nu notifică o încălcare a securității datelor cu caracter personal sau nu notifică la timp ori complet autorității de supraveghere sau persoanei vizate încălcarea securității datelor, în temeiul articolelor 31 și 32;"
+		},
+		{
+			"lang": "sk",
+			"text": "neupozorní na porušenie ochrany osobných údajov alebo neoznámi porušenie ochrany údajov včas alebo vôbec dozornému orgánu alebo dotknutej osobe podľa článkov 31 a 32;"
+		},
+		{
+			"lang": "sl",
+			"text": "nadzornega organa ali posameznika, na katerega se nanašajo osebni podatki, ne opozori ali ne obvesti o kršitvi varnosti osebnih podatkov v skladu s členoma 31 in 32 oziroma to obvestilo ni pravočasno ali popolno;"
+		},
+		{
+			"lang": "fi",
+			"text": "ei anna hälytystä henkilötietojen tietoturvaloukkauksen vuoksi tai ei ilmoita siitä tai ei ilmoita tietoturvaloukkauksesta oikea-aikaisesti tai kokonaan valvontaviranomaiselle tai rekisteröidylle 31 ja 32 artiklan mukaisesti;"
+		},
+		{
+			"lang": "pl",
+			"text": "nie ostrzega, ani nie zawiadamia o naruszeniu ochrony danych osobowych lub nie zawiadamia terminowo i w całości o naruszeniu danych organu nadzorczego lub podmiotu danych na mocy art. 31 i 32;"
+		},
+		{
+			"lang": "lt",
+			"text": "neįspėja ar nepraneša apie asmens duomenų saugumo pažeidimą, arba laiku nepraneša ar neišsamiai praneša apie duomenų saugumo pažeidimą priežiūros institucijai arba duomenų subjektui pagal 31 ir 32 straipsnius;"
+		},
+		{
+			"lang": "nl",
+			"text": "de toezichthoudende autoriteit of de betrokkene niet waarschuwt bij een inbreuk in verband met persoonsgegevens of die inbreuk niet tijdig of niet volledig meldt overeenkomstig de artikelen 31 en 32;"
+		},
+		{
+			"lang": "sv",
+			"text": "underlåter att signalera eller meddela ett personuppgiftsbrott eller att i tid och utan inskränkningar anmäla personuppgiftsbrottet till tillsynsmyndigheten eller meddela den registrerade i enlighet med artiklarna 31 och 32,"
+		}
+	],
+	"children": [],
+	"title": "Article 79 – Paragraph 6 – Point 8"
+}

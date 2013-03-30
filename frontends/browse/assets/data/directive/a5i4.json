@@ -1,0 +1,102 @@
+{
+	"id": "a5i4",
+	"type": "point",
+	"literal": "d",
+	"parent": "a5",
+	"text": [
+		{
+			"lang": "en",
+			"text": "accurate and kept up to date; every reasonable step must be taken to ensure that personal data that are inaccurate, having regard to the purposes for which they are processed, are erased or rectified without delay;"
+		},
+		{
+			"lang": "de",
+			"text": "sachlich richtig und auf dem neuesten Stand sein; dabei sind alle angemessenen Maßnahmen zu treffen, damit personenbezogene Daten, die im Hinblick auf die Zwecke ihrer Verarbeitung unzutreffend sind, unverzüglich gelöscht oder berichtigt werden;"
+		},
+		{
+			"lang": "fr",
+			"text": "exactes et tenues à jour; toutes les mesures raisonnables sont prises pour que les données inexactes, eu égard aux finalités pour lesquelles elles sont traitées, soient effacées ou rectifiées sans délai;"
+		},
+		{
+			"lang": "es",
+			"text": "exactos y se mantendrán actualizados; se habrán de adoptar todas las medidas razonables para que se supriman o rectifiquen sin demora los datos personales que sean inexactos con respecto a los fines para los que se tratan;"
+		},
+		{
+			"lang": "pt",
+			"text": "Exatos e atualizados; devem ser adotadas todas as medidas razoáveis para que os dados inexatos, tendo em conta as finalidades para que são tratados, sejam apagados ou retificados sem demora;"
+		},
+		{
+			"lang": "it",
+			"text": "esatti e aggiornati; devono essere prese tutte le misure ragionevoli per cancellare o rettificare tempestivamente i dati inesatti rispetto alle finalità per le quali sono trattati;"
+		},
+		{
+			"lang": "ga",
+			"text": "ní mór dóibh a bheith cruinn agus cothrom le dáta; ní mór gach beart réasúnta a dhéanamh chun a áirithiú go scriostar nó go gceartaítear sonraí pearsanta míchruinne gan mhoill, ag féachaint do na críocha ar chucu a dhéantar iad a phróiseáil;"
+		},
+		{
+			"lang": "cs",
+			"text": "přesné a aktualizované; musí být přijata veškerá rozumná opatření, aby osobní údaje, které jsou nepřesné z hlediska účelů, pro které se zpracovávají, byly bezodkladně vymazány nebo opraveny;"
+		},
+		{
+			"lang": "da",
+			"text": "skal være korrekte og ajourførte; der skal tages ethvert rimeligt skridt til at sikre, at personoplysninger, der er urigtige i forhold til de formål, hvortil de behandles, omgående slettes eller berigtiges"
+		},
+		{
+			"lang": "et",
+			"text": "isikuandmed on alati täpsed ja ajakohased ning et võetakse kõik mõistlikud meetmed, et töötlemise eesmärgi seisukohalt ebatäpsed isikuandmed kustutakse või parandatakse viivitamata;"
+		},
+		{
+			"lang": "el",
+			"text": "δ) να είναι ακριβή και να ενημερώνονται· πρέπει να λαμβάνονται όλα τα εύλογα μέτρα ώστε δεδομένα προσωπικού χαρακτήρα τα οποία είναι ανακριβή, σε σχέση με τους σκοπούς για τους οποίους υποβάλλονται σε επεξεργασία, να διαγράφονται ή να διορθώνονται χωρίς καθυστέρηση·"
+		},
+		{
+			"lang": "bg",
+			"text": "г) точни и актуализирани; трябва да се предприемат всички разумни мерки, за да се гарантира своевременното заличаване или коригиране на неточни лични данни, като се имат предвид целите, за които те се обработват;"
+		},
+		{
+			"lang": "hu",
+			"text": "pontosak és naprakész állapotban kell azokat tartani; minden ésszerű intézkedést meg kell tenni annak érdekében, hogy a hibás személyes adatok, tekintettel feldolgozásuk céljaira, haladéktalanul törlésre vagy helyesbítésre kerüljenek;"
+		},
+		{
+			"lang": "mt",
+			"text": "eżatta u miżmuma aġġornata; għandu jsir dak kollu raġonevoli biex ikun żgurat li dejta personali li ma tkunx eżatta, meħud kont tal-finijiet li għalihom tiġi pproċessata, titħassar jew tissewwa mingħajr dewmien;"
+		},
+		{
+			"lang": "lv",
+			"text": "precīziem un atjauninātiem; jāveic visi pamatoti pasākumi, lai nodrošinātu, ka neprecīzi personas dati, ņemot vērā nolūkus, kādos tie tiek apstrādāti, bez kavēšanās tiek dzēsti vai laboti;"
+		},
+		{
+			"lang": "ro",
+			"text": "să fie exacte și actualizate; trebuie să se ia toate măsurile necesare pentru a se asigura că datele cu caracter personal care sunt inexacte, având în vedere scopurile pentru care sunt prelucrate, să fie șterse sau rectificate fără întârziere;"
+		},
+		{
+			"lang": "sk",
+			"text": "presné a aktualizované; musia sa vykonať všetky potrebné kroky, aby sa zabezpečilo, že sa osobné údaje, ktoré sú nepresné z hľadiska účelov, na ktoré sa spracúvajú, bezodkladne vymažú alebo opravia;"
+		},
+		{
+			"lang": "sl",
+			"text": "točni in posodobljeni; sprejeti je treba vse primerne ukrepe za zagotovitev, da se netočni osebni podatki nemudoma izbrišejo ali popravijo ob upoštevanju namenov, za katere se obdelujejo;"
+		},
+		{
+			"lang": "fi",
+			"text": "niiden on oltava täsmällisiä ja päivitettyjä; on tehtävä kaikki mahdollinen sen varmistamiseksi, että käsittelyn tarkoituksiin nähden virheelliset tiedot poistetaan tai oikaistaan viipymättä;"
+		},
+		{
+			"lang": "pl",
+			"text": "ścisłe i, w razie potrzeby, aktualne; należy podjąć wszelkie zasadne działania, by zapewnić niezwłoczne usunięcie lub poprawienie nieścisłych danych osobowych, z uwzględnieniem celów ich przetwarzania;"
+		},
+		{
+			"lang": "lt",
+			"text": "tikslūs ir nuolat atnaujinami; būtina imtis visų pagrįstų priemonių, kad atsižvelgiant į duomenų tvarkymo tikslus netikslūs asmens duomenys būtų nedelsiant ištrinti arba ištaisyti;"
+		},
+		{
+			"lang": "nl",
+			"text": "juist zijn en worden bijgewerkt; alle redelijke maatregelen moeten worden genomen om de persoonsgegevens die, uitgaande van de doeleinden waarvoor zij worden verwerkt, onjuist zijn, onverwijld te wissen of te rectificeren;"
+		},
+		{
+			"lang": "sv",
+			"text": "De ska vara riktiga och aktuella; alla rimliga åtgärder måste vidtas för att säkerställa att personuppgifter som är felaktiga i förhållande till de ändamål för vilka de behandlas raderas eller rättas utan dröjsmål."
+		}
+	],
+	"children": [],
+	"title": "Article 5 – Point 4"
+}

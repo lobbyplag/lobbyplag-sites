@@ -1,0 +1,102 @@
+{
+	"id": "a28p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a28",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Each controller and processor and, if any, the controller's representative, shall maintain documentation of all processing operations under its responsibility."
+		},
+		{
+			"lang": "de",
+			"text": "Alle für die Verarbeitung Verantwortlichen, alle Auftragsverarbeiter sowie etwaige Vertreter von für die Verarbeitung Verantwortlichen dokumentieren die ihrer Zuständigkeit unterliegenden Verarbeitungsvorgänge."
+		},
+		{
+			"lang": "fr",
+			"text": "Chaque responsable du traitement et chaque sous‑traitant ainsi que, le cas échéant, le représentant du responsable du traitement, conservent une trace documentaire de tous les traitements effectués sous leur responsabilité."
+		},
+		{
+			"lang": "es",
+			"text": "Cada responsable y cada encargado del tratamiento, así como, en su caso, el representante del responsable, deberán conservar la documentación de todas las operaciones de tratamiento efectuadas bajo su responsabilidad."
+		},
+		{
+			"lang": "pt",
+			"text": "Cada responsável pelo tratamento e cada subcontratante, bem como, caso exista, o representante do responsável pelo tratamento, mantêm a documentação de todas as operações de tratamento de dados efetuadas sob a sua responsabilidade."
+		},
+		{
+			"lang": "it",
+			"text": "Ogni responsabile del trattamento, incaricato del trattamento ed eventuale rappresentante del responsabile del trattamento conserva la documentazione di tutti i trattamenti effettuati sotto la propria responsabilità."
+		},
+		{
+			"lang": "ga",
+			"text": "Coimeádfaidh gach rialaitheoir agus próiseálaí agus, más ann dó, ionadaí an rialaitheora, doiciméadacht faoi na hoibríochtaí próiseála ar fad a bhfuil sé freagrach astu."
+		},
+		{
+			"lang": "cs",
+			"text": "Každý správce a zpracovatel, a v patřičném případě zástupce správce, vede dokumentaci o všech zpracováních, za která nese odpovědnost."
+		},
+		{
+			"lang": "da",
+			"text": "En registeransvarlig og registerfører samt den registeransvarliges eventuelle repræsentant opbevarer dokumentation for enhver behandling, der gennemføres under denne."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja, volitatud töötleja ja vajaduse korral vastutava töötleja esindaja dokumenteerivad omal vastutusel tehtud töötlemistoimingud."
+		},
+		{
+			"lang": "el",
+			"text": "Κάθε υπεύθυνος επεξεργασίας και κάθε εκτελών την επεξεργασία και, εφόσον συντρέχει περίπτωση, ο εκπρόσωπος του υπευθύνου επεξεργασίας διατηρεί τεκμηρίωση όλων των πράξεων επεξεργασίας για τις οποίες είναι υπεύθυνος."
+		},
+		{
+			"lang": "bg",
+			"text": "Всеки администратор, обработващ лични данни и представител на администратора, ако има такъв, поддържа документация за всички операции по обработване, за които е отговорен."
+		},
+		{
+			"lang": "hu",
+			"text": "Valamennyi adatkezelő és –feldolgozó, valamint – ha van ilyen – az adatkezelő képviselője dokumentálja a feladatkörébe tartozó összes feldolgozási műveletet."
+		},
+		{
+			"lang": "mt",
+			"text": "Kull kontrollur u proċessur u, jekk ikun hemm, ir-rappreżentant tal-kontrollur, għandhom iżommu dokumenti dwar l-operazzjonijiet kollha ta’ pproċessar taħt ir-responsabbiltà tagħhom."
+		},
+		{
+			"lang": "lv",
+			"text": "Katrs pārzinis un apstrādātājs un, ja tāds ir, arī pārziņa pārstāvis uzglabā visu apstrādes darbību dokumentāciju, par kurām tie ir atbildīgi."
+		},
+		{
+			"lang": "ro",
+			"text": "Fiecare operator și persoană împuternicită de operator și, dacă este cazul, reprezentantul operatorului, păstrează documentația referitoare la toate operațiunile de prelucrare derulate sub responsabilitatea sa."
+		},
+		{
+			"lang": "sk",
+			"text": "Každý prevádzkovateľ, sprostredkovateľ a prípadný zástupca prevádzkovateľa musí viesť dokumentáciu všetkých operácií spracovania patriacich do rámca jeho zodpovednosti."
+		},
+		{
+			"lang": "sl",
+			"text": "Vsak upravljavec, obdelovalec in predstavnik upravljavca, če obstaja, ohrani dokumentacijo vseh postopkov obdelave v okviru svoje pristojnosti."
+		},
+		{
+			"lang": "fi",
+			"text": "Jokaisen rekisterinpitäjän ja henkilötietojen käsittelijän sekä rekisterinpitäjän mahdollisen edustajan on säilytettävä asiakirjat kaikista vastuullaan tapahtuvista tietojenkäsittelytoimista."
+		},
+		{
+			"lang": "pl",
+			"text": "Każdy administrator i podmiot przetwarzający oraz ewentualnie przedstawiciel administratora prowadzą dokumentację wszystkich operacji przetwarzania, za które są odpowiedzialni."
+		},
+		{
+			"lang": "lt",
+			"text": "Kiekvienas duomenų valdytojas ir duomenų tvarkytojas, taip pat duomenų valdytojo atstovas, jei toks yra, saugo visų duomenų tvarkymo operacijų, už kurias yra atsakingas, dokumentus."
+		},
+		{
+			"lang": "nl",
+			"text": "Alle voor de verwerking verantwoordelijken, verwerkers alsmede, in voorkomend geval, vertegenwoordigers van de voor de verwerking verantwoordelijke bewaren de documenten inzake alle verwerkingen die onder hun verantwoordelijkheid hebben plaatsgevonden."
+		},
+		{
+			"lang": "sv",
+			"text": "Varje registeransvarig och registerförare samt den registeransvariges eventuella företrädare ska bevara dokumentation om all behandling som utförts under dess ansvar."
+		}
+	],
+	"children": [],
+	"title": "Article 28 – Paragraph 1"
+}

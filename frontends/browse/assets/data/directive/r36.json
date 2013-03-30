@@ -1,0 +1,102 @@
+{
+	"id": "r36",
+	"type": "recital",
+	"literal": "36",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Where processing is carried out in compliance with a legal obligation to which the controller is subject or where processing is necessary for the performance of a task carried out in the public interest or in the exercise of an official authority, the processing should have a legal basis in Union law, or in a Member State law which meets the requirements of the Charter of Fundamental Rights of the European Union for any limitation of the rights and freedoms. It is also for Union or national law to determine whether the controller performing a task carried out in the public interest or in the exercise of official authority should be a public administration or another natural or legal person governed by public law, or by private law such as a professional association."
+		},
+		{
+			"lang": "de",
+			"text": "Erfolgt die Verarbeitung durch den für die Verarbeitung Verantwortlichen aufgrund einer ihm obliegenden gesetzlichen Verpflichtung oder ist die Verarbeitung zur Wahrnehmung einer Aufgabe im öffentlichen Interesse oder in Ausübung hoheitlicher Gewalt erforderlich, muss hierfür eine Rechtsgrundlage im Unionsrecht oder im nationalen Recht bestehen, die im Falle einer Beschneidung von Rechten und Freiheiten den Anforderungen der Charta der Grundrechte der Europäischen Union genügt. Desgleichen muss im Unionsrecht oder im nationalen Recht geregelt werden, ob es sich bei dem für die Verarbeitung Verantwortlichen, der mit der Wahrnehmung einer Aufgabe betraut wurde, die im öffentlichen Interesse liegt oder in Ausübung hoheitlicher Gewalt erfolgt, um eine Behörde oder um eine andere unter das öffentliche Recht fallende natürliche oder juristische Person oder eine natürliche oder juristische Person des Privatrechts, wie beispielsweise eine Berufsvereinigung, handeln soll."
+		},
+		{
+			"lang": "fr",
+			"text": "Lorsque le traitement est réalisé conformément à une obligation légale à laquelle est soumis le responsable du traitement, ou lorsque le traitement est nécessaire à l'exécution d'une mission d'intérêt général ou relevant de l'exercice de l'autorité publique, le traitement devrait avoir son fondement juridique dans le droit de l’Union ou dans une loi nationale respectant les conditions imposées par la charte des droits fondamentaux de l'Union européenne pour toute limitation des droits et des libertés. Il appartient également au droit de l'Union ou à la loi nationale de déterminer si le responsable du traitement investi d'une mission d'intérêt général ou relevant de l'exercice de l'autorité publique doit être une administration publique ou une autre personne physique ou morale de droit public, ou de droit privé telle qu'une association professionnelle."
+		},
+		{
+			"lang": "es",
+			"text": "Cuando se lleve a cabo en cumplimiento de una obligación jurídica a la que esté sujeto el responsable del tratamiento, o si es necesario para el cumplimiento de una misión llevada a cabo por interés público o en el ejercicio de la autoridad pública, el tratamiento debe tener una base jurídica en el Derecho de la Unión o en la legislación de un Estado miembro que cumpla con los requisitos establecidos en la Carta de los Derechos Fundamentales de la Unión Europea en relación con cualquier limitación de los derechos y libertades. Corresponde también al Derecho de la Unión o a las legislaciones nacionales determinar si el responsable del tratamiento que tiene conferida una misión de interés público o inherente al ejercicio del poder público debe ser una administración pública u otra persona de derecho público o privado, como por ejemplo una asociación profesional."
+		},
+		{
+			"lang": "pt",
+			"text": "Sempre que o tratamento for realizado em cumprimento de uma obrigação jurídica à qual esteja sujeito o responsável pelo tratamento, ou se o tratamento for necessário para a execução de uma missão de interesse público ou exercício de prerrogativas de autoridade pública, o tratamento deve ter uma base jurídica no direito da União ou na legislação nacional de um Estado‑Membro que satisfaça as condições impostas pela Carta dos Direitos Fundamentais da União Europeia relativamente a qualquer restrição aos direitos e liberdades. Cabe também ao direito da União ou à legislação nacional determinar se o responsável pelo tratamento que executa uma missão de interesse público ou exerce prerrogativas de autoridade pública deve ser uma administração pública ou outra pessoa singular ou coletiva de direito público, ou de direito privado, por exemplo uma associação profissional."
+		},
+		{
+			"lang": "it",
+			"text": "È opportuno che il trattamento effettuato per adempiere un obbligo legale che incombe al responsabile del trattamento o necessario per l’esecuzione di un compito di interesse pubblico o per l’esercizio di pubblici poteri abbia una base giuridica tratta dal diritto dell’Unione o di uno Stato membro che soddisfi i requisiti della Carta dei diritti fondamentali dell’Unione europea per eventuali limitazione dei diritti e delle libertà. Spetta altresì al diritto dell’Unione o alle legislazioni nazionali stabilire se il responsabile del trattamento che esegue un compito di interesse pubblico o connesso all’esercizio di pubblici poteri debba essere una pubblica amministrazione o altra persona fisica o giuridica di diritto pubblico o privato, quale un’associazione professionale."
+		},
+		{
+			"lang": "ga",
+			"text": "I gcás ina ndéantar próiseáil i gcomhréir le hoibleagáid dhlíthiúil a bhfuil an rialaitheoir faoina réir nó i gcás ina bhfuil gá le próiseáil chun cúram éigin a chur i gcrích a dhéantar chun leas an phobail nó i bhfeidhmiú údaráis oifigiúil, ba cheart bunús dlí a bheith ag an bpróiseáil sin i ndlí an Aontais nó i ndlí Ballstáit a chomhlíonann ceanglais na Cairte um Chearta Bunúsacha an Aontais Eorpaigh maidir le haon teorainn leis na cearta agus saoirsí. Is faoi dhlí an Aontais nó dlí náisiúnta an cinneadh a dhéanamh freisin maidir le cé acu ar cheart don rialaitheoir a chuireann cúram i gcrích chun leas an phobail nó i bhfeidhmiú údaráis oifigiúil, ar cheart dó a bheith ina chuid de riarachán poiblí nó ina dhuine nádúrtha nó dlítheanach eile arna rialú faoin dlí poiblí, nó faoi dhlí príobháideach amhail comhlachas gairmiúil."
+		},
+		{
+			"lang": "cs",
+			"text": "Pokud je zpracování prováděno pro splnění právní povinnosti, které podléhá správce, nebo je nezbytné pro vykonání úkolu ve veřejném zájmu nebo při výkonu veřejné moci, mělo by mít právní základ v právu Unie nebo v právu členského státu, které v případě jakéhokoli omezení práv a svobod splňuje požadavky Listiny základních práv Evropské unie. Obdobně by mělo být v právu Unie nebo vnitrostátním právu určeno, zda by správce vykonávající úkol ve veřejném zájmu nebo při výkonu veřejné moci měl být správním úřadem nebo jinou fyzickou nebo právnickou osobou podléhající veřejnému nebo soukromému právu, například profesním sdružením."
+		},
+		{
+			"lang": "da",
+			"text": "Når behandling foretages i overensstemmelse med en retlig forpligtelse, som den registeransvarlige er underlagt, eller når behandling er nødvendig for at udføre en opgave, der udføres i samfundets interesse eller henhørende under offentlig myndighedsudøvelse, bør behandlingen have sit retsgrundlag i EU-retten eller medlemsstatens lovgivning, som opfylder kravene i Den Europæiske Unions charter om grundlæggende rettigheder, for så vidt angår enhver begrænsning af rettigheder og frihedsrettigheder. EU-retten eller den nationale lovgivning afgør, hvorvidt den registeransvarlige, der udfører en opgave i samfundets interesse eller henhørende under offentlig myndighedsudøvelse, bør være en offentlig myndighed eller en offentligretlig eller privatretlig person, f.eks. en faglig sammenslutning."
+		},
+		{
+			"lang": "et",
+			"text": "Kui töötlemine toimub vastavalt vastutava töötleja seadusjärgsele kohustusele või kui töötlemine on vajalik avalikes huvides täidetava ülesande täitmiseks või ametliku võimu kasutamiseks, peaks töötlemise õiguslik alus olema sätestatud ELi õiguses või liikmesriigi õiguses, mis vastab Euroopa Liidu põhiõiguste harta nõuetele õiguste ja vabaduste mistahes piiramise osas. See, kas avaliku huviga seotud ülesannet täitev või avalikku võimu teostav vastutav töötleja peaks olema riigiasutus või muu avalik-õiguslik või füüsiline või juriidiline isik, näiteks kutseliit, tuleks samuti kindlaks määrata ELi või liikmesriikide õiguses."
+		},
+		{
+			"lang": "el",
+			"text": "Εάν η επεξεργασία διενεργείται για σκοπούς συμμόρφωσης προς νομική υποχρέωση την οποία υπέχει ο υπεύθυνος επεξεργασίας ή εάν η επεξεργασία είναι αναγκαία για την εκτέλεση καθήκοντος που ασκείται για το δημόσιο συμφέρον ή κατά την άσκηση δημόσιας εξουσίας, η νομική βάση της επεξεργασίας πρέπει να ερείδεται στο δίκαιο της Ένωσης ή στο δίκαιο κράτους μέλους, ανταποκρινόμενη στις απαιτήσεις του Χάρτη Θεμελιωδών Δικαιωμάτων της Ευρωπαϊκής Ένωσης σχετικά με οιονδήποτε περιορισμό των δικαιωμάτων και των ελευθεριών. Επίσης, το δίκαιο της Ένωσης ή το εθνικό δίκαιο καθορίζουν κατά πόσον ο υπεύθυνος επεξεργασίας ο οποίος εκτελεί καθήκον που ασκείται για το δημόσιο συμφέρον ή κατά την άσκηση δημόσιας εξουσίας θα πρέπει να είναι δημόσια διοίκηση ή άλλο φυσικό ή νομικό πρόσωπο του δημοσίου δικαίου ή του ιδιωτικού δικαίου, όπως επαγγελματική οργάνωση."
+		},
+		{
+			"lang": "bg",
+			"text": "Когато обработването се извършва в съответствие със законово задължение, наложено на администратора, или когато обработването е необходимо за изпълнението на задача от обществен интерес или при упражняване на официални правомощия, за обработването следва да има правно основание в правото на Съюза или в правото на държава-членки, което отговаря на изискванията на Хартата на основните права на Европейския съюз по отношение на ограниченията на правата и свободите. Също така законодателството на Съюза или националното законодателство следва да определи дали администраторът, изпълняващ задача от обществен интерес или упражняващ официални правомощия, следва да бъде публична администрация или друго физическо лице или юридическо лице, субект на публичното или частното право, като например професионално сдружение."
+		},
+		{
+			"lang": "hu",
+			"text": "Ha a feldolgozás az adatkezelőre vonatkozó jogi kötelezettség teljesítéséhez vagy közérdekű feladat végrehajtásához, illetve hivatali hatáskör gyakorlásához szükséges, a feldolgozásnak olyan uniós vagy nemzeti jogi jogalappal kell rendelkeznie, amely megfelel az Európai Unió Alapjogi Chartájában foglalt, a jogok és szabadságok korlátozására vonatkozó követelménynek. Az uniós vagy a nemzeti jog feladata annak meghatározása is, hogy a közérdekű vagy hatósági feladatot teljesítő adatkezelő közigazgatási szerv vagy a közjog, illetve a magánjog hatálya alá tartozó egyéb természetes vagy jogi személy, például szakmai szövetség legyen-e."
+		},
+		{
+			"lang": "mt",
+			"text": "Meta l-ipproċessar isir f’konformità ma’ obbligu legali li għalih huwa soġġett il-kontrollur jew meta l-ipproċessar huwa meħtieġ għat-twettiq ta’ kompitu mwettaq fl-interess pubbliku jew fl-eżerċizzju ta’ awtorità uffiċjali, l-ipproċessar għandu jkollu bażi legali fil-liġi tal-Unjoni, jew fil-liġi ta’ Stat Membru li tissodisfa r-rekwiżiti tal-Karta tad-Drittijiet Fundamentali tal-Unjoni Ewropea għal kwalunkwe limitazzjoni tad-drittijiet u l-libertajiet. Hija wkoll il-liġi tal-Unjoni jew dik nazzjonali li għandha tistabbilixxi jekk il-kontrollur li qed iwettaq il-kompitu fl-interess pubbliku jew fl-eżerċizzju ta’ awtorità uffiċjali għandux ikun amministrazzjoni pubblika jew xi persuna fiżika jew ġuridika oħra rregolata mil-liġi pubblika, jew mil-liġi privata bħal assoċjazzjoni professjonali."
+		},
+		{
+			"lang": "lv",
+			"text": "Ja apstrādi veic, izpildot pārziņa juridiskās saistības vai ja apstrāde ir nepieciešama, lai veiktu uzdevumu sabiedrības interesēs vai, īstenojot valsts varu, apstrādes pamatam būtu jābūt noteiktam Savienības tiesībās vai dalībvalsts tiesībās, ievērojot Eiropas Savienības Pamattiesību hartas prasības attiecībā uz tiesību un brīvību ierobežojumiem. Turklāt Savienības vai valstu tiesību aktiem ir jānosaka arī tas, vai pārzinim, kurš veic uzdevumu sabiedrības interesēs vai īstenojot valsts varu, jābūt valsts pārvaldes iestādei vai citai fiziskai vai juridiskai personai, kas ir publisko tiesību subjekts vai privāttiesību subjekts, kā piemēram, profesionāla apvienība."
+		},
+		{
+			"lang": "ro",
+			"text": "În cazul în care prelucrarea este efectuată în conformitate cu o obligație legală a operatorului sau în cazul în care prelucrarea este necesară pentru îndeplinirea unei sarcini de interes public sau în exercitarea autorității publice, prelucrarea ar trebui să aibă un temei juridic în dreptul Uniunii sau în legislația unui stat membru care îndeplinește cerințele prevăzute de Carta drepturilor fundamentale a Uniunii Europene, pentru orice limitare a drepturilor și libertăților. De asemenea, este de competența dreptului Uniunii sau a legislației naționale să determine dacă operatorul care îndeplinește o sarcină de interes public sau în exercitarea autorității publice ar trebui să fie o administrație publică sau altă persoană fizică sau juridică de drept public sau privat, cum ar fi o asociație profesională."
+		},
+		{
+			"lang": "sk",
+			"text": "Ak sa spracúvanie údajov vykonáva v súlade so zákonnými povinnosťami, ktoré má prevádzkovateľ, alebo ak spracovanie je potrebné na splnenie úlohy vykonávanej vo verejnom záujme alebo na výkon úradnej moci, právny základ pre spracovanie by mal existovať v práve Únie alebo v práve niektorého členského štátu, a tento právny základ by mal spĺňať požiadavky Charty základných práv Európskej únie týkajúce sa obmedzenia práv a slobôd. V právnych predpisoch Únie alebo vo vnútroštátnych právnych predpisoch by malo byť takisto stanovené, či prevádzkovateľom vykonávajúcim úlohu vo verejnom záujme alebo z úradnej moci by mala byť verejná správa, alebo iná fyzická alebo právnická osoba, na ktorú sa vzťahuje verejné alebo súkromné právo, ako napríklad profesijné združenie."
+		},
+		{
+			"lang": "sl",
+			"text": "Kadar se obdelava izvaja v skladu z zakonsko obveznostjo, ki velja za upravljavca, ali če je obdelava potrebna za izvajanje naloge v javnem interesu ali pri izvajanju javne oblasti, mora biti pravna podlaga za obdelavo zakonodaja Unije ali zakonodaja držav članic, ki izpolnjuje zahteve Listine Evropske unije o temeljnih pravicah glede omejevanja pravic in svoboščin. Prav tako je naloga zakonodaje Unije ali zakonodaje držav članic, da določi, ali naj bo upravljavec, ki nalogo izvaja v javnem interesu ali pri izvajanju javne oblasti, državna uprava ali druga fizična ali pravna oseba, ki jo ureja javno pravo, ali pa fizična ali pravna oseba, ki jo ureja zasebno pravo, kot na primer poklicno združenje."
+		},
+		{
+			"lang": "fi",
+			"text": "Kun käsittely tapahtuu rekisterinpitäjää koskevan lakisääteisen velvoitteen noudattamiseksi tai kun käsittely on tarpeen yleistä etua koskevan tai julkisen vallan käyttöön liittyvän tehtävän suorittamiseksi, käsittelyllä olisi oltava oikeusperusta unionin lainsäädännössä tai sellaisessa jäsenvaltion lainsäädännössä, joka täyttää oikeuksien ja vapauksien rajoittamiselle Euroopan unionin perusoikeuskirjassa asetetut vaatimukset. Unionin oikeudessa tai kansallisessa lainsäädännössä määritetään, olisiko yleistä etua tai julkisen vallan käyttöä koskevan tehtävän suorittamisesta vastuussa olevan rekisterinpitäjän oltava julkinen viranomainen tai muu julkis- tai yksityisoikeudellinen luonnollinen tai oikeushenkilö, esimerkiksi ammatillinen yhteenliittymä."
+		},
+		{
+			"lang": "pl",
+			"text": "Jeśli przetwarzanie odbywa się w ramach wypełnienia przez administratora ciążącego na nim obowiązku prawnego lub jeśli przetwarzanie jest konieczne w celu wykonania zadania realizowanego w interesie publicznym lub wykonania władzy publicznej, podstawę prawną przetwarzania powinny stanowić przepisy prawa Unii lub państwa członkowskiego, które spełniają wymagania Karty praw podstawowych Unii Europejskiej w zakresie ograniczeń praw i wolności. Prawo Unii lub prawo krajowe powinno określić, czy administratorem wykonującym zadanie realizowane w interesie publicznym lub w celu wykonania władzy publicznej powinien być organ administracji publicznej czy inna osoba fizyczna lub prawna podlegająca prawu publicznemu lub prawu prywatnemu, jak np. zrzeszenie zawodowe."
+		},
+		{
+			"lang": "lt",
+			"text": "kai duomenų valdytojas duomenis tvarko vykdydamas jam tenkančią pareigą arba kai duomenis būtina tvarkyti viešojo intereso užduočiai įvykdyti ar vykdant valdžios įgaliojimus, duomenų tvarkymo teisinis pagrindas turėtų būti įtvirtintas Sąjungos arba valstybės narės teisėje ir atitikti Europos Sąjungos pagrindinių teisių chartijos reikalavimus, jei teisės arba laisvės suvaržomos. Be to, Sąjungos arba nacionalinėje teisėje turi būti nustatyta, ar duomenų valdytojas, vykdantis viešojo intereso užduotį arba valdžios įgaliojimus, turėtų būti viešojo administravimo institucija arba kitas viešosios teisės reglamentuojamas fizinis ar juridinis asmuo arba privatinės teisės reglamentuojamas fizinis ar juridinis asmuo, kaip antai profesinė asociacija;"
+		},
+		{
+			"lang": "nl",
+			"text": "Wanneer de verwerking wordt verricht omdat de voor de verwerking verantwoordelijke hiertoe wettelijk is verplicht of wanneer de verwerking nodig is voor de vervulling van een taak van algemeen belang dan wel voor een taak in het kader van de uitoefening van het openbaar gezag, dient de verwerking een rechtsgrondslag te hebben in de EU-wetgeving of in een wet van de lidstaat die voldoet aan de in het Handvest van de grondrechten van de Europese Unie vervatte vereisten voor beperkingen van de rechten en vrijheden. Ook dient in de wetgeving van de Unie of de lidstaten te worden vastgesteld of de voor de verwerking verantwoordelijke die belast is met een taak van algemeen belang dan wel met een taak in het kader van de uitoefening van het openbaar gezag een overheidsdienst of een andere publiekrechtelijke of privaatrechtelijke persoon, zoals een beroepsvereniging, moet zijn."
+		},
+		{
+			"lang": "sv",
+			"text": "Behandling som grundar sig på en lagstadgad skyldighet som den register­ansvarige måste följa eller när behandling krävs för att utföra en arbetsuppgift av samhällsintresse eller när en myndighet utövar sitt uppdrag, bör behandlingen, om den begränsar rättigheter och friheter, ha rättslig grund i unionell eller nationell lagstiftning som uppfyller kraven i EU:s stadga om de grundläggande rättigheterna. Unionslagstiftning eller nationell lagstiftning bör också reglera frågan huruvida en registeransvarig som utför en arbetsuppgift i det allmännas intresse eller vid myndighets­utövning ska vara en offentlig förvaltning eller någon annan fysisk eller juridisk person som omfattas av offentligrättslig lagstiftning eller om det kan vara en fysisk eller juridisk person som lyder under civilrättslig lagstiftning, exempelvis en yrkesorganisation."
+		}
+	],
+	"children": [],
+	"title": "Recital 36"
+}

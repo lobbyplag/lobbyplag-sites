@@ -1,0 +1,102 @@
+{
+	"id": "a49i5",
+	"type": "point",
+	"literal": "e",
+	"parent": "a49",
+	"text": [
+		{
+			"lang": "en",
+			"text": "whether the members of the supervisory authority shall be eligible for reappointment;"
+		},
+		{
+			"lang": "de",
+			"text": "ob die Mitglieder der Aufsichtsbehörde wiederernannt werden können,"
+		},
+		{
+			"lang": "fr",
+			"text": "le caractère renouvelable ou non renouvelable du mandat des membres de l'autorité de contrôle;"
+		},
+		{
+			"lang": "es",
+			"text": "el carácter renovable o no renovable del mandato de los miembros de la autoridad de control;"
+		},
+		{
+			"lang": "pt",
+			"text": "O caráter renovável ou não do mandato dos membros da autoridade de controlo;"
+		},
+		{
+			"lang": "it",
+			"text": "l’eventuale rinnovabilità del mandato dei membri dell’autorità di controllo;"
+		},
+		{
+			"lang": "ga",
+			"text": "cé acu a fhéadfar nó nach bhféadfar comhaltaí an údaráis mhaoirseachta a athcheapadh;"
+		},
+		{
+			"lang": "cs",
+			"text": "způsobilost členů orgánu dozoru k opětovnému jmenování;"
+		},
+		{
+			"lang": "da",
+			"text": "om medlemmerne af tilsynsmyndigheden kan genudnævnes"
+		},
+		{
+			"lang": "et",
+			"text": "asjaolu, kas järelevalveasutuse liikmeid saab ametisse uuesti tagasi nimetada;"
+		},
+		{
+			"lang": "el",
+			"text": "ε) κατά πόσον τα μέρη της αρχής ελέγχου είναι επιλέξιμα για επαναδιορισμό·"
+		},
+		{
+			"lang": "bg",
+			"text": "д) дали членовете на надзорния орган могат да бъдат преназначавани;"
+		},
+		{
+			"lang": "hu",
+			"text": "a felügyelő hatóság tagjainak esetleges ismételt kinevezhetősége;"
+		},
+		{
+			"lang": "mt",
+			"text": "jekk il-membri tal-awtorità ta’ superviżjoni għandhomx ikunu eliġibbli għal ħatra mill-ġdid;"
+		},
+		{
+			"lang": "lv",
+			"text": "vai uzraudzības iestādes locekļus var atkārtoti iecelt amatā;"
+		},
+		{
+			"lang": "ro",
+			"text": "posibilitatea de reînnoire a mandatului membrilor autorității de supraveghere;"
+		},
+		{
+			"lang": "sk",
+			"text": "či členov dozorného orgánu možno ustanoviť do tejto funkcie opätovne;"
+		},
+		{
+			"lang": "sl",
+			"text": "ali se lahko člani nadzornega organa ponovno imenujejo;"
+		},
+		{
+			"lang": "fi",
+			"text": "siitä, voidaanko valvontaviranomaisen jäsenet nimetä uudeksi toimikaudeksi;"
+		},
+		{
+			"lang": "pl",
+			"text": "określenia, czy członkowie organu nadzorczego mogą być ponownie wyznaczeni;"
+		},
+		{
+			"lang": "lt",
+			"text": "ar priežiūros institucijos narių kadencija gali būti atnaujinama;"
+		},
+		{
+			"lang": "nl",
+			"text": "of de leden van de toezichthoudende autoriteit opnieuw kunnen worden benoemd;"
+		},
+		{
+			"lang": "sv",
+			"text": "Huruvida myndighetens ledamöter får ges förnyat mandat."
+		}
+	],
+	"children": [],
+	"title": "Article 49 – Point 5"
+}

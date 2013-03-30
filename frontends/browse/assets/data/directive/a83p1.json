@@ -1,0 +1,105 @@
+{
+	"id": "a83p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a83",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Within the limits of this Regulation, personal data may be processed for historical, statistical or scientific research purposes only if:"
+		},
+		{
+			"lang": "de",
+			"text": "In den Grenzen dieser Verordnung dürfen personenbezogene Daten nur dann zu historischen oder statistischen Zwecken oder zum Zwecke der wissenschaftlichen Forschung verarbeitet werden, wenn"
+		},
+		{
+			"lang": "fr",
+			"text": "Dans les limites du présent règlement, les données à caractère personnel ne peuvent faire l'objet d'un traitement à des fins de recherche historique, statistique ou scientifique que si:"
+		},
+		{
+			"lang": "es",
+			"text": "Dentro de los límites del presente Reglamento, podrán tratarse los datos personales para fines de investigación histórica, estadística o científica sólo si:"
+		},
+		{
+			"lang": "pt",
+			"text": "Nos limites do presente regulamento, os dados pessoais só podem ser objeto de tratamento para fins de investigação histórica, estatística ou científica se:"
+		},
+		{
+			"lang": "it",
+			"text": "Nei limiti del presente regolamento, i dati personali possono essere trattati per finalità storiche, statistiche e di ricerca scientifica solo se:"
+		},
+		{
+			"lang": "ga",
+			"text": "Laistigh de theorainneacha an Rialacháin seo, ní dhéanfar sonraí pearsanta a phróiseáil chun críocha taighde stairiúil, staidrimh agus eolaíoch, ach sna cásanna seo a leanas:"
+		},
+		{
+			"lang": "cs",
+			"text": "Osobní údaje se mohou v mezích tohoto nařízení zpracovávat pro účely historiografického, statistického a vědeckého výzkumu pouze:"
+		},
+		{
+			"lang": "da",
+			"text": "Under overholdelse af denne forordning må personoplysninger kun behandles til historiske, statistiske eller videnskabelige forskningsformål, hvis:"
+		},
+		{
+			"lang": "et",
+			"text": "Käesoleva määruse piires võib isikuandmeid töödelda ajaloo- ja statistikauurimuste ning teadustöö eesmärgil üksnes juhul, kui:"
+		},
+		{
+			"lang": "el",
+			"text": "Εντός των ορίων του παρόντος κανονισμού, δεδομένα προσωπικού χαρακτήρα μπορούν να υποβληθούν σε επεξεργασία για ιστορικούς και στατιστικούς σκοπούς και για σκοπούς επιστημονικής έρευνας μόνον εάν:"
+		},
+		{
+			"lang": "bg",
+			"text": "В рамките на настоящия регламент лични данни могат да се обработват за исторически, статистически или научноизследователски цели само ако:"
+		},
+		{
+			"lang": "hu",
+			"text": "E rendelet keretein belül, a személyes adatok történelmi, statisztikai és tudományos kutatási célú feldolgozására csak akkor kerülhet sor, ha:"
+		},
+		{
+			"lang": "mt",
+			"text": "Fil-limiti ta’ dan ir-Regolament, dejta personali tista’ tkun ipproċessata għal għanijiet ta’ storja, statistika jew riċerka xjentifika biss jekk:"
+		},
+		{
+			"lang": "lv",
+			"text": "Ievērojot šajā regulā noteiktos ierobežojumus, personas datus var apstrādāt vēstures, statistikas vai zinātniskās izpētes nolūkos tikai tad, ja:"
+		},
+		{
+			"lang": "ro",
+			"text": "În limitele prezentului regulament, datele cu caracter personal pot fi prelucrate în scopuri de cercetare istorică, statistică sau științifică numai dacă:"
+		},
+		{
+			"lang": "sk",
+			"text": "V medziach tohto nariadenia sa osobné údaje môžu spracúvať na historické, štatistické alebo vedeckovýskumné účely, len ak:"
+		},
+		{
+			"lang": "sl",
+			"text": "V mejah te uredbe se lahko osebni podatki obdelujejo v zgodovinske, statistične ali znanstvenoraziskovalne namene samo, če:"
+		},
+		{
+			"lang": "fi",
+			"text": "Henkilötietoja voidaan käsitellä historiantutkimusta taikka tilastollisia tai tieteellisiä tutkimustarkoituksia varten tässä asetuksessa asetetuissa rajoissa vain, jos"
+		},
+		{
+			"lang": "pl",
+			"text": "W granicach niniejszego rozporządzenia można przetwarzać dane osobowe do celów dokumentacji, statystyki i badań naukowych jedynie wtedy, gdy:"
+		},
+		{
+			"lang": "lt",
+			"text": "Laikantis šio reglamento ribų, asmens duomenys gali būti tvarkomi istoriniais, statistiniais ir mokslinių tyrimų tikslais tik tuo atveju, jeigu:"
+		},
+		{
+			"lang": "nl",
+			"text": "Binnen de grenzen van deze verordening mogen persoonsgegevens alleen voor historische, statistische of wetenschappelijke doeleinden worden verwerkt, wanneer:"
+		},
+		{
+			"lang": "sv",
+			"text": "Inom ramen för denna förordning får personuppgifter behandlas för historiska, statistiska och vetenskapliga forskningsändamål endast under förutsättning att"
+		}
+	],
+	"children": [
+		"a83p1i1",
+		"a83p1i2"
+	],
+	"title": "Article 83 – Paragraph 1"
+}

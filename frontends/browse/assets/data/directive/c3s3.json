@@ -1,0 +1,106 @@
+{
+	"id": "c3s3",
+	"type": "section",
+	"literal": "3",
+	"parent": "c3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "RECTIFICATION AND ERASURE"
+		},
+		{
+			"lang": "de",
+			"text": "BERICHTIGUNG UND LÖSCHUNG"
+		},
+		{
+			"lang": "fr",
+			"text": "RECTIFICATION ET EFFACEMENT"
+		},
+		{
+			"lang": "es",
+			"text": "RECTIFICACIÓN Y SUPRESIÓN"
+		},
+		{
+			"lang": "pt",
+			"text": "RETIFICAÇÃO E APAGAMENTO"
+		},
+		{
+			"lang": "it",
+			"text": "RETTIFICA E CANCELLAZIONE"
+		},
+		{
+			"lang": "ga",
+			"text": "CEARTÚ AGUS SCRIOSADH"
+		},
+		{
+			"lang": "cs",
+			"text": "OPRAVA A VÝMAZ"
+		},
+		{
+			"lang": "da",
+			"text": "BERIGTIGELSE OG SLETNING"
+		},
+		{
+			"lang": "et",
+			"text": "PARANDAMINE JA KUSTUTAMINE"
+		},
+		{
+			"lang": "el",
+			"text": "ΔΙΟΡΘΩΣΗ ΚΑΙ ΔΙΑΓΡΑΦΗ"
+		},
+		{
+			"lang": "bg",
+			"text": "КОРИГИРАНЕ И ЗАЛИЧАВАНЕ"
+		},
+		{
+			"lang": "hu",
+			"text": "HELYESBÍTÉS ÉS TÖRLÉS"
+		},
+		{
+			"lang": "mt",
+			"text": "RETTIFIKA U TĦASSIR"
+		},
+		{
+			"lang": "lv",
+			"text": "LABOŠANA UN DZĒŠANA"
+		},
+		{
+			"lang": "ro",
+			"text": "RECTIFICARE ȘI ȘTERGERE"
+		},
+		{
+			"lang": "sk",
+			"text": "OPRAVA A VÝMAZ"
+		},
+		{
+			"lang": "sl",
+			"text": "POPRAVEK IN IZBRIS"
+		},
+		{
+			"lang": "fi",
+			"text": "TIETOJEN OIKAISEMINEN JA POISTAMINEN"
+		},
+		{
+			"lang": "pl",
+			"text": "POPRAWIANIE I USUWANIE"
+		},
+		{
+			"lang": "lt",
+			"text": "DUOMENŲ IŠTAISYMAS IR IŠTRYNIMAS"
+		},
+		{
+			"lang": "nl",
+			"text": "RECTIFICATIE EN HET WISSEN VAN GEGEVENS"
+		},
+		{
+			"lang": "sv",
+			"text": "RÄTTELSE OCH RADERING"
+		}
+	],
+	"children": [
+		"a16",
+		"a17",
+		"a18"
+	],
+	"title": "Chapter 3 – Section 3"
+}

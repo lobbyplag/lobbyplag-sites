@@ -1,0 +1,102 @@
+{
+	"id": "a71p3i6",
+	"type": "point",
+	"literal": "f",
+	"parent": "a71p3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the preparation, drafting and publication of opinions and other texts adopted by the European Data Protection Board."
+		},
+		{
+			"lang": "de",
+			"text": "Vorbereitung, Entwurf und Veröffentlichung von Stellungnahmen und sonstigen vom Europäischen Datenschutzausschuss angenommenen Dokumenten."
+		},
+		{
+			"lang": "fr",
+			"text": "de la préparation, de la rédaction et de la publication d'avis et d'autres textes adoptés par le comité européen de la protection des données."
+		},
+		{
+			"lang": "es",
+			"text": "la preparación, redacción y publicación de dictámenes y otros textos adoptados por el Consejo Europeo de Protección de Datos."
+		},
+		{
+			"lang": "pt",
+			"text": "Pela preparação, redação e publicação dos pareceres e outros textos adotados pelo Comité Europeu para a Proteção de Dados."
+		},
+		{
+			"lang": "it",
+			"text": "della preparazione, redazione e pubblicazione dei pareri e di altri testi adottati dal comitato europeo per la protezione dei dati."
+		},
+		{
+			"lang": "ga",
+			"text": "tuairimí agus téacsanna eile arna nglacadh ag an mBord Eorpach um Chosaint Sonraí a ullmhú, a dhréachtú agus a fhoilsiú."
+		},
+		{
+			"lang": "cs",
+			"text": "přípravu, navrhování a zveřejňování stanovisek a jiných textů přijímaných Evropskou radou pro ochranu údajů."
+		},
+		{
+			"lang": "da",
+			"text": "forberedelse, udarbejdelse og offentliggørelse af udtalelser og andre dokumenter, der vedtages af Det Europæiske Databeskyttelsesråd."
+		},
+		{
+			"lang": "et",
+			"text": "Euroopa Andmekaitsenõukogus vastu võetud arvamuste ja muude dokumentide ettevalmistamine, koostamine ja avaldamine."
+		},
+		{
+			"lang": "el",
+			"text": "στ) την προετοιμασία, την κατάρτιση και τη δημοσίευση γνωμών και άλλων κειμένων που εκδίδει το Ευρωπαϊκό Συμβούλιο Προστασίας Δεδομένων."
+		},
+		{
+			"lang": "bg",
+			"text": "е) подготовката, изготвянето и публикуването на становища и други текстове, приети от Европейския комитет по защита на данните."
+		},
+		{
+			"lang": "hu",
+			"text": "az Európai Adatvédelmi Testület által elfogadott vélemények és más szövegek előkészítéséért, szövegezéséért és közzétételéért."
+		},
+		{
+			"lang": "mt",
+			"text": "għat-tħejjija, l-abbozzar u l-pubblikazzjoni ta’ opinjonijiet u testi oħrajn adottati mill-Bord Ewropew għall-Protezzjoni tad-Dejta."
+		},
+		{
+			"lang": "lv",
+			"text": "Eiropas Datu aizsardzības kolēģijas pieņemto atzinumu un citu dokumentu sagatavošanu, projekta izstrādi un publicēšanu."
+		},
+		{
+			"lang": "ro",
+			"text": "pregătirea, redactarea și publicarea avizelor și a altor texte adoptate de Comitetul european pentru protecția datelor."
+		},
+		{
+			"lang": "sk",
+			"text": "prípravu, formulovanie a uverejňovanie stanovísk a iných dokumentov prijatých Európskym výborom pre ochranu údajov."
+		},
+		{
+			"lang": "sl",
+			"text": "pripravo, osnutek in objavo mnenj in drugih besedil, ki jih sprejme Evropski odbor za varstvo podatkov."
+		},
+		{
+			"lang": "fi",
+			"text": "valmistella, laatia ja julkaista Euroopan tietosuojaneuvoston lausuntoja ja muita asiakirjoja."
+		},
+		{
+			"lang": "pl",
+			"text": "przygotowanie, sporządzanie i publikowanie opinii i innych tekstów przyjętych przez Europejską Radę Ochrony Danych."
+		},
+		{
+			"lang": "lt",
+			"text": "Europos duomenų apsaugos valdybos priimtų nuomonių ir kitų tekstų parengiamąjį darbą, jų projektų rengimą ir paskelbimą."
+		},
+		{
+			"lang": "nl",
+			"text": "de voorbereiding, het opstellen en de bekendmaking van de adviezen en andere teksten die door het Europees Comité voor gegevensbescherming worden aangenomen."
+		},
+		{
+			"lang": "sv",
+			"text": "förberedelse, sammanställning och offentliggörande av yttranden och andra texter som antas av Europeiska dataskyddsstyrelsen."
+		}
+	],
+	"children": [],
+	"title": "Article 71 – Paragraph 3 – Point 6"
+}

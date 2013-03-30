@@ -1,0 +1,102 @@
+{
+	"id": "a9p2i2",
+	"type": "point",
+	"literal": "b",
+	"parent": "a9p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "processing is necessary for the purposes of carrying out the obligations and exercising specific rights of the controller in the field of employment law in so far as it is authorised by Union law or Member State law providing for adequate safeguards; or"
+		},
+		{
+			"lang": "de",
+			"text": "die Verarbeitung ist erforderlich, damit der für die Verarbeitung Verantwortliche seine ihm aus dem Arbeitsrecht erwachsenden Rechte ausüben und seinen arbeitsrechtlichen Pflichten nachkommen kann, soweit dies nach den Vorschriften der Union oder dem Recht der Mitgliedstaaten, das angemessene Garantien vorsehen muss, zulässig ist, oder"
+		},
+		{
+			"lang": "fr",
+			"text": "le traitement est nécessaire aux fins de l’exécution des obligations et de l’exercice des droits propres au responsable du traitement en matière de droit du travail, dans la mesure où ce traitement est autorisé par le droit de l’Union ou par une législation nationale prévoyant des garanties appropriées; ou"
+		},
+		{
+			"lang": "es",
+			"text": "el tratamiento es necesario para cumplir las obligaciones y ejercer los derechos específicos del responsable del tratamiento en materia de Derecho laboral en la medida en que así lo autorice el Derecho de la Unión o la legislación de los Estados miembros que establezca las garantías apropiadas; o"
+		},
+		{
+			"lang": "pt",
+			"text": "O tratamento for necessário para o cumprimento de obrigações e o exercício de direitos específicos do responsável pelo tratamento em matéria de direito laboral, na medida em que seja permitido pelo direito da União ou pela legislação de um Estado-Membro, mediante garantias adequadas; ou"
+		},
+		{
+			"lang": "it",
+			"text": "il trattamento è necessario per assolvere gli obblighi ed esercitare i diritti specifici del responsabile del trattamento in materia di diritto del lavoro, nella misura in cui sia autorizzato dal diritto dell’Unione o di uno Stato membro in presenza di congrue garanzie, oppure"
+		},
+		{
+			"lang": "ga",
+			"text": "más gá an phróiseáil a dhéanamh chun oibleagáidí an rialaitheora a chomhlíonadh agus chun cearta sonracha an rialaitheora a fheidhmiú i réimse dhlí na fostaíochta a mhéid atá údaraithe le dlí an Aontais nó le dlí Ballstáit lena bhforáiltear do chosaintí leordhóthanacha; nó"
+		},
+		{
+			"lang": "cs",
+			"text": "zpracování je nezbytné pro dodržení povinností a výkon zvláštních práv správce v oblasti pracovního práva, pokud je k tomu oprávněn právem Unie nebo členského státu, které poskytuje náležité záruky nebo"
+		},
+		{
+			"lang": "da",
+			"text": "behandlingen er nødvendig for overholdelsen af den registeransvarliges arbejdsretlige forpligtelser og specifikke rettigheder, for så vidt den er hjemlet i EU-retten eller medlemsstatens lovgivning, som fastsætter de fornødne garantier, eller"
+		},
+		{
+			"lang": "et",
+			"text": "töötlemine on vajalik seoses vastutava töötleja tööõigusest tulenevate kohustuste ja eriõigustega niivõrd, kuivõrd see on lubatud liidu või liikmesriigi õigusega, milles on sätestatud piisavad kaitsemeetmed, või"
+		},
+		{
+			"lang": "el",
+			"text": "β) η επεξεργασία είναι απαραίτητη για την εκτέλεση των υποχρεώσεων και την άσκηση ειδικών δικαιωμάτων του υπευθύνου επεξεργασίας στον τομέα του εργατικού δικαίου, εφόσον επιτρέπεται από το δίκαιο της Ένωσης ή από το δίκαιο κράτους μέλους προβλέποντας κατάλληλες εγγυήσεις· ή"
+		},
+		{
+			"lang": "bg",
+			"text": "б) обработването е необходимо за целите на изпълнението на задълженията и упражняването на специалните права на администратора в областта на трудовото право дотолкова, доколкото това е разрешено от правото на Съюза или на държава-членка, в което се предвиждат подходящи гаранции; или"
+		},
+		{
+			"lang": "hu",
+			"text": "az adatfeldolgozás az adatkezelő különös kötelezettségei és meghatározott jogai gyakorlása érdekében szükséges a foglalkoztatási jogszabályok területén, amennyiben a megfelelő biztosítékokról rendelkező uniós vagy nemzeti jogszabályok ezt lehetővé teszik; vagy"
+		},
+		{
+			"lang": "mt",
+			"text": "l-ipproċessar huwa meħtieġ għall-għanijiet ta’ twettiq tal-obbligi u l-eżerċitar ta’ drittijiet speċifiċi tal-kontrollur fil-qasam tal-liġi tax-xogħol safejn dan ikun awtorizzat mil-liġi tal-Unjoni jew mil-liġi ta’ Stat Membru li tipprovdi għal salvagwardji adegwati; jew"
+		},
+		{
+			"lang": "lv",
+			"text": "apstrāde ir vajadzīga, lai realizētu pārziņa pienākumus un izmantotu pārziņa īpašās tiesības darba tiesību jomā, ciktāl to pieļauj Savienības vai dalībvalsts tiesības, paredzot atbilstošus aizsardzības pasākumus; vai"
+		},
+		{
+			"lang": "ro",
+			"text": "prelucrarea este necesară în scopul respectării obligațiilor și al exercitării unor drepturi specifice ale operatorului în domeniul dreptului muncii, în măsura în care acest lucru este autorizat de dreptul Uniunii sau de legislația unui stat membru care prevede garanții adecvate sau"
+		},
+		{
+			"lang": "sk",
+			"text": "spracovanie je nevyhnutné na účely plnenia záväzkov a výkonu špecifických práv prevádzkovateľa v oblasti pracovného práva, pokiaľ je to povolené právnymi predpismi Únie alebo právnymi predpismi členského štátu poskytujúcimi náležité záruky, alebo"
+		},
+		{
+			"lang": "sl",
+			"text": "je obdelava potrebna zaradi izpolnjevanja obveznosti in izvajanja posebnih pravic upravljavca na področju prava zaposlovanja, če to dovoljuje zakonodaja Unije ali zakonodaja držav članic, ki zagotavlja ustrezne zaščitne ukrepe, ali"
+		},
+		{
+			"lang": "fi",
+			"text": "käsittely on tarpeen rekisterinpitäjän velvoitteiden ja erityisten oikeuksien noudattamiseksi työoikeuden alalla, siltä osin kuin se sallitaan unionin tai jäsenvaltion lainsäädännössä, jossa säädetään asianmukaiset takeet; tai"
+		},
+		{
+			"lang": "pl",
+			"text": "przetwarzanie danych jest konieczne do celów wypełniania obowiązków i wykonania szczególnych uprawnień administratora w dziedzinie prawa pracy, o ile jest to dozwolone przez prawo Unii lub prawo państwa członkowskiego przewidujące odpowiednie gwarancje; lub"
+		},
+		{
+			"lang": "lt",
+			"text": "tvarkyti duomenis būtina, kad duomenų valdytojas galėtų įvykdyti pareigas ir naudotis specialiomis teisėmis darbo teisės srityje, kiek tai leidžiama Sąjungos arba nacionalinės teisės aktais, kuriuose numatytos atitinkamos apsaugos priemonės; arba"
+		},
+		{
+			"lang": "nl",
+			"text": "de verwerking noodzakelijk is met het oog op de uitvoering van de verplichtingen en de uitoefening van specifieke rechten van de voor de verwerking verantwoordelijke op het gebied van arbeidsrecht, voor zover zulks is toegestaan bij EU-wetgeving of de nationale wetgeving en deze adequate garanties biedt; of"
+		},
+		{
+			"lang": "sv",
+			"text": "Behandlingen är nödvändig för att den registeransvarige ska kunna fullgöra sina skyldigheter och utöva sina särskilda rättigheter inom arbetsrätten, i den omfattning detta är tillåtet enligt unionslagstiftningen eller en medlemsstats lagstiftning som föreskriver lämpliga skyddsåtgärder."
+		}
+	],
+	"children": [],
+	"title": "Article 9 – Paragraph 2 – Point 2"
+}

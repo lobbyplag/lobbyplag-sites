@@ -1,0 +1,102 @@
+{
+	"id": "r4",
+	"type": "recital",
+	"literal": "4",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The economic and social integration resulting from the functioning of the internal market has led to a substantial increase in cross-border flows. The exchange of data between economic and social, public and private actors across the Union increased. National authorities in the Member States are being called upon by Union law to co-operate and exchange personal data so as to be able to perform their duties or carry out tasks on behalf of an authority in another Member State."
+		},
+		{
+			"lang": "de",
+			"text": "Die wirtschaftliche und soziale Integration als Folge eines funktionierenden Binnenmarktes hat zu einem deutlichen Anstieg des grenzüberschreitenden Verkehrs geführt. Der unionsweite Datenaustausch zwischen wirtschaftlichen und sozialen Akteuren, staatlichen Stellen und Privatpersonen hat zugenommen. Das Unionsrecht verpflichtet die Verwaltungen der Mitgliedstaaten zur Zusammenarbeit und zum Austausch personenbezogener Daten, um ihren Pflichten nachkommen oder für eine Behörde eines anderen Mitgliedstaats Aufgaben durchführen zu können."
+		},
+		{
+			"lang": "fr",
+			"text": "L'intégration économique et sociale résultant du fonctionnement du marché intérieur a conduit à une augmentation substantielle des flux transfrontières. Les échanges de données entre acteurs économiques et sociaux, publics et privés, se sont intensifiés dans l'ensemble de l'Union. Le droit de l'Union appelle les autorités nationales des États membres à coopérer et à échanger des données à caractère personnel, afin d'être en mesure de remplir leurs missions ou d'accomplir des tâches pour le compte d'une autorité d'un autre État membre."
+		},
+		{
+			"lang": "es",
+			"text": "La integración económica y social resultante del funcionamiento del mercado interior ha llevado a un aumento sustancial de los flujos transfronterizos. Se ha incrementado en toda la Unión el intercambio de datos entre los operadores económicos y sociales, públicos y privados. El Derecho de la Unión exige a las autoridades nacionales de los Estados miembros que cooperen e intercambien datos personales a fin de poder desempeñar sus funciones o llevar a cabo tareas en nombre de una autoridad de otro Estado miembro."
+		},
+		{
+			"lang": "pt",
+			"text": "A integração económica e social resultante do funcionamento do mercado interno provocou um aumento significativo dos fluxos transfronteiriços. O intercâmbio de dados entre os intervenientes económicos e sociais, públicos e privados, intensificou‑se na União Europeia. As autoridades nacionais dos Estados-Membros são chamadas, por força do direito da União, a colaborar e a trocar entre si dados pessoais, a fim de poderem desempenhar as suas missões ou executar funções por conta de uma autoridade de outro Estado-Membro."
+		},
+		{
+			"lang": "it",
+			"text": "L’integrazione economica e sociale conseguente al funzionamento del mercato interno ha portato a un considerevole aumento dei flussi transfrontalieri e quindi anche dei dati scambiati, in tutta l’Unione, tra gli operatori economici e sociali, pubblici e privati. Il diritto dell’Unione impone alle autorità nazionali degli Stati membri di cooperare e scambiarsi dati personali per essere in grado di svolgere le rispettive funzioni o eseguire compiti per conto di un’autorità di un altro Stato membro."
+		},
+		{
+			"lang": "ga",
+			"text": "Mhéadaigh sreabha trasteorann go mór a bhuí le comhtháthú eacnamaíoch agus sóisialta a tharla mar thoradh ar fheidhmiú an mhargaidh inmheánaigh. Tháinig méadú ar an méid sonraí a mhalartaítear idir gníomhaithe eacnamaíocha agus sóisialta agus gníomhaithe poiblí agus príobháideacha ar fud an Aontais. Le dlí an Aontais iarrtar ar údaráis náisiúnta sna Ballstáit dul i gcomhar lena chéile agus sonraí pearsanta a mhalartú le go bhféadfaidh siad a ndualgais a chomhlíonadh nó cúraimí a dhéanamh thar ceann údaráis i mBallstát eile."
+		},
+		{
+			"lang": "cs",
+			"text": "Hospodářská a sociální integrace vyplývající z fungování vnitřního trhu vedla ke značnému nárůstu přeshraničního pohybu údajů. Výměna údajů mezi hospodářskými a sociálními, veřejnými a soukromými subjekty se v celé Unii zvýšila. Právo Unie zavazuje vnitrostátní orgány členských států ke spolupráci a výměně osobních údajů, aby mohly plnit své povinnosti nebo provádět úkoly jménem orgánu jiného členského státu."
+		},
+		{
+			"lang": "da",
+			"text": "Den økonomiske og sociale integration, der er en følge af det indre markeds funktion, har medført en kraftig vækst i strømmen af personoplysninger på tværs af landegrænserne. Udvekslingen af oplysninger mellem økonomiske og sociale offentlige og private aktører i Unionen er steget. Medlemsstaternes myndigheder opfordres i EU-retten til at samarbejde og udveksle personoplysninger indbyrdes for at kunne varetage deres opgaver og udføre hverv på vegne af en anden medlemsstats myndighed."
+		},
+		{
+			"lang": "et",
+			"text": "Siseturu toimimisest tulenev majandus- ja sotsiaalne integratsioon on isikuandmete piirideüleseid vooge märkimisväärselt suurendanud. Majandus- ja sotsiaal- ning avaliku ja erasektori osalejate vaheline andmevahetus on suurenenud terves Euroopa Liidus. Liikmesriikide ametiasutusi kutsutakse liidu õigusaktidega üles koostööle ja isikuandmete vahetamisele, et neil oleks võimalik täita oma ülesandeid või teha seda teise liikmesriigi ametiasutuse nimel."
+		},
+		{
+			"lang": "el",
+			"text": "Η οικονομική και κοινωνική ολοκλήρωση, η οποία προέκυψε από τη λειτουργία της εσωτερικής αγοράς, έχει ως αποτέλεσμα σημαντική αύξηση των διασυνοριακών ροών. Η ανταλλαγή δεδομένων μεταξύ οικονομικών και κοινωνικών, δημόσιων και ιδιωτικών, παραγόντων σε ολόκληρη την Ένωση αυξήθηκε. Οι εθνικές αρχές των κρατών μελών καλούνται από το δίκαιο της Ένωσης να συνεργάζονται και να ανταλλάσσουν δεδομένα προσωπικού χαρακτήρα προκειμένου να μπορούν να εκτελούν τις υποχρεώσεις τους ή να ασκούν καθήκοντα για λογαριασμό αρχής άλλου κράτους μέλους."
+		},
+		{
+			"lang": "bg",
+			"text": "Икономическата и социалната интеграция, произтичаща от функционирането на вътрешния пазар, доведе до съществено увеличение на трансграничните потоци от данни. Обменът на данни между икономическите и социалните, публичните и частните субекти в Съюза нарасна. Националните органи в държавите-членки са задължени от правото на Съюза да си сътрудничат и обменят лични данни, така че да са в състояние да изпълняват своите задължения или да изпълняват задачи от името на орган на друга държава-членка."
+		},
+		{
+			"lang": "hu",
+			"text": "A belső piac működéséből eredő gazdasági és társadalmi integráció lényegesen megnövelte a határokon keresztüli áramlást. Az Unión belül megnövekedett a gazdasági és a társadalmi, az állami és a piaci szereplők közötti adatcsere. A tagállamok nemzeti hatóságai az uniós jog értelmében kötelesek olyan mértékben együttműködni és személyes adatokat cserélni, ami lehetővé teszi számukra feladataik ellátását, vagy a fellépést egy másik tagállam hatósága nevében."
+		},
+		{
+			"lang": "mt",
+			"text": "L-integrazzjoni ekonomika u soċjali li rriżultat mill-funzjonament tas-suq intern wasslet għal żieda sostanzjali fi flussi transkonfinali. L-iskambju ta’ dejta bejn atturi ekonomiċi u soċjali, pubbliċi u privati fl-Unjoni żdied. L-awtoritajiet nazzjonali fl-Istati Membri qegħdin jintalbu mil-liġi tal-Unjoni sabiex jikkooperaw u jiskambjaw dejta personali sabiex ikunu jistgħu jwettqu d-dmirijiet tagħhom jew iwettqu kompiti f’isem awtorità fi Stat Membru ieħor."
+		},
+		{
+			"lang": "lv",
+			"text": "Ekonomikas un sociālā integrācija, kas izriet no iekšējā tirgus darbības, ir novedusi pie pārrobežu plūsmu ievērojama pieauguma. Datu apmaiņa starp uzņēmējdarbības vides un sociālā, valsts un privātā sektora pārstāvjiem visā Savienībā ir palielinājusies. Savienības tiesības aicina dalībvalstu iestādes sadarboties un apmainīties ar personas datiem, lai varētu pildīt savus pienākumus un veikt uzdevumus kādas iestādes vārdā citā dalībvalstī."
+		},
+		{
+			"lang": "ro",
+			"text": "Integrarea economică și socială care rezultă din funcționarea pieței interne a condus la o creștere substanțială a fluxurilor transfrontaliere. Schimbul de date între actorii economici și sociali, publici și privați s-a intensificat în întreaga Uniune. Conform dreptului Uniunii, autoritățile naționale sunt chemate să coopereze și să facă schimb de date cu caracter personal pentru a putea să își îndeplinească atribuțiile sau să execute sarcini în numele unei autorități într-un alt stat membru."
+		},
+		{
+			"lang": "sk",
+			"text": "Hospodárska a sociálna integrácia, ktorá je dôsledkom fungovania vnútorného trhu, viedla k značnému nárastu cezhraničných tokov. Výmena údajov medzi hospodárskymi a sociálnymi, verejnými a súkromnými aktérmi v Únii vzrástla. Vnútroštátne orgány v členských štátoch sú na základe právnych predpisov Únie povinné spolupracovať a vymieňať si osobné údaje, aby mohli vykonávať svoje povinnosti a úlohy v mene orgánu iného členského štátu."
+		},
+		{
+			"lang": "sl",
+			"text": "Gospodarsko in socialno povezovanje, ki izhaja iz delovanja notranjega trga, je prineslo občutno povečanje čezmejnih prenosov. Izmenjava podatkov med gospodarskimi in družbenimi, javnimi in zasebnimi akterji v Uniji se je povečala. Nacionalni organi držav članic so na podlagi prava Unije pozvani k sodelovanju in izmenjavi osebnih podatkov, da bi lahko opravljali svoje dolžnosti ali izvajali naloge v imenu organa v drugi državi članici."
+		},
+		{
+			"lang": "fi",
+			"text": "Sisämarkkinoiden toiminnasta aiheutuva taloudellinen ja sosiaalinen yhdentyminen on huomattavasti lisännyt kansainvälisiä tiedonsiirtoja. Tietojenvaihto unionin taloudellisten, sosiaalisten, julkisten ja yksityisten toimijoiden kesken on lisääntynyt. Unionin lainsäädännössä jäsenvaltioiden viranomaisia kehotetaan toimimaan yhteistyössä ja vaihtamaan keskenään henkilötietoja, jotta ne voisivat täyttää velvollisuutensa tai suorittaa tehtäviä jonkin toisen jäsenvaltion viranomaisten puolesta."
+		},
+		{
+			"lang": "pl",
+			"text": "Integracja gospodarcza i społeczna będąca wynikiem funkcjonowania rynku wewnętrznego doprowadziła do znacznego zwiększenia transgranicznego przepływu danych osobowych. Zwiększyła się także wymiana danych między podmiotami gospodarczymi i społecznymi oraz publicznymi i prywatnymi w całej Unii. Prawo Unii wymaga, by organy krajowe poszczególnych państw członkowskich współpracowały ze sobą i prowadziły wymianę danych osobowych w celu wykonywania swoich obowiązków lub realizacji zadań w imieniu organów innych państw członkowskich."
+		},
+		{
+			"lang": "lt",
+			"text": "dėl ekonominės ir socialinės integracijos, kuri yra vidaus rinkos veikimo rezultatas, labai išaugo judėjimas tarp valstybių narių. Sąjungoje padidėjo keitimosi duomenimis tarp ūkio ir socialinio sektoriaus, taip pat viešojo ir privačiojo sektoriaus subjektų mastas. Sąjungos teisė įpareigoja valstybių narių institucijas bendradarbiauti ir keistis asmens duomenimis, kad šios galėtų vykdyti savo pareigas arba kitos valstybės narės institucijos prašymu atlikti užduotis;"
+		},
+		{
+			"lang": "nl",
+			"text": "De economische en sociale integratie die het gevolg is van de werking van de interne markt heeft geleid tot een aanzienlijke toename van de grensoverschrijdende stromen van persoonsgegevens. De gegevensuitwisseling tussen economische en sociale actoren is in de publieke en de particuliere sector toegenomen. De nationale autoriteiten van de lidstaten moeten op grond van het EU-recht samenwerken en persoonsgegevens uitwisselen om hun opdrachten te vervullen of om taken uit te voeren namens een autoriteit in een andere lidstaat."
+		},
+		{
+			"lang": "sv",
+			"text": "Den ekonomiska och sociala integration som uppstått tack vare den inre marknaden har lett till en betydande ökning av de gränsöverskridande flödena. Utbytet av uppgifter mellan ekonomiska och sociala, offentliga och privata aktörer över hela unionen har ökat. Nationella myndigheter i medlemsstaterna uppmanas i unionslagstiftningen att samarbeta och utbyta personuppgifter för att vara i stånd att fullgöra sina uppdrag eller utföra arbetsuppgifter för en myndighet som finns i en annan medlemsstat."
+		}
+	],
+	"children": [],
+	"title": "Recital 4"
+}

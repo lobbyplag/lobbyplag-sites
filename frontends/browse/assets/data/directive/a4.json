@@ -1,0 +1,123 @@
+{
+	"id": "a4",
+	"type": "article",
+	"literal": "4",
+	"parent": "c1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Definitions"
+		},
+		{
+			"lang": "de",
+			"text": "Begriffsbestimmungen"
+		},
+		{
+			"lang": "fr",
+			"text": "Définitions"
+		},
+		{
+			"lang": "es",
+			"text": "Definiciones"
+		},
+		{
+			"lang": "pt",
+			"text": "Definições"
+		},
+		{
+			"lang": "it",
+			"text": "Definizioni"
+		},
+		{
+			"lang": "ga",
+			"text": "Sainmhínithe"
+		},
+		{
+			"lang": "cs",
+			"text": "Definice"
+		},
+		{
+			"lang": "da",
+			"text": "Definitioner"
+		},
+		{
+			"lang": "et",
+			"text": "Mõisted"
+		},
+		{
+			"lang": "el",
+			"text": "Ορισμοί"
+		},
+		{
+			"lang": "bg",
+			"text": "Определения"
+		},
+		{
+			"lang": "hu",
+			"text": "Fogalommeghatározások"
+		},
+		{
+			"lang": "mt",
+			"text": "Definizzjonijiet"
+		},
+		{
+			"lang": "lv",
+			"text": "Definīcijas"
+		},
+		{
+			"lang": "ro",
+			"text": "Definiții"
+		},
+		{
+			"lang": "sk",
+			"text": "Vymedzenie pojmov"
+		},
+		{
+			"lang": "sl",
+			"text": "Opredelitve pojmov"
+		},
+		{
+			"lang": "fi",
+			"text": "Määritelmät"
+		},
+		{
+			"lang": "pl",
+			"text": "Definicje"
+		},
+		{
+			"lang": "lt",
+			"text": "Apibrėžtys"
+		},
+		{
+			"lang": "nl",
+			"text": "Definities"
+		},
+		{
+			"lang": "sv",
+			"text": "Definitioner"
+		}
+	],
+	"children": [
+		"a4t1",
+		"a4i1",
+		"a4i2",
+		"a4i3",
+		"a4i4",
+		"a4i5",
+		"a4i6",
+		"a4i7",
+		"a4i8",
+		"a4i9",
+		"a4i10",
+		"a4i11",
+		"a4i12",
+		"a4i13",
+		"a4i14",
+		"a4i15",
+		"a4i16",
+		"a4i17",
+		"a4i18",
+		"a4i19"
+	],
+	"title": "Article 4"
+}

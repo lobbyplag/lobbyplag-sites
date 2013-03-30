@@ -1,0 +1,106 @@
+{
+	"id": "a20p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a20",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Subject to the other provisions of this Regulation, a person may be subjected to a measure of the kind referred to in paragraph 1 only if the processing:"
+		},
+		{
+			"lang": "de",
+			"text": "Unbeschadet der sonstigen Bestimmungen dieser Verordnung darf eine Person einer Maßnahme nach Absatz 1 nur unterworfen werden, wenn die Verarbeitung"
+		},
+		{
+			"lang": "fr",
+			"text": "Sous réserve des autres dispositions du présent règlement, une personne ne peut être soumise à une mesure telle que celle visée au paragraphe 1 que si le traitement:"
+		},
+		{
+			"lang": "es",
+			"text": "A reserva de las demás disposiciones del presente Reglamento, una persona solo podrá ser objeto de una medida del tipo contemplado en el apartado 1 si el tratamiento:"
+		},
+		{
+			"lang": "pt",
+			"text": "Sob reserva das outras disposições do presente regulamento, uma pessoa só pode ser sujeita a uma medida do tipo referido no n.º 1, se o tratamento:"
+		},
+		{
+			"lang": "it",
+			"text": "Fatte salve le altre disposizioni del presente regolamento, chiunque può essere sottoposto a una misura di cui al paragrafo 1 soltanto se il trattamento:"
+		},
+		{
+			"lang": "ga",
+			"text": "Faoi réir na bhforálacha eile de chuid an Rialacháin seo, ní fhéadfaidh duine a bheith faoi réir birt den sórt dá dtagraítear i mír 1 ach amháin sna cásanna seo a leanas:"
+		},
+		{
+			"lang": "cs",
+			"text": "Aniž jsou dotčena další ustanovení tohoto nařízení, může se na osobu vztahovat opatření uvedené v odstavci 1 pouze tehdy, je-li zpracování:"
+		},
+		{
+			"lang": "da",
+			"text": "Uden at dette berører de øvrige bestemmelser i denne forordning, kan en person kun gøres til genstand for en foranstaltning af den art, der er omhandlet i stk. 1, hvis behandlingen:"
+		},
+		{
+			"lang": "et",
+			"text": "Vastavalt käesoleva määruse teistele sätetele võib isiku suhtes võtta lõikes 1 osutatud meetmena käsitatavat meedet ainult juhul, kui töötlemine:"
+		},
+		{
+			"lang": "el",
+			"text": "Με την επιφύλαξη των λοιπών διατάξεων του παρόντος κανονισμού, ένα πρόσωπο μπορεί να υπάγεται σε μέτρο του είδους που αναφέρεται στην παράγραφο 1 μόνον εάν η επεξεργασία:"
+		},
+		{
+			"lang": "bg",
+			"text": "При условие че са спазени останалите разпоредби на настоящия регламент, дадено лице може да подлежи на мярка от вида, посочен в параграф 1, само ако обработването:"
+		},
+		{
+			"lang": "hu",
+			"text": "E rendelet egyéb rendelkezéseire figyelemmel, valamely személyre csak abban az esetben vonatkozhat az (1) bekezdés szerinti intézkedés, ha a feldolgozást:"
+		},
+		{
+			"lang": "mt",
+			"text": "Soġġett għad-dispożizzjonijiet l-oħrajn ta’ dan ir-Regolament, persuna tista’ tkun soġġetta biss għal miżura tat-tip imsemmi fil-paragrafu 1 jekk l-ipproċessar:"
+		},
+		{
+			"lang": "lv",
+			"text": "Ievērojot citus šīs regulas noteikumus, persona var būt par 1. punktā minētā pasākuma subjektu tikai tad, ja apstrādi:"
+		},
+		{
+			"lang": "ro",
+			"text": "Sub rezerva celorlalte dispoziții din prezentul regulament, o persoană poate fi supusă unei măsuri de acest tip, astfel cum se prevede la alineatul (1), numai dacă prelucrarea datelor:"
+		},
+		{
+			"lang": "sk",
+			"text": "S výhradou ostatných ustanovení tohto nariadenia možno určitú osobu podrobiť opatreniu typu uvedeného v odseku 1 iba vtedy, ak je spracovanie:"
+		},
+		{
+			"lang": "sl",
+			"text": "V skladu z drugimi določbami te uredbe je lahko oseba predmet ukrepa iz odstavka 1 samo, če je obdelava:"
+		},
+		{
+			"lang": "fi",
+			"text": "Ellei tässä asetuksessa muuta säädetä, henkilöön voidaan kohdistaa 1 kohdassa tarkoitetun kaltainen toimenpide vain jos tietojenkäsittely"
+		},
+		{
+			"lang": "pl",
+			"text": "Z zastrzeżeniem innych przepisów niniejszego rozporządzenia, dana osoba może zostać poddana jednemu ze środków, o których mowa w ust. 1, jedynie wtedy gdy przetwarzanie:"
+		},
+		{
+			"lang": "lt",
+			"text": "Laikantis kitų šio reglamento nuostatų, asmeniui 1 dalyje nurodyto pobūdžio priemonė gali būti taikoma tik tuo atveju, jeigu:"
+		},
+		{
+			"lang": "nl",
+			"text": "Onverminderd het bepaalde in de overige artikelen van deze verordening mag een persoon alleen aan een maatregel als bedoeld in lid 1 worden onderworpen, wanneer de verwerking:"
+		},
+		{
+			"lang": "sv",
+			"text": "Om inte annat följer av övriga bestämmelser i denna förordning får en person omfattas av en åtgärd av den typ som avses i punkt 1 endast om behandlingen"
+		}
+	],
+	"children": [
+		"a20p2i1",
+		"a20p2i2",
+		"a20p2i3"
+	],
+	"title": "Article 20 – Paragraph 2"
+}

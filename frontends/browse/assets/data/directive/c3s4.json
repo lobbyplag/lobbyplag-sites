@@ -1,0 +1,105 @@
+{
+	"id": "c3s4",
+	"type": "section",
+	"literal": "4",
+	"parent": "c3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "RIGHT TO OBJECT AND PROFILING"
+		},
+		{
+			"lang": "de",
+			"text": "WIDERSPRUCHSRECHT UND PROFILING"
+		},
+		{
+			"lang": "fr",
+			"text": "DROIT D'OPPOSITION ET PROFILAGE"
+		},
+		{
+			"lang": "es",
+			"text": "DERECHO DE OPOSICIÓN Y ELABORACIÓN DE PERFILES"
+		},
+		{
+			"lang": "pt",
+			"text": "DIREITO DE OPOSIÇÃO E DEFINIÇÃO DE PERFIS"
+		},
+		{
+			"lang": "it",
+			"text": "DIRITTO DI OPPOSIZIONE E PROFILAZIONE"
+		},
+		{
+			"lang": "ga",
+			"text": "AN CEART AGÓIDE AGUS PRÓIFÍLIÚ"
+		},
+		{
+			"lang": "cs",
+			"text": "PRÁVO VZNÉST NÁMITKU A PROFILOVÁNÍ"
+		},
+		{
+			"lang": "da",
+			"text": "RET TIL INDSIGELSE OG PROFILERING"
+		},
+		{
+			"lang": "et",
+			"text": "VAIDLUSTAMISÕIGUS JA PROFIILIANALÜÜS"
+		},
+		{
+			"lang": "el",
+			"text": "ΔΙΚΑΙΩΜΑ ΑΝΤΙΤΑΞΗΣ ΚΑΙ ΚΑΤΑΡΤΙΣΗ ΠΡΟΦΙΛ"
+		},
+		{
+			"lang": "bg",
+			"text": "ПРАВО НА ВЪЗРАЖЕНИЕ И ПРОФИЛИРАНЕ"
+		},
+		{
+			"lang": "hu",
+			"text": "A KIFOGÁSOLÁSHOZ VALÓ JOG ÉS PROFILALKOTÁS"
+		},
+		{
+			"lang": "mt",
+			"text": "DRITT GĦALL-OĠĠEZZJONI U T-TFASSIL TA’ PROFILI"
+		},
+		{
+			"lang": "lv",
+			"text": "TIESĪBAS IEBILST UN PROFILĒŠANA"
+		},
+		{
+			"lang": "ro",
+			"text": "DREPTUL LA OPOZIȚIE ȘI CREAREA DE PROFILURI"
+		},
+		{
+			"lang": "sk",
+			"text": "PRÁVO NAMIETAŤ A PROFILOVANIE"
+		},
+		{
+			"lang": "sl",
+			"text": "PRAVICA DO UGOVORA IN OBLIKOVANJA PROFILOV"
+		},
+		{
+			"lang": "fi",
+			"text": "OIKEUS VASTUSTAA HENKILÖTIETOJEN KÄSITTELYÄ JA PROFILOINTI"
+		},
+		{
+			"lang": "pl",
+			"text": "PRAWO WNIESIENIA SPRZECIWU I PROFILOWANIE"
+		},
+		{
+			"lang": "lt",
+			"text": "TEISĖ NESUTIKTI IR PROFILIAVIMAS"
+		},
+		{
+			"lang": "nl",
+			"text": "RECHT VAN BEZWAAR EN PROFILERING"
+		},
+		{
+			"lang": "sv",
+			"text": "RÄTT ATT GÖRA INVÄNDNINGAR OCH PROFILERING"
+		}
+	],
+	"children": [
+		"a19",
+		"a20"
+	],
+	"title": "Chapter 3 – Section 4"
+}

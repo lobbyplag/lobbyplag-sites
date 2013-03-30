@@ -1,0 +1,102 @@
+{
+	"id": "a1p3",
+	"type": "paragraph",
+	"literal": "3",
+	"parent": "a1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The free movement of personal data within the Union shall neither be restricted nor prohibited for reasons connected with the protection of individuals with regard to the processing of personal data."
+		},
+		{
+			"lang": "de",
+			"text": "Der freie Verkehr personenbezogener Daten in der Union darf aus Gründen des Schutzes natürlicher Personen bei der Verarbeitung personenbezogener Daten weder eingeschränkt oder verboten werden."
+		},
+		{
+			"lang": "fr",
+			"text": "La libre circulation des données à caractère personnel au sein de l'Union n'est ni limitée ni interdite pour des motifs liés à la protection des personnes physiques à l’égard du traitement des données à caractère personnel."
+		},
+		{
+			"lang": "es",
+			"text": "La libre circulación de los datos personales en la Unión no podrá ser restringida ni prohibida por motivos relacionados con la protección de las personas físicas en lo que respecta al tratamiento de datos personales."
+		},
+		{
+			"lang": "pt",
+			"text": "A livre circulação de dados pessoais na União não é restringida nem proibida por motivos relacionados com a proteção das pessoas singulares no que respeita ao tratamento de dados pessoais."
+		},
+		{
+			"lang": "it",
+			"text": "La libera circolazione dei dati personali nell’Unione non può essere limitata né vietata per motivi attinenti alla tutela delle persone fisiche con riguardo al trattamento dei dati personali."
+		},
+		{
+			"lang": "ga",
+			"text": "Ní chuirfear srian le saorghluaiseacht sonraí pearsanta laistigh den Aontas ná ní chuirfear toirmeasc uirthi ar chúiseanna a bhaineann le cosaint daoine aonair i ndáil le sonraí pearsanta a phróiseáil."
+		},
+		{
+			"lang": "cs",
+			"text": "Volný pohyb osobních údajů v Unii není z důvodu ochrany fyzických osob v souvislosti se zpracováváním osobních údajů omezen ani zakázán."
+		},
+		{
+			"lang": "da",
+			"text": "Denne forordning sikrer, at den frie udveksling af personoplysninger i Unionen hverken indskrænkes eller forbydes af grunde, der vedrører beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger."
+		},
+		{
+			"lang": "et",
+			"text": "Isikuandmete vaba liikumist liidus ei piirata ega keelata põhjustel, mis on seotud üksikisikute kaitsega isikuandmete töötlemisel."
+		},
+		{
+			"lang": "el",
+			"text": "Η ελεύθερη κυκλοφορία των δεδομένων προσωπικού χαρακτήρα εντός της Ένωσης δεν περιορίζεται ούτε απαγορεύεται για λόγους που σχετίζονται με την προστασία των φυσικών προσώπων έναντι της επεξεργασίας δεδομένων προσωπικού χαρακτήρα."
+		},
+		{
+			"lang": "bg",
+			"text": "Свободното движение на лични данни в рамките на Съюза не се ограничава, нито забранява по причини, свързани със защитата на физическите лица във връзка с обработването на лични данни."
+		},
+		{
+			"lang": "hu",
+			"text": "A személyes adatok Unión belüli szabad áramlása nem korlátozható vagy tiltható meg a személyes adatok feldolgozása vonatkozásában az egyének védelmével összefüggő okokból."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-moviment liberu tad-dejta personali fl-Unjoni ma għandux ikun ristrett u lanqas ipprojbit għal raġunijiet konnessi mal-protezzjoni ta’ individwi fir-rigward talipproċessar ta’ dejta personali."
+		},
+		{
+			"lang": "lv",
+			"text": "Personas datu brīvu apriti Savienībā neierobežo un neaizliedz, pamatojoties uz iemesliem, kas saistīti ar fizisku personu aizsardzību attiecībā uz personas datu apstrādi."
+		},
+		{
+			"lang": "ro",
+			"text": "Libera circulație a datelor cu caracter personal în cadrul Uniunii nu poate fi limitată sau interzisă din motive legate de protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal."
+		},
+		{
+			"lang": "sk",
+			"text": "Voľný pohyb osobných údajov v rámci Únie nemá byť obmedzený ani zakázaný z dôvodov súvisiacich s ochranou fyzických osôb pri spracúvaní osobných údajov."
+		},
+		{
+			"lang": "sl",
+			"text": "Prosti pretok osebnih podatkov v Uniji ne sme biti niti omejen niti prepovedan iz razlogov, povezanih z varstvom posameznikov pri obdelavi osebnih podatkov."
+		},
+		{
+			"lang": "fi",
+			"text": "Henkilötietojen vapaata liikkuvuutta unionin sisällä ei saa rajoittaa eikä kieltää syistä, jotka liittyvät yksilöiden suojeluun henkilötietojen käsittelyssä."
+		},
+		{
+			"lang": "pl",
+			"text": "Nie ogranicza się ani nie zakazuje swobodnego przepływu danych osobowych w Unii z powodów związanych z ochroną osób fizycznych w zakresie przetwarzania danych osobowych."
+		},
+		{
+			"lang": "lt",
+			"text": "Laisvas asmens duomenų judėjimas Sąjungoje negali būti varžomas ar draudžiamas remiantis su asmenų apsauga tvarkant asmens duomenis susijusiais pagrindais."
+		},
+		{
+			"lang": "nl",
+			"text": "Het vrije verkeer van persoonsgegevens in de Unie wordt niet beperkt of verboden om redenen die betrekking hebben op de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens."
+		},
+		{
+			"lang": "sv",
+			"text": "Den fria rörligheten för personuppgifter inom unionen får varken begränsas eller förbjudas av skäl som rör skyddet för enskilda personer med avseende på behandlingen av personuppgifter."
+		}
+	],
+	"children": [],
+	"title": "Article 1 – Paragraph 3"
+}

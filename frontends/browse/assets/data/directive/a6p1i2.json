@@ -1,0 +1,102 @@
+{
+	"id": "a6p1i2",
+	"type": "point",
+	"literal": "b",
+	"parent": "a6p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract;"
+		},
+		{
+			"lang": "de",
+			"text": "Die Verarbeitung ist für die Erfüllung eines Vertrags, dessen Vertragspartei die betroffene Person ist, erforderlich oder zur Durchführung vorvertraglicher Maßnahmen, die auf Antrag der betroffenen Person erfolgen."
+		},
+		{
+			"lang": "fr",
+			"text": "le traitement est nécessaire à l'exécution d'un contrat auquel la personne concernée est partie ou à l'exécution de mesures précontractuelles prises à la demande de celle-ci;"
+		},
+		{
+			"lang": "es",
+			"text": "el tratamiento es necesario para la ejecución de un contrato en el que el interesado es parte o para la aplicación de medidas precontractuales adoptadas a petición del interesado;"
+		},
+		{
+			"lang": "pt",
+			"text": "O tratamento for necessário para a execução de um contrato no qual o titular dos dados é parte ou para diligências pré‑contratuais a pedido do titular dos dados;"
+		},
+		{
+			"lang": "it",
+			"text": "il trattamento è necessario all’esecuzione di un contratto di cui l’interessato è parte o all’esecuzione di misure precontrattuali prese su richiesta dello stesso;"
+		},
+		{
+			"lang": "ga",
+			"text": "is gá an phróiseáil a dhéanamh chun conradh a shínigh an duine is ábhar do na sonraí a chomhlíonadh nó chun bearta a dhéanamh arna iarraidh sin ag an duine is ábhar do na sonraí sular shínigh sé an conradh;"
+		},
+		{
+			"lang": "cs",
+			"text": "zpracování je nezbytné pro splnění smlouvy, jejíž smluvní stranou je subjekt údajů, nebo pro provedení opatření přijatých před uzavřením smlouvy na žádost tohoto subjektu;"
+		},
+		{
+			"lang": "da",
+			"text": "behandlingen er nødvendig af hensyn til opfyldelsen af en kontrakt, som den registrerede er part i, eller af hensyn til gennemførelsen af foranstaltninger, der træffes på dennes anmodning forud for indgåelsen af en sådan kontrakt"
+		},
+		{
+			"lang": "et",
+			"text": "töötlemine on vajalik andmesubjekti osalusel sõlmitud lepingu täitmiseks või lepingu sõlmimisele eelnevate meetmete võtmiseks vastavalt andmesubjekti taotlusele;"
+		},
+		{
+			"lang": "el",
+			"text": "β) η επεξεργασία είναι απαραίτητη για την εκτέλεση σύμβασης της οποίας το πρόσωπο στο οποίο αναφέρονται τα δεδομένα είναι συμβαλλόμενο μέρος ή για την εκτέλεση προσυμβατικών μέτρων ληφθέντων αιτήσει του·"
+		},
+		{
+			"lang": "bg",
+			"text": "б) обработването е необходимо за изпълнението на договор, по който субектът на данните е страна, или за предприемане на мерки по искане на субекта на данните преди сключването на договор;"
+		},
+		{
+			"lang": "hu",
+			"text": "az adatfeldolgozás olyan szerződés teljesítéséhez szükséges, amelyben az érintett az egyik fél, vagy az a szerződés megkötését megelőzően az érintett kérésére történő lépések megtételéhez szükséges;"
+		},
+		{
+			"lang": "mt",
+			"text": "l-ipproċessar huwa meħtieġ għat-twettiq ta’ kuntratt li għalih is-suġġett tad-dejta huwa parti jew sabiex jittieħdu passi fuq talba tas-suġġett tad-dejta qabel ma jidħol f’kuntratt;"
+		},
+		{
+			"lang": "lv",
+			"text": "apstrāde ir vajadzīga līguma, kurā datu subjekts ir līgumslēdzēja puse, izpildei vai pasākumu veikšanai pēc datu subjekta pieprasījuma pirms līguma noslēgšanas;"
+		},
+		{
+			"lang": "ro",
+			"text": "prelucrarea este necesară pentru executarea unui contract la care persoana vizată este parte sau pentru executarea unor măsuri precontractuale la cererea persoanei vizate;"
+		},
+		{
+			"lang": "sk",
+			"text": "spracovanie je nevyhnutné na plnenie zmluvy, ktorej je dotknutá osoba zmluvnou stranou, alebo aby sa na základe žiadosti dotknutej osoby vykonali opatrenia pred uzatvorením zmluvy;"
+		},
+		{
+			"lang": "sl",
+			"text": "obdelava je potrebna za izvajanje pogodbe, katere pogodbena stranka je posameznik, na katerega se nanašajo osebni podatki, ali pa za izvajanje ukrepov na zahtevo posameznika, na katerega se nanašajo osebni podatki, pred sklenitvijo pogodbe;"
+		},
+		{
+			"lang": "fi",
+			"text": "käsittely on tarpeen sellaisen sopimuksen täytäntöön panemiseksi, jossa rekisteröity on osapuolena, tai sopimusta edeltävien toimenpiteiden toteuttamiseksi rekisteröidyn pyynnöstä;"
+		},
+		{
+			"lang": "pl",
+			"text": "przetwarzanie danych jest konieczne do wykonania umowy, której stroną jest podmiot danych, lub w celu podjęcia działań na żądanie podmiotu danych przed zawarciem umowy;"
+		},
+		{
+			"lang": "lt",
+			"text": "tvarkyti duomenis reikia siekiant įvykdyti sutartį, kurios šalis yra duomenų subjektas, arba įgyvendinti ikisutartines priemones, kurių imamasi duomenų subjekto reikalavimu;"
+		},
+		{
+			"lang": "nl",
+			"text": "de verwerking is noodzakelijk voor de uitvoering van een overeenkomst waarbij de betrokkene partij is of voor het nemen van precontractuele maatregelen op verzoek van de betrokkene;"
+		},
+		{
+			"lang": "sv",
+			"text": "Behandlingen är nödvändig för att fullgöra ett avtal i vilket den registrerade är part eller för att vidta åtgärder på begäran av den registrerade innan ett sådant avtal ingås."
+		}
+	],
+	"children": [],
+	"title": "Article 6 – Paragraph 1 – Point 2"
+}

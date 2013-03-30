@@ -1,0 +1,106 @@
+{
+	"id": "a41p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a41",
+	"text": [
+		{
+			"lang": "en",
+			"text": "When assessing the adequacy of the level of protection, the Commission shall give consideration to the following elements:"
+		},
+		{
+			"lang": "de",
+			"text": "Bei der Prüfung der Angemessenheit des gebotenen Schutzes berücksichtigt die Kommission"
+		},
+		{
+			"lang": "fr",
+			"text": "Lorsqu'elle apprécie le caractère adéquat du niveau de protection, la Commission prend en considération les éléments suivants:"
+		},
+		{
+			"lang": "es",
+			"text": "Al evaluar la adecuación del nivel de protección, la Comisión tomará en consideración los elementos siguientes:"
+		},
+		{
+			"lang": "pt",
+			"text": "Ao avaliar o nível de proteção adequado, a Comissão deve ter em conta os seguintes elementos:"
+		},
+		{
+			"lang": "it",
+			"text": "Nel valutare l’adeguatezza del livello di protezione la Commissione prende in considerazione i seguenti elementi:"
+		},
+		{
+			"lang": "ga",
+			"text": "Agus a leordhóthanaí atá an leibhéal cosanta á mheas ag an gCoimisiún cuirfidh sé na nithe seo a leanas san áireamh:"
+		},
+		{
+			"lang": "cs",
+			"text": "Při posuzování toho, zda je úroveň ochrany přiměřená, přihlíží Komise k následujícím aspektům:"
+		},
+		{
+			"lang": "da",
+			"text": "Ved vurdering af beskyttelsesniveauets tilstrækkelighed tager Kommissionen hensyn til følgende elementer:"
+		},
+		{
+			"lang": "et",
+			"text": "Isikuandmete kaitse piisavuse hindamisel kaalub komisjon järgmisi asjaolusid:"
+		},
+		{
+			"lang": "el",
+			"text": "Κατά την εξέταση της επάρκειας του επιπέδου προστασίας, η Επιτροπή λαμβάνει υπόψη τα ακόλουθα στοιχεία:"
+		},
+		{
+			"lang": "bg",
+			"text": "При оценяване на адекватността на нивото на защита Комисията отчита следните елементи:"
+		},
+		{
+			"lang": "hu",
+			"text": "A védelmi szint megfelelőségét a Bizottság a következő tényezők figyelembevételével mérlegeli:"
+		},
+		{
+			"lang": "mt",
+			"text": "Meta tivvaluta l-adegwatezza tal-livell ta’ protezzjoni, il-Kummissjoni għandha tagħti kunsiderazzjoni lill-elementi li ġejjin:"
+		},
+		{
+			"lang": "lv",
+			"text": "Novērtējot aizsardzības līmeņa pietiekamību, Komisija apsver šādus faktorus:"
+		},
+		{
+			"lang": "ro",
+			"text": "Atunci când evaluează caracterul adecvat al nivelului de protecție, Comisia ia în considerare următoarele elemente:"
+		},
+		{
+			"lang": "sk",
+			"text": "Pri posudzovaní primeranosti úrovne ochrany Komisia berie do úvahy tieto prvky:"
+		},
+		{
+			"lang": "sl",
+			"text": "Pri ocenjevanju ustreznosti ravni varstva Komisija upošteva naslednje elemente:"
+		},
+		{
+			"lang": "fi",
+			"text": "Arvioidessaan tietosuojan riittävyyttä komissio ottaa huomioon seuraavat seikat:"
+		},
+		{
+			"lang": "pl",
+			"text": "Przy ocenie odpowiedniości poziomu ochrony Komisja uwzględnia następujące elementy:"
+		},
+		{
+			"lang": "lt",
+			"text": "Vertindama apsaugos lygio tinkamumą, Komisija atsižvelgia į šiuos veiksnius:"
+		},
+		{
+			"lang": "nl",
+			"text": "Bij de beoordeling van de vraag of er een passend beschermingsniveau is, houdt de Commissie rekening met de volgende aspecten:"
+		},
+		{
+			"lang": "sv",
+			"text": "När kommissionen bedömer om en adekvat skyddsnivå råder ska den ta hänsyn till"
+		}
+	],
+	"children": [
+		"a41p2i1",
+		"a41p2i2",
+		"a41p2i3"
+	],
+	"title": "Article 41 – Paragraph 2"
+}

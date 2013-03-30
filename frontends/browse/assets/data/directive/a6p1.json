@@ -1,0 +1,109 @@
+{
+	"id": "a6p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a6",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Processing of personal data shall be lawful only if and to the extent that at least one of the following applies:"
+		},
+		{
+			"lang": "de",
+			"text": "Die Verarbeitung personenbezogener Daten ist nur rechtmäßig, wenn mindestens eine der nachstehenden Bedingungen erfüllt ist:"
+		},
+		{
+			"lang": "fr",
+			"text": "Le traitement de données à caractère personnel n'est licite que si et dans la mesure où l’une au moins des situations suivantes s'applique:"
+		},
+		{
+			"lang": "es",
+			"text": "El tratamiento de datos personales solo será lícito en la medida en que sea de aplicación alguno de los siguientes supuestos:"
+		},
+		{
+			"lang": "pt",
+			"text": "O tratamento de dados pessoais só é lícito se e na medida em que se verifique pelo menos uma das seguintes situações:"
+		},
+		{
+			"lang": "it",
+			"text": "Il trattamento dei dati personali è lecito solo se e nella misura in cui ricorre almeno una delle seguenti condizioni:"
+		},
+		{
+			"lang": "ga",
+			"text": "Ní bheidh próiseáil sonraí pearsanta dleathach murar fíor ar a laghad ceann díobh seo a leanas:"
+		},
+		{
+			"lang": "cs",
+			"text": "Zpracování osobních údajů je zákonné pouze tehdy a do té míry, pokud je splněna nejméně jedna z těchto podmínek:"
+		},
+		{
+			"lang": "da",
+			"text": "Behandling af personoplysninger er kun lovlig, hvis og i det omfang mindst ét af følgende forhold gør sig gældende:"
+		},
+		{
+			"lang": "et",
+			"text": "Isikuandmete töötlemine on seaduslik ainult juhul, kui on täidetud vähemalt üks järgmistest tingimustest, ning sellisel määral, nagu see tingimus on täidetud:"
+		},
+		{
+			"lang": "el",
+			"text": "Η επεξεργασία δεδομένων προσωπικού χαρακτήρα είναι σύννομη μόνον εάν και εφόσον ισχύει τουλάχιστον μία από τις ακόλουθες προϋποθέσεις:"
+		},
+		{
+			"lang": "bg",
+			"text": "Обработването на лични данни е законосъобразно само ако и доколкото е приложимо поне едно от следните условия:"
+		},
+		{
+			"lang": "hu",
+			"text": "A személyes adatok feldolgozása csak és kizárólag akkor és annyiban jogszerű, amennyiben az alábbiak valamelyike teljesül:"
+		},
+		{
+			"lang": "mt",
+			"text": "L-ipproċessar tad-dejta personali għandu jkun legali biss jekk u sal-punt li tapplika mill-inqas waħda minn dawn li ġejjin:"
+		},
+		{
+			"lang": "lv",
+			"text": "Personas datu apstrāde ir likumīga tikai tādā apmērā un tikai tad, ja ir piemērojams vismaz viens no turpmāk minētajiem nosacījumiem:"
+		},
+		{
+			"lang": "ro",
+			"text": "Prelucrarea datelor cu caracter personal este legală numai dacă și în măsura în care se aplică cel puțin una dintre următoarele condiții:"
+		},
+		{
+			"lang": "sk",
+			"text": "Spracúvanie osobných údajov je zákonné iba vtedy, keď je splnená aspoň jedna z nasledujúcich podmienok:"
+		},
+		{
+			"lang": "sl",
+			"text": "Obdelava osebnih podatkov je zakonita le, če je izpolnjen vsaj eden od naslednjih pogojev:"
+		},
+		{
+			"lang": "fi",
+			"text": "Henkilötietojen käsittely on lainmukaista ainoastaan jos ja vain siltä osin kuin vähintään yksi seuraavista edellytyksistä täyttyy:"
+		},
+		{
+			"lang": "pl",
+			"text": "Przetwarzanie danych osobowych jest zgodne z prawem, o ile ma zastosowanie co najmniej jeden z poniższych elementów:"
+		},
+		{
+			"lang": "lt",
+			"text": "Asmens duomenų tvarkymas teisėtas, tik jeigu ir tiek, kiek taikoma bent viena iš šių sąlygų:"
+		},
+		{
+			"lang": "nl",
+			"text": "De verwerking van persoonsgegevens is alleen rechtmatig wanneer en voor zover ten minste van een van de volgende gevallen sprake is:"
+		},
+		{
+			"lang": "sv",
+			"text": "Personuppgifter får behandlas endast om och i den mån som åtminstone ett av följande villkor är uppfyllda:"
+		}
+	],
+	"children": [
+		"a6p1i1",
+		"a6p1i2",
+		"a6p1i3",
+		"a6p1i4",
+		"a6p1i5",
+		"a6p1i6"
+	],
+	"title": "Article 6 – Paragraph 1"
+}

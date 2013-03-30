@@ -1,0 +1,107 @@
+{
+	"id": "a14p5",
+	"type": "paragraph",
+	"literal": "5",
+	"parent": "a14",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Paragraphs 1 to 4 shall not apply, where:"
+		},
+		{
+			"lang": "de",
+			"text": "Die Absätze 1 bis 4 finden in folgenden Fällen keine Anwendung:"
+		},
+		{
+			"lang": "fr",
+			"text": "Les dispositions des paragraphes 1 et 4 ne s'appliquent pas lorsque:"
+		},
+		{
+			"lang": "es",
+			"text": "Las disposiciones de los apartados 1 a 4 no serán aplicables cuando:"
+		},
+		{
+			"lang": "pt",
+			"text": "Os n.os 1 a 4 não se aplicam sempre que:"
+		},
+		{
+			"lang": "it",
+			"text": "I paragrafi da 1 a 4 non si applicano nelle seguenti circostanze:"
+		},
+		{
+			"lang": "ga",
+			"text": "Ní bheidh feidhm ag míreanna 1 go 4 sna cásanna seo a leanas:"
+		},
+		{
+			"lang": "cs",
+			"text": "Odstavce 1 a 4 se nepoužijí, pokud:"
+		},
+		{
+			"lang": "da",
+			"text": "Bestemmelserne i stk. 1-4 gælder ikke, hvis:"
+		},
+		{
+			"lang": "et",
+			"text": "Lõikeid 1–4 ei kohaldata, kui"
+		},
+		{
+			"lang": "el",
+			"text": "Οι παράγραφοι 1 έως 4 δεν εφαρμόζονται εάν:"
+		},
+		{
+			"lang": "bg",
+			"text": "Параграфи 1―4 не се прилагат, когато:"
+		},
+		{
+			"lang": "hu",
+			"text": "Az (1)–(4) bekezdés nem alkalmazható, ha:"
+		},
+		{
+			"lang": "mt",
+			"text": "Il-paragrafi 1 sa 4 ma għandhomx japplikaw, meta:"
+		},
+		{
+			"lang": "lv",
+			"text": "Šā panta 1. – 4. punktu nepiemēro, ja:"
+		},
+		{
+			"lang": "ro",
+			"text": "Dispozițiile alineatelor (1) - (4) nu se aplică atunci când:"
+		},
+		{
+			"lang": "sk",
+			"text": "Odseky 1 až 4 sa neuplatňujú v prípadoch, keď:"
+		},
+		{
+			"lang": "sl",
+			"text": "Odstavki 1 do 4 se ne uporabljajo, kadar:"
+		},
+		{
+			"lang": "fi",
+			"text": "Edellä olevaa 1–4 kohtaa ei sovelleta, jos"
+		},
+		{
+			"lang": "pl",
+			"text": "Ustępów 1-4 nie stosuje się, w przypadku gdy:"
+		},
+		{
+			"lang": "lt",
+			"text": "Šio straipsnio 1–4 dalys netaikomos, jeigu:"
+		},
+		{
+			"lang": "nl",
+			"text": "De leden 1 tot en met 4 zijn niet van toepassing wanneer:"
+		},
+		{
+			"lang": "sv",
+			"text": "Punkterna 1–4 ska inte tillämpas i följande fall:"
+		}
+	],
+	"children": [
+		"a14p5i1",
+		"a14p5i2",
+		"a14p5i3",
+		"a14p5i4"
+	],
+	"title": "Article 14 – Paragraph 5"
+}

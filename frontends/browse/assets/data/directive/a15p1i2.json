@@ -1,0 +1,102 @@
+{
+	"id": "a15p1i2",
+	"type": "point",
+	"literal": "b",
+	"parent": "a15p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the categories of personal data concerned;"
+		},
+		{
+			"lang": "de",
+			"text": "die Kategorien personenbezogener Daten, die verarbeitet werden,"
+		},
+		{
+			"lang": "fr",
+			"text": "les catégories de données à caractère personnel concernées;"
+		},
+		{
+			"lang": "es",
+			"text": "las categorías de datos personales de que se trate;"
+		},
+		{
+			"lang": "pt",
+			"text": "Categorias de dados pessoais envolvidos;"
+		},
+		{
+			"lang": "it",
+			"text": "le categorie di dati personali in questione;"
+		},
+		{
+			"lang": "ga",
+			"text": "catagóirí na sonraí pearsanta lena mbaineann;"
+		},
+		{
+			"lang": "cs",
+			"text": "kategorie příslušných osobních údajů;"
+		},
+		{
+			"lang": "da",
+			"text": "de pågældende kategorier af personoplysninger"
+		},
+		{
+			"lang": "et",
+			"text": "töödeldavate isikuandmete liigid;"
+		},
+		{
+			"lang": "el",
+			"text": "β) τις σχετικές κατηγορίες δεδομένων προσωπικού χαρακτήρα·"
+		},
+		{
+			"lang": "bg",
+			"text": "б) категориите засегнати лични данни;"
+		},
+		{
+			"lang": "hu",
+			"text": "az érintett személyesadat-kategóriák;"
+		},
+		{
+			"lang": "mt",
+			"text": "il-kategoriji ta’ dejta personali inkwistjoni;"
+		},
+		{
+			"lang": "lv",
+			"text": "attiecīgo personas datu kategorijas;"
+		},
+		{
+			"lang": "ro",
+			"text": "categoriile de date cu caracter personal vizate;"
+		},
+		{
+			"lang": "sk",
+			"text": "kategórie dotknutých osobných údajov;"
+		},
+		{
+			"lang": "sl",
+			"text": "informacije o vrstah zadevnih osebnih podatkov;"
+		},
+		{
+			"lang": "fi",
+			"text": "kyseessä olevat henkilötietojen ryhmät;"
+		},
+		{
+			"lang": "pl",
+			"text": "kategorie przedmiotowych danych osobowych;"
+		},
+		{
+			"lang": "lt",
+			"text": "atitinkamų asmens duomenų kategorijas;"
+		},
+		{
+			"lang": "nl",
+			"text": "de betrokken categorieën persoonsgegevens;"
+		},
+		{
+			"lang": "sv",
+			"text": "De kategorier av personuppgifter som behandlingen gäller."
+		}
+	],
+	"children": [],
+	"title": "Article 15 – Paragraph 1 – Point 2"
+}

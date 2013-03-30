@@ -1,0 +1,102 @@
+{
+	"id": "a52p1i2",
+	"type": "point",
+	"literal": "b",
+	"parent": "a52p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "hear complaints lodged by any data subject, or by an association representing that data subject in accordance with Article 73, investigate, to the extent appropriate, the matter and inform the data subject or the association of the progress and the outcome of the complaint within a reasonable period, in particular if further investigation or coordination with another supervisory authority is necessary;"
+		},
+		{
+			"lang": "de",
+			"text": "die Befassung mit Beschwerden betroffener Personen oder von Verbänden, die diese Personen gemäß Artikel 73 vertreten, die Untersuchung der Angelegenheit in angemessenem Umfang und Unterrichtung der betroffenen Personen oder Verbände über den Fortgang und das Ergebnis der Beschwerde innerhalb einer angemessenen Frist, vor allem, wenn eine weitere Untersuchung oder Koordinierung mit einer anderen Aufsichtsbehörde notwendig ist,"
+		},
+		{
+			"lang": "fr",
+			"text": "reçoit les réclamations introduites par toute personne concernée ou par une association la représentant conformément à l'article 73, examine l'affaire pour autant que de besoin et informe la personne concernée ou l'association de l'état d'avancement de l'affaire et de l'issue de la réclamation dans un délai raisonnable, notamment si un complément d'enquête ou une coordination avec une autre autorité de contrôle est nécessaire;"
+		},
+		{
+			"lang": "es",
+			"text": "conocerá las reclamaciones presentadas por cualquier interesado o por una asociación que le represente de conformidad con lo dispuesto en el artículo 73, investigará, en la medida en que proceda, el asunto e informará al interesado o a la asociación sobre el curso y el resultado de la reclamación en un plazo razonable, en particular si fueran necesarias nuevas investigaciones o una coordinación más estrecha con otra autoridad de control;"
+		},
+		{
+			"lang": "pt",
+			"text": "Receber as queixas apresentadas por qualquer titular de dados ou por uma associação que o represente nos termos do artigo 73.º, examinar a matéria, na medida do necessário, e informar a pessoa em causa ou a associação do andamento e do resultado da queixa num prazo razoável, em especial se forem necessárias operações de investigação ou de coordenação complementares com outra autoridade de controlo;"
+		},
+		{
+			"lang": "it",
+			"text": "tratta i reclami proposti dagli interessati o da associazioni che li rappresentano ai sensi dell’articolo 73, svolge le indagini opportune e informa l’interessato o l’associazione dello stato e dell’esito del reclamo entro un termine ragionevole, in particolare ove siano necessarie ulteriori indagini o un coordinamento con un’altra autorità di controllo;"
+		},
+		{
+			"lang": "ga",
+			"text": "éistfidh sé le gearáin arna ndéanamh ag aon duine is ábhar do shonraí nó ag comhlachas a dhéanann ionadaíocht thar ceann an duine sin is ábhar do shonraí i gcomhréir le hAirteagal 73, fiosróidh sé an scéal, a mhéid is iomchuí, agus cuirfidh sé an duine is ábhar do na sonraí nó an comhlachas ar an eolas faoi thoradh an ghearáin laistigh de thréimhse réasúnta, go háirithe más gá tuilleadh imscrúdaithe a dhéanamh nó más gá dul i gcomhar le húdarás maoirseachta eile;"
+		},
+		{
+			"lang": "cs",
+			"text": "zabývá se stížnostmi, které mu předloží subjekt údajů nebo sdružení, jež tento subjekt zastupuje, v souladu s článkem 73, v odpovídající míře dané záležitosti prošetřuje a v rozumné lhůtě informuje daný subjekt údajů či dané sdružení o vývoji a výsledku jejich stížností, a to zejména v případech, kdy je zapotřebí další šetření nebo koordinace s jiným orgánem dozoru;"
+		},
+		{
+			"lang": "da",
+			"text": "hører klager, der indgives af en registreret eller en sammenslutning, der repræsenterer den registrerede i overensstemmelse med artikel 73, undersøger, så vidt det er hensigtsmæssigt, sagen og underretter den registrerede eller sammenslutningen om forløbet og resultatet af klagen inden for en rimelig frist, navnlig hvis yderligere undersøgelse eller koordinering med en anden tilsynsmyndighed er nødvendig"
+		},
+		{
+			"lang": "et",
+			"text": "vaatab läbi andmesubjekti või teda esindava ühenduse artikli 73 kohaselt esitatud kaebused, uurib juhtumit vajalikul määral ning teavitab mõistliku aja jooksul andmesubjekti või ühendust kaebuse arutamise arengust ja tulemusest, eelkõige juhul, kui osutub vajalikuks täiendav uurimine või koordineerimine teise järelevalveasutusega;"
+		},
+		{
+			"lang": "el",
+			"text": "β) εξετάζει τις καταγγελίες που υποβάλλονται από κάθε πρόσωπο στο οποίο αναφέρονται τα δεδομένα ή από ένωση που εκπροσωπεί το πρόσωπο στο οποίο αναφέρονται τα δεδομένα σύμφωνα με το άρθρο 73, ερευνά, στο μέτρο που ενδείκνυται, την υπόθεση και ενημερώνει το πρόσωπο στο οποίο αναφέρονται τα δεδομένα ή την ένωση για την πρόοδο και για την έκβαση της καταγγελίας εντός εύλογου χρονικού διαστήματος, ιδίως εάν απαιτείται περαιτέρω έρευνα ή συντονισμός με άλλη αρχή ελέγχου·"
+		},
+		{
+			"lang": "bg",
+			"text": "б) разглежда жалбите, подадени от субект на данни или от сдружение, представляващо субекта на данни, в съответствие с член 73, разследва техния предмет дотолкова, доколкото това е целесъобразно, и информира субекта на данни или сдружението за напредъка и резултата от жалбата в разумен срок, особено ако е необходимо по-нататъшно разследване или координиране с друг надзорен орган;"
+		},
+		{
+			"lang": "hu",
+			"text": "foglalkozik az érintett vagy az érintetteket képviselő szervezet által a 74. cikkel összhangban benyújtott panaszokkal, az ügyet a szükséges mértékben megvizsgálja, és az érintettet, illetve a szervezetet ésszerű időn belül tájékoztatja a panasszal kapcsolatos eljárási fejleményekről és eredményekről, különösen ha további vizsgálat vagy egy másik felügyelő hatósággal való együttműködés válik szükségessé;"
+		},
+		{
+			"lang": "mt",
+			"text": "tisma’ l-ilmenti mressqa minn kwalunkwe suġġett tad-dejta, jew minn assoċjazzjoni li tirrappreżenta lil dak is-suġġett u li għandha mandat xieraq mingħandhom skont l-Artikolu 73, tinvestiga, safejn ikun xieraq, il-kwistjoni u tinforma lis-suġġett tad-dejta jew lill-assoċjazzjoni dwar il-progress u l-eżitu tal-ilment fi żmien raġonevoli, b’mod partikolari jekk tkun meħtieġa aktar investigazzjoni jew koordinazzjoni ma’ xi awtorità ta’ superviżjoni oħra;"
+		},
+		{
+			"lang": "lv",
+			"text": "izskata datu subjekta vai to pārstāvošas asociācijas sūdzības saskaņā ar 73. pantu, atbilstošā apjomā izmeklē jautājumu un saprātīgā termiņā informē datu subjektu vai asociāciju par lietas virzību un sūdzības rezultātiem, jo īpaši ja ir nepieciešama papildus izmeklēšana vai koordinācija ar citu uzraudzības iestādi."
+		},
+		{
+			"lang": "ro",
+			"text": "primește reclamațiile depuse de orice persoană vizată sau de o asociație care reprezintă persoana vizată respectivă, în conformitate cu articolul 73, investighează chestiunea, în măsura în care este adecvat, și informează, într-un termen rezonabil, persoana vizată sau asociația cu privire la evoluția și rezultatul reclamației, în special dacă este necesară efectuarea unei cercetări mai amănunțite sau coordonarea cu o altă autoritate de supraveghere;"
+		},
+		{
+			"lang": "sk",
+			"text": "prejednáva sťažnosti podané akoukoľvek dotknutou osobou, resp. združením zastupujúcim dotknutú osobu v súlade s článkom 73, vyšetruje predmetnú záležitosť v náležitom rozsahu, informuje dotknutú osobu či združenie o pokroku a výsledkoch sťažnosti v primeranej lehote, najmä ak je nutné ďalšie vyšetrovanie alebo koordinácia s iným dozorným orgánom;"
+		},
+		{
+			"lang": "sl",
+			"text": "obravnava pritožbe, ki jih v skladu s členom 73 vloži kateri koli posameznik, na katerega se nanašajo osebni podatki, ali združenje, ki zastopa posameznika, na katerega se nanašajo osebni podatki, v ustreznem obsegu prouči zadevo ter posameznika, na katerega se nanašajo osebni podatki, ali združenje v primernem roku obvesti o stanju zadeve in odločitvi o pritožbi, zlasti če je potrebna podrobnejša proučitev ali uskladitev z drugim nadzornim organom;"
+		},
+		{
+			"lang": "fi",
+			"text": "käsittelee rekisteröidyn tai tätä 73 artiklan mukaisesti edustavan yhdistyksen tekemiä valituksia, tutkii mahdollisuuksien mukaan asiaa ja ilmoittaa rekisteröidylle tai yhdistykselle asian etenemisestä sekä valitusta koskevasta ratkaisustaan kohtuullisen ajan kuluessa, erityisesti jos asia edellyttää lisätutkimuksia tai koordinointia toisen valvontaviranomaisen kanssa;"
+		},
+		{
+			"lang": "pl",
+			"text": "rozpoznaje skargi złożone przez każdy podmiot danych lub przez zrzeszenie reprezentujące podmiot danych, zgodnie z art. 73, prowadzi dochodzenie, we właściwym zakresie, dotyczące danej sprawy i informuje w rozsądnym czasie podmiot danych lub zrzeszenie o postępach w sprawie i wyniku skargi, w szczególności jeżeli niezbędne jest dalsze dochodzenie lub koordynacja z innym organem nadzorczym;"
+		},
+		{
+			"lang": "lt",
+			"text": "nagrinėja skundus, kuriuos pagal 73 straipsnį pateikė bet kuris duomenų subjektas arba tam subjektui atstovaujanti asociacija, tinkamai tiria skundą ir per pagrįstą laikotarpį informuoja duomenų subjektą arba asociaciją apie skundo tyrimo eigą ir rezultatą, visų pirma tais atvejais, kai būtina tęsti tyrimą arba derinti su kita priežiūros institucija;"
+		},
+		{
+			"lang": "nl",
+			"text": "neemt kennis van klachten van betrokkenen of van verenigingen die overeenkomstig artikel 73 betrokkenen vertegenwoordigen, onderzoekt de aangelegenheid in de mate waarin dat nodig is en stelt de betrokkene of de vereniging binnen een redelijke termijn in kennis van de vooruitgang en het resultaat van de klacht, met name of verder onderzoek of coördinatie met een andere toezichthoudende autoriteit nodig is;"
+		},
+		{
+			"lang": "sv",
+			"text": "Ta emot klagomål från registrerade eller från sammanslutningar som representerar registrerade enligt artikel 73, där så är lämpligt undersöka sakfrågan och inom rimlig tid underrätta den registrerade eller sammanslutningen om hur behandlingen av klagomålet fortskrider och vilken slutsats som nås, i synnerhet om det krävs ytterligare undersökningar eller samordning med en annan tillsynsmyndighet."
+		}
+	],
+	"children": [],
+	"title": "Article 52 – Paragraph 1 – Point 2"
+}

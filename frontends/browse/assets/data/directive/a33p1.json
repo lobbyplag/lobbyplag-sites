@@ -1,0 +1,102 @@
+{
+	"id": "a33p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a33",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Where processing operations present specific risks to the rights and freedoms of data subjects by virtue of their nature, their scope or their purposes, the controller or the processor acting on the controller's behalf shall carry out an assessment of the impact of the envisaged processing operations on the protection of personal data."
+		},
+		{
+			"lang": "de",
+			"text": "Bei Verarbeitungsvorgängen, die aufgrund ihres Wesens, ihres Umfangs oder ihrer Zwecke konkrete Risiken für die Rechte und Freiheiten betroffener Personen bergen, führt der für die Verarbeitung Verantwortliche oder der in seinem Auftrag handelnde Auftragsverarbeiter vorab eine Abschätzung der Folgen der vorgesehenen Verarbeitungsvorgänge für den Schutz personenbezogener Daten durch."
+		},
+		{
+			"lang": "fr",
+			"text": "Lorsque les traitements présentent des risques particuliers au regard des droits et libertés des personnes concernées du fait de leur nature, de leur portée ou de leurs finalités, le responsable du traitement ou le sous‑traitant agissant pour le compte du responsable du traitement effectuent une analyse de l'impact des traitements envisagés sur la protection des données à caractère personnel."
+		},
+		{
+			"lang": "es",
+			"text": "Cuando las operaciones de tratamiento entrañen riesgos específicos para los derechos y libertades de los interesados en razón de su naturaleza, alcance o fines, el responsable o el encargado del tratamiento que actúe por cuenta del responsable llevarán a cabo una evaluación del impacto de las operaciones de tratamiento previstas en la protección de datos personales."
+		},
+		{
+			"lang": "pt",
+			"text": "Sempre que as operações de tratamento apresentem riscos específicos para os direitos e liberdades dos titulares de dados em virtude da sua natureza, do seu âmbito ou da sua finalidade, o responsável pelo tratamento ou o subcontratante, atuando em nome do responsável pelo tratamento, efetuam uma avaliação de impacto das operações de tratamento previstas sobre a proteção de dados pessoais."
+		},
+		{
+			"lang": "it",
+			"text": "Quando il trattamento, per la sua natura, il suo oggetto o le sue finalità, presenta rischi specifici per i diritti e le libertà degli interessati, il responsabile del trattamento o l’incaricato del trattamento che agisce per conto del responsabile del trattamento effettua una valutazione dell’impatto del trattamento previsto sulla protezione dei dati personali."
+		},
+		{
+			"lang": "ga",
+			"text": "I gcás ina mbaineann rioscaí sonracha le hoibríochtaí próiseála do chearta agus saoirsí daoine is ábhar do shonraí mar gheall ar chineál na n‑oibríochtaí sin, raon feidhme na n‑oibríochtaí nó cuspóirí na n‑oibríochtaí, déanfaidh an rialaitheoir nó an próiseálaí, ag gníomhú dó thar ceann an rialaitheora, measúnú ar an tionchar a bheadh ag na hoibríochtaí próiseála atá beartaithe ar chosaint na sonraí pearsanta."
+		},
+		{
+			"lang": "cs",
+			"text": "Jestliže je zpracování údajů kvůli své povaze, rozsahu nebo účelu spojeno s pravděpodobnými specifickými riziky z hlediska práv a svobod subjektů údajů, správce nebo zpracovatel jednající jeho jménem posoudí dopad plánovaného zpracování na ochranu osobních údajů."
+		},
+		{
+			"lang": "da",
+			"text": "Hvis behandlingen af personoplysninger kan indebære specifikke risici for registreredes rettigheder og frihedsrettigheder i medfør af dens karakter, omfang eller formål, gennemfører den registeransvarlige eller den registerfører, der handler på den registeransvarliges vegne, en konsekvensanalyse af den planlagte behandling, for så vidt angår beskyttelsen af personoplysninger."
+		},
+		{
+			"lang": "et",
+			"text": "Kui töötlemistoimingud ohustavad oma laadi, ulatuse või eesmärkide tõttu andmesubjektide õigusi ja vabadusi, hindab vastutav töötleja või tema nimel tegutsev volitatud töötleja kavandatavate töötlemistoimingute mõju isikuandmete kaitsele."
+		},
+		{
+			"lang": "el",
+			"text": "Εάν οι πράξεις επεξεργασίας ενέχουν συγκεκριμένους κινδύνους για τα δικαιώματα και τις ελευθερίες των προσώπων στα οποία αναφέρονται τα δεδομένα λόγω της φύσης, της έκτασης ή των σκοπών τους, ο υπεύθυνος επεξεργασίας ή ο εκτελών την επεξεργασία, ενεργώντας για λογαριασμό του υπευθύνου επεξεργασίας, διενεργούν εκτίμηση των επιπτώσεων των προβλεπόμενων πράξεων επεξεργασίας σχετικά με την προστασία των δεδομένων προσωπικού χαρακτήρα."
+		},
+		{
+			"lang": "bg",
+			"text": "Когато операциите по обработването на данни създават конкретни рискове за правата и свободите на субектите на данни поради своето естество, обхват или цели, администраторът — или обработващият лични данни от името на администратора — извършва оценка на въздействието на предвидените операции по обработване върху защитата на личните данни."
+		},
+		{
+			"lang": "hu",
+			"text": "Amennyiben az adatfeldolgozási műveletek jellegük, alkalmazási területük vagy céljaik tekintetében különleges kockázatot jelentenek az érintettek jogaira és szabadságaira nézve, az adatkezelő vagy az adatkezelő nevében eljáró adatfeldolgozó elvégzi e tervezett adatfeldolgozási műveletek személyes adatok védelme tekintetében várható hatásának vizsgálatát."
+		},
+		{
+			"lang": "mt",
+			"text": "Meta l-operazzjonijiet ta’ pproċessar jippreżentaw riskji speċifiċi għad-drittijiet u l-libertajiet ta’ suġġetti tad-dejta minħabba n-natura tagħhom, l-ambitu tagħhom u l-għanijiet tagħhom, il-kontrollur jew il-proċessur li jaġixxi f’isem il-kontrollur għandu jwettaq valutazzjoni tal-impatt tal-operazzjonijiet ta’ pproċessar previsti fuq id-dejta personali."
+		},
+		{
+			"lang": "lv",
+			"text": "Ja apstrādes darbības īpaši apdraud datu subjekta tiesības un brīvības savas būtības, apmēra vai nolūku dēļ, pārzinis vai apstrādātājs, kas rīkojas pārziņa vārdā, veic plānoto apstrādes darbību personas datu aizsardzības ietekmes novērtējumu."
+		},
+		{
+			"lang": "ro",
+			"text": "Atunci când operațiunile de prelucrare prezintă riscuri specifice pentru drepturile și libertățile persoanelor vizate prin însăși natura, domeniul de aplicare sau scopurile lor, operatorul sau persoana împuternicită de către operator, care acționează în numele operatorului, trebuie să efectueze o evaluare a impactului operațiunilor de prelucrare prevăzute asupra protecției datelor cu caracter personal."
+		},
+		{
+			"lang": "sk",
+			"text": "Ak operácie spracovania predstavujú špecifické riziká pre práva a slobody dotknutých osôb svojou povahou, rozsahom alebo účelmi, prevádzkovateľ alebo sprostredkovateľ konajúci v mene prevádzkovateľa vykoná posúdenie vplyvu plánovanej operácie spracovania na ochranu osobných údajov."
+		},
+		{
+			"lang": "sl",
+			"text": "Kadar postopki obdelave zaradi svoje narave, obsega ali namenov predstavljajo posebne nevarnosti za pravice in svoboščine posameznikov, na katere se nanašajo osebni podatki, upravljavec ali obdelovalec v imenu upravljavca izvede oceno učinka predvidenih postopkov obdelave na varstvo osebnih podatkov."
+		},
+		{
+			"lang": "fi",
+			"text": "Jos tietojenkäsittelytoimiin liittyy niiden luonteen, laajuuden tai tarkoitusten vuoksi rekisteröidyn oikeuksien ja vapauksien kannalta erityisiä riskejä, rekisterinpitäjän tai tämän lukuun toimivan henkilötietojen käsittelijän on laadittava arvio suunniteltujen käsittelytoimien vaikutuksista henkilötietojen suojalle."
+		},
+		{
+			"lang": "pl",
+			"text": "Jeśli operacje przetwarzania stwarzają szczególne ryzyko dla praw i wolności podmiotów danych z racji swego charakteru, zakresu lub celów, administrator lub podmiot przetwarzający przeprowadzają w imieniu administratora danych ocenę skutków przewidywanych operacji przetwarzania w zakresie ochrony danych osobowych."
+		},
+		{
+			"lang": "lt",
+			"text": "Jeigu atliekant duomenų tvarkymo operacijas dėl jų pobūdžio, aprėpties arba tikslų kyla konkreti rizika duomenų subjektų teisėms ir laisvėms, duomenų valdytojas arba duomenų tvarkytojas, veikiantis duomenų valdytojo pavedimu, atlieka numatytų duomenų tvarkymo operacijų poveikio asmens duomenų apsaugai vertinimą."
+		},
+		{
+			"lang": "nl",
+			"text": "Wanneer verwerkingen gezien hun aard, reikwijdte of doeleinden bijzondere risico’s inhouden voor de rechten en vrijheden van de betrokkenen, voert de voor de verwerking verantwoordelijke of de verwerker die ten behoeve van de voor de verwerking verantwoordelijke optreedt een beoordeling uit van het effect van de beoogde verwerkingen op de bescherming van persoonsgegevens."
+		},
+		{
+			"lang": "sv",
+			"text": "Om behandlingen på grund av sin karaktär, sin omfattning eller sina ändamål medför särskilda risker för de registrerades fri- och rättigheter, ska den registeransvarige eller registerföraren på den registeransvariges vägnar utföra en bedömning av den planerade behandlingens konsekvenser för skyddet av personuppgifter."
+		}
+	],
+	"children": [],
+	"title": "Article 33 – Paragraph 1"
+}

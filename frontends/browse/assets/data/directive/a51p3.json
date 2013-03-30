@@ -1,0 +1,102 @@
+{
+	"id": "a51p3",
+	"type": "paragraph",
+	"literal": "3",
+	"parent": "a51",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The supervisory authority shall not be competent to supervise processing operations of courts acting in their judicial capacity."
+		},
+		{
+			"lang": "de",
+			"text": "Die Aufsichtsbehörde ist nicht zuständig für die Überwachung der von Gerichten im Rahmen ihrer gerichtlichen Tätigkeit vorgenommenen Verarbeitungen."
+		},
+		{
+			"lang": "fr",
+			"text": "L’autorité de contrôle n'est pas compétente pour contrôler les traitements effectués par les juridictions dans l'exercice de leur fonction juridictionnelle."
+		},
+		{
+			"lang": "es",
+			"text": "La autoridad de control no será competente para controlar las operaciones de tratamiento efectuadas por los órganos jurisdiccionales en el ejercicio de su función jurisdiccional."
+		},
+		{
+			"lang": "pt",
+			"text": "A autoridade de controlo não tem competência para controlar operações de tratamento efetuadas por tribunais que atuem no exercício da sua função jurisdicional."
+		},
+		{
+			"lang": "it",
+			"text": "L’autorità di controllo non è competente per il controllo dei trattamenti effettuati dalle autorità giurisdizionali nell’esercizio delle loro funzioni giurisdizionali."
+		},
+		{
+			"lang": "ga",
+			"text": "Ní bheidh an t‑údarás maoirseachta inniúil ar mhaoirseacht a dhéanamh ar oibríochtaí próiseála cúirteanna ag gníomhú faoina gcumas breithiúnach."
+		},
+		{
+			"lang": "cs",
+			"text": "Orgán dozoru není příslušný k dohledu nad zpracováními, která provádějí soudy jednající v rámci svých soudních pravomocí."
+		},
+		{
+			"lang": "da",
+			"text": "Tilsynsmyndigheden har ikke beføjelse til at føre tilsyn med domstolenes behandling af personoplysninger, når disse handler som led i deres retspleje."
+		},
+		{
+			"lang": "et",
+			"text": "Järelevalveasutus ole pädev korraldama järelevalvet õigusliku pädevuse piires tegutsevate kohtute töötlemistegevuse üle."
+		},
+		{
+			"lang": "el",
+			"text": "Η αρχή ελέγχου δεν είναι αρμόδια να εποπτεύει πράξεις επεξεργασίας δικαστηρίων τα οποία ενεργούν στο πλαίσιο της δικαιοδοτικής τους ιδιότητας."
+		},
+		{
+			"lang": "bg",
+			"text": "Надзорният орган не е компетентен да осъществява надзор на дейностите по обработване, извършвани от съдилищата при изпълнение на съдебните си им функции."
+		},
+		{
+			"lang": "hu",
+			"text": "A felügyelő hatóság hatásköre nem terjed ki a bíróságok által igazságszolgáltatási feladataik körében végzett adatfeldolgozási műveletek felügyeletére."
+		},
+		{
+			"lang": "mt",
+			"text": "L-awtorità ta’ superviżjoni ma għandhiex tkun kompetenti li tissorvelja l-operazzjonijiet ta’ pproċessar ta’ qrati li jaġixxu fil-kapaċità ġudizzjarja tagħhom."
+		},
+		{
+			"lang": "lv",
+			"text": "Uzraudzības iestāde nav kompetenta uzraudzīt apstrādes darbības, ko veic tiesa, pildot tiesas spriešanas funkciju."
+		},
+		{
+			"lang": "ro",
+			"text": "Autoritatea de supraveghere nu are competența de a supraveghea operațiunile de prelucrare ale instanțelor care acționează în exercițiul funcției lor jurisdicționale."
+		},
+		{
+			"lang": "sk",
+			"text": "Dozorný orgán nie je príslušný pre dohľad nad operáciami spracovania na súdoch, ak ide o výkon ich súdnej právomoci."
+		},
+		{
+			"lang": "sl",
+			"text": "Nadzorni organ ni pristojen za nadzor postopkov obdelave sodišč, kadar delujejo kot sodni organ."
+		},
+		{
+			"lang": "fi",
+			"text": "Valvontaviranomaisella ei ole toimivaltaa valvoa käsittelytoimia, joita tuomioistuimet suorittavat lainkäyttötehtäviensä yhteydessä."
+		},
+		{
+			"lang": "pl",
+			"text": "Organ nadzorczy nie ma właściwości do nadzorowania operacji przetwarzania dokonywanych przez sądy w toku wykonywania przez nie funkcji sądowych."
+		},
+		{
+			"lang": "lt",
+			"text": "Priežiūros institucija nėra kompetentinga prižiūrėti duomenų tvarkymo operacijų, kurias atlieka teismai, vykdydami teisingumo funkcijas."
+		},
+		{
+			"lang": "nl",
+			"text": "De toezichthoudende autoriteit is niet bevoegd om toe te zien op verwerkingen door gerechtelijke instanties in het kader van hun gerechtelijke taken."
+		},
+		{
+			"lang": "sv",
+			"text": "Tillsynsmyndigheten ska inte vara behörig att utöva tillsyn över domstolar som behandlar personuppgifter som en del av sin dömande verksamhet."
+		}
+	],
+	"children": [],
+	"title": "Article 51 – Paragraph 3"
+}

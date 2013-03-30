@@ -1,0 +1,106 @@
+{
+	"id": "a81",
+	"type": "article",
+	"literal": "81",
+	"parent": "c9",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Processing of personal data concerning health"
+		},
+		{
+			"lang": "de",
+			"text": "Verarbeitung personenbezogener Gesundheitsdaten"
+		},
+		{
+			"lang": "fr",
+			"text": "Traitements de données à caractère personnel relatives à la santé"
+		},
+		{
+			"lang": "es",
+			"text": "Tratamiento de datos personales relativos a la salud"
+		},
+		{
+			"lang": "pt",
+			"text": "Tratamento de dados pessoais relativos à saúde"
+		},
+		{
+			"lang": "it",
+			"text": "Trattamento di dati personali relativi alla salute"
+		},
+		{
+			"lang": "ga",
+			"text": "Sonraí pearsanta maidir le sláinte a phróiseáil"
+		},
+		{
+			"lang": "cs",
+			"text": "Zpracovávání osobních údajů o zdravotním stavu"
+		},
+		{
+			"lang": "da",
+			"text": "Behandling af personoplysninger om helbredsforhold"
+		},
+		{
+			"lang": "et",
+			"text": "Terviseandmete töötlemine"
+		},
+		{
+			"lang": "el",
+			"text": "Επεξεργασία δεδομένων προσωπικού χαρακτήρα που αφορούν την υγεία"
+		},
+		{
+			"lang": "bg",
+			"text": "Обработване на лични данни за здравословното състояние"
+		},
+		{
+			"lang": "hu",
+			"text": "Egészségügyi vonatkozású személyes adatok feldolgozása"
+		},
+		{
+			"lang": "mt",
+			"text": "Ipproċessar tad-dejta personali li tirrigwarda s-saħħa"
+		},
+		{
+			"lang": "lv",
+			"text": "Veselības datu apstrāde"
+		},
+		{
+			"lang": "ro",
+			"text": "Prelucrarea datelor cu caracter personal privind sănătatea"
+		},
+		{
+			"lang": "sk",
+			"text": "Spracúvanie osobných údajov týkajúcich sa zdravia"
+		},
+		{
+			"lang": "sl",
+			"text": "Obdelava osebnih podatkov v zvezi z zdravjem"
+		},
+		{
+			"lang": "fi",
+			"text": "Terveyttä koskevien henkilötietojen käsittely"
+		},
+		{
+			"lang": "pl",
+			"text": "Przetwarzanie danych osobowych dotyczących zdrowia"
+		},
+		{
+			"lang": "lt",
+			"text": "Asmens sveikatos duomenų tvarkymas"
+		},
+		{
+			"lang": "nl",
+			"text": "Verwerking van persoonsgegevens over gezondheid"
+		},
+		{
+			"lang": "sv",
+			"text": "Behandling av personuppgifter om en registrerads hälsotillstånd"
+		}
+	],
+	"children": [
+		"a81p1",
+		"a81p2",
+		"a81p3"
+	],
+	"title": "Article 81"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "a44p1i6",
+	"type": "point",
+	"literal": "f",
+	"parent": "a44p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the transfer is necessary in order to protect the vital interests of the data subject or of another person, where the data subject is physically or legally incapable of giving consent; or"
+		},
+		{
+			"lang": "de",
+			"text": "die Übermittlung zum Schutz lebenswichtiger Interessen der betroffenen Person oder einer anderen Person erforderlich ist, sofern die betroffene Person aus physischen oder rechtlichen Gründen außerstande ist, ihre Einwilligung zu geben,"
+		},
+		{
+			"lang": "fr",
+			"text": "le transfert soit nécessaire à la sauvegarde des intérêts vitaux de la personne concernée ou d'une autre personne dans le cas où la personne concernée se trouve dans l'incapacité physique ou juridique de donner son consentement; ou"
+		},
+		{
+			"lang": "es",
+			"text": "la transferencia sea necesaria para proteger los intereses vitales del interesado o de otra persona, cuando el interesado esté física o jurídicamente incapacitado para dar su consentimiento; o"
+		},
+		{
+			"lang": "pt",
+			"text": "A transferência for necessária para proteger os interesses vitais do titular dos dados ou de outra pessoa, se esse titular estiver física ou legalmente incapaz de dar o seu consentimento; ou"
+		},
+		{
+			"lang": "it",
+			"text": "il trasferimento sia necessario per salvaguardare un interesse vitale dell’interessato o di un terzo, qualora l’interessato si trovi nell’incapacità fisica o giuridica di dare il proprio consenso, oppure"
+		},
+		{
+			"lang": "ga",
+			"text": "gur gá an t‑aistriú a dhéanamh chun leasanna ríthábhachtacha an duine is ábhar do na sonraí nó duine eile a chosaint, i gcás nach féidir leis an duine is ábhar do na sonraí toiliú a thabhairt go fisiciúil nó go dlíthiúil; nó"
+		},
+		{
+			"lang": "cs",
+			"text": "předání je nezbytné k ochraně životně důležitých zájmů subjektu údajů nebo jiné osoby v případě, že subjekt údajů není fyzicky nebo právně způsobilý udělit svůj souhlas, nebo"
+		},
+		{
+			"lang": "da",
+			"text": "videregivelsen er nødvendig for at beskytte den registreredes eller en anden persons vitale interesser i tilfælde, hvor den registrerede ikke fysisk eller juridisk er i stand til at give sit samtykke, eller"
+		},
+		{
+			"lang": "et",
+			"text": "edastamine on vajalik selleks, et kaitsta andmesubjekti või teise isiku olulisi huve, kui andmesubjekt on füüsiliselt või õiguslikult võimetu nõusolekut andma, või"
+		},
+		{
+			"lang": "el",
+			"text": "στ) η διαβίβαση είναι απαραίτητη για την προστασία των ζωτικών συμφερόντων του προσώπου στο οποίο αναφέρονται τα δεδομένα ή άλλου προσώπου, εφόσον το πρόσωπο στο οποίο αναφέρονται τα δεδομένα δεν είναι φυσικά ή νομικά ικανό να παράσχει τη συγκατάθεσή του· ή"
+		},
+		{
+			"lang": "bg",
+			"text": "е) предаването е необходимо, за да бъдат защитени жизненоважни интереси на субекта на данните или на друго лице, когато субектът на данните е физически или юридически неспособен да даде своето съгласие; или"
+		},
+		{
+			"lang": "hu",
+			"text": "a továbbítás az érintett vagy valamely más személy létfontosságú érdekeinek védelme miatt szükséges, és az érintett fizikailag vagy jogilag képtelen a hozzájárulás megadására; vagy"
+		},
+		{
+			"lang": "mt",
+			"text": "it-trasferiment ikun meħtieġ sabiex jiġu mħarsa l-interessi vitali tas-suġġett tad-dejta jew ta’ persuna oħra, meta s-suġġett tad-dejta ma jkunx fiżikament jew legalment kapaċi li jagħti l-kunsens tiegħu; jew"
+		},
+		{
+			"lang": "lv",
+			"text": "nosūtīšana ir vajadzīga, lai aizsargātu datu subjekta vai citas personas īpaši svarīgas intereses, ja datu subjekts ir fiziski vai tiesiski nespējīgs dot savu piekrišanu; vai"
+		},
+		{
+			"lang": "ro",
+			"text": "transferul este necesar pentru protejarea intereselor vitale ale persoanei vizate sau ale altei persoane, atunci când persoana vizată nu are capacitatea fizică sau juridică de a-și exprima acordul; sau"
+		},
+		{
+			"lang": "sk",
+			"text": "prenos je nevyhnutný na ochranu životne dôležitých záujmov dotknutej osoby alebo inej osoby, ak je dotknutá osoba fyzicky alebo právne nespôsobilá vyjadriť súhlas, alebo"
+		},
+		{
+			"lang": "sl",
+			"text": "je prenos potreben za zaščito življenjskih interesov posameznika, na katerega se nanašajo osebni podatki, ali druge osebe, kadar posameznik, na katerega se nanašajo osebni podatki, fizično ali pravno ni sposoben dati privolitve; ali"
+		},
+		{
+			"lang": "fi",
+			"text": "siirto on tarpeen rekisteröidyn tai toisen henkilön elintärkeiden etujen suojaamiseksi, jos rekisteröity on fyysisesti tai juridisesti estynyt antamasta suostumustaan; tai"
+		},
+		{
+			"lang": "pl",
+			"text": "przekazanie jest konieczne do ochrony żywotnych interesów podmiotu danych lub innej osoby, w przypadku gdy podmiot danych nie ma fizycznej lub prawnej zdolności do wyrażenia zgody; lub"
+		},
+		{
+			"lang": "lt",
+			"text": "perduoti duomenis būtina, kad būtų apsaugoti gyvybiniai duomenų subjekto arba kito asmens interesai, kai duomenų subjektas dėl fizinių ar teisinių priežasčių negali duoti sutikimo; arba"
+		},
+		{
+			"lang": "nl",
+			"text": "de doorgifte noodzakelijk is ter bescherming van de vitale belangen van de betrokkene of van een andere persoon, indien de betrokkene lichamelijk of juridisch niet in staat is zijn toestemming te geven; of"
+		},
+		{
+			"lang": "sv",
+			"text": "Överföringen är nödvändig för att skydda den registrerades eller någon annan persons grundläggande intressen när den registrerade är fysiskt eller rättsligt förhindrad att ge sitt samtycke."
+		}
+	],
+	"children": [],
+	"title": "Article 44 – Paragraph 1 – Point 6"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "a29p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a29",
+	"text": [
+		{
+			"lang": "en",
+			"text": "In response to the supervisory authority's exercise of its powers under Article 53(2), the controller and the processor shall reply to the supervisory authority within a reasonable period to be specified by the supervisory authority. The reply shall include a description of the measures taken and the results achieved, in response to the remarks of the supervisory authority."
+		},
+		{
+			"lang": "de",
+			"text": "Auf von der Aufsichtsbehörde im Rahmen der Ausübung ihrer Befugnisse erteilte Anordnungen gemäß Artikel 53 Absatz 2 antworten der für die Verarbeitung Verantwortliche und der Auftragsverarbeiter der Aufsichtsbehörde binnen einer von der Aufsichtsbehörde zu setzenden angemessenen Frist. Die Antwort muss auch eine Beschreibung der im Anschluss an die Bemerkungen der Aufsichtsbehörde getroffenen Maßnahmen und der damit erzielten Ergebnisse beinhalten."
+		},
+		{
+			"lang": "fr",
+			"text": "Lorsque l'autorité de contrôle exerce les pouvoirs qui lui sont conférés en vertu de l'article 53, paragraphe 2, le responsable du traitement et le sous‑traitant répondent à l'autorité de contrôle dans un délai raisonnable devant être fixé par celle‑ci. La réponse comprend une description des mesures prises et des résultats obtenus, compte tenu des observations formulées par l'autorité de contrôle."
+		},
+		{
+			"lang": "es",
+			"text": "Cuando la autoridad de control ejerza los poderes que le son conferidos en virtud del artículo 53, apartado 2, el responsable y el encargado del tratamiento responderán a la autoridad de control dentro de un plazo razonable que será fijado por esta. La respuesta deberá incluir una descripción de las medidas adoptadas y los resultados obtenidos, en respuesta a las observaciones formuladas por la autoridad de control."
+		},
+		{
+			"lang": "pt",
+			"text": "Sempre que a autoridade de controlo exerça os poderes que lhe são conferidos por força do artigo 53.º, n.º 2, o responsável pelo tratamento e o subcontratante devem responder à autoridade de controlo num prazo razoável a fixar por esta última. A resposta inclui uma descrição das medidas adotadas e dos resultados obtidos, tendo em conta as observações formuladas pela autoridade de controlo."
+		},
+		{
+			"lang": "it",
+			"text": "Quando l’autorità di controllo esercita i poteri a norma dell’articolo 53, paragrafo 2, il responsabile del trattamento e l’incaricato del trattamento rispondono a una sua richiesta entro un termine ragionevole da quella fissato. La risposta comprende una descrizione delle misure prese a seguito delle osservazioni dell’autorità di controllo e dei risultati raggiunti."
+		},
+		{
+			"lang": "ga",
+			"text": "Mar fhreagairt ar fheidhmiú chumhachtaí an údaráis mhaoirseachta faoi Airteagal 53(2), tabharfaidh an rialaitheoir agus an próiseálaí freagra don údarás maoirseachta laistigh de thréimhse réasúnta ama atá le sonrú ag an údarás maoirseachta. Áireofar sa fhreagra sin tuairisc ar na bearta arna ndéanamh agus ar thorthaí na mbeart sin, mar fhreagairt ar nótaí an údaráis mhaoirseachta."
+		},
+		{
+			"lang": "cs",
+			"text": "Správce a zpracovatel reagují na výkon práv ze strany orgánu dozoru podle čl. 53 odst. 2 tak, že orgánu dozoru odpoví v rozumné lhůtě jím stanovené. V návaznosti na připomínky orgánu dozoru popíší v odpovědi přijatá opatření a dosažené výsledky."
+		},
+		{
+			"lang": "da",
+			"text": "Som svar på tilsynsmyndighedens udøvelse af de beføjelser, der er tillagt ham i medfør af artikel 53, stk. 2, svarer den registeransvarlige og registerføreren tilsyns­myndigheden inden for en rimelig frist, som fastsættes af tilsynsmyndigheden. Svaret omfatter en redegørelse for de iværksatte foranstaltninger og de opnåede resultater som reaktion på bemærkningerne fra tilsynsmyndigheden."
+		},
+		{
+			"lang": "et",
+			"text": "Kui järelevalveasutus täidab oma ülesandeid vastavalt artikli 53 lõikele 2, vastavad vastutav töötleja ja volitatud töötleja tema märkustele mõistliku tähtaja jooksul, mille pikkuse määrab kindlaks järelevalveasutus. Järelevalveasutuse märkustele esitatud vastuses kirjeldatakse võetud meetmeid ja saavutatud tulemusi."
+		},
+		{
+			"lang": "el",
+			"text": "Ως απόκριση στην άσκηση των εξουσιών της αρχής ελέγχου βάσει του άρθρου 53 παράγραφος 2, ο υπεύθυνος επεξεργασίας και ο εκτελών την επεξεργασία απαντούν στην αρχή ελέγχου εντός εύλογης προθεσμίας, η οποία προσδιορίζεται από αυτήν. Η απάντηση περιλαμβάνει περιγραφή των ληφθέντων μέτρων και των επιτευχθέντων αποτελεσμάτων, ως απόκριση στις παρατηρήσεις της αρχής ελέγχου."
+		},
+		{
+			"lang": "bg",
+			"text": "При упражняване от страна на надзорния орган на правомощията съгласно член 53, параграф 2 администраторът и обработващият лични данни отговарят на този орган в разумен срок, който се определя от надзорния орган. Отговорът включва описание на предприетите мерки и постигнатите резултати в отговор на отправените от надзорния орган забележки."
+		},
+		{
+			"lang": "hu",
+			"text": "A felügyelő hatóság 53. cikk (2) bekezdése szerinti hatáskörének gyakorlását követően az adatkezelő és az adatfeldolgozó a felügyelő hatóság által meghatározott ésszerű határidőn belül válaszol a felügyelő hatóságnak. A válasz tartalmazza a felügyelő hatóság észrevételeire válaszul meghozott intézkedések ismertetését és az elért eredményeket."
+		},
+		{
+			"lang": "mt",
+			"text": "Bi tweġiba għall-eżerċizzju tas-setgħat tal-awtorità ta’ superviżjoni taħt l-Artikolu 53(2), il-kontrollur u l-proċessur għandhom iwieġbu lill-awtorità ta’ superviżjoni fi żmien perjodu raġonevoli li jkun speċifikat mill-awtorità ta’ superviżjoni. It-tweġiba għandha tinkludi deskrizzjoni tal-miżuri meħuda u r-riżultati miksuba, b’risposta għall-kummenti tal-awtorità ta’ superviżjoni."
+		},
+		{
+			"lang": "lv",
+			"text": "Ja uzraudzības iestāde izmanto savas pilnvaras saskaņā ar 53. panta 2. punktu, pārzinis un apstrādātājs reaģē un atbild uzraudzības iestādei saprātīgā termiņā, ko nosaka uzraudzības iestāde. Atbildē ietilpst arī veikto pasākumu apraksts un rezultāti, reaģējot uz uzraudzības iestādes piezīmēm."
+		},
+		{
+			"lang": "ro",
+			"text": "Ca urmare a exercitării, de către autoritatea de supraveghere, a competențelor prevăzute la articolul 53 alineatul (2), operatorul și persoana împuternicită de către operator răspund autorității de supraveghere într-un termen rezonabil stabilit de către autoritatea de supraveghere. Răspunsul include o descriere a măsurilor adoptate și a rezultatelor obținute, ca răspuns la observațiile autorității de supraveghere."
+		},
+		{
+			"lang": "sk",
+			"text": "V reakcii na uplatnenie právomocí dozorného orgánu podľa článku 53 ods. 2 prevádzkovateľ a sprostredkovateľ odpovedajú dozornému orgánu v primeranej lehote, ktorú určí dozorný orgán. Odpoveď má obsahovať aj opis prijatých opatrení a dosiahnuté výsledky v reakcii na pripomienky dozorného orgánu."
+		},
+		{
+			"lang": "sl",
+			"text": "Kot odziv na izvajanje pooblastil nadzornega organa iz člena 53(2) upravljavec in obdelovalec nadzornemu organu odgovorita v primernem roku, ki ga določi nadzorni organ. Odgovor vsebuje opis sprejetih ukrepov in doseženih rezultatov kot odziv na pripombe nadzornega organa."
+		},
+		{
+			"lang": "fi",
+			"text": "Kun valvontaviranomainen käyttää 53 artiklan 2 kohdassa tarkoitettuja valtuuksiaan, rekisterinpitäjän ja henkilötietojen käsittelijän on vastattava valvontaviranomaiselle tämän määrittämän kohtuullisen ajan kuluessa. Vastauksessa on kuvattava toteutetut toimenpiteet ja saavutetut tulokset valvontaviranomaisen huomautusten pohjalta."
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator i podmiot przetwarzający udzielają odpowiedzi na zapytanie organu nadzorczego wykonującego uprawnienia przekazane mu na podstawie art. 53 ust. 2 w rozsądnym terminie, wskazanym przez ten organ. Odpowiedź na uwagi organu nadzorczego zawiera opis podjętych środków i osiągniętych wyników"
+		},
+		{
+			"lang": "lt",
+			"text": "Priežiūros institucijai naudojantis savo įgaliojimais pagal 53 straipsnio 2 dalį, duomenų valdytojas ir duomenų tvarkytojas atsako priežiūros institucijai per jos nurodytą pagrįstą laikotarpį. Atsakyme į priežiūros institucijos pastabas pateikiamas priemonių, kurių imtasi, aprašymas ir pasiekti rezultatai."
+		},
+		{
+			"lang": "nl",
+			"text": "Wanneer de toezichthoudende autoriteit haar bevoegdheden uit hoofde van artikel 53, lid 2, uitoefent, antwoorden de voor de verwerking verantwoordelijke en de verwerker de toezichthoudende autoriteit binnen een redelijke, door de toezichthoudende autoriteit te bepalen termijn. Het antwoord omvat een beschrijving van de in aansluiting op de opmerkingen van de toezichthoudende autoriteit genomen maatregelen en behaalde resultaten."
+		},
+		{
+			"lang": "sv",
+			"text": "Som reaktion på tillsynsmyndighetens utövande av sina befogenheter enligt artikel 53.2 ska den registeransvarige och registerföraren svara tillsynsmyndigheten inom en rimlig period som ska fastställas av tillsynsmyndigheten. Svaret ska inbegripa en beskrivning av de åtgärder som vidtagits och de resultat som uppnåtts som svar på tillsynsmyndighetens anmärkningar."
+		}
+	],
+	"children": [],
+	"title": "Article 29 – Paragraph 2"
+}

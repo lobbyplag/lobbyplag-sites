@@ -1,0 +1,105 @@
+{
+	"id": "a63",
+	"type": "article",
+	"literal": "63",
+	"parent": "c7s2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Enforcement"
+		},
+		{
+			"lang": "de",
+			"text": "Durchsetzung"
+		},
+		{
+			"lang": "fr",
+			"text": "Mise à exécution"
+		},
+		{
+			"lang": "es",
+			"text": "Ejecución"
+		},
+		{
+			"lang": "pt",
+			"text": "Aplicação"
+		},
+		{
+			"lang": "it",
+			"text": "Esecuzione"
+		},
+		{
+			"lang": "ga",
+			"text": "Forfheidhmiú"
+		},
+		{
+			"lang": "cs",
+			"text": "Vykonávání"
+		},
+		{
+			"lang": "da",
+			"text": "Håndhævelse"
+		},
+		{
+			"lang": "et",
+			"text": "Täitmine"
+		},
+		{
+			"lang": "el",
+			"text": "Εκτέλεση"
+		},
+		{
+			"lang": "bg",
+			"text": "Правоприлагане"
+		},
+		{
+			"lang": "hu",
+			"text": "Végrehajtás"
+		},
+		{
+			"lang": "mt",
+			"text": "Infurzar"
+		},
+		{
+			"lang": "lv",
+			"text": "Izpilde"
+		},
+		{
+			"lang": "ro",
+			"text": "Executare"
+		},
+		{
+			"lang": "sk",
+			"text": "Vymáhanie"
+		},
+		{
+			"lang": "sl",
+			"text": "Izvrševanje"
+		},
+		{
+			"lang": "fi",
+			"text": "Täytäntöönpano"
+		},
+		{
+			"lang": "pl",
+			"text": "Egzekwowanie"
+		},
+		{
+			"lang": "lt",
+			"text": "Vykdymas"
+		},
+		{
+			"lang": "nl",
+			"text": "Tenuitvoerlegging"
+		},
+		{
+			"lang": "sv",
+			"text": "Verkställighet"
+		}
+	],
+	"children": [
+		"a63p1",
+		"a63p2"
+	],
+	"title": "Article 63"
+}

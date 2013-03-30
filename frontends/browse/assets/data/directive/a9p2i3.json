@@ -1,0 +1,102 @@
+{
+	"id": "a9p2i3",
+	"type": "point",
+	"literal": "c",
+	"parent": "a9p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "processing is necessary to protect the vital interests of the data subject or of another person where the data subject is physically or legally incapable of giving consent; or"
+		},
+		{
+			"lang": "de",
+			"text": "die Verarbeitung ist zum Schutz lebenswichtiger Interessen der betroffenen oder einer anderen Person erforderlich und die betroffene Person ist aus physischen oder rechtlichen Gründen außerstande, ihre Einwilligung zu geben, oder"
+		},
+		{
+			"lang": "fr",
+			"text": "le traitement est nécessaire à la sauvegarde des intérêts vitaux de la personne concernée ou d'une autre personne dans le cas où la personne concernée se trouve dans l'incapacité physique ou juridique de donner son consentement, ou"
+		},
+		{
+			"lang": "es",
+			"text": "el tratamiento es necesario para proteger intereses vitales del interesado o de otra persona, en el supuesto de que el interesado esté física o jurídicamente incapacitado para dar su consentimiento; o"
+		},
+		{
+			"lang": "pt",
+			"text": "O tratamento for necessário para proteger interesses vitais do titular dos dados ou de outra pessoa, se o titular dos dados estiver física ou legalmente incapacitado de dar o seu consentimento; ou"
+		},
+		{
+			"lang": "it",
+			"text": "il trattamento è necessario per salvaguardare un interesse vitale dell’interessato o di un terzo qualora l’interessato si trovi nell’incapacità fisica o giuridica di dare il proprio consenso, oppure"
+		},
+		{
+			"lang": "ga",
+			"text": "más gá an phróiseáil a dhéanamh chun leasanna ríthábhachtacha an duine is ábhar do na sonraí nó duine eile a chosaint, i gcás nach féidir leis an duine is ábhar do na sonraí toiliú a thabhairt go fisiciúil nó go dlíthiúil; nó"
+		},
+		{
+			"lang": "cs",
+			"text": "zpracování je nutné pro ochranu životně důležitých zájmů subjektu údajů nebo jiné osoby v případě, že subjekt údajů není fyzicky nebo právně způsobilý udělit souhlas nebo"
+		},
+		{
+			"lang": "da",
+			"text": "behandlingen er nødvendig for at beskytte den registreredes eller en anden persons vitale interesser i tilfælde, hvor den pågældende ikke fysisk eller juridisk er i stand til at give sit samtykke, eller"
+		},
+		{
+			"lang": "et",
+			"text": "töötlemine on vajalik selleks, et kaitsta andmesubjekti või teise isiku elulisi huve, kui andmesubjekt on füüsiliselt või õiguslikult võimetu oma nõusolekut andma, või"
+		},
+		{
+			"lang": "el",
+			"text": "γ) η επεξεργασία είναι απαραίτητη για την προστασία των ζωτικών συμφερόντων του προσώπου στο οποίο αναφέρονται τα δεδομένα ή άλλου προσώπου, εάν το πρόσωπο στο οποίο αναφέρονται τα δεδομένα αδυνατεί, για φυσικούς ή νομικούς λόγους, να παράσχει τη συγκατάθεσή του· ή"
+		},
+		{
+			"lang": "bg",
+			"text": "в) обработването е необходимо, за да бъдат защитени жизненоважни интереси на субекта на данните или на друго лице, когато субектът на данните е физически или юридически неспособен да даде своето съгласие; или"
+		},
+		{
+			"lang": "hu",
+			"text": "az adatfeldolgozás az érintett vagy más személy létfontosságú érdekeinek védelméhez szükséges, amennyiben az érintett fizikailag vagy jogilag képtelen a hozzájárulását adni; vagy"
+		},
+		{
+			"lang": "mt",
+			"text": "l-ipproċessar huwa meħtieġ sabiex ikunu protetti l-interessi vitali tas-suġġett tad-dejta jew ta’ persuna oħra meta s-suġġett tad-dejta ma jkunx fiżikament jew legalment kapaċi li jagħti l-kunsens; jew"
+		},
+		{
+			"lang": "lv",
+			"text": "apstrāde ir vajadzīga, lai aizsargātu datu subjekta vai citas personas īpaši svarīgas intereses, ja datu subjekts ir fiziski vai tiesiski nespējīgs dot savu piekrišanu; vai"
+		},
+		{
+			"lang": "ro",
+			"text": "prelucrarea este necesară pentru protejarea intereselor vitale ale persoanei vizate sau ale altei persoane, atunci când persoana vizată se află în incapacitate fizică sau juridică să-și dea consimțământul sau"
+		},
+		{
+			"lang": "sk",
+			"text": "spracovanie je nevyhnutné na ochranu životných záujmov dotknutej osoby alebo inej osoby v prípade, že dotknutá osoba nie je fyzicky alebo právne spôsobilá vyjadriť svoj súhlas, alebo"
+		},
+		{
+			"lang": "sl",
+			"text": "je obdelava potrebna za varstvo življenjskih interesov posameznika, na katerega se nanašajo osebni podatki, ali druge osebe, kadar je posameznik, na katerega se nanašajo osebni podatki, fizično ali pravno nesposoben dati svojo privolitev, ali"
+		},
+		{
+			"lang": "fi",
+			"text": "käsittely on tarpeen rekisteröidyn tai toisen henkilön elintärkeiden etujen suojaamiseksi, jos rekisteröity on fyysisesti tai juridisesti estynyt antamasta suostumustaan; tai"
+		},
+		{
+			"lang": "pl",
+			"text": "przetwarzanie jest niezbędne w celu ochrony żywotnych interesów podmiotu danych lub innej osoby, w przypadku gdy podmiot danych nie jest fizycznie lub prawnie zdolny do wyrażenia zgody;"
+		},
+		{
+			"lang": "lt",
+			"text": "tvarkyti duomenis būtina, kad būtų apsaugoti gyvybiniai duomenų subjekto arba kito asmens interesai, kai duomenų subjektas dėl fizinių ar teisinių priežasčių negali duoti sutikimo; arba"
+		},
+		{
+			"lang": "nl",
+			"text": "de verwerking noodzakelijk is ter bescherming van de vitale belangen van de betrokkene of van een andere persoon indien de betrokkene lichamelijk of juridisch niet in staat is zijn toestemming te geven; of"
+		},
+		{
+			"lang": "sv",
+			"text": "Behandlingen är nödvändig för att skydda den registrerades eller någon annan persons grundläggande intressen när den registrerade är fysiskt eller rättsligt förhindrad att ge sitt samtycke."
+		}
+	],
+	"children": [],
+	"title": "Article 9 – Paragraph 2 – Point 3"
+}

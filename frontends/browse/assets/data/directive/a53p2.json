@@ -1,0 +1,106 @@
+{
+	"id": "a53p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a53",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Each supervisory authority shall have the investigative power to obtain from the controller or the processor:"
+		},
+		{
+			"lang": "de",
+			"text": "Jede Aufsichtsbehörde kann kraft ihrer Untersuchungsbefugnis vom für die Verarbeitung Verantwortlichen oder vom Auftragsverarbeiter Folgendes verlangen:"
+		},
+		{
+			"lang": "fr",
+			"text": "Chaque autorité de contrôle dispose du pouvoir d'investigation lui permettant d'obtenir du responsable du traitement ou du sous‑traitant:"
+		},
+		{
+			"lang": "es",
+			"text": "Cada autoridad de control dispondrá de poderes de investigación que le permitan obtener del responsable o del encargado del tratamiento:"
+		},
+		{
+			"lang": "pt",
+			"text": "Cada autoridade de controlo tem o poder de investigação para obter do responsável pelo tratamento ou do subcontratante:"
+		},
+		{
+			"lang": "it",
+			"text": "Ogni autorità di controllo dispone dei poteri investigativi necessari per ottenere dal responsabile del trattamento o dall’incaricato del trattamento:"
+		},
+		{
+			"lang": "ga",
+			"text": "Beidh cumhacht imscrúdaitheach ag gach údarás maoirseachta na nithe seo a leanas a fháil ón rialaitheoir nó ón bpróiseálaí:"
+		},
+		{
+			"lang": "cs",
+			"text": "Každý orgán dozoru má vyšetřovací pravomoci, jež ho opravňují k tomu, aby od správce nebo zpracovatele získal:"
+		},
+		{
+			"lang": "da",
+			"text": "Hver tilsynsmyndighed har undersøgelsesbeføjelser til fra den registeransvarlige eller registerføreren:"
+		},
+		{
+			"lang": "et",
+			"text": "Igal järelevalveasutusel on uurimisvolitused, et saada vastutavalt töötlejalt või volitatud töötlejalt juurdepääs:"
+		},
+		{
+			"lang": "el",
+			"text": "Κάθε αρχή ελέγχου διαθέτει εξουσία διεξαγωγής έρευνας ώστε να εξασφαλίζει από τον υπεύθυνο επεξεργασίας ή τον εκτελούντα την επεξεργασία:"
+		},
+		{
+			"lang": "bg",
+			"text": "Всеки надзорен орган има правомощието за разследване, съгласно което може да получава от администратора или обработващия лични данни:"
+		},
+		{
+			"lang": "hu",
+			"text": "Valamennyi felügyelő hatóság vizsgálati hatáskörrel rendelkezik arra, hogy:"
+		},
+		{
+			"lang": "mt",
+			"text": "Kull awtorità ta’ superviżjoni għandu jkollha s-setgħa investigattiva li tikseb mingħand il-kontrollur jew il-proċessur:"
+		},
+		{
+			"lang": "lv",
+			"text": "Uzraudzības iestādei ir pilnvaras veikt izmeklēšanu un panākt no pārziņa vai apstrādātāja:"
+		},
+		{
+			"lang": "ro",
+			"text": "Fiecare autoritate de supraveghere are competențe de investigare pentru a obține din partea operatorului sau a persoanei împuternicite de către operator:"
+		},
+		{
+			"lang": "sk",
+			"text": "Každý dozorný orgán má vyšetrovaciu právomoc, ktorá umožňuje, aby mu prevádzkovateľ či sprostredkovateľ poskytol:"
+		},
+		{
+			"lang": "sl",
+			"text": "Vsak nadzorni organ ima preiskovalna pooblastila, da od upravljavca ali obdelovalca pridobi:"
+		},
+		{
+			"lang": "fi",
+			"text": "Jokaisella valvontaviranomaisella on tutkintavaltuudet saada rekisterinpitäjältä tai henkilötietojen käsittelijältä:"
+		},
+		{
+			"lang": "pl",
+			"text": "Każdy organ nadzorczy ma uprawnienia dochodzeniowe pozwalające mu uzyskać od administratora lub podmiotu przetwarzającego:"
+		},
+		{
+			"lang": "lt",
+			"text": "Kiekviena priežiūros institucija, remdamasi įgaliojimu atlikti tyrimą, gali iš duomenų valdytojo arba duomenų tvarkytojo pareikalauti suteikti:"
+		},
+		{
+			"lang": "nl",
+			"text": "Elke toezichthoudende autoriteit kan op grond van haar onderzoeksbevoegdheid van de voor de verwerking verantwoordelijke of de verwerker verlangen dat zij:"
+		},
+		{
+			"lang": "sv",
+			"text": "Varje tillsynsmyndighet ska ha de undersökningsbefogenheter som behövs för att kräva följande av den registeransvarige eller registerföraren:"
+		}
+	],
+	"children": [
+		"a53p2i1",
+		"a53p2i2",
+		"a53p2t1"
+	],
+	"title": "Article 53 – Paragraph 2"
+}

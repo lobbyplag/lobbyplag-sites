@@ -1,0 +1,104 @@
+{
+	"id": "a40",
+	"type": "article",
+	"literal": "40",
+	"parent": "c5",
+	"text": [
+		{
+			"lang": "en",
+			"text": "General principle for transfers"
+		},
+		{
+			"lang": "de",
+			"text": "Allgemeine Grundsätze der Datenübermittlung"
+		},
+		{
+			"lang": "fr",
+			"text": "Principe général des transferts"
+		},
+		{
+			"lang": "es",
+			"text": "Principio general de las transferencias"
+		},
+		{
+			"lang": "pt",
+			"text": "Princípio geral das transferências"
+		},
+		{
+			"lang": "it",
+			"text": "Principio generale per il trasferimento"
+		},
+		{
+			"lang": "ga",
+			"text": "Prionsabail ghinearálta maidir le haistrithe"
+		},
+		{
+			"lang": "cs",
+			"text": "Obecná zásada pro předávání"
+		},
+		{
+			"lang": "da",
+			"text": "Generelt princip for videregivelse"
+		},
+		{
+			"lang": "et",
+			"text": "Edastamise üldpõhimõtted"
+		},
+		{
+			"lang": "el",
+			"text": "Γενικές αρχές για διαβιβάσεις"
+		},
+		{
+			"lang": "bg",
+			"text": "Общи принципи за предаването на данни"
+		},
+		{
+			"lang": "hu",
+			"text": "Az adattovábbításra vonatkozó általános elv"
+		},
+		{
+			"lang": "mt",
+			"text": "Prinċipju ġenerali għat-trasferimenti"
+		},
+		{
+			"lang": "lv",
+			"text": "Nosūtīšanas vispārīgie principi"
+		},
+		{
+			"lang": "ro",
+			"text": "Principiul general al transferurilor"
+		},
+		{
+			"lang": "sk",
+			"text": "Všeobecné zásady prenosu"
+		},
+		{
+			"lang": "sl",
+			"text": "Splošna načela za prenose"
+		},
+		{
+			"lang": "fi",
+			"text": "Siirtoja koskeva yleinen periaate"
+		},
+		{
+			"lang": "pl",
+			"text": "Ogólne zasady przekazywania"
+		},
+		{
+			"lang": "lt",
+			"text": "Bendras perdavimo principas"
+		},
+		{
+			"lang": "nl",
+			"text": "Algemeen beginsel inzake doorgiften"
+		},
+		{
+			"lang": "sv",
+			"text": "Allmän princip för överföring av uppgifter"
+		}
+	],
+	"children": [
+		"a40t1"
+	],
+	"title": "Article 40"
+}

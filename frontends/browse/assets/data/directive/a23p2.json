@@ -1,0 +1,102 @@
+{
+	"id": "a23p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a23",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller shall implement mechanisms for ensuring that, by default, only those personal data are processed which are necessary for each specific purpose of the processing and are especially not collected or retained beyond the minimum necessary for those purposes, both in terms of the amount of the data and the time of their storage. In particular, those mechanisms shall ensure that by default personal data are not made accessible to an indefinite number of individuals."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche setzt Verfahren ein, die sicherstellen, dass grundsätzlich nur solche personenbezogenen Daten verarbeitet werden, die für die spezifischen Zwecke der Verarbeitung benötigt werden, und dass vor allem nicht mehr personenbezogene Daten zusammengetragen oder vorgehalten werden als für diese Zwecke unbedingt nötig ist und diese Daten auch nicht länger als für diese Zwecke unbedingt erforderlich gespeichert werden. Die Verfahren müssen insbesondere sicherstellen, dass personenbezogene Daten grundsätzlich nicht einer unbestimmten Zahl von natürlichen Personen zugänglich gemacht werden."
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement met en œuvre des mécanismes visant à garantir que, par défaut, seules seront traitées les données à caractère personnel nécessaires à chaque finalité spécifique du traitement, ces données n'étant, en particulier, pas collectées ou conservées au-delà du minimum nécessaire à ces finalités, pour ce qui est tant de la quantité de données que de la durée de leur conservation. En particulier, ces mécanismes garantissent que, par défaut, les données à caractère personnel ne sont pas rendues accessibles à un nombre indéterminé de personnes physiques."
+		},
+		{
+			"lang": "es",
+			"text": "El responsable del tratamiento implementará mecanismos con miras a garantizar que, por defecto, solo sean objeto de tratamiento los datos personales necesarios para cada fin específico del tratamiento y, especialmente, que no se recojan ni conserven más allá del mínimo necesario para esos fines, tanto por lo que respecta a la cantidad de los datos como a la duración de su conservación. En concreto, estos mecanismos garantizarán que, por defecto, los datos personales no sean accesibles a un número indeterminado de personas."
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento aplica mecanismos que garantam, por defeito, que apenas são tratados os dados pessoais necessários para cada finalidade específica do tratamento e, especialmente, que não são recolhidos ou conservados para além do mínimo necessário para essas finalidades, tanto em termos da quantidade de dados, como da duração da sua conservação. Em especial, esses mecanismos devem assegurar que, por defeito, os dados pessoais não sejam disponibilizados a um número indeterminado de pessoas singulares."
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento mette in atto meccanismi per garantire che siano trattati, di default, solo i dati personali necessari per ciascuna finalità specifica del trattamento e che, in particolare, la quantità dei dati raccolti e la durata della loro conservazione non vadano oltre il minimo necessario per le finalità perseguite. In particolare detti meccanismi garantiscono che, di default, non siano resi accessibili dati personali a un numero indefinito di persone."
+		},
+		{
+			"lang": "ga",
+			"text": "Cuirfidh an rialaitheoir sásraí chun feidhme chun a áirithiú nach bpróiseáilfear, trí mhainneachtain, ach na sonraí pearsanta sin is gá a phróiseáil chun gach críche ar leith de chuid na próiseála agus chun a áirithiú go háirithe nach mbaileofar na sonraí sin ná nach gcoinneofar iad thar a bhfuil riachtanach chun na gcríoch sin, ó thaobh an mhéid sonraí de agus ó thaobh na tréimhse stórála. Áiritheofar leis na sásraí sin go háirithe nach gcuirfear sonraí pearsanta ar fáil trí mhainneachtain do líon éiginnte daoine aonair."
+		},
+		{
+			"lang": "cs",
+			"text": "Správce přijme mechanismy, aby zajistil, že standardně se budou zpracovávat pouze ty osobní údaje, které jsou pro každý konkrétní účel zpracování nutné, a že zejména jejich shromažďování či uchovávání nepřesáhne minimum, jež je pro tyto účely nezbytné, a to jak co do množství údajů, tak do doby jejich uchovávání. Tyto mechanismy konkrétně zaručí, že osobní údaje se nebudou standardně zpřístupňovat neomezenému počtu fyzických osob."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige gennemfører mekanismer med henblik på som udgangspunkt at sikre, at kun de personoplysninger, der er nødvendige til det specifikke formål med behandlingen, behandles, og at de navnlig ikke indsamles eller opbevares ud over, hvad der er nødvendigt til disse formål, både med hensyn til mængden af oplysninger og opbevaringsperioden. Disse mekanismer sikrer navnlig, at personoplysninger som udgangspunkt ikke stilles til rådighed for et ubegrænset antal personer."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja rakendab mehhanisme, millega tagatakse, et vaikimisi töödeldakse vaid töötlemise konkreetse eesmärgi seisukohalt olulisi isikuandmeid, ning eelkõige selle, et andmeid ei koguta rohkem ega säilitata kauem, kui kõnealusel otstarbel minimaalselt vajalik. Nende mehhanismidega tagatakse eelkõige see, et isikuandmed ei ole vaikimisi üldiselt kättesaadavad."
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας εφαρμόζει μηχανισμούς ώστε να διασφαλίζεται ότι, εξ ορισμού, υποβάλλονται σε επεξεργασία μόνον εκείνα τα δεδομένα προσωπικού χαρακτήρα τα οποία είναι αναγκαία για κάθε συγκεκριμένο σκοπό επεξεργασίας και ότι τα εν λόγω δεδομένα δεν συλλέγονται ούτε διατηρούνται πέραν του ελάχιστου απαραίτητου ορίου για τους σκοπούς αυτούς, από την άποψη τόσο της ποσότητας των δεδομένων όσο και του χρόνου της αποθήκευσής τους. Ειδικότερα, οι εν λόγω μηχανισμοί διασφαλίζουν ότι, εξ ορισμού, δεδομένα προσωπικού χαρακτήρα δεν καθίστανται προσπελάσιμα σε αόριστο αριθμό φυσικών προσώπων."
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът въвежда механизми, за да се гарантира, че по подразбиране се обработват единствено онези лични данни, които са необходими за всяка конкретна цел на обработването, и по-специално, че данните не се събират или запазват в обем или за срок на съхранение, по-голям от минимално необходимия за тези цели. По-специално тези механизми гарантират, че по подразбиране личните данни не са достъпни за неограничен брой физически лица."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelőnek olyan mechanizmusokat kell végrehajtania, amelyek alapértelmezett módon biztosítják azt, hogy kizárólag a feldolgozás egyes konkrét céljaihoz szükséges személyes adatok kerülnek feldolgozásra, és különösen azt, hogy az adatgyűjtés vagy -tárolás során az adatok mennyisége és az adattárolási időtartam tekintetében sem lépik túl az e célokhoz szükséges legkisebb mértéket . Ezeknek a mechanizmusoknak különösen azt kell biztosítaniuk, hogy a személyes adatok alapértelmezett módon ne váljanak határozatlan számú egyén számára hozzáférhetővé."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur għandu jimplimenta mekkaniżmi sabiex jassigura li, b’mod awtomatiku, tiġi pproċessata biss dik id-dejta personali li tkun meħtieġa għal kull għan speċifiku tal-ipproċessar u li partikolarment ma għandhiex tinġabar jew tinżamm aktar minn kemm huwa meħtieġ għal dawk l-għanijiet, kemm f’dak li jirrigwarda l-ammont tad-dejta kif ukoll iż-żmien tal-ħażna tagħha. B’mod partikolari, dawk il-mekkaniżmi għandhom jassiguraw li b’mod awtomatiku d-dejta personali ma tkunx aċċessibbli għal numru mhux definit ta’ individwi."
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinis īsteno mehānismus, kas pēc noklusējuma nodrošina, ka apstrādā tikai tos personas datus, kas ir nepieciešami katram konkrētajam apstrādes nolūkam, un tos jo īpaši nevāc vai neglabā, pārsniedzot minimumu, kas nepieciešams šiem nolūkiem, gan attiecībā uz datu apjomu, gan glabāšanas ilgumu. Jo īpaši šie mehānismi nodrošina, ka pēc noklusējuma personas datus nedara pieejamus nenoteiktam personu skaitam."
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul pune în aplicare mecanisme care garantează că, implicit, se prelucrează numai datele cu caracter personal care sunt necesare pentru fiecare scop specific al prelucrării și că aceste date colectate sau păstrate nu depășesc pragul minim necesar pentru îndeplinirea acestor scopuri, atât în ceea ce privește volumul datelor, cât și perioada de stocare a acestora. În special, aceste mecanisme asigură că, implicit, datele cu caracter personal nu sunt accesibile unui număr nelimitat de persoane."
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ zavedie mechanizmy, ktorými sa zabezpečí, aby sa štandardne spracúvali iba tie osobné údaje, ktoré sú potrebné pre jednotlivé konkrétne účely spracovania, a najmä aby sa nezhromažďovali a neuchovávali nad minimum nevyhnutné na tieto účely, a to či už ide o množstvo údajov alebo obdobie ich uchovávania. Týmito mechanizmami sa má predovšetkým štandardne zabezpečiť, aby osobné údaje neboli prístupné pre ľubovoľný počet fyzických osôb."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec uporabi mehanizme za zagotovitev, da se privzeto obdelajo samo tisti osebni podatki, ki so potrebni za vsak poseben namen obdelave, zlasti pa se ne smejo zbirati ali hraniti v večjem obsegu ali dalj časa, kot je za te namene nujno potrebno, kar velja tako za količino podatkov kot trajanje njihove hrambe. Ti mehanizmi zagotovijo zlasti, da osebni podatki privzeto niso dostopni nedoločenemu številu posameznikov."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän on otettava käyttöön keinot sen varmistamiseksi, että käsittely koskee oletusarvoisesti vain niitä henkilötietoja, jotka ovat välttämättömiä tietyn käsittelytarkoituksen kannalta, ja että tietoja ei erikseen kerätä eikä säilytetä suurempia määriä eikä kauemmin kuin on välttämätöntä kyseisten tarkoitusten toteuttamiseksi. Näiden keinojen avulla on varmistettava etenkin se, että henkilötietoja oletusarvoisesti ei saateta rajoittamattoman henkilömäärän saataville."
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator wdraża mechanizmy służące zapewnieniu, by domyślnie przetwarzane były jedynie te dane osobowe, które są niezbędne dla realizacji każdorazowego szczególnego celu przetwarzania oraz by w szczególności nie były one zbierane lub zatrzymywane dłużej niż przez okres niezbędny do realizacji tych celów, zarówno jeśli chodzi o ilość danych, jak i okres ich przechowywania. Mechanizmy te zapewniają w szczególności, by dane osobowe nie były domyślnie udostępniane nieograniczonej liczbie osób."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas įdiegia mechanizmus, kuriais užtikrina, kad paprastai būtų tvarkomi tik konkrečiam duomenų tvarkymo tikslui pasiekti būtini asmens duomenys ir kad visų pirma nebūtų renkama ar saugojama daugiau duomenų nei būtina tiems tikslams pasiekti, taip pat tie duomenys nebūtų renkami ar saugojami ilgiau nei būtina tiems tikslams pasiekti. Visų pirma tais mechanizmais užtikrinama, kad paprastai su asmens duomenimis negalėtų susipažinti neribotas fizinių asmenų skaičius."
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke stelt mechanismen in om ervoor te zorgen dat in beginsel alleen de persoonsgegevens worden verwerkt die voor elk specifiek doeleinde van de verwerking nodig zijn en met name het verzamelen of het bewaren van die gegevens zich, zowel wat betreft de hoeveelheid gegevens als de periode van opslag daarvan, beperkt tot dat wat voor die doeleinden strikt noodzakelijk is. Deze mechanismen zorgen met name ervoor dat persoonsgegevens in beginsel niet voor een onbeperkt aantal natuurlijke personen toegankelijk worden gemaakt."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige ska införa rutiner för att se till att, i standardfallet, endast de personuppgifter behandlas som är nödvändiga för varje specifikt ändamål med behandlingen, och särskilt att de inte samlas in eller bevaras utöver vad som är strikt nödvändigt för dessa ändamål, både i fråga om antalet uppgifter och tidpunkten för deras lagring. Dessa rutiner ska i synnerhet säkerställa att personuppgifter i standardfallet inte görs tillgängliga till ett obegränsat antal enskilda."
+		}
+	],
+	"children": [],
+	"title": "Article 23 – Paragraph 2"
+}

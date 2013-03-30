@@ -1,0 +1,102 @@
+{
+	"id": "r51",
+	"type": "recital",
+	"literal": "51",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Any person should have the right of access to data which has been collected concerning them, and to exercise this right easily, in order to be aware and verify the lawfulness of the processing. Every data subject should therefore have the right to know and obtain communication in particular for what purposes the data are processed, for what period, which recipients receive the data, what is the logic of the data that are undergoing the processing and what might be, at least when based on profiling, the consequences of such processing. This right should not adversely affect the rights and freedoms of others, including trade secrets or intellectual property and in particular the copyright protecting the software. However, the result of these considerations should not be that all information is refused to the data subject."
+		},
+		{
+			"lang": "de",
+			"text": "Jede Person sollte ein Auskunftsrecht hinsichtlich der Daten, die bei ihr erhoben worden sind, besitzen und dieses Recht problemlos wahrnehmen können, um sich von der Rechtmäßigkeit ihrer Verarbeitung überzeugen zu können. Jede betroffene Person sollte daher ein Anrecht darauf haben zu wissen und zu erfahren, zu welchen Zwecken die Daten verarbeitet werden, wie lange sie gespeichert werden, wer die Empfänger der Daten sind, nach welcher Logik die Daten verarbeitet werden und welche Folgen eine solche Verarbeitung haben kann, zumindest in Fällen, in denen die Verarbeitung auf Profiling basiert. Dabei dürfen die Grundrechte und Grundfreiheiten anderer Personen, etwa das Geschäftsgeheimnis oder die Rechte an geistigem Eigentum und insbesondere das Urheberrecht an Software, nicht angetastet werden. Dies darf jedoch nicht dazu führen, dass der betroffenen Person jegliche Auskunft verweigert wird."
+		},
+		{
+			"lang": "fr",
+			"text": "Toute personne devrait avoir le droit d'accéder aux données qui ont été collectées à son sujet et d'exercer ce droit facilement, afin de s'informer du traitement qui en est fait et d'en vérifier la licéité. En conséquence, chaque personne concernée devrait avoir le droit de connaître et de se faire communiquer, en particulier, la finalité du traitement des données, la durée de leur conservation, l'identité des destinataires, la logique qui sous‑tend le traitement des données et les conséquences qu'il pourrait avoir, au moins en cas de profilage. Ce droit ne devrait pas porter atteinte aux droits et libertés d’autrui, notamment au secret des affaires, ni à la propriété intellectuelle, notamment au droit d'auteur protégeant le logiciel. Toutefois, ces considérations ne sauraient aboutir au refus de toute information de la personne concernée."
+		},
+		{
+			"lang": "es",
+			"text": "Toda persona debe tener el derecho de acceder a los datos recogidos que le conciernan y a ejercer este derecho con facilidad, con el fin de conocer y verificar la licitud del tratamiento. Todo interesado debe, por tanto, tener el derecho de conocer y de que se le comuniquen, en particular, los fines para los que se tratan los datos, el plazo de su conservación, los destinatarios que los reciben, la lógica de los datos que se someten a tratamiento y las consecuencias de dicho tratamiento, al menos cuando se basen en la elaboración de perfiles. Este derecho no debe afectar negativamente a los derechos y libertades de terceros, incluidos los secretos comerciales o la propiedad intelectual y, en particular, los derechos de propiedad intelectual que protegen los programas informáticos. No obstante, estas consideraciones no deben tener como resultado la denegación de toda la información al interesado."
+		},
+		{
+			"lang": "pt",
+			"text": "Qualquer pessoa deve ter o direito de acesso aos dados recolhidos sobre si e de exercer facilmente este direito, a fim de conhecer e verificar a licitude do tratamento. Por conseguinte, cada titular de dados deve ter o direito de conhecer e ser informado, em especial, das finalidades a que se destinam os dados tratados, da duração da sua conservação, da identidade dos destinatários, da lógica subjacente ao tratamento dos dados e das suas consequências eventuais, pelo menos quando tiver por base a definição de perfis. Este direito não deve prejudicar os direitos e as liberdades de terceiros, incluindo o segredo comercial ou a propriedade intelectual e, particularmente, o direito de autor que protege o suporte lógico. Todavia, estas considerações não devem resultar na recusa total de prestação de informações ao titular dos dados."
+		},
+		{
+			"lang": "it",
+			"text": "Ogni persona deve avere il diritto di accedere ai dati raccolti che la riguardano e di esercitare tale diritto facilmente, per essere consapevole del trattamento e verificarne la liceità. Occorre pertanto che ogni interessato abbia il diritto di conoscere e ottenere comunicazioni in particolare in relazione alla finalità del trattamento, al periodo di conservazione, ai destinatari, alla logica che presiede al trattamento e alle possibili conseguenze, almeno quando i dati si basato sul profilo dell’interessato. Tale diritto non deve ledere i diritti e le libertà altrui, compreso il segreto industriale e aziendale e la proprietà intellettuale, segnatamente i diritti d’autore che tutelano il software. Tuttavia, queste considerazioni non devono portare a negare all’interessato l’accesso a tutte le informazioni."
+		},
+		{
+			"lang": "ga",
+			"text": "Ba cheart go mbeadh sé de cheart ag aon duine rochtain a fháil ar shonraí a bailíodh a bhaineann leis agus ba cheart dó a bheith in ann an ceart sin a fheidhmiú go héasca, le bheith ar an eolas faoin bpróiseáil agus chun dlíthiúlacht na próiseála a fhíorú. Ba cheart go mbeadh sé de cheart ag gach duine is ábhar do na sonraí a bheith ar an eolas go háirithe faoi na críocha ar chucu a dhéanfar na sonraí a phróiseáil, faoin bhfad a mhairfidh an phróiseáil, faoi cé a fhaigheann na sonraí, faoi loighic a bhaineann le próiseáil na sonraí agus faoi na hiarmhairtí a d’fhéadfadh a bheith ag baint le próiseáil den sórt sin, ar a laghad nuair atá an phróiseáil sin bunaithe ar phróifíliú, agus ba cheart go bhfaigheadh gach duine is ábhar do na sonraí cumarsáid faoi sin. Níor cheart go rachadh an ceart sin chun dochair cearta agus saoirsí daoine eile, lena n‑áirítear cearta agus saoirsí maidir le rúin trádála nó maoin intleachtúil agus go háirithe nach rachadh sé chun dochair an chóipchirt lena gcosnaítear bogearraí. Níor cheart, áfach, go mbeadh mar thoradh ar na cúinsí sin go ndiúltófaí aon fhaisnéis a thabhairt don duine is ábhar do na sonraí."
+		},
+		{
+			"lang": "cs",
+			"text": "Každá osoba by měla mít právo na přístup k údajům, které se jí týkají, a toto právo snadno uplatňovat, aby se mohla přesvědčit o zákonnosti jejich zpracování. Každý subjekt údajů by proto měl mít právo vědět a dozvědět se zejména, za jakým účelem se údaje zpracovávají, jak dlouho budou uchovávány, kdo jsou příjemci údajů, podle jakého postupu jsou údaje zpracovávány a jaké mohou být důsledky takového zpracování přinejmenším v případech, kdy je zpracování založeno na profilování. Tímto právem by neměla být dotčena práva a svobody ostatních, například obchodní tajemství nebo duševní vlastnictví a zejména autorské právo chránící programové vybavení. Tyto úvahy by ovšem neměly vést k tomu, že by subjektu údajů byly odepřeny všechny informace."
+		},
+		{
+			"lang": "da",
+			"text": "Enhver bør have ret til indsigt i oplysninger, der er indsamlet om den pågældende, og til let at udøve denne ret med henblik på at forvisse sig om oplysningernes eksistens og behandlingens lovlighed. Enhver registreret bør derfor have ret til at kende og blive underrettet om navnlig det formål, hvortil oplysningerne behandles, hvor lang tid de gemmes, og hvem modtagerne af oplysningerne er, den logik, der ligger bag behandlingen af oplysningerne, og om de mulige konsekvenser af denne behandling, i hvert fald når behandlingen er baseret på profilering. Denne ret må ikke krænke andres rettigheder og frihedsrettigheder, herunder forretningshemmeligheder eller den intellektuelle ejendomsret, navnlig den ophavsret, som programmerne er beskyttet af. Dette må dog ikke resultere i, at den registrerede nægtes alle oplysninger."
+		},
+		{
+			"lang": "et",
+			"text": "Selleks, et töötlemisest teada ja kontrollida selle seaduslikkust, peaks igaühel olema õigus tutvuda andmetega, mis on tema kohta kogutud, ja õigus selle õiguse lihtsale kasutamisele. Igal andmesubjektil peaks seega olema õigus teada eelkõige andmete töötlemise eesmärke, ajavahemikku, andmete saajaid, töödeldavate andmete loogikat ja sellise töötlemise võimalikke tagajärgi (vähemalt profiilianalüüsi korral) ning saada eelneva kohta teavet. See õigus ei tohiks kahjustada teiste isikute õigusi ja vabadusi, sealhulgas ärisaladusi ega intellektuaalomandit ning eelkõige tarkvara kaitsvat autoriõigust. Sellise kaalutlemise tulemus ei tohiks aga olla see, et andmesubjektile ei anta üldse teavet."
+		},
+		{
+			"lang": "el",
+			"text": "Κάθε πρόσωπο πρέπει να έχει δικαίωμα πρόσβασης σε δεδομένα τα οποία συλλέχθηκαν και το αφορούν και να μπορεί να ασκεί το δικαίωμα αυτό ευχερώς, προκειμένου να γνωρίζει και να ελέγχει τη νομιμότητα της επεξεργασίας. Επομένως, κάθε πρόσωπο στο οποίο αναφέρονται τα δεδομένα πρέπει να έχει το δικαίωμα να γνωρίζει και να εξασφαλίζει ενημέρωση, ιδίως όσον αφορά τους σκοπούς για τους οποίους τα δεδομένα υποβάλλονται σε επεξεργασία, το χρονικό διάστημα της επεξεργασίας, τους αποδέκτες που λαμβάνουν τα δεδομένα, τη συλλογιστική για τα δεδομένα που υποβάλλονται σε επεξεργασία και τις δυνητικές συνέπειες της εν λόγω επεξεργασίας, τουλάχιστον όταν αυτή βασίζεται σε κατάρτιση προφίλ. Το δικαίωμα αυτό δεν πρέπει να επηρεάζει αρνητικά τα δικαιώματα και τις ελευθερίες άλλων, όπως το επαγγελματικό απόρρητο ή το δικαίωμα πνευματικής ιδιοκτησίας και, ειδικότερα, το δικαίωμα δημιουργού που προστατεύει το λογισμικό. Ωστόσο, οι παράγοντες αυτοί δεν πρέπει να έχουν ως αποτέλεσμα την άρνηση παροχής κάθε ενημέρωσης στο πρόσωπο στο οποίο αναφέρονται τα δεδομένα."
+		},
+		{
+			"lang": "bg",
+			"text": "Всяко лице следва да има право на достъп до събраните данни, които го засягат, и да упражнява това право лесно, за да бъде осведомено и да провери законосъобразността на обработването. Поради това всеки субект на данни следва да има правото да е запознат и да получава информация, по-специално относно това за какви цели се обработват данните, за какъв срок, кои са получателите на данните, каква е логиката на данните, които се обработват, и какви биха могли да бъдат последствията от такова обработване, най-малкото когато става дума за създаване на профили. Това право не следва да влияе неблагоприятно върху правата и свободите на други лица, включително върху търговската тайна или интелектуалната собственост, и по-специално върху авторското право, закрилящо софтуера. Тези съображения обаче не следва да водят до отказ на всякаква информация на съответния субект на данни."
+		},
+		{
+			"lang": "hu",
+			"text": "Minden személyt megillet a vonatkozásában gyűjtött adatokhoz való hozzáférés joga, valamint e jog egyszerű gyakorlása az adatfeldolgozás jogszerűségének megállapíthatósága és ellenőrzése érdekében. Ezért minden érintett számára biztosítani kell a jogot ahhoz, hogy megismerje elsősorban az adatfeldolgozás céljait, időtartamát, az adatok címzettjeit, az adatok feldolgozásának logikáját, valamint azt, hogy az ilyen adatfeldolgozás, legalábbis amennyiben az profilalkotásra épül, milyen következményekkel jár, és hogy tájékoztatást kapjon minderről. Ez a jog nem érintheti hátrányosan mások jogait és szabadságait, beleértve az üzleti titkokat vagy szellemi tulajdont és különösen a szoftvert védelemben részesítő szerzői jogot. E megfontolások mindazonáltal nem eredményezhetik azt, hogy az érintettől minden információt megtagadnak."
+		},
+		{
+			"lang": "mt",
+			"text": "Kwalunkwe persuna għandu jkollha d-dritt tal-aċċess għal dejta li tinġabar dwarhom, u li teżerċita dan id-dritt faċilment, sabiex tkun konxja u tivverifika l-legalità tal-ipproċessar. Kull suġġett tad-dejta għandu għalhekk ikollu d-dritt li jkun jaf u jikseb komunikazzjoni b’mod partikolari rigward għal liema għanijiet id-dejta tkun qiegħda tiġi pproċessata, għal liema perjodu, liema riċevituri jirċievu d-dejta, x’inhi l-loġika tad-dejta li għaddejja mill-ipproċessar u x’jistgħu jkunu, għallinqas meta bbażata fuq it-tfassil ta’ profili, il-konsegwenzi ta’ dan l-ipproċessar. Dan id-dritt ma għandux jaffettwa ħażin id-drittijiet u l-libertajiet ta’ oħrajn, inklużi sigrieti tan-negozju jew proprjetà intellettwali u b’mod partikolari d-dritt tal-awtur li jipproteġi s-softwer. Madankollu, ir-riżultat ta’ dawn il-kunsiderazzjonijiet m’għandux ikun li l-informazzjoni kollha tiġi rrifjutata lis-suġġett tad-dejta."
+		},
+		{
+			"lang": "lv",
+			"text": "Jebkurai personai būtu jābūt tiesībām piekļūt datiem, kas par viņu savākti, un jāvar viegli izmantot šīs tiesības, lai apzinātu un pārbaudītu apstrādes likumību. Katram datu subjektam tāpēc būtu jābūt tiesībām zināt un saņemt paziņojumu jo īpaši par to, kādos nolūkos datus apstrādā, cik ilgi, kas saņem datus, kāda ir datu apstrādes loģika un kādas varētu būt, vismaz ja apstrāde pamatojas uz profilēšanu, šādas apstrādes sekas. Šīm tiesībām nevajadzētu nelabvēlīgi ietekmēt citu personu tiesības un brīvības, ietverot tirdzniecības noslēpumus vai intelektuālā īpašuma tiesības un jo īpaši autortiesības, ar ko aizsargāta programmatūra. Tomēr šādu apsvērumu rezultāts nedrīkstētu būt tāds, ka datu subjektam tiek liegta jebkāda informācija."
+		},
+		{
+			"lang": "ro",
+			"text": "Orice persoană ar trebui să aibă dreptul de acces la datele colectate care o privesc și de a exercita acest drept cu ușurință, pentru a fi informată cu privire la prelucrare și pentru a verifica legalitatea acesteia. Orice persoană vizată ar trebui, prin urmare, să aibă dreptul de a cunoaște și de a i se comunica, în special, în ce scopuri sunt prelucrate datele, pentru ce perioadă, identitatea destinatarilor datelor, care este logica de prelucrare a datelor și care ar putea fi, cel puțin în cazul în care se bazează pe crearea de profiluri, consecințele unei astfel de prelucrări. Acest drept nu ar trebui să aducă atingere drepturilor și libertăților altora, inclusiv secretului comercial sau proprietății intelectuale și, în special, drepturilor de autor care asigură protecția programelor software. Cu toate acestea, considerațiile de mai sus nu ar trebui aibă drept rezultat refuzul de a furniza toate informațiile persoanei vizate."
+		},
+		{
+			"lang": "sk",
+			"text": "Každá osoba by mala mať právo na prístup k údajom, ktoré boli o nej zhromaždené, a toto právo aj jednoducho uplatňovať, aby si bola vedomá zákonnosti spracovania a mohla si ju overiť. Každá dotknutá osoba by preto mala mať právo vedieť a byť informovaná najmä o účeloch spracúvania údajov, akú dlhú dobu budú uchovávané, ktorí príjemcovia údajov ich dostanú, aká je logika spracúvania údajov a aké môžu byť následky takéhoto spracovania, aspoň v prípadoch, v ktorých sa spracovania opiera o profilovanie. Toto právo by sa nemalo nepriaznivo dotknúť práv a slobôd iných, ani obchodných tajomstiev alebo práv duševného vlastníctva a najmä autorských práv týkajúcich sa softvéru. Výsledkom týchto obáv by však nemalo byť odmietnutie poskytnutia akýchkoľvek informácií dotknutej osobe."
+		},
+		{
+			"lang": "sl",
+			"text": "Vsaka oseba bi morala imeti pravico dostopa do podatkov, ki so bili zbrani v zvezi z njo, in do enostavnega uveljavljanja te pravice, da bi se seznanila z obdelavo in preverila njeno zakonitost. Zato bi moral vsak posameznik, na katerega se nanašajo osebni podatki, imeti pravico do seznanitve s sporočilom in njegove pridobitve, zlasti o namenih obdelave podatkov, obdobju obdelave, prejemnikih podatkov, logiki podatkov, ki se obdelujejo, in možnih posledicah obdelave, vsaj v primerih, kadar podatki temeljijo na oblikovanju profilov. Ta pravica ne bi smela škodljivo vplivati na pravice in svoboščine drugih, vključno s poslovnimi skrivnostmi ali intelektualno lastnino, in predvsem na avtorske pravice, ki ščitijo programsko opremo. Vendar pa to ne sme povzročiti, da se posamezniku, na katerega se nanašajo osebni podatki, zavrnejo vse informacije."
+		},
+		{
+			"lang": "fi",
+			"text": "Jokaisella olisi oltava oikeus saada tietoa siitä, mitä tietoja hänestä on kerätty, sekä käyttää tätä oikeutta vaivattomasti voidakseen valvoa ja tarkistaa käsittelyn lainmukaisuuden. Kaikilla rekisteröidyillä olisi sen vuoksi oltava oikeus tietää ja saada ilmoitus erityisesti tietojenkäsittelyn tarkoituksista, käsittelyajasta, tietojen vastaanottajista, käsiteltävien tietojen logiikasta sekä käsittelyn mahdollisista seurauksista, ainakin jos käsittely perustuu profilointiin. Tämä oikeus ei saisi aiheuttaa vahinkoa muiden oikeuksille ja vapauksille, esimerkiksi liikesuhteiden luottamuksellisuudelle tai henkiselle omaisuudelle eikä etenkään ohjelmistojen tekijänoikeudelle. Näiden seikkojen huomioon ottaminen ei kuitenkaan saisi johtaa siihen, että rekisteröidylle ei anneta minkäänlaista tietoa."
+		},
+		{
+			"lang": "pl",
+			"text": "Każdej osobie powinno przysługiwać prawo dostępu do danych zebranych na jej temat, a wykonanie tego prawa powinno być na tyle łatwe, by każda osoba była świadoma przetwarzania i mogła zweryfikować jego zgodność z prawem. Dlatego też każdy podmiot danych powinien mieć prawo do wiedzy i uzyskania wiadomości w szczególności o celach, dla których dane są przetwarzane, przez jaki okres, jacy odbiorcy otrzymują dane, o zasadach przetwarzania danych oraz ewentualnych skutkach tego przetwarzania, nawet tylko na podstawie profilowania. Prawo to nie powinno negatywnie wpływać na prawa i wolności innych osób, w tym tajemnice handlowe lub własność intelektualną, w szczególności na prawa autorskie chroniące oprogramowanie. Powyżej omówione względy nie powinny jednak powodować odmowy udzielenia podmiotowi danych wszystkich informacji."
+		},
+		{
+			"lang": "lt",
+			"text": "bet kuris asmuo turėtų turėti teisę susipažinti su apie jį surinktais duomenimis ir galimybę šia teise lengvai pasinaudoti, kad žinotų apie duomenų tvarkymą ir galėtų patikrinti jo teisėtumą. Todėl kiekvienas duomenų subjektas turėtų turėti teisę žinoti ir būti informuotas, pavyzdžiui, apie tai, kokiais tikslais duomenys tvarkomi, kaip ilgai jie bus laikomi, kas yra duomenų gavėjas, pagal kokią logiką duomenys tvarkomi ir kokios galėtų būti tokio duomenų tvarkymo pasekmės bent jau tais atvejais, kai duomenų tvarkymas grindžiamas profiliavimu. Ši teisė neturėtų varžyti kitų asmenų teisių ir laisvių, įskaitant komercines paslaptis arba intelektinės nuosavybės teises, ypač autorių teises, kuriomis saugoma programinė įranga. Tačiau tai neturėtų lemti, kad duomenų subjektui būtų atsisakyta suteikti visą informaciją;"
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke dient, met name met betrekking tot onlinediensten en online-identificatiemiddelen, alle redelijke maatregelen te nemen om de identiteit te controleren van een betrokkene die om toegang verzoekt. Een voor de verwerking verantwoordelijke dient persoonsgegevens niet uitsluitend te bewaren om op eventuele verzoeken te kunnen reageren."
+		},
+		{
+			"lang": "sv",
+			"text": "Alla bör ha rätt att få tillgång till uppgifter som insamlats om dem och enkelt kunna utöva denna rätt så att de är medvetna om att behandling sker och kan kontrollera att den är laglig. Alla registrerade bör därför ha rätt att känna till och få underrättelse om framför allt orsaken till att uppgifterna behandlas, vilken tidsperiod behandlingen pågår, vilka som mottar uppgifterna, de behandlade uppgifternas bakomliggande logik och, åtminstone när behandlingen bygger på profilering, vilka konsekvenserna kan bli. Denna rättighet bör inte inverka menligt på andra rättigheter och friheter, t.ex. affärshemligheter eller immateriell äganderätt och särskilt inte på upphovsrätt som skyddar programvaran. Dessa överväganden bör dock inte utmynna i att den registrerade förvägras all information."
+		}
+	],
+	"children": [],
+	"title": "Recital 51"
+}

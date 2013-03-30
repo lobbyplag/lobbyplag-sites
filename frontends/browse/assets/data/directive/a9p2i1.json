@@ -1,0 +1,102 @@
+{
+	"id": "a9p2i1",
+	"type": "point",
+	"literal": "a",
+	"parent": "a9p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the data subject has given consent to the processing of those personal data, subject to the conditions laid down in Articles 7 and 8, except where Union law or Member State law provide that the prohibition referred to in paragraph 1 may not be lifted by the data subject; or"
+		},
+		{
+			"lang": "de",
+			"text": "Die betroffene Person hat in die Verarbeitung der genannten personenbezogenen Daten vorbehaltlich der in den Artikeln 7 und 8 genannten Bedingungen eingewilligt, es sei denn, nach den Rechtsvorschriften der Union oder eines Mitgliedstaats kann das Verbot nach Absatz 1 durch die Einwilligung der betroffenen Person nicht aufgehoben werden, oder"
+		},
+		{
+			"lang": "fr",
+			"text": "la personne concernée a donné son consentement au traitement de ces données à caractère personnel, dans les conditions fixées à l’article 7 et à l'article 8, sauf lorsque le droit de l’Union ou la législation nationale prévoit que l'interdiction visée au paragraphe 1 ne peut pas être levée par la personne concernée; ou"
+		},
+		{
+			"lang": "es",
+			"text": "el interesado ha dado su consentimiento para el tratamiento de dichos datos personales, sin perjuicio de las condiciones establecidas en los artículos 7 y 8, excepto cuando el Derecho de la Unión o la legislación de los Estados miembros disponga que la prohibición establecida en el apartado 1 no puede ser levantada por el interesado; o"
+		},
+		{
+			"lang": "pt",
+			"text": "O titular dos dados tiver dado o seu consentimento para o tratamento desses dados pessoais, sem prejuízo do disposto nos artigos 7.º e 8.º, exceto se o direito da União ou a legislação de um Estado-Membro previr que a proibição a que se refere o n.º 1 não pode ser afastada pelo titular dos dados; ou"
+		},
+		{
+			"lang": "it",
+			"text": "l’interessato ha dato il proprio consenso al trattamento di tali dati personali, alle condizioni di cui agli articoli 7 e 8, salvo i casi in cui il diritto dell’Unione o di uno Stato membro dispone che l’interessato non può revocare il divieto di cui al paragrafo 1, oppure"
+		},
+		{
+			"lang": "ga",
+			"text": "má thoilíonn an duine is ábhar do na sonraí le próiseáil na sonraí pearsanta sin, faoi réir na gcoinníollacha atá leagtha síos in Airteagal 7 agus in Airteagal 8, seachas i gcás ina bhfuil foráil déanta i ndlí an Aontais nó i ndlí Ballstáit nach bhféadfaidh an duine is ábhar do na sonraí an toirmeasc dá dtagraítear i mír 1 a chur i leataobh; nó"
+		},
+		{
+			"lang": "cs",
+			"text": "subjekt údajů udělil souhlas se zpracováním těchto osobních údajů za podmínek stanovených v článcích 7 a 8, s výjimkou případů, kdy právo Unie nebo členského státu stanoví, že zákaz uvedený v odstavci 1 nemůže být subjektem údajů zrušen nebo"
+		},
+		{
+			"lang": "da",
+			"text": "den registrerede har givet sit samtykke til en sådan behandling i henhold til betingelserne i artikel 7 og 8, medmindre det i EU-retten eller medlemsstatens lovgivning fastsættes, at det i stk. 1 omhandlede forbud ikke kan hæves ved den registreredes samtykke, eller"
+		},
+		{
+			"lang": "et",
+			"text": "andmesubjekt on artiklites 7 ja 8 sätestatud tingimustel andnud nõusoleku neid isikuandmeid töödelda, välja arvatud juhul, kui liidu või liikmesriigi õiguse kohaselt ei saa andmesubjekt lõikes 1 nimetatud keeldu tühistada, või"
+		},
+		{
+			"lang": "el",
+			"text": "α) το πρόσωπο στο οποίο αναφέρονται τα δεδομένα παρέσχε τη συγκατάθεσή του στην επεξεργασία των συγκεκριμένων δεδομένων προσωπικού χαρακτήρα, σύμφωνα με τις προϋποθέσεις που προβλέπονται στα άρθρα 7 και 8, εκτός εάν το δίκαιο της Ένωσης ή το δίκαιο κράτους μέλους προβλέπει ότι η απαγόρευση που αναφέρεται στην παράγραφο 1 δεν μπορεί να αρθεί από το πρόσωπο στο οποίο αναφέρονται τα δεδομένα· ή"
+		},
+		{
+			"lang": "bg",
+			"text": "а) субектът на данните е дал своето съгласие за обработването на такива лични данни, при условие че са спазени условията, определени в членове 7 и 8, освен когато в правото на Съюза или на държава-членка се предвижда, че посочената в параграф 1 забрана не може да бъде отменена от субекта на данните; или"
+		},
+		{
+			"lang": "hu",
+			"text": "az érintett a 7. és 8. cikk szerinti feltételeknek megfelelően hozzájárulását adta az említett személyes adatok feldolgozásához, kivéve, ha az uniós vagy nemzeti jog úgy rendelkezik, hogy az érintett nem mentesíthet az (1) bekezdésben említett tilalom alól; vagy"
+		},
+		{
+			"lang": "mt",
+			"text": "is-suġġett tad-dejta jkun ta l-kunsens għall-ipproċessar ta’ dik id-dejta personali, soġġett għall-kundizzjonijiet stabbiliti fl-Artikoli 7 u 8, għajr meta l-liġi tal-Unjoni jew il-liġi ta’ Stat Membru tipprovdi li l-projbizzjoni msemmija fil-paragrafu 1 ma tistax titneħħa mis-suġġett tad-dejta; jew"
+		},
+		{
+			"lang": "lv",
+			"text": "datu subjekts ir devis piekrišanu šo personas datu apstrādei, ievērojot 7. un 8. pantā paredzētos nosacījumus, izņemot, ja Savienības vai dalībvalsts tiesību akti paredz, ka 1. punktā minēto aizliegumu datu subjekts nevar atcelt; vai"
+		},
+		{
+			"lang": "ro",
+			"text": "persoana vizată și-a dat consimțământul pentru prelucrarea acestor date cu caracter personal, în condițiile prevăzute la articolele 7 și 8, cu excepția cazului în care dreptul Uniunii sau legislația unui stat membru prevede că interdicția menționată la alineatul (1) nu poată fi ridicată de persoana vizată sau"
+		},
+		{
+			"lang": "sk",
+			"text": "dotknutá osoba vyjadrila súhlas so spracovaním týchto osobných údajov za podmienok uvedených v článkoch 7 a 8, s výnimkou prípadov, keď právne predpisy Únie alebo členského štátu určujú, že zákaz uvedený v odseku 1 nemôže dotknutá osoba zrušiť, alebo"
+		},
+		{
+			"lang": "sl",
+			"text": "je posameznik, na katerega se nanašajo osebni podatki, pod pogoji iz členov 7 in 8 dal svojo privolitev k obdelavi navedenih osebnih podatkov, razen kadar zakonodaja Unije ali zakonodaja držav članic določa, da posameznik, na katerega se nanašajo osebni podatki, ne sme odstopiti od prepovedi iz odstavka 1, ali"
+		},
+		{
+			"lang": "fi",
+			"text": "rekisteröity on antanut suostumuksensa kyseisten henkilötietojen käsittelyyn 7 ja 8 artiklassa säädettyjen edellytysten mukaisesti, paitsi jos unionin tai jäsenvaltion lainsäädännössä säädetään, että 1 kohdassa tarkoitettua kieltoa ei voida kumota rekisteröidyn suostumuksella; tai"
+		},
+		{
+			"lang": "pl",
+			"text": "podmiot danych udzielił zgody na przetwarzanie tych danych osobowych, z zastrzeżeniem warunków określonych w art. 7 i 8, z wyjątkiem sytuacji, gdy prawo Unii lub prawo państwa członkowskiego przewiduje, że zakaz, o którym mowa w ust. 1, nie może być uchylony przez podmiot danych; lub"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų subjektas sutiko, kad tokie asmens duomenys būtų tvarkomi laikantis 7 ir 8 straipsniuose nustatytų sąlygų, išskyrus, kai Sąjungos arba valstybės narės teisės aktuose numatyta, kad 1 dalyje nurodyto draudimo duomenų subjektas negali panaikinti; arba"
+		},
+		{
+			"lang": "nl",
+			"text": "de betrokkene toestemming heeft gegeven voor de verwerking van die persoonsgegevens, mits aan de voorwaarden van de artikelen 7 en 8 is voldaan en de EU-wetgeving of de nationale wetgeving niet bepaalt dat het in lid 1 genoemde verbod niet door de betrokkene kan worden opgeheven; of"
+		},
+		{
+			"lang": "sv",
+			"text": "Den registrerade har lämnat sitt samtycke till behandlingen av dessa personuppgifter, på de villkor som anges i artiklarna 7 och 8, utom då unionslagstiftningen eller medlemsstaternas lagstiftning föreskriver att förbudet i punkt 1 inte kan upphävas av den registrerade."
+		}
+	],
+	"children": [],
+	"title": "Article 9 – Paragraph 2 – Point 1"
+}

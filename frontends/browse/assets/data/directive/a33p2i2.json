@@ -1,0 +1,102 @@
+{
+	"id": "a33p2i2",
+	"type": "point",
+	"literal": "b",
+	"parent": "a33p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "information on sex life, health, race and ethnic origin or for the provision of health care, epidemiological researches, or surveys of mental or infectious diseases, where the data are processed for taking measures or decisions regarding specific individuals on a large scale;"
+		},
+		{
+			"lang": "de",
+			"text": "Verarbeitung von Daten über das Sexualleben, den Gesundheitszustand, die Rasse oder die ethnische Herkunft oder für die Erbringung von Gesundheitsdiensten, für epidemiologische Studien oder für Erhebungen über Geisteskrankheiten oder ansteckende Krankheiten, wenn die betreffenden Daten in großem Umfang im Hinblick auf Maßnahmen oder Entscheidungen verarbeitet werden, welche sich auf spezifische Einzelpersonen beziehen sollen;"
+		},
+		{
+			"lang": "fr",
+			"text": "le traitement d'informations relatives à la vie sexuelle, à la santé, à l'origine raciale et ethnique ou destinées à la fourniture de soins de santé, à des recherches épidémiologiques ou à des études relatives à des maladies mentales ou infectieuses, lorsque les données sont traitées aux fins de l'adoption de mesures ou de décisions à grande échelle visant des personnes précises;"
+		},
+		{
+			"lang": "es",
+			"text": "el tratamiento a gran escala de información sobre la vida sexual, la salud, la raza y el origen étnico o destinada a la prestación de atención sanitaria, investigaciones epidemiológicas o estudios relativos a enfermedades mentales o infecciosas, cuando los datos sean tratados con el fin de tomar medidas o decisiones sobre personas concretas;"
+		},
+		{
+			"lang": "pt",
+			"text": "O tratamento de informações sobre a orientação sexual, saúde, raça e origem étnica, ou destinadas à prestação de cuidados de saúde, investigações epidemiológicas, ou inquéritos relativos a doenças mentais ou infecciosas, sempre que os dados forem tratados com vista a adotar medidas ou decisões em grande escala visando pessoas específicas;"
+		},
+		{
+			"lang": "it",
+			"text": "il trattamento di informazioni concernenti la vita sessuale, lo stato di salute, la razza e l’origine etnica oppure destinate alla prestazione di servizi sanitari o a ricerche epidemiologiche o indagini su malattie mentali o infettive qualora i dati siano trattati per prendere misure o decisioni su larga scala riguardanti persone specifiche;"
+		},
+		{
+			"lang": "ga",
+			"text": "faisnéis faoi shaol gnéis, sláinte, agus faoi thionscnamh ciníoch agus eitneach nó faisnéis chun seirbhísí sláinte a sholáthar, chun taighde eipidéimeolaíochta a dhéanamh, nó chun suirbhéanna a dhéanamh faoi mheabhairghalair nó faoi ghalair thógálacha, i gcás ina bpróiseáiltear na sonraí chun bearta nó cinntí a dhéanamh maidir le daoine ar leith ar mhórscála;"
+		},
+		{
+			"lang": "cs",
+			"text": "se zpracováváním údajů o sexuálním životě, zdravotním stavu, rase a etnickém původu nebo údajů pro poskytování zdravotní péče, údajů souvisejících s epidemiologickým výzkumem či s průzkumy o duševních nebo infekčních nemocech, jestliže se tyto údaje zpracovávají ve velkém měřítku za účelem přijetí opatření či rozhodnutí týkajících se konkrétních jednotlivců;"
+		},
+		{
+			"lang": "da",
+			"text": "oplysninger om seksuelle forhold, helbred, race og etnisk oprindelse eller med henblik på ydelse af sundhedsydelser, epidemiologisk forskning eller undersøgelse af psykiske eller smitsomme sygdomme, hvis oplysningerne behandles med det formål at træffe foranstaltninger eller beslutninger vedrørende omfattende grupper af specifikke personer"
+		},
+		{
+			"lang": "et",
+			"text": "seksuaalelu, tervislikku seisundit, rassilist ja etnilist päritolu käsitleva või tervishoiuteenuse osutamiseks vajaliku teabe töötlemine ning epidemioloogilised, vaimu- ja nakkushaiguste uuringud, kui andmete töötlemise eesmärk on võtta meetmeid või teha otsuseid, mis käsitlevad paljusid üksikisikuid;"
+		},
+		{
+			"lang": "el",
+			"text": "β) πληροφορίες σχετικά με τη σεξουαλική ζωή, την υγεία, τη φυλή και την εθνοτική καταγωγή ή την παροχή υγειονομικής περίθαλψης, επιδημιολογικές έρευνες ή μελέτες για ψυχικές ή λοιμώδεις νόσους, εάν τα δεδομένα υποβάλλονται σε επεξεργασία για τη λήψη μέτρων ή αποφάσεων σε μεγάλη κλίμακα σε σχέση με συγκεκριμένα φυσικά πρόσωπα ·"
+		},
+		{
+			"lang": "bg",
+			"text": "б) информация относно сексуалния живот, здравословното състояние, расата или етническия произход или информация за предоставянето на здравно обслужване, епидемиологични изследвания или изследвания за психически или инфекциозни заболявания, когато данните се обработват в големи мащаби за вземане на мерки или решения относно конкретни физически лица;"
+		},
+		{
+			"lang": "hu",
+			"text": "a szexuális életre, egészségre, fajra vagy etnikai származásra vagy az egészségügyi ellátás nyújtására, járványügyi kutatásokra vagy mentális vagy fertőző betegségekre irányuló felmérésekre vonatkozó információk, amennyiben az adatok feldolgozására meghatározott egyénekre széles körben vonatkozó intézkedések vagy döntések meghozatala érdekében kerül sor;"
+		},
+		{
+			"lang": "mt",
+			"text": "informazzjoni dwar il-ħajja sesswali, is-saħħa, ir-razza u l-oriġini etnika jew għall-għoti ta’ kura tas-saħħa, riċerki epidemjoloġiċi, jew stħarriġ dwar mard mentali jew li jittieħed, meta d-dejta tiġi pproċessata biex tieħu miżuri jew deċiżjonijiet dwar individwi speċifiċi fuq skala kbira;"
+		},
+		{
+			"lang": "lv",
+			"text": "informācijas apstrāde par seksuālo dzīvi, veselību, rasi un etnisko izcelsmi vai par veselības aprūpes pakalpojumu sniegšanu, epidemioloģiskai izpētei vai aptaujām par infekciju slimībām, ja datus apstrādā, lai īstenotu pasākumus vai pieņemtu lēmumus attiecībā uz konkrētām personām plašā mērogā;"
+		},
+		{
+			"lang": "ro",
+			"text": "prelucrarea informațiilor privind viața sexuală, sănătatea, rasa și originea etnică sau informații necesare pentru furnizarea de asistență medicală, studii epidemiologice sau studii privind boli mentale sau infecțioase prelucrarea datelor pentru adoptarea de măsuri sau decizii care vizează anumite persoane pe scară largă;"
+		},
+		{
+			"lang": "sk",
+			"text": "informácie o sexuálnom živote, zdraví, rase a etnickom pôvode alebo informácie na účely poskytovania zdravotnej starostlivosti, epidemiologických výskumov alebo prieskumov duševných alebo infekčných ochorení, v prípade ktorých sa údaje spracúvajú na účely prijímania opatrení alebo rozhodnutí týkajúcich sa určitých fyzických osôb vo veľkom rozsahu;"
+		},
+		{
+			"lang": "sl",
+			"text": "informacije o spolnem življenju, zdravju, rasnem in etničnem izvoru ali zaradi nudenja zdravstvene oskrbe, epidemiološke raziskave ali študije o duševnih ali nalezljivih boleznih, kadar se podatki obdelujejo zaradi sprejemanja ukrepov ali odločitev glede določenih posameznikov v velikem obsegu;"
+		},
+		{
+			"lang": "fi",
+			"text": "sukupuolielämää, terveyttä, rotua ja etnistä alkuperää tai terveydenhoidon antamista, epidemiologisia tutkimuksia tai mielisairauksia tai tartuntatauteja koskevia selvityksiä koskevien tietojen käsittely, jos tarkoituksena on toteuttaa tiettyjä yksilöitä koskevia toimenpiteitä tai tehdä heitä koskevia päätöksiä suuressa mittakaavassa;"
+		},
+		{
+			"lang": "pl",
+			"text": "przetwarzanie informacji na temat życia seksualnego, stanu zdrowia, rasy i pochodzenia etnicznego oraz świadczenia usług opieki zdrowotnej, badań epidemiologicznych lub badań mających na celu wykrycie chorób psychicznych bądź zakaźnych, jeśli dane są przetwarzane w celu podjęcia na szeroką skalę środków lub decyzji dotyczących konkretnych osób;"
+		},
+		{
+			"lang": "lt",
+			"text": "tvarkant informaciją apie lytinį gyvenimą, rasę ir tautinę kilmę arba duomenų tvarkymo operacijas, atliekamas teikiant sveikatos priežiūrą, epidemiologinius tyrimus arba psichinių ar infekcinių ligų tyrimus, kai duomenys tvarkomi dideliu mastu siekiant imtis priemonių ar priimti sprendimus dėl konkrečių fizinių asmenų;"
+		},
+		{
+			"lang": "nl",
+			"text": "de verwerking van gegevens over het seksuele leven, de gezondheid, het ras of de etnische afkomst, voor het bieden van gezondsheidszorg, voor epidemiologisch onderzoek, of voor onderzoek naar geestes- of besmettelijke ziekten, wanneer de gegevens op grote schaal worden verwerkt voor het nemen van maatregelen of besluiten met betrekking tot specifieke personen;"
+		},
+		{
+			"lang": "sv",
+			"text": "Information om sexualliv, hälsa, ras och etniskt ursprung eller – i samband med tillhandahållande av hälso- och sjukvård – epidemiologisk forskning, eller undersökningar av psykiska sjukdomar eller infektionssjukdomar, där uppgifterna behandlas i syfte att vidta åtgärder eller fatta beslut om specifika enskilda personer i stor skala."
+		}
+	],
+	"children": [],
+	"title": "Article 33 – Paragraph 2 – Point 2"
+}

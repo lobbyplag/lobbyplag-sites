@@ -1,0 +1,102 @@
+{
+	"id": "a9p2i5",
+	"type": "point",
+	"literal": "e",
+	"parent": "a9p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the processing relates to personal data which are manifestly made public by the data subject; or"
+		},
+		{
+			"lang": "de",
+			"text": "die Verarbeitung bezieht sich auf personenbezogene Daten, die die betroffene Person offenkundig öffentlich gemacht hat, oder"
+		},
+		{
+			"lang": "fr",
+			"text": "le traitement porte sur des données à caractère personnel manifestement rendues publiques par la personne concernée; ou"
+		},
+		{
+			"lang": "es",
+			"text": "el tratamiento se refiere a datos personales que el interesado ha hecho manifiestamente públicos; o"
+		},
+		{
+			"lang": "pt",
+			"text": "O tratamento se referir a dados pessoais manifestamente tornados públicos pelo seu titular; ou"
+		},
+		{
+			"lang": "it",
+			"text": "il trattamento riguarda dati resi manifestamente pubblici dall’interessato, oppure"
+		},
+		{
+			"lang": "ga",
+			"text": "má bhaineann an phróiseáil le sonraí a chuir an duine is ábhar dóibh ar fáil go soiléir go poiblí; nó"
+		},
+		{
+			"lang": "cs",
+			"text": "zpracování se týká osobních údajů zjevně zveřejňovaných subjektem údajů nebo"
+		},
+		{
+			"lang": "da",
+			"text": "behandlingen vedrører personoplysninger, som tydeligvis er offentliggjort af den registrerede, eller"
+		},
+		{
+			"lang": "et",
+			"text": "töödeldakse isikuandmeid, mille andmesubjekt on ilmselgelt avalikustanud, või"
+		},
+		{
+			"lang": "el",
+			"text": "ε) η επεξεργασία αφορά προσωπικά δεδομένα τα οποία έχουν προδήλως δημοσιοποιηθεί από το πρόσωπο στο οποίο αναφέρονται· ή"
+		},
+		{
+			"lang": "bg",
+			"text": "д) обработването е свързано с лични данни, които явно са направени обществено достояние от субекта на данните; или"
+		},
+		{
+			"lang": "hu",
+			"text": "az adatfeldolgozás olyan személyes adatokra vonatkozik, amelyeket az érintett egyértelműen nyilvánosságra hozott; vagy"
+		},
+		{
+			"lang": "mt",
+			"text": "l-ipproċessar huwa relatat ma’ dejta personali li b’mod ċar tkun saret pubblika mis-suġġett tad-dejta; jew"
+		},
+		{
+			"lang": "lv",
+			"text": "apstrāde attiecas uz personas datiem, kurus datu subjekts apzināti ir publiskojis; vai"
+		},
+		{
+			"lang": "ro",
+			"text": "prelucrarea se referă la date cu caracter personal care sunt făcute publice în mod manifest de către persoana vizată sau"
+		},
+		{
+			"lang": "sk",
+			"text": "spracovanie sa týka osobných údajov, ktoré dotknutá osoba preukázateľne zverejnila, alebo"
+		},
+		{
+			"lang": "sl",
+			"text": "je obdelava povezana z osebnimi podatki, ki jih posameznik, na katerega se nanašajo osebni podatki, objavi, ali"
+		},
+		{
+			"lang": "fi",
+			"text": "käsittely koskee henkilötietoja, jotka rekisteröity on nimenomaisesti saattanut julkisiksi; tai"
+		},
+		{
+			"lang": "pl",
+			"text": "przetwarzanie dotyczy danych osobowych, które zostały wyraźnie podane do publicznej wiadomości przez podmiot danych; lub"
+		},
+		{
+			"lang": "lt",
+			"text": "tvarkomi asmens duomenys, kuriuos duomenų subjektas yra akivaizdžiai paskelbęs viešai; arba"
+		},
+		{
+			"lang": "nl",
+			"text": "de verwerking betrekking heeft op persoonsgegevens die duidelijk door de betrokkene openbaar zijn gemaakt; of"
+		},
+		{
+			"lang": "sv",
+			"text": "Behandlingen rör personuppgifter som på ett tydligt sätt har offentliggjorts av den registrerade."
+		}
+	],
+	"children": [],
+	"title": "Article 9 – Paragraph 2 – Point 5"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "a73p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a73",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Any body, organisation or association which aims to protect data subjects’ rights and interests concerning the protection of their personal data and has been properly constituted according to the law of a Member State shall have the right to lodge a complaint with a supervisory authority in any Member State on behalf of one or more data subjects if it considers that a data subject’s rights under this Regulation have been infringed as a result of the processing of personal data."
+		},
+		{
+			"lang": "de",
+			"text": "Einrichtungen, Organisationen oder Verbände, die sich den Schutz der Rechte und Interessen der betroffenen Personen in Bezug auf den Schutz ihrer personenbezogenen Daten zum Ziel gesetzt haben und die nach dem Recht eines Mitgliedstaats gegründet sind, haben das Recht, im Namen einer oder mehrerer betroffenen Personen Beschwerde bei einer mitgliedstaatlichen Aufsichtsbehörde zu erheben, wenn sie der Ansicht sind, dass die einer betroffenen Person aufgrund dieser Verordnung zustehenden Rechte infolge der Verarbeitung personenbezogener Daten verletzt wurden."
+		},
+		{
+			"lang": "fr",
+			"text": "Tout organisme, organisation ou association qui œuvre à la protection des droits et des intérêts des personnes concernées à l’égard de la protection de leurs données à caractère personnel et qui a été valablement constitué conformément au droit d’un État membre a le droit d'introduire une réclamation auprès d’une autorité de contrôle dans tout État membre au nom d’une ou de plusieurs personnes concernées s'il considère que les droits dont jouit une personne concernée en vertu du présent règlement ont été violés à la suite du traitement de données à caractère personnel."
+		},
+		{
+			"lang": "es",
+			"text": "Todo organismo, organización o asociación que tenga por objeto proteger los derechos e intereses de los interesados por lo que se refiere a la protección de sus datos personales, y que haya sido correctamente constituido con arreglo a la legislación de un Estado miembro, tendrá derecho a presentar una reclamación ante una autoridad de control en cualquier Estado miembro por cuenta de uno o más interesados si considera que los derechos que les asisten en virtud del presente Reglamento han sido vulnerados como consecuencia del tratamiento de los datos personales."
+		},
+		{
+			"lang": "pt",
+			"text": "Qualquer organismo, organização ou associação que vise proteger os direitos e interesses dos titulares de dados em relação à proteção dos seus dados pessoais e que esteja devidamente constituído ao abrigo do direito de um Estado-Membro, tem o direito de apresentar queixa a uma autoridade de controlo em qualquer Estado‑Membro por conta de uma ou mais pessoas em causa, se considerar que os direitos de que beneficia um titular de dados por força do presente regulamento foram violados na sequência do tratamento dos seus dados pessoais."
+		},
+		{
+			"lang": "it",
+			"text": "Ogni organismo, organizzazione o associazione che tuteli i diritti e gli interessi degli interessati in relazione alla protezione dei loro dati personali e che sia debitamente costituito o costituita secondo la legislazione di uno Stato membro ha il diritto di proporre reclamo all’autorità di controllo di qualunque Stato membro per conto di uno o più interessati qualora ritenga che siano stati violati diritti derivanti dal presente regolamento a seguito del trattamento di dati personali."
+		},
+		{
+			"lang": "ga",
+			"text": "Aon chomhlacht, eagraíocht nó comhlachas a bhfuil sé d'aidhm aige cearta agus leasanna na ndaoine is ábhar do na sonraí a chosaint i ndáil le cosaint a sonraí pearsanta, agus atá comhdhéanta de réir dlí Ballstáit, beidh sé de cheart aige gearán a dhéanamh le húdarás maoirseachta in aon Bhallstát thar ceann duine amháin nó níos mó daoine is ábhar do na sonraí má mheasann sé gur sáraíodh cearta an duine is ábhar do na sonraí faoin Rialachán seo mar thoradh ar phróiseáil na sonraí pearsanta."
+		},
+		{
+			"lang": "cs",
+			"text": "Veškeré subjekty, organizace nebo sdružení, jejichž cílem je chránit práva a zájmy subjektů údajů v souvislosti s ochranou jejich osobních údajů a jež byly řádně zřízeny v souladu s právem některého členského státu, mají právo vznést jménem jednoho či více subjektů údajů stížnost k orgánu dozoru v kterémkoli z členských států, jestliže se domnívají, že zpracováním osobních údajů byla narušena práva subjektu údajů podle tohoto nařízení."
+		},
+		{
+			"lang": "da",
+			"text": "Alle organer, organisationer eller sammenslutninger, der har til formål at beskytte registreredes rettigheder og interesser i forbindelse med beskyttelsen af deres personoplysninger, og som er etableret i overensstemmelse med en medlemsstats lovgivning, har ret til at indgive klage til en tilsynsmyndighed i enhver medlemsstat på vegne af en eller flere registrerede, hvis de vurderer, at den registreredes rettigheder i henhold til denne forordning er blevet krænket som følge af behandlingen af personoplysninger."
+		},
+		{
+			"lang": "et",
+			"text": "Igal asutusel, organisatsioonil või ühendusel, mille eesmärk on kaitsta andmesubjektide õigusi ja huve seoses nende isikuandmete kaitsmisega ning mis on moodustatud vastavalt liikmesriigi õigusaktidele, on õigus esitada järelevalveasutusele kaebus mis tahes liikmesriigis ühe või mitme andmesubjekti nimel, kui ta leiab, et käesoleva määruse kohaseid andmesubjekti õigusi on rikutud isikuandmete töötlemise tulemusel."
+		},
+		{
+			"lang": "el",
+			"text": "Κάθε φορέας, οργανισμός ή οργάνωση που στοχεύει στην προστασία των δικαιωμάτων και των συμφερόντων των προσώπων στα οποία αναφέρονται τα δεδομένα όσον αφορά την προστασία των δεδομένων τους προσωπικού χαρακτήρα και έχει συσταθεί δεόντως σύμφωνα με το δίκαιο κράτους μέλους δικαιούται να υποβάλει καταγγελία σε αρχή ελέγχου οποιουδήποτε κράτους μέλους για λογαριασμό ενός ή περισσότερων εκ των εν λόγω προσώπων, εφόσον θεωρεί ότι τα δικαιώματά του/τους τα οποία απορρέουν από τον παρόντα κανονισμό παραβιάσθηκαν ως αποτέλεσμα της επεξεργασίας δεδομένων προσωπικού χαρακτήρα."
+		},
+		{
+			"lang": "bg",
+			"text": "Всяка структура, организация или сдружение, учредено съгласно правото на държава-членка и чиято цел е да защитава правата и интересите на субектите на данни по отношение на защитата на техните лични данни, има право да подава жалба до надзорен орган в която и да било държава-членка от името на един или повече субекти на данни, когато счита, че правата на даден субект на данни съгласно настоящия регламент са били нарушени вследствие на обработването на личните данни."
+		},
+		{
+			"lang": "hu",
+			"text": "Valamennyi olyan szerv, szervezet vagy egyesület, amelynek célja az érintettek személyes adatok védelmére vonatkozó jogainak és érdekeinek védelme, és amelyet valamely tagállam jogának megfelelően hoztak létre, egy vagy több érintett nevében eljárva, bármely tagállam felügyelő hatóságánál jogosult a panaszemelésre, ha megítélése szerint az érintett személyes adatainak feldolgozása következtében megsértették annak e rendelet szerinti jogait."
+		},
+		{
+			"lang": "mt",
+			"text": "Kull korp, organizzazzjoni jew assoċjazzjoni li jkollha l-għan li tħares id-drittijiet u l-interessi ta’ suġġetti tad-dejta rigward il-protezzjoni tad-dejta personali tagħhom u li tkun ġiet ikkostitwita kif xieraq skont il-liġi ta’ Stat Membru għandu jkollha d-dritt li tressaq ilment quddiem awtorità ta’ superviżjoni fi kwalunkwe Stat Membru f’isem suġġett tad-dejta wieħed jew aktar jekk tqis li d-drittijiet ta’ suġġett tad-dejta taħt dan ir-Regolament ikunu nkisru minħabba l-ipproċessar ta’ dejta personali."
+		},
+		{
+			"lang": "lv",
+			"text": "Jebkurai struktūrai, organizācijai vai asociācijai, kuras mērķis ir aizsargāt datu subjektu tiesības un intereses saistībā ar to datu aizsardzību un kura ir atbilstoši izveidota saskaņā ar dalībvalsts tiesību aktiem, ir tiesības iesniegt sūdzību jebkuras dalībvalsts uzraudzības iestādē viena vai vairāku datu subjektu vārdā, ja tā uzskata, ka datu subjektu tiesības, pamatojoties uz šo regulu, ir pārkāptas personas datu apstrādes rezultātā."
+		},
+		{
+			"lang": "ro",
+			"text": "Orice organism, organizație sau asociație a cărei activitate urmărește protecția drepturilor și intereselor persoanelor vizate cu privire la protecția datelor cu caracter personal ale acestora și care a fost constituită în mod adecvat, în conformitate cu legislația unui stat membru, are dreptul de a depune o plângere la o autoritate de supraveghere din orice stat membru în numele uneia sau mai multor persoane vizate, în cazul în care consideră că drepturile de care persoanele vizate beneficiază în temeiul prezentului regulament au fost încălcate ca urmare a prelucrării datelor cu caracter personal."
+		},
+		{
+			"lang": "sk",
+			"text": "Všetky orgány, organizácie či združenia, ktorých cieľom je ochrana práv a záujmov dotknutých osôb v súvislosti s ochranou ich osobných údajov a ktoré boli právoplatne zriadené podľa právnych predpisov členského štátu, majú právo podať sťažnosť v mene jednej či viacerých dotknutých osôb dozornému orgánu v ktoromkoľvek členskom štáte, ak sa domnievajú, že v dôsledku spracovania osobných údajov došlo k porušeniu práv dotknutých osôb podľa tohto nariadenia."
+		},
+		{
+			"lang": "sl",
+			"text": "Vsak organ, organizacija ali združenje, katerega cilj je zaščita pravic in interesov posameznikov, na katere se nanašajo osebni podatki, v zvezi z varstvom njihovih osebnih podatkov in ki je ustanovljen v skladu z zakonodajo države članice, ima pravico do vložitve pritožbe pri nadzornem organu v kateri koli državi članici v imenu enega ali več posameznikov, na katere se nanašajo osebni podatki, če meni, da so bile zaradi obdelave osebnih podatkov kršene pravice posameznika, na katerega se nanašajo osebni podatki, iz te uredbe."
+		},
+		{
+			"lang": "fi",
+			"text": "Millä tahansa elimellä, järjestöllä tai yhdistyksellä, jonka tarkoituksena on suojella rekisteröidyn henkilötietojen suojaan liittyviä oikeuksia ja etuja ja joka on asianmukaisesti perustettu jäsenvaltion lainsäädännön mukaisesti, on oikeus tehdä valitus minkä tahansa jäsenvaltion valvontaviranomaiselle yhden tai useamman rekisteröidyn puolesta, jos se katsoo, että tähän asetukseen perustuvia rekisteröidyn oikeuksia on loukattu henkilötietojen käsittelyssä."
+		},
+		{
+			"lang": "pl",
+			"text": "Każdy podmiot, organizacja lub zrzeszenie, których celem jest ochrona praw podmiotów danych oraz interesów dotyczących ochrony ich danych osobowych, i które zostały prawidłowo ustanowione zgodnie z prawem państwa członkowskiego, ma prawo złożyć skargę do organu nadzorczego dowolnego państwa członkowskiego w imieniu jednego lub więcej podmiotów danych, jeżeli uznaje, że prawa podmiotu danych na podstawie niniejszego rozporządzenia zostały naruszone w wyniku przetwarzania danych osobowych."
+		},
+		{
+			"lang": "lt",
+			"text": "Bet kuri įstaiga, organizacija ar asociacija, kuri siekia apsaugoti duomenų subjektų teises ir interesus, susijusius su jų asmens duomenų apsauga, ir kuri tinkamai įsteigta pagal valstybės narės teisę, turi teisę vieno ar kelių duomenų subjektų vardu pateikti skundą priežiūros institucijai bet kurioje valstybėje narėje, jeigu mano, kad tvarkant asmens duomenis buvo pažeistos šiame reglamente nustatytos duomenų subjektų teisės."
+		},
+		{
+			"lang": "nl",
+			"text": "Alle organen, organisaties of verenigingen die de bescherming van de rechten en belangen van betrokkenen in verband met de bescherming van hun persoonsgegevens tot doel hebben en die op geldige wijze volgens het recht van een lidstaat zijn opgericht, hebben het recht een klacht in te dienen bij een toezichthoudende autoriteit in een lidstaat namens een of meer betrokkenen, indien zij van mening zijn dat de rechten van betrokkenen uit hoofde van deze verordening geschonden zijn als gevolg van de verwerking van persoonsgegevens."
+		},
+		{
+			"lang": "sv",
+			"text": "Varje organisation eller sammanslutning som har till uppgift att skydda registrerades rättigheter och intressen när det gäller skyddet av deras personuppgifter och som har inrättats på vederbörligt sätt i enlighet med lagen i en medlemsstat, ska ha rätt att lämna in ett klagomål till en tillsynsmyndighet i en medlemsstat för en eller flera registrerades räkning, om den anser att de rättigheter som tillkommer en registrerad enligt denna förordning har åsidosatts som en följd av behandling av vederbörandes personuppgifter."
+		}
+	],
+	"children": [],
+	"title": "Article 73 – Paragraph 2"
+}

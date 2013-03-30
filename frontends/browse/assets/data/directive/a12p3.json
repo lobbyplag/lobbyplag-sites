@@ -1,0 +1,102 @@
+{
+	"id": "a12p3",
+	"type": "paragraph",
+	"literal": "3",
+	"parent": "a12",
+	"text": [
+		{
+			"lang": "en",
+			"text": "If the controller refuses to take action on the request of the data subject, the controller shall inform the data subject of the reasons for the refusal and on the possibilities of lodging a complaint to the supervisory authority and seeking a judicial remedy."
+		},
+		{
+			"lang": "de",
+			"text": "Weigert sich der für die Verarbeitung Verantwortliche, auf Antrag der betroffenen Person tätig zu werden, unterrichtet er die betroffene Person über die Gründe für die Weigerung und über die Möglichkeit, bei der Aufsichtsbehörde Beschwerde einzulegen oder den Rechtsweg zu beschreiten."
+		},
+		{
+			"lang": "fr",
+			"text": "Si le responsable du traitement refuse de prendre des mesures demandées par la personne concernée, il informe cette dernière des motifs du refus, des possibilités d'introduire une réclamation auprès de l'autorité de contrôle et de former un recours juridictionnel."
+		},
+		{
+			"lang": "es",
+			"text": "Si el responsable del tratamiento se niega a dar curso a la solicitud del interesado, le informará de las razones de la denegación y de la posibilidad de presentar una reclamación ante la autoridad de control y de recurrir a los tribunales."
+		},
+		{
+			"lang": "pt",
+			"text": "Se o responsável pelo tratamento recusar adotar as medidas solicitadas pelo titular dos dados, deve informar a pessoa em causa das razões da recusa, das possibilidades de apresentar uma queixa à autoridade de controlo e de interpor uma ação judicial."
+		},
+		{
+			"lang": "it",
+			"text": "Se rifiuta di ottemperare alla richiesta dell’interessato, il responsabile del trattamento informa l’interessato dei motivi di tale rifiuto e delle possibilità di proporre reclamo all’autorità di controllo e anche ricorso giurisdizionale."
+		},
+		{
+			"lang": "ga",
+			"text": "Má dhiúltaíonn an rialaitheoir beart a dhéanamh ar iarraidh a fháil ón duine is ábhar do na sonraí, cuirfidh an rialaitheoir an duine is ábhar do na sonraí ar an eolas faoi na cúiseanna ar diúltaíodh don iarraidh agus faoi na deiseanna atá aige gearán a dhéanamh leis an údarás maoirseachta agus leigheas breithiúnach a iarraidh."
+		},
+		{
+			"lang": "cs",
+			"text": "Pokud správce odmítne provést opatření, o které subjekt údajů požádal, správce informuje subjekt údajů o důvodech tohoto odmítnutí a o možnostech podat stížnost orgánu dozoru a uplatnit soudní opravný prostředek."
+		},
+		{
+			"lang": "da",
+			"text": "Hvis den registeransvarlige afviser at imødekomme den registreredes anmodning, underretter den registeransvarlige den registrerede om årsagen til afvisningen og om mulighederne for at indgive en klage til tilsynsmyndigheden og anlægge sag ved domstolene."
+		},
+		{
+			"lang": "et",
+			"text": "Kui vastutav töötleja otsustab andmesubjekti taotletud toimingut mitte teha, teatab ta andmesubjektile keeldumise põhjused ning selgitab talle võimalusi esitada järelevalveasutusele kaebus ja kasutada õiguskaitsevahendeid."
+		},
+		{
+			"lang": "el",
+			"text": "Εάν ο υπεύθυνος επεξεργασίας αρνείται να ενεργήσει επί του αιτήματος του προσώπου στο οποίο αναφέρονται τα δεδομένα, ο υπεύθυνος επεξεργασίας ενημερώνει το πρόσωπο στο οποίο αναφέρονται τα δεδομένα για την άρνηση και για τις δυνατότητες υποβολής καταγγελίας στην αρχή ελέγχου και άσκησης δικαστικής προσφυγής."
+		},
+		{
+			"lang": "bg",
+			"text": "Ако администраторът откаже да предприеме действие относно дадено искане на субекта на данни, той информира субекта на данни относно причините за отказа и възможностите за подаване на жалба до надзорния орган и за средствата за съдебна защита."
+		},
+		{
+			"lang": "hu",
+			"text": "Amennyiben az adatkezelő megtagadja, hogy az érintett kérelme nyomán intézkedéseket hozzon, tájékoztatja az érintettet az elutasítás okairól, valamint a felügyelő hatósághoz címzett panasz és a bírósági jogorvoslati kérelem lehetőségéről."
+		},
+		{
+			"lang": "mt",
+			"text": "Jekk il-kontrollur jirrifjuta li jieħu azzjoni fuq it-talba tas-suġġett tad-dejta, il-kontrollur għandu jinforma lis-suġġett tad-dejta dwar ir-raġunijiet għar-rifjut u dwar il-possibbiltajiet li jressaq ilment lill-awtorità ta’ superviżjoni u li jfittex rimedju ġudizzjarju."
+		},
+		{
+			"lang": "lv",
+			"text": "Ja pārzinis atsakās veikt darbību, ko pieprasījis datu subjekts, pārzinis informē datu subjektu par atteikuma iemesliem un par iespējām iesniegt sūdzību uzraudzības iestādē un vērsties tiesā."
+		},
+		{
+			"lang": "ro",
+			"text": "În cazul în care operatorul refuză să ia măsuri la cererea persoanei vizate, acesta informează persoana vizată cu privire la motivele refuzului și la posibilitățile de a depune o plângere în fața autorității de supraveghere și de a introduce o cale de atac în justiție."
+		},
+		{
+			"lang": "sk",
+			"text": "Ak prevádzkovateľ odmietne prijať opatrenia na základe žiadosti dotknutej osoby, prevádzkovateľ informuje dotknutú osobu o dôvodoch zamietnutia a o možnostiach podania sťažnosti dozornému orgánu a uplatnenia súdnych prostriedkov nápravy."
+		},
+		{
+			"lang": "sl",
+			"text": "Če upravljavec zavrne ukrepanje na zahtevo posameznika, na katerega se nanašajo osebni podatki, upravljavec posameznika, na katerega se nanašajo osebni podatki, obvesti o razlogih za zavrnitev ter o možnosti vložitve pritožbe pri nadzornem organu in pravnih sredstvih."
+		},
+		{
+			"lang": "fi",
+			"text": "Jos rekisterinpitäjä kieltäytyy toteuttamasta toimenpiteitä rekisteröidyn pyynnön perusteella, rekisterinpitäjän on ilmoitettava rekisteröidylle kieltäytymisen syyt ja kerrottava mahdollisuudesta tehdä valitus valvontaviranomaiselle ja käyttää muita oikeussuojakeinoja."
+		},
+		{
+			"lang": "pl",
+			"text": "Jeśli administrator odmawia podjęcia działania na wniosek podmiotu danych, informuje on ten podmiot o powodach odmowy oraz możliwości zgłoszenia skargi organowi nadzorczemu i skorzystania z sądowego środka ochrony prawnej."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas informuoja duomenų subjektą apie atsisakymą imtis priemonių dėl duomenų subjekto prašymo, nurodo atsisakymo priežastis ir galimybes pateikti skundą priežiūros institucijai bei teisę imtis teisminių teisių gynimo priemonių."
+		},
+		{
+			"lang": "nl",
+			"text": "Wanneer de voor de verwerking verantwoordelijk weigert om actie te ondernemen naar aanleiding van het verzoek van de betrokkene, deelt de voor de verwerking verantwoordelijke de betrokkene de redenen voor de weigering mee en informeert hij hem over de mogelijkheden een klacht in te dienen bij de toezichthoudende autoriteit en beroep in rechte in te stellen."
+		},
+		{
+			"lang": "sv",
+			"text": "Om den registeransvarige vägrar att vidta åtgärder på den registrerades begäran, ska den registeransvarige informera den registrerade om orsaken till vägran och om möjligheterna att lämna in ett klagomål till tillsynsmyndigheten och begära rättslig prövning."
+		}
+	],
+	"children": [],
+	"title": "Article 12 – Paragraph 3"
+}

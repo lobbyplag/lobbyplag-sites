@@ -1,0 +1,106 @@
+{
+	"id": "a9",
+	"type": "article",
+	"literal": "9",
+	"parent": "c2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Processing of special categories of personal data"
+		},
+		{
+			"lang": "de",
+			"text": "Verarbeitung besonderer Kategorien von personenbezogenen Daten"
+		},
+		{
+			"lang": "fr",
+			"text": "Traitements portant sur des catégories particulières de données à caractère personnel"
+		},
+		{
+			"lang": "es",
+			"text": "Tratamiento de categorías especiales de datos personales"
+		},
+		{
+			"lang": "pt",
+			"text": "Tratamento de categorias especiais de dados pessoais"
+		},
+		{
+			"lang": "it",
+			"text": "Trattamento di categorie particolari di dati personali"
+		},
+		{
+			"lang": "ga",
+			"text": "Catagóirí speisialta sonraí pearsanta a phróiseáil"
+		},
+		{
+			"lang": "cs",
+			"text": "Zpracovávání zvláštních kategorií osobních údajů"
+		},
+		{
+			"lang": "da",
+			"text": "Behandling af særlige kategorier af personoplysninger"
+		},
+		{
+			"lang": "et",
+			"text": "Isikuandmete eriliikide töötlemine"
+		},
+		{
+			"lang": "el",
+			"text": "Επεξεργασία ειδικών κατηγοριών δεδομένων προσωπικού χαρακτήρα"
+		},
+		{
+			"lang": "bg",
+			"text": "Обработване на специални категории лични данни"
+		},
+		{
+			"lang": "hu",
+			"text": "A személyes adatok különleges kategóriáinak feldolgozása"
+		},
+		{
+			"lang": "mt",
+			"text": "Ipproċessar ta’ kategoriji speċjali ta’ dejta personali"
+		},
+		{
+			"lang": "lv",
+			"text": "Īpašu kategoriju personas datu apstrāde"
+		},
+		{
+			"lang": "ro",
+			"text": "Prelucrarea categoriilor speciale de date cu caracter personal"
+		},
+		{
+			"lang": "sk",
+			"text": "Spracúvanie osobitných kategórií osobných údajov"
+		},
+		{
+			"lang": "sl",
+			"text": "Obdelava posebnih vrst osebnih podatkov"
+		},
+		{
+			"lang": "fi",
+			"text": "Erityisiä tietoryhmiä koskeva käsittely"
+		},
+		{
+			"lang": "pl",
+			"text": "Przetwarzanie szczególnych kategorii danych osobowych"
+		},
+		{
+			"lang": "lt",
+			"text": "Ypatingų kategorijų asmens duomenų tvarkymas"
+		},
+		{
+			"lang": "nl",
+			"text": "Verwerking van bijzondere categorieën persoonsgegevens"
+		},
+		{
+			"lang": "sv",
+			"text": "Behandling av särskilda kategorier av personuppgifter"
+		}
+	],
+	"children": [
+		"a9p1",
+		"a9p2",
+		"a9p3"
+	],
+	"title": "Article 9"
+}

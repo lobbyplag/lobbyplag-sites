@@ -1,0 +1,102 @@
+{
+	"id": "a31p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a31",
+	"text": [
+		{
+			"lang": "en",
+			"text": "In the case of a personal data breach, the controller shall without undue delay and, where feasible, not later than 24 hours after having become aware of it, notify the personal data breach to the supervisory authority. The notification to the supervisory authority shall be accompanied by a reasoned justification in cases where it is not made within 24 hours."
+		},
+		{
+			"lang": "de",
+			"text": "Bei einer Verletzung des Schutzes personenbezogener Daten benachrichtigt der für die Verarbeitung Verantwortliche die Aufsichtsbehörde ohne unangemessene Verzögerung und nach Möglichkeit binnen 24 Stunden nach Feststellung der Verletzung. Falls die Meldung an die Aufsichtsbehörde nicht binnen 24 Stunden erfolgt, ist dieser eine Begründung beizufügen."
+		},
+		{
+			"lang": "fr",
+			"text": "En cas de violation de données à caractère personnel, le responsable du traitement en adresse notification à l'autorité de contrôle sans retard injustifié et, si possible, 24 heures au plus tard après en avoir pris connaissance. Lorsqu'elle a lieu après ce délai de 24 heures, la notification comporte une justification à cet égard."
+		},
+		{
+			"lang": "es",
+			"text": "En caso de violación de datos personales, el responsable del tratamiento la notificará a la autoridad de control sin demora injustificada y, de ser posible, a más tardar veinticuatro horas después de que haya tenido constancia de ella. Si no se hace en el plazo de veinticuatro horas, la notificación a la autoridad de control irá acompañada de una justificación motivada."
+		},
+		{
+			"lang": "pt",
+			"text": "Em caso de violação de dados pessoais, o responsável pelo tratamento notifica desse facto a autoridade de controlo, sem demora injustificada e, sempre que possível, o mais tardar 24 horas após ter tido conhecimento da mesma. Caso a notificação à autoridade de controlo não seja transmitida no prazo de 24 horas, deve ser acompanhada de uma justificação razoável."
+		},
+		{
+			"lang": "it",
+			"text": "In caso di violazione dei dati personali, il responsabile del trattamento notifica la violazione all’autorità di controllo senza ritardo, ove possibile entro 24 ore dal momento in cui ne è venuto a conoscenza. Qualora non sia effettuata entro 24 ore, la notificazione all’autorità di controllo è corredata di una giustificazione motivata."
+		},
+		{
+			"lang": "ga",
+			"text": "I gcás ina ndéantar sárú i ndáil le sonraí pearsanta, tabharfaidh an rialaitheoir fógra don údarás maoirseachta faoin sárú sin gan moill mhíchuí agus, nuair is féidir, tráth nach déanaí ná 24 uair tar éis don rialaitheoir a thuiscint gur tharla an sárú. Gabhfaidh cosaint réasúnaithe leis an bhfógra don údarás maoirseachta i gcás nach dtugtar an fógra sin laistigh de 24 uair."
+		},
+		{
+			"lang": "cs",
+			"text": "Dojde-li k narušení bezpečnosti osobních údajů, správce jej ohlásí orgánu dozoru, a to bez zbytečného odkladu, a je-li to možné, nejpozději do 24 hodin od chvíle, kdy toto narušení zjistil. Pokud není případ ohlášen orgánu dozoru do 24 hodin, k ohlášení je třeba připojit odůvodnění."
+		},
+		{
+			"lang": "da",
+			"text": "Ved brud på persondatasikkerheden anmelder den registeransvarlige uden unødig forsinkelse og om muligt senest 24 timer, efter at denne er blevet bekendt med det, bruddet på persondatasikkerheden til tilsynsmyndigheden. Anmeldelsen til tilsynsmyndigheden ledsages af en begrundelse, hvis den ikke er indgivet inden for 24 timer."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja teavitab järelevalveasutust isikuandmetega seotud rikkumisest põhjendamatu viivitusteta ja võimaluse korral 24 tunni jooksul pärast rikkumise avastamist. Kui järelevalveasutusele esitatakse teade hiljem kui 24 tunni jooksul, esitatakse teates selle kohta põhjendus."
+		},
+		{
+			"lang": "el",
+			"text": "Σε περίπτωση παραβίασης δεδομένων προσωπικού χαρακτήρα, ο υπεύθυνος επεξεργασίας κοινοποιεί στην αρχή ελέγχου την παραβίαση δεδομένων προσωπικού χαρακτήρα αμελλητί και, ει δυνατόν, το αργότερο εντός 24 ωρών από τη στιγμή που την πληροφορείται. Η κοινοποίηση στην αρχή ελέγχου συνοδεύεται από αιτιολογία στις περιπτώσεις στις οποίες δεν πραγματοποιείται εντός 24 ωρών."
+		},
+		{
+			"lang": "bg",
+			"text": "В случай на нарушение на сигурността на личните данни администраторът, без излишно забавяне и, когато това е осъществимо, не по-късно от 24 часа след установяването на такова нарушение, уведомява надзорния орган за нарушението на сигурността на личните данни. Уведомлението до надзорния орган се придружава от мотивирана обосновка в случаите, когато то не е подадено в срок от 24 часа."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő a személyes adatok megsértése esetén indokolatlan késedelem nélkül, amennyiben lehetséges a személyes adatok megsértéséről való tudomásszerzéstől számított 24 órán belül értesíti a felügyelő hatóságot a személyes adatok megsértéséről. A felügyelő hatóság értesítését írásbeli indokolással kell ellátni, amennyiben arra nem 24 órán belül került sor."
+		},
+		{
+			"lang": "mt",
+			"text": "Fil-każ ta’ ksur ta’ dejta personali, il-kontrollur għandu mingħajr dewmien bla bżonn u, fejn possibbli, mhux aktar tard minn 24 siegħa wara li jkun sar jaf bih, jinnotifika l-ksur tad-dejta personali lill-awtorità ta’ superviżjoni. In-notifika lill-awtorità ta’ superviżjoni għandha tkun akkumpanjata b’ġustifikazzjoni motivata f’każijiet fejn ma ssirx fi żmien 24 siegħa."
+		},
+		{
+			"lang": "lv",
+			"text": "Personas datu aizsardzības pārkāpuma gadījumā pārzinis bez nepamatotas kavēšanās un, ja tas iespējams, ne vēlāk kā 24 stundās no brīža, kad tas kļuvis zināms, paziņo uzraudzības iestādei par personas datu aizsardzības pārkāpumu. Paziņojumam uzraudzības iestādei pievieno pamatotu paskaidrojumu, ja paziņošana nav notikusi 24 stundu laikā."
+		},
+		{
+			"lang": "ro",
+			"text": "În cazul în care are loc o încălcare a securității datelor cu caracter personal, operatorul notifică acest lucru autorității de supraveghere fără întârzieri nejustificate și, în cazul în care este posibil, în termen de cel mult 24 de ore de la data la care a luat cunoștință de aceasta. Notificarea autorității de supraveghere trebuie să fie însoțită de o explicație motivată în cazul în care aceasta nu are loc în termen de 24 de ore."
+		},
+		{
+			"lang": "sk",
+			"text": "V prípade, že dôjde k porušeniu ochrany osobných údajov, prevádzkovateľ bez zbytočného odkladu a podľa možnosti najneskôr do 24 hodín po tom, čo sa o tejto skutočnosti dozvedel, oznámi porušenie ochrany osobných údajov dozornému orgánu. K oznámeniu dozornému orgánu sa pripája náležité zdôvodnenie, ak oznámenie nebolo predložené do 24 hodín."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec v primeru kršitve varnosti osebnih podatkov o kršitvi nemudoma, po možnosti najpozneje v 24 urah po odkritju kršitve, obvesti nadzorni organ. Upravljavec nadzornemu organu predloži primerno utemeljitev v primerih, kadar nadzorni organ ni bil obveščen v 24 urah."
+		},
+		{
+			"lang": "fi",
+			"text": "Jos tapahtuu henkilötietojen tietoturvaloukkaus, rekisterinpitäjän on ilmoitettava siitä valvontaviranomaiselle ilman aiheetonta viivytystä ja mahdollisuuksien mukaan 24 tunnin kuluessa sen ilmitulosta. Jos ilmoitusta ei anneta 24 tunnin kuluessa, rekisterinpitäjän on toimitettava valvontaviranomaiselle perusteltu selitys."
+		},
+		{
+			"lang": "pl",
+			"text": "W przypadku naruszenia ochrony danych osobowych, administrator zgłasza organowi nadzorczemu takie naruszeniu bez nieuzasadnionej zwłoki i jeśli jest to możliwe, nie później niż w ciągu 24 godzin od momentu dowiedzenia się o tym naruszeniu. Jeśli organ nadzorczy nie zostanie zawiadomiony w ciągu 24 godzin, do zgłoszenia należy dołączyć umotywowane wyjaśnienie."
+		},
+		{
+			"lang": "lt",
+			"text": "Asmens duomenų saugumo pažeidimo atveju duomenų valdytojas, nepagrįstai nedelsdamas, jei įmanoma per 24 valandas nuo tada, kai sužino apie asmens duomenų saugumo pažeidimą, praneša apie jį priežiūros institucijai. Jeigu priežiūros institucijai apie asmens duomenų saugumo pažeidimą nepranešama per 24 valandas, prie pranešimo pridedamas motyvuotas paaiškinimas."
+		},
+		{
+			"lang": "nl",
+			"text": "In geval van een inbreuk in verband met persoonsgegevens meldt de voor de verwerking verantwoordelijke de toezichthoudende autoriteit deze inbreuk zonder onnodige vertraging en zo mogelijk niet later dan 24 uur nadat hij ervan kennis heeft gekregen. Wanneer de melding aan de toezichthoudende autoriteit niet binnen 24 plaatsvindt, gaat deze vergezeld van een motivering."
+		},
+		{
+			"lang": "sv",
+			"text": "Vid ett personuppgiftsbrott ska den registeransvarige utan onödigt dröjsmål och, om så är möjligt, inte senare än 24 timmar efter att ha fått vetskap om det, anmäla personuppgiftsbrottet till tillsynsmyndigheten. Om anmälan till tillsynsmyndigheten inte görs inom 24 timmar ska den åtföljas av en utförlig motivering."
+		}
+	],
+	"children": [],
+	"title": "Article 31 – Paragraph 1"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "a41p2i1",
+	"type": "point",
+	"literal": "a",
+	"parent": "a41p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the rule of law, relevant legislation in force, both general and sectoral, including concerning public security, defence, national security and criminal law, the professional rules and security measures which are complied with in that country or by that international organisation, as well as effective and enforceable rights including effective administrative and judicial redress for data subjects, in particular for those data subjects residing in the Union whose personal data are being transferred;"
+		},
+		{
+			"lang": "de",
+			"text": "die Rechtsstaatlichkeit, die geltenden allgemeinen und sektorspezifischen Vorschriften, insbesondere über die öffentliche Sicherheit, die Landesverteidigung, die nationale Sicherheit und das Strafrecht, die in dem betreffenden Land beziehungsweise der betreffenden internationalen Organisation geltenden Standesregeln und Sicherheitsvorschriften sowie die Existenz wirksamer und durchsetzbarer Rechte einschließlich wirksamer administrativer und gerichtlicher Rechtsbehelfe für betroffene Personen und insbesondere für in der Union ansässige betroffene Personen, deren personenbezogene Daten übermittelt werden;"
+		},
+		{
+			"lang": "fr",
+			"text": "la primauté du droit, la législation pertinente en vigueur, tant générale que sectorielle, notamment en ce qui concerne la sécurité publique, la défense, la sécurité nationale et le droit pénal, les règles professionnelles et les mesures de sécurité qui sont respectées dans le pays en question ou par l'organisation internationale en question, ainsi que l'existence de droits effectifs et opposables, y compris un droit de recours administratif et judiciaire effectif des personnes concernées, notamment celles ayant leur résidence sur le territoire de l'Union et dont les données à caractère personnel sont transférées;"
+		},
+		{
+			"lang": "es",
+			"text": "el Estado de Derecho, la legislación pertinente en vigor, tanto general como sectorial, en particular en lo que respecta a la seguridad pública, la defensa, la seguridad nacional y el Derecho penal, las normas profesionales y las medidas de seguridad en vigor en el país de que se trate o aplicables a la organización internacional en cuestión, así como los derechos efectivos y exigibles, incluido el derecho de recurso administrativo y judicial efectivo de los interesados, en particular los residentes en la Unión cuyos datos personales estén siendo transferidos;"
+		},
+		{
+			"lang": "pt",
+			"text": "O primado do Estado de direito, a legislação relevante em vigor, geral ou setorial, incluindo no que respeita à segurança pública, à defesa, à segurança nacional e ao direito penal, às regras profissionais e às medidas de segurança que são respeitadas nesse país ou por essa organização internacional, bem como a existência de direitos efetivos e oponíveis, incluindo vias de recurso administrativo e judicial para os titulares de dados, nomeadamente para as pessoas residentes na União cujos dados pessoais sejam objeto de transferência;"
+		},
+		{
+			"lang": "it",
+			"text": "lo stato di diritto, la pertinente legislazione generale e settoriale vigente, anche in materia penale, di pubblica sicurezza, difesa e sicurezza nazionale, le regole professionali e le misure di sicurezza osservate nel paese terzo o dall’organizzazione internazionale in questione, nonché i diritti effettivi e azionabili, compreso il diritto degli interessati a un ricorso effettivo in sede amministrativa e giudiziaria, in particolare quelli che risiedono nell’Unione e i cui dati personali sono oggetto di trasferimento;"
+		},
+		{
+			"lang": "ga",
+			"text": "an smacht reachta, reachtaíocht ábhartha atá i bhfeidhm, idir reachtaíocht ghinearálta agus reachtaíocht earnálach, lena n‑áirítear reachtaíocht a bhaineann le slándáil phoiblí, cosaint, slándáil náisiúnta agus dlí coiriúil, na rialacha gairmiúla agus na bearta slándála a chomhlíontar sa tír sin nó maidir leis an eagraíocht idirnáisiúnta sin, agus cearta éifeachtacha infhorfheidhmithe lena n‑áirítear cearta maidir le sásamh éifeachtach riaracháin agus breithiúnach do dhaoine is ábhar do shonraí, go háirithe do na daoine sin a bhfuil cónaí orthu san Aontas agus a bhfuil a sonraí pearsanta á n‑aistriú ;"
+		},
+		{
+			"lang": "cs",
+			"text": "právnímu státu, související platné legislativě, a to obecné i odvětvové, včetně právních předpisů o veřejné bezpečnosti, obraně a vnitrostátní bezpečnosti, trestnímu právu; profesním pravidlům a bezpečnostním opatřením, která jsou v dané zemi nebo dané mezinárodní organizaci dodržována, jakož i k účinným a vynutitelným právům včetně účinné správní a soudní nápravy pro subjekty údajů, zejména pro ty z nich, jež mají bydliště v Unii a jejichž osobní údaje jsou předávány;"
+		},
+		{
+			"lang": "da",
+			"text": "retsstatsprincippet, gældende lovgivning, både almindelig og sektorbestemt, herunder vedrørende offentlig sikkerhed, forsvar, statens sikkerhed og strafferet, regler for god forretningsskik og de sikkerhedsforanstaltninger, der gælder i tredjelandet eller den internationale organisation, samt effektive rettigheder, der kan håndhæves retsligt, herunder effektiv klageadgang for registrerede, navnlig registrerede, der er bosiddende i Unionen, hvis person­oplysninger videregives"
+		},
+		{
+			"lang": "et",
+			"text": "õigusriigi põhimõte, nii üldised kui ka konkreetse sektori kehtivad asjaomased õigusaktid, sealhulgas avaliku korra, riigikaitse, riigi julgeoleku ja kriminaalõigusega seotud õigusaktid, kõnealuses riigis või rahvusvahelises organisatsioonis järgitavad ametieeskirjad ja turvameetmed ning samuti kehtivad ja kohtulikult kaitstavad õigused, sealhulgas andmesubjektide halduslikud ja õiguskaitsevahendid, eelkõige nende liidus elavate andmesubjektide puhul, kelle isikuandmeid edastatakse;"
+		},
+		{
+			"lang": "el",
+			"text": "α) το κράτος δικαίου, τη σχετική ισχύουσα νομοθεσία, τόσο γενική όσο και τομεακή, μεταξύ άλλων όσον αφορά τη δημόσια ασφάλεια, την άμυνα, την εθνική ασφάλεια και το ποινικό δίκαιο, τους επαγγελματικούς κανόνες και τα μέτρα ασφάλειας τα οποία τηρούνται στη συγκεκριμένη χώρα ή από τον συγκεκριμένο διεθνή οργανισμό, τα ουσιαστικά δικαιώματα τα οποία μπορούν να τύχουν δικαστικής προστασίας, συμπεριλαμβανομένων ουσιαστικών διοικητικών και δικαστικών μέσων προσφυγής για τα πρόσωπα στα οποία αναφέρονται τα δεδομένα, ιδίως για εκείνα τα πρόσωπα που διαμένουν στην Ένωση των οποίων τα δεδομένα προσωπικού χαρακτήρα διαβιβάζονται·"
+		},
+		{
+			"lang": "bg",
+			"text": "а) принципите на правовата държава, съответното действащо законодателство, както общото, така и секторното, включително това, което се отнася до обществената сигурност, отбраната, националната сигурност и наказателното право, професионалните правила и мерките за сигурност, които се спазват в тази държава или от тази международна организация, както и действителните и противопоставимите права, включително правото на ефективна административна и съдебна защита за субектите на данни, по-специално за тези субекти на данни с местоживеене в Съюза, чиито лични данни се предават;"
+		},
+		{
+			"lang": "hu",
+			"text": "a jogállamiság, a hatályos általános és ágazati jogszabályok, köztük a közbiztonságra, védelemre, nemzetbiztonságra vonatkozó és a büntetőjogi rendelkezések, foglalkozási szabályok, valamint az adott országban vagy nemzetközi szervezetben érvényesülő biztonsági intézkedések; továbbá az érintettek – különösen azon Unióban lakóhellyel rendelkező érintettek, akiknek személyes adatait továbbítják – hatékony és érvényesíthető – a hatékony közigazgatási és bírósági jogorvoslatot is magukban foglaló – jogai;"
+		},
+		{
+			"lang": "mt",
+			"text": "l-istat tad-dritt, il-leġiżlazzjoni rilevanti fis-seħħ, kemm ġenerali kif ukoll settorjali, inkluż rigward is-sigurtà pubblika, id-difiża, is-sigurtà nazzjonali u l-liġi kriminali, ir-regoli professjonali u l-miżuri ta’ sigurtà li huma mħarsa f’dak il-pajjiż jew minn dik l-organizzazzjoni internazzjonali; kif ukoll drittijiet effettivi u infurzabbli inkluż rimedju amministrattiv u ġudizzjarju effettiv għal suġġetti tad-dejta, b’mod partikolari għal dawk is-suġġetti tad-dejta li qegħdin jgħixu fl-Unjoni, li d-dejta personali tagħhom tkun sejra tiġi ttrasferita;"
+		},
+		{
+			"lang": "lv",
+			"text": "tiesiskuma princips, spēkā esošie attiecīgie tiesību akti – gan vispārīgie, gan nozaru – ietverot arī tos, kas attiecas uz sabiedrības drošību, aizsardzību, valsts drošību un krimināltiesībām, profesionālie noteikumi un drošības pasākumi, kurus ievēro šajā valstī vai starptautiskajā organizācijā, kā arī tiesību efektivitāte un īstenojamība, ietverot efektīvus datu subjektu tiesībaizsardzības līdzekļus gan administratīvā kārtā, gan tiesā un jo īpaši attiecībā uz tiem datu subjektiem, kas dzīvo Savienībā un kuru datus nosūta;"
+		},
+		{
+			"lang": "ro",
+			"text": "statul de drept, legislația relevantă în vigoare, atât cea generală, cât și cea specifică, inclusiv cea referitoare la securitatea publică, apărare, securitatea națională și dreptul penal, normele profesionale și măsurile de securitate care sunt respectate în țara respectivă sau de respectiva organizație internațională, precum și drepturile efective și opozabile, inclusiv căile de atac administrative și judiciare efective ale persoanelor vizate, în special în cazul persoanelor vizate care au reședința în Uniune și ale căror date cu caracter personal sunt transferate;"
+		},
+		{
+			"lang": "sk",
+			"text": "právny štát, príslušné platné právne predpisy, všeobecné aj odvetvové, vrátane predpisov týkajúcich sa verejnej bezpečnosti, obrany, národnej bezpečnosti a trestného práva, profesijné pravidlá a bezpečnostné opatrenia, ktoré táto krajina alebo medzinárodná organizácia dodržiava, ako aj účinné a vymáhateľné práva vrátane účinných správnych a súdnych prostriedkov nápravy pre dotknuté osoby, najmä pre dotknuté osoby s bydliskom v Únii, ktorých osobné údaje sú predmetom prenosu;"
+		},
+		{
+			"lang": "sl",
+			"text": "načelo pravne države, ustrezno veljavno zakonodajo, tako splošno kot sektorsko, tudi glede javne varnosti, obrambe, nacionalne varnosti in kazenskega prava, poklicnih pravil in varnostnih ukrepov, ki se upoštevajo v navedeni državi ali mednarodni organizaciji, prav tako učinkovite in izvršljive pravice, vključno z učinkovitim upravnim in sodnim varstvom za posameznike, na katere se nanašajo osebni podatki, zlasti za tiste posameznike, na katere se nanašajo osebni podatki, ki imajo stalno prebivališče v Uniji in katerih osebni podatki se prenašajo;"
+		},
+		{
+			"lang": "fi",
+			"text": "oikeusvaltioperiaate, voimassa oleva yleinen ja alakohtainen lainsäädäntö, joka koskee muun muassa yleistä turvallisuutta, puolustusta, kansallista turvallisuutta ja rikosoikeutta sekä ammatillisia sääntöjä ja suojatoimia, joita kyseisessä maassa tai kansainvälisessä järjestössä noudatetaan, sekä tehokkaat ja täytäntöönpanokelpoiset oikeudet, kuten tehokkaat hallinnolliset ja oikeudelliset muutoksenhakukeinot rekisteröityjä ja erityisesti niitä unionin alueella asuvia rekisteröityjä varten, joiden tietoja siirretään;"
+		},
+		{
+			"lang": "pl",
+			"text": "praworządność, ogólne i sektorowe przepisy obowiązujące w tym zakresie, w tym dotyczące bezpieczeństwa publicznego, obronności, bezpieczeństwa narodowego i prawa karnego, zasad wykonywania zawodu i środków bezpieczeństwa, które są przestrzegane w tym państwie lub organizacji międzynarodowej, a także skuteczne i egzekwowalne prawa, w tym prawa do skutecznych administracyjnych i sądowych środków ochrony prawnej przysługujące podmiotom danych, w szczególności tym podmiotom danych mającym miejsce zamieszkania w Unii, których dane osobowe są przekazywane;"
+		},
+		{
+			"lang": "lt",
+			"text": "teisinė valstybė, susiję galiojantys bendrieji ir atskiriems sektoriams skirti teisės aktai, be kita ko, susiję su visuomenės saugumu, gynyba, nacionaliniu saugumu ir baudžiamąja teise, profesinės taisyklės ir saugumo priemonės, kurios taikomos toje šalyje arba tarptautinėje organizacijoje, taip pat veiksmingos ir įgyvendinamos teisės, įskaitant veiksmingas administracines ir teismines teisių gynimo priemones, visų pirma Sąjungoje gyvenantiems duomenų subjektams, kurių asmens duomenys yra perduodami;"
+		},
+		{
+			"lang": "nl",
+			"text": "de rechtsstaat, de relevante geldende algemene en sectorale wetgeving, onder meer inzake openbare veiligheid, defensie, nationale veiligheid en strafrecht, de beroepscodes en de veiligheidsmaatregelen die in het betrokken derde land of de betrokken internationale organisatie worden nageleefd, alsook het bestaan van effectieve en afdwingbare rechten, waaronder effectieve mogelijkheden voor betrokkenen om administratief beroep of beroep in rechte in te stellen, met name voor in de Unie wonende betrokkenen wier persoonsgegevens worden doorgegeven;"
+		},
+		{
+			"lang": "sv",
+			"text": "rättsstatsprincipen, befintlig allmän och sektorsspecifik lagstiftning inom områden som allmän säkerhet, försvar, nationell säkerhet och straffrätt, yrkesregler och säkerhetsbestämmelser som ska följas i det tredjeland eller inom den internationella organisation som berörs, huruvida det finns faktiska och lagstadgade rättigheter inklusive tillgång till effektiv administrativ eller rättslig prövning för de registrerade, i synnerhet för registrerade som är bosatta inom Europeiska unionen och vars personuppgifter överförs,"
+		}
+	],
+	"children": [],
+	"title": "Article 41 – Paragraph 2 – Point 1"
+}

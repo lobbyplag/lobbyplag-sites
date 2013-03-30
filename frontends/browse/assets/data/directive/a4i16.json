@@ -1,0 +1,102 @@
+{
+	"id": "a4i16",
+	"type": "point",
+	"literal": "16",
+	"parent": "a4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "'group of undertakings' means a controlling undertaking and its controlled undertakings;"
+		},
+		{
+			"lang": "de",
+			"text": "„Unternehmensgruppe“ eine Gruppe, die aus einem herrschenden Unternehmen und den von diesem abhängigen Unternehmen besteht;"
+		},
+		{
+			"lang": "fr",
+			"text": "«groupe d'entreprises»: une entreprise qui exerce le contrôle et les entreprises qu'elle contrôle;"
+		},
+		{
+			"lang": "es",
+			"text": "«grupo de empresas»: un grupo que comprenda una empresa que ejerce el control y las empresas controladas;"
+		},
+		{
+			"lang": "pt",
+			"text": "«Grupo de empresas», um grupo composto pela empresa que exerce o controlo e pelas empresas controladas;"
+		},
+		{
+			"lang": "it",
+			"text": "“gruppo di imprese”: un gruppo costituito da un’impresa controllante e dalle imprese da questa controllate;"
+		},
+		{
+			"lang": "ga",
+			"text": "ciallaíonn 'grúpa gnóthas’ gnóthas rialaitheach agus a ghnóthais atá faoi rialú;"
+		},
+		{
+			"lang": "cs",
+			"text": "„skupinou podniků“ skupina zahrnující řídící podnik a jím řízené podniky;"
+		},
+		{
+			"lang": "da",
+			"text": "&quot;koncern&quot;: en virksomhed, der udøver kontrol, og de af denne kontrollerede virksomheder"
+		},
+		{
+			"lang": "et",
+			"text": "„kontsern” – kontrolliv ettevõtja ja tema kontrolli all olevad ettevõtjad;"
+		},
+		{
+			"lang": "el",
+			"text": "«όμιλος επιχειρήσεων»: μια ελέγχουσα επιχείρηση και οι ελεγχόμενες από αυτήν επιχειρήσεις·"
+		},
+		{
+			"lang": "bg",
+			"text": "„група предприятия“ означава контролиращо предприятие и контролираните от него предприятия;"
+		},
+		{
+			"lang": "hu",
+			"text": "„vállalkozáscsoport”: az ellenőrző vállalkozás és az ellenőrzése alatt álló vállalkozások;"
+		},
+		{
+			"lang": "mt",
+			"text": "‘grupp ta’ impriżi’ tfisser impriża li tikkontrolla u l-impriżi kkontrollati minnha;"
+		},
+		{
+			"lang": "lv",
+			"text": "&quot;uzņēmumu grupa&quot; ir kontrolējošais uzņēmums un tā kontrolētie uzņēmumi;"
+		},
+		{
+			"lang": "ro",
+			"text": "„grup de întreprinderi” înseamnă o întreprindere care exercită controlul și întreprinderile controlate de aceasta;"
+		},
+		{
+			"lang": "sk",
+			"text": "„skupina podnikov“ znamená kontrolujúci podnik a ním kontrolované podniky;"
+		},
+		{
+			"lang": "sl",
+			"text": "„povezane družbe“ pomenijo obvladujočo družbo in njene odvisne družbe;"
+		},
+		{
+			"lang": "fi",
+			"text": "’yritysryhmällä’ määräysvaltaa käyttävää yritystä ja sen määräysvallassa olevia yrityksiä;"
+		},
+		{
+			"lang": "pl",
+			"text": "„grupa przedsiębiorstw” oznacza przedsiębiorstwo sprawujące kontrolę oraz przedsiębiorstwa kontrolowane;"
+		},
+		{
+			"lang": "lt",
+			"text": "įmonių grupė – valdančioji įmonė ir jos valdomos įmonės;"
+		},
+		{
+			"lang": "nl",
+			"text": "“groep van ondernemingen”: een onderneming die zeggenschap uitoefent en de ondernemingen waarover die zeggenschap wordt uitgeoefend;"
+		},
+		{
+			"lang": "sv",
+			"text": "företagsgrupp: ett kontrollerande företag och dess kontrollerade företag."
+		}
+	],
+	"children": [],
+	"title": "Article 4 – Point 16"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "r34",
+	"type": "recital",
+	"literal": "34",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Consent should not provide a valid legal ground for the processing of personal data, where there is a clear imbalance between the data subject and the controller. This is especially the case where the data subject is in a situation of dependence from the controller, among others, where personal data are processed by the employer of employees' personal data in the employment context. Where the controller is a public authority, there would be an imbalance only in the specific data processing operations where the public authority can impose an obligation by virtue of its relevant public powers and the consent cannot be deemed as freely given, taking into account the interest of the data subject."
+		},
+		{
+			"lang": "de",
+			"text": "Die Einwilligung liefert keine rechtliche Handhabe für die Verarbeitung personenbezogener Daten, wenn zwischen der Position der betroffenen Person und des für die Verarbeitung Verantwortlichen ein klares Ungleichgewicht besteht. Dies ist vor allem dann der Fall, wenn sich die betroffene Person in einem Abhängigkeitsverhältnis von dem für die Verarbeitung Verantwortlichen befindet, zum Beispiel dann, wenn personenbezogene Daten von Arbeitnehmern durch den Arbeitgeber im Rahmen von Beschäftigungsverhältnissen verarbeitet werden. Handelt es sich bei dem für die Verarbeitung Verantwortlichen um eine Behörde, bestünde ein Ungleichgewicht nur bei Verarbeitungsvorgängen, bei denen die Behörde aufgrund ihrer jeweiligen obrigkeitlichen Befugnisse eine Verpflichtung auferlegen kann und deshalb die Einwilligung nicht als ohne Zwang abgegeben gelten kann, wobei die Interessen der betroffenen Person zu berücksichtigen sind."
+		},
+		{
+			"lang": "fr",
+			"text": "Le consentement ne devrait pas constituer un fondement juridique valable pour le traitement de données à caractère personnel lorsqu'il existe un déséquilibre manifeste entre la personne concernée et le responsable du traitement, surtout lorsque la première se trouve dans une situation de dépendance par rapport au second, notamment lorsque les données à caractère personnel concernent le salarié et sont traitées par son employeur dans le cadre de leur relation de travail. Lorsque le responsable du traitement est une autorité publique, il n’y a déséquilibre que dans le cas d’opérations de traitement spécifiques dans le cadre desquelles l’autorité publique peut, en vertu de ses prérogatives de puissance publique, imposer une obligation. Dans ce cas, le consentement ne saurait être réputé librement consenti, compte tenu de l’intérêt de la personne concernée."
+		},
+		{
+			"lang": "es",
+			"text": "El consentimiento no debe constituir un fundamento jurídico válido para el tratamiento de datos de carácter personal cuando exista un desequilibro claro entre el interesado y el responsable del tratamiento. Así sucede especialmente cuando el primero se encuentra en una situación de dependencia respecto del segundo, por ejemplo, cuando los datos personales de los trabajadores son tratados por el empresario en el contexto laboral. Cuando el responsable del tratamiento sea una autoridad pública, solo habría desequilibrio en las operaciones específicas de tratamiento de datos en las que la autoridad pública puede imponer una obligación en virtud de sus poderes públicos correspondientes, sin que pueda considerarse el consentimiento libremente dado, teniendo en cuenta el interés del interesado."
+		},
+		{
+			"lang": "pt",
+			"text": "O consentimento não deve constituir um fundamento jurídico válido para o tratamento de dados pessoais se existir um desequilíbrio manifesto entre o titular dos dados e o responsável pelo tratamento, especialmente se o primeiro se encontrar numa situação de dependência em relação ao segundo, em especial quando os dados pessoais são tratados pelo seu empregador no contexto da relação laboral. Sempre que o responsável pelo tratamento é uma autoridade, só haveria desequilíbrio em caso de operações de tratamento específicas no âmbito das quais a autoridade possa, por força das suas prerrogativas de poder público, impor uma obrigação. Neste caso, o consentimento não seria considerado livremente consentido, tendo em conta o interesse do titular dos dados."
+		},
+		{
+			"lang": "it",
+			"text": "Il consenso non costituisce una valida base giuridica per il trattamento dei dati personali quando esiste un evidente squilibrio tra l’interessato e il responsabile del trattamento. Ciò avviene, in particolare, quando l’interessato si trova in situazione di dipendenza dal responsabile del trattamento, tra l’altro quando i dati personali di un dipendente sono trattati dal suo datore di lavoro nel contesto dei rapporti di lavoro. Se il responsabile del trattamento è un’autorità pubblica, vi è squilibrio soltanto nelle specifiche operazioni di trattamento in cui l’autorità pubblica può imporre un obbligo in forza dei suoi pubblici poteri; in tal caso, il consenso non può essere considerato libero, tenuto conto degli interessi dell’interessato."
+		},
+		{
+			"lang": "ga",
+			"text": "I gcás ina bhfuil éagothromaíocht shuntasach ann idir an duine is ábhar do na sonraí agus an rialaitheoir, níor cheart go mbeadh toiliú ina chúis bhailí dhlíthiúil le sonraí pearsanta a phróiseáil. Is amhlaidh an scéal go háirithe má tá an duine is ábhar do na sonraí spleách ar an rialaitheoir, mar shampla i gcás ina ndéanann an fostóir sonraí pearsanta a fhostaithe a phróiseáil i gcomhthéacs na fostaíochta. I gcás inar údarás poiblí é an rialaitheoir, ní bheadh éagothromaíocht ann ach amháin i gcás na n‑oibríochtaí próiseála sonraí sin inar féidir leis an údarás poiblí, de bhua a chumhachtaí ábhartha poiblí, oibleagáid a fhorchur. Sa chás sin ní féidir a mheas gur toilíodh leis an bpróiseáil faoi shaoirse, ag cur leas an duine is ábhar do na sonraí san áireamh."
+		},
+		{
+			"lang": "cs",
+			"text": "Vyjádření souhlasu nepředstavuje platný právní důvod zpracování osobních údajů, pokud mezi postavením subjektu údajů a správce existuje značná nerovnováha. Jedná se zejména o případ, kdy je subjekt údajů závislý na správci, například pokud osobní údaje zaměstnanců v souvislosti se zaměstnáním zpracovává zaměstnavatel. Pokud je správce orgánem veřejné moci, došlo by k nerovnováze pouze při zpracovávání specifických údajů, při němž orgán veřejné moci může na základě svých příslušných veřejných pravomocí uložit povinnost a souhlas nemůže být považován za svobodně vyjádřený souhlas, přičemž je třeba vzít v úvahu zájmy subjektu údajů."
+		},
+		{
+			"lang": "da",
+			"text": "Samtykke bør ikke udgøre et gyldigt retligt grundlag, hvis der er en klar skævhed mellem den registrerede og den registeransvarlige. Dette er navnlig tilfældet, når den registrerede befinder sig i et afhængighedsforhold til den registeransvarlige, bl.a. når person­oplysninger behandles af arbejdsgiveren som led i behandlingen af ansattes personoplysninger i et ansættelsesforhold. Hvis den registeransvarlige er en offentlig myndighed, vil der kun være en skævhed i forbindelse med den specifikke databe­handling, hvis den offentlige myndighed som følge af dens relevante offentlige beføjelser kan pålægge en forpligtelse, og samtykket ikke kan skønnes at være afgivet frivilligt under hensyntagen til den registreredes interesser."
+		},
+		{
+			"lang": "et",
+			"text": "Nõusolek ei tohiks anda isikuandmete töötlemiseks kehtivat õiguslikku alust, kui andmesubjekt ja vastutav töötleja on selgelt ebavõrdses olukorras. Nii on see eriti juhul, kui andmesubjekt sõltub vastutavast töötlejast, muu hulgas juhul, kui tööandja töötleb töövõtjate isikuandmeid töösuhte kontekstis. Juhul kui vastutav töötleja on avaliku sektori asutus, puudub tasakaal ainult selliste konkreetsete andmetöötlustoimingute puhul, mille juures avalik-õiguslik asutus saab kehtestada kohustuse oma asjakohastest avaliku võimu teostamise volitustest tulenevalt ja nõusolekut ei saa lugeda vabalt antuks, võttes arvesse andmesubjekti huve."
+		},
+		{
+			"lang": "el",
+			"text": "Η συγκατάθεση δεν πρέπει να παρέχει έγκυρο νομικό λόγο για την επεξεργασία δεδομένων προσωπικού χαρακτήρα, εάν υπάρχει σαφής ανισορροπία μεταξύ του προσώπου στο οποίο αναφέρονται τα δεδομένα και του υπευθύνου επεξεργασίας. Αυτό ισχύει ιδίως εάν το πρόσωπο στο οποίο αναφέρονται τα δεδομένα τελεί σε σχέση εξάρτησης από τον υπεύθυνο επεξεργασία, μεταξύ άλλων, εάν τα δεδομένα προσωπικού χαρακτήρα υποβάλλονται σε επεξεργασία από τον εργοδότη στο πλαίσιο της εργασιακής τους σχέσης. Εάν ο υπεύθυνος επεξεργασίας είναι δημόσια αρχή, ανισορροπία στις συγκεκριμένες πράξεις επεξεργασίας δεδομένων υπάρχει μόνον εάν η δημόσια αρχή μπορεί να επιβάλει μια υποχρέωση δυνάμει των σχετικών δημόσιων εξουσιών της και η συγκατάθεση δεν μπορεί να θεωρηθεί ότι παρέχεται ελεύθερα, λαμβάνοντας υπόψη το συμφέρον του προσώπου στο οποίο αναφέρονται τα δεδομένα."
+		},
+		{
+			"lang": "bg",
+			"text": "Съгласието не следва да представлява валидно правно основание за обработването на лични данни, когато е налице очевидна неравнопоставеност между субекта на данни и администратора. Такъв по-специално е случаят, когато субектът на данните е в положение на зависимост от администратора, например когато работодателят обработва личните данни на свой служител в контекста на трудово правоотношение. Когато администраторът е публичен орган, може да има неравнопоставеност само при особени операции по обработване на данни, в които публичният орган може да наложи задължение по силата на своите публични правомощия и съгласието не може да се счита за свободно изразено, като се има предвид интересът на субекта на данните."
+		},
+		{
+			"lang": "hu",
+			"text": "A hozzájárulás nem hoz létre érvényes jogalapot a személyes adatok feldolgozására, amennyiben egyértelmű kiegyensúlyozatlanság áll fenn az érintett és az adatkezelő között. Ez különösen fennáll, ha az érintett függő viszonyban van az adatkezelőtől, többek között, amikor a munkavállaló személyes adatait a munkáltató a munkaviszonnyal összefüggésben dolgozza fel. Amennyiben az adatfeldolgozó hatóság, csak akkor áll fenn kiegyensúlyozatlanság a konkrét adatfeldolgozási műveletek tekintetében, ha a hatóság a vonatkozó közhatalmi jogosítványai alapján kötelezettséget írhat elő, és a hozzájárulás nem tekinthető szabadon, az érintett érdekére figyelemmel megadottnak."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kunsens m’għandhux jipprovdi raġuni legali valida għall-ipproċessar tad-dejta personali, meta jkun hemm żbilanċ ċar bejn is-suġġett tad-dejta u l-kontrollur. Dan huwa speċjalment il-każ fejn is-suġġett tad-data jinsab f’sitwazzjoni ta’ dipendenza mill-kontrollur, fost oħrajn, fejn id-dejta personali hija pproċessata mill-impjegatur tad-dejta personali tal-impjegat fil-kuntest tal-impjieg. Fejn il-kontrullur huwa awtorità pubblika, jkun hemm żbilanċ biss fl-operazzjonijiet speċifiċi tal-ipproċessar tad-dejta fejn l-awtorità pubblika tista' timponi obbligu permezz tas-setgħat pubbliċi relevanti tagħha u l-kunsens ma jistax jitqies li ġie mogħti awtomatikament, filwaqt li jittiieħed kont tal-interessi tas-suġġett tad-dejta."
+		},
+		{
+			"lang": "lv",
+			"text": "Piekrišanai nebūtu jābūt par derīgu personas datu apstrādes juridisko pamatu arī tad, ja ir skaidri saskatāma nevienlīdzība datu subjekta un pārziņa attiecībās. Tas jo īpaši ir gadījumos, kad datu subjekts ir atkarīgs no pārziņa, cita starpā, ja personas datu apstrāde izpaužas kā darbinieka personas datu apstrāde, ko veic darba devējs darba attiecību kontekstā. Ja pārzinis ir valsts iestāde nevienlīdzība būtu saskatāma tikai īpašās datu apstrādes darbībās, kad valsts iestāde var uzlikt pienākumu, pamatojoties uz savām valsts iestādes pilnvarām, un piekrišanu nevar uzskatīt par brīvu, ņemot vērā datu subjekta intereses."
+		},
+		{
+			"lang": "ro",
+			"text": "Consimțământul nu ar trebui să constituie un temei juridic valabil pentru prelucrarea datelor cu caracter personal în cazul în care există un dezechilibru evident între persoana vizată și operator. Acest lucru este valabil, în special, atunci când persoana vizată se află într-o situație de dependență în raport cu operatorul, printre altele, în cazul în care datele cu caracter personal ale angajaților sunt prelucrate de către angajator în contextul ocupării unui loc de muncă. În cazul în care operatorul este o autoritate publică, nu ar exista un dezechilibru decât în ceea ce privește operațiuni specifice de prelucrare a datelor în cadrul cărora autoritatea publică poate impune o obligație în temeiul competențelor sale publice relevante, iar consimțământul nu poate fi considerat ca fiind acordat în mod liber, ținându-se cont de interesul persoanei vizate."
+		},
+		{
+			"lang": "sk",
+			"text": "Súhlas by nemal byť platným právnym dôvodom na spracovanie osobných údajov, ak medzi postavením dotknutej osoby a prevádzkovateľa existuje jednoznačný nepomer. Týka sa to najmä situácie, keď je dotknutá osoba závislá od prevádzkovateľa, okrem iného, keď osobné údaje zamestnancov sú spracúvané zamestnávateľom v súvislosti s ich zamestnávaním. Ak je prevádzkovateľom verejný orgán, nepomer by nastal iba pri určitých operáciách spracovania údajov, pri ktorých verejný orgán môže uložiť zo svojej úradnej moci povinnosť a súhlas tak nemožno pokladať za dobrovoľne udelený z hľadiska záujmov dotknutej osoby."
+		},
+		{
+			"lang": "sl",
+			"text": "Privolitev ne bi smela pomeniti veljavne pravne podlage za obdelavo osebnih podatkov, če obstaja očitno neravnovesje med posameznikom, na katerega se nanašajo osebni podatki, in upravljavcem. To velja zlasti, kadar je posameznik, na katerega se nanašajo osebni podatki, odvisen od upravljavca, med drugim, kadar osebne podatke zaposlenega v okviru zaposlitve obdeluje delodajalec. Kadar je upravljavec javni organ, bi neravnovesje obstajalo samo v primeru posebnih postopkov obdelave podatkov, ko lahko javni organ s svojimi zadevnimi javnimi pooblastili uvede obveznost in se ob upoštevanju interesa posameznika, na katerega se nanašajo osebni podatki, za privolitev ne more šteti, da je dana prostovoljno."
+		},
+		{
+			"lang": "fi",
+			"text": "Suostumuksen ei pitäisi muodostaa pätevää oikeudellista perustetta henkilötietojen käsittelylle, jos rekisteröidyn ja rekisterinpitäjän välillä on selkeä epäsuhta. Näin on erityisesti siinä tapauksessa, että rekisteröity on riippuvuussuhteessa rekisterinpitäjään, esimerkiksi kun työnantaja käsittelee työntekijöiden henkilötietoja työsuhteen yhteydessä. Jos rekisterinpitäjä on viranomainen, epäsuhta liittyisi vain erityisiin tietojenkäsittelytoimiin, joiden yhteydessä viranomainen voi määrätä velvoitteen asiaa koskevien julkisten toimivaltuuksiensa nojalla eikä suostumusta voida katsoa annetun vapaaehtoisesti, kun otetaan huomioon rekisteröidyn edut."
+		},
+		{
+			"lang": "pl",
+			"text": "Zgoda nie powinna stanowić ważnej podstawy prawnej przetwarzania danych osobowych w sytuacji wyraźnego braku równowagi między podmiotem danych a administratorem. Dotyczy to w szczególności przypadku, gdy między podmiotem danych a administratorem istnieje stosunek zależności, między innymi wtedy, gdy dane osobowe pracowników są przetwarzane przez pracodawcę w kontekście zatrudnienia Jeśli administrator jest organem publicznym, brak równowagi wystąpiłby wyłącznie w przypadku operacji przetwarzania szczególnych danych, gdy organ publiczny może nałożyć obowiązek na mocy odpowiednich uprawnień publicznych a zgody nie można uznać za wyrażoną dobrowolnie, uwzględniając interes podmiotu danych."
+		},
+		{
+			"lang": "lt",
+			"text": "sutikimas neturėtų būti laikomas galiojančiu asmens duomenų tvarkymo teisiniu pagrindu, kai yra aiškus duomenų subjekto ir duomenų valdytojo padėties disbalansas. Tai yra visų pirma tuomet, kai duomenų subjektas yra priklausomas nuo duomenų valdytojo, pavyzdžiui, kai palaikant darbo santykius darbuotojo asmens duomenis tvarko darbdavys. Kai duomenų valdytojas yra valdžios institucija, disbalansas atsirastų tik atliekant tokias specialias tvarkymo operacijas, kurių atveju valdžios institucija, remdamasi savo viešaisiais įgaliojimais, gali nustatyti pareigą ir sutikimas negali būti laikomas savanorišku, atsižvelgiant į duomenų subjekto interesus;"
+		},
+		{
+			"lang": "nl",
+			"text": "Toestemming kan geen rechtsgrondslag voor verwerking zijn wanneer er sprake is van een duidelijke onevenwichtigheid tussen de betrokkene en de voor de verwerking verantwoordelijke. Dit is met name het geval wanneer de betrokkene zich in een situatie van afhankelijkheid jegens de voor de verwerking verantwoordelijke bevindt, bijvoorbeeld als zijn persoonsgegevens worden verwerkt door zijn werkgever. Wanneer de voor de verwerking verantwoordelijke een overheidsinstantie is, zou er alleen sprake zijn van een onevenwichtigheid bij specifieke gegevensverwerkingsoperaties als deze overheidsinstantie krachtens haar overheidsbevoegdheden een verplichting kan opleggen en de toestemming niet kan worden beschouwd als uit vrije wil gegeven, gelet op het belang van de betrokkene."
+		},
+		{
+			"lang": "sv",
+			"text": "Samtycke bör inte utgöra giltig rättslig grund för behandling av personuppgifter om det finns en betydande obalans mellan den registrerade och den registeransvarige. Detta är särskilt fallet när den registrerade befinner sig i ett beroendeförhållande till den registeransvarige, bl.a. när arbetstagares personuppgifter behandlas av arbetsgivare inom ramen för en anställning. Är den registeransvarige en myndighet torde obalans endast uppkomma vid specifika uppgiftsbehandlingar där myndigheten i kraft av sina offentliga befogenheter kan ålägga skyldigheter och samtycket, med hänsyn tagen till den registrerades intresse, inte kan anses ha lämnats frivilligt."
+		}
+	],
+	"children": [],
+	"title": "Recital 34"
+}

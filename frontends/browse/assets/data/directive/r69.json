@@ -1,0 +1,102 @@
+{
+	"id": "r69",
+	"type": "recital",
+	"literal": "69",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "In setting detailed rules concerning the format and procedures applicable to the notification of personal data breaches, due consideration should be given to the circumstances of the breach, including whether or not personal data had been protected by appropriate technical protection measures, effectively limiting the likelihood of identity fraud or other forms of misuse. Moreover, such rules and procedures should take into account the legitimate interests of law enforcement authorities in cases where early disclosure could unnecessarily hamper the investigation of the circumstances of a breach."
+		},
+		{
+			"lang": "de",
+			"text": "Bei der detaillierten Regelung des Formats und der Verfahren für die Meldung von Verletzungen des Schutzes personenbezogener Daten sollten die Umstände der Verletzung hinreichend berücksichtigt werden, beispielsweise ob personenbezogene Daten durch geeignete technische Sicherheitsvorkehrungen geschützt waren, die die Wahrscheinlichkeit eines Identitätsbetrugs oder anderer Formen des Datenmissbrauchs wirksam verringern. Überdies sollten solche Regeln und Verfahren den berechtigten Interessen der Strafverfolgungsbehörden in Fällen Rechnung tragen, in denen die Untersuchung der Umstände der Verletzung durch ein frühzeitiges Bekanntwerden in unnötiger Weise behindert würde."
+		},
+		{
+			"lang": "fr",
+			"text": "Lors de la fixation des règles détaillées concernant la forme et les procédures applicables à la notification des violations de données à caractère personnel, il convient de tenir dûment compte des circonstances de la violation, notamment du fait que les données à caractère personnel étaient ou non protégées par des mesures de protection techniques appropriées limitant efficacement le risque d’usurpation d’identité ou d’autres formes d’abus. Par ailleurs, ces règles et procédures devraient tenir compte des intérêts légitimes des autorités répressives dans les cas où une divulgation prématurée risquerait d’entraver inutilement l’enquête sur les circonstances de la violation."
+		},
+		{
+			"lang": "es",
+			"text": "Al establecer disposiciones de aplicación sobre el formato y los procedimientos aplicables a la notificación de las violaciones de datos personales, conviene tener debidamente en cuenta las circunstancias de la violación, incluyendo si los datos personales habían sido protegidos mediante las medidas técnicas de protección adecuadas, limitando eficazmente la probabilidad de usurpación de identidad u otras formas de uso indebido. Asimismo, estas normas y procedimientos deben tener en cuenta los intereses legítimos de los servicios con funciones coercitivas, en los casos en que una comunicación prematura pudiera obstaculizar innecesariamente la investigación de las circunstancias de la violación."
+		},
+		{
+			"lang": "pt",
+			"text": "Ao estabelecer regras pormenorizadas relativamente ao formato e aos procedimentos aplicáveis à notificação das violações de dados pessoais, deve ter-se devidamente em conta as circunstâncias da violação, nomeadamente a existência ou não de proteção dos dados pessoais através de medidas técnicas de proteção adequadas para reduzir eficazmente a probabilidade de usurpação da identidade ou outras formas de utilização abusiva. Além disso, tais regras e procedimentos devem ter em conta os legítimos interesses das autoridades de aplicação da lei nos casos em que uma divulgação precoce de informações possa dificultar desnecessariamente a investigação das circunstâncias de uma violação."
+		},
+		{
+			"lang": "it",
+			"text": "Nel definire modalità dettagliate relative al formato e alle procedure applicabili alla notificazione delle violazioni di dati personali, è opportuno tenere debitamente conto delle circostanze della violazione, ad esempio stabilire se i dati personali fossero o meno protetti con opportuni dispositivi tecnici atti a limitare efficacemente il rischio di furto d’identità o altre forme di abuso. Inoltre, è opportuno che tali modalità e procedure tengano conto dei legittimi interessi delle autorità giudiziarie e di polizia, nei casi in cui una divulgazione prematura possa ostacolare inutilmente l’indagine sulle circostanze di una violazione di sicurezza."
+		},
+		{
+			"lang": "ga",
+			"text": "Agus rialacha mionsonraithe a bhaineann leis an bhformáid agus nósanna imeachta is infheidhme maidir le fógairt sáruithe i ndáil le sonraí pearsanta á leagan síos, ba cheart aird chuí a thabhairt ar na dálaí faoina ndearnadh an sárú, lena n‑áirítear an raibh na sonraí pearsanta á gcosaint ag bearta iomchuí cosanta teicniúla, lenar cuireadh srian i gceart leis an dóchúlacht go ndéanfaí calaois aitheantais nó go mbainfí mí‑úsáid eile as na sonraí. Ina theannta sin, ba cheart a chur san áireamh sna rialacha agus sna nósanna imeachta sin leasanna dlisteanacha údarás forfheidhmithe dlí i gcásanna ina bhféadfadh fógairt luath cur isteach, gan chúis, ar dhálaí an tsáraithe a imscrúdú."
+		},
+		{
+			"lang": "cs",
+			"text": "Při vytváření podrobných pravidel týkajících se formy a postupů oznamování případů narušení bezpečnosti osobních údajů by měly být náležitě zohledněny okolnosti případu, včetně otázky, zda byly osobní údaje chráněny vhodnými technickými ochrannými opatřeními, jež pravděpodobnost zneužití totožnosti a jiných forem zneužívání účinně omezují. Tato pravidla a postupy by navíc měly vzít v úvahu oprávněné zájmy donucovacích orgánů v případech, kdy by předčasné zveřejnění mohlo zbytečně ztížit vyšetřování okolností narušení."
+		},
+		{
+			"lang": "da",
+			"text": "Når der fastsættes nærmere regler for, hvilket format og hvilke procedurer der skal anvendes ved anmeldelse af brud på persondatasikkerheden, bør der tages hensyn til omstændighederne ved sikkerhedsbruddet, herunder til om personoplysningerne var beskyttet ved passende tekniske beskyttelsesforanstaltninger, der effektivt begrænser sandsynligheden for identitetsmisbrug eller andre former for misbrug. Sådanne regler og procedurer bør endvidere tage hensyn til de retshåndhævende myndigheders legitime interesser, hvis tidlig meddelelse unødigt kan hæmme undersøgelsen af omstændighederne ved et brud."
+		},
+		{
+			"lang": "et",
+			"text": "Isikuandmetega seotud rikkumisest teatamise vormide ja korra kohta üksikasjalike eeskirjade koostamisel tuleks võtta arvesse ka rikkumise asjaolusid, sealhulgas seda, kas isikuandmed olid kodeeritud või mõnel muul sellisel moel kaitstud asjakohaste tehniliste kaitsemeetmetega, mis vähendab tõhusalt identiteedipettuse või muu väärkasutuse tõenäosust. Lisaks tuleks sellistes eeskirjades ja korras arvesse võtta õiguskaitseasutuste õigustatud huve juhtudel, kui varajane avalikustamine võib tarbetult takistada rikkumise asjaolude uurimist."
+		},
+		{
+			"lang": "el",
+			"text": "Κατά τη θέσπιση λεπτομερών κανόνων σχετικά με τον μορφότυπο και τις διαδικασίες που εφαρμόζονται στην γνωστοποίηση παραβιάσεων δεδομένων προσωπικού χαρακτήρα, πρέπει να λαμβάνονται δεόντως υπόψη οι συνθήκες της παραβίασης, συμπεριλαμβανομένου του κατά πόσον τα δεδομένα προσωπικού χαρακτήρα προστατεύονταν από κατάλληλα τεχνικά μέτρα προστασίας, περιορίζοντας ουσιαστικά το ενδεχόμενο υποκλοπής ταυτότητας ή άλλων μορφών κατάχρησης. Επιπλέον, οι εν λόγω κανόνες και οι διαδικασίες πρέπει να λαμβάνουν υπόψη τα έννομα συμφέροντα των αρχών επιβολής του νόμου σε περιπτώσεις στις οποίες η πρόωρη γνωστοποίηση μπορεί να εμποδίσει χωρίς λόγο τη διερεύνηση των συνθηκών μιας παραβίασης."
+		},
+		{
+			"lang": "bg",
+			"text": "При установяване на подробни правила за формàта и процедурите, приложими за уведомяването за нарушения на сигурността на личните данни, следва да се отдаде необходимото внимание на обстоятелствата, свързани с нарушението на сигурността, включително дали личните данни са били защитени чрез подходящи технически мерки за защита, ефективно ограничаващи вероятността за измама с фалшива самоличност или други форми на злоупотреба. Освен това при такива правила и процедури следва да се отчитат законните интереси на правоприлагащите органи в случаи, когато ранното разкриване може ненужно да попречи при разследването на обстоятелствата, свързани с нарушението на сигурността."
+		},
+		{
+			"lang": "hu",
+			"text": "A személyes adatok megsértéséről szóló értesítés formájára és az arra alkalmazandó eljárásokra vonatkozó részletes szabályok megállapításakor megfelelő figyelmet kell fordítani az adatsértés körülményeire, beleértve azt is, hogy a személyes adatokat védték‑e olyan megfelelő műszaki védelmi intézkedésekkel, amelyek hatékonyan korlátozzák a személyazonossággal való visszaélés vagy a visszaélés más formái előfordulásának valószínűségét. E szabályoknak és eljárásoknak figyelembe kell venniük továbbá a bűnüldöző hatóságok jogos érdekeit olyan esetekben, amikor az idő előtti feltárás szükségtelenül veszélyeztethetné az adatsértés körülményeinek kivizsgálását."
+		},
+		{
+			"lang": "mt",
+			"text": "Waqt l-iffissar ta’ regoli dettaljati dwar il-format u l-proċeduri applikabbli għan-notifika ta’ ksur ta’ dejta personali, għandha tingħata konsiderazzjoni xierqa liċ-ċirkostanzi tal-ksur, inkluż jekk id-dejta personali kinitx protetta b’miżuri xierqa ta’ protezzjoni teknika , li jnaqqsu b’mod effettiv il-possibbiltà ta’ frodi tal-identità jew forom oħra ta’ użu ħażin. Barra minn hekk, dawn ir-regoli u l-proċeduri għandhom iqisu l-interessi leġittimi tal-awtoritajiet tal-infurzar tal-liġi f’każijiet fejn l-iżvelar bikri jista’ jxekkel mingħajr bżonn l-investigazzjoni taċ-ċirkostanzi ta’ ksur."
+		},
+		{
+			"lang": "lv",
+			"text": "Nosakot sīki izstrādātus noteikumus par formātu un kārtību, kādā jāpaziņo par personas datu aizsardzības pārkāpumiem, būtu pienācīgi jāņem vērā apstākļi, kādos noticis pārkāpums, tostarp tas, vai personas dati ir bijuši aizsargāti ar piemērotiem tehniskiem aizsarglīdzekļiem, ar kuru palīdzību var efektīvi ierobežot identitātes viltošanas vai cita veida ļaunprātīgas izmantošanas iespējamību. Turklāt, izstrādājot šādus noteikumus un kārtību, būtu jāņem vērā tiesībaizsardzības iestāžu likumīgās intereses gadījumos, kad priekšlaicīga informācijas atklāšana varētu nevajadzīgi kavēt pārkāpuma apstākļu izmeklēšanu."
+		},
+		{
+			"lang": "ro",
+			"text": "La stabilirea de norme detaliate privind formatul și procedurile aplicabile notificării referitoare la încălcările securității datelor cu caracter personal, ar trebui să se acorde atenția cuvenită circumstanțelor în care a avut loc încălcarea, stabilindu-se inclusiv dacă protecția datelor cu caracter personal a fost sau nu a fost asigurată prin măsuri tehnice de protecție corespunzătoare, care să limiteze efectiv probabilitatea fraudării identității sau a altor forme de utilizare abuzivă. În plus, astfel de norme și proceduri ar trebui să țină cont de interesele legitime ale autorităților de aplicare a legii în cazurile în care divulgarea timpurie ar putea îngreuna în mod inutil investigarea circumstanțelor în care a avut loc o încălcare."
+		},
+		{
+			"lang": "sk",
+			"text": "Pri stanovovaní podrobných pravidiel týkajúcich sa formátu a postupov uplatniteľných na oznámenia o porušení ochrany osobných údajov je potrebné venovať veľkú pozornosť okolnostiam porušenia, ako aj tomu, či osobné údaje boli alebo neboli chránené primeranými technickými ochrannými opatreniami, ktoré účinne obmedzujú pravdepodobnosť podvodu alebo inej formy zneužitia. Takéto pravidlá a postupy by okrem toho mali zohľadňovať aj oprávnené záujmy orgánov presadzovania práva v prípadoch, v ktorých by predčasné zverejnenie informácií mohlo ľahko poškodiť vyšetrovanie okolností porušenia ochrany údajov."
+		},
+		{
+			"lang": "sl",
+			"text": "Pri določanju podrobnih pravil o obliki zapisa in postopkih, ki se uporabljajo za obvestilo o kršitvi varnosti osebnih podatkov, bi bilo treba ustrezno upoštevati okoliščine kršitve, vključno s tem, ali so bili osebni podatki zaščiteni z ustreznimi tehničnimi zaščitnimi ukrepi, ki učinkovito zmanjšujejo verjetnost zlorabe identitete ali drugih oblik zlorabe. Poleg tega bi bilo treba pri takih pravilih in postopkih upoštevati pravni interes organov kazenskega pregona, če bi zgodnje razkritje lahko po nepotrebnem oviralo preiskavo okoliščin kršitve."
+		},
+		{
+			"lang": "fi",
+			"text": "Laadittaessa yksityiskohtaisia sääntöjä henkilötietojen tietoturvaloukkausten ilmoittamisen muodosta ja ilmoittamisessa sovellettavista menettelyistä olisi otettava asianmukaisesti huomioon loukkaukseen liittyvät seikat, kuten se, oliko henkilötiedot suojattu asianmukaisin teknisin suojauskeinoin, mikä vähentää olennaisesti henkilötietopetoksen tai muiden väärinkäytösten todennäköisyyttä. Tällaisissa säännöissä ja menettelyissä olisi myös otettava huomioon lainvalvontaviranomaisten oikeutetut edut tapauksissa, joissa varhainen ilmoittaminen voisi tarpeettomasti haitata tietoturvaloukkauksen tutkimista."
+		},
+		{
+			"lang": "pl",
+			"text": "Przy określaniu szczegółowych przepisów dotyczących formy i procedur mających zastosowanie przy zawiadamianiu o naruszeniach ochrony danych osobowych należy odpowiednio uwzględnić okoliczności naruszenia, w tym zbadać, czy dane osobowe były zabezpieczone właściwymi technicznymi środkami ochrony, skutecznie ograniczającymi prawdopodobieństwo oszustwa dotyczącego tożsamości lub innych form nadużycia danych. W tych przepisach i procedurach należy ponadto uwzględnić słuszne interesy organów ścigania, w przypadkach gdy przedwczesne ujawnienie mogłoby niepotrzebnie utrudnić badanie okoliczności naruszenia."
+		},
+		{
+			"lang": "lt",
+			"text": "nustatant išsamias pranešimo apie asmens duomenų saugumo pažeidimą formos ir tvarkos taisykles, turėtų būti tinkamai atsižvelgiama į pažeidimo aplinkybes, įskaitant tai, ar asmens duomenys buvo apsaugoti tinkamomis techninėmis priemonėmis, veiksmingai ribojančiomis tapatybės klastojimo arba kitokio neteisėto naudojimo galimybę. Be to, nustatant tokias taisykles ir tvarką reikėtų atsižvelgti į teisėtus teisėsaugos institucijų interesus tais atvejais, kai ankstyvas informacijos apie incidentą paskelbimas galėtų bereikalingai sutrukdyti pažeidimo aplinkybių tyrimą;"
+		},
+		{
+			"lang": "nl",
+			"text": "Bij de vaststelling van gedetailleerde regels betreffende het formaat en de procedures voor het melden van inbreuken in verband met persoonsgegevens dient de nodige aandacht te worden besteed aan de omstandigheden van de inbreuk, onder meer aan de vraag of de persoonsgegevens al dan niet met behulp van adequate technische beschermingsmaatregelen waren beschermd zodat de waarschijnlijkheid van identiteitsfraude of andere vormen van misbreuk in de praktijk beperkt was. Bovendien dient bij dergelijke regels en procedures rekening te worden gehouden met de gerechtvaardigde belangen van de rechtshandhavingsautoriteiten in gevallen waarin vroegtijdige verstrekking het onderzoek naar de omstandigheden van een inbreuk nodeloos zou hinderen."
+		},
+		{
+			"lang": "sv",
+			"text": "När ingående regler fastställs för format och förfaranden för anmälan av personuppgiftsbrott, bör vederbörlig hänsyn tas till omständigheterna kring brottet, däribland om personuppgifterna var skyddade av lämpliga tekniska skyddsåtgärder som betydligt begränsar sannolikheten för identitetsbedrägeri eller andra former av missbruk. Dessutom bör sådana regler och förfaranden beakta brottsbekämpande myndigheters berättigade intressen i fall där en för tidig redovisning kan riskera att i onödan hämma utredning av omständigheterna kring ett brott."
+		}
+	],
+	"children": [],
+	"title": "Recital 69"
+}

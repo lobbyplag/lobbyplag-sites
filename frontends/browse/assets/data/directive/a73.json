@@ -1,0 +1,106 @@
+{
+	"id": "a73",
+	"type": "article",
+	"literal": "73",
+	"parent": "c8",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Right to lodge a complaint with a supervisory authority"
+		},
+		{
+			"lang": "de",
+			"text": "Recht auf Beschwerde bei einer Aufsichtsbehörde"
+		},
+		{
+			"lang": "fr",
+			"text": "Droit d’introduire une réclamation auprès d'une autorité de contrôle"
+		},
+		{
+			"lang": "es",
+			"text": "Derecho a presentar una reclamación ante una autoridad de control"
+		},
+		{
+			"lang": "pt",
+			"text": "Direito de apresentar queixa a uma autoridade de controlo"
+		},
+		{
+			"lang": "it",
+			"text": "Diritto di proporre reclamo all’autorità di controllo"
+		},
+		{
+			"lang": "ga",
+			"text": "Ceart chun gearán a dhéanamh le húdarás maoirseachta"
+		},
+		{
+			"lang": "cs",
+			"text": "Právo vznést stížnost k orgánu dozoru"
+		},
+		{
+			"lang": "da",
+			"text": "Ret til at indgive klage til tilsynsmyndigheden"
+		},
+		{
+			"lang": "et",
+			"text": "Õigus esitada järelevalveasutusele kaebus"
+		},
+		{
+			"lang": "el",
+			"text": "Δικαίωμα υποβολής καταγγελίας σε αρχή ελέγχου"
+		},
+		{
+			"lang": "bg",
+			"text": "Право на подаване на жалба до надзорен орган"
+		},
+		{
+			"lang": "hu",
+			"text": "A felügyelő bizottsághoz címzett panasz benyújtásához való jog"
+		},
+		{
+			"lang": "mt",
+			"text": "Dritt li jitressaq ilment quddiem awtorità ta’ superviżjoni"
+		},
+		{
+			"lang": "lv",
+			"text": "Tiesības iesniegt sūdzību uzraudzības iestādē"
+		},
+		{
+			"lang": "ro",
+			"text": "Dreptul de a depune o plângere la o autoritate de supraveghere"
+		},
+		{
+			"lang": "sk",
+			"text": "Právo podať sťažnosť dozornému orgánu"
+		},
+		{
+			"lang": "sl",
+			"text": "Pravica do vložitve pritožbe pri nadzornem organu"
+		},
+		{
+			"lang": "fi",
+			"text": "Oikeus tehdä valitus valvontaviranomaiselle"
+		},
+		{
+			"lang": "pl",
+			"text": "Prawo do złożenia skargi do organu nadzorczego"
+		},
+		{
+			"lang": "lt",
+			"text": "Teisė pateikti skundą priežiūros institucijai"
+		},
+		{
+			"lang": "nl",
+			"text": "Recht een klacht in te dienen bij een toezichthoudende autoriteit"
+		},
+		{
+			"lang": "sv",
+			"text": "Rätt att klaga på beslut som fattats av en tillsynsmyndighet"
+		}
+	],
+	"children": [
+		"a73p1",
+		"a73p2",
+		"a73p3"
+	],
+	"title": "Article 73"
+}

@@ -1,0 +1,110 @@
+{
+	"id": "a5",
+	"type": "article",
+	"literal": "5",
+	"parent": "c2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Principles relating to personal data processing"
+		},
+		{
+			"lang": "de",
+			"text": "Grundsätze in Bezug auf die Verarbeitung personenbezogener Daten"
+		},
+		{
+			"lang": "fr",
+			"text": "Principes relatifs au traitement des données à caractère personnel"
+		},
+		{
+			"lang": "es",
+			"text": "Principios relativos al tratamiento de datos personales"
+		},
+		{
+			"lang": "pt",
+			"text": "Princípios relativos ao tratamento de dados pessoais"
+		},
+		{
+			"lang": "it",
+			"text": "Principi applicabili al trattamento di dati personali"
+		},
+		{
+			"lang": "ga",
+			"text": "Prionsabail a bhaineann le próiseáil sonraí pearsanta"
+		},
+		{
+			"lang": "cs",
+			"text": "Zásady související se zpracováváním osobních údajů"
+		},
+		{
+			"lang": "da",
+			"text": "Principper for behandling af personoplysninger"
+		},
+		{
+			"lang": "et",
+			"text": "Isikuandmete töötlemise põhimõtted"
+		},
+		{
+			"lang": "el",
+			"text": "Αρχές σχετικές με την επεξεργασία δεδομένων προσωπικού χαρακτήρα"
+		},
+		{
+			"lang": "bg",
+			"text": "Принципи, свързани с обработването на лични данни"
+		},
+		{
+			"lang": "hu",
+			"text": "A személyes adatok feldolgozására vonatkozó alapelvek"
+		},
+		{
+			"lang": "mt",
+			"text": "Prinċipji relatati mal-ipproċessar tad-dejta personali"
+		},
+		{
+			"lang": "lv",
+			"text": "Personas datu apstrādes principi"
+		},
+		{
+			"lang": "ro",
+			"text": "Principii legate de prelucrarea datelor cu caracter personal"
+		},
+		{
+			"lang": "sk",
+			"text": "Zásady spracúvania osobných údajov"
+		},
+		{
+			"lang": "sl",
+			"text": "Načela v zvezi z obdelavo osebnih podatkov"
+		},
+		{
+			"lang": "fi",
+			"text": "Henkilötietojen käsittelyä koskevat periaatteet"
+		},
+		{
+			"lang": "pl",
+			"text": "Zasady dotyczące przetwarzania danych osobowych"
+		},
+		{
+			"lang": "lt",
+			"text": "Asmens duomenų tvarkymo principai"
+		},
+		{
+			"lang": "nl",
+			"text": "Beginselen inzake de verwerking van persoonsgegevens"
+		},
+		{
+			"lang": "sv",
+			"text": "Principer om behandling av personuppgifter"
+		}
+	],
+	"children": [
+		"a5t1",
+		"a5i1",
+		"a5i2",
+		"a5i3",
+		"a5i4",
+		"a5i5",
+		"a5i6"
+	],
+	"title": "Article 5"
+}

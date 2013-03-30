@@ -1,0 +1,102 @@
+{
+	"id": "r98",
+	"type": "recital",
+	"literal": "98",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The competent authority, providing such one-stop shop, should be the supervisory authority of the Member State in which the controller or processor has its main establishment."
+		},
+		{
+			"lang": "de",
+			"text": "Die zuständige Aufsichtsbehörde, die die Aufgaben einer solchen zentralen Kontaktstelle übernimmt, sollte die Aufsichtsbehörde des Mitgliedstaats sein, in dem der für die Verarbeitung Verantwortliche oder der Auftragsverarbeiter seine Hauptniederlassung hat."
+		},
+		{
+			"lang": "fr",
+			"text": "L'autorité compétente faisant ainsi office de guichet unique devrait être l'autorité de contrôle de l'État membre dans lequel le responsable du traitement ou le sous‑traitant a son principal établissement."
+		},
+		{
+			"lang": "es",
+			"text": "La autoridad competente que constituye esta ventanilla única debe ser la autoridad de control del Estado miembro en que el responsable o el encargado del tratamiento tengan su establecimiento principal."
+		},
+		{
+			"lang": "pt",
+			"text": "A autoridade competente, que atua portanto na qualidade de balcão único, deve ser a autoridade de controlo do Estado-Membro no qual o responsável pelo tratamento ou o subcontratante tem o seu estabelecimento principal."
+		},
+		{
+			"lang": "it",
+			"text": "È necessario che l’autorità competente, che funge da “sportello unico”, sia l’autorità di controllo dello Stato membro in cui il responsabile del trattamento o l’incaricato del trattamento ha lo stabilimento principale."
+		},
+		{
+			"lang": "ga",
+			"text": "Ba cheart gurbh é an t‑údarás inniúil, an t‑údarás sin a chuireann ionad uileghnó ar fáil, údarás maoirseachta an Bhallstáit ina bhfuil príomhbhunaíocht an rialaitheora nó an phróiseálaí."
+		},
+		{
+			"lang": "cs",
+			"text": "Příslušný orgán, který převezme úkoly jediného kontaktního místa, by měl být orgán dozoru toho členského státu, v němž má správce nebo zpracovatel hlavní provozovnu."
+		},
+		{
+			"lang": "da",
+			"text": "Den kompetente myndighed, som udgør et sådant centralt kontaktpunkt, bør være tilsynsmyndigheden i den medlemsstat, hvor den registeransvarlige eller register­føreren har sin hovedvirksomhed."
+		},
+		{
+			"lang": "et",
+			"text": "Selliseks ühtseks kontaktpunktiks olev pädev asutus on selle liikmesriigi järelevalveasutus, kus on vastutava töötleja või volitatud töötleja peamine tegevuskoht."
+		},
+		{
+			"lang": "el",
+			"text": "Η αρμόδια αρχή, η οποία παρέχει αυτή την υπηρεσία μιας στάσης, πρέπει να είναι η αρχή ελέγχου του κράτους μέλους στο οποίο ο υπεύθυνος επεξεργασίας ή ο εκτελών την επεξεργασία έχουν την κύρια εγκατάστασή τους."
+		},
+		{
+			"lang": "bg",
+			"text": "Компетентният орган, който осигурява такова „обслужване на едно гише“, следва да бъде надзорният орган на държавата-членка, в която се намира основното място на установяване на администратора или на обработващия лични данни."
+		},
+		{
+			"lang": "hu",
+			"text": "Az ilyen egyablakos ügyintézést biztosító illetékes hatóság annak a tagállamnak a felügyelő hatósága, ahol az adatkezelő vagy -feldolgozó fő szervezete található."
+		},
+		{
+			"lang": "mt",
+			"text": "L-awtorità kompetenti, li tipprovdi dan il-punt uniku ta’ servizz, għandha tkun l-awtorità ta’ superviżjoni tal-Istat Membru li fiha l-kontrollur jew il-proċessur għandu l-istabbiliment ewlieni tiegħu."
+		},
+		{
+			"lang": "lv",
+			"text": "Kompetentajai iestādei, kas pilda šādas vienas pieturas aģentūras pienākumus, būtu jābūt tās dalībvalsts uzraudzības iestādei, kurā atrodas pārziņa vai apstrādātāja galvenā institūcija."
+		},
+		{
+			"lang": "ro",
+			"text": "Autoritatea competentă, care furnizează un astfel de ghișeu unic, ar trebui să fie autoritatea de supraveghere a statului membru în care operatorul sau persoana împuternicită de către operator își are sediul principal."
+		},
+		{
+			"lang": "sk",
+			"text": "Príslušným orgánom, ktorý je takýmto jediným kontaktným miestom, by mal byť dozorný orgán členského štátu, v ktorom má prevádzkovateľ alebo sprostredkovateľ svoje ústredie."
+		},
+		{
+			"lang": "sl",
+			"text": "Pristojni organ, ki zagotavlja „vse na enem mestu“, bi moral biti nadzorni organ države članice, v kateri ima upravljavec ali obdelovalec glavni sedež."
+		},
+		{
+			"lang": "fi",
+			"text": "Tällaista yhden luukun palvelua tarjoavan toimivaltaisen viranomaisen olisi oltava sen jäsenvaltion valvontaviranomainen, jossa rekisterinpitäjän tai henkilötietojen käsittelijän päätoimipaikka sijaitsee."
+		},
+		{
+			"lang": "pl",
+			"text": "Właściwym organem, zapewniającym taki punkt kompleksowej obsługi, powinien być organ nadzorczy państwa członkowskiego, w którym administrator lub podmiot przetwarzający ma siedzibę główną."
+		},
+		{
+			"lang": "lt",
+			"text": "kompetentinga institucija, atliekanti tokios centrinės institucijos funkciją, turėtų būti valstybės narės, kurioje yra pagrindinė duomenų valdytojo arba tvarkytojo buveinė, priežiūros institucija;"
+		},
+		{
+			"lang": "nl",
+			"text": "De bevoegde autoriteit die een dergelijk éénloketsysteem aanbiedt, dient de toezichthoudende autoriteit te zijn van de lidstaat waar de voor de verwerking verantwoordelijke of de verwerker zijn belangrijkste vestiging heeft."
+		},
+		{
+			"lang": "sv",
+			"text": "Den behöriga myndighet som tar på sig detta bör vara tillsynsmyndigheten i den medlemsstat där den registeransvarige eller registerföraren har sitt huvudsakliga verksamhetsställe."
+		}
+	],
+	"children": [],
+	"title": "Recital 98"
+}

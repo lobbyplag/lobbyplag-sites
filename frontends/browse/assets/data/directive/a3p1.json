@@ -1,0 +1,102 @@
+{
+	"id": "a3p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "This Regulation applies to the processing of personal data in the context of the activities of an establishment of a controller or a processor in the Union."
+		},
+		{
+			"lang": "de",
+			"text": "Die Verordnung findet Anwendung auf die Verarbeitung personenbezogener Daten, soweit diese im Rahmen der Tätigkeiten einer Niederlassung eines für die Verarbeitung Verantwortlichen oder eines Auftragsverarbeiters in der Union erfolgt."
+		},
+		{
+			"lang": "fr",
+			"text": "Le présent règlement s'applique au traitement des données à caractère personnel effectué dans le cadre des activités d'un établissement d'un responsable du traitement de données ou d'un sous-traitant sur le territoire de l'Union."
+		},
+		{
+			"lang": "es",
+			"text": "El presente Reglamento se aplica al tratamiento de datos personales en el contexto de las actividades de un establecimiento del responsable o del encargado del tratamiento en la Unión."
+		},
+		{
+			"lang": "pt",
+			"text": "O presente regulamento aplica-se ao tratamento de dados pessoais efetuado no contexto das atividades de um estabelecimento de um responsável pelo tratamento ou de um subcontratante situado no território da União."
+		},
+		{
+			"lang": "it",
+			"text": "Il presente regolamento si applica al trattamento dei dati personali effettuato nell’ambito delle attività di uno stabilimento di un responsabile del trattamento o di un incaricato del trattamento nell’Unione."
+		},
+		{
+			"lang": "ga",
+			"text": "Tá feidhm ag an Rialachán seo maidir le sonraí pearsanta a phróiseáil i gcomhthéacs gníomhaíochtaí bunaíochta de chuid rialaitheora nó próiseálaí atá lonnaithe san Aontas."
+		},
+		{
+			"lang": "cs",
+			"text": "Toto nařízení se vztahuje na zpracování osobních údajů v rámci činností provozovny správce nebo zpracovatele v Unii."
+		},
+		{
+			"lang": "da",
+			"text": "Denne forordning anvendes på behandling af personoplysninger i forbindelse med aktiviteter, der gennemføres af en registeransvarligs eller registerførers virksomhed i Unionen."
+		},
+		{
+			"lang": "et",
+			"text": "Käesolevat määrust kohaldatakse liidu territooriumil paikneva vastutava töötleja ja volitatud töötleja asutuse tegevuse raames toimuva isikuandmete töötlemise suhtes."
+		},
+		{
+			"lang": "el",
+			"text": "Ο παρών κανονισμός εφαρμόζεται στην επεξεργασία δεδομένων προσωπικού χαρακτήρα στο πλαίσιο των δραστηριοτήτων μιας εγκατάστασης ενός υπευθύνου επεξεργασίας ή εκτελούντος την επεξεργασία στην Ένωση."
+		},
+		{
+			"lang": "bg",
+			"text": "Настоящият регламент се прилага за обработването на лични данни в контекста на дейностите на дадено място на установяване на администратор или обработващ лични данни в Съюза."
+		},
+		{
+			"lang": "hu",
+			"text": "E rendeletet kell alkalmazni az Unióban letelepedett adatkezelő vagy -feldolgozó tevékenységeivel összefüggésben végzett személyesadat-feldolgozásra."
+		},
+		{
+			"lang": "mt",
+			"text": "Dan ir-Regolament japplika għall-ipproċessar tad-dejta personali fil-kuntesti tal-attivitajiet ta’ stabbilment ta’ kontrollur jew proċessur fl-Unjoni."
+		},
+		{
+			"lang": "lv",
+			"text": "Šo regulu piemēro personas datu apstrādei saistībā ar darbībām, ko veic pārziņa vai apstrādātāja institūcija, kas atrodas Savienībā."
+		},
+		{
+			"lang": "ro",
+			"text": "Prezentul regulament se aplică prelucrării datelor cu caracter personal în cadrul activităților unui sediu al unui operator sau al unei persoane împuternicite de operator pe teritoriul Uniunii."
+		},
+		{
+			"lang": "sk",
+			"text": "Toto nariadenie sa vzťahuje na spracovanie osobných údajov v rámci činnosti zariadenia prevádzkovateľa alebo sprostredkovateľa v Únii."
+		},
+		{
+			"lang": "sl",
+			"text": "Ta uredba se uporablja za obdelavo osebnih podatkov v okviru dejavnosti ustanovitve upravljavca ali obdelovalca v Uniji."
+		},
+		{
+			"lang": "fi",
+			"text": "Tätä asetusta sovelletaan henkilötietojen käsittelyyn, jota suoritetaan unionin alueella sijaitsevassa rekisterinpitäjän tai henkilötietojen käsittelijän toimipaikassa toteutettavan toiminnan yhteydessä."
+		},
+		{
+			"lang": "pl",
+			"text": "Niniejsze rozporządzenie ma zastosowanie do przetwarzania danych osobowych w kontekście działalności prowadzonej w zakładzie administratora lub podmiotu przetwarzającego na terytorium Unii."
+		},
+		{
+			"lang": "lt",
+			"text": "Šis reglamentas taikomas asmens duomenų tvarkymui, kai asmens duomenis Sąjungoje vykdydama savo veiklą tvarko duomenų valdytojo arba tvarkytojo buveinė."
+		},
+		{
+			"lang": "nl",
+			"text": "Deze verordening is van toepassing op de verwerking van persoonsgegevens in het kader van de activiteiten van een vestiging van een voor de verwerking verantwoordelijke of een verwerker in de Unie."
+		},
+		{
+			"lang": "sv",
+			"text": "Denna förordning ska tillämpas på behandlingen av personuppgifter inom ramen för den verksamhet som bedrivs av en registeransvarig eller registerförare som är etablerad i unionen."
+		}
+	],
+	"children": [],
+	"title": "Article 3 – Paragraph 1"
+}

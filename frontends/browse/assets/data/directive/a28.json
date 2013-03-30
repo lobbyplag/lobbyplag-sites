@@ -1,0 +1,109 @@
+{
+	"id": "a28",
+	"type": "article",
+	"literal": "28",
+	"parent": "c4s1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Documentation"
+		},
+		{
+			"lang": "de",
+			"text": "Dokumentation"
+		},
+		{
+			"lang": "fr",
+			"text": "Documentation"
+		},
+		{
+			"lang": "es",
+			"text": "Documentación"
+		},
+		{
+			"lang": "pt",
+			"text": "Documentação"
+		},
+		{
+			"lang": "it",
+			"text": "Documentazione"
+		},
+		{
+			"lang": "ga",
+			"text": "Doiciméadacht"
+		},
+		{
+			"lang": "cs",
+			"text": "Dokumentace"
+		},
+		{
+			"lang": "da",
+			"text": "Dokumentation"
+		},
+		{
+			"lang": "et",
+			"text": "Dokumenteerimine"
+		},
+		{
+			"lang": "el",
+			"text": "Τεκμηρίωση"
+		},
+		{
+			"lang": "bg",
+			"text": "Документация"
+		},
+		{
+			"lang": "hu",
+			"text": "Dokumentáció"
+		},
+		{
+			"lang": "mt",
+			"text": "Dokumentazzjoni"
+		},
+		{
+			"lang": "lv",
+			"text": "Dokumentācija"
+		},
+		{
+			"lang": "ro",
+			"text": "Documentația"
+		},
+		{
+			"lang": "sk",
+			"text": "Dokumentácia"
+		},
+		{
+			"lang": "sl",
+			"text": "Dokumentacija"
+		},
+		{
+			"lang": "fi",
+			"text": "Asiakirjat"
+		},
+		{
+			"lang": "pl",
+			"text": "Dokumentacja"
+		},
+		{
+			"lang": "lt",
+			"text": "Dokumentai"
+		},
+		{
+			"lang": "nl",
+			"text": "Documenten"
+		},
+		{
+			"lang": "sv",
+			"text": "Dokumentation"
+		}
+	],
+	"children": [
+		"a28p1",
+		"a28p2",
+		"a28p3",
+		"a28p4",
+		"a28p5",
+		"a28p6"
+	],
+	"title": "Article 28"
+}

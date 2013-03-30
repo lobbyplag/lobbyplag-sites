@@ -1,0 +1,102 @@
+{
+	"id": "a42p2i3",
+	"type": "point",
+	"literal": "c",
+	"parent": "a42p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "standard data protection clauses adopted by a supervisory authority in accordance with the consistency mechanism referred to in Article 57 when declared generally valid by the Commission pursuant to point (b) of Article 62(1); or"
+		},
+		{
+			"lang": "de",
+			"text": "von einer Aufsichtsbehörde nach Maßgabe des in Artikel 57 beschriebenen Kohärenzverfahren angenommener Standarddatenschutzklauseln, sofern diesen von der Kommission allgemeine Gültigkeit gemäß Artikel 62 Absatz 1 Buchstabe b zuerkannt wurde, oder"
+		},
+		{
+			"lang": "fr",
+			"text": "des clauses types de protection des données adoptées par une autorité de contrôle conformément au mécanisme de contrôle de la cohérence prévu à l’article 57, lorsque la Commission a constaté leur applicabilité générale conformément à l'article 62, paragraphe 1, point b); ou"
+		},
+		{
+			"lang": "es",
+			"text": "las cláusulas tipo de protección de datos adoptadas por una autoridad de control de conformidad con el mecanismo de coherencia contemplado en el artículo 57, cuando la Comisión haya declarado que tienen validez general con arreglo al artículo 62, apartado 1, letra b); o"
+		},
+		{
+			"lang": "pt",
+			"text": "Cláusulas-tipo de proteção de dados adotadas por uma autoridade de controlo em conformidade com o mecanismo de controlo da coerência previsto no artigo 57.º, se declaradas de aplicabilidade geral pela Comissão nos termos do artigo 62.º, n.º 1, alínea b); ou"
+		},
+		{
+			"lang": "it",
+			"text": "le clausole tipo di protezione dei dati adottate da un’autorità di controllo in conformità del meccanismo di coerenza di cui all’articolo 57, qualora siano dichiarate generalmente valide dalla Commissione ai sensi dell’articolo 62, paragrafo 1, lettera b), oppure"
+		},
+		{
+			"lang": "ga",
+			"text": "le clásail chaighdeánacha maidir le cosaint sonraí arna nglacadh ag údarás maoirseachta i gcomhréir leis an sásra comhsheasmhachta dá dtagraítear in Airteagal 57 nuair a dhearbhaíonn an Coimisiún go bhfuil siad bailí go ginearálta de bhun phointe (b) d’Airteagal 62(1); nó"
+		},
+		{
+			"lang": "cs",
+			"text": "standardními doložkami o ochraně údajů přijatými orgánem dozoru v souladu s mechanismem jednotnosti uvedeným v článku 57, prohlásila-li Komise podle čl. 62 odst. 1 písm. b) tyto doložky za obecně platné, nebo"
+		},
+		{
+			"lang": "da",
+			"text": "standardbestemmelser om databeskyttelse vedtaget af en tilsynsmyndighed i overensstemmelse med sammenhængsmekanismen, jf. artikel 57, når disse er erklæret generelt gyldige af Kommissionen i henhold til artikel 62, stk. 1, litra b)"
+		},
+		{
+			"lang": "et",
+			"text": "isikuandmete kaitse standardklauslitele, mille on vastu võtnud järelevalveasutus vastavalt artiklis 57 osutatud järjepidevuse mehhanismile pärast seda, kui komisjon on need artikli 62 lõike 1 punkti b kohaselt tunnistanud üldkehtivaks, või"
+		},
+		{
+			"lang": "el",
+			"text": "γ) τυποποιημένων ρητρών προστασίας δεδομένων που εκδίδονται από αρχή ελέγχου σύμφωνα με τον μηχανισμό συνεκτικότητας που αναφέρεται στο άρθρο 57 όταν κηρύσσονται γενικά ισχυρές από την Επιτροπή δυνάμει του άρθρου 62 παράγραφος 1 στοιχείο β)· ή"
+		},
+		{
+			"lang": "bg",
+			"text": "в) стандартни клаузи за защита на данните, приети от надзорен орган в съответствие с механизма за съгласуваност, посочен в член 57, когато те са обявени за общовалидни от Комисията съгласно член 62, параграф 1, буква б); или"
+		},
+		{
+			"lang": "hu",
+			"text": "az 57. cikk szerinti egységességi mechanizmusnak megfelelően a felügyelő hatóság által elfogadott egységes adatvédelmi feltételek, amennyiben azokat a Bizottság a 62. cikk (1) bekezdésének b) pontja szerint általánosan érvényesnek nyilvánítja; vagy"
+		},
+		{
+			"lang": "mt",
+			"text": "klawżoli standard ta’ protezzjoni tad-dejta adottati minn awtorità ta’ superviżjoni skont il-mekkaniżmu ta’ konsistenza msemmi fl-Artikolu 57 meta ddikjarati ġeneralment validi mill-Kummissjoni skont il-punt (b) tal-Artikolu 62(1); jew"
+		},
+		{
+			"lang": "lv",
+			"text": "tipveida datu aizsardzības noteikumiem, ko pieņem uzraudzības iestāde saskaņā ar konsekvences mehānismu, kā minēts 57. pantā, ja Komisija tos saskaņā ar 62. panta 1. punkta b) apakšpunktu ir pasludinājusi par vispārēji piemērojamiem; vai"
+		},
+		{
+			"lang": "ro",
+			"text": "clauze standard de protecție a datelor adoptate de o autoritate de supraveghere în conformitate cu mecanismul pentru asigurarea coerenței menționat la articolul 57, în condițiile în care Comisia a declarat că sunt general valabile în conformitate cu articolul 62 alineatul (1) litera (b); sau"
+		},
+		{
+			"lang": "sk",
+			"text": "štandardných ustanovení o ochrane údajov prijatých dozorným orgánom v súlade s mechanizmom konzistentnosti uvedeným v článku 57, ak ich Komisia vyhlásila za všeobecne platné v súlade s článkom 62 ods. 1 písm. b), alebo"
+		},
+		{
+			"lang": "sl",
+			"text": "standardnimi določili o varstvu podatkov, ki jih je sprejel nadzorni organ v skladu z mehanizmom za skladnost iz člena 57, ko jih Komisija v skladu s točko (b) člena 62(1) razglasi za splošno veljavna; ali"
+		},
+		{
+			"lang": "fi",
+			"text": "tietosuojaa koskevat vakiolausekkeet, jotka tietosuojaviranomainen vahvistaa 57 artiklassa tarkoitetun yhdenmukaisuusmekanismin mukaisesti, jos komissio toteaa ne 62 artiklan 1 kohdan b alakohdan nojalla yleisesti päteviksi; tai"
+		},
+		{
+			"lang": "pl",
+			"text": "standardowych klauzul ochrony danych przyjętych przez organ nadzorczy zgodnie z mechanizmem zgodności, o którym w art. 57, w przypadku gdy Komisja uzna je za ogólnie obowiązujące na mocy art. 62 ust. 1 lit. b); lub"
+		},
+		{
+			"lang": "lt",
+			"text": "standartinėmis duomenų apsaugos sąlygomis, kurias pagal 57 straipsnyje nurodytą nuoseklumo užtikrinimo mechanizmą priėmė priežiūros institucija, po to, kai Komisija jas paskelbė visuotinai galiojančiomis pagal 62 straipsnio 1 dalies b punktą; arba"
+		},
+		{
+			"lang": "nl",
+			"text": "modelbepalingen inzake gegevensbescherming die door een toezichthoudende autoriteit zijn vastgesteld in het kader van de in artikel 57 bedoelde conformiteitstoetsing, wanneer die door de Commissie overeenkomstig artikel 62, lid 1, onder b), algemeen geldig zijn verklaard; of"
+		},
+		{
+			"lang": "sv",
+			"text": "standardiserade uppgiftsskyddsbestämmelser som antagits av en tillsynsmyndighet enligt den mekanism för enhetlighet som avses i artikel 57 förutsatt att denna bestämmelse förklarats allmänt sett giltig enligt artikel 62.1 b, eller"
+		}
+	],
+	"children": [],
+	"title": "Article 42 – Paragraph 2 – Point 3"
+}

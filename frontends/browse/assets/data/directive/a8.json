@@ -1,0 +1,107 @@
+{
+	"id": "a8",
+	"type": "article",
+	"literal": "8",
+	"parent": "c2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Processing of personal data of a child"
+		},
+		{
+			"lang": "de",
+			"text": "Verarbeitung personenbezogener Daten eines Kindes"
+		},
+		{
+			"lang": "fr",
+			"text": "Traitement de données à caractère personnel relatives aux enfants"
+		},
+		{
+			"lang": "es",
+			"text": "Tratamiento de los datos personales relativos a los niños"
+		},
+		{
+			"lang": "pt",
+			"text": "Tratamento de dados pessoais relativos às crianças"
+		},
+		{
+			"lang": "it",
+			"text": "Trattamento dei dati personali dei minori"
+		},
+		{
+			"lang": "ga",
+			"text": "Sonraí pearsanta linbh a phróiseáil"
+		},
+		{
+			"lang": "cs",
+			"text": "Zpracování osobních údajů dítěte"
+		},
+		{
+			"lang": "da",
+			"text": "Behandling af et barns personoplysninger"
+		},
+		{
+			"lang": "et",
+			"text": "Lapse isikuandmete töötlemine"
+		},
+		{
+			"lang": "el",
+			"text": "Επεξεργασία δεδομένων προσωπικού χαρακτήρα παιδιού"
+		},
+		{
+			"lang": "bg",
+			"text": "Обработване на личните данни на дете"
+		},
+		{
+			"lang": "hu",
+			"text": "Gyermekek személyes adatainak feldolgozása"
+		},
+		{
+			"lang": "mt",
+			"text": "Ipproċessar tad-dejta personali ta’ minorenni"
+		},
+		{
+			"lang": "lv",
+			"text": "Bērna personas datu apstrāde"
+		},
+		{
+			"lang": "ro",
+			"text": "Prelucrarea datelor cu caracter personal ale minorilor"
+		},
+		{
+			"lang": "sk",
+			"text": "Spracúvanie osobných údajov dieťaťa"
+		},
+		{
+			"lang": "sl",
+			"text": "Obdelava osebnih podatkov otroka"
+		},
+		{
+			"lang": "fi",
+			"text": "Lapsen henkilötietojen käsittely"
+		},
+		{
+			"lang": "pl",
+			"text": "Przetwarzanie danych osobowych dziecka"
+		},
+		{
+			"lang": "lt",
+			"text": "Vaiko asmens duomenų tvarkymas"
+		},
+		{
+			"lang": "nl",
+			"text": "Verwerking van persoonsgegevens van kinderen"
+		},
+		{
+			"lang": "sv",
+			"text": "Behandling av barns personuppgifter"
+		}
+	],
+	"children": [
+		"a8p1",
+		"a8p2",
+		"a8p3",
+		"a8p4"
+	],
+	"title": "Article 8"
+}

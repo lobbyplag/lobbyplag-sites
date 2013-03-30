@@ -1,0 +1,102 @@
+{
+	"id": "a2p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "This Regulation applies to the processing of personal data wholly or partly by automated means, and to the processing other than by automated means of personal data which form part of a filing system or are intended to form part of a filing system."
+		},
+		{
+			"lang": "de",
+			"text": "Diese Verordnung gilt für die ganz oder teilweise automatisierte Verarbeitung personenbezogener Daten sowie für die nichtautomatisierte Verarbeitung personenbezogener Daten, die in einer Datei gespeichert sind oder gespeichert werden sollen."
+		},
+		{
+			"lang": "fr",
+			"text": "Le présent règlement s'applique au traitement de données à caractère personnel, automatisé en tout ou en partie, ainsi qu'au traitement non automatisé de données à caractère personnel contenues ou appelées à figurer dans un fichier."
+		},
+		{
+			"lang": "es",
+			"text": "El presente Reglamento se aplica al tratamiento total o parcialmente automatizado de datos personales, así como al tratamiento no automatizado de datos personales contenidos o destinados a ser incluidos en un fichero."
+		},
+		{
+			"lang": "pt",
+			"text": "O presente regulamento aplica-se ao tratamento de dados pessoais por meios total ou parcialmente automatizados, bem como ao tratamento por meios não automatizados de dados pessoais contidos num ficheiro ou a ele destinados."
+		},
+		{
+			"lang": "it",
+			"text": "Il presente regolamento si applica al trattamento interamente o parzialmente automatizzato di dati personali e al trattamento non automatizzato di dati personali contenuti in un archivio o destinati a figurarvi."
+		},
+		{
+			"lang": "ga",
+			"text": "Tá feidhm ag an Rialachán seo maidir le sonraí pearsanta a phróiseáil go hiomlán nó go páirteach trí mhodhanna uathoibrithe, agus maidir le sonraí pearsanta ar cuid de chóras comhdúcháin iad nó atá beartaithe a bheith ina gcuid de chóras comhdúcháin a phróiseáil trí mhodhanna eile ."
+		},
+		{
+			"lang": "cs",
+			"text": "Toto nařízení se vztahuje na zcela nebo částečně automatizované zpracování osobních údajů, jakož i na neautomatizované zpracování osobních údajů, které jsou obsaženy v evidenci nebo do ní mají být zařazeny."
+		},
+		{
+			"lang": "da",
+			"text": "Denne forordning anvendes på behandling af personoplysninger, der helt eller delvis foretages automatisk, samt på anden behandling end automatisk behandling af personoplysninger, der er eller vil blive indeholdt i et register."
+		},
+		{
+			"lang": "et",
+			"text": "Käesolevat määrust kohaldatakse isikuandmete täielikult või osaliselt automatiseeritud töötlemise suhtes ja isikuandmete automatiseerimata töötlemise suhtes, kui kõnealused isikuandmed kuuluvad toimikusüsteemi või kui need kavatsetakse toimikusüsteemi kanda."
+		},
+		{
+			"lang": "el",
+			"text": "Ο παρών κανονισμός εφαρμόζεται στην, εν όλω ή εν μέρει, αυτοματοποιημένη επεξεργασία δεδομένων προσωπικού χαρακτήρα, καθώς και στη μη αυτοματοποιημένη επεξεργασία τέτοιων δεδομένων τα οποία περιλαμβάνονται ή πρόκειται να περιληφθούν σε σύστημα αρχειοθέτησης."
+		},
+		{
+			"lang": "bg",
+			"text": "Настоящият регламент се прилага за обработването на лични данни изцяло или частично с автоматични средства, както и за обработването с други средства на лични данни, които са част от регистър на лични данни или които са предназначени да съставляват част от регистър на лични данни."
+		},
+		{
+			"lang": "hu",
+			"text": "E rendeletet kell alkalmazni a személyes adatok részben vagy egészben automatizált módon történő feldolgozására, valamint azoknak a személyes adatoknak a nem automatizált módon történő feldolgozására, amelyek valamely nyilvántartási rendszer részét képezik, vagy amelyeket egy nyilvántartási rendszer részévé kívánnak tenni."
+		},
+		{
+			"lang": "mt",
+			"text": "Dan ir-Regolament japplika għall-ipproċessar ta’ dejta personali kompletament jew parzjalment b’mezzi awtomatizzati, u għall-ipproċessar għajr b’mezzi awtomatizzati ta’ dejta personali li tifforma parti minn sistema ta’ arkivjar jew li tkun maħsuba sabiex tifforma parti minn sistema ta’ arkivjar."
+		},
+		{
+			"lang": "lv",
+			"text": "Šo regulu piemēro personas datu apstrādei, kas pilnībā vai daļēji veikta ar automatizētiem līdzekļiem, un tādu personas datu apstrādei, kuri veido daļu no kartotēkas vai ir paredzēti, lai veidotu daļu no kartotēkas, ja apstrādi neveic ar automatizētiem līdzekļiem."
+		},
+		{
+			"lang": "ro",
+			"text": "Prezentul regulament se aplică prelucrării datelor cu caracter personal, efectuate total sau parțial prin mijloace automatizate, precum și prelucrării prin alte mijloace decât cele automatizate a datelor cu caracter personal care fac parte dintr-un sistem de evidență a datelor sau care sunt destinate să facă parte dintr-un sistem de evidență a datelor."
+		},
+		{
+			"lang": "sk",
+			"text": "Toto nariadenie sa vzťahuje na spracovanie osobných údajov vykonávané úplne alebo čiastočne automatizovanými prostriedkami a na spracovanie inými než automatickými prostriedkami v prípade osobných údajov, ktoré tvoria časť informačného systému alebo sú určené na tvorbu časti informačného systému."
+		},
+		{
+			"lang": "sl",
+			"text": "Ta uredba se uporablja za obdelavo osebnih podatkov v celoti ali delno s samodejnimi sredstvi in za drugačno obdelavo kakor s samodejnimi sredstvi za osebne podatke, ki sestavljajo del zbirke ali so namenjeni oblikovanju dela zbirke."
+		},
+		{
+			"lang": "fi",
+			"text": "Tätä asetusta sovelletaan henkilötietojen käsittelyyn, joka on osittain tai kokonaan automatisoitu, sekä sellaisten henkilötietojen manuaaliseen käsittelyyn, jotka muodostavat rekisterin osan tai joiden on tarkoitus muodostaa rekisterin osa."
+		},
+		{
+			"lang": "pl",
+			"text": "Niniejsze rozporządzenie ma zastosowanie do przetwarzania danych osobowych w sposób w całości lub w części zautomatyzowany oraz innych rodzajów przetwarzania danych osobowych, stanowiących część zbioru danych lub mających stanowić część zbioru danych."
+		},
+		{
+			"lang": "lt",
+			"text": "Šis reglamentas taikomas visiškai arba iš dalies automatizuotomis priemonėmis tvarkomiems asmens duomenims, ir neautomatizuotomis priemonėmis tvarkomiems asmens duomenims, kurie sudaro arba yra skirti sudaryti susisteminto rinkinio dalį."
+		},
+		{
+			"lang": "nl",
+			"text": "Deze verordening is van toepassing op de geheel of gedeeltelijk geautomatiseerde, alsmede op de niet-geautomatiseerde verwerking van persoonsgegevens die in een bestand zijn opgenomen of die zijn bestemd daarin te worden opgenomen."
+		},
+		{
+			"lang": "sv",
+			"text": "Denna förordning ska tillämpas på sådan behandling av personuppgifter som helt eller delvis företas på automatisk väg samt på annan behandling än automatisk av personuppgifter som ingår i eller kommer att ingå i ett register."
+		}
+	],
+	"children": [],
+	"title": "Article 2 – Paragraph 1"
+}

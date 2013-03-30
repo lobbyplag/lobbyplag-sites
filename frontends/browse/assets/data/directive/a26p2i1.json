@@ -1,0 +1,102 @@
+{
+	"id": "a26p2i1",
+	"type": "point",
+	"literal": "a",
+	"parent": "a26p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "act only on instructions from the controller, in particular, where the transfer of the personal data used is prohibited;"
+		},
+		{
+			"lang": "de",
+			"text": "nur auf Weisung des für die Verarbeitung Verantwortlichen tätig wird, insbesondere in Fällen, in denen eine Übermittlung der personenbezogenen Daten nicht zulässig ist;"
+		},
+		{
+			"lang": "fr",
+			"text": "n'agit que sur instruction du responsable du traitement, en particulier lorsque le transfert des données à caractère personnel utilisées est interdit;"
+		},
+		{
+			"lang": "es",
+			"text": "actuará únicamente siguiendo instrucciones del responsable del tratamiento, en particular cuando la transferencia de los datos personales utilizados esté prohibida;"
+		},
+		{
+			"lang": "pt",
+			"text": "Atuará apenas mediante instruções do responsável pelo tratamento, em especial quando a transferência de dados pessoais utilizados for proibida;"
+		},
+		{
+			"lang": "it",
+			"text": "agisca soltanto su istruzione del responsabile del trattamento, in particolare qualora sia vietato il trasferimento dei dati personali usati;"
+		},
+		{
+			"lang": "ga",
+			"text": "ní ghníomhóidh an próiseálaí ach amháin ar threoracha a fháil ón rialaitheoir, go háirithe i gcás ina bhfuil toirmeasc ar aistriú na sonraí pearsanta a úsáideadh;"
+		},
+		{
+			"lang": "cs",
+			"text": "jedná pouze podle pokynů správce, zejména je-li zakázáno dané osobní údaje předávat;"
+		},
+		{
+			"lang": "da",
+			"text": "kun handler efter instruks fra den registeransvarlige, navnlig hvis videregivelse af de anvendte personoplysninger er forbudt"
+		},
+		{
+			"lang": "et",
+			"text": "tegutseb ainult vastavalt vastutava töötleja juhtnööridele, eelkõige juhul, kui isikuandmete edastamine on keelatud;"
+		},
+		{
+			"lang": "el",
+			"text": "α) ενεργεί μόνον κατ’ εντολή του υπευθύνου επεξεργασίας, ιδίως εάν η διαβίβαση των δεδομένων προσωπικού χαρακτήρα που χρησιμοποιούνται απαγορεύεται·"
+		},
+		{
+			"lang": "bg",
+			"text": "а) действа единствено по указания на администратора, по-специално когато предаването на използваните лични данни е забранено;"
+		},
+		{
+			"lang": "hu",
+			"text": "kizárólag az adatkezelő utasítása alapján járjon el, különösen, ha tilos a felhasznált személyes adatok továbbítása;"
+		},
+		{
+			"lang": "mt",
+			"text": "jaġixxi biss fuq struzzjonijiet mingħand il-kontrollur, b’mod partikolari, meta t-trasferiment tad-dejta personali użata jkun ipprojbit;"
+		},
+		{
+			"lang": "lv",
+			"text": "rīkojas tikai saskaņā ar pārziņa norādījumiem, jo īpaši, ja izmantoto personas datu nosūtīšana ir aizliegta;"
+		},
+		{
+			"lang": "ro",
+			"text": "acționează numai la instrucțiunile operatorului, în special în cazul în care transferul de date cu caracter personal utilizate este interzis;"
+		},
+		{
+			"lang": "sk",
+			"text": "koná len na základe pokynov prevádzkovateľa, najmä v prípade, keď prenos použitých osobných údajov je zakázaný;"
+		},
+		{
+			"lang": "sl",
+			"text": "deluje samo po navodilih upravljavca, zlasti kadar je prenos uporabljenih osebnih podatkov prepovedan;"
+		},
+		{
+			"lang": "fi",
+			"text": "toimii ainoastaan rekisterinpitäjän ohjeiden mukaisesti, etenkin jos käsiteltäviä henkilötietoja ei saa siirtää;"
+		},
+		{
+			"lang": "pl",
+			"text": "działa wyłącznie na polecenie administratora, w szczególności gdy przekazywanie danych osobowych jest zakazane;"
+		},
+		{
+			"lang": "lt",
+			"text": "veikia tik pagal duomenų valdytojo nurodymus, visų pirma jei naudojamų asmens duomenų perdavimas yra draudžiamas;"
+		},
+		{
+			"lang": "nl",
+			"text": "slechts handelt in opdracht van de voor de verwerking verantwoordelijke, met name wanneer de doorgifte van de persoonsgegevens is verboden;"
+		},
+		{
+			"lang": "sv",
+			"text": "endast får handla på instruktioner från den registeransvarige, särskilt om överföringen av de personuppgifter som används är förbjuden,"
+		}
+	],
+	"children": [],
+	"title": "Article 26 – Paragraph 2 – Point 1"
+}

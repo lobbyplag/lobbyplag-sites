@@ -1,0 +1,102 @@
+{
+	"id": "a9p2i10",
+	"type": "point",
+	"literal": "j",
+	"parent": "a9p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "processing of data relating to criminal convictions or related security measures is carried out either under the control of official authority or when the processing is necessary for compliance with a legal or regulatory obligation to which a controller is subject, or for the performance of a task carried out for important public interest reasons, and in so far as authorised by Union law or Member State law providing for adequate safeguards. A complete register of criminal convictions shall be kept only under the control of official authority."
+		},
+		{
+			"lang": "de",
+			"text": "die Verarbeitung von Daten über Strafurteile oder damit zusammenhängende Sicherungsmaßregeln erfolgt entweder unter behördlicher Aufsicht oder aufgrund einer gesetzlichen oder rechtlichen Verpflichtung, der der für die Verarbeitung Verantwortliche unterliegt, oder zur Erfüllung einer Aufgabe, der ein wichtiges öffentliches Interesse zugrunde liegt, soweit dies nach dem Unionsrecht oder dem Recht der Mitgliedstaaten, das angemessene Garantien vorsehen muss, zulässig ist. Ein vollständiges Strafregister darf nur unter behördlicher Aufsicht geführt werden."
+		},
+		{
+			"lang": "fr",
+			"text": "le traitement des données relatives aux condamnations pénales ou aux mesures de sûreté connexes est effectué soit sous le contrôle de l'autorité publique, ou lorsque le traitement est nécessaire au respect d'une obligation légale ou réglementaire à laquelle le responsable du traitement est soumis, ou à l'exécution d'une mission effectuée pour des motifs importants d'intérêt général, dans la mesure où ce traitement est autorisé par le droit de l’Union ou par la législation d'un État membre prévoyant des garanties adéquates. Un registre complet des condamnations pénales ne peut être tenu que sous le contrôle de l'autorité publique."
+		},
+		{
+			"lang": "es",
+			"text": "el tratamiento de datos relativos a condenas penales o medidas de seguridad afines se lleva a cabo bajo la supervisión de poderes públicos o si el tratamiento es necesario para cumplir una obligación jurídica o reglamentaria a la que esté sujeto el interesado o para desarrollar una tarea llevada a cabo por motivos importantes de interés público y siempre que lo autorice el Derecho de la Unión o la legislación de los Estados miembros que establezca las garantías apropiadas. Solo se llevará un registro completo de condenas penales bajo el control de los poderes públicos."
+		},
+		{
+			"lang": "pt",
+			"text": "O tratamento de dados relacionados com condenações penais ou outras medidas de segurança conexas for efetuado sob o controlo de uma autoridade, ou se o tratamento for necessário ao respeito de uma obrigação jurídica ou regulamentar à qual o responsável pelo tratamento está sujeito ou à execução de uma missão efetuada por motivos importantes de interesse público, na medida em que esse tratamento seja autorizado pelo direito da União ou pela legislação de um Estado-Membro que preveja garantias adequadas. O registo completo das condenações penais só pode ser conservado sob o controlo das autoridades públicas."
+		},
+		{
+			"lang": "it",
+			"text": "il trattamento dei dati relativi a condanne penali o a connesse misure di sicurezza è effettuato sotto il controllo dell’autorità pubblica, oppure il trattamento è necessario per ottemperare a un obbligo legale o regolamentare cui è soggetto il responsabile del trattamento o per l’esecuzione di un compito di interesse pubblico rilevante, purché sia autorizzato dal diritto dell’Unione o di uno Stato membro, che deve prevedere garanzie adeguate. Un registro completo delle condanne penali può essere tenuto solo sotto il controllo dell’autorità pubblica."
+		},
+		{
+			"lang": "ga",
+			"text": "má dhéantar sonraí a bhaineann le ciontuithe coiriúla nó le bearta slándála gaolmhara a phróiseáil faoi rialú údaráis oifigiúil nó más gá an phróiseáil a dhéanamh chun oibleagáid dhlíthiúil nó rialála a chomhlíonadh a bhfuil rialaitheoir faoina réir, nó chun cúram éigin a chur i gcrích a dhéantar chun leas an phobail, a mhéid atá sin údaraithe le dlí an Aontais nó le dlí Ballstáit lena bhforáiltear do chosaintí leordhóthanacha. Is faoi rialú an údaráis oifigiúil amháin a choinneofar clár iomlán de chiontuithe coiriúla."
+		},
+		{
+			"lang": "cs",
+			"text": "zpracování údajů týkajících se rozsudků v trestních věcech či souvisejících bezpečnostních opatření se provádí pod dohledem orgánu veřejné moci, nebo pokud je zpracování nezbytné pro splnění právní či regulační povinnosti, které správce podléhá, nebo pro splnění úkolu z důvodu důležitého veřejného zájmu, a pokud je k tomu oprávněn právem Unie nebo právem členského státu poskytujícím vhodné záruky. Úplný rejstřík trestů je veden pouze pod dohledem orgánu veřejné moci."
+		},
+		{
+			"lang": "da",
+			"text": "behandlingen af personoplysninger vedrørende straffedomme eller tilknyttede sikkerhedsforanstaltninger foretages enten under kontrol af en offentlig myndighed, eller hvis behandlingen er nødvendig for at efterkomme love eller andre retsforskrifter, som den registeransvarlige er omfattet af, eller for at udføre en opgave af hensyn til vigtige samfundsinteresser, og for så vidt den er hjemlet i EU-retten eller medlemsstatslovgivning, som fastsætter de fornødne garantier. Et fuldstændigt register over straffedomme må kun føres under kontrol af en offentlig myndighed."
+		},
+		{
+			"lang": "et",
+			"text": "süüdimõistvaid kohtuotsuseid ja nendega seotud turvameetmeid käsitlevaid andmeid töödeldakse ametiasutuse järelevalve all või kui töötlemine on vajalik vastutava töötleja suhtes kohaldatavatest õigusaktidest tuleneva kohustuse või olulise avalike huvidega seotud ülesande täitmiseks niivõrd, kuivõrd see on lubatud liidu või liikmesriigi õigusega, milles on sätestatud piisavad kaitsemeetmed. Süüdimõistvate kohtuotsuste täielikku registrit võib pidada ainult ametiasutuse järelevalve all."
+		},
+		{
+			"lang": "el",
+			"text": "ι) η επεξεργασία δεδομένων που αφορούν ποινικές καταδίκες ή σχετικά μέτρα ασφάλειας διενεργείται υπό τον έλεγχο επίσημης αρχής ή εάν η επεξεργασία είναι απαραίτητη για τη συμμόρφωση προς νομική ή κανονιστική υποχρέωση την οποία υπέχει ο υπεύθυνος επεξεργασίας ή για την εκτέλεση καθήκοντος που ασκείται για σημαντικούς λόγους δημόσιου συμφέροντος, και στον βαθμό που επιτρέπεται από το δίκαιο της Ένωσης ή δίκαιο κράτους μέλους το οποίο προβλέπει επαρκείς εγγυήσεις. Πλήρες μητρώο ποινικών καταδικών τηρείται μόνον υπό τον έλεγχο επίσημης αρχής."
+		},
+		{
+			"lang": "bg",
+			"text": "й) обработването на данни, свързани с наказателни присъди или със свързаните с тях мерки за сигурност, се извършва под контрола на официален орган или когато е необходимо за спазването на правно или регулаторно задължение, което се прилага спрямо администратора, или за изпълнението на задача от важен обществен интерес и дотолкова, доколкото е разрешено в правото на Съюза или на държава-членка и при подходящи гаранции. Пълна регистрационна система на наказателните присъди се поддържа единствено под контрола на официален орган."
+		},
+		{
+			"lang": "hu",
+			"text": "a büntetőítéletekre vagy kapcsolódó biztonsági intézkedésekre vonatkozó adatok feldolgozása vagy a hatóság ellenőrzése mellett történik, vagy ha az adatfeldolgozásra olyan jogszabályi vagy szabályozási kötelezettségnek való megfelelés érdekében kerül sor, amelynek az adatfeldolgozó a hatálya alá tartozik, illetve fontos közérdek miatt végzett feladat teljesítése érdekében, amennyiben azt megfelelő biztosítékokat nyújtó uniós vagy tagállami jogszabály teszi lehetővé. A büntetőítéletekről csak a hatóság ellenőrzésével vezethető teljes körű nyilvántartás."
+		},
+		{
+			"lang": "mt",
+			"text": "l-ipproċessar ta’ dejta relatata ma’ kundanni kriminali jew miżuri ta’ sigurtà relatati għandu jsir taħt il-kontroll ta’ awtorità uffiċjali jew fejn l-ipproċessar ikun neċessarju għal konformità ma’ obbligu legali jew regolatorju li jkun soġġett għalih il-kontrollur, jew għat-twettiq ta’ ħidma mwettqa għal raġunijiet importanti ta’ interess pubbliku, u sakemm jiġi awtorizzat mil-liġi tal-Unjoni jew il-liġi tal-Istat Membru li qiegħed jipprovdi għas-salvagwardji xierqa. Reġistru komplet ta’ kundanni kriminali għandu jinżamm biss taħt il-kontroll ta’ awtorità uffiċjali."
+		},
+		{
+			"lang": "lv",
+			"text": "datu apstrādi par kriminālo sodāmību vai ar to saistītiem drošības pasākumiem veic vai nu oficiālas iestādes kontrolē, vai ja apstrāde ir vajadzīga, lai ievērotu juridisku vai regulatīvu pārziņa pienākumu, vai lai izpildītu uzdevumu, ko veic pamatojoties uz svarīgām sabiedrības interesēm, un tikai tādā apmērā, kā to atļauj Savienības vai dalībvalsts tiesības, paredzot atbilstošus aizsardzības pasākumus. Pilnīgu reģistru par notiesājošiem spriedumiem krimināllietās var uzglabāt tikai valsts iestādes kontrolē."
+		},
+		{
+			"lang": "ro",
+			"text": "prelucrarea datelor referitoare la condamnări penale sau la măsuri de securitate conexe se efectuează fie sub controlul autorității publice, fie atunci când prelucrarea este necesară pentru conformarea cu o obligație legală sau de reglementare care îi revine operatorului, fie pentru îndeplinirea unei sarcini executate din considerente importante de interes public, în măsura în care prelucrarea este autorizată de dreptul Uniunii sau de legislația unui stat membru care prevede garanții adecvate. Un registru complet al condamnărilor penale este ținut numai sub controlul autorității publice."
+		},
+		{
+			"lang": "sk",
+			"text": "spracovanie údajov týkajúcich sa trestných rozsudkov alebo súvisiacich bezpečnostných opatrení sa vykonáva pod kontrolou oficiálneho orgánu, alebo ak je spracovanie nevyhnutné na splnenie právneho záväzku alebo zákonnej povinnosti, ktorým prevádzkovateľ podlieha, alebo na plnenie úlohy vykonávanej z dôvodu dôležitého verejného záujmu, a pokiaľ je spracovanie povolené právnymi predpismi Únie alebo právnymi predpismi členského štátu poskytujúcimi náležité záruky. Úplný register trestov možno viesť iba pod kontrolou úradnej moci."
+		},
+		{
+			"lang": "sl",
+			"text": "se obdelava podatkov v zvezi s kazenskimi obsodbami ali s tem povezanimi varnostnimi ukrepi izvaja pod nadzorom uradnega organa ali kadar je obdelava potrebna zaradi skladnosti z zakonsko ali regulativno obveznostjo, ki velja za upravljavca, ali zaradi opravljanja naloge, izvedene zaradi pomembnega javnega interesa, in če zakonodaja Unije ali zakonodaja držav članic zagotavlja ustrezne zaščitne ukrepe. Popoln register kazenskih obsodb se vodi samo pod nadzorom uradnega organa."
+		},
+		{
+			"lang": "fi",
+			"text": "rikostuomioihin tai niihin liittyviin turvaamistoimiin liittyvien tietojen käsittely suoritetaan joko viranomaisen valvonnassa tai kun käsittely on tarpeen rekisterinpitäjälle laissa tai asetuksessa asetetun velvoitteen noudattamiseksi tai tärkeää yleistä etua koskevan tehtävän suorittamiseksi, ja siltä osin kuin se sallitaan unionin tai jäsenvaltion lainsäädännössä, jossa säädetään asianmukaisista takeista. Täydellistä rikosrekisteriä saa pitää vain julkisen viranomaisen valvonnassa."
+		},
+		{
+			"lang": "pl",
+			"text": "przetwarzanie danych dotyczących wyroków skazujących za przestępstwa lub powiązanych środków zabezpieczających odbywa się pod kontrolą oficjalnego organu lub przetwarzanie jest niezbędne dla wypełnienia obowiązku prawnego lub regulacyjnego, któremu podlega administrator, albo w celu wykonania zadania realizowanego w ważnym interesie publicznym, o ile jest to dozwolone na mocy prawa Unii lub prawa państwa członkowskiego przewidującego odpowiednie gwarancje. Kompletny rejestr wyroków skazujących za przestępstwa jest prowadzony wyłącznie pod nadzorem oficjalnego organu."
+		},
+		{
+			"lang": "lt",
+			"text": "duomenys apie teistumą ar su juo susijusias saugumo priemones tvarkomi arba prižiūrint valdžios institucijai, arba kai tvarkyti duomenis reikia, kad būtų įvykdyta teisinė ar įstatyme nustatyta duomenų valdytojo pareiga arba būtų atlikta svarbiu viešuoju interesu pagrįsta užduotis, ir tiek, kiek tai leidžiama Sąjungos arba valstybės narės teisės aktais, kuriuose nustatytos tinkamos apsaugos priemonės. Išsamus teistumo duomenų registras vedamas tik prižiūrint valdžios institucijai."
+		},
+		{
+			"lang": "nl",
+			"text": "de verwerking van gegevens betreffende strafrechtelijke veroordelingen of daarmee verband houdende veiligheidsmaatregelen wordt uitgevoerd onder toezicht van de overheid of wanneer de verwerking noodzakelijk is om een wettelijke verplichting van de voor de verwerking verantwoordelijke na te komen of voor de vervulling van een taak om gewichtige redenen van algemeen belang, en voor zover zulks is toegestaan bij EU-wetgeving of de nationale wetgeving en deze wetgeving passende garanties biedt. Een volledig register van strafrechtelijke veroordelingen mag alleen worden bijgehouden onder toezicht van de overheid."
+		},
+		{
+			"lang": "sv",
+			"text": "Behandlingen av uppgifter som rör fällande domar i brottmål eller därmed sammanhängande säkerhetsåtgärder utförs antingen under kontroll av en officiell myndighet eller behandlingen är nödvändig för att fullgöra en förpliktelse i lagstiftning eller bestämmelser som den registeransvarige omfattas av, eller för att genomföra en arbetsuppgift som utförs för viktiga ändamål av allmänt intresse, i den mån som den bemyndigas av unionslagstiftningen eller en medlemsstats lagstiftning som föreskriver lämpliga skyddsåtgärder. Ett fullständigt register över brottmålsdomar ska föras endast under kontroll av en myndighet."
+		}
+	],
+	"children": [],
+	"title": "Article 9 – Paragraph 2 – Point 10"
+}

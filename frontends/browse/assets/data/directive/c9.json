@@ -1,0 +1,109 @@
+{
+	"id": "c9",
+	"type": "chapter",
+	"literal": "IX",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "PROVISIONS RELATING TO SPECIFIC DATA PROCESSING SITUATIONS"
+		},
+		{
+			"lang": "de",
+			"text": "VORSCHRIFTEN FÜR BESONDERE DATENVERARBEITUNGSSITUATIONEN"
+		},
+		{
+			"lang": "fr",
+			"text": "DISPOSITIONS RELATIVES À DES SITUATIONS PARTICULIÈRES DE TRAITEMENT DES DONNÉES"
+		},
+		{
+			"lang": "es",
+			"text": "DISPOSICIONES RELATIVAS A SITUACIONES DE TRATAMIENTO DE DATOS ESPECÍFICAS"
+		},
+		{
+			"lang": "pt",
+			"text": "DISPOSIÇÕES RELATIVAS A SITUAÇÕES ESPECÍFICAS DE TRATAMENTO DE DADOS"
+		},
+		{
+			"lang": "it",
+			"text": "DISPOSIZIONI RELATIVE A SPECIFICHE SITUAZIONI DI TRATTAMENTO DEI DATI"
+		},
+		{
+			"lang": "ga",
+			"text": "FORÁLACHA A BHAINEANN LE CÁSANNA SONRACHA PRÓISEÁLA SONRAÍ"
+		},
+		{
+			"lang": "cs",
+			"text": "USTANOVENÍ TÝKAJÍCÍ SE ZVLÁŠTNÍCH PŘÍPADŮ ZPRACOVÁNÍ"
+		},
+		{
+			"lang": "da",
+			"text": "BESTEMMELSER VEDRØRENDE SPECIFIKKE DATABEHANDLINGSSITUATIONER"
+		},
+		{
+			"lang": "et",
+			"text": "ANDMETÖÖTLUSE ERIOLUKORDI KÄSITLEVAD SÄTTED"
+		},
+		{
+			"lang": "el",
+			"text": "ΔΙΑΤΑΞΕΙΣ ΠΟΥ ΑΦΟΡΟΥΝ ΕΙΔΙΚΕΣ ΠΕΡΙΠΤΩΣΕΙΣ ΕΠΕΞΕΡΓΑΣΙΑΣ ΔΕΔΟΜΕΝΩΝ"
+		},
+		{
+			"lang": "bg",
+			"text": "РАЗПОРЕДБИ, СВЪРЗАНИ С ОСОБЕНИ СИТУАЦИИ НА ОБРАБОТВАНЕ НА ДАННИ"
+		},
+		{
+			"lang": "hu",
+			"text": "AZ ADATFELDOLGOZÁS KÜLÖNÖS ESETEIRE VONATKOZÓ RENDELKEZÉSEK"
+		},
+		{
+			"lang": "mt",
+			"text": "DISPOŻIZZJONIJIET RELATATI GĦAL SITWAZZJONIJIET SPEĊIFIĊI TA’ PPROĊESSAR TA’ DEJTA"
+		},
+		{
+			"lang": "lv",
+			"text": "NOTEIKUMI PAR ĪPAŠĀM DATU APSTRĀDES SITUĀCIJĀM"
+		},
+		{
+			"lang": "ro",
+			"text": "DISPOZIȚII REFERITOARE LA SITUAȚII SPECIFICE DE PRELUCRARE A DATELOR"
+		},
+		{
+			"lang": "sk",
+			"text": "USTANOVENIA TÝKAJÚCE SA OSOBITNÝCH SITUÁCIÍ SPRACÚVANIA ÚDAJOV"
+		},
+		{
+			"lang": "sl",
+			"text": "DOLOČBE O POSEBNIH PRIMERIH OBDELAVE PODATKOV"
+		},
+		{
+			"lang": "fi",
+			"text": "TIETOJENKÄSITTELYYN LIITTYVIÄ ERITYISTILANTEITA KOSKEVAT SÄÄNNÖKSET"
+		},
+		{
+			"lang": "pl",
+			"text": "PRZEPISY DOTYCZĄCE OKREŚLONYCH SYTUACJI ZWIĄZANYCH Z PRZETWARZANIEM DANYCH"
+		},
+		{
+			"lang": "lt",
+			"text": "NUOSTATOS, SUSIJUSIOS SU SPECIALIAIS DUOMENŲ TVARKYMO ATVEJAIS"
+		},
+		{
+			"lang": "nl",
+			"text": "BEPALINGEN IN VERBAND MET SPECIFIEKE SITUATIES OP HET GEBIED VAN GEGEVENSVERWERKING"
+		},
+		{
+			"lang": "sv",
+			"text": "BESTÄMMELSER OM SÄRSKILDA SITUATIONER VID BEHANDLING AV PERSONUPPGIFTER"
+		}
+	],
+	"children": [
+		"a80",
+		"a81",
+		"a82",
+		"a83",
+		"a84",
+		"a85"
+	],
+	"title": "Chapter 9"
+}

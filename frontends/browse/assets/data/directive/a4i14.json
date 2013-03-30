@@ -1,0 +1,102 @@
+{
+	"id": "a4i14",
+	"type": "point",
+	"literal": "14",
+	"parent": "a4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "‘representative’ means any natural or legal person established in the Union who, explicitly designated by the controller, acts and may be addressed by any supervisory authority and other bodies in the Union instead of the controller, with regard to the obligations of the controller under this Regulation;"
+		},
+		{
+			"lang": "de",
+			"text": "„Vertreter“ jede in der Union niedergelassene natürliche oder juristische Person, die von dem für die Verarbeitung Verantwortlichen ausdrücklich bestellt wurde und in Bezug auf die diesem nach dieser Verordnung obliegenden Verpflichtungen an seiner Stelle handelt und gegenüber den Aufsichtsbehörden oder sonstigen Stellen in der Union als Ansprechpartner fungiert;"
+		},
+		{
+			"lang": "fr",
+			"text": "«représentant»: toute personne physique ou morale établie dans l'Union expressément désignée par le responsable du traitement, qui agit en lieu et place de ce dernier et peut être contactée à sa place par les autorités de contrôle et d'autres entités dans l'Union, en ce qui concerne les obligations du responsable du traitement en vertu du présent règlement;"
+		},
+		{
+			"lang": "es",
+			"text": "«representante»: toda persona física o jurídica establecida en la Unión que, designada expresamente por el responsable del tratamiento, actúe en lugar del responsable del tratamiento y a la que pueda dirigirse cualquier autoridad de control y otros organismos de la Unión en lugar del responsable del tratamiento, en lo que respecta a las obligaciones de este último en virtud del presente Reglamento;"
+		},
+		{
+			"lang": "pt",
+			"text": "«Representante», a pessoa singular ou coletiva estabelecida na União, expressamente designada pelo responsável pelo tratamento, que atua em nome deste último e a quem se pode dirigir qualquer autoridade de controlo e outras entidades na União, no contexto das obrigações do responsável pelo tratamento nos termos do presente regulamento;"
+		},
+		{
+			"lang": "it",
+			"text": "“rappresentante”: la persona fisica o giuridica stabilita nell’Unione che, espressamente designata dal responsabile del trattamento, agisce e può, per quanto concerne gli obblighi incombenti al responsabile del trattamento a norma del presente regolamento, essere interpellata al suo posto dalle autorità di controllo e da altri organismi nell’Unione;"
+		},
+		{
+			"lang": "ga",
+			"text": "ciallaíonn ‘ionadaí’ aon duine nádúrtha nó dlítheanach atá bunaithe san Aontas agus atá ceaptha ag an rialaitheoir, a ghníomhaíonn thar ceann an rialaitheora agus a bhféadfaidh aon údarás maoirseachta dul i dteagmháil leis seachas dul i dteagmháil leis an rialaitheoir féin, maidir le hoibleagáidí an rialaitheora faoin Rialachán seo;"
+		},
+		{
+			"lang": "cs",
+			"text": "„zástupcem“ jakákoli fyzická nebo právnická osoba usazená v Unii, která je výslovně jmenována správcem k tomu, aby jednala a mohla být oslovována orgánem dozoru a dalšími orgány v Unii místo správce, pokud jde o povinnosti správce ve smyslu tohoto nařízení;"
+		},
+		{
+			"lang": "da",
+			"text": "&quot;repræsentant&quot;: enhver fysisk eller juridisk person, der er etableret i Unionen, som udtrykkeligt er udpeget af den registeransvarlige, og som handler og kan kontaktes af en tilsynsmyndighed og andre organer i Unionen i stedet for den registeransvarlige, hvad angår den registeransvarliges forpligtelser i medfør af denne forordning"
+		},
+		{
+			"lang": "et",
+			"text": "„esindaja” – liidus asuv füüsiline või juriidiline isik, kelle vastutav töötleja on otseselt nimetanud ja kes tegutseb tema nimel ning kelle poole liidu järelevalveasutused ja muud organid võivad pöörduda vastutava töötleja poole pöördumise asemel vastutava töötleja käesolevast määrusest tulenevate kohustuste küsimuses."
+		},
+		{
+			"lang": "el",
+			"text": "«εκπρόσωπος»: κάθε φυσικό ή νομικό πρόσωπο εγκαταστημένο στην Ένωση, το οποίο ορίζεται ρητώς από τον υπεύθυνο επεξεργασίας και ενεργεί αντί του υπευθύνου επεξεργασίας, και στο οποίο μπορούν να απευθυνθούν κάθε αρχή ελέγχου και άλλοι φορείς στην Ένωση αντί του υπευθύνου επεξεργασίας, σε σχέση με τις υποχρεώσεις του υπευθύνου επεξεργασίας οι οποίες απορρέουν από τον παρόντα κανονισμό·"
+		},
+		{
+			"lang": "bg",
+			"text": "„представител“ означава всяко физическо или юридическо лице, установено в Съюза, което е изрично назначено от администратора, действа вместо администратора и към него могат да се обръщат надзорните органи и други органи в Съюза във връзка със задълженията на администратора съгласно настоящия регламент;"
+		},
+		{
+			"lang": "hu",
+			"text": "„képviselő”: az az Unióban letelepedett természetes vagy jogi személy, aki, illetve amely az adatkezelő kifejezett szándékának megfelelően tevékenykedik, és akit, illetve amelyet az adatkezelőre e rendelet értelmében háruló kötelezettségek vonatkozásában a felügyelő hatóság vagy az Unió más szerve az adatkezelő helyett megkeres;"
+		},
+		{
+			"lang": "mt",
+			"text": "‘rappreżentant’ tfisser kull persuna fiżika jew ġuridika stabbilita fl-Unjoni li, maħtura b’mod espliċitu mill-kontrollur, taġixxi u tista’ tkun indirizzata minn kwalunkwe awtorità ta’ superviżjoni u korpi oħrajn fl-Unjoni minflok il-kontrollur, fir-rigward tal-obbligi tal-kontrollur taħt dan ir-Regolament;"
+		},
+		{
+			"lang": "lv",
+			"text": "&quot;pārstāvis&quot; ir fiziska vai juridiska persona, kas atrodas Savienībā, ko pārzinis ir nepārprotami norīkojis un kas rīkojas pārziņa vietā un pie kuras var griezties jebkura uzraudzības iestāde un citas struktūras Savienībā saistībā ar pārziņa pienākumiem saskaņā ar šo regulu;"
+		},
+		{
+			"lang": "ro",
+			"text": "„reprezentant” înseamnă orice persoană fizică sau juridică stabilită în Uniune, desemnată explicit de către operator, care acționează și poate fi contactată în locul operatorului de către orice autoritate de supraveghere și alte organisme din Uniune, în ceea ce privește obligațiile care îi revin operatorului în temeiul prezentului regulament;"
+		},
+		{
+			"lang": "sk",
+			"text": "„zástupca“ je fyzická alebo právnická osoba so sídlom v Únii, ktorú prevádzkovateľ výslovne ustanovil, ktorá koná namiesto prevádzkovateľa a na ktorú sa môže obracať ktorýkoľvek dozorný orgán alebo iné orgány v Únii v otázkach týkajúcich sa povinností prevádzkovateľa v zmysle tohto nariadenia;"
+		},
+		{
+			"lang": "sl",
+			"text": "„predstavnik“ pomeni vsako fizično ali pravno osebo, ustanovljeno v Uniji, ki jo je izrecno imenoval upravljavec in ki v Uniji deluje namesto upravljavca, nadzorni organi in drugi organi v Uniji pa se lahko namesto na upravljavca nanjo obrnejo v zvezi z obveznostmi upravljavca iz te uredbe;"
+		},
+		{
+			"lang": "fi",
+			"text": "’edustajalla’ unioniin sijoittautunutta luonnollista tai oikeushenkilöä, jonka rekisterinpitäjä on nimenomaisesti nimennyt toimimaan lukuunsa ja jonka puoleen valvontaviranomaiset ja muut elimet unionissa voivat kääntyä rekisterinpitäjän sijasta, kun on kyse tähän asetukseen perustuvista rekisterinpitäjän velvollisuuksista;"
+		},
+		{
+			"lang": "pl",
+			"text": "„przedstawiciel” oznacza każdą osobę fizyczną lub prawną mającą miejsce zamieszkania lub siedzibę w Unii, wyraźnie wyznaczoną przez administratora, która działa w miejsce administratora i do której organ nadzorczy lub inny podmiot w Unii mogą się zwrócić zamiast do administratora w kwestiach dotyczących obowiązków administratora wynikających z niniejszego rozporządzenia;"
+		},
+		{
+			"lang": "lt",
+			"text": "atstovas – bet koks Sąjungos teritorijoje įsisteigęs, duomenų valdytojo aiškiai paskirtas fizinis arba juridinis asmuo, kuris, kiek tai susiję su duomenų valdytojo pareigomis pagal šį reglamentą, veikia duomenų valdytojo vardu ir į kurį gali kreiptis bet kokia Sąjungos priežiūros institucija ir kitos įstaigos;"
+		},
+		{
+			"lang": "nl",
+			"text": "“vertegenwoordiger”: elke in de Unie gevestigde natuurlijke of rechtspersoon die uitdrukkelijk door de voor de verwerking verantwoordelijke als zodanig is aangewezen, die namens de voor de verwerking verantwoordelijke handelt en die door de toezichthoudende autoriteiten en andere instanties in de Unie in plaats van de voor de verwerking verantwoordelijke kan worden aangesproken in verband met de verplichtingen van de voor de verwerking verantwoordelijke uit hoofde van deze verordening;"
+		},
+		{
+			"lang": "sv",
+			"text": "företrädare: en i unionen etablerad fysisk eller juridisk person som den registeransvarige uttryckligen utsett och som tillsynsmyndigheter och instanser inom unionen kan vända sig till i stället för till den registeransvarige i frågor som gäller den registeransvariges skyldigheter enligt denna förordning."
+		}
+	],
+	"children": [],
+	"title": "Article 4 – Point 14"
+}

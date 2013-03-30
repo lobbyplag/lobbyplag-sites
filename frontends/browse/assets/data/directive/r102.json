@@ -1,0 +1,102 @@
+{
+	"id": "r102",
+	"type": "recital",
+	"literal": "102",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Awareness raising activities by supervisory authorities addressed to the public should include specific measures directed at controllers and processors, including micro, small and medium-sized enterprises, as well as data subjects."
+		},
+		{
+			"lang": "de",
+			"text": "Die Aufklärungsmaßnahmen der Aufsichtsbehörden für die breite Öffentlichkeit sollten an die für die Verarbeitung Verantwortlichen, die Auftragsverarbeiter einschließlich Kleinst-, Klein- und Mittelunternehmen und die betroffenen Personen gerichtete spezifische Maßnahmen einschließen."
+		},
+		{
+			"lang": "fr",
+			"text": "Les activités de sensibilisation organisées par les autorités de contrôle à l'intention du public devraient comprendre des mesures spécifiques aux responsables du traitement et aux sous-traitants, y compris les micro, petites et moyennes entreprises, et aux personnes concernées."
+		},
+		{
+			"lang": "es",
+			"text": "Entre las actividades de sensibilización destinadas al público que realicen las autoridades de control deben incluirse medidas específicas dirigidas a los responsables y los encargados del tratamiento, incluidas las microempresas, las pequeñas y medianas empresas, y a los interesados."
+		},
+		{
+			"lang": "pt",
+			"text": "As atividades de sensibilização das autoridades de controlo dirigidas ao público devem incluir medidas específicas a favor dos responsáveis pelo tratamento e subcontratantes, incluindo as micro, pequenas e médias empresas, bem como os titulares de dados."
+		},
+		{
+			"lang": "it",
+			"text": "Le attività di sensibilizzazione delle autorità di controllo nei confronti del pubblico devono comprendere misure specifiche per i responsabili del trattamento e gli incaricati del trattamento, comprese le micro, piccole e medie imprese, e per gli interessati."
+		},
+		{
+			"lang": "ga",
+			"text": "Sna gníomhaíochtaí a dhéanann údaráis mhaoirseachta chun feasacht a ardú i measc an phobail ba cheart bearta sonracha a áireamh atá dírithe ar rialaitheoirí agus próiseálaithe, lena n‑áirítear micrifhiontair, fiontair bheaga agus fiontair mheánmhéide, agus daoine is ábhar do shonraí."
+		},
+		{
+			"lang": "cs",
+			"text": "Činnosti orgánů dozoru, jejichž cílem je zvyšování povědomí veřejnosti, by měly zahrnovat specifická opatření zaměřená na správce a zpracovatele, včetně mikropodniků, malých a středních podniků, jakož i na subjekty údajů."
+		},
+		{
+			"lang": "da",
+			"text": "Tilsynsmyndigheders oplysningskampagner over for offentligheden bør omfatte specifikke foranstaltninger rettet mod registeransvarlige, registerførere, herunder mikrovirksomheder og små og mellemstore virksomheder, og registrerede."
+		},
+		{
+			"lang": "et",
+			"text": "Järelevalveasutuste avalikkusele suunatud teadlikkuse tõstmise meetmed peaksid hõlmama volitatud töötlejatele, sealhulgas mikro-, väike- ja keskmise suurusega ettevõtetele ning andmesubjektidele suunatud konkreetseid meetmeid."
+		},
+		{
+			"lang": "el",
+			"text": "Οι δραστηριότητες ευαισθητοποίησης από τις αρχές ελέγχου οι οποίες απευθύνονται στο κοινό πρέπει να περιλαμβάνουν συγκεκριμένα μέτρα για τους υπευθύνους επεξεργασίας και τους εκτελούντες την επεξεργασία, συμπεριλαμβανομένων πολύ μικρών, μικρών και μεσαίων επιχειρήσεων, καθώς και για τα πρόσωπα στα οποία αναφέρονται τα δεδομένα."
+		},
+		{
+			"lang": "bg",
+			"text": "Дейностите на надзорния орган за повишаване на обществената осведоменост следва да включват специални мерки, насочени към администраторите и обработващите данни, в това число микропредприятията, малките и средните предприятия, както и субектите на данни."
+		},
+		{
+			"lang": "hu",
+			"text": "A felügyelő hatóságok nyilvánosságnak szánt figyelemfelkeltő tevékenységei magukban foglalják az adatkezelőknek és -feldolgozóknak – beleértve a mikro-, kis- és középvállalkozásokat –, valamint az érintetteknek címzett konkrét intézkedéseket."
+		},
+		{
+			"lang": "mt",
+			"text": "L-attivitajiet ta’ sensibilizzazzjoni tal-awtoritajiet ta’ superviżjoni indirizzati lill-pubbliku, għandhom jinkludu miżuri speċifiċi diretti lejn il-kontrolluri u l-proċessuri, inklużi mikroimpriżi, l-impriżi żgħar u medji, kif ukoll is-suġġetti tad-dejta."
+		},
+		{
+			"lang": "lv",
+			"text": "Uzraudzības iestāžu rīkotie izpratnes paaugstināšanas pasākumi, kuru mērķauditorija ir sabiedrība, ietver arī īpašus pasākumus, kas adresēti pārziņiem un apstrādātājiem, tostarp mikrouzņēmumiem, maziem un vidējiem uzņēmumiem, kā arī datu subjektiem."
+		},
+		{
+			"lang": "ro",
+			"text": "Activitățile de creștere a gradului de conștientizare organizate pentru public de autoritățile de supraveghere ar trebui să includă măsuri specifice care să vizeze operatorii și persoanele împuternicite de către operatori, inclusiv microîntreprinderile și întreprinderile mici și mijlocii, precum și persoanele vizate."
+		},
+		{
+			"lang": "sk",
+			"text": "Aktivity dozorných orgánov zamerané na zvyšovanie informovanosti a adresované verejnosti by mali zahŕňať špecifické opatrenia určené prevádzkovateľom a sprostredkovateľom vrátane malých a stredných podnikov, ako aj dotknutým osobám."
+		},
+		{
+			"lang": "sl",
+			"text": "Dejavnosti nadzornih organov, ki so namenjene ozaveščanju javnosti, bi morale obsegati posebne ukrepe, usmerjene na upravljavce in obdelovalce, vključno z mikro-, malimi in srednje velikimi podjetji, pa tudi posameznike, na katere se nanašajo osebni podatki."
+		},
+		{
+			"lang": "fi",
+			"text": "Yleisölle suunnattuun valvontaviranomaisen tiedotustoimintaan olisi sisällytettävä erityistoimia, jotka on osoitettu rekisterinpitäjille ja henkilötietojen käsittelijöille, mikroyritykset sekä pienet ja keskisuuret yritykset mukaan lukien, sekä rekisteröidyille."
+		},
+		{
+			"lang": "pl",
+			"text": "Działania w zakresie podnoszenia świadomości prowadzone przez organy nadzorcze i skierowane do opinii publicznej powinny obejmować szczególne środki adresowane do administratorów i podmiotów przetwarzających, w tym mikroprzedsiębiorców oraz małych i średnich przedsiębiorców, a także podmiotów danych."
+		},
+		{
+			"lang": "lt",
+			"text": "priežiūros institucijų vykdoma visuomenės informavimo veikla turėtų apimti specialias priemones duomenų valdytojams ir duomenų tvarkytojams, įskaitant labai mažas, mažąsias ir vidutines įmones, ir duomenų subjektams;"
+		},
+		{
+			"lang": "nl",
+			"text": "De toezichthoudende autoriteiten dienen bij voorlichtingsactiviteiten voor het publiek specifieke maatregelen te nemen voor de voor de verwerking verantwoordelijken en de verwerkers."
+		},
+		{
+			"lang": "sv",
+			"text": "Medvetandehöjande kampanjer som tillsynsmyndigheter genomför bör innefatta särskilda åtgärder riktade dels till registeransvariga och registerförare, exempelvis mikroföretag samt små och medelstora företag, dels till de registrerade."
+		}
+	],
+	"children": [],
+	"title": "Recital 102"
+}

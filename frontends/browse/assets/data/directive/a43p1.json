@@ -1,0 +1,106 @@
+{
+	"id": "a43p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a43",
+	"text": [
+		{
+			"lang": "en",
+			"text": "A supervisory authority shall in accordance with the consistency mechanism set out in Article 58 approve binding corporate rules, provided that they:"
+		},
+		{
+			"lang": "de",
+			"text": "Eine Aufsichtsbehörde kann nach Maßgabe des in Artikel 58 beschriebenen Kohärenzverfahrens verbindliche unternehmensinterne Vorschriften genehmigen, sofern diese"
+		},
+		{
+			"lang": "fr",
+			"text": "Une autorité de contrôle approuve des règles d’entreprise contraignantes conformément au mécanisme de contrôle de la cohérence prévu à l'article 58, à condition:"
+		},
+		{
+			"lang": "es",
+			"text": "Una autoridad de control aprobará normas corporativas vinculantes de conformidad con el mecanismo de coherencia establecido en el artículo 58, siempre que estas:"
+		},
+		{
+			"lang": "pt",
+			"text": "Uma autoridade de controlo, em conformidade com o mecanismo de controlo de coerência previsto no artigo 58.º, aprova as regras vinculativas para empresas, desde que estas:"
+		},
+		{
+			"lang": "it",
+			"text": "L’autorità di controllo approva, in conformità del meccanismo di coerenza di cui all’articolo 58, le norme vincolanti d’impresa, a condizione che queste:"
+		},
+		{
+			"lang": "ga",
+			"text": "Formheasfaidh údarás maoirseachta rialacha ceangailteacha corparáideacha i gcomhréir leis an sásra comhsheasmhachta atá leagtha amach in Airteagal 58, ar choinníoll:"
+		},
+		{
+			"lang": "cs",
+			"text": "Orgán dozoru schvaluje v souladu s mechanismem jednotnosti stanoveným v článku 58 závazná podniková pravidla za předpokladu, že:"
+		},
+		{
+			"lang": "da",
+			"text": "I overensstemmelse med den sammenhængsmekanisme, der er omhandlet i artikel 58, godkender en tilsynsmyndighed bindende virksomhedsregler, såfremt de:"
+		},
+		{
+			"lang": "et",
+			"text": "Järelevalveasutus kehtestab kooskõlas artiklis 58 osutatud järjepidevuse mehhanismiga siduvad ettevõtluseeskirjad, tingimusel et need:"
+		},
+		{
+			"lang": "el",
+			"text": "Η αρχή ελέγχου εγκρίνει, σύμφωνα με τον μηχανισμό συνεκτικότητας που προβλέπεται στο άρθρο 58, δεσμευτικούς εταιρικούς κανόνες, υπό τον όρο ότι"
+		},
+		{
+			"lang": "bg",
+			"text": "Даден надзорен орган одобрява задължителни фирмени правила в съответствие с механизма за съгласуваност, определен в член 58, при условие че те:"
+		},
+		{
+			"lang": "hu",
+			"text": "A felügyelő hatóság az 58. cikkben meghatározott egységességi mechanizmusnak megfelelően jóváhagyja a kötelező erejű vállalati szabályokat, feltéve hogy azok"
+		},
+		{
+			"lang": "mt",
+			"text": "Awtorità ta’ superviżjoni, f’konformità mal-mekkaniżmu ta’ konsistenza stabbilit fl-Artikolu 58, għandha tapprova regoli korporattivi vinkolanti, sakemm dawn"
+		},
+		{
+			"lang": "lv",
+			"text": "Uzraudzības iestāde saskaņā ar 58. pantā minēto konsekvences mehānismu apstiprina saistošos uzņēmuma noteikumus ar nosacījumu, ka tie:"
+		},
+		{
+			"lang": "ro",
+			"text": "În conformitate cu mecanismul pentru asigurarea coerenței prevăzut la articolul 58, autoritatea de supraveghere aprobă regulile corporatiste obligatorii, cu condiția ca acestea:"
+		},
+		{
+			"lang": "sk",
+			"text": "Dozorný orgán v súlade s mechanizmom konzistentnosti ustanoveným v článku 58 schváli záväzné firemné pravidlá, ak spĺňajú tieto predpoklady:"
+		},
+		{
+			"lang": "sl",
+			"text": "Nadzorni organ v skladu z mehanizmom za skladnost iz člena 58 zavezujoča poslovna pravila odobri, če:"
+		},
+		{
+			"lang": "fi",
+			"text": "Valvontaviranomainen vahvistaa yrityksiä koskevat sitovat säännöt 58 artiklassa säädetyn yhdenmukaisuusmekanismin mukaisesti, jos"
+		},
+		{
+			"lang": "pl",
+			"text": "Organ nadzorczy zatwierdza wiążące reguły korporacyjne zgodnie z mechanizmem zgodności przewidzianym w art. 58 pod warunkiem, że:"
+		},
+		{
+			"lang": "lt",
+			"text": "Priežiūros institucija pagal 58 straipsnyje nustatytą nuoseklumo užtikrinimo mechanizmą patvirtina įmonei privalomas taisykles, jeigu:"
+		},
+		{
+			"lang": "nl",
+			"text": "Een toezichthoudende autoriteit keurt in het kader van de in artikel 58 bedoelde conformiteitstoetsing bindende bedrijfsvoorschriften goed, op voorwaarde dat deze:"
+		},
+		{
+			"lang": "sv",
+			"text": "En tillsynsmyndighet ska godkänna bindande företagsbestämmelser enligt den mekanism för enhetlighet som föreskrivs i artikel 58, förutsatt att dessa bestämmelser"
+		}
+	],
+	"children": [
+		"a43p1i1",
+		"a43p1i2",
+		"a43p1i3"
+	],
+	"title": "Article 43 – Paragraph 1"
+}

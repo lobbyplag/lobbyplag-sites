@@ -1,0 +1,102 @@
+{
+	"id": "r1",
+	"type": "recital",
+	"literal": "1",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The protection of natural persons in relation to the processing of personal data is a fundamental right. Article 8(1) of the Charter of Fundamental Rights of the European Union and Article 16(1) of the Treaty lay down that everyone has the right to the protection of personal data concerning him or her."
+		},
+		{
+			"lang": "de",
+			"text": "Der Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten ist ein Grundrecht. Gemäß Artikel 8 Absatz 1 der Charta der Grundrechte der Europäischen Union sowie Artikel 16 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union hat jede Person das Recht auf Schutz der sie betreffenden personenbezogenen Daten."
+		},
+		{
+			"lang": "fr",
+			"text": "La protection des personnes physiques à l'égard du traitement des données à caractère personnel est un droit fondamental. L’article 8, paragraphe 1, de la charte des droits fondamentaux de l’Union européenne et l’article 16, paragraphe 1, du traité sur le fonctionnement de l’Union européenne disposent que toute personne a droit à la protection des données à caractère personnel la concernant."
+		},
+		{
+			"lang": "es",
+			"text": "La protección de las personas físicas en relación con el tratamiento de datos personales es un derecho fundamental. El artículo 8, apartado 1, de la Carta de los Derechos Fundamentales de la Unión Europea y el artículo 16, apartado 1, del Tratado establecen que toda persona tiene derecho a la protección de los datos de carácter personal que le conciernan."
+		},
+		{
+			"lang": "pt",
+			"text": "A proteção das pessoas singulares relativamente ao tratamento de dados pessoais é um direito fundamental. O artigo 8.º, n.º 1, da Carta dos Direitos Fundamentais da União Europeia e o artigo 16.º, n.º 1, do Tratado sobre o Funcionamento da União Europeia estabelecem que todas as pessoas têm direito à proteção dos dados de caráter pessoal que lhes digam respeito."
+		},
+		{
+			"lang": "it",
+			"text": "La tutela delle persone fisiche con riguardo al trattamento dei dati personali è un diritto fondamentale. L’articolo 8, paragrafo 1, della Carta dei diritti fondamentali dell’Unione europea e l’articolo 16, paragrafo 1, del trattato stabiliscono che ogni persona ha diritto alla protezione dei dati di carattere personale che la riguardano."
+		},
+		{
+			"lang": "ga",
+			"text": "Ceart bunúsach is ea cosaint daoine nádúrtha i ndáil le próiseáil sonraí pearsanta. In Airteagal 8(1) den Chairt um Chearta Bunúsacha an Aontais Eorpaigh agus in Airteagal 16(1) den Chonradh ar Fheidhmiú an Aontais Eorpaigh, leagtar síos go bhfuil ag gach duine an ceart go ndéanfar na sonraí pearsanta a bhaineann leis a chosaint."
+		},
+		{
+			"lang": "cs",
+			"text": "Ochrana fyzických osob v souvislosti se zpracováváním osobních údajů je základním právem. Ustanovení čl. 8 odst. 1 Listiny základních práv Evropské unie a čl. 16 odst. 1 Smlouvy stanoví, že každý má právo na ochranu osobních údajů, které se jej týkají."
+		},
+		{
+			"lang": "da",
+			"text": "Beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger er en grundlæggende rettighed. I artikel 8, stk. 1, i Den Europæiske Unions charter om grundlæggende rettigheder og artikel 16, stk. 1, i traktaten fastsættes det, at enhver har ret til beskyttelse af personoplysninger om vedkommende selv."
+		},
+		{
+			"lang": "et",
+			"text": "Füüsiliste isikute kaitse isikuandmete töötlemisel on põhiõigus. Euroopa Liidu põhiõiguste harta artikli 8 lõikes 1 ja ELi toimimise lepingu artikli 16 lõikes 1 on sätestatud, et igaühel on õigus oma isikuandmete kaitsele."
+		},
+		{
+			"lang": "el",
+			"text": "Η προστασία των φυσικών προσώπων έναντι της επεξεργασίας δεδομένων προσωπικού χαρακτήρα είναι θεμελιώδες δικαίωμα. Το άρθρο 8 παράγραφος 1 του Χάρτη Θεμελιωδών Δικαιωμάτων της Ευρωπαϊκής Ένωσης και το άρθρο 16 παράγραφος 1 της Συνθήκης ορίζουν ότι κάθε πρόσωπο έχει δικαίωμα στην προστασία των δεδομένων προσωπικού χαρακτήρα που το αφορούν."
+		},
+		{
+			"lang": "bg",
+			"text": "Защитата на физическите лица във връзка с обработването на лични данни е основно право. Член 8, параграф 1 от Хартата на основните права на Европейския съюз и член 16, параграф 1 от Договора постановяват, че всеки има право на защита на личните данни, отнасящи се до него."
+		},
+		{
+			"lang": "hu",
+			"text": "A természetes személyeknek a személyes adataik feldolgozásával kapcsolatban nyújtott védelem alapvető jog. Az Európai Unió Alapjogi Chartája 8. cikkének (1) bekezdése és a Szerződés 16. cikkének (1) bekezdése rögzíti, hogy mindenkinek joga van a rá vonatkozó személyes adatok védelméhez."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-protezzjoni ta’ persuni fiżiċi fir-rigward tal-ipproċessar ta’ dejta personali hija dritt fundamentali. L-Artikolu 8(1) tal-Karta tad-Drittijiet Fundamentali tal-Unjoni Ewropea u l-Artikolu 16(1) tat-Trattat jistabbilixxu li kull persuna għandu jkollha d-dritt għall-protezzjoni tad-dejta personali li tirrigwardaha."
+		},
+		{
+			"lang": "lv",
+			"text": "Fizisku personu aizsardzība attiecībā uz personas datu aizsardzību ir pamattiesības. Eiropas Savienības Pamattiesību hartas 8. panta 1. punkts un Līguma 16. panta 1. punkts paredz, ka ikvienai personai ir tiesības uz savu personas datu aizsardzību."
+		},
+		{
+			"lang": "ro",
+			"text": "Protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal este un drept fundamental. Articolul 8 alineatul (1) din Carta drepturilor fundamentale a Uniunii Europene și articolul 16 alineatul (1) din tratat prevăd că orice persoană are dreptul la protecția datelor cu caracter personal care o privesc."
+		},
+		{
+			"lang": "sk",
+			"text": "Ochrana fyzických osôb v súvislosti so spracúvaním osobných údajom patrí medzi základné práva. V článku 8 ods. 1 Charty základných práv Európskej únie a v článku 16 ods. 1 zmluvy sa stanovuje zásada, že každý má právo na ochranu osobných údajov, ktoré sa ho týkajú."
+		},
+		{
+			"lang": "sl",
+			"text": "Varstvo fizičnih oseb pri obdelavi osebnih podatkov je temeljna pravica. Člen 8(1) Listine Evropske unije o temeljnih pravicah in člen 16(1) Pogodbe določata, da ima vsakdo pravico do varstva osebnih podatkov, ki se nanašajo nanj."
+		},
+		{
+			"lang": "fi",
+			"text": "Luonnollisten henkilöiden suojelu henkilötietojen käsittelyn yhteydessä on perusoikeus. Euroopan unionin perusoikeuskirjan 8 artiklan 1 kohdan ja Euroopan unionin toiminnasta tehdyn sopimuksen 16 artiklan 1 kohdan mukaan jokaisella on oikeus henkilötietojensa suojaan."
+		},
+		{
+			"lang": "pl",
+			"text": "Ochrona osób fizycznych w zakresie przetwarzania danych osobowych jest prawem podstawowym. Artykuł 8 ust. 1 Karty praw podstawowych i art. 16 ust. 1 Traktatu stanowią, iż każda osoba ma prawo do ochrony danych osobowych, które jej dotyczą."
+		},
+		{
+			"lang": "lt",
+			"text": "fizinių asmenų apsauga tvarkant asmens duomenis yra pagrindinė teisė. Europos Sąjungos pagrindinių teisių chartijos 8 straipsnio 1 dalyje ir Sutarties 16 straipsnio 1 dalyje nustatyta, kad kiekvienas asmuo turi teisę į savo asmens duomenų apsaugą;"
+		},
+		{
+			"lang": "nl",
+			"text": "De bescherming van natuurlijke personen bij de verwerking van persoonsgegevens is een grondrecht. Krachtens artikel 8, lid 1, van het Handvest van de grondrechten van de Europese Unie en artikel 16, lid 1, van het Verdrag heeft eenieder het recht op bescherming van zijn persoonsgegevens."
+		},
+		{
+			"lang": "sv",
+			"text": "Skyddet av fysiska personer vid behandling av personuppgifter är en grundläggande rättighet. Artiklarna 8.1 i Europeiska unionens stadga om de grundläggande rättigheterna och artikel 16.1 i fördraget om Europeiska unionens funktionssätt (nedan kallat EUF-fördraget) garanterar var och en rätten till skydd av de personuppgifter som rör honom eller henne."
+		}
+	],
+	"children": [],
+	"title": "Recital 1"
+}

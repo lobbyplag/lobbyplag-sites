@@ -1,0 +1,111 @@
+{
+	"id": "c4s1",
+	"type": "section",
+	"literal": "1",
+	"parent": "c4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "GENERAL OBLIGATIONS"
+		},
+		{
+			"lang": "de",
+			"text": "ALLGEMEINE PFLICHTEN"
+		},
+		{
+			"lang": "fr",
+			"text": "OBLIGATIONS GÉNÉRALES"
+		},
+		{
+			"lang": "es",
+			"text": "OBLIGACIONES GENERALES"
+		},
+		{
+			"lang": "pt",
+			"text": "OBRIGAÇÕES GERAIS"
+		},
+		{
+			"lang": "it",
+			"text": "OBBLIGHI GENERALI"
+		},
+		{
+			"lang": "ga",
+			"text": "OIBLEAGÁIDÍ GINEARÁLTA"
+		},
+		{
+			"lang": "cs",
+			"text": "OBECNÉ POVINNOSTI"
+		},
+		{
+			"lang": "da",
+			"text": "GENERELLE FORPLIGTELSER"
+		},
+		{
+			"lang": "et",
+			"text": "ÜLDKOHUSTUSED"
+		},
+		{
+			"lang": "el",
+			"text": "ΓΕΝΙΚΕΣ ΥΠΟΧΡΕΩΣΕΙΣ"
+		},
+		{
+			"lang": "bg",
+			"text": "ОБЩИ ЗАДЪЛЖЕНИЯ"
+		},
+		{
+			"lang": "hu",
+			"text": "ÁLTALÁNOS KÖTELEZETTSÉGEK"
+		},
+		{
+			"lang": "mt",
+			"text": "OBBLIGI ĠENERALI"
+		},
+		{
+			"lang": "lv",
+			"text": "VISPĀRĪGI PIENĀKUMI"
+		},
+		{
+			"lang": "ro",
+			"text": "OBLIGAȚII GENERALE"
+		},
+		{
+			"lang": "sk",
+			"text": "VŠEOBECNÉ POVINNOSTI"
+		},
+		{
+			"lang": "sl",
+			"text": "SPLOŠNE OBVEZNOSTI"
+		},
+		{
+			"lang": "fi",
+			"text": "YLEISET VELVOLLISUUDET"
+		},
+		{
+			"lang": "pl",
+			"text": "OBOWIĄZKI OGÓLNE"
+		},
+		{
+			"lang": "lt",
+			"text": "BENDROSIOS PAREIGOS"
+		},
+		{
+			"lang": "nl",
+			"text": "ALGEMENE VERPLICHTINGEN"
+		},
+		{
+			"lang": "sv",
+			"text": "ALLMÄNNA SKYLDIGHETER"
+		}
+	],
+	"children": [
+		"a22",
+		"a23",
+		"a24",
+		"a25",
+		"a26",
+		"a27",
+		"a28",
+		"a29"
+	],
+	"title": "Chapter 4 – Section 1"
+}

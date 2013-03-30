@@ -1,0 +1,102 @@
+{
+	"id": "a83p2i3",
+	"type": "point",
+	"literal": "c",
+	"parent": "a83p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the data subject has made the data public."
+		},
+		{
+			"lang": "de",
+			"text": "die betroffene Person die Daten veröffentlicht hat."
+		},
+		{
+			"lang": "fr",
+			"text": "la personne concernée a rendu publiques les données en cause."
+		},
+		{
+			"lang": "es",
+			"text": "el interesado ha hecho públicos los datos."
+		},
+		{
+			"lang": "pt",
+			"text": "O titular dos dados tiver disponibilizado publicamente os dados."
+		},
+		{
+			"lang": "it",
+			"text": "l’interessato ha reso pubblici i dati."
+		},
+		{
+			"lang": "ga",
+			"text": "má chuireann an duine is ábhar do na sonraí na sonraí ar fáil go poiblí."
+		},
+		{
+			"lang": "cs",
+			"text": "pokud údaje zveřejnil subjekt údajů."
+		},
+		{
+			"lang": "da",
+			"text": "den registrerede har offentliggjort oplysningerne."
+		},
+		{
+			"lang": "et",
+			"text": "andmesubjekt on andmed avalikustanud."
+		},
+		{
+			"lang": "el",
+			"text": "γ) το πρόσωπο στο οποίο αναφέρονται τα δεδομένα δημοσιοποίησε τα δεδομένα."
+		},
+		{
+			"lang": "bg",
+			"text": "в) субектът на данните е обявил публично данните."
+		},
+		{
+			"lang": "hu",
+			"text": "az érintett nyilvánosságra hozta az adatokat."
+		},
+		{
+			"lang": "mt",
+			"text": "is-suġġett tad-dejta għamel id-dejta pubblika."
+		},
+		{
+			"lang": "lv",
+			"text": "datus ir darījis pieejamus atklātībai pats datu subjekts."
+		},
+		{
+			"lang": "ro",
+			"text": "persoana vizată a făcut publice datele respective."
+		},
+		{
+			"lang": "sk",
+			"text": "dotknutá osoba už tieto údaje zverejnila."
+		},
+		{
+			"lang": "sl",
+			"text": "posameznik podatke objavil."
+		},
+		{
+			"lang": "fi",
+			"text": "rekisteröity on itse julkistanut tiedot."
+		},
+		{
+			"lang": "pl",
+			"text": "osoba, której dane dotyczą podała dane do wiadomości publicznej."
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų subjektas paskelbė duomenis viešai."
+		},
+		{
+			"lang": "nl",
+			"text": "de betrokkene de gegevens heeft bekendgemaakt."
+		},
+		{
+			"lang": "sv",
+			"text": "den registrerade har gjort uppgifterna offentliga."
+		}
+	],
+	"children": [],
+	"title": "Article 83 – Paragraph 2 – Point 3"
+}

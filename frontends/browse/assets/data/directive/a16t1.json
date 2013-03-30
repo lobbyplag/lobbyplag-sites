@@ -1,0 +1,102 @@
+{
+	"id": "a16t1",
+	"type": "introduction",
+	"literal": null,
+	"parent": "a16",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The data subject shall have the right to obtain from the controller the rectification of personal data relating to them which are inaccurate. The data subject shall have the right to obtain completion of incomplete personal data, including by way of supplementing a corrective statement."
+		},
+		{
+			"lang": "de",
+			"text": "Die betroffene Person hat das Recht, von dem für die Verarbeitung Verantwortlichen die Berichtigung von unzutreffenden personenbezogenen Daten zu verlangen. Die betroffene Person hat das Recht, die Vervollständigung unvollständiger personenbezogener Daten, auch in Form eines Korrigendums, zu verlangen."
+		},
+		{
+			"lang": "fr",
+			"text": "La personne concernée a le droit d'obtenir du responsable du traitement la rectification des données à caractère personnel la concernant qui sont inexactes. La personne concernée a le droit d’obtenir que les données à caractère personnel incomplètes soient complétées, y compris au moyen d'une déclaration rectificative complémentaire."
+		},
+		{
+			"lang": "es",
+			"text": "El interesado tendrá derecho a obtener del responsable del tratamiento la rectificación de los datos personales que le conciernen cuando tales datos resulten inexactos. El interesado tendrá derecho a que se completen los datos personales cuando estos resulten incompletos, en particular mediante una declaración rectificativa adicional."
+		},
+		{
+			"lang": "pt",
+			"text": "O titular dos dados tem o direito de obter do responsável pelo tratamento a retificação dos dados pessoais inexatos que lhe digam respeito. O titular dos dados tem o direito de obter, nomeadamente através de uma declaração retificativa adicional, que os seus dados pessoais incompletos sejam completados."
+		},
+		{
+			"lang": "it",
+			"text": "L’interessato ha il diritto di ottenere dal responsabile del trattamento la rettifica di dati personali inesatti. L’interessato ha il diritto di ottenere l’integrazione di dati personali incompleti, anche mediante una dichiarazione rettificativa."
+		},
+		{
+			"lang": "ga",
+			"text": "Beidh sé de cheart ag an duine is ábhar do na sonraí go gceartóidh an rialaitheoir sonraí pearsanta míchruinne a bhaineann leis. Beidh sé de cheart ag an duine is ábhar do na sonraí go ndéanfar sonraí pearsanta neamhiomlána a chomhlánú, lena n‑áirítear trí ráiteas ceartaitheach a chur leo."
+		},
+		{
+			"lang": "cs",
+			"text": "Subjekt údajů má právo požadovat, aby správce opravil nepřesné osobní údaje, které se jej týkají. Subjekt údajů má právo požadovat, aby byly jeho neúplné osobní údaje doplněny, například formou opravného prohlášení."
+		},
+		{
+			"lang": "da",
+			"text": "Den registrerede kan kræve, at den registeransvarlige berigtiger urigtige personoplysninger om den registrerede. Den registrerede har ret til få kompletteret ufuldstændige personoplysninger, bl.a. ved at kræve en berigtigelse."
+		},
+		{
+			"lang": "et",
+			"text": "Andmesubjektil on õigus vastutavalt töötlejalt taotleda ebatäpsete isikuandmete parandamist. Andmesubjektil on õigus taotleda mittetäielike isikuandmete täiendamist, sealhulgas parandusandmetega õiendi esitamise teel."
+		},
+		{
+			"lang": "el",
+			"text": "Το πρόσωπο στο οποίο αναφέρονται τα δεδομένα δικαιούται να απαιτήσει από τον υπεύθυνο επεξεργασίας τη διόρθωση δεδομένων προσωπικού χαρακτήρα που το αφορούν τα οποία είναι ανακριβή. Το πρόσωπο στο οποίο αναφέρονται τα δεδομένα δικαιούται να απαιτήσει τη συμπλήρωση ελλιπών δεδομένων προσωπικού χαρακτήρα, μεταξύ άλλων παρέχοντας πρόσθετη διορθωτική δήλωση."
+		},
+		{
+			"lang": "bg",
+			"text": "Субектът на данни има право по негово искане администраторът да коригира неточните лични данни, свързани с него. Субектът на данните има право непълните лични данни да бъдат попълнени по негово искане, включително чрез добавяне на декларация за коригиране."
+		},
+		{
+			"lang": "hu",
+			"text": "Az érintett jogosult az adatkezelőtől a rá vonatkozó pontatlan személyes adatok helyesbítését kérni. Az érintett jogosult a hiányos személyes adatok kiegészítését kérni, ideértve a helyesbítő nyilatkozat igénybevételét."
+		},
+		{
+			"lang": "mt",
+			"text": "Is-suġġett tad-dejta għandu jkollu d-dritt li jikseb mingħand il-kontrollur ir-rettifika ta’ dejta personali dwaru li ma tkunx eżatta. Is-suġġett tad-dejta għandu jkollu d-dritt li jikseb il-kompletezza tad-dejta personali mhux kompluta, inkluż billi jissupplimenta stqarrija ta’ korrezzjoni."
+		},
+		{
+			"lang": "lv",
+			"text": "Datu subjektam attiecībā pret pārzini ir tiesības uz savu personas datu labošanu, ja tie ir neprecīzi. Datu subjektam ir tiesības uz nepilnīgu personas datu papildināšanu, tostarp izmantojot paziņojumu par labojumiem."
+		},
+		{
+			"lang": "ro",
+			"text": "Persoana vizată are dreptul de a obține de la operator rectificarea datelor sale cu caracter personal care sunt inexacte. Persoana vizată are dreptul de a obține completarea datelor cu caracter personal care sunt incomplete, inclusiv prin furnizarea unei declarații corective suplimentare."
+		},
+		{
+			"lang": "sk",
+			"text": "Dotknutá osoba má právo vymôcť prostredníctvom prevádzkovateľa opravu svojich osobných údajov, ktoré sú nesprávne. Dotknutá osoba má právo vymôcť doplnenie svojich osobných údajov, a to aj predložením opravného vyhlásenia."
+		},
+		{
+			"lang": "sl",
+			"text": "Posameznik, na katerega se nanašajo osebni podatki, ima pravico pri upravljavcu doseči popravek netočnih osebnih podatkov v zvezi z njim. Posameznik, na katerega se nanašajo osebni podatki, ima pravico do dopolnitve nepopolnih osebnih podatkov, vključno z izjavo o popravku."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisteröidyllä on oikeus vaatia, että rekisterinpitäjä oikaisee rekisteröityä koskevat virheelliset henkilötiedot. Rekisteröidyllä on oikeus saada puutteelliset henkilötiedot täydennettyä, erityisesti oikaisun avulla."
+		},
+		{
+			"lang": "pl",
+			"text": "Podmiot danych ma prawo do uzyskania przez administratora poprawienia nieścisłych danych osobowych, które go dotyczą. Podmiot danych ma prawo do uzyskania uzupełnienia niekompletnych danych osobowych, w tym w drodze sprostowania."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų subjektas turi teisę reikalauti, kad duomenų valdytojas ištaisytų netikslius jo asmens duomenis. Duomenų subjektas turi teisę reikalauti, kad būtų papildyti neišsamūs asmens duomenys, be kita ko, parengiant klaidų ištaisymą."
+		},
+		{
+			"lang": "nl",
+			"text": "De betrokkene heeft recht op rectificatie van hem betreffende onjuiste persoonsgegevens door de voor de verwerking verantwoordelijke. De betrokkene heeft recht op completering van onvolledige persoonlijke persoonsgegevens, onder meer door toevoeging van een rectificerende verklaring."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registrerade ska ha rätt att av den registeransvarige erhålla rättelse av personuppgifter som rör vederbörande och som är felaktiga. Den registrerade ska ha rätt att få till stånd komplettering av ofullständiga personuppgifter, bland annat genom att lägga till en korrigering."
+		}
+	],
+	"children": [],
+	"title": "Article 16 – Text 1"
+}

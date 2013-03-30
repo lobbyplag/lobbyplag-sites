@@ -1,0 +1,102 @@
+{
+	"id": "a4i5",
+	"type": "point",
+	"literal": "5",
+	"parent": "a4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "'controller' means the natural or legal person, public authority, agency or any other body which alone or jointly with others determines the purposes, conditions and means of the processing of personal data; where the purposes, conditions and means of processing are determined by Union law or Member State law, the controller or the specific criteria for his nomination may be designated by Union law or by Member State law;"
+		},
+		{
+			"lang": "de",
+			"text": "&quot;für die Verarbeitung Verantwortlicher&quot; die natürliche oder juristische Person, Behörde, Einrichtung oder jede andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke, Bedingungen und Mittel der Verarbeitung von personenbezogenen Daten entscheidet; sind die Zwecke, Bedingungen und Mittel der Verarbeitung von personenbezogenen Daten durch einzelstaatliches oder Unionsrecht vorgegeben, können der für die Verarbeitung Verantwortliche beziehungsweise die Modalitäten seiner Benennung nach einzelstaatlichem oder Unionsrecht bestimmt werden;"
+		},
+		{
+			"lang": "fr",
+			"text": "«responsable du traitement»: la personne physique ou morale, l’autorité publique, le service ou tout autre organisme qui, seul ou conjointement avec d’autres, détermine les finalités, les conditions et les moyens du traitement de données à caractère personnel; lorsque les finalités, les conditions et les moyens du traitement sont déterminés par le droit de l'Union ou la législation d'un État membre, le responsable du traitement peut être désigné, ou les critères spécifiques applicables pour le désigner peuvent être fixés, par le droit de l'Union ou par la législation d'un État membre;"
+		},
+		{
+			"lang": "es",
+			"text": "«responsable del tratamiento»: la persona física o jurídica, autoridad pública, servicio o cualquier otro organismo que solo o conjuntamente con otros determine los fines, condiciones y medios del tratamiento de datos personales; en caso de que los fines, condiciones y medios del tratamiento estén determinados por el Derecho de la Unión o la legislación de los Estados miembros, el responsable del tratamiento o los criterios específicos para su nombramiento podrán ser fijados por el Derecho de la Unión o por la legislación de los Estados miembros;"
+		},
+		{
+			"lang": "pt",
+			"text": "«Responsável pelo tratamento», a pessoa singular ou coletiva, a autoridade pública, a agência ou qualquer outro órgão que, por si ou em conjunto, determina as finalidades, as condições e os meios de tratamento de dados pessoais; sempre que as finalidades, as condições e os meios de tratamento sejam determinados pelo direito da União ou pela legislação dos Estados Membros, o responsável pelo tratamento ou os critérios específicos aplicáveis à sua nomeação podem ser indicados pelo direito da União ou pela legislação de um Estado-Membro;"
+		},
+		{
+			"lang": "it",
+			"text": "“responsabile del trattamento”: la persona fisica o giuridica, l’autorità pubblica, il servizio o qualsiasi altro organismo che, singolarmente o insieme ad altri, determina le finalità, le condizioni e i mezzi del trattamento di dati personali; quando le finalità, le condizioni e i mezzi del trattamento sono determinati dal diritto dell’Unione o dal diritto di uno Stato membro, il responsabile del trattamento o i criteri specifici applicabili alla sua nomina possono essere designati dal diritto dell’Unione o dal diritto dello Stato membro;"
+		},
+		{
+			"lang": "ga",
+			"text": "ciallaíonn ‘rialaitheoir’ an duine nádúrtha nó dlítheanach, an t‑údarás poiblí, an ghníomhaireacht nó aon chomhlacht eile a chinneann, ina aonar nó i gcomhpháirt, críocha, coinníollacha agus modhanna na próiseála ar shonraí pearsanta; i gcás ina gcinntear críocha, coinníollacha agus modhanna na próiseála le dlí an Aontais nó le dlí Ballstáit, féadfar an rialaitheoir a cheapadh nó na critéir shonracha d’ainmniú an rialaitheora sin a cheapadh le dlí an Aontais nó le dlí Ballstáit;"
+		},
+		{
+			"lang": "cs",
+			"text": "„správcem“ fyzická nebo právnická osoba, orgán veřejné moci, agentura nebo jakýkoli jiný subjekt, který sám nebo společně s jinými určuje účel, podmínky a prostředky zpracování osobních údajů; jsou-li účel, podmínky a prostředky zpracování určeny právem Unie či členského státu, je možné určit správce nebo zvláštní kritéria pro jeho jmenování na základě práva Unie nebo členského státu;"
+		},
+		{
+			"lang": "da",
+			"text": "&quot;registeransvarlig&quot;: en fysisk eller juridisk person, en offentlig myndighed, en institution eller ethvert andet organ, der alene eller sammen med andre afgør, til hvilket formål, på hvilke betingelser og med hvilke hjælpemidler der må foretages behandling af personoplysninger; hvis formålet, betingelserne og hjælpemidlerne til behandlingen er fastlagt i EU-retten eller medlemsstatens lovgivning, kan den registeransvarlige eller de specifikke kriterier for udpegning af denne angives i EU-retten eller en medlemsstats lovgivning"
+		},
+		{
+			"lang": "et",
+			"text": "„vastutav töötleja” – füüsiline või juriidiline isik, avaliku sektori asutus või muu asutus või organ, kes üksi või koos teistega määrab kindlaks isikuandmete töötlemise eesmärgid, tingimused ja vahendid; kui töötlemise eesmärgid, tingimused ja vahendid on kindlaks määratud liidu või liikmesriikide õigusega, võib vastutava töötleja või tema määramise konkreetsed kriteeriumid sätestada liidu või liikmesriigi õiguses;"
+		},
+		{
+			"lang": "el",
+			"text": "«υπεύθυνος επεξεργασίας»: το φυσικό ή νομικό πρόσωπο, η δημόσια αρχή, η υπηρεσία ή οποιοσδήποτε άλλος φορέας που μόνος ή από κοινού με άλλους καθορίζει τους στόχους, τις προϋποθέσεις και τον τρόπο της επεξεργασίας των δεδομένων προσωπικού χαρακτήρα· όταν οι στόχοι, οι προϋποθέσεις και ο τρόπος της επεξεργασίας καθορίζονται από το δίκαιο της Ένωσης ή το δίκαιο κράτους μέλους, ο υπεύθυνος της επεξεργασίας ή τα ειδικά κριτήρια για τον διορισμό του μπορούν να καθορίζονται από το δίκαιο της Ένωσης ή το δίκαιο κράτους μέλους·"
+		},
+		{
+			"lang": "bg",
+			"text": "„администратор“ означава физическо или юридическо лице, публичен орган, агенция или друга структура, която сама или съвместно с други определя целите, условията и средствата за обработването на лични данни; когато целите, условията и средствата за обработването се определят от правото на Съюза или това на държава-членка, администраторът или специалните критерии за неговото назначаване могат да бъдат определени в правото на Съюза или в правото на държава-членка;"
+		},
+		{
+			"lang": "hu",
+			"text": "„adatkezelő”: az a természetes vagy jogi személy, hatóság, ügynökség vagy bármely más szerv, amely önállóan vagy másokkal együtt meghatározza a személyes adatok feldolgozásának céljait, feltételeit és módját; ha a célokat, feltételeket és módokat egy adott uniós vagy nemzeti jogszabály határozza meg, az adatkezelőt vagy a kinevezésére vonatkozó külön szempontokat ez az uniós vagy nemzeti jogszabály jelöli ki;"
+		},
+		{
+			"lang": "mt",
+			"text": "‘kontrollur’ tfisser persuna fiżika jew ġuridika, awtorità pubblika, aġenzija jew korp ieħor li waħdu jew flimkien ma’ oħrajn jiddetermina l-objettivi, il-kundizzjonijiet u l-mezzi tal-ipproċessar ta’ dejta personali; meta l-objettivi, il-kundizzjonijiet u l-mezzi tal-ipproċessar ikunu ddeterminati mil-liġi tal-Unjoni jew mil-liġi ta’ Stat Membru, il-kontrollur jew il-kriterji speċifiċi tal-ħatra tiegħu jistgħu jkunu stabbiliti mil-liġi tal-Unjoni jew mil-liġi ta’ Stat Membru;"
+		},
+		{
+			"lang": "lv",
+			"text": "&quot;pārzinis&quot; ir fiziska vai juridiska persona, publiska iestāde, aģentūra vai jebkura cita struktūra, kas viena pati vai kopīgi ar citām nosaka personas datu apstrādes nolūkus, nosacījumus un līdzekļus; ja apstrādes nolūkus, nosacījumus un līdzekļus nosaka ar Savienības vai dalībvalsts tiesību aktu, pārzini vai viņa iecelšanas konkrētos kritērijus var noteikt Savienības vai dalībvalsts tiesību akti;"
+		},
+		{
+			"lang": "ro",
+			"text": "„operator” înseamnă persoana fizică sau juridică, autoritatea publică, agenția sau orice alt organism care, singur sau împreună cu altele, stabilește scopurile, condițiile și mijloacele de prelucrare a datelor cu caracter personal; atunci când scopurile, condițiile și mijloacele prelucrării sunt stabilite prin dreptul Uniunii sau prin legislația unui stat membru, operatorul sau criteriile specifice pentru desemnarea acestuia pot fi stabilite prin dreptul Uniunii sau prin legislația unui stat membru;"
+		},
+		{
+			"lang": "sk",
+			"text": "„prevádzkovateľ“ je fyzická alebo právnická osoba, verejný orgán, agentúra alebo akýkoľvek iný subjekt, ktorý sám alebo spoločne s inými určuje účel, podmienky a prostriedky spracúvania osobných údajov; v prípade, že účely, podmienky a prostriedky spracovania stanovujú právne predpisy Únie alebo právne predpisy členského štátu, možno prevádzkovateľa alebo konkrétne kritériá pre jeho určenie navrhnúť na základe právnych predpisov Únie alebo právnych predpisov členského štátu;"
+		},
+		{
+			"lang": "sl",
+			"text": "„upravljavec“ pomeni fizično ali pravno osebo, javni organ, agencijo ali vsak drug organ, ki sam ali skupaj z drugimi določa namene, pogoje in sredstva obdelave osebnih podatkov; kadar namene, pogoje in sredstva obdelave določa zakonodaja Unije ali zakonodaja držav članic, lahko upravljavca ali posebna merila za njegovo imenovanje določi zakonodaja Unije ali zakonodaja držav članic;"
+		},
+		{
+			"lang": "fi",
+			"text": "’rekisterinpitäjällä’ luonnollista tai oikeushenkilöä, viranomaista, virastoa tai muuta elintä, joka yksin tai yhdessä toisten kanssa määrittelee henkilötietojen käsittelyn tarkoitukset, edellytykset ja keinot; jos käsittelyn tarkoitukset, edellytykset ja keinot määritellään unionin tai jäsenvaltioiden lainsäädännössä, rekisterinpitäjä tai tämän nimittämistä koskevat erityiset kriteerit voidaan vahvistaa unionin tai jäsenvaltioiden säännösten mukaisesti;"
+		},
+		{
+			"lang": "pl",
+			"text": "„administrator” oznacza osobę fizyczną lub prawną, organ publiczny, jednostkę organizacyjną lub inny podmiot, który samodzielnie lub wspólnie z innymi organami ustala cele, warunki i sposoby przetwarzania danych osobowych; w przypadkach, w których cele, warunki i sposoby ustalane są prawem Unii lub państwa członkowskiego, administrator lub szczególne kryteria jego wyznaczania mogą zostać określone w prawie Unii lub państwa członkowskiego;"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų valdytojas – fizinis arba juridinis asmuo, valdžios institucija, agentūra ar kitas organas, kuris vienas ar drauge su kitais nustato asmens duomenų tvarkymo tikslus, sąlygas ir būdus; jeigu tvarkymo tikslai, sąlygos ir būdai nustatyti Sąjungos arba valstybės narės teisės aktais, duomenų valdytojas arba specialūs jo skyrimo kriterijai taip pat gali būti nustatyti Sąjungos arba valstybės narės teisės aktais;"
+		},
+		{
+			"lang": "nl",
+			"text": "“voor de verwerking verantwoordelijke”: de natuurlijke of rechtspersoon, de overheidsinstantie, de dienst of enig ander orgaan die, respectievelijk dat, alleen of tezamen met anderen, het doel van en de voorwaarden en middelen voor de verwerking van persoonsgegevens vaststelt; wanneer het doel van en de voorwaarden en middelen voor de verwerking worden vastgesteld bij EU-wetgeving of de nationale wetgeving, kan in de EU-wetgeving of de nationale wetgeving worden bepaald wie de voor de verwerking verantwoordelijke is of volgens welke criteria deze wordt aangewezen;"
+		},
+		{
+			"lang": "sv",
+			"text": "registeransvarig: en fysisk eller juridisk person, myndighet, institution eller annat organ som ensamt eller tillsammans med andra bestämmer ändamålen, villkoren och medlen för behandlingen av personuppgifter; om ändamålen, villkoren och medlen för behandlingen bestäms av unionslagstiftningen eller medlemsstaternas lagstiftning kan den registeransvarige eller de särskilda kriterierna för hur denne ska utses anges i unionslagstiftningen eller i medlemsstaternas lagstiftning."
+		}
+	],
+	"children": [],
+	"title": "Article 4 – Point 5"
+}

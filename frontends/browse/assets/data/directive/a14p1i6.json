@@ -1,0 +1,102 @@
+{
+	"id": "a14p1i6",
+	"type": "point",
+	"literal": "f",
+	"parent": "a14p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the recipients or categories of recipients of the personal data;"
+		},
+		{
+			"lang": "de",
+			"text": "die Empfänger oder Kategorien von Empfängern der personenbezogenen Daten,"
+		},
+		{
+			"lang": "fr",
+			"text": "les destinataires ou les catégories de destinataires des données à caractère personnel;"
+		},
+		{
+			"lang": "es",
+			"text": "los destinatarios o las categorías de destinatarios de los datos personales;"
+		},
+		{
+			"lang": "pt",
+			"text": "Destinatários ou categorias de destinatários dos dados pessoais;"
+		},
+		{
+			"lang": "it",
+			"text": "i destinatari o le categorie di destinatari dei dati personali;"
+		},
+		{
+			"lang": "ga",
+			"text": "faighteoirí nó catagóirí fhaighteoirí na sonraí pearsanta;"
+		},
+		{
+			"lang": "cs",
+			"text": "příjemce nebo kategorie příjemců osobních údajů;"
+		},
+		{
+			"lang": "da",
+			"text": "modtagerne eller kategorierne af modtagere af personoplysningerne"
+		},
+		{
+			"lang": "et",
+			"text": "isikuandmete vastuvõtjad või vastuvõtjate liigid;"
+		},
+		{
+			"lang": "el",
+			"text": "στ) τους αποδέκτες ή τις κατηγορίες αποδεκτών των δεδομένων προσωπικού χαρακτήρα·"
+		},
+		{
+			"lang": "bg",
+			"text": "е) получателите или категориите получатели на личните данни;"
+		},
+		{
+			"lang": "hu",
+			"text": "a személyes adatok címzettjei, illetve a címzettek kategóriái;"
+		},
+		{
+			"lang": "mt",
+			"text": "ir-riċevituri jew il-kategoriji ta’ riċevituri tad-dejta personali;"
+		},
+		{
+			"lang": "lv",
+			"text": "personas datu saņēmēji vai datu saņēmēju kategorijas;"
+		},
+		{
+			"lang": "ro",
+			"text": "destinatarii sau categoriile de destinatari ai datelor cu caracter personal;"
+		},
+		{
+			"lang": "sk",
+			"text": "príjemcov alebo kategórie príjemcov osobných údajov;"
+		},
+		{
+			"lang": "sl",
+			"text": "informacije o prejemnikih ali vrstah prejemnikov osebnih podatkov;"
+		},
+		{
+			"lang": "fi",
+			"text": "henkilötietojen vastaanottajat tai vastaanottajaryhmät;"
+		},
+		{
+			"lang": "pl",
+			"text": "odbiorcy lub kategorie odbiorców danych osobowych;"
+		},
+		{
+			"lang": "lt",
+			"text": "asmens duomenų gavėjus arba asmens duomenų gavėjų kategorijas;"
+		},
+		{
+			"lang": "nl",
+			"text": "de ontvangers of categorieën ontvangers van de persoonsgegevens;"
+		},
+		{
+			"lang": "sv",
+			"text": "Mottagarna eller de kategorier av mottagare som ska ta del av personuppgifterna."
+		}
+	],
+	"children": [],
+	"title": "Article 14 – Paragraph 1 – Point 6"
+}

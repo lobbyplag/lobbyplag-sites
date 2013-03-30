@@ -1,0 +1,102 @@
+{
+	"id": "a21p1i1",
+	"type": "point",
+	"literal": "a",
+	"parent": "a21p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "public security;"
+		},
+		{
+			"lang": "de",
+			"text": "zum Schutz der öffentlichen Sicherheit"
+		},
+		{
+			"lang": "fr",
+			"text": "assurer la sécurité publique;"
+		},
+		{
+			"lang": "es",
+			"text": "la seguridad pública;"
+		},
+		{
+			"lang": "pt",
+			"text": "A segurança pública;"
+		},
+		{
+			"lang": "it",
+			"text": "la pubblica sicurezza;"
+		},
+		{
+			"lang": "ga",
+			"text": "chun slándáil phoiblí a chosaint;"
+		},
+		{
+			"lang": "cs",
+			"text": "veřejnou bezpečnost;"
+		},
+		{
+			"lang": "da",
+			"text": "beskyttelse af den offentlige sikkerhed"
+		},
+		{
+			"lang": "et",
+			"text": "avalik julgeolek,"
+		},
+		{
+			"lang": "el",
+			"text": "α) της δημόσιας ασφάλειας·"
+		},
+		{
+			"lang": "bg",
+			"text": "а) обществената сигурност;"
+		},
+		{
+			"lang": "hu",
+			"text": "közbiztonság;"
+		},
+		{
+			"lang": "mt",
+			"text": "is-sigurtà pubblika;"
+		},
+		{
+			"lang": "lv",
+			"text": "sabiedrības drošību;"
+		},
+		{
+			"lang": "ro",
+			"text": "garanta securitatea publică;"
+		},
+		{
+			"lang": "sk",
+			"text": "verejnú bezpečnosť;"
+		},
+		{
+			"lang": "sl",
+			"text": "za zaščito javne varnosti;"
+		},
+		{
+			"lang": "fi",
+			"text": "yleinen turvallisuus;"
+		},
+		{
+			"lang": "pl",
+			"text": "zagwarantowaniu bezpieczeństwa publicznego;"
+		},
+		{
+			"lang": "lt",
+			"text": "visuomenės saugumą;"
+		},
+		{
+			"lang": "nl",
+			"text": "de openbare veiligheid;"
+		},
+		{
+			"lang": "sv",
+			"text": "den allmänna säkerheten,"
+		}
+	],
+	"children": [],
+	"title": "Article 21 – Paragraph 1 – Point 1"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "a17p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a17",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Where the controller referred to in paragraph 1 has made the personal data public, it shall take all reasonable steps, including technical measures, in relation to data for the publication of which the controller is responsible, to inform third parties which are processing such data, that a data subject requests them to erase any links to, or copy or replication of that personal data. Where the controller has authorised a third party publication of personal data, the controller shall be considered responsible for that publication."
+		},
+		{
+			"lang": "de",
+			"text": "Hat der in Absatz 1 genannte für die Verarbeitung Verantwortliche die personenbezogenen Daten öffentlich gemacht, unternimmt er in Bezug auf die Daten, für deren Veröffentlichung er verantwortlich zeichnet, alle vertretbaren Schritte, auch technischer Art, um Dritte, die die Daten verarbeiten, darüber zu informieren, dass eine betroffene Person von ihnen die Löschung aller Querverweise auf diese personenbezogenen Daten oder von Kopien oder Replikationen dieser Daten verlangt. Hat der für die Verarbeitung Verantwortliche einem Dritten die Veröffentlichung personenbezogener Daten gestattet, liegt die Verantwortung dafür bei dem für die Verarbeitung Verantwortlichen."
+		},
+		{
+			"lang": "fr",
+			"text": "Lorsque le responsable du traitement visé au paragraphe 1 a rendu publiques les données à caractère personnel, il prend toutes les mesures raisonnables, y compris les mesures techniques, en ce qui concerne les données publiées sous sa responsabilité, en vue d'informer les tiers qui traitent lesdites données qu'une personne concernée leur demande d'effacer tous liens vers ces données à caractère personnel, ou toute copie ou reproduction de celles-ci. Lorsque le responsable du traitement a autorisé un tiers à publier des données à caractère personnel, il est réputé responsable de cette publication."
+		},
+		{
+			"lang": "es",
+			"text": "Cuando el responsable del tratamiento contemplado en el apartado 1 haya hecho públicos los datos personales, adoptará todas las medidas razonables, incluidas medidas técnicas, en lo que respecta a los datos de cuya publicación sea responsable, con miras a informar a los terceros que estén tratando dichos datos de que un interesado les solicita que supriman cualquier enlace a esos datos personales, o cualquier copia o réplica de los mismos. Cuando el responsable del tratamiento haya autorizado a un tercero a publicar datos personales, será considerado responsable de esa publicación."
+		},
+		{
+			"lang": "pt",
+			"text": "Sempre que o responsável pelo tratamento referido no n.º 1 tiver tornado públicos os dados pessoais, deve adotar todas as medidas razoáveis, incluindo de caráter técnico, em relação aos dados publicados sob a sua responsabilidade, tendo em vista informar os terceiros que tratam esses dados que um titular de dados lhe solicita o apagamento de quaisquer ligações para esses dados pessoais, cópias ou reproduções desses dados. Se o responsável pelo tratamento tiver autorizado um terceiro a publicar dados pessoais, o primeiro é considerado responsável por essa publicação."
+		},
+		{
+			"lang": "it",
+			"text": "Quando ha reso pubblici dati personali, il responsabile del trattamento di cui al paragrafo 1 prende tutte le misure ragionevoli, anche tecniche, in relazione ai dati della cui pubblicazione è responsabile per informare i terzi che stanno trattando tali dati della richiesta dell’interessato di cancellare qualsiasi link, copia o riproduzione dei suoi dati personali. Se ha autorizzato un terzo a pubblicare dati personali, il responsabile del trattamento è ritenuto responsabile di tale pubblicazione."
+		},
+		{
+			"lang": "ga",
+			"text": "I gcás ina gcuireann an rialaitheoir dá dtagraítear i mír 1 na sonraí pearsanta ar fáil go poiblí, déanfaidh sé gach beart réasúnta, lena n‑áirítear bearta teicniúla, maidir le sonraí a bhfuil an rialaitheoir freagrach as a bpoibliú, chun tríú páirtithe atá ag próiseáil na sonraí sin a chur ar an eolas gur mhaith leis an duine is ábhar do na sonraí go scriosfaí aon naisc chuig na sonraí pearsanta sin, aon chóipeanna de na sonraí nó aon mhacasamhlú ar na sonraí. I gcás ina dtugann an rialaitheoir údarú don tríú páirtí sonraí pearsanta a phoibliú, measfar gurb é an rialaitheoir atá freagrach as an bpoibliú sin."
+		},
+		{
+			"lang": "cs",
+			"text": "Pokud správce uvedený v odstavci 1 zveřejnil osobní údaje, přijme vzhledem k údajům, za jejichž zveřejnění je zodpovědný, veškerá rozumná opatření, včetně technických, aby informoval třetí strany, které tyto údaje zpracovávají, že subjekt údajů od nich požaduje vymazání všech odkazů na tyto osobní údaje nebo kopií či replikací těchto osobních údajů. Pokud správce povolil zveřejnění osobních údajů třetí straně, nese za něj odpovědnost správce."
+		},
+		{
+			"lang": "da",
+			"text": "Hvis den i stk. 1 omhandlede registeransvarlige har offentliggjort person­oplysningerne, træffer denne alle rimelige foranstaltninger, herunder tekniske foranstaltninger, vedrørende oplysninger, hvis offentliggørelse den registeransvarlige er ansvarlig for, for at underrette tredjeparter, der behandler sådanne oplysninger, om, at en registreret ønsker, at de sletter alle link til, kopier af og gengivelser af disse personoplysninger. Hvis den registeransvarlige har godkendt, at en tredjepart offentliggør personoplysninger, er den registeransvarlige ansvarlig for denne offentliggørelse."
+		},
+		{
+			"lang": "et",
+			"text": "Juhul kui lõikes 1 osutatud vastutav töötleja on isikuandmed avalikustanud, peab ta enda avaldatud andmete suhtes võtma tarvitusele kõik mõistlikud abinõud, sealhulgas tehnilised meetmed, et teavitada kõnealuseid andmeid töötlevaid kolmandaid isikuid sellest, et andmesubjekt taotleb neilt kõnealustele andmetele osutavate linkide ning andmekoopiate ja -korduste kustutamist. Kui vastutav töötleja on andnud kolmandale isikule loa isikuandmeid avaldada, vastutab avalikustamise eest vastutavat töötleja."
+		},
+		{
+			"lang": "el",
+			"text": "Εάν ο υπεύθυνος επεξεργασίας που αναφέρεται στην παράγραφο 1 δημοσιοποίησε τα δεδομένα προσωπικού χαρακτήρα, οφείλει να λάβει κάθε εύλογο μέτρο, συμπεριλαμβανομένων τεχνικών μέτρων, σε σχέση με τα δεδομένα για τη δημοσίευση των οποίων αρμόδιος είναι ο υπεύθυνος επεξεργασίας για να ενημερώσει τρίτους οι οποίοι επεξεργάζονται τα εν λόγω δεδομένα ότι το πρόσωπο στο οποίο αναφέρονται τα δεδομένα ζητεί να διαγραφούν τυχόν σύνδεσμοι ή αντίγραφα ή αναπαραγωγές των συγκεκριμένων δεδομένων προσωπικού χαρακτήρα. Εάν ο υπεύθυνος επεξεργασίας επέτρεψε τη δημοσίευση δεδομένων προσωπικού χαρακτήρα από τρίτο, ο υπεύθυνος επεξεργασίας θεωρείται υπεύθυνος για τη συγκεκριμένη δημοσίευση."
+		},
+		{
+			"lang": "bg",
+			"text": "Когато администраторът, посочен в параграф 1, е направил личните данни обществено достояние, той предприема всички разумни мерки, в това число технически мерки, по отношение на данните, за чието публикуване носи отговорност, за да информира третите страни, които обработват такива данни, че даден субект на данни е поискал те да заличат всякакви връзки към тези лични данни или копия или реплики от тях. Когато администраторът е разрешил на дадена трета страна да публикува лични данни, той се счита за отговорен за това публикуване."
+		},
+		{
+			"lang": "hu",
+			"text": "Amennyiben az (1) bekezdés szerinti adatkezelő nyilvánosságra hozza a személyes adatokat, a technikai intézkedéseket is beleértve megtesz minden ésszerű lépést, hogy – azon adatok vonatkozásában, amelyek nyilvánosságra hozatala az adatkezelő felelősségi körébe tartozik – értesítse az ilyen adatokat feldolgozó harmadik felet arról, hogy az érintett kérte a személyes adat bármely nyilvános internetes linkjének, másolatának vagy másodpéldányának törlését. Amennyiben az adatkezelő harmadik felet hatalmazott fel a személyes adatok nyilvánosságra hozatalára, az adatkezelő felelősséggel tartozik e nyilvánosságra hozatalért."
+		},
+		{
+			"lang": "mt",
+			"text": "Meta l-kontrollur imsemmi fil-paragrafu 1 ikun għamel id-dejta personali pubblika, huwa għandu jieħu l-passi kollha raġonevoli, inklużi miżuri tekniċi, fir-rigward tad-dejta li l-kontrollur huwa responsabbli għall-pubblikazzjoni tagħha, sabiex jinforma lil partijiet terzi li li qegħdin jipproċessaw din id-dejta, li suġġett tad-dejta jitlobhom biex iħassru kwalunkwe rabta ma’, jew kopja jew replika ta’ dik id-dejta personali. Meta l-kontrollur ikun awtorizza pubblikazzjoni ta’ parti terza ta’ dejta personali, il-kontrollur għandu jitqies bħala responsabbli għal dik il-pubblikazzjoni."
+		},
+		{
+			"lang": "lv",
+			"text": "Ja pārzinis, kas minēts 1. punktā ir publiskojis personas datus, tas veic visus saprātīgus pasākumus, tostarp arī tehniskus pasākumus, saistībā ar datiem, par kuru publiskošanu pārzinis ir atbildīgs, lai informētu trešās personas, kas apstrādā šādus datus, ka datu subjekts pieprasījis dzēst visas saites uz šiem personas datiem vai šo datu kopijas vai atveidojumus. Ja pārzinis ir atļāvis trešām personām publiskot personas datus, uzskata, ka pārzinis ir atbildīgs par šādu publiskošanu."
+		},
+		{
+			"lang": "ro",
+			"text": "În cazul în care operatorul menționat la alineatul (1) a făcut publice datele cu caracter personal, acesta ia toate măsurile rezonabile, inclusiv măsuri tehnice, în ceea ce privește datele de a căror publicare este responsabil, pentru a informa terții care prelucrează astfel de date că persoana vizată le solicită să șteargă toate linkurile către datele cu caracter personal și orice copie sau reproducere a acestora. În cazul în care operatorul a autorizat un terț să publice date cu caracter personal, se consideră că operatorul este responsabil de publicarea datelor respective."
+		},
+		{
+			"lang": "sk",
+			"text": "V prípade, že prevádzkovateľ uvedený v odseku 1 zverejnil osobné údaje, musí podniknúť všetky primerané kroky súvisiace s údajmi na zverejnenie, za ktoré prevádzkovateľ nesie zodpovednosť, vrátane technických opatrení, s cieľom informovať tretie strany, ktoré spracúvajú tieto údaje, že dotknutá osoba ich žiada, aby odstránili všetky odkazy na tieto osobné údaje či ich kópiu alebo replikáciu. Ak prevádzkovateľ povolil tretej strane zverejnenie osobných údajov, tento prevádzkovateľ sa považuje za zodpovedného za zverejnenie."
+		},
+		{
+			"lang": "sl",
+			"text": "Če upravljavec iz odstavka 1 objavi osebne podatke, sprejme v zvezi s podatki, za objavo katerih je odgovoren, vse primerne ukrepe, vključno s tehničnimi, da tretje osebe, ki te podatke obdelujejo, obvesti, da posameznik, na katerega se nanašajo osebni podatki, od njih zahteva, da izbrišejo morebitne povezave do teh osebnih podatkov ali kopije osebnih podatkov. Če upravljavec odobri objavo osebnih podatkov s strani tretje osebe, se šteje za odgovornega za to objavo."
+		},
+		{
+			"lang": "fi",
+			"text": "Jos 1 kohdassa tarkoitettu rekisterinpitäjä on julkistanut tiedot, sen on toteutettava julkistamiensa tietojen osalta kaikki kohtuulliset toimenpiteet, mukaan lukien tekniset toimet, ilmoittaakseen näitä tietoja käsitteleville kolmansille osapuolille, että rekisteröity pyytää niitä poistamaan kyseisiin henkilötietoihin liittyvät linkit tai näiden henkilötietojen jäljennökset tai kopiot. Jos rekisterinpitäjä on valtuuttanut kolmannen osapuolen julkistamaan henkilötietoja, rekisterinpitäjän katsotaan olevan vastuussa julkaisemisesta."
+		},
+		{
+			"lang": "pl",
+			"text": "W przypadku podania przez administratora, o którym mowa w ust. 1, danych osobowych do wiadomości publicznej, podejmuje on wszelkie uzasadnione kroki, w tym środki techniczne, w odniesieniu do danych, za których publikację odpowiada, by poinformować osoby trzecie przetwarzające takie dane, iż podmiot danych wnioskuje o usunięcie linków do danych, kopii lub replikacji tych danych osobowych. Jeśli administrator upoważnił osobę trzecią do publikacji danych osobowych, uważa się go za odpowiedzialnego za tę publikację."
+		},
+		{
+			"lang": "lt",
+			"text": "Jeigu 1 dalyje nurodytas duomenų valdytojas viešai paskelbė asmens duomenis, jis imasi visų pagrįstų veiksmų, įskaitant technines priemones, dėl duomenų, už kurių paskelbimą yra atsakingas, kad informuotų tokius duomenis tvarkančius trečiuosius asmenis, jog duomenų subjektas prašo ištrinti visas nuorodas į tuos asmens duomenis arba jų kopijas ar dublikatus. Jeigu duomenų valdytojas leido trečiajam asmeniui paskelbti asmens duomenis, už tą paskelbimą atsakingu laikomas duomenų valdytojas."
+		},
+		{
+			"lang": "nl",
+			"text": "Wanneer de in lid 1 bedoelde voor de verwerking verantwoordelijke de persoonsgegevens openbaar heeft gemaakt, neemt hij alle redelijke maatregelen, waaronder technische maatregelen, ten aanzien van de gegevens die onder zijn verantwoordelijkheid openbaar zijn gemaakt, teneinde derden die deze gegevens verwerken ervan op de hoogte te stellen dat een betrokkene hun verzoekt ieder koppeling naar, of kopie of reproductie van die persoonsgegevens te wissen. Wanneer de voor de verwerking verantwoordelijke toestemming heeft gegeven voor openbaarmaking van persoonsgegevens door een derde, wordt de voor de verwerking verantwoordelijke voor die openbaarmaking verantwoordelijk geacht."
+		},
+		{
+			"lang": "sv",
+			"text": "Om den registeransvarige som avses i punkt 1 har offentliggjort personuppgifterna ska vederbörande vidta alla rimliga åtgärder, inbegripet tekniska åtgärder, avseende uppgifter för vars offentliggörande den registeransvarige är ansvarig, för att underrätta tredje parter som håller på att behandla sådana uppgifter om att en registrerad begär att de ska radera eventuella länkar till, eller kopior eller reproduktioner av dessa personuppgifter. Om den registeransvarige har gett en tredje part befogenhet att offentliggöra personuppgifter ska den registeransvarige anses vara ansvarig för detta offentliggörande."
+		}
+	],
+	"children": [],
+	"title": "Article 17 – Paragraph 2"
+}

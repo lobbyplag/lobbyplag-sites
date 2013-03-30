@@ -1,0 +1,102 @@
+{
+	"id": "a5t1",
+	"type": "introduction",
+	"literal": null,
+	"parent": "a5",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Personal data must be:"
+		},
+		{
+			"lang": "de",
+			"text": "Personenbezogene Daten müssen"
+		},
+		{
+			"lang": "fr",
+			"text": "Les données à caractère personnel doivent être:"
+		},
+		{
+			"lang": "es",
+			"text": "Los datos personales deberán ser:"
+		},
+		{
+			"lang": "pt",
+			"text": "Os dados pessoais devem ser:"
+		},
+		{
+			"lang": "it",
+			"text": "I dati personali devono essere:"
+		},
+		{
+			"lang": "ga",
+			"text": "Maidir le sonraí pearsanta, ní mór cloí leis an méid seo a leanas:"
+		},
+		{
+			"lang": "cs",
+			"text": "Osobní údaje musí být:"
+		},
+		{
+			"lang": "da",
+			"text": "Personoplysninger:"
+		},
+		{
+			"lang": "et",
+			"text": "Isikuandmete töötlemisel tagatakse, et:"
+		},
+		{
+			"lang": "el",
+			"text": "Τα δεδομένα προσωπικού χαρακτήρα πρέπει:"
+		},
+		{
+			"lang": "bg",
+			"text": "Личните данни трябва да бъдат:"
+		},
+		{
+			"lang": "hu",
+			"text": "A személyes adatok:"
+		},
+		{
+			"lang": "mt",
+			"text": "Id-dejta personali għandha tkun:"
+		},
+		{
+			"lang": "lv",
+			"text": "Personas datiem jābūt:"
+		},
+		{
+			"lang": "ro",
+			"text": "Datele cu caracter personal trebuie:"
+		},
+		{
+			"lang": "sk",
+			"text": "Osobné údaje musia byť:"
+		},
+		{
+			"lang": "sl",
+			"text": "Osebni podatki morajo biti:"
+		},
+		{
+			"lang": "fi",
+			"text": "Henkilötietojen suhteen on noudatettava seuraavia vaatimuksia:"
+		},
+		{
+			"lang": "pl",
+			"text": "Dane osobowe muszą być:"
+		},
+		{
+			"lang": "lt",
+			"text": "Asmens duomenys turi būti:"
+		},
+		{
+			"lang": "nl",
+			"text": "De persoonsgegevens moeten:"
+		},
+		{
+			"lang": "sv",
+			"text": "Vid behandling av personuppgifter ska följande gälla:"
+		}
+	],
+	"children": [],
+	"title": "Article 5 – Text 1"
+}

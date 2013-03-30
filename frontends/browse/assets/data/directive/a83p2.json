@@ -1,0 +1,106 @@
+{
+	"id": "a83p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a83",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Bodies conducting historical, statistical or scientific research may publish or otherwise publicly disclose personal data only if:"
+		},
+		{
+			"lang": "de",
+			"text": "Einrichtungen, die Arbeiten für historische oder statistische Zwecke oder zum Zwecke der wissenschaftlichen Forschung durchführen, dürfen personenbezogene Daten nur dann veröffentlichen oder auf andere Weise bekannt machen, wenn"
+		},
+		{
+			"lang": "fr",
+			"text": "Les organismes effectuant des recherches historiques, statistiques ou scientifiques ne peuvent publier ou divulguer des données à caractère personnel que si:"
+		},
+		{
+			"lang": "es",
+			"text": "Los organismos que llevan a cabo investigaciones históricas, estadísticas o científicas podrán publicar o hacer públicos por otra vía datos personales sólo si:"
+		},
+		{
+			"lang": "pt",
+			"text": "Os organismos que efetuem investigações históricas, estatísticas ou científicas só podem publicar ou divulgar dados pessoais se:"
+		},
+		{
+			"lang": "it",
+			"text": "Gli organismi che svolgono ricerche storiche, statistiche o scientifiche possono pubblicare o divulgare altrimenti al pubblico i dati personali solo se:"
+		},
+		{
+			"lang": "ga",
+			"text": "Ní fhéadfaidh comhlachtaí a dhéanann taighde stairiúil, staidrimh nó eolaíoch sonraí pearsanta a fhoilsiú ná a nochtadh go poiblí ar bhealach eile ach sna cásanna seo a leanas:"
+		},
+		{
+			"lang": "cs",
+			"text": "Subjekty provádějící historiografický, statistický nebo vědecký výzkum smí osobní údaje zveřejnit nebo jiným způsobem veřejně odtajnit pouze:"
+		},
+		{
+			"lang": "da",
+			"text": "Organer, der gennemfører historisk, statistisk eller videnskabelig forskning, må kun offentliggøre eller på anden måde videregive personoplysninger, hvis:"
+		},
+		{
+			"lang": "et",
+			"text": "Ajaloo- ja statistikauurimuste ning teadustööga tegelevad asutused võivad isikuandmeid avaldada või muul viisil avalikustada üksnes juhul, kui:"
+		},
+		{
+			"lang": "el",
+			"text": "Φορείς οι οποίοι διεξάγουν ιστορική, στατιστική ή επιστημονική έρευνα μπορούν να δημοσιεύουν ή να δημοσιοποιούν άλλως πως δεδομένα προσωπικού χαρακτήρα μόνον εάν:"
+		},
+		{
+			"lang": "bg",
+			"text": "Структурите, които провеждат исторически, статистически или научни изследвания, могат да публикуват лични данни само ако:"
+		},
+		{
+			"lang": "hu",
+			"text": "A történelmi, statisztikai vagy tudományos kutatást végző szervek kizárólag akkor hozhatják nyilvánosságra vagy tehetik más módon közzé a személyes adatokat, ha:"
+		},
+		{
+			"lang": "mt",
+			"text": "Korpi li jkunu qegħdin jagħmlu riċerka storika, statistika jew xjentifika jistgħu jippubblikaw jew b’mod ieħor jiżvelaw pubblikament dejta personali biss jekk:"
+		},
+		{
+			"lang": "lv",
+			"text": "Struktūras, kas veic vēstures, statistikas vai zinātnisko izpēti, var publicēt vai citādi darīt pieejamus atklātībai personas datus tikai tad, ja:"
+		},
+		{
+			"lang": "ro",
+			"text": "Organismele care desfășoară activități de cercetare istorică, statistică sau științifică pot publica sau face publice în alt mod date cu caracter personal numai dacă:"
+		},
+		{
+			"lang": "sk",
+			"text": "Orgány vykonávajúce historický, štatistický alebo vedecký výskum môžu zverejniť alebo inak verejne sprístupniť osobné údaje, len ak:"
+		},
+		{
+			"lang": "sl",
+			"text": "Organi, ki opravljajo zgodovinske, statistične ali znanstvene raziskave, lahko osebne podatke objavijo ali kako drugače javno razkrijejo samo, če je:"
+		},
+		{
+			"lang": "fi",
+			"text": "Elimet, jotka suorittavat historiantutkimusta taikka tilastollisia tai tieteellisiä tutkimuksia, voivat julkaista tai muulla tavoin julkistaa henkilötietoja vain, jos"
+		},
+		{
+			"lang": "pl",
+			"text": "Podmioty prowadzące badania historyczne, statystyczne lub naukowe mogą publikować lub ujawniać publicznie w inny sposób dane osobowe jedynie wtedy, gdy:"
+		},
+		{
+			"lang": "lt",
+			"text": "Istorinius, statistinius ar mokslinius tyrimus atliekančios įstaigos gali paskelbti arba kitaip paviešinti asmens duomenis tik tuo atveju, jeigu:"
+		},
+		{
+			"lang": "nl",
+			"text": "Organen die historisch, statistisch of wetenschappelijk onderzoek verrichten, mogen persoonsgegevens alleen publiceren of op andere wijze bekendmaken, wanneer:"
+		},
+		{
+			"lang": "sv",
+			"text": "Organ som utför historisk, statistisk eller vetenskaplig forskning får publicera eller avslöja personuppgifter på annat sätt endast under förutsättning att"
+		}
+	],
+	"children": [
+		"a83p2i1",
+		"a83p2i2",
+		"a83p2i3"
+	],
+	"title": "Article 83 – Paragraph 2"
+}

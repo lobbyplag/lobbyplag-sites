@@ -1,0 +1,102 @@
+{
+	"id": "r21",
+	"type": "recital",
+	"literal": "21",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "In order to determine whether a processing activity can be considered to ‘monitor the behaviour’ of data subjects, it should be ascertained whether individuals are tracked on the internet with data processing techniques which consist of applying a ‘profile’ to an individual, particularly in order to take decisions concerning her or him or for analysing or predicting her or his personal preferences, behaviours and attitudes."
+		},
+		{
+			"lang": "de",
+			"text": "Ob eine Verarbeitungstätigkeit der Beobachtung des Verhaltens von Personen gilt, sollte daran festgemacht werden, ob ihre Internetaktivitäten mit Hilfe von Datenverarbeitungstechniken nachvollzogen werden, durch die einer Person ein Profil zugeordnet wird, das die Grundlage für sie betreffende Entscheidungen bildet oder anhand dessen ihre persönliche Vorlieben, Verhaltensweisen oder Gepflogenheiten analysiert oder vorausgesagt werden sollen."
+		},
+		{
+			"lang": "fr",
+			"text": "Afin de déterminer si une activité de traitement peut être considérée comme «observant le comportement» des personnes concernées, il y a lieu d'établir si les personnes physiques sont suivies sur l'internet au moyen de techniques de traitement de données consistant à appliquer un «profil» à un individu, afin notamment de prendre des décisions le concernant ou d'analyser ou de prévoir ses préférences, son comportement et sa disposition d'esprit."
+		},
+		{
+			"lang": "es",
+			"text": "Para determinar si se puede considerar que una actividad de tratamiento «controla la conducta» de los interesados, debe evaluarse si las personas físicas son objeto de un seguimiento en internet con técnicas de tratamiento de datos que consistan en la aplicación de un «perfil» a un individuo con el fin, en particular, de adoptar decisiones sobre él o de analizar o predecir sus preferencias personales, comportamientos y actitudes."
+		},
+		{
+			"lang": "pt",
+			"text": "A fim de determinar se uma atividade de tratamento pode ser considerada de «controlo do comportamento» de titulares de dados, deve ser apurado se essas pessoas são seguidas na Internet através de técnicas de tratamento de dados que consistem em aplicar um «perfil» a uma pessoa singular, especialmente para adotar decisões relativas a essa pessoa ou analisar ou prever as suas preferências, o seu comportamento e atitudes."
+		},
+		{
+			"lang": "it",
+			"text": "Per stabilire se un’attività di trattamento sia assimilabile al “controllo del comportamento” dell’interessato, occorre verificare se le operazioni che questi esegue su Internet sono sottoposte a tecniche di trattamento dei dati volte alla “profilazione” dell’utente, in particolare per prendere decisioni che li riguardano o analizzarne o prevederne le preferenze, i comportamenti e le posizioni personali."
+		},
+		{
+			"lang": "ga",
+			"text": "Chun a chinneadh an féidir a mheas an ndéanann gníomhaíocht próiseála ‘faireachán ar iompar’ na ndaoine is ábhar do na sonraí, ba cheart a fháil amach má tá daoine aonair á rianú ar líne le teicníochtaí próiseála sonraí lena gcruthaítear ‘próifíl’ do dhaoine aonair, go háirithe chun cinntí a dhéanamh maidir leis an duine sin nó chun anailís a dhéanamh ar shainroghanna, iompar agus dearcadh an duine nó chun iad sin a thomhas."
+		},
+		{
+			"lang": "cs",
+			"text": "Aby se určilo, zda může být zpracovávání považováno za „sledování chování“ subjektu údajů, mělo by být zjištěno, zda jsou sledovány při své činnosti na internetu za pomoci technik zpracovávání údajů, které spočívají ve vytvoření „profilu“ osoby, zejména pro přijímání rozhodnutí, která se jí týkají, nebo pro rozbor nebo předpovídání jejích osobních preferencí, postojů a jejího chování."
+		},
+		{
+			"lang": "da",
+			"text": "For at afgøre, om en behandlingsaktivitet kan betragtes som &quot;overvågning af registreredes adfærd&quot;, bør det kontrolleres, om personer spores på internettet ved hjælp af databehandlingsaktiviteter, hvor en &quot;profil&quot; anvendes på en person, navnlig med det formål at træffe beslutninger om den pågældende eller analysere eller forudsige den pågældendes præferencer, adfærd og holdninger."
+		},
+		{
+			"lang": "et",
+			"text": "Selleks et teha kindlaks, kas töötlemistoimingut võib pidada andmesubjekti „käitumise jälgimiseks”, tuleb selgitada välja, kas üksikisikut jälgitakse internetis andmetöötlusmeetoditega, mis hõlmavad üksikisiku profileerimist eelkõige selleks, et teha tema kohta otsuseid või analüüsida või prognoosida tema eelistusi, käitumist ja hoiakuid."
+		},
+		{
+			"lang": "el",
+			"text": "Για τον καθορισμό του κατά πόσον μια διαδικασία επεξεργασίας μπορεί να θεωρηθεί ότι «παρακολουθεί τη συμπεριφορά» πρόσωπου στο οποίο αναφέρονται τα δεδομένα, πρέπει να εξακριβωθεί το κατά πόσον τα φυσικά πρόσωπα παρακολουθούνται στο Διαδίκτυο με τεχνικές επεξεργασίας δεδομένων οι οποίες συνίστανται στη διαμόρφωση του «προφίλ» ενός φυσικού προσώπου, ιδίως με σκοπό να ληφθούν αποφάσεις που το αφορούν ή να αναλυθούν ή να προβλεφθούν οι προσωπικές προτιμήσεις, οι συμπεριφορές και οι στάσεις του."
+		},
+		{
+			"lang": "bg",
+			"text": "С цел да се определи дали дадена дейност по обработване може да се смята за „наблюдение на поведението“ на субектите на данни следва да се установи дали физическите лица са следени в интернет посредством техники за обработване на данни, които се състоят в създаването на „профил“ на дадено физическо лице, по-специално с цел да се вземат решения относно него или да се анализират или предугаждат неговите лични предпочитания, поведение и начин на мислене."
+		},
+		{
+			"lang": "hu",
+			"text": "Annak meghatározása érdekében, hogy a feldolgozás az érintett „viselkedésének nyomon követésére” szolgál-e, azt kell megvizsgálni, hogy az egyéneket nyomon követik-e az interneten, vagy az egyén profiljának megalkotását is magában foglaló adatfeldolgozási technikákat alkalmaznak-e, különösen az egyénre vonatkozó döntések meghozatala vagy személyes igényeinek, viselkedésének vagy beállítottságának elemzése vagy előrejelzése érdekében."
+		},
+		{
+			"lang": "mt",
+			"text": "Sabiex ikun iddeterminat jekk attività ta’ pproċessar tistax titqies li ‘tissorvelja l-imġiba’ tas-suġġetti tad-dejta, għandu jkun aċċertat jekk l-individwi humiex segwiti fuq l-internet b’tekniki ta’ pproċessar tad-dejta li jikkonsistu mill-applikazzjoni ta’ ‘profil’ lil individwu, b’mod partikolari sabiex jittieħdu deċiżjonijiet li jirrigwardawh/a jew għall-analiżi jew it-tbassir tal-preferenzi, l-imġiba, l-attitudnijiet personali tiegħu/tagħha."
+		},
+		{
+			"lang": "lv",
+			"text": "Lai noteiktu, vai apstrādes darbību var uzskatīt par datu subjekta &quot;uzvedības novērošanu&quot;, būtu jāpārliecinās, vai fiziska persona tiek izsekota internetā ar datu apstrādes paņēmieniem, kas ietver &quot;profila&quot; piemērošanu fiziskai personai, jo īpaši, lai pieņemtu lēmumus saistībā ar datu subjektu vai analizētu vai iepriekšparedzētu viņa personīgās vēlmes, uzvedību un attieksmi."
+		},
+		{
+			"lang": "ro",
+			"text": "Pentru a se determina dacă o activitate de prelucrare poate fi considerată ca „monitorizare a comportamentului” persoanelor vizate, ar trebui să se analizeze dacă persoanele fizice sunt urmărite pe internet cu tehnici de prelucrare a datelor care constau în aplicarea unui „profil” unei persoane fizice, în special în scopul de a lua decizii cu privire la aceasta sau de a analiza sau de a face previziuni referitoare la preferințele personale, comportamentele și atitudinile acesteia."
+		},
+		{
+			"lang": "sk",
+			"text": "Na určenie toho, či spracúvanie údajov možno pokladať za „sledovanie správania“ dotknutej osoby, je potrebné zistiť, či je pohyb fyzických osôb na internete sledovaný prostredníctvom techník spracovania údajov, pomocou ktorých je fyzickej osobe pridelený „profil“ na účely prijatia rozhodnutia týkajúceho sa tejto osoby alebo na účely analýzy či predvídania osobných preferencií, správania a zvykov tejto osoby."
+		},
+		{
+			"lang": "sl",
+			"text": "Za ugotovitev, ali se za dejavnost obdelave lahko šteje, da „spremlja vedenje“ posameznikov, na katere se nanašajo osebni podatki, bi bilo treba preveriti, ali se posameznikom sledi na internetu s tehnikami obdelave podatkov, ki obsegajo določanje „profila“ posameznika, zlasti z namenom sprejemanja odločitev o zadevni osebi oziroma za analiziranje ali predvidevanje osebnega okusa in vedenja zadevne osebe."
+		},
+		{
+			"lang": "fi",
+			"text": "Sen määrittämiseksi, voidaanko käsittelytoiminnan katsoa koskevan rekisteröityjen ’käyttäytymisen seurantaa’, olisi varmistettava, onko yksilöitä seurattu internetissä sellaisten käsittelytekniikoiden avulla, jotka käsittävät ’profiilin’ soveltamisen tiettyyn yksilöön erityisesti häntä koskevien päätösten tekemistä varten tai hänen henkilökohtaisten mieltymystensä, käyttäytymisensä ja asenteidensa analysointia tai ennakoimista varten."
+		},
+		{
+			"lang": "pl",
+			"text": "Aby stwierdzić, czy przetwarzanie można uznać za „monitorowanie zachowania” podmiotów danych, należy upewnić się, czy osoby fizyczne można wyszukać w internecie, korzystając z technik przetwarzania danych, które polegają na przypisaniu „profilu” danej osobie fizycznej, w szczególności w celu podejmowania decyzji dotyczących tej osoby, analizowania jej preferencji osobistych, zachowań i postaw lub ich przewidywania."
+		},
+		{
+			"lang": "lt",
+			"text": "siekiant nustatyti, ar duomenų tvarkymas gali būti laikomas duomenų subjektų elgesio stebėjimu, reikėtų įvertinti, ar asmenys internete atsekti taikant duomenų tvarkymo metodus, kuriais asmeniui priskiriamas tam tikras profilis, ypač siekiant sužinoti jo sprendimus arba išnagrinėti ar prognozuoti jo asmeninius pomėgius, elgesį ir įpročius;"
+		},
+		{
+			"lang": "nl",
+			"text": "Om uit te maken of een verwerking kan worden beschouwd als “observeren/volgen van gedrag” van betrokkenen, dient te worden vastgesteld of natuurlijke personen op het internet worden gevolgd met gegevensverwerkingstechnieken waarbij een “profiel” op een natuurlijke persoon wordt toegepast, in het bijzonder om besluiten over hem te nemen of om zijn persoonlijke voorkeuren, gedragingen en attitudes te analyseren of te voorspellen."
+		},
+		{
+			"lang": "sv",
+			"text": "För att avgöra huruvida en viss behandling kan anses ”övervaka beteendet” hos registrerade, bör det utrönas om enskilda personer spåras på internet med hjälp av uppgiftsbehandlingsteknik som består i att en ”profil” appliceras på en enskild person, främst i syfte att fatta beslut rörande honom eller henne eller för att analysera eller förutsäga hans eller hennes personliga preferenser, beteende och attityder."
+		}
+	],
+	"children": [],
+	"title": "Recital 21"
+}

@@ -1,0 +1,104 @@
+{
+	"id": "a54",
+	"type": "article",
+	"literal": "54",
+	"parent": "c6s2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Activity report"
+		},
+		{
+			"lang": "de",
+			"text": "Tätigkeitsbericht"
+		},
+		{
+			"lang": "fr",
+			"text": "Rapport d'activité"
+		},
+		{
+			"lang": "es",
+			"text": "Informe de actividad"
+		},
+		{
+			"lang": "pt",
+			"text": "Relatório de atividades"
+		},
+		{
+			"lang": "it",
+			"text": "Relazione di attività"
+		},
+		{
+			"lang": "ga",
+			"text": "Tuarascáil ar ghníomhaíochtaí"
+		},
+		{
+			"lang": "cs",
+			"text": "Zprávy o činnosti"
+		},
+		{
+			"lang": "da",
+			"text": "Aktivitetsrapport"
+		},
+		{
+			"lang": "et",
+			"text": "Tegevusaruanne"
+		},
+		{
+			"lang": "el",
+			"text": "Έκθεση δραστηριοτήτων"
+		},
+		{
+			"lang": "bg",
+			"text": "Доклад за дейността"
+		},
+		{
+			"lang": "hu",
+			"text": "A tevékenységről szóló jelentés"
+		},
+		{
+			"lang": "mt",
+			"text": "Rapport tal-attività"
+		},
+		{
+			"lang": "lv",
+			"text": "Darbības pārskats"
+		},
+		{
+			"lang": "ro",
+			"text": "Raport de activitate"
+		},
+		{
+			"lang": "sk",
+			"text": "Správa o činnosti"
+		},
+		{
+			"lang": "sl",
+			"text": "Poročilo o dejavnostih"
+		},
+		{
+			"lang": "fi",
+			"text": "Toimintakertomus"
+		},
+		{
+			"lang": "pl",
+			"text": "Sprawozdanie z działalności"
+		},
+		{
+			"lang": "lt",
+			"text": "Veiklos ataskaita"
+		},
+		{
+			"lang": "nl",
+			"text": "Activiteitenverslag"
+		},
+		{
+			"lang": "sv",
+			"text": "Verksamhetsrapport"
+		}
+	],
+	"children": [
+		"a54t1"
+	],
+	"title": "Article 54"
+}

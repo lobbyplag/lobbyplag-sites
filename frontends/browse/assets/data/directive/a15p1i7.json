@@ -1,0 +1,102 @@
+{
+	"id": "a15p1i7",
+	"type": "point",
+	"literal": "g",
+	"parent": "a15p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "communication of the personal data undergoing processing and of any available information as to their source;"
+		},
+		{
+			"lang": "de",
+			"text": "diejenigen personenbezogenen Daten, die Gegenstand der Verarbeitung sind, sowie alle verfügbaren Informationen über die Herkunft der Daten,"
+		},
+		{
+			"lang": "fr",
+			"text": "la communication des données à caractère personnel en cours de traitement, ainsi que toute information disponible sur l’origine de ces données;"
+		},
+		{
+			"lang": "es",
+			"text": "la comunicación de los datos personales objeto de tratamiento, así como cualquier información disponible sobre su origen;"
+		},
+		{
+			"lang": "pt",
+			"text": "Comunicação dos dados pessoais em fase de tratamento e quaisquer informações disponíveis sobre a origem desses dados;"
+		},
+		{
+			"lang": "it",
+			"text": "la comunicazione dei dati personali oggetto del trattamento e di tutte le informazioni disponibili sulla loro origine;"
+		},
+		{
+			"lang": "ga",
+			"text": "na sonraí pearsanta atá á bpróiseáil agus aon fhaisnéis atá ar fáil maidir le foinse na sonraí sin a chur in iúl;"
+		},
+		{
+			"lang": "cs",
+			"text": "informace o osobních údajích, které jsou zpracovávány, a veškeré dostupné informace o jejich původu;"
+		},
+		{
+			"lang": "da",
+			"text": "hvilke personoplysninger der er omfattet af behandlingen, samt enhver tilgængelig information om, hvorfra disse oplysninger stammer"
+		},
+		{
+			"lang": "et",
+			"text": "teave töödeldavate isikuandmete kohta ja olemasoleva teave andmete allika kohta;"
+		},
+		{
+			"lang": "el",
+			"text": "ζ) τη γνωστοποίηση των δεδομένων προσωπικού χαρακτήρα τα οποία υποβάλλονται σε επεξεργασία και κάθε διαθέσιμης πληροφορίας όσον αφορά την προέλευσή τους·"
+		},
+		{
+			"lang": "bg",
+			"text": "ж) съобщаване на личните данни, които са в процес на обработване, и на всякаква налична информация за техния източник;"
+		},
+		{
+			"lang": "hu",
+			"text": "értesítés az adatfeldolgozás alatt álló személyes adatokról és az azok forrásával kapcsolatos minden rendelkezésre álló információról;"
+		},
+		{
+			"lang": "mt",
+			"text": "komunikazzjoni tad-dejta personali li tkun qed tiġi pproċessata u ta’ kull informazzjoni disponibbli dwar l-oriġini tagħha;"
+		},
+		{
+			"lang": "lv",
+			"text": "paziņojums par apstrādē esošajiem personas datiem un visa pieejamā informācija par datu avotu;"
+		},
+		{
+			"lang": "ro",
+			"text": "comunicarea datelor cu caracter personal care sunt în curs de prelucrare și a oricărei informații disponibile cu privire la originea datelor;"
+		},
+		{
+			"lang": "sk",
+			"text": "informáciu o osobných údajoch, ktoré sa spracúvajú, a o akýchkoľvek dostupných informáciách, pokiaľ ide o ich zdroj;"
+		},
+		{
+			"lang": "sl",
+			"text": "sporočilo o osebnih podatkih, ki se obdelujejo, in o vseh dostopnih informacijah v zvezi z njihovim virom;"
+		},
+		{
+			"lang": "fi",
+			"text": "käsiteltävät henkilötiedot ja kaikki tietojen alkuperästä käytettävissä olevat tiedot;"
+		},
+		{
+			"lang": "pl",
+			"text": "przekazanie danych osobowych podlegających przetwarzaniu i wszelkich dostępnych informacji o ich źródle;"
+		},
+		{
+			"lang": "lt",
+			"text": "tai, kokie asmens duomenys yra tvarkomi ir visą turimą informaciją apie jų šaltinius;"
+		},
+		{
+			"lang": "nl",
+			"text": "de persoonsgegevens waarvan verwerkingen plaatsvinden en alle beschikbare informatie over de bron van die gegevens;"
+		},
+		{
+			"lang": "sv",
+			"text": "Information om vilka personuppgifter som behandlas och all tillgänglig information om varifrån dessa uppgifter kommer."
+		}
+	],
+	"children": [],
+	"title": "Article 15 – Paragraph 1 – Point 7"
+}

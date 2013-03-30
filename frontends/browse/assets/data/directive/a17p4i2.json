@@ -1,0 +1,102 @@
+{
+	"id": "a17p4i2",
+	"type": "point",
+	"literal": "b",
+	"parent": "a17p4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the controller no longer needs the personal data for the accomplishment of its task but they have to be maintained for purposes of proof;"
+		},
+		{
+			"lang": "de",
+			"text": "der für die Verarbeitung Verantwortliche die personenbezogenen Daten für die Erfüllung seiner Aufgabe nicht länger benötigt, sie aber für Beweiszwecke weiter aufbewahrt werden müssen;"
+		},
+		{
+			"lang": "fr",
+			"text": "lorsqu’elles ne sont plus utiles au responsable du traitement pour qu’il s’acquitte de sa mission, mais qu'elles doivent être conservées à des fins probatoires, ou"
+		},
+		{
+			"lang": "es",
+			"text": "el responsable del tratamiento ya no necesite los datos personales para la realización de su misión, pero estos deban conservarse a efectos probatorios;"
+		},
+		{
+			"lang": "pt",
+			"text": "Já não precisar dos dados pessoais para o desempenho das suas funções, mas esses dados tenham de ser conservados para efeitos de prova;"
+		},
+		{
+			"lang": "it",
+			"text": "quando, benché non ne abbia più bisogno per l’esercizio dei suoi compiti, i dati devono essere conservati a fini probatori;"
+		},
+		{
+			"lang": "ga",
+			"text": "i gcás nach bhfuil na sonraí pearsanta de dhíth ar an rialaitheoir a thuilleadh chun a chúram a chur i gcrích ach gur gá iad a choinneáil chun críocha cruthúnais;"
+		},
+		{
+			"lang": "cs",
+			"text": "správce už osobní údaje ke splnění svých úkolů nepotřebuje, ale je třeba je uchovat jako důkaz;"
+		},
+		{
+			"lang": "da",
+			"text": "den registeransvarlige ikke længere har behov for dem til udførelsen af sine opgaver, men de fortsat skal opbevares som bevismiddel"
+		},
+		{
+			"lang": "et",
+			"text": "vastutav töötleja ei vaja enam isikuandmeid oma ülesande täitmiseks, kuid andmeid tuleb säilitada tõendamise eesmärgil;"
+		},
+		{
+			"lang": "el",
+			"text": "β) ο υπεύθυνος επεξεργασίας δεν χρειάζεται πλέον τα δεδομένα προσωπικού χαρακτήρα για την εκπλήρωση του καθήκοντός του, αλλά πρέπει να διατηρηθούν για αποδεικτικούς σκοπούς·"
+		},
+		{
+			"lang": "bg",
+			"text": "б) администраторът не се нуждае повече от личните данни за изпълнението на своите задачи, но те трябва да бъдат запазени за доказателствени цели;"
+		},
+		{
+			"lang": "hu",
+			"text": "az adatkezelőnek feladata ellátásához már nincs szüksége a személyes adatokra, de bizonyítási célból meg kell tartania az adatokat;"
+		},
+		{
+			"lang": "mt",
+			"text": "il-kontrollur ma jkunx għad fadallu aktar il-ħtieġa tad-dejta personali għat-twettiq tal-kompitu tiegħu iżda jkollha tinżamm għal finijiet ta’ provi;"
+		},
+		{
+			"lang": "lv",
+			"text": "pārzinim personas dati vairs nav vajadzīgi, lai veiktu savus uzdevumus, bet tie ir jāsaglabā kā pierādījumi;"
+		},
+		{
+			"lang": "ro",
+			"text": "operatorul nu mai are nevoie de datele cu caracter personal pentru a-și îndeplini atribuțiile, dar acestea trebuie să fie păstrate ca dovadă;"
+		},
+		{
+			"lang": "sk",
+			"text": "prevádzkovateľ už nepotrebuje údaje na plnenie svojich úloh, tie však musia zostať uchované na dôkazné účely;"
+		},
+		{
+			"lang": "sl",
+			"text": "upravljavec osebnih podatkov ne potrebuje več za izpolnitev svoje naloge, vendar jih je treba ohraniti za namene dokazovanja;"
+		},
+		{
+			"lang": "fi",
+			"text": "rekisterinpitäjä ei enää tarvitse kyseisiä henkilötietoja tehtäviensä suorittamiseen, mutta ne on säilytettävä todistelua varten;"
+		},
+		{
+			"lang": "pl",
+			"text": "administrator nie potrzebuje już danych osobowych do wykonania swojego zadania, ale muszą być one przechowywane do celów dowodowych;"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų valdytojui nebereikia asmens duomenų savo užduočiai atlikti, tačiau jie turi būti saugomi įrodinėjimo tikslais;"
+		},
+		{
+			"lang": "nl",
+			"text": "de voor de verwerking verantwoordelijke de persoonsgegevens niet langer voor de uitvoering van zijn taken nodig heeft, maar die gegevens nog moeten worden bewaard ten behoeve van bewijsvoering;"
+		},
+		{
+			"lang": "sv",
+			"text": "den registeransvarige inte längre behöver personuppgifterna för att fullgöra sin arbetsuppgift men de måste bevaras för bevisändamål,"
+		}
+	],
+	"children": [],
+	"title": "Article 17 – Paragraph 4 – Point 2"
+}

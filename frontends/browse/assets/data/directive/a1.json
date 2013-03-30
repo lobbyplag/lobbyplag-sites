@@ -1,0 +1,106 @@
+{
+	"id": "a1",
+	"type": "article",
+	"literal": "1",
+	"parent": "c1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Subject matter and objectives"
+		},
+		{
+			"lang": "de",
+			"text": "Gegenstand und Ziele"
+		},
+		{
+			"lang": "fr",
+			"text": "Objet et objectifs"
+		},
+		{
+			"lang": "es",
+			"text": "Objeto y objetivos"
+		},
+		{
+			"lang": "pt",
+			"text": "Objeto e objetivos"
+		},
+		{
+			"lang": "it",
+			"text": "Oggetto e finalità"
+		},
+		{
+			"lang": "ga",
+			"text": "Ábhar agus cuspóirí"
+		},
+		{
+			"lang": "cs",
+			"text": "Předmět a cíle"
+		},
+		{
+			"lang": "da",
+			"text": "Genstand og formål"
+		},
+		{
+			"lang": "et",
+			"text": "Reguleerimisese ja eesmärgid"
+		},
+		{
+			"lang": "el",
+			"text": "Αντικείμενο και στόχοι"
+		},
+		{
+			"lang": "bg",
+			"text": "Предмет и цели"
+		},
+		{
+			"lang": "hu",
+			"text": "Tárgy és célkitűzések"
+		},
+		{
+			"lang": "mt",
+			"text": "Suġġett u objettivi"
+		},
+		{
+			"lang": "lv",
+			"text": "Priekšmets un mērķi"
+		},
+		{
+			"lang": "ro",
+			"text": "Obiect și obiective"
+		},
+		{
+			"lang": "sk",
+			"text": "Predmet úpravy a ciele"
+		},
+		{
+			"lang": "sl",
+			"text": "Vsebina in cilji"
+		},
+		{
+			"lang": "fi",
+			"text": "Kohde ja tavoitteet"
+		},
+		{
+			"lang": "pl",
+			"text": "Przedmiot i cele"
+		},
+		{
+			"lang": "lt",
+			"text": "Dalykas ir tikslai"
+		},
+		{
+			"lang": "nl",
+			"text": "Onderwerp en doelstellingen"
+		},
+		{
+			"lang": "sv",
+			"text": "Syfte och mål"
+		}
+	],
+	"children": [
+		"a1p1",
+		"a1p2",
+		"a1p3"
+	],
+	"title": "Article 1"
+}

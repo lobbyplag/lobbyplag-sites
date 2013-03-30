@@ -1,0 +1,102 @@
+{
+	"id": "a28p4i2",
+	"type": "point",
+	"literal": "b",
+	"parent": "a28p4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "an enterprise or an organisation employing fewer than 250 persons that is processing personal data only as an activity ancillary to its main activities."
+		},
+		{
+			"lang": "de",
+			"text": "Unternehmen oder Organisationen mit weniger als 250 Beschäftigten, die personenbezogene Daten nur als Nebentätigkeit zusätzlich zu ihren Haupttätigkeiten verarbeiten."
+		},
+		{
+			"lang": "fr",
+			"text": "entreprises ou organismes comptant moins de 250 salariés traitant des données à caractère personnel uniquement dans le cadre d'une activité qui est accessoire à leur activité principale."
+		},
+		{
+			"lang": "es",
+			"text": "empresas u organizaciones que empleen a menos de doscientas cincuenta personas y que traten datos personales solo como actividad accesoria a sus actividades principales."
+		},
+		{
+			"lang": "pt",
+			"text": "Empresas ou organismos com mais de 250 assalariados que tratem dados pessoais unicamente no âmbito de uma atividade acessória da sua atividade principal."
+		},
+		{
+			"lang": "it",
+			"text": "imprese o organizzazioni con meno di 250 dipendenti che trattano dati personali solo accessoriamente rispetto alle attività principali."
+		},
+		{
+			"lang": "ga",
+			"text": "fiontar nó eagraíocht ina bhfostaítear níos lú ná 250 duine agus ina bpróiseáiltear sonraí pearsanta mar ghníomhaíocht atá coimhdeach lena phríomhghníomhaíochtaí."
+		},
+		{
+			"lang": "cs",
+			"text": "podniky či organizace, které zaměstnávají méně než 250 osob a pro které je zpracovávání osobních údajů pouze doplňkem k jejich hlavním činnostem."
+		},
+		{
+			"lang": "da",
+			"text": "en virksomhed eller organisation, der beskæftiger under 250 personer, og som udelukkende behandler personoplysninger som en aktivitet i tilknytning til dens hovedaktiviteter."
+		},
+		{
+			"lang": "et",
+			"text": "töötleja on vähem kui 250 töötajaga ettevõte või organisatsioon, kes töötleb isikuandmeid üksnes kõrvaltegevusena."
+		},
+		{
+			"lang": "el",
+			"text": "β) μια επιχείρηση ή έναν οργανισμό που απασχολεί λιγότερα από 250 άτομα και επεξεργάζεται δεδομένα προσωπικού χαρακτήρα μόνον ως δραστηριότητα παρεπόμενη στις κύριες δραστηριότητές της."
+		},
+		{
+			"lang": "bg",
+			"text": "б) предприятие или организация с по-малко от 250 човека персонал, където се обработването на лични данни е само вторична дейност спрямо основните дейности."
+		},
+		{
+			"lang": "hu",
+			"text": "a 250 főnél kevesebb főt foglalkoztató vállalkozás vagy szervezet, amely személyes adatokat csak a főtevékenységét kiegészítő tevékenységként dolgoz fel."
+		},
+		{
+			"lang": "mt",
+			"text": "impriża jew organizzazzjoni li timpjega anqas minn 250 persuna li l-ipproċessar tad-dejta personali tkun attività anċillarja mal-attivitajiet ewlenin tagħha."
+		},
+		{
+			"lang": "lv",
+			"text": "uzņēmumam vai organizācijai, kas nodarbina mazāk nekā 250 personas un kura veiktā personas datu apstrāde ir tikai palīgdarbība salīdzinājumā ar tā galveno darbību."
+		},
+		{
+			"lang": "ro",
+			"text": "întreprinderilor sau organizațiilor cu mai puțin de 250 de angajați care prelucrează date cu caracter personal doar ca o activitate auxiliară activităților sale principale."
+		},
+		{
+			"lang": "sk",
+			"text": "podniky alebo organizácie zamestnávajúce menej než 250 osôb, ktoré spracúvajú osobné údaje iba ako vedľajšiu činnosť popri svojej hlavnej činnosti."
+		},
+		{
+			"lang": "sl",
+			"text": "podjetje ali organizacijo, ki zaposluje manj kot 250 oseb in v katerem/kateri je obdelava osebnih podatkov samo postranska dejavnost."
+		},
+		{
+			"lang": "fi",
+			"text": "yritys tai organisaatio, jonka palveluksessa on alle 250 työntekijää ja joka käsittelee henkilötietoja ainoastaan pääasiallisen toimintansa aputoimintona."
+		},
+		{
+			"lang": "pl",
+			"text": "przedsiębiorstwa lub organizacji zatrudniających mniej niż 250 osób, którzy przetwarzają dane osobowe jedynie w ramach działalności pobocznej w stosunku do działalności głównej."
+		},
+		{
+			"lang": "lt",
+			"text": "įmonei arba organizacijai, kurioje yra mažiau kaip 250 darbuotojų ir kuriai asmens duomenų tvarkymas tėra pagalbinė pagrindinės veiklos dalis."
+		},
+		{
+			"lang": "nl",
+			"text": "een onderneming of organisatie met minder dan 250 werknemers die persoonsgegevens slechts als nevenactiviteit verwerkt."
+		},
+		{
+			"lang": "sv",
+			"text": "Ett företag eller en organisation med färre än 250 anställda som behandlar personuppgifter endast som en sidoverksamhet till sin huvudverksamhet."
+		}
+	],
+	"children": [],
+	"title": "Article 28 – Paragraph 4 – Point 2"
+}

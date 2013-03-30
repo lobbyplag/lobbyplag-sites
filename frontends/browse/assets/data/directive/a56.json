@@ -1,0 +1,109 @@
+{
+	"id": "a56",
+	"type": "article",
+	"literal": "56",
+	"parent": "c7s1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Joint operations of supervisory authorities"
+		},
+		{
+			"lang": "de",
+			"text": "Gemeinsame Maßnahmen der Aufsichtsbehörden"
+		},
+		{
+			"lang": "fr",
+			"text": "Opérations conjointes des autorités de contrôle"
+		},
+		{
+			"lang": "es",
+			"text": "Operaciones conjuntas de las autoridades de control"
+		},
+		{
+			"lang": "pt",
+			"text": "Operações conjuntas das autoridades de controlo"
+		},
+		{
+			"lang": "it",
+			"text": "Operazioni congiunte delle autorità di controllo"
+		},
+		{
+			"lang": "ga",
+			"text": "Comhoibríochtaí údarás maoirseachta"
+		},
+		{
+			"lang": "cs",
+			"text": "Společné operace orgánů dozoru"
+		},
+		{
+			"lang": "da",
+			"text": "Tilsynsmyndigheders fælles aktiviteter"
+		},
+		{
+			"lang": "et",
+			"text": "Järelevalveasutuste ühisoperatsioonid"
+		},
+		{
+			"lang": "el",
+			"text": "Κοινές πράξεις αρχών ελέγχου"
+		},
+		{
+			"lang": "bg",
+			"text": "Съвместни операции на надзорните органи"
+		},
+		{
+			"lang": "hu",
+			"text": "A felügyelő hatóságok közös műveletei"
+		},
+		{
+			"lang": "mt",
+			"text": "Operazzjonijiet konġunti ta’ awtoritajiet ta’ superviżjoni"
+		},
+		{
+			"lang": "lv",
+			"text": "Uzraudzības iestāžu kopīgās operācijas"
+		},
+		{
+			"lang": "ro",
+			"text": "Operațiuni comune ale autorităților de supraveghere"
+		},
+		{
+			"lang": "sk",
+			"text": "Spoločné operácie dozorných orgánov"
+		},
+		{
+			"lang": "sl",
+			"text": "Skupno ukrepanje nadzornih organov"
+		},
+		{
+			"lang": "fi",
+			"text": "Valvontaviranomaisten yhteiset operaatiot"
+		},
+		{
+			"lang": "pl",
+			"text": "Wspólne operacje organów nadzorczych"
+		},
+		{
+			"lang": "lt",
+			"text": "Priežiūros institucijų bendros operacijos"
+		},
+		{
+			"lang": "nl",
+			"text": "Gezamenlijke maatregelen van toezichthoudende autoriteiten"
+		},
+		{
+			"lang": "sv",
+			"text": "Åtgärder som utförs gemensamt av fler än en tillsynsmyndighet"
+		}
+	],
+	"children": [
+		"a56p1",
+		"a56p2",
+		"a56p3",
+		"a56p4",
+		"a56p5",
+		"a56p6"
+	],
+	"title": "Article 56"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "a35p1i3",
+	"type": "point",
+	"literal": "c",
+	"parent": "a35p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the core activities of the controller or the processor consist of processing operations which, by virtue of their nature, their scope and/or their purposes, require regular and systematic monitoring of data subjects."
+		},
+		{
+			"lang": "de",
+			"text": "die Kerntätigkeit des für die Verarbeitung Verantwortlichen oder des Auftragsverarbeiters in der Durchführung von Verarbeitungsvorgängen besteht, welche aufgrund ihres Wesens, ihres Umfangs und/oder ihrer Zwecke eine regelmäßige und systematische Beobachtung von betroffenen Personen erforderlich machen."
+		},
+		{
+			"lang": "fr",
+			"text": "les activités de base du responsable du traitement ou du sous-traitant consistent en des traitements qui, du fait de leur nature, de leur portée et/ou de leurs finalités, exigent un suivi régulier et systématique des personnes concernées."
+		},
+		{
+			"lang": "es",
+			"text": "las actividades principales del responsable o del encargado del tratamiento consistan en operaciones de tratamiento que, en razón de su naturaleza, alcance y/o fines, requieran un seguimiento periódico y sistemático de los interesados."
+		},
+		{
+			"lang": "pt",
+			"text": "As atividades principais do responsável pelo tratamento ou do subcontratante consistiam em operações de tratamento que, devido à sua natureza, âmbito e/ou finalidade, exijam um controlo regular e sistemático dos titulares de dados."
+		},
+		{
+			"lang": "it",
+			"text": "le attività principali del responsabile del trattamento o dell’incaricato del trattamento consistono in trattamenti che, per la loro natura, il loro oggetto o le loro finalità, richiedono il controllo regolare e sistematico degli interessati."
+		},
+		{
+			"lang": "ga",
+			"text": "más é atá i bpríomhghníomhaíochtaí an rialaitheora nó an phróiseálaí oibríochtaí próiseála lena gceanglaítear go ndéantar faireachán rialta córasach ar na daoine is ábhar do na sonraí, mar gheall ar chineál na n‑oibríochtaí sin, raon feidhme na n‑oibríochtaí agus/nó cuspóirí na n‑oibríochtaí."
+		},
+		{
+			"lang": "cs",
+			"text": "hlavní činnost správce nebo zpracovatele spočívá ve zpracovávání údajů, která kvůli své povaze, rozsahu a/nebo účelu vyžadují pravidelné a systematické sledování subjektů údajů."
+		},
+		{
+			"lang": "da",
+			"text": "den registeransvarliges eller registerførerens kerneaktiviteter består af behandling, der i medfør af dens karakter, omfang eller formål kræver regelmæssig og systematisk overvågning af registrerede."
+		},
+		{
+			"lang": "et",
+			"text": "vastutava töötleja või volitatud töötleja põhitegevuse moodustavad töötlemistoimingud, mille laad, ulatus ja/või eesmärk tingivad andmesubjektide korrapärase ja süstemaatilise järelevalve."
+		},
+		{
+			"lang": "el",
+			"text": "γ) οι βασικές δραστηριότητες του υπευθύνου επεξεργασίας ή του εκτελούντος την επεξεργασία αφορούν πράξεις επεξεργασίας οι οποίες, λόγω της φύσης, της έκτασης ή/και των σκοπών τους, απαιτούν τακτική και συστηματική παρακολούθηση προσώπων στα οποία αναφέρονται τα δεδομένα."
+		},
+		{
+			"lang": "bg",
+			"text": "в) основните дейности на администратора или обработващия лични данни се състоят от операции по обработване, които поради своето естество, обхват и/или цели изискват редовно и систематично наблюдение на субекти на данни;"
+		},
+		{
+			"lang": "hu",
+			"text": "az adatkezelő vagy -feldolgozó fő tevékenységei olyan feldolgozási eljárásokat foglalnak magukban, amelyek jellegüknél, alkalmazási területüknél, illetve céljaiknál fogva az érintettek rendszeres és rendszerszerű nyomon követését igénylik."
+		},
+		{
+			"lang": "mt",
+			"text": "l-attivitajiet ewlenin tal-kontrollur jew tal-proċessur jikkonsistu f’operazzjonijiet ta’ pproċessar li, minħabba n-natura tagħhom, l-ambitu u/jew l-għanijiet tagħhom, jeħtieġu monitoraġġ regolari u sistematiku tas-suġġetti tad-dejta."
+		},
+		{
+			"lang": "lv",
+			"text": "datu pārziņa vai apstrādātāja pamatdarbība, sastāv no apstrādes darbībām, kurām to būtības, apmēra un/vai nolūku dēļ nepieciešama regulāra un sistemātiska datu subjektu novērošana."
+		},
+		{
+			"lang": "ro",
+			"text": "activitățile principale ale operatorului sau ale persoanei împuternicite de către operator constau în operațiuni de prelucrare care, prin natura lor, domeniul de aplicare și/sau scopul lor, necesită monitorizarea periodică și sistematică a persoanelor vizate."
+		},
+		{
+			"lang": "sk",
+			"text": "základné činnosti prevádzkovateľa alebo sprostredkovateľa pozostávajú z operácií spracovania, ktoré si z dôvodov svojej povahy, rozsahu a/alebo účelov, vyžadujú pravidelné a systematické monitorovanie dotknutých osôb."
+		},
+		{
+			"lang": "sl",
+			"text": "temeljne dejavnosti upravljavca ali obdelovalca obsegajo postopke obdelave, pri katerih je treba zaradi njihove narave, obsega in/ali namenov posameznike, na katere se nanašajo osebni podatki, redno in sistematično spremljati."
+		},
+		{
+			"lang": "fi",
+			"text": "rekisterinpitäjän tai henkilötietojen käsittelijän keskeiset tehtävät muodostuvat sellaisista käsittelytoimista, jotka luonteensa, laajuutensa ja/tai tarkoitustensa vuoksi edellyttävät rekisteröityjen säännöllistä ja järjestelmällistä seurantaa."
+		},
+		{
+			"lang": "pl",
+			"text": "główna działalność administratora lub podmiotu przetwarzającego polega na operacjach przetwarzania, które ze względu na swój charakter, zakres lub cele wymagają regularnego i systematycznego monitorowania podmiotów danych."
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų valdytojo arba duomenų tvarkytojo pagrindinė veikla yra duomenų tvarkymo operacijos, dėl kurių pobūdžio, aprėpties ir (arba) tikslų būtina reguliariai ir sistemingai stebėti duomenų subjektus."
+		},
+		{
+			"lang": "nl",
+			"text": "een voor de verwerking verantwoordelijke of verwerker hoofdzakelijk is belast met verwerkingen die vanwege hun aard, hun omvang en/of hun doel regelmatige en stelselmatige observatie van betrokkenen vereisen."
+		},
+		{
+			"lang": "sv",
+			"text": "den registeransvariges och registerförarens kärnverksamhet består av behandling som, på grund av sin karaktär, sin omfattning och/eller sina ändamål, kräver regelbunden och systematisk övervakning av de registrerade."
+		}
+	],
+	"children": [],
+	"title": "Article 35 – Paragraph 1 – Point 3"
+}

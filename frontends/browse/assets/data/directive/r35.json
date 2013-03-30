@@ -1,0 +1,102 @@
+{
+	"id": "r35",
+	"type": "recital",
+	"literal": "35",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Processing should be lawful where it is necessary in the context of a contract or the intended entering into a contract."
+		},
+		{
+			"lang": "de",
+			"text": "Die Verarbeitung von Daten sollte rechtmäßig sein, wenn sie für die Erfüllung oder den geplanten Abschluss eines Vertrags erforderlich ist."
+		},
+		{
+			"lang": "fr",
+			"text": "Le traitement devrait être licite lorsqu'il est nécessaire dans le cadre d'un contrat ou de la conclusion envisagée d'un contrat."
+		},
+		{
+			"lang": "es",
+			"text": "El tratamiento debe ser lícito cuando sea necesario en el contexto de un contrato o de la intención de celebrar un contrato."
+		},
+		{
+			"lang": "pt",
+			"text": "O tratamento deve ser lícito quando se revelar necessário no contexto de um contrato ou da intenção de celebrar de um contrato."
+		},
+		{
+			"lang": "it",
+			"text": "Il trattamento dati deve essere considerato lecito se è necessario nell’ambito di un contratto o ai fini della conclusione di un contratto."
+		},
+		{
+			"lang": "ga",
+			"text": "Ba cheart próiseáil a bheith dleathach i gcás inar gá sin i gcomhthéacs conartha nó má tá sé beartaithe conradh a dhéanamh."
+		},
+		{
+			"lang": "cs",
+			"text": "Zpracování údajů by mělo být zákonné, pokud je nezbytné v souvislosti s plněním smlouvy nebo úmyslem smlouvu uzavřít."
+		},
+		{
+			"lang": "da",
+			"text": "Behandling bør anses for lovlig, når den er nødvendig i forbindelse med en kontrakt eller den påtænkte indgåelse af en kontrakt."
+		},
+		{
+			"lang": "et",
+			"text": "Töötlemine peaks olema seaduslik juhul, kui see on vajalik seoses lepinguga või kavandatavaks lepingu sõlmimiseks."
+		},
+		{
+			"lang": "el",
+			"text": "Η επεξεργασία πρέπει επίσης να είναι σύννομη εφόσον είναι αναγκαία στο πλαίσιο σύμβασης ή πρόθεσης σύναψης σύμβασης."
+		},
+		{
+			"lang": "bg",
+			"text": "Обработването на данни следва да е законосъобразно, когато то е необходимо в контекста на договор или при намерение за сключване на договор."
+		},
+		{
+			"lang": "hu",
+			"text": "A feldolgozás jogszerű akkor is, ha arra valamely szerződés vagy valamely megkötendő szerződés keretében van szükség."
+		},
+		{
+			"lang": "mt",
+			"text": "L-ipproċessar għandu jkun legali fejn ikun meħtieġ fil-kuntest ta’ kuntratt jew id-dħul intenzjonali f’kuntratt."
+		},
+		{
+			"lang": "lv",
+			"text": "Apstrādei būtu jābūt likumīgai, ja tas ir nepieciešams saistībā ar līgumu vai saistībā ar nolūku noslēgt līgumu."
+		},
+		{
+			"lang": "ro",
+			"text": "Prelucrarea ar trebui să fie legală în cazul în care este necesară în cadrul unui contract sau în vederea încheierii unui contract."
+		},
+		{
+			"lang": "sk",
+			"text": "Spracovanie by malo byť zákonné, ak je potrebné v súvislosti s plnením zmluvy alebo s úmyslom uzatvoriť zmluvu."
+		},
+		{
+			"lang": "sl",
+			"text": "Obdelava bi morala biti zakonita, kadar je to potrebno na podlagi pogodbe ali predvidene sklenitve pogodbe."
+		},
+		{
+			"lang": "fi",
+			"text": "Käsittelyä olisi pidettävä lainmukaisena, kun se on tarpeen sopimuksen yhteydessä tai suunnitellun sopimuksen tekemistä varten."
+		},
+		{
+			"lang": "pl",
+			"text": "Przetwarzanie powinno być zgodne z prawem tam, gdzie jest konieczne w kontekście umowy lub zamiaru zawarcia umowy."
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų tvarkymas turėtų būti teisėtas, kai juos būtina tvarkyti siekiant vykdyti sutartį arba ketinant ją sudaryti;"
+		},
+		{
+			"lang": "nl",
+			"text": "Verwerking die nodig is in het kader van een contract of een voorgenomen contract, dient rechtmatig te zijn."
+		},
+		{
+			"lang": "sv",
+			"text": "Behandling bör vara laglig när den är nödvändig i samband med avtal eller när avsikten är att avtal ska ingås."
+		}
+	],
+	"children": [],
+	"title": "Recital 35"
+}

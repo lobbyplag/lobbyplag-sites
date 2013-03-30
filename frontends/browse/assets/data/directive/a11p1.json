@@ -1,0 +1,102 @@
+{
+	"id": "a11p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a11",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller shall have transparent and easily accessible policies with regard to the processing of personal data and for the exercise of data subjects' rights."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche verfolgt in Bezug auf die Verarbeitung personenbezogener Daten und die Ausübung der den betroffenen Personen zustehenden Rechte eine nachvollziehbare und für jedermann leicht zugängliche Strategie."
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement applique des règles internes transparentes et facilement accessibles en ce qui concerne le traitement des données à caractère personnel et en vue de l’exercice de leurs droits par les personnes concernées."
+		},
+		{
+			"lang": "es",
+			"text": "El responsable del tratamiento aplicará políticas transparentes y fácilmente accesibles por lo que respecta al tratamiento de datos personales y al ejercicio de los derechos de los interesados."
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento deve aplicar regras transparentes e de fácil acesso relativamente ao tratamento de dados pessoais e ao exercício dos direitos pelos titulares de dados."
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento applica politiche trasparenti e facilmente accessibili con riguardo al trattamento dei dati personali e ai fini dell’esercizio dei diritti dell’interessato."
+		},
+		{
+			"lang": "ga",
+			"text": "Beidh beartais an rialaitheora maidir le sonraí pearsanta a phróiseáil agus maidir le cearta daoine is ábhar do shonraí a fheidhmiú, beidh siad trédhearcach agus beidh sé éasca rochtain a fháil orthu."
+		},
+		{
+			"lang": "cs",
+			"text": "Správce musí mít transparentní a snadno dostupná pravidla pro zpracování osobních údajů a výkon práv subjektu údajů."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige fastsætter gennemsigtige og lettilgængelige regler for behandlingen af personoplysninger og udøvelsen af registreredes rettigheder."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja kehtestab läbipaistvad isikuandmete töötlemise ja andmesubjektide õiguste kaitsmise põhimõtted ja teeb need lihtsalt kättesaadavaks."
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας διαθέτει διαφανείς και εύκολα προσπελάσιμες πολιτικές όσον αφορά την επεξεργασία των δεδομένων προσωπικού χαρακτήρα και την άσκηση των δικαιωμάτων των προσώπων στα οποία αναφέρονται τα δεδομένα."
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът разполага с прозрачни и лесно достъпни политики по отношение на обработването на лични данни и за упражняването на правата на субектите на данните."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelőnek a személyes adatok feldolgozása tekintetében és az érintettek jogainak gyakorlása érdekében átlátható és könnyen hozzáférhető politikákkal kell rendelkeznie."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur għandu jkollu politiki trasparenti u aċċessibbli faċilment fir-rigward tal-ipproċessar ta’ dejta personali u għall-eżerċizzju tad-drittijiet tas-suġġetti tad-dejta."
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinis nodrošina caurskatāmas un viegli pieejamas personas datu apstrādes un datu subjektu tiesību izmantošanas vadlīnijas."
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul aplică politici transparente și ușor de accesat în ceea ce privește prelucrarea datelor cu caracter personal și exercitarea drepturilor persoanelor vizate."
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ musí mať transparentné a ľahko dostupné pravidlá týkajúce sa spracúvania osobných údajov a uplatňovania práv dotknutých osôb."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec v zvezi z obdelavo osebnih podatkov in za uveljavljanje pravic posameznika, na katerega se nanašajo osebni podatki, uporablja pregledne in lahko dostopne politike."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjällä on oltava henkilötietojen käsittelyä ja rekisteröidyn oikeuksien käyttöä varten läpinäkyvät ja helposti saatavilla olevat toimintatavat."
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator dysponuje przejrzystymi i łatwo dostępnymi politykami w zakresie przetwarzania danych osobowych i wykonywania praw przez podmioty danych."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas numato skaidrias ir lengvai suprantamas asmens duomenų tvarkymo ir duomenų subjektų naudojimosi teisėmis nuostatas."
+		},
+		{
+			"lang": "nl",
+			"text": "Het beleid van de voor de verwerking verantwoordelijke met betrekking tot de verwerking van persoonsgegevens en de uitoefening van de rechten van de betrokkene dient transparant en eenvoudig toegankelijk te zijn."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige ska ha en klar och tydlig och lätt tillgänglig policy för behandlingen av personuppgifter och för utövandet av den registrerades rättigheter."
+		}
+	],
+	"children": [],
+	"title": "Article 11 – Paragraph 1"
+}

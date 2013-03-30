@@ -1,0 +1,111 @@
+{
+	"id": "a41",
+	"type": "article",
+	"literal": "41",
+	"parent": "c5",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Transfers with an adequacy decision"
+		},
+		{
+			"lang": "de",
+			"text": "Datenübermittlung auf der Grundlage eines Angemessenheitsbeschlusses"
+		},
+		{
+			"lang": "fr",
+			"text": "Transferts assortis d’une décision relative au caractère adéquat du niveau de protection"
+		},
+		{
+			"lang": "es",
+			"text": "Transferencias con una decisión de adecuación"
+		},
+		{
+			"lang": "pt",
+			"text": "Transferências acompanhadas de uma decisão de adequação"
+		},
+		{
+			"lang": "it",
+			"text": "Trasferimento previa decisione di adeguatezza"
+		},
+		{
+			"lang": "ga",
+			"text": "Aistrithe le cinneadh maidir le cosaint leordhóthanach"
+		},
+		{
+			"lang": "cs",
+			"text": "Předávání založené na rozhodnutí o přiměřenosti"
+		},
+		{
+			"lang": "da",
+			"text": "Videregivelse ved afgørelse om tilstrækkeligheden af beskyttelsesniveauet"
+		},
+		{
+			"lang": "et",
+			"text": "Edastamine piisava kaitse otsuse alusel"
+		},
+		{
+			"lang": "el",
+			"text": "Διαβιβάσεις με απόφαση περί επάρκειας"
+		},
+		{
+			"lang": "bg",
+			"text": "Предаване на данни въз основа на решение относно адекватността"
+		},
+		{
+			"lang": "hu",
+			"text": "Adattovábbítás megfelelőségi határozat alapján"
+		},
+		{
+			"lang": "mt",
+			"text": "Trasferimenti b’deċiżjoni ta’ adegwatezza"
+		},
+		{
+			"lang": "lv",
+			"text": "Nosūtīšana, pamatojoties uz lēmumu par aizsardzības līmeņa pietiekamību"
+		},
+		{
+			"lang": "ro",
+			"text": "Transferuri în baza unei decizii privind caracterul adecvat al nivelului de protecție"
+		},
+		{
+			"lang": "sk",
+			"text": "Prenos na základe rozhodnutia o primeranosti"
+		},
+		{
+			"lang": "sl",
+			"text": "Prenosi s sklepom o ustreznosti"
+		},
+		{
+			"lang": "fi",
+			"text": "Siirto tietosuojan tason riittävyyttä koskevan päätöksen perusteella"
+		},
+		{
+			"lang": "pl",
+			"text": "Przekazywanie na podstawie decyzji stwierdzającej odpowiedni poziom ochrony"
+		},
+		{
+			"lang": "lt",
+			"text": "Perdavimas remiantis sprendimu dėl tinkamumo"
+		},
+		{
+			"lang": "nl",
+			"text": "Doorgiften op basis van een besluit waarbij het beschermingsniveau passend wordt verklaard"
+		},
+		{
+			"lang": "sv",
+			"text": "Överföring efter beslut om adekvat skyddsnivå"
+		}
+	],
+	"children": [
+		"a41p1",
+		"a41p2",
+		"a41p3",
+		"a41p4",
+		"a41p5",
+		"a41p6",
+		"a41p7",
+		"a41p8"
+	],
+	"title": "Article 41"
+}

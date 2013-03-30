@@ -1,0 +1,102 @@
+{
+	"id": "r89",
+	"type": "recital",
+	"literal": "89",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "In any case, where the Commission has taken no decision on the adequate level of data protection in a third country, the controller or processor should make use of solutions that provide data subjects with a guarantee that they will continue to benefit from the fundamental rights and safeguards as regards processing of their data in the Union once this data has been transferred."
+		},
+		{
+			"lang": "de",
+			"text": "In allen Fällen, in denen kein Kommissionsbeschluss zur Angemessenheit des in einem Drittland bestehenden Schutzes vorliegt, sollte der für die Verarbeitung Verantwortliche oder der Auftragsverarbeiter auf Lösungen zurückgreifen, durch die sichergestellt wird, dass die betroffenen Personen die für die Verarbeitung ihrer personenbezogenen Daten in der Union geltenden Rechte und Garantien genießen, sobald die Daten übermittelt sind."
+		},
+		{
+			"lang": "fr",
+			"text": "En tout état de cause, lorsque la Commission ne s'est pas prononcée sur le caractère adéquat de la protection des données dans un pays tiers, le responsable du traitement ou le sous‑traitant devrait adopter des solutions qui garantissent aux personnes concernées qu'elles continueront de bénéficier des droits fondamentaux et des garanties qui leur sont accordés dans l'Union pour le traitement des données les concernant, une fois que ces données auront été transférées."
+		},
+		{
+			"lang": "es",
+			"text": "En cualquier caso, cuando la Comisión no haya tomado ninguna decisión sobre el nivel adecuado de protección de los datos en un tercer país, el responsable o el encargado del tratamiento deben arbitrar soluciones que garanticen a los interesados que seguirán beneficiándose de los derechos fundamentales y garantías en lo que se refiere al tratamiento de sus datos en la Unión, una vez que tales datos hayan sido transferidos."
+		},
+		{
+			"lang": "pt",
+			"text": "Em qualquer caso, se a Comissão não tiver tomado qualquer decisão relativamente ao nível de proteção adequado de dados num país terceiro, o responsável pelo tratamento ou o subcontratante deve adotar soluções que ofereçam aos titulares de dados a garantia de que continuarão a beneficiar dos direitos e garantias fundamentais quanto ao tratamento dos seus dados na União, após a transferência dos mesmos."
+		},
+		{
+			"lang": "it",
+			"text": "In ogni caso, se la Commissione non ha preso alcuna decisione circa il livello adeguato di protezione dei dati di un paese terzo, il responsabile del trattamento o l’incaricato del trattamento deve ricorrere a soluzioni che diano all’interessato la garanzia che continuerà a beneficiare dei diritti e delle garanzie fondamentali previste dall’Unione in relazione al trattamento dei dati personali, anche dopo il trasferimento."
+		},
+		{
+			"lang": "ga",
+			"text": "Ar aon nós, i gcás nach ndéanann an Coimisiún cinneadh faoi leibhéal leordhóthanach cosanta sonraí a bheith ar fáil i dtríú tír, ba cheart don rialaitheoir nó don phróiseálaí úsáid a bhaint as réitigh lena ráthaítear go leanfaidh daoine is ábhar do shonraí de thairbhe a bhaint as na cearta agus cosaintí bunúsacha maidir lena sonraí a phróiseáil san Aontas i ndiaidh na sonraí sin a aistriú."
+		},
+		{
+			"lang": "cs",
+			"text": "V každém případě, pokud Komise nepřijala rozhodnutí o odpovídající úrovni ochrany údajů ve třetí zemi, by měl správce nebo zpracovatel využít řešení, na jejichž základě je zaručeno, že jakmile jsou údaje předány, subjekty údajů i nadále požívají základních práv a záruk platných při zpracování jejich údajů v Unii."
+		},
+		{
+			"lang": "da",
+			"text": "Hvis Kommissionen ikke har truffet en afgørelse om tilstrækkeligheden af databeskyttelsesniveauet i et tredjeland, bør den registeransvarlige eller registerføreren under alle omstændigheder benytte løsninger, der giver de registrerede en garanti for, at de fortsat vil nyde godt af de grundlæggende rettigheder og garantier, hvad angår behandling af deres personoplysninger i Unionen, når disse oplysninger er blevet videregivet."
+		},
+		{
+			"lang": "et",
+			"text": "Kõigil juhtudel, kui komisjon ei ole teinud otsust kolmanda riigi isikuandmete kaitse taseme piisavuse kohta, peaks vastutav töötleja või volitatud töötleja kasutama lahendusi, mis annavad andmesubjektidele tagatise, et neil on pärast neid käsitlevate andmete edastamist samad põhiõigused ja nende suhtes kohaldatakse samu kaitsemeetmeid, kui andmete töötlemise korral liidus."
+		},
+		{
+			"lang": "el",
+			"text": "Σε κάθε περίπτωση, εάν η Επιτροπή δεν έλαβε καμία απόφαση σχετικά με το επαρκές επίπεδο προστασίας των δεδομένων σε μια τρίτη χώρα, ο υπεύθυνος επεξεργασίας ή ο εκτελών την επεξεργασία πρέπει να κάνουν χρήση λύσεων οι οποίες παρέχουν στα πρόσωπα στα οποία αναφέρονται τα δεδομένα την εγγύηση ότι θα συνεχίσουν να επωφελούνται των θεμελιωδών δικαιωμάτων και ελευθεριών όσον αφορά την επεξεργασία των δεδομένων τους στην Ένωση μετά τη διαβίβαση των εν λόγω δεδομένων."
+		},
+		{
+			"lang": "bg",
+			"text": "Във всеки случай, когато Комисията не е взела решение относно адекватното ниво на защита в дадена трета държава, администраторът или обработващият данни следва да използва решения, които гарантират на субектите на данни, че ще продължат да се ползват от основните права и гаранциите по отношение на обработването на техните данни в Съюза след предаването на тези данни."
+		},
+		{
+			"lang": "hu",
+			"text": "Amennyiben a Bizottság nem határozott a harmadik országbeli védelem megfelelő szintjéről, az adatkezelő vagy -feldolgozó olyan megoldásokat alkalmaz, amely adattovábbítás esetében is biztosítja, hogy az érintettek hozzájussanak az Unió területén történő adatfeldolgozás tekintetében élvezett alapvető jogokhoz és biztosítékhoz."
+		},
+		{
+			"lang": "mt",
+			"text": "Fi kwalunkwe każ, meta l-Kummissjoni ma tkun ħadet l-ebda deċiżjoni dwar il-livell adegwat ta’ protezzjoni tad-dejta f’pajjiż terz, il-kontrollur jew il-proċessur għandu juża soluzzjonijiet li jipprovdu lis-suġġetti tad-dejta b’garanzija li sejrin ikomplu jgawdu mid-drittijiet fundamentali u s-salvagwardji fir-rigward tal-ipproċessar tad-dejta tagħhom fl-Unjoni ladarba din id-dejta tkun trasferita."
+		},
+		{
+			"lang": "lv",
+			"text": "Jebkurā gadījumā, ja Komisija nav pieņēmusi lēmumu par datu aizsardzības līmeņa pietiekamību trešā valstī, pārzinim un apstrādātājam būtu jāizmanto risinājumi, kas garantē datu subjektam, ka tie joprojām varēs baudīt savas pamattiesības un aizsardzības pasākumus attiecībā uz viņu datu apstrādi Savienībā arī pēc tam, kad dati būs nosūtīti."
+		},
+		{
+			"lang": "ro",
+			"text": "În orice caz, atunci când Comisia nu a luat o decizie cu privire la nivelul adecvat de protecție a datelor într-o țară terță, operatorul sau persoana împuternicită de către operator ar trebui să utilizeze soluții care să ofere persoanelor vizate garanția că vor continua să beneficieze de drepturi fundamentale și garanții în ceea ce privește prelucrarea datelor lor în Uniune, odată ce aceste date au fost transferate."
+		},
+		{
+			"lang": "sk",
+			"text": "V každom prípade, v ktorom Komisia neprijala rozhodnutie o primeranej úrovni ochrany údajov v niektorej tretej krajine, prevádzkovateľ alebo sprostredkovateľ by mali využiť riešenia, ktoré dotknutým osobám poskytujú záruky, že budú aj naďalej môcť uplatňovať základné práva a záruky, pokiaľ ide o spracúvanie ich údajov v Únii, keď budú tieto údaje prenesené."
+		},
+		{
+			"lang": "sl",
+			"text": "V vsakem primeru bi moral upravljavec ali obdelovalec, če Komisija ni sprejela sklepa o ustrezni ravni varstva podatkov v tretji državi, uporabiti rešitve, ki posameznikom, na katere se nanašajo osebni podatki, zagotavljajo, da zanje po prenosu teh podatkov še vedno veljajo temeljne pravice in zaščitni ukrepi glede obdelave njihovih podatkov v Uniji."
+		},
+		{
+			"lang": "fi",
+			"text": "Aina kun komissio ei ole tehnyt päätöstä kolmannen maan tietosuojan riittävyydestä, rekisterinpitäjän tai henkilötietojen käsittelijän olisi käytettävä ratkaisuja, jotka antavat rekisteröidyille takeet siitä, että he voivat nauttia samoja perusoikeuksia ja takeita, joita heidän tietojensa käsittelyyn sovelletaan unionissa, myös tietojen siirtämisen jälkeen."
+		},
+		{
+			"lang": "pl",
+			"text": "W każdym przypadku, jeśli Komicja nie podjęła decyzji stwierdzającej odpowiedni poziomu ochrony danych w państwie trzecim, administrator lub podmiot przetwarzający powinni skorzystać z rozwiązań, które dają podmiotom danych gwarancję, że będą one nadal podlegać podstawowym prawom i gwarancjom w zakresie przetwarzania ich danych w Unii, także po przekazaniu danych."
+		},
+		{
+			"lang": "lt",
+			"text": "visada, kai Komisija nėra priėmusi sprendimo dėl tinkamo duomenų apsaugos lygio trečiojoje šalyje, duomenų valdytojas arba tvarkytojas turėtų rinktis tokias galimybes, kuriomis duomenų subjektams užtikrinama, kad jie Sąjungoje ir toliau galės naudotis jų duomenų tvarkymui Sąjungoje taikomomis pagrindinėmis teisėmis ir apsaugos priemonėmis, kai tik tie duomenys bus perduoti;"
+		},
+		{
+			"lang": "nl",
+			"text": "Wanneer de Commissie niet heeft besloten of het niveau van gegevensbescherming in een derde land passend is, dient de voor de verwerking verantwoordelijke in elk geval gebruik te maken van oplossingen die de betrokkenen ook na de doorgifte van hun gegevens verzekeren van de rechten en waarborgen die in de Unie gelden voor gegevensverwerking."
+		},
+		{
+			"lang": "sv",
+			"text": "Om kommissionen inte har fattat beslut om adekvat uppgiftsskyddsnivå i ett tredjeland bör den registeransvarige eller registerföraren i alla fall använda sig av lösningar som ger de registrerade en garanti för att de fortsatt kan utöva sina grundläggande rättigheter och att skyddsåtgärderna kvarstår vad gäller behandling av deras personuppgifter inom unionen när dessa uppgifter väl har överförts."
+		}
+	],
+	"children": [],
+	"title": "Recital 89"
+}

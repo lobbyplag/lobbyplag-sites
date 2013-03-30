@@ -1,0 +1,108 @@
+{
+	"id": "c3",
+	"type": "chapter",
+	"literal": "III",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "RIGHTS OF THE DATA SUBJECT"
+		},
+		{
+			"lang": "de",
+			"text": "RECHTE DER BETROFFENEN PERSON"
+		},
+		{
+			"lang": "fr",
+			"text": "DROITS DE LA PERSONNE CONCERNÉE"
+		},
+		{
+			"lang": "es",
+			"text": "DERECHOS DEL INTERESADO"
+		},
+		{
+			"lang": "pt",
+			"text": "DIREITOS DO TITULAR DOS DADOS"
+		},
+		{
+			"lang": "it",
+			"text": "DIRITTI DELL’INTERESSATO"
+		},
+		{
+			"lang": "ga",
+			"text": "CEARTA AN DUINE IS ÁBHAR DO NA SONRAÍ"
+		},
+		{
+			"lang": "cs",
+			"text": "PRÁVA SUBJEKTU ÚDAJŮ"
+		},
+		{
+			"lang": "da",
+			"text": "DEN REGISTREREDES RETTIGHEDER"
+		},
+		{
+			"lang": "et",
+			"text": "ANDMESUBJEKTI ÕIGUSED"
+		},
+		{
+			"lang": "el",
+			"text": "ΔΙΚΑΙΩΜΑΤΑ ΤΟΥ ΠΡΟΣΩΠΟΥ ΣΤΟ ΟΠΟΙΟ ΑΝΑΦΕΡΟΝΤΑΙ ΤΑ ΔΕΔΟΜΕΝΑ"
+		},
+		{
+			"lang": "bg",
+			"text": "ПРАВА НА СУБЕКТА НА ДАННИ"
+		},
+		{
+			"lang": "hu",
+			"text": "AZ ÉRINTETT JOGAI"
+		},
+		{
+			"lang": "mt",
+			"text": "DRITTIJIET TAS-SUĠĠETT TAD-DEJTA"
+		},
+		{
+			"lang": "lv",
+			"text": "DATU SUBJEKTA TIESĪBAS"
+		},
+		{
+			"lang": "ro",
+			"text": "DREPTURILE PERSOANEI VIZATE"
+		},
+		{
+			"lang": "sk",
+			"text": "PRÁVA DOTKNUTEJ OSOBY"
+		},
+		{
+			"lang": "sl",
+			"text": "PRAVICE POSAMEZNIKA, NA KATEREGA SE NANAŠAJO OSEBNI PODATKI"
+		},
+		{
+			"lang": "fi",
+			"text": "REKISTERÖIDYN OIKEUDET"
+		},
+		{
+			"lang": "pl",
+			"text": "PRAWA PODMIOTU DANYCH"
+		},
+		{
+			"lang": "lt",
+			"text": "DUOMENŲ SUBJEKTO TEISĖS"
+		},
+		{
+			"lang": "nl",
+			"text": "RECHTEN VAN DE BETROKKENE"
+		},
+		{
+			"lang": "sv",
+			"text": "DEN REGISTRERADES RÄTTIGHETER"
+		}
+	],
+	"children": [
+		"c3s1",
+		"c3s2",
+		"c3s3",
+		"c3s4",
+		"c3s5"
+	],
+	"title": "Chapter 3"
+}

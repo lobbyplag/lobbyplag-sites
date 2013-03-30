@@ -1,0 +1,102 @@
+{
+	"id": "a52p1i5",
+	"type": "point",
+	"literal": "e",
+	"parent": "a52p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "monitor relevant developments, insofar as they have an impact on the protection of personal data, in particular the development of information and communication technologies and commercial practices;"
+		},
+		{
+			"lang": "de",
+			"text": "die Verfolgung relevanter Entwicklungen, soweit als sie sich auf den Schutz personenbezogener Daten auswirken, insbesondere der Entwicklung der Informations- und Kommunikationstechnologie und der Geschäftspraktiken,"
+		},
+		{
+			"lang": "fr",
+			"text": "surveille les faits nouveaux présentant un intérêt, dans la mesure où ils ont une incidence sur la protection des données à caractère personnel, notamment l'évolution des technologies de l'information et des communications et celle des pratiques commerciales;"
+		},
+		{
+			"lang": "es",
+			"text": "hará un seguimiento de las novedades de interés, en la medida en que tengan incidencia en la protección de datos personales, en particular el desarrollo de las tecnologías de la información y la comunicación y de las prácticas comerciales;"
+		},
+		{
+			"lang": "pt",
+			"text": "Acompanhar factos novos relevantes, na medida em que tenham incidência na proteção de dados pessoais, particularmente a evolução a nível das tecnologias da informação e das comunicações e das práticas comerciais;"
+		},
+		{
+			"lang": "it",
+			"text": "sorveglia gli sviluppi che presentano un interesse, se ed in quanto incidenti sulla protezione dei dati personali, in particolare l’evoluzione delle tecnologie dell’informazione e della comunicazione e le pratiche commerciali;"
+		},
+		{
+			"lang": "ga",
+			"text": "déanfaidh sé faireachán ar fhorbairtí ábhartha, a mhéid a bhfuil tionchar acu ar chosaint sonraí pearsanta, go háirithe forbairtí sna teicneolaíochtaí faisnéise agus cumarsáide agus i gcleachtais tráchtála;"
+		},
+		{
+			"lang": "cs",
+			"text": "sleduje vývoj v relevantních oblastech, pokud mají dopad na ochranu osobních údajů, zejména vývoj informačních a komunikačních technologií a obchodních praktik;"
+		},
+		{
+			"lang": "da",
+			"text": "overvåger den relevante udvikling, for så vidt den har indvirkning på beskyttelsen af personoplysninger, navnlig udviklingen i informations- og kommunikationsteknologier og kommerciel praksis"
+		},
+		{
+			"lang": "et",
+			"text": "jälgib isikuandmete kaitsmise valdkonnas toimuvaid muudatusi, eelkõige info- ja sidetehnoloogia ja kaubandustavade arengut;"
+		},
+		{
+			"lang": "el",
+			"text": "ε) παρακολουθεί τις σχετικές εξελίξεις, στον βαθμό που έχουν αντίκτυπο στην προστασία των δεδομένων προσωπικού χαρακτήρα, ιδίως δε τις εξελίξεις των τεχνολογιών πληροφοριών και επικοινωνιών και των εμπορικών πρακτικών·"
+		},
+		{
+			"lang": "bg",
+			"text": "д) наблюдава съответното развитие, по-специално в областта на информационните и комуникационни технологии и търговските практики, дотолкова доколкото то оказва влияние върху защитата на личните данни;"
+		},
+		{
+			"lang": "hu",
+			"text": "figyelemmel kíséri a személyes adatok védelmére kiható jelentősebb fejleményeket, különösen az információtechnológia és a hírközlési technológia, valamint a kereskedelmi gyakorlatok fejlődését;"
+		},
+		{
+			"lang": "mt",
+			"text": "tissorvelja żviluppi rilevanti, sakemm dawn ikollhom impatt fuq il-protezzjoni tad-dejta personali, b’mod partikolari l-iżvilupp ta’ teknoloġiji tal-informazzjoni u tal-komunikazzjoni u prattiki kummerċjali;"
+		},
+		{
+			"lang": "lv",
+			"text": "vēro nozīmīgas attīstības tendences, ciktāl tās ietekmē personas datu aizsardzību, un jo īpaši informācijas un komunikācijas tehnoloģiju un komercprakses attīstību;"
+		},
+		{
+			"lang": "ro",
+			"text": "monitorizează evoluțiile relevante, în măsura în care acestea au impact asupra protecției datelor cu caracter personal, în special evoluția tehnologiilor informațiilor și comunicațiilor și a practicilor comerciale;"
+		},
+		{
+			"lang": "sk",
+			"text": "monitoruje príslušný vývoj, pokiaľ má dosah na ochranu osobných údajov, a to najmä vývoj informačných a komunikačných technológií a komerčných praktík;"
+		},
+		{
+			"lang": "sl",
+			"text": "spremlja razvoj na zadevnem področju, kolikor vpliva na varstvo osebnih podatkov, predvsem razvoj informacijskih in komunikacijskih tehnologij ter trgovinskih praks;"
+		},
+		{
+			"lang": "fi",
+			"text": "seuraa erityisesti tieto- ja viestintäteknologian sekä kauppatapojen asiaan liittyvää kehitystä, siltä osin kuin sillä on vaikutusta henkilötietojen suojaan;"
+		},
+		{
+			"lang": "pl",
+			"text": "monitoruje zmiany w odpowiednich dziedzinach, o ile mają one wpływ na ochronę danych osobowych, w szczególności rozwój technologii informacyjno-telekomunikacyjnych i praktyki handlowe;"
+		},
+		{
+			"lang": "lt",
+			"text": "stebi naujausius įvykius, jei jie turi įtakos asmens duomenų apsaugai, visų pirma informacinių ir ryšio technologijų, taip pat komercinės praktikos raidą;"
+		},
+		{
+			"lang": "nl",
+			"text": "volgt de relevante ontwikkelingen voorzover deze de bescherming van persoonsgegevens beïnvloeden, met name de ontwikkelingen in de informatie- en communicatietechnologieën en de handelspraktijken;"
+		},
+		{
+			"lang": "sv",
+			"text": "Följa sådan utveckling som påverkar skyddet av personuppgifter, bland annat inom informations- och kommunikationsteknik och affärspraxis."
+		}
+	],
+	"children": [],
+	"title": "Article 52 – Paragraph 1 – Point 5"
+}

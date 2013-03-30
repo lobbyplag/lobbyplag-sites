@@ -1,0 +1,102 @@
+{
+	"id": "a88p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a88",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Directive 95/46/EC is repealed."
+		},
+		{
+			"lang": "de",
+			"text": "Die Richtlinie 95/46/EG wird aufgehoben."
+		},
+		{
+			"lang": "fr",
+			"text": "La directive 95/46/CE est abrogée."
+		},
+		{
+			"lang": "es",
+			"text": "Queda derogada la Directiva 95/46/CE."
+		},
+		{
+			"lang": "pt",
+			"text": "A Diretiva 95/46/CE é revogada."
+		},
+		{
+			"lang": "it",
+			"text": "La direttiva 95/46/CE è abrogata."
+		},
+		{
+			"lang": "ga",
+			"text": "Déantar Treoir 95/46/CE a aisghairm."
+		},
+		{
+			"lang": "cs",
+			"text": "Směrnice 95/46/ES se zrušuje."
+		},
+		{
+			"lang": "da",
+			"text": "Direktiv 95/46/EF ophæves."
+		},
+		{
+			"lang": "et",
+			"text": "Direktiiv 95/46/EÜ tunnistatakse kehtetuks."
+		},
+		{
+			"lang": "el",
+			"text": "Η οδηγία 95/46/ΕΚ καταργείται."
+		},
+		{
+			"lang": "bg",
+			"text": "Директива 95/46/ЕО се отменя."
+		},
+		{
+			"lang": "hu",
+			"text": "A 95/46/EK irányelv hatályát veszti."
+		},
+		{
+			"lang": "mt",
+			"text": "Id-Direttiva 95/46/KE hija revokata."
+		},
+		{
+			"lang": "lv",
+			"text": "Direktīva 95/46/EK ir atcelta."
+		},
+		{
+			"lang": "ro",
+			"text": "Directiva 95/46/CE se abrogă."
+		},
+		{
+			"lang": "sk",
+			"text": "Smernica 95/46/ES sa zrušuje."
+		},
+		{
+			"lang": "sl",
+			"text": "Direktiva 95/46/ES se razveljavi."
+		},
+		{
+			"lang": "fi",
+			"text": "Kumotaan direktiivi 95/46/EY."
+		},
+		{
+			"lang": "pl",
+			"text": "Uchyla się dyrektywę 95/46/WE."
+		},
+		{
+			"lang": "lt",
+			"text": "Direktyva 95/46/EB panaikinama."
+		},
+		{
+			"lang": "nl",
+			"text": "Richtlijn 95/46/EG wordt ingetrokken."
+		},
+		{
+			"lang": "sv",
+			"text": "Direktiv 95/46/EG ska upphöra att gälla."
+		}
+	],
+	"children": [],
+	"title": "Article 88 – Paragraph 1"
+}

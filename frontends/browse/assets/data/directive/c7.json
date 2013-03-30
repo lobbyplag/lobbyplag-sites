@@ -1,0 +1,106 @@
+{
+	"id": "c7",
+	"type": "chapter",
+	"literal": "VII",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "CO-OPERATION AND CONSISTENCY"
+		},
+		{
+			"lang": "de",
+			"text": "ZUSAMMENARBEIT UND KOHÄRENZ"
+		},
+		{
+			"lang": "fr",
+			"text": "COOPÉRATION ET COHÉRENCE"
+		},
+		{
+			"lang": "es",
+			"text": "COOPERACIÓN Y COHERENCIA"
+		},
+		{
+			"lang": "pt",
+			"text": "COOPERAÇÃO E COERÊNCIA"
+		},
+		{
+			"lang": "it",
+			"text": "COOPERAZIONE E COERENZA"
+		},
+		{
+			"lang": "ga",
+			"text": "COMHAR AGUS COMHSHEASMHACHT"
+		},
+		{
+			"lang": "cs",
+			"text": "SPOLUPRÁCE A JEDNOTNOST"
+		},
+		{
+			"lang": "da",
+			"text": "SAMARBEJDE OG SAMMENHÆNG"
+		},
+		{
+			"lang": "et",
+			"text": "KOOSTÖÖ JA JÄRJEPIDEVUS"
+		},
+		{
+			"lang": "el",
+			"text": "ΣΥΝΕΡΓΑΣΙΑ ΚΑΙ ΣΥΝΕΚΤΙΚΟΤΗΤΑ"
+		},
+		{
+			"lang": "bg",
+			"text": "СЪТРУДНИЧЕСТВО И СЪГЛАСУВАНОСТ"
+		},
+		{
+			"lang": "hu",
+			"text": "EGYÜTTMŰKÖDÉS ÉS EGYSÉGESSÉG"
+		},
+		{
+			"lang": "mt",
+			"text": "KOOPERAZZJONI U KONSISTENZA"
+		},
+		{
+			"lang": "lv",
+			"text": "SADARBĪBA UN KONSEKVENCE"
+		},
+		{
+			"lang": "ro",
+			"text": "Cooperare și coerență"
+		},
+		{
+			"lang": "sk",
+			"text": "SPOLUPRÁCA A KONZISTENTNOSŤ"
+		},
+		{
+			"lang": "sl",
+			"text": "SODELOVANJE IN SKLADNOST"
+		},
+		{
+			"lang": "fi",
+			"text": "YHTEISTYÖ JA YHDENMUKAISUUS"
+		},
+		{
+			"lang": "pl",
+			"text": "WSPÓŁPRACA I ZGODNOŚĆ"
+		},
+		{
+			"lang": "lt",
+			"text": "BENDRADARBIAVIMAS IR NUOSEKLUMAS"
+		},
+		{
+			"lang": "nl",
+			"text": "SAMENWERKING EN CONFORMITEIT"
+		},
+		{
+			"lang": "sv",
+			"text": "SAMARBETE OCH ENHETLIGHET"
+		}
+	],
+	"children": [
+		"c7s1",
+		"c7s2",
+		"c7s3"
+	],
+	"title": "Chapter 7"
+}

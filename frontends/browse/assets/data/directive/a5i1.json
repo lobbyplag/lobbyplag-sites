@@ -1,0 +1,102 @@
+{
+	"id": "a5i1",
+	"type": "point",
+	"literal": "a",
+	"parent": "a5",
+	"text": [
+		{
+			"lang": "en",
+			"text": "processed lawfully, fairly and in a transparent manner in relation to the data subject;"
+		},
+		{
+			"lang": "de",
+			"text": "auf rechtmäßige Weise, nach dem Grundsatz von Treu und Glauben und in einer für die betroffene Person nachvollziehbaren Weise verarbeitet werden;"
+		},
+		{
+			"lang": "fr",
+			"text": "traitées de manière licite, loyale et transparente au regard de la personne concernée;"
+		},
+		{
+			"lang": "es",
+			"text": "tratados de manera lícita, leal y transparente en relación con el interesado;"
+		},
+		{
+			"lang": "pt",
+			"text": "Objeto de um tratamento lícito, leal e transparente em relação ao titular dos dados;"
+		},
+		{
+			"lang": "it",
+			"text": "trattati in modo lecito, equo e trasparente nei confronti dell’interessato;"
+		},
+		{
+			"lang": "ga",
+			"text": "ní mór iad a phróiseáil ar bhealach atá dleathach, cothrom agus trédhearcach i ndáil leis an duine is ábhar do na sonraí;"
+		},
+		{
+			"lang": "cs",
+			"text": "ve vztahu k subjektu údajů zpracovávány korektně, zákonným a transparentním způsobem;"
+		},
+		{
+			"lang": "da",
+			"text": "skal behandles lovligt, loyalt og på en gennemsigtig måde i forhold til den registrerede"
+		},
+		{
+			"lang": "et",
+			"text": "töötlemine on seaduslik, õiglane ja andmesubjektile läbipaistev;"
+		},
+		{
+			"lang": "el",
+			"text": "α) να υποβάλλονται σε σύννομη και θεμιτή επεξεργασία με διαφανή τρόπο σε σχέση με το πρόσωπο στο οποίο αναφέρονται τα δεδομένα·"
+		},
+		{
+			"lang": "bg",
+			"text": "а) обработвани законно, добросъвестно и по прозрачен начин по отношение на субекта на данните;"
+		},
+		{
+			"lang": "hu",
+			"text": "feldolgozását jogszerűen és tisztességesen, valamint az érintett számára átlátható módon kell végezni;"
+		},
+		{
+			"lang": "mt",
+			"text": "ipproċessata legalment, ġustament u b’mod trasparenti fir-rigward tas-suġġett tad-dejta;"
+		},
+		{
+			"lang": "lv",
+			"text": "apstrādātiem likumīgi, godīgi un datu subjektam caurskatāmā veidā;"
+		},
+		{
+			"lang": "ro",
+			"text": "să fie prelucrate în mod legal, echitabil și transparent față de persoana vizată;"
+		},
+		{
+			"lang": "sk",
+			"text": "spracúvané zákonným spôsobom, spravodlivo a transparentne vo vzťahu k dotknutej osobe;"
+		},
+		{
+			"lang": "sl",
+			"text": "obdelani zakonito, pošteno in na pregleden način v zvezi s posameznikom, na katerega se nanašajo osebni podatki;"
+		},
+		{
+			"lang": "fi",
+			"text": "niitä on käsiteltävä lainmukaisesti, asianmukaisesti ja rekisteröidyn kannalta läpinäkyvästi;"
+		},
+		{
+			"lang": "pl",
+			"text": "przetwarzane zgodnie z prawem, rzetelnie i w sposób przejrzysty w odniesieniu do podmiotu danych;"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų subjekto atžvilgiu tvarkomi teisėtai, sąžiningai ir skaidriai;"
+		},
+		{
+			"lang": "nl",
+			"text": "worden verwerkt op een wijze die rechtmatig, eerlijk en transparant is ten opzichte van de betrokkene;"
+		},
+		{
+			"lang": "sv",
+			"text": "Uppgifterna ska behandlas på ett lagligt, korrekt och öppet sätt i förhållande till den registrerade."
+		}
+	],
+	"children": [],
+	"title": "Article 5 – Point 1"
+}

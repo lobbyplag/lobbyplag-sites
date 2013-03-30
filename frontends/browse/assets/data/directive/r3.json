@@ -1,0 +1,102 @@
+{
+	"id": "r3",
+	"type": "recital",
+	"literal": "3",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data[43] seeks to harmonise the protection of fundamental rights and freedoms of natural persons in respect of processing activities and to guarantee the free flow of personal data between Member States."
+		},
+		{
+			"lang": "de",
+			"text": "Zweck der Richtlinie 95/46/EG des Europäischen Parlaments und des Rates vom 24. Oktober 1995 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten und zum freien Datenverkehr[43] ist die Harmonisierung der Vorschriften zum Schutz der Grundrechte und Grundfreiheiten natürlicher Personen bei der Datenverarbeitung sowie die Gewährleistung des freien Verkehrs personenbezogener Daten zwischen den Mitgliedstaaten."
+		},
+		{
+			"lang": "fr",
+			"text": "La directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données[43] vise à harmoniser la protection des libertés et des droits fondamentaux des personnes physiques en ce qui concerne les activités de traitement de données et à garantir la libre circulation des données à caractère personnel entre les États membres."
+		},
+		{
+			"lang": "es",
+			"text": "La Directiva 95/46/CE del Parlamento Europeo y del Consejo, de 24 de octubre de 1995, relativa a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos[43] pretende armonizar la protección de los derechos y las libertades fundamentales de las personas físicas en relación con las actividades de tratamiento de datos de carácter personal y garantizar la libre circulación de estos datos entre los Estados miembros."
+		},
+		{
+			"lang": "pt",
+			"text": "A Diretiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de outubro de 1995, relativa à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados[43], visa harmonizar a proteção dos direitos e das liberdades fundamentais das pessoas singulares em relação às atividades de tratamento de dados e assegurar a livre circulação de dados pessoais entre os Estados-Membros."
+		},
+		{
+			"lang": "it",
+			"text": "Obiettivo della direttiva 95/46/CE del Parlamento europeo e del Consiglio, del 24 ottobre 1995, relativa alla tutela delle persone fisiche con riguardo al trattamento dei dati personali, nonché alla libera circolazione di tali dati[43] è armonizzare la protezione dei diritti e delle libertà fondamentali delle persone fisiche rispetto alle attività di trattamento dei dati e assicurare la libera circolazione dei dati personali tra gli Stati membri."
+		},
+		{
+			"lang": "ga",
+			"text": "Le Treoir 95/46/CE ó Pharlaimint na hEorpa agus ón gComhairle an 24 Deireadh Fómhair 1995 maidir le daoine aonair a chosaint i ndáil le sonraí pearsanta a phróiseáil agus maidir le saorghluaiseacht sonraí den sórt sin[43], féachtar le cosaint cearta agus saoirsí bunúsacha daoine nádúrtha a chomhchuibhiú i ndáil le gníomhaíochtaí próiseála agus féachtar le saorshreabhadh sonraí pearsanta a áirithiú idir na Ballstáit."
+		},
+		{
+			"lang": "cs",
+			"text": "Účelem směrnice Evropského parlamentu a Rady 95/46/ES ze dne 24. října 1995 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů[43] je harmonizovat právní předpisy o ochraně základních práv a svobod fyzických osob v souvislosti se zpracováním údajů a zaručit volný pohyb osobních údajů mezi členskými státy."
+		},
+		{
+			"lang": "da",
+			"text": "Europa-Parlamentets og Rådets direktiv 95/46/EF af 24. oktober 1995 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger[43] har til formål at harmonisere beskyttelsen af fysiske personers grundlæggende rettigheder og frihedsrettigheder i forbindelse med behandling af personoplysninger og at garantere fri udveksling af personoplysninger mellem medlemsstaterne."
+		},
+		{
+			"lang": "et",
+			"text": "Euroopa Parlamendi ja nõukogu 24. oktoobri 1995. aasta direktiiv 95/46/EÜ (üksikisikute kaitse kohta isikuandmete töötlemisel ja selliste andmete vaba liikumise kohta)[43] eesmärk on ühtlustada füüsiliste isikute põhiõiguste ja -vabaduste kaitset töötlemistoimingutel ning tagada isikuandmete vaba liikumine liikmesriikide vahel."
+		},
+		{
+			"lang": "el",
+			"text": "Η οδηγία 95/46/ΕΚ του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου, της 24ης Οκτωβρίου 1995, για την προστασία των φυσικών προσώπων έναντι της επεξεργασίας δεδομένων προσωπικού χαρακτήρα και για την ελεύθερη κυκλοφορία των δεδομένων αυτών[43] επιδιώκει την εναρμόνιση της προστασίας των θεμελιωδών δικαιωμάτων και ελευθεριών των φυσικών προσώπων όσον αφορά τις δραστηριότητες επεξεργασίας και τη διασφάλιση της ελεύθερης ροής δεδομένων προσωπικού χαρακτήρα μεταξύ κρατών μελών."
+		},
+		{
+			"lang": "bg",
+			"text": "Целта на Директива 95/46/ЕО на Европейския парламент и на Съвета от 24 октомври 1995 г. за защита на физическите лица при обработването на лични данни и за свободното движение на тези данни[43] е да се хармонизира защитата на основните права и свободи на физическите лица по отношение на дейностите по обработване на данни и да се гарантира свободното движение на лични данни между държавите-членки."
+		},
+		{
+			"lang": "hu",
+			"text": "A személyes adatok feldolgozása vonatkozásában az egyének védelméről és az ilyen adatok szabad áramlásáról szóló, 1995. október 24-i 95/46/EK európai parlamenti és tanácsi irányelv[43] célja a feldolgozási tevékenységek tekintetében a természetes személyek alapvető jogai és szabadságai védelmének harmonizálása, valamint a személyes adatok tagállamok közötti szabad áramlásának biztosítása."
+		},
+		{
+			"lang": "mt",
+			"text": "Id-Direttiva 95/46/KE tal-Parlament Ewropew u tal-Kunsill tal-24 ta’ Ottubru 1995 dwar il-protezzjoni ta’ individwi fir-rigward tal-ipproċessar ta’ dejta personali u dwar il-moviment liberu ta’ dik id-dejta [43] tfittex li tarmonizza l-protezzjoni ta’ drittijiet u libertajiet fundamentali ta’ persuni fiżiċi fir-rigward tal-attivitajiet ta’ pproċessar u tiggarantixxi l-fluss liberu tad-dejta personali bejn l-Istati Membri."
+		},
+		{
+			"lang": "lv",
+			"text": "Eiropas Parlamenta un Padomes 1995. gada 24. oktobra Direktīvas 95/46/EK par fizisku personu aizsardzību attiecībā uz personas datu apstrādi un šādu datu brīvu apriti[43] nolūks ir tuvināt fizisku personu pamattiesību un brīvību aizsardzību attiecībā uz apstrādes darbībām un garantēt personas datu brīvu apriti starp dalībvalstīm."
+		},
+		{
+			"lang": "ro",
+			"text": "Directiva 95/46/CE a Parlamentului European și a Consiliului din 24 octombrie 1995 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și libera circulație a acestor date[43] vizează armonizarea nivelului de protecție a drepturilor și libertăților fundamentale ale persoanelor fizice în ceea ce privește activitățile de prelucrare și garantarea liberei circulații a datelor cu caracter personal între statele membre."
+		},
+		{
+			"lang": "sk",
+			"text": "Úlohou smernice Európskeho parlamentu a Rady 95/46/EHS z 24. októbra 1995 o ochrane fyzických osôb pri spracovaní osobných údajov a voľnom pohybe týchto údajov[43] je harmonizovať ochranu základných práv a slobôd fyzických osôb v súvislosti so spracúvaním údajov a zabezpečiť voľný tok osobných údajov medzi členskými štátmi."
+		},
+		{
+			"lang": "sl",
+			"text": "Direktiva Evropskega parlamenta in Sveta 95/46/ES z dne 24. oktobra 1995 o varstvu posameznikov pri obdelavi osebnih podatkov in o prostem pretoku takih podatkov[43] je namenjena uskladitvi varstva temeljnih pravic in svoboščin fizičnih oseb pri dejavnostih obdelave in zagotavljanju prostega pretoka osebnih podatkov med državami članicami."
+		},
+		{
+			"lang": "fi",
+			"text": "Yksilöiden suojelusta henkilötietojen käsittelyssä ja näiden tietojen vapaasta liikkuvuudesta 24 päivänä lokakuuta 1995 annetun Euroopan parlamentin ja neuvoston direktiivin 95/46/EY[43] tarkoituksena on yhdenmukaistaa luonnollisten henkilöiden henkilötietojen käsittelyä koskevien perusoikeuksien ja ‑vapauksien suojelua ja taata henkilötietojen vapaa liikkuvuus jäsenvaltioiden välillä."
+		},
+		{
+			"lang": "pl",
+			"text": "Dyrektywa 95/46/WE Parlamentu Europejskiego i Rady z dnia 24 października 1995 r. w sprawie ochrony osób fizycznych w zakresie przetwarzania danych osobowych i swobodnego przepływu tych danych[43] ma na celu harmonizację ochrony podstawowych praw i wolności osób fizycznych w zakresie przetwarzania danych oraz zagwarantowanie swobodnego przepływu danych osobowych między państwami członkowskimi."
+		},
+		{
+			"lang": "lt",
+			"text": "1995 m. spalio 24 d. Europos Parlamento ir Tarybos direktyva 95/46/EB dėl asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo[43] siekiama suderinti fizinių asmenų pagrindinių teisių ir laisvių apsaugą atliekant duomenų tvarkymo operacijas ir užtikrinti laisvą asmens duomenų judėjimą tarp valstybių narių;"
+		},
+		{
+			"lang": "nl",
+			"text": "Richtlijn 95/46/EG van het Europees Parlement en de Raad van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en het vrije verkeer van die gegevens[43] heeft tot doel de bescherming van de grondrechten en fundamentele vrijheden van natuurlijke personen in verband met verwerkingsactiviteiten te harmoniseren en het vrije verkeer van persoonsgegevens binnen de Unie te garanderen."
+		},
+		{
+			"lang": "sv",
+			"text": "Europaparlamentets och rådets direktiv 95/46/EG av den 24 oktober 1995 om skydd för enskilda personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter[43] syftar till att harmonisera skyddet av fysiska personers grundläggande rättigheter och friheter vid uppgiftsbehandling och att garantera det fria flödet av personuppgifter mellan medlemsstaterna."
+		}
+	],
+	"children": [],
+	"title": "Recital 3"
+}

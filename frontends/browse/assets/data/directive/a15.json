@@ -1,0 +1,107 @@
+{
+	"id": "a15",
+	"type": "article",
+	"literal": "15",
+	"parent": "c3s2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Right of access for the data subject"
+		},
+		{
+			"lang": "de",
+			"text": "Auskunftsrecht der betroffenen Person"
+		},
+		{
+			"lang": "fr",
+			"text": "Droit d'accès de la personne concernée"
+		},
+		{
+			"lang": "es",
+			"text": "Derecho de acceso del interesado"
+		},
+		{
+			"lang": "pt",
+			"text": "Direito de acesso do titular dos dados"
+		},
+		{
+			"lang": "it",
+			"text": "Diritto di accesso dell’interessato"
+		},
+		{
+			"lang": "ga",
+			"text": "Ceart rochtana don duine is ábhar do na sonraí"
+		},
+		{
+			"lang": "cs",
+			"text": "Právo subjektu údajů na přístup k údajům"
+		},
+		{
+			"lang": "da",
+			"text": "Den registreredes ret til indsigt"
+		},
+		{
+			"lang": "et",
+			"text": "Andmesubjekti õigus tutvuda andmetega"
+		},
+		{
+			"lang": "el",
+			"text": "Δικαίωμα πρόσβασης του προσώπου στο οποίο αναφέρονται τα δεδομένα"
+		},
+		{
+			"lang": "bg",
+			"text": "Право на достъп на субекта на данни"
+		},
+		{
+			"lang": "hu",
+			"text": "Az érintett hozzáférési joga"
+		},
+		{
+			"lang": "mt",
+			"text": "Dritt ta’ aċċess għas-suġġett tad-dejta"
+		},
+		{
+			"lang": "lv",
+			"text": "Datu subjekta piekļuves tiesības"
+		},
+		{
+			"lang": "ro",
+			"text": "Dreptul de acces al persoanei vizate"
+		},
+		{
+			"lang": "sk",
+			"text": "Prístupové práva dotknutej osoby"
+		},
+		{
+			"lang": "sl",
+			"text": "Pravica do dostopa za posameznika, na katerega se nanašajo osebni podatki"
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisteröidyn tiedonsaantioikeus"
+		},
+		{
+			"lang": "pl",
+			"text": "Prawo dostępu przysługujące podmiotowi danych"
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų subjekto teisė susipažinti su duomenimis"
+		},
+		{
+			"lang": "nl",
+			"text": "Recht van toegang van de betrokkene"
+		},
+		{
+			"lang": "sv",
+			"text": "Den registrerades rätt till tillgång"
+		}
+	],
+	"children": [
+		"a15p1",
+		"a15p2",
+		"a15p3",
+		"a15p4"
+	],
+	"title": "Article 15"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "a55p3",
+	"type": "paragraph",
+	"literal": "3",
+	"parent": "a55",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The request for assistance shall contain all the necessary information, including the purpose of the request and reasons for the request. Information exchanged shall be used only in respect of the matter for which it was requested."
+		},
+		{
+			"lang": "de",
+			"text": "Das Amtshilfeersuchen enthält alle erforderlichen Informationen, darunter Zweck und Begründung des Ersuchens. Die übermittelten Informationen werden ausschließlich für die Angelegenheit verwendet, für die sie angefordert wurden."
+		},
+		{
+			"lang": "fr",
+			"text": "La demande d'assistance contient toutes les informations nécessaires, notamment la finalité et les motivations de la demande. Les informations échangées ne sont utilisées qu'aux fins pour lesquelles elles ont été demandées."
+		},
+		{
+			"lang": "es",
+			"text": "La solicitud de asistencia deberá contener toda la información necesaria, sobre todo la finalidad y los motivos de la solicitud. La información intercambiada se utilizará únicamente para los fines para la que se solicitó."
+		},
+		{
+			"lang": "pt",
+			"text": "O pedido de assistência deve incluir todas as informações necessárias, incluindo a finalidade e as razões do pedido. As informações trocadas só devem ser utilizadas para os efeitos para que foram solicitadas."
+		},
+		{
+			"lang": "it",
+			"text": "La richiesta di assistenza contiene tutte le informazioni necessarie, compresi lo scopo e i motivi della richiesta. Le informazioni scambiate sono utilizzate ai soli fini per cui sono state richieste."
+		},
+		{
+			"lang": "ga",
+			"text": "Beidh gach faisnéis is gá san iarraidh ar chúnamh, lena n‑áirítear cuspóir na hiarrata agus na cúiseanna atá léi. Ní úsáidfear faisnéis a mhalartaítear ach amháin chun na críche ar iarradh an fhaisnéis chuici."
+		},
+		{
+			"lang": "cs",
+			"text": "Žádost o pomoc obsahuje všechny potřebné informace včetně účelu žádosti a důvodů pro její předložení. Poskytnuté informace se použijí pouze pro účely, ke kterým byly vyžádány."
+		},
+		{
+			"lang": "da",
+			"text": "Anmodningen om bistand skal indeholde alle nødvendige oplysninger, herunder formålet med og baggrunden for anmodningen. De udvekslede oplysninger må kun anvendes i forbindelse med den sag, der ligger til grund for anmodningen."
+		},
+		{
+			"lang": "et",
+			"text": "Abitaotlus sisaldab kogu vajalikku teavet, sealhulgas taotluse eesmärki ja põhjuseid. Kõnealust teavet kasutatakse üksnes sel eesmärgil, milleks seda taotleti."
+		},
+		{
+			"lang": "el",
+			"text": "Το αίτημα παροχής συνδρομής περιέχει όλες τις απαραίτητες πληροφορίες, συμπεριλαμβανομένων του σκοπού του αιτήματος και των λόγων υποβολής του αιτήματος. Οι πληροφορίες που ανταλλάσσονται χρησιμοποιούνται μόνον σε σχέση με το θέμα για το οποίο ζητήθηκαν."
+		},
+		{
+			"lang": "bg",
+			"text": "Искането за помощ съдържа цялата необходима информация, включително целта на искането и причините за него. Обменената информация се използва единствено по отношение на въпросите, за които е поискана."
+		},
+		{
+			"lang": "hu",
+			"text": "A segítségnyújtás iránti kérelem minden szükséges információt tartalmaz, beleértve a megkeresés célját és indokait. A kicserélt információk kizárólag a kérelemben meghatározott ügy vonatkozásában használhatók fel."
+		},
+		{
+			"lang": "mt",
+			"text": "It-talba għall-assistenza għandha tinkludi l-informazzjoni kollha meħtieġa, inkluż l-għan tat-talba u r-raġunijiet għat-talba. L-informazzjoni skambjata għandha tintuża biss fir-rigward tal-kwistjoni li għaliha ntalbet."
+		},
+		{
+			"lang": "lv",
+			"text": "Palīdzības pieprasījumā norāda visu nepieciešamo informāciju, ietverot pieprasījuma nolūku un pamatojumu. Informāciju, ar ko apmainās, izmanto tikai saistībā ar to jautājumu, kuram tā pieprasīta."
+		},
+		{
+			"lang": "ro",
+			"text": "Solicitarea de asistență cuprinde toate informațiile necesare, inclusiv scopul solicitării și motivele care stau la baza acesteia. Informațiile schimbate sunt utilizate numai în scopul pentru care au fost solicitate."
+		},
+		{
+			"lang": "sk",
+			"text": "Žiadosť o pomoc má obsahovať všetky nevyhnutné informácie vrátane účelu a dôvodov žiadosti. Vymieňané informácie sa použijú iba v súvislosti s vecou, ku ktorej boli vyžiadané."
+		},
+		{
+			"lang": "sl",
+			"text": "Zahteva za pomoč vsebuje vse potrebne informacije, vključno z namenom in obrazložitvijo zahteve. Izmenjane informacije se uporabljajo samo v zvezi z zadevami, za katere so bile zahtevane."
+		},
+		{
+			"lang": "fi",
+			"text": "Avunantopyynnössä on esitettävä kaikki tarvittavat tiedot, mukaan lukien pyynnön tarkoitus ja syy sen esittämiseen. Tietoja saa käyttää ainoastaan siihen tarkoitukseen, jota varten niitä on pyydetty."
+		},
+		{
+			"lang": "pl",
+			"text": "Wniosek o udzielenie pomocy zawiera wszystkie niezbędne informacji, w tym cel i uzasadnienie wniosku. Informacje będące przedmiotem wymiany wykorzystywane są wyłącznie w odniesieniu do sprawy określonej we wniosku."
+		},
+		{
+			"lang": "lt",
+			"text": "Pagalbos prašyme nurodoma visa būtina informacija, įskaitant prašymo tikslą ir priežastis. Gauta informacija naudojama nagrinėjant tik tą klausimą, dėl kurio jos prašyta."
+		},
+		{
+			"lang": "nl",
+			"text": "Het verzoek om informatie bevat alle nodige informatie, waaronder het doel van en de redenen voor het verzoek. De uitgewisselde informatie wordt alleen gebruikt voor de aangelegenheid waarvoor om die informatie verzocht is."
+		},
+		{
+			"lang": "sv",
+			"text": "En begäran om bistånd ska innehålla alla nödvändiga uppgifter, inklusive syftet med begäran och dess bakgrund. Information som utbytts får endast användas i det ärende för vilket den har begärts."
+		}
+	],
+	"children": [],
+	"title": "Article 55 – Paragraph 3"
+}

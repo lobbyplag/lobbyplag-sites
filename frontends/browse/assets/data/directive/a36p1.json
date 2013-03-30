@@ -1,0 +1,102 @@
+{
+	"id": "a36p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a36",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller or the processor shall ensure that the data protection officer is properly and in a timely manner involved in all issues which relate to the protection of personal data."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche oder der Auftragsverarbeiter stellt sicher, dass der Datenschutzbeauftragte ordnungsgemäß und frühzeitig in alle mit dem Schutz personenbezogener Daten zusammenhängenden Fragen eingebunden wird."
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement ou le sous-traitant veillent à ce que le délégué à la protection des données soit associé d'une manière appropriée et en temps utile à toutes les questions relatives à la protection des données à caractère personnel."
+		},
+		{
+			"lang": "es",
+			"text": "El responsable o el encargado del tratamiento velarán por que el delegado de protección de datos se implique adecuadamente y en su debido momento en todas las cuestiones relativas a la protección de datos personales."
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento ou o subcontratante assegura que o delegado para a proteção de dados seja associado, de forma adequada e em tempo útil, a todas as matérias relacionadas com a proteção de dados pessoais."
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento o l’incaricato del trattamento si assicura che il responsabile della protezione dei dati sia prontamente e adeguatamente coinvolto in tutte le questioni riguardanti la protezione dei dati personali."
+		},
+		{
+			"lang": "ga",
+			"text": "Áiritheoidh an rialaitheoir nó an próiseálaí go bhfuil baint ag an oifigeach cosanta sonraí go cuí agus go tráthúil le gach saincheist a bhaineann le cosaint sonraí pearsanta."
+		},
+		{
+			"lang": "cs",
+			"text": "Správce nebo zpracovatel zajistí, aby byl inspektor ochrany údajů náležitě a včas zapojen do veškerých záležitostí souvisejících s ochranou osobních údajů."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige eller registerføreren sikrer, at den databeskyttelsesansvarlige inddrages tilstrækkeligt og rettidigt i alle spørgsmål vedrørende beskyttelse af personoplysninger."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja ja volitatud töötleja tagavad andmekaitseametniku nõuetekohase ja õigeaegse kaasamise kõikidesse isikuandmete kaitse küsimustesse."
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας ή ο εκτελών την επεξεργασία διασφαλίζουν ότι ο υπεύθυνος προστασίας δεδομένων συμμετέχει δεόντως και εγκαίρως σε όλα τα ζητήματα τα οποία σχετίζονται με την προστασία δεδομένων προσωπικού χαρακτήρα."
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът или обработващият лични данни гарантира, че длъжностното лице по защита на данните участва по подходящ начин и своевременно във всички въпроси, свързани със защитата на личните данни."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő vagy -feldolgozó biztosítja, hogy az adatvédelmi tisztviselő a személyes adatok védelmével kapcsolatos összes ügybe megfelelően és időben bekapcsolódjon."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur jew il-proċessur għandu jassigura li l-uffiċjal tal-protezzjoni tad-dejta jkun involut kif xieraq u mingħajr dewmien fil-kwistjonijiet kollha li jikkonċernaw il-protezzjoni tad-dejta personali."
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinis vai apstrādātājs nodrošina, ka datu aizsardzības inspektors tiek pienācīgi un laicīgi iesaistīts visos jautājumos saistībā ar personas datu aizsardzību."
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul sau persoana împuternicită de către operator se asigură că responsabilul cu protecția datelor este implicat în mod corespunzător și în timp util în toate aspectele legate de protecția datelor cu caracter personal."
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ alebo sprostredkovateľ zabezpečia, aby bol úradník pre ochranu údajov riadnym spôsobom a včas zapojený do všetkých otázok, ktoré súvisia s ochranou osobných údajov."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec ali obdelovalec zagotovi, da je uradna oseba za varstvo podatkov ustrezno in pravočasno vključena v vse zadeve v zvezi z varstvom osebnih podatkov."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän tai henkilötietojen käsittelijän on varmistettava, että tietosuojavastaava otetaan asianmukaisesti ja riittävän ajoissa mukaan kaikkien henkilötietojen suojaa koskevien kysymysten käsittelyyn."
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator lub podmiot przetwarzający dopilnowują, by inspektor ochrony danych był właściwie i terminowo włączany we wszystkie kwestie dotyczące ochrony danych osobowych."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas arba duomenų tvarkytojas užtikrina, kad duomenų apsaugos pareigūnui būtų tinkamai ir laiku pranešama apie visus su asmens duomenų apsauga susijusius klausimus."
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke en de verwerker zorgen ervoor dat de functionaris voor gegevensbescherming naar behoren en tijdig wordt betrokken bij alle aangelegenheden die verband houden met de bescherming van persoonsgegevens."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige eller registerföraren ska se till att uppgiftsskyddsombudet på ett korrekt sätt och i god tid deltar i alla frågor som rör skyddet av personuppgifter."
+		}
+	],
+	"children": [],
+	"title": "Article 36 – Paragraph 1"
+}

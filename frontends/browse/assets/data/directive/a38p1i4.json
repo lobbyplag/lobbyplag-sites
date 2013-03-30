@@ -1,0 +1,102 @@
+{
+	"id": "a38p1i4",
+	"type": "point",
+	"literal": "d",
+	"parent": "a38p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "requests of data subjects in exercise of their rights;"
+		},
+		{
+			"lang": "de",
+			"text": "von betroffenen Personen in Ausübung ihrer Rechte gestellte Anträge;"
+		},
+		{
+			"lang": "fr",
+			"text": "les demandes formulées par les personnes concernées dans l'exercice de leurs droits;"
+		},
+		{
+			"lang": "es",
+			"text": "las solicitudes formuladas por los interesados en el ejercicio de sus derechos;"
+		},
+		{
+			"lang": "pt",
+			"text": "Pedidos dos titulares de dados no exercício dos seus direitos;"
+		},
+		{
+			"lang": "it",
+			"text": "le richieste dell’interessato per l’esercizio dei suoi diritti;"
+		},
+		{
+			"lang": "ga",
+			"text": "iarrataí daoine is ábhar do shonraí i bhfeidhmiú a gceart;"
+		},
+		{
+			"lang": "cs",
+			"text": "žádosti subjektů údajů v souvislosti s výkonem jejich práv;"
+		},
+		{
+			"lang": "da",
+			"text": "anmodninger fra registrerede i forbindelse med udøvelsen af deres rettigheder"
+		},
+		{
+			"lang": "et",
+			"text": "andmesubjektide taotlused kasutada oma õigusi;"
+		},
+		{
+			"lang": "el",
+			"text": "δ) τα αιτήματα των προσώπων στα οποία αναφέρονται τα δεδομένα κατά την άσκηση των δικαιωμάτων τους·"
+		},
+		{
+			"lang": "bg",
+			"text": "г) исканията на субектите на данни при упражняване на техните права;"
+		},
+		{
+			"lang": "hu",
+			"text": "az érintettek jogainak gyakorlása során előterjesztett kérelmek;"
+		},
+		{
+			"lang": "mt",
+			"text": "it-talbiet tas-suġġetti tad-dejta fl-eżerċizzju tad-drittijiet tagħhom"
+		},
+		{
+			"lang": "lv",
+			"text": "datu subjektu pieprasījumiem, izmantojot savas tiesības;"
+		},
+		{
+			"lang": "ro",
+			"text": "cererile persoanelor vizate în exercitarea drepturilor acestora;"
+		},
+		{
+			"lang": "sk",
+			"text": "žiadosti dotknutých osôb pri výkone ich práv;"
+		},
+		{
+			"lang": "sl",
+			"text": "zahtevami posameznikov, na katere se nanašajo osebni podatki, pri uveljavljanju njihovih pravic;"
+		},
+		{
+			"lang": "fi",
+			"text": "rekisteröityjen pyynnöt, jotka koskevat heille kuuluvien oikeuksien käyttöä;"
+		},
+		{
+			"lang": "pl",
+			"text": "wniosków podmiotów danych w wykonaniu przysługujących im praw;"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų subjektų prašymų, pateiktų naudojantis savo teisėmis;"
+		},
+		{
+			"lang": "nl",
+			"text": "verzoeken van betrokkenen in het kader van de uitoefening van hun rechten;"
+		},
+		{
+			"lang": "sv",
+			"text": "begäranden som de registrerade gör i utövandet av sina rättigheter,"
+		}
+	],
+	"children": [],
+	"title": "Article 38 – Paragraph 1 – Point 4"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "a4i3",
+	"type": "point",
+	"literal": "3",
+	"parent": "a4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "'processing' means any operation or set of operations which is performed upon personal data or sets of personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, erasure or destruction;"
+		},
+		{
+			"lang": "de",
+			"text": "„Verarbeitung&quot; jeden mit oder ohne Hilfe automatisierter Verfahren ausgeführten Vorgang oder jede Vorgangsreihe im Zusammenhang mit personenbezogenen Daten wie das Erheben, das Erfassen, die Organisation, das Ordnen, die Speicherung, die Anpassung oder Veränderung, das Auslesen, das Abfragen, die Verwendung, die Weitergabe durch Übermittlung, Verbreitung oder jede andere Form der Bereitstellung, der Abgleich oder die Verknüpfung sowie das Löschen oder Vernichten der Daten;"
+		},
+		{
+			"lang": "fr",
+			"text": "«traitement de données à caractère personnel»: toute opération ou ensemble d’opérations effectuée(s) ou non à l’aide de procédés automatisés, et appliquée(s) à des données à caractère personnel, telle(s) que la collecte, l’enregistrement, l’organisation, la structuration, la conservation, l’adaptation ou la modification, l'extraction, la consultation, l’utilisation, la communication par transmission, diffusion ou toute autre forme de mise à disposition, le rapprochement ou l'interconnexion, ainsi que l'effacement ou la destruction;"
+		},
+		{
+			"lang": "es",
+			"text": "«tratamiento»: cualquier operación o conjunto de operaciones realizadas sobre datos personales o conjuntos de datos personales, efectuadas o no mediante procedimientos automatizados, como la recogida, registro, organización, estructuración, conservación, adaptación o modificación, extracción, consulta, utilización, comunicación por transmisión, difusión o cualquier otra forma de habilitación de acceso, cotejo o interconexión, supresión o destrucción;"
+		},
+		{
+			"lang": "pt",
+			"text": "«Tratamento de dados pessoais», qualquer operação ou conjunto de operações efetuadas sobre dados pessoais, com ou sem meios automatizados, tais como a recolha, o registo, a organização, a estruturação, a conservação, a adaptação ou a alteração, a recuperação, a consulta, a utilização, a divulgação por transmissão, difusão ou qualquer outra forma de disponibilização, a comparação ou interconexão, o apagamento ou a destruição;"
+		},
+		{
+			"lang": "it",
+			"text": "“trattamento”: qualsiasi operazione o insieme di operazioni, compiute con o senza l’ausilio di processi automatizzati e applicate a dati personali, come la raccolta, la registrazione, l’organizzazione, la strutturazione, la memorizzazione, l’adattamento o la modifica, l’estrazione, la consultazione, l’uso, la comunicazione mediante trasmissione, diffusione o qualsiasi altra forma di messa a disposizione, il raffronto o l’interconnessione, la cancellazione o la distruzione;"
+		},
+		{
+			"lang": "ga",
+			"text": "ciallaíonn 'próiseáil’ aon oibríocht nó tacar oibríochtaí a dhéantar ar shonraí pearsanta nó ar thacair sonraí pearsanta, trí mhodhanna uathoibrithe nó trí mhodhanna eile, amhail trí shonraí a bhailiú, a thaifeadadh, a eagrú, a struchtúrú, a stóráil, a oiriúnú nó a athrú, a aisghabháil, a cheadú, a úsáid, a nochtadh trí tharchur, trí scaipeadh nó trína chur ar fáil ar bhealach eile, a ailíniú nó a chomhcheangal, a scriosadh nó a dhíothú;"
+		},
+		{
+			"lang": "cs",
+			"text": "„zpracováním“ každý úkon nebo soubor úkonů s osobními údaji nebo soubory osobních údajů, které jsou prováděny pomocí či bez pomoci automatizovaných postupů, jako je shromažďování, zaznamenávání, uspořádávání, strukturování, uchovávání, přizpůsobování nebo pozměňování, vyhledávání, nahlížení, užívání, zveřejňování přenosem, zveřejňování šířením nebo jejich zpřístupňování jiným způsobem, třídění nebo kombinování, vymazání nebo zničení;"
+		},
+		{
+			"lang": "da",
+			"text": "&quot;behandling&quot;: enhver operation eller række af operationer - med eller uden brug af automatiseret databehandling - som personoplysninger eller en samling af personoplysninger gøres til genstand for, f.eks. indsamling, registrering, organisering, systematisering, opbevaring, tilpasning eller ændring, genfinding, søgning, brug, videregivelse ved transmission, formidling eller enhver anden form for overladelse, sammenstilling eller samkøring samt sletning eller tilintetgørelse"
+		},
+		{
+			"lang": "et",
+			"text": "„töötlemine” – isikuandmete või nende kogumitega tehtav automatiseeritud või automatiseerimata toiming või toimingute kogum, nagu kogumine, salvestamine, korrastamine, struktureerimine, säilitamine, kohandamine ja muutmine, päringute teostamine, lugemine, kasutamine, üleandmine, levitamine ja muul moel kättesaadavaks tegemine, ühitamine või ühendamine, kustutamine ja hävitamine;"
+		},
+		{
+			"lang": "el",
+			"text": "«επεξεργασία»: κάθε πράξη ή σειρά πράξεων που πραγματοποιείται με ή χωρίς τη βοήθεια αυτοματοποιημένων μέσων σε δεδομένα προσωπικού χαρακτήρα ή σύνολα δεδομένων προσωπικού χαρακτήρα, όπως η συλλογή, η καταχώριση, η οργάνωση, η διάρθρωση, η αποθήκευση, η προσαρμογή ή η μεταβολή, η ανάκτηση, η αναζήτηση πληροφοριών, η χρήση, η κοινολόγηση με διαβίβαση, η διάδοση ή κάθε άλλη μορφή διάθεσης, η εναρμόνιση ή ο συνδυασμός, η διαγραφή ή η καταστροφή·"
+		},
+		{
+			"lang": "bg",
+			"text": "„обработване“ означава всяка операция или съвкупност от операции, извършвана с лични данни или набор от лични данни чрез автоматични или други средства като събиране, записване, организиране, структуриране, съхранение, адаптиране или промяна, извличане, консултиране, употреба, разкриване чрез предаване, разпространяване или друга форма на предоставяне на данните, подреждане или комбиниране, заличаване или унищожаване;"
+		},
+		{
+			"lang": "hu",
+			"text": "„adatfeldolgozás”: a személyes adatokon vagy adatállományokon automatikus vagy nem automatikus módon végzett bármely művelet vagy műveletek összessége, azaz gyűjtés, rögzítés, rendszerezés, strukturálás, tárolás, átalakítás vagy megváltoztatás, visszakeresés, betekintés, felhasználás, közlés, továbbítás, terjesztés vagy egyéb módon történő hozzáférhetővé tétel révén, összehangolás vagy összekapcsolás, zárolás, törlés, illetve megsemmisítés;"
+		},
+		{
+			"lang": "mt",
+			"text": "‘ipproċessar’ tfisser kull operazzjoni jew sett ta’ operazzjonijiet li jsiru fuq dejta personali, b’mezzi awtomatiċi jew mingħajrhom, bħalma huma l-ġbir, ir-reġistrazzjoni, l-organizzazzjoni, l-istrutturar, il-ħażna, l-adattament jew il-bdil, l-irkupru, il-konsultazzjoni, l-użu, l-iżvelar bi trażmissjoni, tixrid jew li xort’oħra jagħmlu l-ipproċessar disponibbli jew li jġibu allinjament jew taħlita, tħassir jew distruzzjoni;"
+		},
+		{
+			"lang": "lv",
+			"text": "&quot;apstrāde&quot; ir jebkura ar personas datiem veikta darbība vai darbību kopums, ko veic ar vai bez automatizētiem līdzekļiem, piemēram, vākšana, reģistrācija, organizēšana, strukturēšana, glabāšana, pielāgošana vai pārveidošana, atgūšana, aplūkošana, izmantošana, izpaušana – izmantojot nosūtīšanu, izplatīšanu vai, citādi darot pieejamus, – saskaņošana vai kombinēšana, dzēšana vai iznīcināšana;"
+		},
+		{
+			"lang": "ro",
+			"text": "„prelucrare” înseamnă orice operațiune sau set de operațiuni efectuate asupra datelor cu caracter personal sau seturilor de date cu caracter personal, cu sau fără utilizarea de mijloace automatizate, cum ar fi culegerea, înregistrarea, organizarea, structurarea, stocarea, adaptarea sau modificarea, extragerea, consultarea, utilizarea, dezvăluirea prin transmitere, diseminarea sau punerea la dispoziție în orice alt mod, alinierea sau combinarea, ștergerea sau distrugerea;"
+		},
+		{
+			"lang": "sk",
+			"text": "„spracúvanie osobných údajov“ znamená operáciu alebo súbor operácií, ktorými sa osobné údaje spracúvajú automatizovanými alebo neautomatizovanými prostriedkami, napríklad zhromažďovaním, zaznamenávaním, usporadúvaním, štruktúrovaním, uchovávaním, prepracúvaním alebo zmenou, vyhľadávaním, nahliadaním, využívaním, sprístupňovaním prenosom, šírením alebo ich sprístupnením iným spôsobom, preskupovaním alebo kombinovaním, vymazaním alebo likvidáciou;"
+		},
+		{
+			"lang": "sl",
+			"text": "„obdelava“ pomeni vsak postopek ali niz postopkov, ki se izvajajo v zvezi z osebnimi podatki ali nizi osebnih podatkov s samodejnimi sredstvi ali brez njih, kot je zbiranje, beleženje, urejanje, strukturiranje, shranjevanje, prilagajanje ali predelava, iskanje, vpogled, uporaba, razkritje s posredovanjem, širjenje ali drugačno omogočanje dostopa, prilagajanje ali kombiniranje, izbris ali uničenje;"
+		},
+		{
+			"lang": "fi",
+			"text": "’käsittelyllä’ kaikenlaisia toimintoja tai toimintojen kokonaisuuksia, joita kohdistetaan henkilötietoihin tai henkilötietojen kokoelmiin joko automaattista tietojenkäsittelyä käyttäen tai manuaalisesti, kuten tietojen kerääminen, tallentaminen, järjestäminen, säilyttäminen, muokkaaminen tai muuttaminen, haku, käyttö, tietojen luovuttaminen siirtämällä, levittämällä tai asettamalla ne muutoin saataville, tietojen yhteensovittaminen tai yhdistäminen sekä niiden poistaminen tai tuhoaminen;"
+		},
+		{
+			"lang": "pl",
+			"text": "„przetwarzanie” oznacza każdą operację lub zestaw operacji wykonywanych na danych osobowych lub zestawach danych osobowych przy pomocy środków zautomatyzowanych lub innych, jak np. zbieranie, utrwalanie, organizowanie, porządkowanie, przechowywanie, adaptacja lub modyfikacja, pobieranie, uzyskiwanie wglądu, wykorzystywanie, ujawnianie poprzez przekazanie, rozpowszechnianie lub udostępnianie w inny sposób, dopasowywanie lub łączenie, usuwanie lub niszczenie;"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų tvarkymas – bet kokia automatizuotomis arba neautomatizuotomis priemonėmis su asmens duomenimis ar jų rinkiniu atliekama operacija ar operacijų seka, pavyzdžiui, rinkimas, įrašymas, rūšiavimas, sisteminimas, saugojimas, adaptavimas ar keitimas, išgava, paieška, naudojimas, atskleidimas persiunčiant, platinant ar kitu būdu sudarant galimybę jais naudotis, taip pat sugretinimas ar sujungimas su kitais duomenimis, ištrynimas ar sunaikinimas;"
+		},
+		{
+			"lang": "nl",
+			"text": "“verwerking”: elke bewerking of elk geheel van bewerkingen met betrekking tot persoonsgegevens of een geheel van persoonsgegevens, al dan niet uitgevoerd met behulp van geautomatiseerde procédés, zoals het verzamelen, vastleggen, ordenen, structureren, opslaan, bijwerken, wijzigen, opvragen, raadplegen, gebruiken, verstrekken door middel van doorzending, verspreiding of enigerlei andere wijze van terbeschikkingstelling, samenbrengen, met elkaar in verband brengen, alsmede het wissen of vernietigen van gegevens."
+		},
+		{
+			"lang": "sv",
+			"text": "behandling: varje åtgärd eller kombination av åtgärder beträffande personuppgifter eller uppsättningar av personuppgifter, oberoende av om de utförs automatiserat eller ej, såsom insamling, registrering, organisering, strukturering, lagring, bearbetning eller ändring, framtagning, läsning, användning, utlämning genom överföring, spridning eller tillhandahållande på annat sätt, justering eller sammanförande, radering eller förstöring."
+		}
+	],
+	"children": [],
+	"title": "Article 4 – Point 3"
+}

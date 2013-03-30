@@ -1,0 +1,102 @@
+{
+	"id": "a17p4i1",
+	"type": "point",
+	"literal": "a",
+	"parent": "a17p4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "their accuracy is contested by the data subject, for a period enabling the controller to verify the accuracy of the data;"
+		},
+		{
+			"lang": "de",
+			"text": "ihre Richtigkeit von der betroffenen Person bestritten wird, und zwar für eine Dauer, die es dem für die Verarbeitung Verantwortlichen ermöglicht, die Richtigkeit zu überprüfen;"
+		},
+		{
+			"lang": "fr",
+			"text": "pendant une durée permettant au responsable du traitement de vérifier l’exactitude des données lorsque cette dernière est contestée par la personne concernée;"
+		},
+		{
+			"lang": "es",
+			"text": "el interesado impugne su exactitud, durante un plazo que permita al responsable del tratamiento verificar la exactitud de los datos;"
+		},
+		{
+			"lang": "pt",
+			"text": "A sua exatidão for contestada pelo titular dos dados, durante um período que permita ao responsável pelo tratamento verificar a exatidão dos dados;"
+		},
+		{
+			"lang": "it",
+			"text": "quando l’interessato ne contesta l’esattezza, per il periodo necessario ad effettuare le opportune verifiche;"
+		},
+		{
+			"lang": "ga",
+			"text": "i gcás ina gcuireann an duine is ábhar do na sonraí i gcoinne chruinneas na sonraí, cuirfear srian leis an bpróiseáil ar feadh tréimhse le go bhféadfaidh an rialaitheoir cruinneas na sonraí a fhíorú;"
+		},
+		{
+			"lang": "cs",
+			"text": "subjekt údajů popírá jejich přesnost, a to na dobu potřebnou k tomu, aby správce mohl ověřit přesnost údajů;"
+		},
+		{
+			"lang": "da",
+			"text": "deres rigtighed bestrides af den registrerede, indtil den registeransvarlige har haft mulighed for at fastslå, om de er rigtige"
+		},
+		{
+			"lang": "et",
+			"text": "andmesubjekt seab kahtluse alla nende täpsuse; täpsemalt piiratakse siis andmete töötlemine nii kauaks, kuni vastutav töötleja on kontrollinud nende täpsust;"
+		},
+		{
+			"lang": "el",
+			"text": "α) η ακρίβειά τους αμφισβητείται από το πρόσωπο στο οποίο αναφέρονται τα δεδομένα, για χρονικό διάστημα το οποίο επιτρέπει στον υπεύθυνο επεξεργασίας να επαληθεύσει την ακρίβεια των δεδομένων·"
+		},
+		{
+			"lang": "bg",
+			"text": "а) точността им се оспорва от субекта на данните, за срок, който позволява на администратора да провери точността на данните;"
+		},
+		{
+			"lang": "hu",
+			"text": "az érintett vitatja az adatok pontosságát, arra az időtartamra, amely alatt az adatkezelő felülvizsgálhatja az adatok pontosságát;"
+		},
+		{
+			"lang": "mt",
+			"text": "l-preċiżjoni tagħha tiġi kkontestata mis-suġġett tad-dejta, għal perjodu li jippermetti lill-kontrollur jivverifika l-preċiżjoni tad-dejta;"
+		},
+		{
+			"lang": "lv",
+			"text": "datu subjekts apstrīd datu precizitāti — uz laiku, kurā pārzinis pārbauda datu precizitāti;"
+		},
+		{
+			"lang": "ro",
+			"text": "persoana vizată contestă exactitatea acestor date, pentru o perioadă care să îi permită operatorului să verifice exactitatea datelor;"
+		},
+		{
+			"lang": "sk",
+			"text": "dotknutá osoba napadne ich presnosť, a to na dobu umožňujúcu prevádzkovateľovi overiť presnosť údajov;"
+		},
+		{
+			"lang": "sl",
+			"text": "posameznik, na katerega se nanašajo osebni podatki, oporeka njihovi točnosti, in sicer za čas, ki upravljavcu omogoča preveriti točnost podatkov;"
+		},
+		{
+			"lang": "fi",
+			"text": "rekisteröity kiistää tietojen paikkansapitävyyden, jolloin käsittelyä rajoitetaan ajaksi, jonka kuluessa rekisterinpitäjä voi varmistaa niiden paikkansapitävyyden;"
+		},
+		{
+			"lang": "pl",
+			"text": "podmiot danych kwestionuje ich ścisłość, przez czas pozwalający administratorowi na sprawdzenie ścisłości danych;"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų subjektas užginčija jų tikslumą; šiuo atveju duomenų tvarkymas apribojamas laikotarpiui, per kurį duomenų valdytojas gali patikrinti duomenų tikslumą;"
+		},
+		{
+			"lang": "nl",
+			"text": "de juistheid ervan door de betrokkene wordt betwist, gedurende een periode die de voor de verwerking verantwoordelijke in staat stelt de juistheid van de gegevens te controleren;"
+		},
+		{
+			"lang": "sv",
+			"text": "den registrerade bestrider deras korrekthet, under en tid som ger den registeransvarige möjlighet att kontrollera om personuppgifterna är korrekta,"
+		}
+	],
+	"children": [],
+	"title": "Article 17 – Paragraph 4 – Point 1"
+}

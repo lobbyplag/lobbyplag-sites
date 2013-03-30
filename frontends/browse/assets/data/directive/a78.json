@@ -1,0 +1,106 @@
+{
+	"id": "a78",
+	"type": "article",
+	"literal": "78",
+	"parent": "c8",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Penalties"
+		},
+		{
+			"lang": "de",
+			"text": "Sanktionen"
+		},
+		{
+			"lang": "fr",
+			"text": "Sanctions pénales"
+		},
+		{
+			"lang": "es",
+			"text": "Sanciones"
+		},
+		{
+			"lang": "pt",
+			"text": "Sanções"
+		},
+		{
+			"lang": "it",
+			"text": "Sanzioni"
+		},
+		{
+			"lang": "ga",
+			"text": "Pionóis"
+		},
+		{
+			"lang": "cs",
+			"text": "Sankce"
+		},
+		{
+			"lang": "da",
+			"text": "Sanktioner"
+		},
+		{
+			"lang": "et",
+			"text": "Karistused"
+		},
+		{
+			"lang": "el",
+			"text": "Ποινικές κυρώσεις"
+		},
+		{
+			"lang": "bg",
+			"text": "Санкции"
+		},
+		{
+			"lang": "hu",
+			"text": "Szankciók"
+		},
+		{
+			"lang": "mt",
+			"text": "Pieni"
+		},
+		{
+			"lang": "lv",
+			"text": "Sankcijas"
+		},
+		{
+			"lang": "ro",
+			"text": "Sancțiuni"
+		},
+		{
+			"lang": "sk",
+			"text": "Sankcie"
+		},
+		{
+			"lang": "sl",
+			"text": "Kazenske sankcije"
+		},
+		{
+			"lang": "fi",
+			"text": "Seuraamukset"
+		},
+		{
+			"lang": "pl",
+			"text": "Kary"
+		},
+		{
+			"lang": "lt",
+			"text": "Sankcijos"
+		},
+		{
+			"lang": "nl",
+			"text": "Sancties"
+		},
+		{
+			"lang": "sv",
+			"text": "Påföljder"
+		}
+	],
+	"children": [
+		"a78p1",
+		"a78p2",
+		"a78p3"
+	],
+	"title": "Article 78"
+}

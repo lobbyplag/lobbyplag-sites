@@ -1,0 +1,102 @@
+{
+	"id": "r27",
+	"type": "recital",
+	"literal": "27",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The main establishment of a controller in the Union should be determined according to objective criteria and should imply the effective and real exercise of management activities determining the main decisions as to the purposes, conditions and means of processing through stable arrangements. This criterion should not depend whether the processing of personal data is actually carried out at that location; the presence and use of technical means and technologies for processing personal data or processing activities do not, in themselves, constitute such main establishment and are therefore no determining criteria for a main establishment. The main establishment of the processor should be the place of its central administration in the Union."
+		},
+		{
+			"lang": "de",
+			"text": "Zur Bestimmung der Hauptniederlassung eines für die Verarbeitung Verantwortlichen in der Union sollten objektive Kriterien herangezogen werden; ein Kriterium sollte dabei die effektive und tatsächliche Ausübung von Managementtätigkeiten durch eine feste Einrichtung sein, in deren Rahmen die Grundsatzentscheidungen zur Festlegung der Zwecke, Bedingungen und Mittel der Verarbeitung getroffen werden. Dabei sollte nicht ausschlaggebend sein, ob die Verarbeitung der personenbezogenen Daten tatsächlich an diesem Ort ausgeführt wird; das Vorhandensein und die Verwendung technischer Mittel und Verfahren zur Verarbeitung personenbezogener Daten begründet an sich noch keine Hauptniederlassung und ist daher kein ausschlaggebender Faktor für das Bestehen einer solchen Niederlassung. Die Hauptniederlassung des Auftragsverarbeiters sollte der Ort sein, an dem sich seine Hauptverwaltung in der Union befindet."
+		},
+		{
+			"lang": "fr",
+			"text": "Le principal établissement d'un responsable du traitement ou d'un sous-traitant devrait être déterminé en fonction de critères objectifs et devrait supposer l’exercice effectif et réel d’activités de gestion déterminant les décisions principales quant aux finalités, aux conditions et aux modalités du traitement dans le cadre d'une installation stable. Ce critère ne devrait pas dépendre du fait que le traitement ait effectivement lieu à cet endroit; la présence et l'utilisation de moyens techniques et de technologies permettant le traitement de données à caractère personnel ou la réalisation d'activités de ce type ne constituent pas en soi l'établissement principal ni, dès lors, un critère déterminant à cet égard. On entend par «établissement principal du sous‑traitant» le lieu de son administration centrale dans l'Union."
+		},
+		{
+			"lang": "es",
+			"text": "El establecimiento principal de un responsable del tratamiento en la Unión debe determinarse en función de criterios objetivos y debe implicar el ejercicio efectivo y real de actividades de gestión que determinen las principales decisiones en cuanto a los fines, condiciones y medios del tratamiento mediante instalaciones estables. Este criterio no debe depender de si el tratamiento de los datos personales se realiza realmente en dicho lugar. La presencia y utilización de medios técnicos y tecnologías para el tratamiento de datos personales o las actividades de tratamiento no constituyen, en sí mismas, dicho establecimiento principal y no son, por lo tanto, criterios definitorios de un establecimiento principal. El establecimiento principal del encargado del tratamiento debe ser el lugar en que tenga su administración central en la Unión."
+		},
+		{
+			"lang": "pt",
+			"text": "O estabelecimento principal de um responsável pelo tratamento na União deve ser determinado de acordo com critérios objetivos e deve pressupor o exercício efetivo e real de atividades de gestão que determinem as decisões principais quanto às finalidades, condições e meios de tratamento mediante instalações estáveis. Este critério não deve depender do facto de o tratamento ser efetivamente realizado nesse local. A existência e utilização de meios técnicos e de tecnologias para o tratamento de dados pessoais ou as atividades de tratamento não constituem, em si mesmas, o referido estabelecimento principal nem são, portanto, um critério definidor de estabelecimento principal. Entende‑se por estabelecimento principal do subcontratante, o lugar da sua administração central na União."
+		},
+		{
+			"lang": "it",
+			"text": "È necessario che lo stabilimento principale di un responsabile del trattamento dell’Unione sia determinato in base a criteri obiettivi e implichi l’effettivo e reale svolgimento di attività di gestione finalizzate alle principali decisioni sulle finalità, le condizioni e i mezzi del trattamento nel quadro di un’organizzazione stabile. Tale criterio non deve dipendere dal fatto che i dati personali siano effettivamente trattati in quella sede; la presenza o l’uso di mezzi tecnici e tecnologie di trattamento di dati personali o di attività di trattamento non costituiscono di per sé lo stabilimento principale né sono quindi criteri determinanti della sua esistenza. Per quanto riguarda l’incaricato del trattamento, per “stabilimento principale” deve intendersi il luogo in cui ha sede la sua amministrazione centrale nell’Unione."
+		},
+		{
+			"lang": "ga",
+			"text": "Ba cheart príomhbhunaíocht rialaitheora san Aontas a chinneadh de réir critéar oibiachtúil agus trí phríomhbhunaíocht a chinneadh ba cheart go dtabharfaí le tuiscint go ndéantar gníomhaíochtaí bainistíochta éifeachtacha agus iarbhír inti lena ndéantar na príomhchinntí maidir le cuspóirí, coinníollacha agus modhanna na próiseála trí shocruithe cobhsaí. Níor cheart go mbraithfeadh an critéar sin ar phróiseáil na sonraí pearsanta a bheith déanta ag an áit sin; má tá modhanna teicniúla agus teicneolaíochtaí ann agus in úsáid chun sonraí pearsanta a phróiseáil nó chun gníomhaíochtaí próiseála a dhéanamh, ní ionann sin is a rá gur príomhbhunaíocht an áit sin agus mar sin de ní critéir chinntitheacha iad maidir le príomhbhunaíocht. Ba cheart príomhbhunaíocht an phróiseálaí a bheith san áit a bhfuil a riarachán lárnach san Aontas."
+		},
+		{
+			"lang": "cs",
+			"text": "Hlavní provozovna správce v Unii by měla být určena na základě objektivních kritérií. Jedním z nich by měl být účinný a skutečný výkon řídících činností prostřednictvím stálého zařízení, v němž jsou přijímána hlavní rozhodnutí ohledně účelů, podmínek a prostředků zpracování. Přitom by nemělo být rozhodující, zda je zpracování osobních údajů skutečně prováděno na tomto místě; existence a používání technických prostředků a technologií pro zpracovávání osobních údajů nevytváří samy o sobě hlavní provozovnu, a proto nejsou rozhodujícím kritériem pro její určení. Hlavní provozovna správce by měla být místem, kde se nachází jeho ústřední správa v Unii."
+		},
+		{
+			"lang": "da",
+			"text": "En registeransvarligs eller registerførers hovedvirksomhed i Unionen bør fastlægges ud fra objektive kriterier og bør forstås som en effektiv og reel udøvelse af ledelsesaktiviteter, der afgør de vigtigste elementer, som f.eks. formål, betingelser og behandlingsmetoder, gennem permanente strukturer. Dette kriterium afhænger ikke af, om behandlingen af personoplysninger faktisk udføres på dette sted; det forhold, at der findes og anvendes tekniske og teknologiske hjælpemidler til behandling af personoplysninger eller behandlingsaktiviteter, medfører ikke i sig selv, at der er etableret en hovedvirksomhed, og er derfor ikke afgørende for kriteriet om hovedvirksomhed. Registerførerens hovedvirksomhed er stedet for dennes centrale administration i Unionen."
+		},
+		{
+			"lang": "et",
+			"text": "ELis asuva vastutava töötleja peamine tegevuskoht tuleks kindlaks määrata objektiivsete kriteeriumide alusel ning see peaks eeldama tegelikku ja tulemuslikku juhtimistegevust töötlemise eesmärki, tingimusi ja vahendeid käsitlevate peamiste otsuste vastuvõtmisel ning stabiilset asukohta. See kriteerium ei tohiks sõltuda sellest, kas isikuandmete töötlemine toimub tegelikult kõnealuses kohas, kuna isikuandmete töötlemise või töötlemistoimingute teostamise tehniliste vahendite ja tehnoloogia olemasolu ja kasutamine iseendast ei kujuta endast sellist peamist tegevuskohta, seega ei ole need peamise tegevuskoha määravad kriteeriumid. Volitatud töötleja peamine tegevuskoht on koht, kus asub tema ELi juhtkond."
+		},
+		{
+			"lang": "el",
+			"text": "Η κύρια εγκατάσταση ενός υπευθύνου επεξεργασίας στην Ένωση πρέπει να καθορίζεται σύμφωνα με αντικειμενικά κριτήρια, και πρέπει να σημαίνει την ουσιαστική και πραγματική άσκηση δραστηριοτήτων διαχείρισης οι οποίες καθορίζουν τις κύριες αποφάσεις ως προς τους σκοπούς, τις προϋποθέσεις και τα μέσα της επεξεργασίας μέσω σταθερής ρύθμισης. Το κριτήριο αυτό δεν πρέπει να εξαρτάται από το κατά πόσον η επεξεργασία δεδομένων προσωπικού χαρακτήρα πραγματοποιείται πράγματι στον συγκεκριμένο τόπο· η ύπαρξη και η χρήση τεχνικών μέσων και τεχνολογιών για την επεξεργασία δεδομένων προσωπικού χαρακτήρα ή δραστηριοτήτων επεξεργασίας δεν αποτελούν αφ’ εαυτές τέτοια κύρια εγκατάσταση και, επομένως, δεν είναι καθοριστικά κριτήρια της κύριας εγκατάστασης. Η κύρια εγκατάσταση του εκτελούντος την επεξεργασία πρέπει να είναι ο τόπος της κεντρικής διοίκησής του στην Ένωση."
+		},
+		{
+			"lang": "bg",
+			"text": "Основното място на установяване на администратор в Съюза следва да се определя съгласно обективни критерии и следва да означава ефективното и действително упражняване на управленски дейности, определящи основните решения по отношение на целите, условията и средствата за обработване на данни по силата на стабилни договорености. Този критерий не следва да зависи от това дали обработването на лични данни се извършва в действителност на това място; наличието и употребата на технически средства и технологии за обработване на лични данни или дейностите по обработване не представляват сами по себе си такова основно място на установяване и следователно не са определящи критерии за понятието „основно място на установяване“. Основното място на установяване на обработващия лични данни следва да бъде мястото, където се намира главното му управление в Съюза."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő Unión belüli fő szervezet helyét objektív feltételek alapján kell meghatározni, és annak magában kell foglalnia a feldolgozás céljára, feltételeire és módjára vonatkozó fő döntéseket meghatározó igazgatási tevékenység tényleges, tartós jellegű gyakorlását. E feltétel azonban független attól, hogy a személyesadat-feldolgozásra ténylegesen ezen a helyen kerül-e sor; a személyes adatok feldolgozásához vagy a feldolgozási tevékenységekhez kapcsolódó technikai eszközök és technológiák jelenléte és használata önmagában nem hoz létre ilyen fő szervezetet, ezért nem meghatározó feltétel a fő szervezet helye szempontjából. Az adatfeldolgozó fő szervezete az Unión belüli központi igazgatásának helye."
+		},
+		{
+			"lang": "mt",
+			"text": "L-istabbiliment ewlieni ta’ kontrollur fl-Unjoni għandu jkun stabbilit skont kriterji oġġettivi u għandu jimplika l-eżerċizzju reali u effettiv ta’ attivitajiet ta’ ġestjoni li jiddeterminaw id-deċiżjonijiet ewlenin dwar l-għanijiet, il-kundizzjonijiet u l-mezzi tal-ipproċessar permezz ta’ arranġamenti stabbli. Dan il-kriterju m’għandux jiddependi fuq il-fatt jekk l-ipproċessar tad-dejta personali jsirx effettivament f’dak il-post; il-preżenza u l-użu ta’ mezzi tekniċi u teknoloġiji għall-ipproċessar tad-dejta jew l-ipproċessar ta’ attivitajiet, minnhom infushom, ma jikkostitwixxux dan l-istabbilment ewlieni u għaldaqstant mhumiex kriterju determinanti għal stabbilment ewlieni. L-istabbilment ewlieni tal-proċessur għandu jkun il-post fejn tinsab l-amministrazzjoni ċentrali fl-Unjoni."
+		},
+		{
+			"lang": "lv",
+			"text": "Pārziņa galvenās institūcijas atrašanās vieta Savienībā būtu jānosaka, izmantojot objektīvus kritērijus, un tam būtu jānozīmē efektīvas un faktiskas pārvaldes darbības, pieņemot galvenos lēmumus par apstrādes nolūkiem, nosacījumiem un līdzekļiem, ko veic pastāvīga vienība. Šim kritērijam nav jābūt atkarīgam no tā, vai personas datu apstrāde faktiski tiek veikta šajā vietā; personas datu apstrādei vai apstrādes darbībām nepieciešamo tehnisko līdzekļu un tehnoloģiju esība un izmantošana pati par sevi nenozīmē šādas galvenās institūcijas atrašanās vietas esību un nav noteicošie kritēriji galvenās institūcijas atrašanās vietas noteikšanai. Apstrādātāja galvenās institūcijas atrašanās vietai būtu jābūt galvenās pārvaldes institūcijas atrašanās vietai Savienībā."
+		},
+		{
+			"lang": "ro",
+			"text": "Sediul principal al unui operator în Uniune ar trebui să fie determinat conform unor criterii obiective și ar trebui să implice exercitarea efectivă și reală a unor activități de gestionare care să determine principalele decizii cu privire la scopurile, condițiile și mijloacele de prelucrare în cadrul unor înțelegeri stabile. Acest criteriu nu ar trebui să depindă de realizarea efectivă a prelucrării datelor cu caracter personal în locul respectiv; prezența și utilizarea mijloacelor tehnice și a tehnologiilor de prelucrare a datelor cu caracter personal sau activitățile de prelucrare nu constituie, în sine, un astfel de sediu principal și, prin urmare, nu sunt criteriul determinant în acest sens. Sediul principal al persoanei împuternicite de către operator ar trebui să fie locul în care se află administrația centrală a acestuia în Uniune."
+		},
+		{
+			"lang": "sk",
+			"text": "Hlavné zariadenie prevádzkovateľa v Únii by sa malo určiť podľa objektívnych kritérií a malo by zahŕňať efektívne a skutočné vykonávanie riadiacich činností stanovujúcich hlavné rozhodnutia týkajúce sa účelu, podmienok a prostriedkov spracúvania na trvalom základe. Toto kritérium by nemalo byť závislé od toho, či sa spracúvanie osobných údajov skutočne vykonáva na tomto mieste, existencia a použitie technických prostriedkov a technológií spracúvania osobných údajov alebo spracovateľských činností nepredstavujú sami osebe takéto hlavné ústredie a preto nie sú určujúcimi kritériami pre hlavné ústredie. Ústredím sprostredkovateľa by malo byť miesto jeho administratívneho sídla v Únii."
+		},
+		{
+			"lang": "sl",
+			"text": "Glavni sedež upravljavca v Uniji bi moral biti določen v skladu z objektivnimi merili ter bi moral pomeniti učinkovito in dejansko izvajanje dejavnosti upravljanja, ki glavne odločitve glede namenov, pogojev in sredstev za obdelavo določajo prek ustaljenih režimov. To merilo ne bi smelo biti odvisno od tega, ali se obdelava osebnih podatkov v tem kraju dejansko izvaja; prisotnost in uporaba tehničnih sredstev in tehnologij za obdelavo osebnih podatkov ali dejavnosti obdelave sami po sebi ne pomenijo glavnega sedeža in zato niso odločujoče merilo za matično podjetje. Glavni sedež obdelovalca bi moral biti kraj njegove osrednje uprave v Uniji."
+		},
+		{
+			"lang": "fi",
+			"text": "Se, sijaitseeko rekisterinpitäjän päätoimipaikka unionissa, olisi määritettävä objektiivisten kriteerien perusteella, joissa otetaan huomioon ne todelliset hallintotoimet, joiden yhteydessä tehdään kiinteässä toimipaikassa toteutettavan käsittelyn tarkoituksia, edellytyksiä ja keinoja koskevat tärkeimmät päätökset. Näihin kriteereihin ei saisi vaikuttaa se, toteutetaanko varsinainen henkilötietojen käsittely tuossa paikassa, sillä henkilötietojen käsittelyä tai käsittelytoimia varten käytettävien teknisten välineiden ja teknologioiden olemassaolo ja käyttö eivät sinänsä osoita tällaista päätoimipaikkaa eivätkä ne sen vuoksi ole ratkaiseva kriteeri päätoimipaikan määrittämisessä. Rekisterinpitäjän päätoimipaikan olisi oltava sen keskushallinnon sijaintipaikka unionissa."
+		},
+		{
+			"lang": "pl",
+			"text": "Siedzibę administratora w Unii należy ustalić na podstawie obiektywnych kryteriów. Powinna ona zakładać skuteczne i faktycznie zarządzanie, polegające na podejmowaniu najważniejszych decyzji dotyczących celów, warunków i środków przetwarzania w drodze stabilnych rozwiązań. Takie kryterium nie powinno zależeć od tego, czy przetwarzanie danych osobowych jest faktycznie dokonywane w tej lokalizacji; obecność i wykorzystanie środków technicznych i technologii do celów przetwarzania danych osobowych lub działalności w zakresie przetwarzania nie stanowią, same w sobie, takiej siedziby, nie są więc kryteriami wyznaczającymi siedzibę. Siedzibą podmiotu przetwarzającego powinno być miejsce jego zarządu w Unii."
+		},
+		{
+			"lang": "lt",
+			"text": "pagrindinė duomenų valdytojo buveinė Sąjungos teritorijoje turėtų būti nustatoma pagal objektyvius kriterijus, be to, per stabilias struktūras ji turėtų vykdyti veiksmingą ir realią veiklą, priimdama sprendimus dėl duomenų tvarkymo tikslų, sąlygų ir būdų. Vertinant šį kriterijų nėra svarbu, ar asmens duomenys faktiškai buvo tvarkomi toje vietoje; asmens duomenų tvarkymo techninių priemonių ir technologijų buvimas ir naudojimas arba duomenų tvarkymo operacijos savaime nepagrindžia pagrindinės buveinės egzistavimo ir todėl nėra esminis pagrindinės buveinės nustatymo kriterijus. Duomenų tvarkytojo pagrindinė buveinė turėtų būti jo centrinės administracijos vieta Sąjungos teritorijoje;"
+		},
+		{
+			"lang": "nl",
+			"text": "De belangrijkste vestiging van een voor de verwerking verantwoordelijke in de Unie dient te worden bepaald op grond van objectieve criteria, zoals het effectief en daadwerkelijk uitvoeren van beheersactiviteiten door een vaste vestiging, waar de voornaamste besluiten worden genomen over het doel van en de voorwaarden en de middelen voor de verwerking van persoonsgegevens. Dit criterium dient los te staan van het feit of de verwerking van de persoonsgegevens daadwerkelijk op die locatie plaatsvindt; de aanwezigheid en het gebruik van technische middelen en technologieën voor de verwerking van persoonsgegevens of verwerkingsactiviteiten zijn niet bepalend voor het belang van een vestiging en zijn dan ook geen doorslaggevende criteria om te bepalen of het om een belangrijkste vestiging gaat. De belangrijkste vestiging van de verwerker dient de plaats te zijn waar zich zijn centrale administratie in de Unie bevindt."
+		},
+		{
+			"lang": "sv",
+			"text": "En registeransvarigs huvudsakliga verksamhetsställe inom unionen bör avgöras med objektiva kriterier och bör inbegripa den effektiva och faktiska ledning som fattar de huvudsakliga besluten vad avser ändamål, villkor och medel för behandlingen med hjälp av en stabil struktur. Detta kriterium bör inte vara avhängigt om behandlingen av personuppgifter faktiskt utförs på det stället. Att tekniska medel samt teknik för behandling av personuppgifter eller behandlingsverksamhet finns och används, visar i sig inte att det rör sig om ett sådant huvudsakligt verksamhetsställe och utgör därför inte avgörande kriterier för ett huvudsakligt verksamhetsställe. Registerförares huvudsakliga verksamhetsställe bör vara den ort i unionen där de har sin centrala förvaltning."
+		}
+	],
+	"children": [],
+	"title": "Recital 27"
+}

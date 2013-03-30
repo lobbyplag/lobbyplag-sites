@@ -1,0 +1,102 @@
+{
+	"id": "a83p1i2",
+	"type": "point",
+	"literal": "b",
+	"parent": "a83p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "data enabling the attribution of information to an identified or identifiable data subject is kept separately from the other information as long as these purposes can be fulfilled in this manner."
+		},
+		{
+			"lang": "de",
+			"text": "Daten, die die Zuordnung von Informationen zu einer bestimmten oder bestimmbaren betroffenen Person ermöglichen, von den übrigen Informationen getrennt aufbewahrt werden, sofern diese Zwecke in dieser Weise erfüllt werden können."
+		},
+		{
+			"lang": "fr",
+			"text": "les données permettant de rattacher des informations à une personne concernée identifiée ou identifiable sont conservées séparément des autres informations, à condition que ces fins puissent être atteintes de cette manière."
+		},
+		{
+			"lang": "es",
+			"text": "los datos que permitan la atribución de información a un interesado identificado o identificable se conservan por separado del resto de la información, en la medida en que dichos fines puedan lograrse de este modo."
+		},
+		{
+			"lang": "pt",
+			"text": "Os dados que permitem ligar informações a um titular de dados identificado ou identificável forem conservados separados de outras informações, desde que esses fins possam ser atingidos deste modo."
+		},
+		{
+			"lang": "it",
+			"text": "i dati che permettono di associare informazioni a un interessato identificato o identificabile sono conservati separatamente dalle altre informazioni, nella misura in cui tali finalità possano essere conseguite in questo modo."
+		},
+		{
+			"lang": "ga",
+			"text": "i gcás ina gcoinnítear sonraí a shannódh faisnéis do dhuine aitheanta nó duine inaitheanta is ábhar do na sonraí ar leithligh ón bhfaisnéis eile ar chuntar gur féidir na críocha taighde sin a chomhlíonadh ar an mbealach sin."
+		},
+		{
+			"lang": "cs",
+			"text": "pokud se údaje, na základě nichž je možné přiřadit informace k identifikovanému nebo identifikovatelnému subjektu údajů, uchovávají odděleně od ostatních informací, jestliže lze tímto způsobem splnit sledované účely."
+		},
+		{
+			"lang": "da",
+			"text": "de oplysninger, der gør det muligt at knytte oplysninger til en identificeret eller identificerbar registreret, opbevares adskilt fra de øvrige oplysninger, så længe disse formål kan opfyldes på denne måde."
+		},
+		{
+			"lang": "et",
+			"text": "andmeid, mis võimaldavad seostada teavet tuvastatud või tuvastatava andmesubjektiga, hoitakse eraldi muust teabest, kui seda eesmärki saab nii täita."
+		},
+		{
+			"lang": "el",
+			"text": "β) τα δεδομένα που επιτρέπουν την απόδοση πληροφοριών σε πρόσωπο στο οποίο αναφέρονται, κατονομαζόμενο ή του οποίου η ταυτότητα μπορεί να εξακριβωθεί, τηρούνται χωριστά από τις λοιπές πληροφορίες εφόσον οι σκοποί αυτοί μπορούν να εκπληρωθούν κατ’ αυτόν τον τρόπο."
+		},
+		{
+			"lang": "bg",
+			"text": "б) данните, които позволяват информацията да бъде свързана със субект на данни, който е идентифициран или може да бъде идентифициран, се съхраняват отделно от другата информация дотолкова, доколкото тези цели могат да бъдат постигнати по този начин."
+		},
+		{
+			"lang": "hu",
+			"text": "az azonosított vagy azonosítható érintettre vonatkozó információhoz való hozzáférést biztosító adatot az egyéb adatoktól elkülönítve tárolják, feltéve, hogy e célok ilyen módon megvalósíthatóak."
+		},
+		{
+			"lang": "mt",
+			"text": "id-dejta li tippermetti l-attribuzzjoni ta’ informazzjoni lil suġġett tad-dejta identifikat jew li jista’ jkun identifikat tinżamm b’mod separat mill-informazzjoni l-oħra sakemm dawn l-għanijiet jistgħu jintlaħqu b’dan il-mod."
+		},
+		{
+			"lang": "lv",
+			"text": "datus, kas ļauj attiecināt informāciju uz identificētu vai identificējamu datu subjektu, glabā atsevišķi no pārējās informācijas tik ilgi, kamēr vien šādā veidā iespējams sasniegt minētos nolūkus."
+		},
+		{
+			"lang": "ro",
+			"text": "datele care permit atribuirea de informații unei persoane vizate identificate sau identificabile sunt păstrate separat de alte informații atât timp cât aceste scopuri pot fi îndeplinite în acest mod."
+		},
+		{
+			"lang": "sk",
+			"text": "údaje umožňujúce priradenie informácie určenej alebo určiteľnej dotknutej osobe sú uchovávané oddelene od ostatných informácií, pokiaľ predmetné účely možno splniť týmto spôsobom."
+		},
+		{
+			"lang": "sl",
+			"text": "se podatki, ki omogočajo povezavo informacij z določenim ali določljivim posameznikom, na katerega se nanašajo osebni podatki, hranijo ločeno od drugih informacij, če se ti nameni lahko uresničijo na tak način."
+		},
+		{
+			"lang": "fi",
+			"text": "tiedot, joiden avulla tiedot voidaan kohdentaa tunnistettuun tai tunnistettavissa olevaan rekisteröityyn, pidetään erillään muista tiedoista siltä osin kuin nämä tarkoitukset voidaan täyttää tällä tavoin."
+		},
+		{
+			"lang": "pl",
+			"text": "dane umożliwiające przypisanie informacji do zidentyfikowanej podmiotu danych lub do zidentyfikowania, są przechowywane oddzielnie od innych informacji, tak długo jak cele te można osiągnąć w ten sposób."
+		},
+		{
+			"lang": "lt",
+			"text": "duomenys, pagal kuriuos informaciją galima priskirti duomenų subjektui, kurio tapatybė yra nustatyta arba gali būti nustatyta, laikomi atskirai nuo kitos informacijos, jeigu tokiu būdu galima pasiekti šiuos tikslus."
+		},
+		{
+			"lang": "nl",
+			"text": "gegevens waardoor informatie aan een geïdentificeerde of identificeerbare betrokkene kan worden toegekend, gescheiden worden bewaard van andere informatie, voor zover deze doeleinden op die manier kunnen worden bereikt."
+		},
+		{
+			"lang": "sv",
+			"text": "uppgifter som gör det möjligt att hänföra information till en identifierad eller identifierbar registrerad person hålls åtskilda från övrig information så länge som dessa ändamål kan uppfyllas på det sättet."
+		}
+	],
+	"children": [],
+	"title": "Article 83 – Paragraph 1 – Point 2"
+}

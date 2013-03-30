@@ -1,0 +1,102 @@
+{
+	"id": "a14p5i2",
+	"type": "point",
+	"literal": "b",
+	"parent": "a14p5",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the data are not collected from the data subject and the provision of such information proves impossible or would involve a disproportionate effort; or"
+		},
+		{
+			"lang": "de",
+			"text": "die Daten werden nicht bei der betroffenen Person erhoben und die Unterrichtung erweist sich als unmöglich oder ist mit einem unverhältnismäßig hohen Aufwand verbunden oder"
+		},
+		{
+			"lang": "fr",
+			"text": "les données ne sont pas collectées auprès de la personne concernée et que la fourniture de ces informations se révèle impossible ou supposerait des efforts disproportionnés; ou"
+		},
+		{
+			"lang": "es",
+			"text": "los datos no se recojan del interesado y la comunicación de dicha información resulte imposible o implique un esfuerzo desproporcionado; o"
+		},
+		{
+			"lang": "pt",
+			"text": "Os dados não forem recolhidos junto do titular de dados e a comunicação dessas informações se revelar impossível ou implicar um esforço desproporcionado; ou"
+		},
+		{
+			"lang": "it",
+			"text": "i dati non sono raccolti presso l’interessato e comunicare tali informazioni risulta impossibile o implicherebbe risorse sproporzionate, oppure"
+		},
+		{
+			"lang": "ga",
+			"text": "i gcás nach mbailítear na sonraí ón duine is ábhar do na sonraí agus ina mbeadh sé dodhéanta an fhaisnéis sin a sholáthar nó ina mbeadh iarracht dhíréireach ag baint leis; nó"
+		},
+		{
+			"lang": "cs",
+			"text": "údaje nebyly získány od subjektu údajů a poskytnutí těchto informací není možné nebo by vyžadovalo neúměrné úsilí nebo"
+		},
+		{
+			"lang": "da",
+			"text": "oplysningerne ikke indsamles fra den registrerede, og hvis det viser sig umuligt eller uforholdsmæssigt vanskeligt at underrette den pågældende, eller"
+		},
+		{
+			"lang": "et",
+			"text": "andmed ei ole kogutud andmesubjektilt ja sellise teabe esitamine on võimatu või nõuab ülemääraseid jõupingutusi või"
+		},
+		{
+			"lang": "el",
+			"text": "β) τα δεδομένα δεν χορηγούνται από το πρόσωπο στο οποίο αναφέρονται και η παροχή των εν λόγω πληροφοριών αποδεικνύεται ανέφικτη ή συνεπάγεται δυσανάλογη προσπάθεια· ή"
+		},
+		{
+			"lang": "bg",
+			"text": "б) данните не се събират от субекта на данните и предоставянето на такава информация се окаже невъзможно или изисква непропорционално големи усилия; или"
+		},
+		{
+			"lang": "hu",
+			"text": "az adatot nem az érintettől szerezték be, és a kérdéses információk rendelkezésre bocsátása lehetetlennek bizonyul, vagy aránytalanul nagy erőfeszítést igényel; vagy"
+		},
+		{
+			"lang": "mt",
+			"text": "id-dejta ma tinġabarx mingħand is-suġġett tad-dejta u l-provvediment ta’ din l-informazzjoni jirriżulta impossibbli jew ikun jinvolvi sforz sproporzjonat; jew"
+		},
+		{
+			"lang": "lv",
+			"text": "datus neiegūst no datu subjekta un šādas informācijas sniegšana nav iespējama vai prasītu nesamērīgas pūles; vai"
+		},
+		{
+			"lang": "ro",
+			"text": "datele nu sunt colectate de la persoana vizată, iar furnizarea acestor informații se dovedește imposibilă sau ar presupune un efort disproporționat sau"
+		},
+		{
+			"lang": "sk",
+			"text": "údaje neboli získané od dotknutej osoby a poskytnutie týchto informácií sa ukáže ako nemožné alebo by si vyžadovalo neprimerané úsilie, alebo"
+		},
+		{
+			"lang": "sl",
+			"text": "se podatki ne zbirajo od posameznika, na katerega se nanašajo osebni podatki, in se zagotavljanje takih informacij izkaže za nemogoče ali bi vključevalo nesorazmeren napor, ali"
+		},
+		{
+			"lang": "fi",
+			"text": "tietoja ei kerätä rekisteröidyltä ja kyseisten tietojen toimittaminen osoittautuu mahdottomaksi tai vaatisi kohtuutonta vaivaa; tai"
+		},
+		{
+			"lang": "pl",
+			"text": "dane nie są zbierane od podmiotu danych a udzielenie tych informacji okazało się niemożliwe lub wymagałoby niewspółmiernie dużego wysiłku; lub"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenys renkami ne iš duomenų subjekto ir pateikti tokią informaciją neįmanoma arba pareikalautų neproporcingų pastangų; arba"
+		},
+		{
+			"lang": "nl",
+			"text": "de gegevens niet worden verzameld bij de betrokkene en de verstrekking van deze informatie onmogelijk blijkt of onevenredig veel inspanning zou vergen; of"
+		},
+		{
+			"lang": "sv",
+			"text": "Uppgifterna samlas inte in från den registrerade och tillhandahållandet av sådan information visar sig vara omöjligt eller skulle inbegripa en oproportionell ansträngning."
+		}
+	],
+	"children": [],
+	"title": "Article 14 – Paragraph 5 – Point 2"
+}

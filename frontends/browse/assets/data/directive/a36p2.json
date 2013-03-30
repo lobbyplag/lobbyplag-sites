@@ -1,0 +1,102 @@
+{
+	"id": "a36p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a36",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller or processor shall ensure that the data protection officer performs the duties and tasks independently and does not receive any instructions as regards the exercise of the function. The data protection officer shall directly report to the management of the controller or the processor."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche oder der Auftragsverarbeiter stellt sicher, dass der Datenschutzbeauftragte seinen Pflichten und Aufgaben unabhängig nachkommen kann und keine Anweisungen bezüglich der Ausübung seiner Tätigkeit erhält. Der Datenschutzbeauftragte berichtet unmittelbar der Leitung des für die Verarbeitung Verantwortlichen oder des Auftragsverarbeiters."
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement ou le sous-traitant veillent à ce que le délégué à la protection des données accomplisse ses missions et obligations en toute indépendance et ne reçoive aucune instruction en ce qui concerne l'exercice de sa fonction. Le délégué à la protection des données fait directement rapport à la direction du responsable du traitement ou du sous-traitant."
+		},
+		{
+			"lang": "es",
+			"text": "El responsable o el encargado del tratamiento velarán por que el delegado de protección de datos desempeñe sus funciones y tareas con independencia y no reciba ninguna instrucción en lo que respecta al ejercicio de sus funciones. El delegado de protección de datos informará directamente a la dirección del responsable o del encargado del tratamiento."
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento ou o subcontratante assegura que o delegado para a proteção de dados exerce as suas funções e atribuições de forma independente, não recebendo quaisquer instruções relativas ao exercício da sua função. O delegado para a proteção de dados tem o dever de informar diretamente a direção do responsável pelo tratamento ou do subcontratante."
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento o l’incaricato del trattamento si assicura che il responsabile della protezione dei dati adempia alle funzioni e ai compiti in piena indipendenza e non riceva alcuna istruzione per quanto riguarda il loro esercizio. Il responsabile della protezione dei dati riferisce direttamente ai superiori gerarchici del responsabile del trattamento o dell’incaricato del trattamento."
+		},
+		{
+			"lang": "ga",
+			"text": "Áiritheoidh an rialaitheoir nó an próiseálaí go gcuireann an t‑oifigeach cosanta sonraí na dualgais agus na cúraimí i gcrích go neamhspleách agus nach bhfaigheann sé aon treoracha maidir le feidhmiú a chúraimí. Déanfaidh an t‑oifigeach cosanta sonraí tuairisc a thabhairt go díreach do lucht bainistíochta an rialaitheora nó an phróiseálaí."
+		},
+		{
+			"lang": "cs",
+			"text": "Správce nebo zpracovatel zajistí, aby inspektor ochrany údajů plnil své povinnosti a úkoly nezávisle a nepřijímal žádné pokyny k výkonu své funkce. Inspektor ochrany údajů je přímo podřízen vedení správce nebo zpracovatele."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige eller registerføreren sikrer, at den databeskyttelsesansvarlige varetager sit hverv uafhængigt og ikke modtager instrukser med hensyn til udøvelsen af hvervet. Den databeskyttelsesansvarlige rapporterer direkte til ledelsen hos den registeransvarlige eller registerføreren."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja ja volitatud töötleja tagavad, et andmekaitseametnik on oma ülesannete ja kohustuste täitmisel sõltumatu ega saa oma tööülesannete täitmisel juhtnööre. Andmekaitseametnik allub otse vastutava töötleja või volitatud töötleja juhtkonnale."
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας ή ο εκτελών την επεξεργασία διασφαλίζουν ότι ο υπεύθυνος προστασίας δεδομένων ασκεί τις αρμοδιότητες και τα καθήκοντά του ανεξάρτητα και δεν λαμβάνει εντολές όσον αφορά την άσκηση των καθηκόντων του. Ο υπεύθυνος προστασίας δεδομένων λογοδοτεί απευθείας στη διοίκηση του υπευθύνου επεξεργασίας ή του εκτελούντος την επεξεργασία."
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът или обработващият лични данни гарантира, че длъжностното лице по защита на данните изпълнява задълженията и задачите си независимо и не получава указания относно упражняването на функциите си. Длъжностното лице по защита на данните се отчита пряко пред ръководството на администратора или обработващия лични данни."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő vagy -feldolgozó biztosítja, hogy az adatvédelmi tisztviselő a feladatokat és kötelezettségeket függetlenül látja el, és azok ellátásával kapcsolatosan senkitől nem fogad el utasításokat. Az adatvédelmi tisztviselő közvetlenül az adatkezelő vagy -feldolgozó vezetésének tesz jelentést."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur jew il-proċessur għandu jassigura li l-uffiċjal tal-protezzjoni tad-dejta jwettaq id-dmirijiet u l-kompiti b’mod indipendenti u ma jingħatax istruzzjonijiet rigward l-eżerċizzju tal-funzjoni. L-uffiċjal tal-protezzjoni tad-dejta għandu jirrapporta b’mod dirett lill-ġestjoni tal-kontrollur jew tal-proċessur."
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinis un apstrādātājs nodrošina, ka datu aizsardzības inspektors pilda savus pienākumus un uzdevumus neatkarīgi un nesaņem nekādus norādījumus attiecībā uz savu funkciju veikšanu. Datu aizsardzības inspektors tieši ziņo pārziņa vai apstrādātāja vadībai."
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul sau persoană împuternicită de către operator se asigură că responsabilul cu protecția datelor își exercită îndatoririle și atribuțiile în mod independent și că nu primește instrucțiuni în privința exercitării funcției. Responsabilul cu protecția datelor răspunde direct în fața conducerii operatorului sau a persoanei împuternicite de către operator."
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ alebo sprostredkovateľ zabezpečia, aby úradník pre ochranu údajov plnil svoje povinnosti nezávisle, a aby v súvislosti s výkonom tejto funkcie nedostával žiadne pokyny. Úradník pre ochranu údajov priamo podáva správy vedeniu prevádzkovateľa alebo sprostredkovateľa."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec ali obdelovalec zagotovi, da uradna oseba za varstvo podatkov dolžnosti in naloge opravlja neodvisno in ne prejema nobenih navodil v zvezi z opravljanjem funkcije. Uradna oseba za varstvo podatkov neposredno poroča upravi upravljavca ali obdelovalca."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän tai henkilötietojen käsittelijän on varmistettava, että tietosuojavastaava täyttää velvollisuutensa ja tehtävänsä riippumattomasti eikä ota vastaan ohjeita tehtäviensä hoitamisen yhteydessä. Tietosuojavastaava raportoi suoraan rekisterinpitäjän tai henkilötietojen käsittelijän johdolle."
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator i podmiot przetwarzający dopilnowują, by inspektor ochrony danych wykonywał swoje obowiązki i zadania niezależnie i nie otrzymywał żadnych poleceń dotyczących pełnienia swojej funkcji. Inspektor ochrony danych podlega bezpośrednio kierownictwu administratora lub podmiotu przetwarzającego."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas arba duomenų tvarkytojas užtikrina, kad duomenų apsaugos pareigūnas savo pareigas ir užduotis atliktų nepriklausomai ir nepriimtų jokių su funkcijų vykdymu susijusių nurodymų. Duomenų apsaugos pareigūnas tiesiogiai atsiskaito duomenų valdytojo arba duomenų tvarkytojo vadovybei."
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke en de verwerker zorgen ervoor dat de functionaris voor gegevensbescherming zijn plichten en taken onafhankelijk vervult en geen instructies ontvangt met betrekking tot de uitoefening van de functie. De functionaris voor gegevensbescherming brengt rechtstreeks verslag uit aan de leiding van de voor de verwerking verantwoordelijke of de verwerker."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige eller registerföraren ska se till att uppgiftskyddsombudet fullgör sitt uppdrag och utför sina arbetsuppgifter på ett oberoende sätt och inte tar emot instruktioner när det gäller utövandet av funktionen. Uppgiftsskyddsombudet ska rapportera direkt till den registeransvariges eller registerförarens förvaltning."
+		}
+	],
+	"children": [],
+	"title": "Article 36 – Paragraph 2"
+}

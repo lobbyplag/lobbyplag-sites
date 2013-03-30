@@ -1,0 +1,106 @@
+{
+	"id": "a18",
+	"type": "article",
+	"literal": "18",
+	"parent": "c3s3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Right to data portability"
+		},
+		{
+			"lang": "de",
+			"text": "Recht auf Datenübertragbarkeit"
+		},
+		{
+			"lang": "fr",
+			"text": "Droit à la portabilité des données"
+		},
+		{
+			"lang": "es",
+			"text": "Derecho a la portabilidad de los datos"
+		},
+		{
+			"lang": "pt",
+			"text": "Direito de portabilidade dos dados"
+		},
+		{
+			"lang": "it",
+			"text": "Diritto alla portabilità dei dati"
+		},
+		{
+			"lang": "ga",
+			"text": "An ceart maidir le hinaistritheacht sonraí"
+		},
+		{
+			"lang": "cs",
+			"text": "Právo na přenositelnost údajů"
+		},
+		{
+			"lang": "da",
+			"text": "Ret til dataportabilitet"
+		},
+		{
+			"lang": "et",
+			"text": "Isikuandmete ülekantavus"
+		},
+		{
+			"lang": "el",
+			"text": "Δικαίωμα στη φορητότητα των δεδομένων"
+		},
+		{
+			"lang": "bg",
+			"text": "Право на преносимост на данните"
+		},
+		{
+			"lang": "hu",
+			"text": "Az adathordozhatósághoz való jog"
+		},
+		{
+			"lang": "mt",
+			"text": "Dritt għall-portabbiltà tad-dejta"
+		},
+		{
+			"lang": "lv",
+			"text": "Tiesības uz datu pārnesamību"
+		},
+		{
+			"lang": "ro",
+			"text": "Dreptul la portabilitatea datelor"
+		},
+		{
+			"lang": "sk",
+			"text": "Právo na prenosnosť údajov"
+		},
+		{
+			"lang": "sl",
+			"text": "Pravica do prenosljivosti podatkov"
+		},
+		{
+			"lang": "fi",
+			"text": "Oikeus siirtää tiedot järjestelmästä toiseen"
+		},
+		{
+			"lang": "pl",
+			"text": "Prawo przenoszenia danych"
+		},
+		{
+			"lang": "lt",
+			"text": "Teisė į duomenų perkeliamumą"
+		},
+		{
+			"lang": "nl",
+			"text": "Recht van gegevensoverdraagbaarheid"
+		},
+		{
+			"lang": "sv",
+			"text": "Rätt till uppgiftsportabilitet"
+		}
+	],
+	"children": [
+		"a18p1",
+		"a18p2",
+		"a18p3"
+	],
+	"title": "Article 18"
+}

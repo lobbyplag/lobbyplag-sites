@@ -1,0 +1,105 @@
+{
+	"id": "a89",
+	"type": "article",
+	"literal": "89",
+	"parent": "c11",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Relationship to and amendment of Directive 2002/58/EC"
+		},
+		{
+			"lang": "de",
+			"text": "Verhältnis zur Richtlinie 2002/58/EG und Änderung dieser Richtlinie"
+		},
+		{
+			"lang": "fr",
+			"text": "Relation avec la directive 2002/58/CE et modification de cette directive"
+		},
+		{
+			"lang": "es",
+			"text": "Relación con la Directiva 2002/58/CE y modificación de la misma"
+		},
+		{
+			"lang": "pt",
+			"text": "Relação com a Diretiva 2002/58/CE e alteração da mesma"
+		},
+		{
+			"lang": "it",
+			"text": "Rapporto con la direttiva 95/46/CE e sue modifiche"
+		},
+		{
+			"lang": "ga",
+			"text": "Nasc le Treoir 2002/58/CE agus leasú uirthi"
+		},
+		{
+			"lang": "cs",
+			"text": "Vztah k směrnici 2002/58/ES a její změna"
+		},
+		{
+			"lang": "da",
+			"text": "Forhold til og ændring af direktiv 2002/58/EF"
+		},
+		{
+			"lang": "et",
+			"text": "Seos direktiiviga 2002/58/EÜ ja selle muutmine"
+		},
+		{
+			"lang": "el",
+			"text": "Σχέση με την οδηγία 2002/58/ΕΚ και τροποποίησή της"
+		},
+		{
+			"lang": "bg",
+			"text": "Връзка и изменяне на Директива 2002/58/ЕО"
+		},
+		{
+			"lang": "hu",
+			"text": "A 2002/58/EK irányelvvel való összefüggés és annak módosítása"
+		},
+		{
+			"lang": "mt",
+			"text": "Relazzjoni ma’ u emenda tad-Direttiva 2002/58/KE"
+		},
+		{
+			"lang": "lv",
+			"text": "Saistība ar Direktīvu 2002/58/EK un tās grozījumi"
+		},
+		{
+			"lang": "ro",
+			"text": "Relația cu Directiva 2002/58/CE și modificarea acesteia"
+		},
+		{
+			"lang": "sk",
+			"text": "Vzťah k smernici 2002/58/ES a zmeny a doplnenia uvedenej smernice"
+		},
+		{
+			"lang": "sl",
+			"text": "Povezava z Direktivo 2002/58/ES in njena sprememba"
+		},
+		{
+			"lang": "fi",
+			"text": "Suhde direktiiviin 2002/58/EY ja direktiivin muuttaminen"
+		},
+		{
+			"lang": "pl",
+			"text": "Stosunek do dyrektywy 2002/58/WE i jej zmiana"
+		},
+		{
+			"lang": "lt",
+			"text": "Ryšys su Direktyva 2002/58/EB ir jos keitimas"
+		},
+		{
+			"lang": "nl",
+			"text": "Verhouding tot en wijziging van Richtlijn 2002/58/EG"
+		},
+		{
+			"lang": "sv",
+			"text": "Förhållande till och ändring av direktiv 2002/58/EG"
+		}
+	],
+	"children": [
+		"a89p1",
+		"a89p2"
+	],
+	"title": "Article 89"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "r92",
+	"type": "recital",
+	"literal": "92",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The establishment of supervisory authorities in Member States, exercising their functions with complete independence, is an essential component of the protection of individuals with regard to the processing of their personal data. Member States may establish more than one supervisory authority, to reflect their constitutional, organisational and administrative structure."
+		},
+		{
+			"lang": "de",
+			"text": "Die Errichtung von Aufsichtsbehörden in den Mitgliedstaaten, die ihre Aufgabe völlig unabhängig erfüllen, ist ein wesentliches Element des Schutzes des Einzelnen im Hinblick auf die Verarbeitung personenbezogener Daten. Die Mitgliedstaaten können mehr als eine Aufsichtsbehörde errichten, wenn dies ihrer verfassungsmäßigen, organisatorischen und administrativen Struktur entspricht."
+		},
+		{
+			"lang": "fr",
+			"text": "L'institution d'autorités de contrôle dans les États membres, exerçant leurs fonctions en toute indépendance, est un élément essentiel de la protection des personnes physiques à l'égard du traitement des données à caractère personnel. Les États membres ont la possibilité d'instituer plusieurs autorités de contrôle, pour s'aligner sur leur structure constitutionnelle, organisationnelle et administrative."
+		},
+		{
+			"lang": "es",
+			"text": "La creación en los Estados miembros de autoridades de control que ejerzan sus funciones con plena independencia constituye un elemento esencial de la protección de las personas físicas en lo que respecta al tratamiento de datos de carácter personal. Los Estados miembros pueden crear más de una autoridad de control con objeto de reflejar su estructura constitucional, organizativa y administrativa."
+		},
+		{
+			"lang": "pt",
+			"text": "A criação de autoridades de controlo nos Estados-Membros, que exerçam as suas funções com total independência, constitui um elemento essencial da proteção das pessoas singulares no que respeita ao tratamento dos seus dados pessoais. Os Estados-Membros podem criar mais do que uma autoridade de controlo que traduza a sua estrutura constitucional, organizacional e administrativa."
+		},
+		{
+			"lang": "it",
+			"text": "La designazione di autorità di controllo che agiscano in totale indipendenza in ciascuno Stato membro è un elemento essenziale della protezione delle persone con riguardo al trattamento di dati personali. Gli Stati membri possono istituire più di una autorità di controllo, al fine di rispecchiare la loro struttura costituzionale, organizzativa e amministrativa."
+		},
+		{
+			"lang": "ga",
+			"text": "Cuid fhíor‑riachtanach de chosaint daoine aonair i ndáil le próiseáil a sonraí pearsanta is ea bunú údarás maoirseachta sna Ballstáit, ar údaráis iad a chomhlíonfaidh a bhfeidhmeanna ar shlí atá go hiomlán neamhspleách. Féadfaidh Ballstát níos mó ná údarás maoirseachta amháin a bhunú, chun struchtúr bunreachtúil, eagraíochtúil agus riaracháin an Bhallstáit a léiriú."
+		},
+		{
+			"lang": "cs",
+			"text": "Zřízení orgánů dozoru vykonávajících zcela nezávisle své úkoly v členských státech je zásadním prvkem ochrany jednotlivců v souvislosti se zpracováním osobních údajů. Členské státy mohou zřídit více než jeden orgán dozoru, pokud to odpovídá jejich ústavní, organizační a administrativní struktuře."
+		},
+		{
+			"lang": "da",
+			"text": "Oprettelsen af tilsynsmyndigheder i medlemsstaterne, som udøver deres hverv i fuld uafhængighed, har afgørende betydning for beskyttelsen af fysiske personer i forbindelse med behandling af personoplysninger. Medlemsstaterne kan oprette mere end én tilsynsmyndighed for at afspejle deres forfatningsmæssige, organisatoriske og administrative struktur."
+		},
+		{
+			"lang": "et",
+			"text": "Liikmesriikides täiesti sõltumatult oma tööülesandeid täitvate järelevalveasutuste loomine on oluline tegur üksikisikute kaitsmisel seoses nende isikuandmete töötlemisega. Liikmesriik võib luua mitu järelevalveasutust, et arvestada nende põhiseaduslikku, organisatsioonilist ja haldusstruktuuri."
+		},
+		{
+			"lang": "el",
+			"text": "Η σύσταση αρχών ελέγχου στα κράτη μέλη οι οποίες ασκούν τα καθήκοντά τους με πλήρη ανεξαρτησία αποτελεί ουσιώδες στοιχείο της προστασίας των φυσικών προσώπων έναντι της επεξεργασίας των δεδομένων προσωπικού χαρακτήρα που τα αφορούν. Τα κράτη μέλη μπορούν να συστήσουν περισσότερες αρχές ελέγχου, ανάλογα με τη συνταγματική, οργανωτική και διοικητική δομή τους."
+		},
+		{
+			"lang": "bg",
+			"text": "Създаването в държавите-членки на надзорни органи, които изпълняват функциите си при пълна независимост, е съществен елемент от защитата на физическите лица във връзка с обработването на личните им данни. Държавите-членки могат да създават повече от един надзорен орган, за да бъде отразена тяхната конституционна, организационна и административна структура."
+		},
+		{
+			"lang": "hu",
+			"text": "A feladataik ellátása folyamán teljes függetlenséget élvező felügyelő hatóságok létrehozása a tagállamokban alapvető eleme az egyének védelmének a személyes adatok feldolgozása tekintetében. A tagállamok saját alkotmányos, szervezeti és igazgatási szerkezetükhöz igazodva egynél több felügyelő hatóságot is létrehozhatnak."
+		},
+		{
+			"lang": "mt",
+			"text": "L-istabbiliment ta’ awtoritajiet ta’ superviżjoni fl-Istati Membri, li jeżerċitaw il-funzjonijiet tagħhom b’indipendenza sħiħa, huwa komponent essenzjali tal-protezzjoni tal-individwi fir-rigward tal-ipproċessar tad-dejta personali tagħhom. L-Istati Membri jistgħu jistabbilixxu aktar minn awtorità ta’ superviżjoni waħda, sabiex jirriflettu l-istruttura kostituzzjonali, organizzattiva u amministrattiva tagħhom."
+		},
+		{
+			"lang": "lv",
+			"text": "Uzraudzības iestāžu, kuras pilda savas funkcijas pilnīgi neatkarīgi, izveide dalībvalstīs ir būtiska sastāvdaļa personu aizsardzībā attiecībā uz personas datu apstrādi. Dalībvalstis var izveidot vairāk nekā vienu uzraudzības iestādi atbilstoši valsts konstitucionālajai, organizatoriskajai vai administratīvajai uzbūvei."
+		},
+		{
+			"lang": "ro",
+			"text": "Instituirea în statele membre a unor autorități de supraveghere care să își exercite atribuțiile în deplină independență este un element esențial al protecției persoanelor fizice în ceea ce privește prelucrarea datelor lor cu caracter personal. Statele membre pot institui mai multe autorități de supraveghere, pentru a reflecta structura lor constituțională, organizatorică și administrativă."
+		},
+		{
+			"lang": "sk",
+			"text": "Zriadenie dozorných orgánov v členských štátoch a vykonávanie ich funkcií v úplnej nezávislosti je zásadným prvkom ochrany fyzických osôb v súvislosti so spracúvaním ich osobných údajov. Členské štáty môžu zriadiť viac ako jeden dozorný orgán, aby zohľadnili svoju ústavnú, organizačnú a správnu štruktúru."
+		},
+		{
+			"lang": "sl",
+			"text": "Ustanovitev nadzornih organov v državah članicah, ki popolnoma neodvisno opravljajo svoje naloge, je bistveni del varstva posameznikov pri obdelavi njihovih osebnih podatkov. Državam članicam bi morala biti omogočena ustanovitev več kot enega nadzornega organa zaradi umestitve v njihovo ustavno, organizacijsko in upravno strukturo."
+		},
+		{
+			"lang": "fi",
+			"text": "Täysin riippumattomien valvontaviranomaisten perustaminen jäsenvaltioihin on keskeinen osa yksilöiden suojelua henkilötietojen käsittelyssä. Jäsenvaltiot voivat perustaa useampia kuin yhden valvontaviranomaisen oman perustuslakinsa, organisaationsa ja hallintorakenteensa mukaisesti."
+		},
+		{
+			"lang": "pl",
+			"text": "Utworzenie w państwach członkowskich organów nadzorczych, wykonujących swoje funkcje w sposób całkowicie niezależny, jest zasadniczym elementem ochrony osób fizycznych w zakresie przetwarzania danych osobowych. Państwa członkowskie mogą ustanowić więcej niż jeden organu nadzorczy, by odzwierciedlić swoją strukturę konstytucyjną, organizacyjną i administracyjną."
+		},
+		{
+			"lang": "lt",
+			"text": "visiškai nepriklausomai savo funkcijas vykdančių priežiūros institucijų įsteigimas valstybėse narėse yra esminė fizinių asmenų apsaugos tvarkant jų asmens duomenis dalis. Valstybės narės gali įsteigti daugiau nei vieną priežiūros instituciją atsižvelgdamos į savo konstitucinę, organizacinę ir administracinę sandarą;"
+		},
+		{
+			"lang": "nl",
+			"text": "Het is voor de bescherming van personen in verband met de verwerking van persoonsgegevens van wezenlijk belang dat in elke lidstaat een toezichthoudende autoriteit wordt ingesteld die haar taken volstrekt onafhankelijk uitvoert. De lidstaten hebben de mogelijkheid om in overeenstemming met hun constitutionele, organisatorische en bestuurlijke structuur meer dan één toezichthoudende autoriteit in te stellen."
+		},
+		{
+			"lang": "sv",
+			"text": "För att skydda enskilda vid behandlingen av personuppgifter är det avgörande att medlemsstaterna inrättar tillsynsmyndigheter som utför sitt uppdrag under fullständigt oberoende. Medlemsstaterna kan inrätta fler än en tillsynsmyndighet om det behövs för att ta hänsyn till den egna konstitutionella, organisatoriska och administrativa strukturen."
+		}
+	],
+	"children": [],
+	"title": "Recital 92"
+}

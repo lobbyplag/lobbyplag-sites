@@ -1,0 +1,102 @@
+{
+	"id": "a34p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a34",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller or the processor as the case may be shall obtain an authorisation from the supervisory authority prior to the processing of personal data, in order to ensure the compliance of the intended processing with this Regulation and in particular to mitigate the risks involved for the data subjects where a controller or processor adopts contractual clauses as provided for in point (d) of Article 42(2) or does not provide for the appropriate safeguards in a legally binding instrument as referred to in Article 42(5) for the transfer of personal data to a third country or an international organisation."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche oder gegebenenfalls der Auftragsverarbeiter holt vor der Verarbeitung personenbezogener Daten eine Genehmigung der Aufsichtsbehörde ein, um sicherzustellen, dass die geplante Verarbeitung in Übereinstimmung mit dieser Verordnung erfolgt, und um insbesondere die Risiken zu mindern, welche für die betroffenen Personen bestehen, wenn dieser Vertragsklauseln nach Artikel 42 Absatz 2 Buchstabe d vereinbart oder keine geeigneten Garantien für die Übermittlung personenbezogener Daten in ein Drittland oder an eine internationale Organisation in einem rechtsverbindlichen Instrument nach Artikel 42 Absatz 5 vorsieht."
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement ou le sous-traitant, selon le cas, obtiennent une autorisation de l'autorité de contrôle avant le traitement de données à caractère personnel afin de garantir la conformité du traitement prévu avec le présent règlement et, notamment, d'atténuer les risques pour les personnes concernées lorsqu'un responsable du traitement ou un sous‑traitant adoptent des clauses contractuelles telles que celles prévues à l'article 42, paragraphe 2, point d), ou n'offrent pas les garanties appropriées dans un instrument juridiquement contraignant tel que visé à l'article 42, paragraphe 5, régissant le transfert de données à caractère personnel vers un pays tiers ou à une organisation internationale."
+		},
+		{
+			"lang": "es",
+			"text": "El responsable o el encargado del tratamiento, según proceda, deberán obtener una autorización de la autoridad de control antes de proceder al tratamiento de datos personales a fin de garantizar la conformidad del tratamiento previsto con el presente Reglamento y, sobre todo, de atenuar los riesgos para los interesados cuando un responsable o un encargado adopten cláusulas contractuales como las contempladas en el artículo 42, apartado 2, letra d), o no ofrezcan garantías apropiadas en un instrumento jurídicamente vinculante como el contemplado en el artículo 42, apartado 5, que rija la transferencia de datos personales a un tercer país o una organización internacional."
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento ou o subcontratante, consoante o caso, deve obter uma autorização da autoridade de controlo antes de proceder ao tratamento de dados pessoais, a fim de assegurar a conformidade do tratamento previsto com o regulamento e, nomeadamente, atenuar os riscos para os titulares de dados, sempre que um responsável pelo tratamento ou um subcontratante adote cláusulas contratuais como as previstas no artigo 42.º, n.º 2, alínea d), ou não assegure as garantias adequadas num instrumento juridicamente vinculativo, tal como previsto no artigo 42.º, n.º 5, que regule a transferência de dados pessoais para um país terceiro ou uma organização internacional."
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento o l’incaricato del trattamento, a seconda del caso, che adotti le clausole contrattuali di cui all’articolo 42, paragrafo 2, lettera d), o non offra garanzie adeguate in uno strumento giuridicamente vincolante ai sensi dell’articolo 42, paragrafo 5, per il trasferimento di dati personali verso un paese terzo o un’organizzazione internazionale, prima di procedere al trattamento dei dati personali ottiene l’autorizzazione dell’autorità di controllo al fine di garantire la conformità del trattamento previsto al presente regolamento e, in particolare, attenuare i rischi per gli interessati."
+		},
+		{
+			"lang": "ga",
+			"text": "Gheobhaidh an rialaitheoir nó an próiseálaí, de réir mar a bheidh, údarú ón údarás maoirseachta sula ndéanfar na sonraí pearsanta a phróiseáil, chun a áirithiú go mbeidh an phróiseáil atá beartaithe i gcomhréir leis an Rialachán seo agus go háirithe chun na rioscaí a bhaineann leis an bpróiseáil do na daoine is ábhar do na sonraí a mhaolú i gcás ina nglacann rialaitheoir nó próiseálaí clásail chonarthacha dá bhforáiltear i bpointe (d) d’Airteagal 42(2) nó i gcás nach ndéanann an rialaitheoir nó an próiseálaí sin foráil in ionstraim atá ceangailteach ó thaobh dlí maidir leis na cosaintí iomchuí dá dtagraítear in Airteagal 42(5) chun sonraí pearsanta a aistriú go tríú tír nó go heagraíocht idirnáisiúnta."
+		},
+		{
+			"lang": "cs",
+			"text": "Správce nebo zpracovatel musí před zpracováním osobních údajů získat povolení orgánu dozoru, aby se zajistil soulad zamýšleného zpracování s tímto nařízením, a zejména aby se omezila související rizika pro subjekty údajů, pokud správce nebo zpracovatel přijme smluvní doložky podle čl. 42 odst. 2 písm. d) nebo nestanoví vhodné záruky v právně závazném nástroji, jak je uvedeno v čl. 42 odst. 5, v souvislosti s předáváním osobních údajů do třetí země nebo mezinárodní organizaci."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige eller registerføreren indhenter godkendelse fra tilsyns­myndigheden inden behandlingen af personoplysninger for at sikre, at den planlagte behandling er i overensstemmelse med denne forordning, og for at mindske risiciene for de registrerede, såfremt en registeransvarlig eller registerfører vedtager kontraktbestemmelser som omhandlet i artikel 42, stk. 2, litra d), eller ikke fastsætter de fornødne garantier i et retligt bindende instrument som omhandlet i artikel 42, stk. 5, om videregivelse af personoplysninger til et tredjeland eller en international organisation, eller"
+		},
+		{
+			"lang": "et",
+			"text": "Vastavalt vajadusele kas vastutav töötleja või volitatud töötleja taotleb järelevalveasutuselt loa enne isikuandmete töötlemise algust, et kavandatud töötlemine vastaks käesoleva määruse nõuetele ning eelkõige vähendamaks andmesubjekti jaoks ohtu, et vastutav töötleja või volitatud töötleja võtab vastu artikli 42 lõike 2 punktis d osutatud lepingusätted või jätab isikuandmete edastamisel kolmandasse riiki või rahvusvahelisele organisatsioonile õiguslikult siduva dokumendiga kehtestamata artikli 42 lõikes 5 osutatud kaitsemeetmed."
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας ή ο εκτελών την επεξεργασία, ανάλογα με την περίπτωση, εξασφαλίζουν έγκριση από την αρχή ελέγχου πριν από την επεξεργασία δεδομένων προσωπικού χαρακτήρα προκειμένου να διασφαλίζεται η συμμόρφωση της σχεδιαζόμενης επεξεργασίας προς τον παρόντα κανονισμό και, ιδίως, να μετριάζονται οι σχετικοί κίνδυνοι για τα πρόσωπα στα οποία αναφέρονται τα δεδομένα, όταν ένας υπεύθυνος επεξεργασίας ή εκτελών την επεξεργασία θεσπίζει συμβατικές ρήτρες, όπως προβλέπεται στο άρθρο 42 παράγραφος 2 στοιχείο δ), ή δεν παρέχει κατάλληλες εγγυήσεις σε νομικά δεσμευτική πράξη, όπως προβλέπεται στο άρθρο 42 παράγραφος 5, για τη διαβίβαση δεδομένων προσωπικού χαρακτήρα σε τρίτη χώρα ή διεθνή οργανισμό."
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът или обработващият лични данни, в зависимост от случая, получава разрешение от надзорния орган преди обработването на личните данни, за да се гарантира съответствието на планираното обработване с настоящия регламент, и по-специално за да се смекчат съпътстващите рискове за субектите на данните, когато даден администратор или обработващ лични данни приема договорни клаузи, както е предвидено в член 42, параграф 2, буква г), или не предвижда подходящи гаранции в правнообвързващ инструмент, както е предвидено в член 42, параграф 5, за предаването на лични данни до трета държава или международна организация."
+		},
+		{
+			"lang": "hu",
+			"text": "A tervezett feldolgozás e rendelettel való összhangjának biztosítása érdekében a személyes adatok feldolgozását megelőzően az adatkezelő vagy az adatfeldolgozó kéri a felügyelő hatóság engedélyét, különösen az érintettekre vonatkozó kockázatok csökkentése érdekében, ha az adatkezelő vagy az adatfeldolgozó a 42. cikk (2) bekezdésének d) pontja szerinti szerződéses feltételeket alkalmaz, vagy a 42. cikk (5) bekezdésnek megfelelően nem nyújt megfelelő biztosítékokat egy jogilag kötelező eszközben a személyes adatok harmadik országokba vagy valamely nemzetközi szervezet részére történő továbbítása esetén."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur jew il-proċessur, skont kif ikun il-każ, għandu jikseb awtorizzazzjoni mill-awtorità ta’ superviżjoni qabel l-ipproċessar ta’ dejta personali, sabiex jassigura l-konformità tal-ipproċessar maħsub ma’ dan ir-Regolament u b’mod partikolari sabiex inaqqas ir-riskji involuti għas-suġġetti tad-dejta meta: "
+		},
+		{
+			"lang": "lv",
+			"text": "Lai nodrošinātu, ka plānotā apstrāde notiek saskaņā ar šo regulu un jo īpaši lai mazinātu iespējamo risku datu subjektam, pārzinis vai attiecīgā gadījumā apstrādātājs pirms personas datu apstrādes saņem uzraudzības iestādes atļauju, ja pārzinis vai apstrādātājs izstrādā līguma noteikumus saskaņā ar 42. panta 2. punkta d) apakšpunktu vai nenodrošina atbilstošus aizsardzības pasākumus juridiski saistošā dokumentā, kas minēts 42. panta 5. punktā, personas datu nosūtīšanai uz trešo valsti vai starptautisku organizāciju."
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul sau persoana împuternicită de către operator, după caz, obține o autorizație din partea autorității de supraveghere înainte de prelucrarea datelor cu caracter personal, pentru a asigura conformitatea prelucrării prevăzute cu prezentul regulament și în special pentru a atenua riscurile la care sunt expuse persoanele vizate, în cazul în care un operator sau o persoană împuternicită de către operator adoptă clauzele contractuale prevăzute la articolul 42 alineatul (2) litera (d) sau nu oferă garanții corespunzătoare printr-un instrument obligatoriu din punct de vedere juridic, astfel cum se menționează la articolul 42 alineatul (5) în ceea ce privește transferul de date cu caracter personal către o țară terță sau o organizație internațională."
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ, prípadne sprostredkovateľ musia získať povolenie od dozorného orgánu pred spracovaním osobných údajov s cieľom zabezpečiť súlad zamýšľaného spracovania s týmto nariadením a najmä zmierniť riziká pre dotknuté osoby, ak prevádzkovateľ alebo sprostredkovateľ prijmú zmluvné doložky, ako sa ustanovuje v článku 42 ods. 2 písm. d) alebo nezabezpečia náležité záruky prostredníctvom právne záväzného nástroja v zmysle článku 42 ods. 5 pre prenos osobných údajov do tretej krajiny alebo medzinárodnej organizácii."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec oziroma obdelovalec pred obdelavo osebnih podatkov od nadzornega organa pridobita odobritev, da zagotovita skladnost predvidene obdelave s to uredbo in zlasti ublažita nevarnosti za posameznike, na katere se nanašajo osebni podatki, kadar upravljavec ali obdelovalec sprejme pogodbene določbe iz točke (d) člena 42(2) ali ne zagotovi ustreznih zaščitnih ukrepov v pravno zavezujočem aktu iz člena 42(5) za prenos osebnih podatkov v tretjo državo ali mednarodno organizacijo."
+		},
+		{
+			"lang": "fi",
+			"text": "Tapauksen mukaan joko rekisterinpitäjän tai henkilötietojen käsittelijän on saatava valvontaviranomaiselta ennen henkilötietojen käsittelyä ennakkohyväksyntä sen varmistamiseksi, että suunniteltu käsittely on tämän asetuksen mukaista ja erityisesti siitä rekisteröidyille mahdollisesti aiheutuvien riskien lieventämiseksi, jos rekisterinpitäjä tai henkilötietojen käsittelijä hyväksyy 42 artiklan 2 kohdan d alakohdassa tarkoitettuja sopimuslausekkeita tai ei anna asianmukaisia takeita 42 artiklan 5 kohdassa tarkoitetussa oikeudellisesti sitovassa asiakirjassa siltä osin kuin on kyse henkilötietojen siirrosta kolmanteen maahan tai kansainväliselle järjestölle."
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator lub podmiot przetwarzający, w zależności od przypadku, uzyskują zezwolenie organu nadzorczego przed przetwarzaniem danych osobowych, by zapewnić zgodność planowanego przetwarzania z niniejszym rozporządzeniem, w szczególności by złagodzić ryzyko dla podmiotów danych, jeśli administrator lub podmiot przetwarzający przyjmą klauzule umowne przewidziane w art. 42 ust. 2 lit. d) lub nie wprowadzą odpowiednich gwarancji do prawnie wiążących instrumentów, o których mowa w art. 42 ust. 5, dotyczących przekazywania danych osobowych do państwa trzeciego lub organizacji międzynarodowej."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas arba atitinkamais atvejais duomenų tvarkytojas prieš pradėdamas tvarkyti asmens duomenis, iš priežiūros institucijos gauna leidimą ir taip užtikrina, kad numatytas duomenų tvarkymas atitiktų šį reglamentą ir visų pirma būtų sumažinta duomenų subjektams kylanti rizika, jeigu duomenų valdytojas arba duomenų tvarkytojas, norėdamas perduoti asmens duomenis į trečiąją šalį arba tarptautinei organizacijai, priima sutarties sąlygas, kaip nurodyta 42 straipsnio 2 dalies d punkte, arba nenustato tinkamų apsaugos priemonių teisiškai privalomu dokumentu, kaip nurodyta 42 straipsnio 5 dalyje."
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke en, in voorkomend geval, de verwerker verkrijgen voorafgaand aan de verwerking van persoonsgegevens toestemming van de toezichthoudende autoriteit om ervoor te zorgen dat de voorgenomen verwerking aan deze verordening voldoet en met name om de risico’s voor de betrokkenen te beperken wanneer een voor de verwerking verantwoordelijke of een verwerker contractbepalingen vaststelt uit hoofde van artikel 42, lid 2, onder d), of niet in een juridisch bindend instrument passende garanties voor de bescherming van persoonsgegevens biedt als bedoeld in artikel 42, lid 5, voor de doorgifte van persoonsgegevens naar een derde land of een internationale organisatie."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige eller registerföraren, allt efter omständigheterna, ska erhålla ett godkännande från tillsynsmyndigheten före behandlingen av personuppgifterna, i syfte att se till att den avsedda behandlingen överensstämmer med denna förordning och särskilt för att begränsa riskerna för de registrerade när en registeransvarig eller en registerförare antar avtalsklausuler enligt artikel 42.2 d eller inte tillhandahåller lämpliga skyddsåtgärder i ett rättsligt bindande instrument enligt artikel 42.5 för överföring av personuppgifter till ett tredjeland eller en internationell organisation."
+		}
+	],
+	"children": [],
+	"title": "Article 34 – Paragraph 1"
+}

@@ -1,0 +1,107 @@
+{
+	"id": "c1",
+	"type": "chapter",
+	"literal": "I",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "GENERAL PROVISIONS"
+		},
+		{
+			"lang": "de",
+			"text": "ALLGEMEINE BESTIMMUNGEN"
+		},
+		{
+			"lang": "fr",
+			"text": "DISPOSITIONS GÉNÉRALES"
+		},
+		{
+			"lang": "es",
+			"text": "DISPOSICIONES GENERALES"
+		},
+		{
+			"lang": "pt",
+			"text": "DISPOSIÇÕES GERAIS"
+		},
+		{
+			"lang": "it",
+			"text": "DISPOSIZIONI GENERALI"
+		},
+		{
+			"lang": "ga",
+			"text": "FORÁLACHA GINEARÁLTA"
+		},
+		{
+			"lang": "cs",
+			"text": "OBECNÁ USTANOVENÍ"
+		},
+		{
+			"lang": "da",
+			"text": "GENERELLE BESTEMMELSER"
+		},
+		{
+			"lang": "et",
+			"text": "ÜLDSÄTTED"
+		},
+		{
+			"lang": "el",
+			"text": "ΓΕΝΙΚΕΣ ΔΙΑΤΑΞΕΙΣ"
+		},
+		{
+			"lang": "bg",
+			"text": "ОБЩИ РАЗПОРЕДБИ"
+		},
+		{
+			"lang": "hu",
+			"text": "ÁLTALÁNOS RENDELKEZÉSEK"
+		},
+		{
+			"lang": "mt",
+			"text": "DISPOŻIZZJONIJIET ĠENERALI"
+		},
+		{
+			"lang": "lv",
+			"text": "VISPĀRĪGI NOTEIKUMI"
+		},
+		{
+			"lang": "ro",
+			"text": "DISPOZIȚII GENERALE"
+		},
+		{
+			"lang": "sk",
+			"text": "VŠEOBECNÉ USTANOVENIA"
+		},
+		{
+			"lang": "sl",
+			"text": "SPLOŠNE DOLOČBE"
+		},
+		{
+			"lang": "fi",
+			"text": "YLEISET SÄÄNNÖKSET"
+		},
+		{
+			"lang": "pl",
+			"text": "PRZEPISY OGÓLNE"
+		},
+		{
+			"lang": "lt",
+			"text": "BENDROSIOS NUOSTATOS"
+		},
+		{
+			"lang": "nl",
+			"text": "ALGEMENE BEPALINGEN"
+		},
+		{
+			"lang": "sv",
+			"text": "ALLMÄNNA BESTÄMMELSER"
+		}
+	],
+	"children": [
+		"a1",
+		"a2",
+		"a3",
+		"a4"
+	],
+	"title": "Chapter 1"
+}

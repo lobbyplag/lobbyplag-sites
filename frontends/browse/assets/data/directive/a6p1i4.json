@@ -1,0 +1,102 @@
+{
+	"id": "a6p1i4",
+	"type": "point",
+	"literal": "d",
+	"parent": "a6p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "processing is necessary in order to protect the vital interests of the data subject;"
+		},
+		{
+			"lang": "de",
+			"text": "Die Verarbeitung ist nötig, um lebenswichtige Interessen der betroffenen Person zu schützen."
+		},
+		{
+			"lang": "fr",
+			"text": "le traitement est nécessaire à la sauvegarde des intérêts vitaux de la personne concernée;"
+		},
+		{
+			"lang": "es",
+			"text": "el tratamiento es necesario para proteger intereses vitales del interesado;"
+		},
+		{
+			"lang": "pt",
+			"text": "O tratamento for necessário para a proteção de interesses vitais do titular dos dados;"
+		},
+		{
+			"lang": "it",
+			"text": "il trattamento è necessario per la salvaguardia degli interessi vitali dell’interessato;"
+		},
+		{
+			"lang": "ga",
+			"text": "is gá an phróiseáil a dhéanamh chun leasanna ríthábhachtacha an duine is ábhar do na sonraí a chosaint;"
+		},
+		{
+			"lang": "cs",
+			"text": "zpracování je nezbytné pro ochranu životně důležitých zájmů subjektu údajů;"
+		},
+		{
+			"lang": "da",
+			"text": "behandlingen er nødvendig for at beskytte den registreredes vitale interesser"
+		},
+		{
+			"lang": "et",
+			"text": "töötlemine on vajalik andmesubjekti eluliste huvide kaitsmiseks;"
+		},
+		{
+			"lang": "el",
+			"text": "δ) η επεξεργασία είναι απαραίτητη για τη διαφύλαξη ζωτικού συμφέροντος του προσώπου στο οποίο αναφέρονται τα δεδομένα·"
+		},
+		{
+			"lang": "bg",
+			"text": "г) обработването е необходимо за защитата на жизненоважните интереси на субекта на данните;"
+		},
+		{
+			"lang": "hu",
+			"text": "az adatfeldolgozás az érintett létfontosságú érdekének védelme miatt szükséges;"
+		},
+		{
+			"lang": "mt",
+			"text": "l-ipproċessar huwa meħtieġ sabiex ikunu protetti l-interessi vitali tas-suġġett tad-dejta;"
+		},
+		{
+			"lang": "lv",
+			"text": "apstrāde ir vajadzīga, lai aizsargātu datu subjekta īpaši svarīgas intereses;"
+		},
+		{
+			"lang": "ro",
+			"text": "prelucrarea este necesară pentru a proteja interesele vitale ale persoanei vizate;"
+		},
+		{
+			"lang": "sk",
+			"text": "spracovanie je nevyhnutné, aby sa ochránili životné záujmy dotknutej osoby;"
+		},
+		{
+			"lang": "sl",
+			"text": "obdelava je potrebna za varstvo življenjskih interesov posameznika, na katerega se nanašajo osebni podatki;"
+		},
+		{
+			"lang": "fi",
+			"text": "käsittely on tarpeen rekisteröidyn elintärkeiden etujen suojaamiseksi;"
+		},
+		{
+			"lang": "pl",
+			"text": "przetwarzanie jest konieczne w celu ochrony żywotnych interesów podmiotów danych;"
+		},
+		{
+			"lang": "lt",
+			"text": "tvarkyti duomenis reikia siekiant apsaugoti gyvybinius duomenų subjekto interesus;"
+		},
+		{
+			"lang": "nl",
+			"text": "de verwerking is noodzakelijk om de vitale belangen van de betrokkene te beschermen;"
+		},
+		{
+			"lang": "sv",
+			"text": "Behandlingen är nödvändig för att skydda intressen som är av grundläggande betydelse för den registrerade,"
+		}
+	],
+	"children": [],
+	"title": "Article 6 – Paragraph 1 – Point 4"
+}

@@ -1,0 +1,106 @@
+{
+	"id": "a39",
+	"type": "article",
+	"literal": "39",
+	"parent": "c4s5",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Certification"
+		},
+		{
+			"lang": "de",
+			"text": "Zertifizierung"
+		},
+		{
+			"lang": "fr",
+			"text": "Certification"
+		},
+		{
+			"lang": "es",
+			"text": "Certificación"
+		},
+		{
+			"lang": "pt",
+			"text": "Certificação"
+		},
+		{
+			"lang": "it",
+			"text": "Certificazione"
+		},
+		{
+			"lang": "ga",
+			"text": "Deimhniú"
+		},
+		{
+			"lang": "cs",
+			"text": "Osvědčení"
+		},
+		{
+			"lang": "da",
+			"text": "Certificering"
+		},
+		{
+			"lang": "et",
+			"text": "Sertifitseerimine"
+		},
+		{
+			"lang": "el",
+			"text": "Πιστοποίηση"
+		},
+		{
+			"lang": "bg",
+			"text": "Сертифициране"
+		},
+		{
+			"lang": "hu",
+			"text": "Tanúsítás"
+		},
+		{
+			"lang": "mt",
+			"text": "Ċertifikazzjoni"
+		},
+		{
+			"lang": "lv",
+			"text": "Sertifikācija"
+		},
+		{
+			"lang": "ro",
+			"text": "Certificare"
+		},
+		{
+			"lang": "sk",
+			"text": "Certifikácia"
+		},
+		{
+			"lang": "sl",
+			"text": "Potrjevanje"
+		},
+		{
+			"lang": "fi",
+			"text": "Sertifiointi"
+		},
+		{
+			"lang": "pl",
+			"text": "Certyfikacja"
+		},
+		{
+			"lang": "lt",
+			"text": "Sertifikavimas"
+		},
+		{
+			"lang": "nl",
+			"text": "Certificering"
+		},
+		{
+			"lang": "sv",
+			"text": "Certifiering"
+		}
+	],
+	"children": [
+		"a39p1",
+		"a39p2",
+		"a39p3"
+	],
+	"title": "Article 39"
+}

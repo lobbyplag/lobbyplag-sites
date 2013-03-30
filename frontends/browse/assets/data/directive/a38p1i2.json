@@ -1,0 +1,102 @@
+{
+	"id": "a38p1i2",
+	"type": "point",
+	"literal": "b",
+	"parent": "a38p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the collection of data;"
+		},
+		{
+			"lang": "de",
+			"text": "Datenerhebung,"
+		},
+		{
+			"lang": "fr",
+			"text": "la collecte des données;"
+		},
+		{
+			"lang": "es",
+			"text": "la recogida de datos;"
+		},
+		{
+			"lang": "pt",
+			"text": "Recolha de dados;"
+		},
+		{
+			"lang": "it",
+			"text": "la raccolta dei dati;"
+		},
+		{
+			"lang": "ga",
+			"text": "bailiú sonraí;"
+		},
+		{
+			"lang": "cs",
+			"text": "sběr údajů;"
+		},
+		{
+			"lang": "da",
+			"text": "dataindsamling"
+		},
+		{
+			"lang": "et",
+			"text": "andmete kogumine;"
+		},
+		{
+			"lang": "el",
+			"text": "β) τη συλλογή δεδομένων·"
+		},
+		{
+			"lang": "bg",
+			"text": "б) събирането на данни;"
+		},
+		{
+			"lang": "hu",
+			"text": "az adatgyűjtés;"
+		},
+		{
+			"lang": "mt",
+			"text": "il-ġbir tad-dejta;"
+		},
+		{
+			"lang": "lv",
+			"text": "datu vākšanu;"
+		},
+		{
+			"lang": "ro",
+			"text": "colectarea datelor;"
+		},
+		{
+			"lang": "sk",
+			"text": "zhromažďovanie údajov;"
+		},
+		{
+			"lang": "sl",
+			"text": "zbiranjem podatkov;"
+		},
+		{
+			"lang": "fi",
+			"text": "tietojen kerääminen;"
+		},
+		{
+			"lang": "pl",
+			"text": "zbierania danych;"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų rinkimo;"
+		},
+		{
+			"lang": "nl",
+			"text": "de verzameling van gegevens;"
+		},
+		{
+			"lang": "sv",
+			"text": "insamling av uppgifter,"
+		}
+	],
+	"children": [],
+	"title": "Article 38 – Paragraph 1 – Point 2"
+}

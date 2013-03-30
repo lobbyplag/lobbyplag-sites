@@ -1,0 +1,102 @@
+{
+	"id": "a22p3",
+	"type": "paragraph",
+	"literal": "3",
+	"parent": "a22",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller shall implement mechanisms to ensure the verification of the effectiveness of the measures referred to in paragraphs 1 and 2. If proportionate, this verification shall be carried out by independent internal or external auditors."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche setzt geeignete Verfahren zur Überprüfung der Wirksamkeit der in den Absätzen 1 und 2 genannten Maßnahmen ein. Die Überprüfung wird von unabhängigen internen oder externen Prüfern durchgeführt, wenn dies angemessen ist."
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement met en œuvre des mécanismes pour vérifier l’efficacité des mesures énoncées aux paragraphes 1 et 2. Sous réserve de la proportionnalité d'une telle mesure, des auditeurs indépendants internes ou externes procèdent à cette vérification."
+		},
+		{
+			"lang": "es",
+			"text": "El responsable del tratamiento implementará mecanismos para verificar la eficacia de las medidas contempladas en los apartados 1 y 2. Siempre que no sea desproporcionado, estas verificaciones serán llevadas a cabo por auditores independientes internos o externos."
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento deve aplicar mecanismos para verificar a eficácia das medidas referidas nos n.os 1 e 2. Sob reserva da sua proporcionalidade, essa verificação deve ser realizada por auditores independentes internos ou externos."
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento mette in atto meccanismi per assicurare la verifica dell’efficacia delle misure di cui ai paragrafi 1 e 2. Qualora ciò sia proporzionato, la verifica è effettuata da revisori interni o esterni indipendenti."
+		},
+		{
+			"lang": "ga",
+			"text": "Cuirfidh an rialaitheoir sásraí chun feidhme chun a áirithiú go bhfíoraítear éifeachtúlacht na mbeart dá dtagraítear i mír 1 agus i mír 2. Is iniúchóirí neamhspleácha inmheánacha nó seachtracha a dhéanfaidh an fíorú sin, más comhréireach sin."
+		},
+		{
+			"lang": "cs",
+			"text": "Správce zavede mechanismy pro ověření účinnosti opatření uvedených v odstavcích 1 a 2. Je-li to přiměřené, provede toto ověření nezávislý interní nebo externí auditor."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige gennemfører mekanismer, der har til formål at kontrollere effektiviteten af de foranstaltninger, der er nævnt i stk. 1 og 2. Denne kontrol udføres af uafhængige interne eller eksterne revisorer, hvis det er hensigtsmæssigt."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja rakendab mehhanismid lõigetes 1 ja 2 osutatud meetmete tõhususe kontrollimiseks. Kontrolli teostavad sõltumatud sise- või välisaudiitorid, kui see on proportsionaalne."
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας εφαρμόζει μηχανισμούς οι οποίοι διασφαλίζουν τον έλεγχο της αποτελεσματικότητας των μέτρων που αναφέρονται στις παραγράφους 1 και 2. Ο εν λόγω έλεγχος διενεργείται από ανεξάρτητους εσωτερικούς ή εξωτερικούς ελεγκτές, εφόσον κάτι τέτοιο συνιστά αναλογικό μέτρο."
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът прилага механизми, за да гарантира проверката на ефективността на мерките, посочени в параграфи 1 и 2. Ако отговаря на изискването за пропорционалност, тази проверка се извършва от независими вътрешни или външни одитори."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő végrehajtja az (1) és (2) bekezdésben említett intézkedések hatékonyságának felülvizsgálatához szükséges mechanizmusokat. Amennyiben ez arányos, a felülvizsgálatot független belső vagy külső ellenőr végzi."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur għandu jimplimenta mekkaniżmi sabiex jassigura l-verifika tal-effikaċja tal-miżuri msemmija fil-paragrafi 1 u 2. Jekk tkun proporzjonata, din il-verifika għandha ssir minn awdituri interni jew esterni indipendenti."
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinis īsteno mehānismu, kas nodrošina 1. un 2. punktā minēto pasākumu efektivitātes pārbaudi. Ja tas ir samērīgi, šo pārbaudi veic neatkarīgs iekšējs vai ārējs revidents."
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul pune în aplicare mecanisme pentru a asigura verificarea eficacității măsurilor menționate la alineatele (1) și (2). Dacă se dovedește a fi proporțională, această verificare va fi efectuată de auditori interni sau externi independenți."
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ zavedie mechanizmy na overovanie účinnosti opatrení uvedených v odsekoch 1 a 2. V odôvodnených prípadoch vykonávajú toto overovanie nezávislí interní alebo externí audítori."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec uporabi mehanizme za zagotovitev preverjanja učinkovitosti ukrepov iz odstavkov 1 in 2. Če je to preverjanje sorazmerno, ga izvedejo neodvisni notranji ali zunanji revizorji."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän on toteutettava mekanismit sen varmistamiseksi, että 1 ja 2 kohdassa tarkoitettujen toimenpiteiden tehokkuus tarkistetaan. Tarkistamisen suorittavat riippumattomat sisäiset tai ulkoiset tarkastajat, mikäli se on oikeasuhteista."
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator wdraża mechanizmy służące zapewnieniu weryfikacji skuteczności środków, o których mowa w ust. 1 i 2. Jeśli jest to proporcjonalne, weryfikacja ta przeprowadzona jest przez niezależnych audytorów wewnętrznych lub zewnętrznych."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas įdiegia mechanizmus, kuriais užtikrina, kad 1 ir 2 dalyse nurodytų priemonių veiksmingumas būtų tikrinamas. Šį patikrinimą atlieka nepriklausomi vidaus ar išorės auditoriai, jei toks patikrinimas yra proporcingas."
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke stelt mechanismen in om ervoor te zorgen dat de doeltreffendheid van de in de leden 1 en 2 bedoelde maatregelen wordt getoetst. Deze toetsing uitgevoerd door onafhankelijke interne of externe controleurs, indien die maatregel evenredig is."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige ska införa rutiner för att säkerställa kontrollen av att de åtgärder som anges i punkterna 1 och 2 är verkningsfulla. Om det är proportionellt, ska denna kontroll utföras av oberoende interna eller externa granskare."
+		}
+	],
+	"children": [],
+	"title": "Article 22 – Paragraph 3"
+}

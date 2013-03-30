@@ -1,0 +1,106 @@
+{
+	"id": "a62",
+	"type": "article",
+	"literal": "62",
+	"parent": "c7s2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Implementing acts"
+		},
+		{
+			"lang": "de",
+			"text": "Durchführungsrechtsakte"
+		},
+		{
+			"lang": "fr",
+			"text": "Actes d'exécution"
+		},
+		{
+			"lang": "es",
+			"text": "Actos de ejecución"
+		},
+		{
+			"lang": "pt",
+			"text": "Atos de execução"
+		},
+		{
+			"lang": "it",
+			"text": "Atti di esecuzione"
+		},
+		{
+			"lang": "ga",
+			"text": "Gníomhartha cur chun feidhme"
+		},
+		{
+			"lang": "cs",
+			"text": "Prováděcí akty"
+		},
+		{
+			"lang": "da",
+			"text": "Gennemførelsesretsakter"
+		},
+		{
+			"lang": "et",
+			"text": "Rakendusaktid"
+		},
+		{
+			"lang": "el",
+			"text": "Εκτελεστικές πράξεις"
+		},
+		{
+			"lang": "bg",
+			"text": "Актове за изпълнение"
+		},
+		{
+			"lang": "hu",
+			"text": "Végrehajtási jogi aktusok"
+		},
+		{
+			"lang": "mt",
+			"text": "Atti ta’ implimentazzjoni"
+		},
+		{
+			"lang": "lv",
+			"text": "Īstenošanas akti"
+		},
+		{
+			"lang": "ro",
+			"text": "Acte de punere în aplicare"
+		},
+		{
+			"lang": "sk",
+			"text": "Vykonávacie akty"
+		},
+		{
+			"lang": "sl",
+			"text": "Izvedbeni akti"
+		},
+		{
+			"lang": "fi",
+			"text": "Täytäntöönpanosäädökset"
+		},
+		{
+			"lang": "pl",
+			"text": "Akty wykonawcze"
+		},
+		{
+			"lang": "lt",
+			"text": "Įgyvendinimo aktai"
+		},
+		{
+			"lang": "nl",
+			"text": "Uitvoeringshandelingen"
+		},
+		{
+			"lang": "sv",
+			"text": "Genomförandeakter"
+		}
+	],
+	"children": [
+		"a62p1",
+		"a62p2",
+		"a62p3"
+	],
+	"title": "Article 62"
+}

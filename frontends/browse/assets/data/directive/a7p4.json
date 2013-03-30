@@ -1,0 +1,102 @@
+{
+	"id": "a7p4",
+	"type": "paragraph",
+	"literal": "4",
+	"parent": "a7",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Consent shall not provide a legal basis for the processing, where there is a significant imbalance between the position of the data subject and the controller."
+		},
+		{
+			"lang": "de",
+			"text": "Die Einwilligung bietet keine Rechtsgrundlage für die Verarbeitung, wenn zwischen der Position der betroffenen Person und des für die Verarbeitung Verantwortlichen ein erhebliches Ungleichgewicht besteht."
+		},
+		{
+			"lang": "fr",
+			"text": "Le consentement ne constitue pas un fondement juridique valable pour le traitement lorsqu'il existe un déséquilibre significatif entre la personne concernée et le responsable du traitement."
+		},
+		{
+			"lang": "es",
+			"text": "El consentimiento no constituirá una base jurídica válida para el tratamiento cuando exista un desequilibro claro entre la posición del interesado y el responsable del tratamiento."
+		},
+		{
+			"lang": "pt",
+			"text": "O consentimento não constitui um fundamento jurídico válido para o tratamento se existir um desequilíbrio significativo entre a posição do titular dos dados e o responsável pelo tratamento."
+		},
+		{
+			"lang": "it",
+			"text": "Il consenso non costituisce una base giuridica per il trattamento ove vi sia un notevole squilibrio tra la posizione dell’interessato e del responsabile del trattamento."
+		},
+		{
+			"lang": "ga",
+			"text": "Ní thabharfaidh toiliú bunús dlí don phróiseáil má tá éagothromaíocht shuntasach idir cás an duine is ábhar do na sonraí agus cás an rialaitheora."
+		},
+		{
+			"lang": "cs",
+			"text": "Vyjádření souhlasu nepředstavuje právní základ pro zpracování údajů, pokud mezi postavením subjektu údajů a správce existuje značná nerovnováha."
+		},
+		{
+			"lang": "da",
+			"text": "Samtykke tilvejebringer ikke et retsgrundlag for behandling, hvis der er en klar skævhed mellem den registrerede og den registeransvarlige."
+		},
+		{
+			"lang": "et",
+			"text": "Nõusolek ei anna töötlemiseks õiguslikku alust, kui andmesubjekt ja vastutav töötleja on selgelt ebavõrdses olukorras."
+		},
+		{
+			"lang": "el",
+			"text": "Η συγκατάθεση δεν παρέχει νομική βάση για την επεξεργασία, εάν υπάρχει σημαντική ανισορροπία μεταξύ της θέσης του προσώπου στο οποίο αναφέρονται τα δεδομένα και του υπευθύνου επεξεργασίας."
+		},
+		{
+			"lang": "bg",
+			"text": "Съгласието не дава правно основание за обработването, когато е налице значителна неравнопоставеност между позицията на субекта на данните и администратора."
+		},
+		{
+			"lang": "hu",
+			"text": "A hozzájárulás nem teremt jogalapot a feldolgozásra, ha jelentős egyenlőtlenség áll fenn az érintett és az adatkezelő helyzete között."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kunsens ma għandux jipprovdi bażi legali għall-ipproċessar, meta jkun hemm nuqqas ta’ bilanċ sinifikanti bejn il-pożizzjoni tas-suġġett tad-dejta u l-kontrollur."
+		},
+		{
+			"lang": "lv",
+			"text": "Piekrišana nav personas datu apstrādes juridiskais pamats, ja ir skaidri saskatāma nevienlīdzība datu subjekta un pārziņa attiecībās."
+		},
+		{
+			"lang": "ro",
+			"text": "Consimțământul nu reprezintă un temei juridic pentru prelucrare atunci când există un dezechilibru semnificativ între poziția persoanei vizate și cea a operatorului."
+		},
+		{
+			"lang": "sk",
+			"text": "Vyjadrenie súhlasu nedáva právny základ pre spracovanie, ak je značný nepomer medzi postavením dotknutej osoby a prevádzkovateľa."
+		},
+		{
+			"lang": "sl",
+			"text": "Privolitev ne pomeni pravne podlage za obdelavo, če obstaja veliko neravnovesje med posameznikom, na katerega se nanašajo osebni podatki, in upravljavcem."
+		},
+		{
+			"lang": "fi",
+			"text": "Suostumus ei muodosta oikeusperustaa henkilötietojen käsittelylle, jos rekisteröidyn ja rekisterinpitäjän välillä on selkeä epäsuhta."
+		},
+		{
+			"lang": "pl",
+			"text": "Zgoda nie stanowi podstawy prawnej przetwarzania w sytuacji poważnej nierówności między podmiotem danych a administratorem."
+		},
+		{
+			"lang": "lt",
+			"text": "Sutikimas nelaikomas galiojančiu duomenų tvarkymo teisiniu pagrindu, kai yra didelis duomenų subjekto ir duomenų valdytojo padėties disbalansas."
+		},
+		{
+			"lang": "nl",
+			"text": "Toestemming biedt geen rechtsgrondslag voor verwerking wanneer er een aanzienlijke onevenwichtigheid bestaat tussen de positie van de betrokkene en die van de voor de verwerking verantwoordelijke."
+		},
+		{
+			"lang": "sv",
+			"text": "Samtycke ska inte utgöra en rättslig grund för behandlingen, om det föreligger en betydande obalans mellan den registrerades och den registeransvariges ställning."
+		}
+	],
+	"children": [],
+	"title": "Article 7 – Paragraph 4"
+}

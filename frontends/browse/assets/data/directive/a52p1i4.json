@@ -1,0 +1,102 @@
+{
+	"id": "a52p1i4",
+	"type": "point",
+	"literal": "d",
+	"parent": "a52p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "conduct investigations either on its own initiative or on the basis of a complaint or on request of another supervisory authority, and inform the data subject concerned, if the data subject has addressed a complaint to this supervisory authority, of the outcome of the investigations within a reasonable period;"
+		},
+		{
+			"lang": "de",
+			"text": "die Durchführung von Untersuchungen auf eigene Initiative, aufgrund einer Beschwerde oder auf Ersuchen einer anderen Aufsichtsbehörde und, falls die betroffene Person eine Beschwerde bei dieser Aufsichtsbehörde eingereicht hat, deren Unterrichtung über die Ergebnisse der Untersuchungen innerhalb einer angemessenen Frist,"
+		},
+		{
+			"lang": "fr",
+			"text": "effectue des enquêtes, soit de sa propre initiative, soit à la suite d'une réclamation ou à la demande d'une autre autorité de contrôle, et informe la personne concernée, si elle l'a saisie d'une réclamation, du résultat de ses enquêtes dans un délai raisonnable;"
+		},
+		{
+			"lang": "es",
+			"text": "llevará a cabo investigaciones, ya sea a iniciativa propia, ya sea a raíz de una reclamación o a solicitud de otra autoridad de control, e informará al interesado en cuestión, si este hubiera presentado una reclamación, del resultado de las investigaciones en un plazo razonable;"
+		},
+		{
+			"lang": "pt",
+			"text": "Conduzir investigações por sua própria iniciativa ou com base numa queixa ou a pedido de outra autoridade de controlo, e informar o titular dos dados, num prazo razoável, do resultado das operações de investigação, caso aquele tenha apresentado queixa a esta autoridade de controlo;"
+		},
+		{
+			"lang": "it",
+			"text": "svolge indagini di propria iniziativa oppure a seguito di un reclamo o su richiesta di un’altra autorità di controllo, ed entro un termine ragionevole ne comunica l’esito all’interessato che abbia proposto reclamo alla sua autorità di controllo;"
+		},
+		{
+			"lang": "ga",
+			"text": "déanfaidh sé imscrúduithe ar a thionscnamh féin nó ar bhonn gearáin nó arna iarraidh sin d’údarás maoirseachta eile, agus cuirfidh sé an duine is ábhar do na sonraí lena mbaineann ar an eolas faoi thoradh na n‑imscrúduithe laistigh de thréimhse réasúnta má tá gearán déanta ag an duine is ábhar do na sonraí leis an údarás maoirseachta sin;"
+		},
+		{
+			"lang": "cs",
+			"text": "provádí šetření, a to z vlastní iniciativy nebo na základě stížnosti nebo na základě žádosti jiného orgánu dozoru, a o výsledku šetření v rozumné lhůtě informuje dotčené subjekty údajů, pokud tomuto orgánu dozoru adresují stížnost;"
+		},
+		{
+			"lang": "da",
+			"text": "gennemfører undersøgelser på eget initiativ, på grundlag af en klage eller efter anmodning fra en anden tilsynsmyndighed og underretter den registrerede, hvis vedkommende har indgivet en klage til denne tilsynsmyndighed, om resultatet af undersøgelsen inden for en rimelig frist"
+		},
+		{
+			"lang": "et",
+			"text": "korraldab omal algatusel või kaebuse või teise järelevalveasutuse taotluse alusel uurimisi ning kui andmesubjekt on esitanud kaebuse nimetatud järelevalveasutusele, teavitab teda uurimise tulemusest mõistliku aja jooksul;"
+		},
+		{
+			"lang": "el",
+			"text": "δ) διενεργεί έρευνες ιδία πρωτοβουλία ή βάσει καταγγελίας ή κατόπιν αιτήματος άλλης αρχής ελέγχου και ενημερώνει το ενδιαφερόμενο πρόσωπο στο οποίο αναφέρονται τα δεδομένα, εφόσον το πρόσωπο στο οποίο αναφέρονται τα δεδομένα υπέβαλε καταγγελία στη συγκεκριμένη αρχή ελέγχου, για την έκβαση των διερευνήσεων εντός εύλογου χρονικού διαστήματος·"
+		},
+		{
+			"lang": "bg",
+			"text": "г) провежда разследвания по своя инициатива или въз основа на жалба, или по искане на друг надзорен орган и информира в разумен срок съответния субект на данни за резултата от разследванията, ако той е подал жалба до този надзорен орган;"
+		},
+		{
+			"lang": "hu",
+			"text": "saját kezdeményezés, panasz vagy egy másik felügyelő hatóság megkeresése alapján vizsgálatot folytat le, és ésszerű határidőn belül tájékoztatja a vizsgálat eredményéről, amennyiben az emelt panaszt a felügyelő hatóság előtt;"
+		},
+		{
+			"lang": "mt",
+			"text": "twettaq investigazzjonijiet fuq inizjattiva tagħha stess jew fuq il-bażi ta’ lment jew fuq talba ta’ awtorità ta’ superviżjoni oħra, u tinforma lis-suġġett tad-dejta kkonċernat, jekk is-suġġett tad-dejta jkun indirizza lment lil din l-awtorità ta’ superviżjoni, dwar l-eżitu tal-investigazzjonijiet fi żmien raġonevoli;"
+		},
+		{
+			"lang": "lv",
+			"text": "veic izmeklēšanu vai nu pati pēc savas iniciatīvas vai pamatojoties uz sūdzību vai citas uzraudzības iestādes pieprasījumu un saprātīgā termiņā informē attiecīgo datu subjektu, ja tas ir iesniedzis sūdzību uzraudzības iestādei, par izmeklēšanas rezultātiem;"
+		},
+		{
+			"lang": "ro",
+			"text": "desfășoară anchete fie din proprie inițiativă, fie pe baza unei reclamații sau la cererea altei autorități de supraveghere și informează într-un termen rezonabil persoana vizată cu privire la rezultatul anchetelor, în cazul în care persoana vizată a depus o reclamație la această autoritate de supraveghere;"
+		},
+		{
+			"lang": "sk",
+			"text": "na vlastný podnet, na základe sťažnosti alebo na žiadosť iného dozorného orgánu uskutočňuje vyšetrovania a ak dotknutá osoba podala sťažnosť tomuto dozornému orgánu, informuje túto dotknutú osobu o výsledku vyšetrovania v primeranej lehote;"
+		},
+		{
+			"lang": "sl",
+			"text": "na lastno pobudo ali na podlagi pritožbe ali na zahtevo drugega nadzornega organa izvaja preiskave in o izidu v primernem roku obvesti posameznika, na katerega se nanašajo osebni podatki, če je vložil pritožbo;"
+		},
+		{
+			"lang": "fi",
+			"text": "suorittaa tutkimuksia omasta aloitteestaan tai valituksen perusteella tai toisen valvontaviranomaisen pyynnöstä ja, jos rekisteröity on tehnyt valituksen tälle valvontaviranomaiselle, ilmoittaa rekisteröidylle tutkimusten tuloksesta kohtuullisen ajan kuluessa;"
+		},
+		{
+			"lang": "pl",
+			"text": "prowadzi dochodzenia albo z własnej inicjatywy albo na podstawie skargi lub wniosku innego organu nadzorczego, i informuje w rozsądnym czasie podmiot danych, jeżeli skierował on skargę do tego organu nadzorczego, o wyniku dochodzeń;"
+		},
+		{
+			"lang": "lt",
+			"text": "atlieka tyrimus savo iniciatyva arba pagal skundą, arba kitos priežiūros institucijos prašymu ir per pagrįstą laikotarpį informuoja atitinkamą duomenų subjektą apie tyrimo rezultatą, jei duomenų subjektas skundą pateikė tai priežiūros institucijai;"
+		},
+		{
+			"lang": "nl",
+			"text": "verricht onderzoeken hetzij op eigen initiatief, hetzij op basis van een klacht of op verzoek van een andere toezichthoudende autoriteit, en stelt de betrokkene, als die bij die toezichthoudende autoriteit een klacht heeft ingediend, binnen een redelijke termijn in kennis van het resultaat van de onderzoeken;"
+		},
+		{
+			"lang": "sv",
+			"text": "Utföra undersökningar på eget initiativ, på grundval av klagomål eller på begäran av en annan tillsynsmyndighet och – om en undersökning grundar sig på ett klagomål som en registrerad lämnat in till myndigheten – underrätta den registrerade om resultatet inom rimlig tid."
+		}
+	],
+	"children": [],
+	"title": "Article 52 – Paragraph 1 – Point 4"
+}

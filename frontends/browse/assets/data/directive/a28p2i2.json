@@ -1,0 +1,102 @@
+{
+	"id": "a28p2i2",
+	"type": "point",
+	"literal": "b",
+	"parent": "a28p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the name and contact details of the data protection officer, if any;"
+		},
+		{
+			"lang": "de",
+			"text": "Name und Kontaktdaten eines etwaigen Datenschutzbeauftragten;"
+		},
+		{
+			"lang": "fr",
+			"text": "le nom et les coordonnées du délégué à la protection des données, le cas échéant;"
+		},
+		{
+			"lang": "es",
+			"text": "el nombre y los datos de contacto del delegado de protección de datos, si lo hubiera;"
+		},
+		{
+			"lang": "pt",
+			"text": "Nome e contactos do responsável pela proteção dos dados, caso existam;"
+		},
+		{
+			"lang": "it",
+			"text": "nome e coordinate di contatto dell’eventuale responsabile della protezione dei dati;"
+		},
+		{
+			"lang": "ga",
+			"text": "ainm agus sonraí teagmhála an oifigigh cosanta sonraí, más ann dó;"
+		},
+		{
+			"lang": "cs",
+			"text": "v patřičném případě jméno a kontaktní údaje inspektora ochrany údajů;"
+		},
+		{
+			"lang": "da",
+			"text": "navn og kontaktoplysninger for den eventuelle databeskyttelsesansvarlige"
+		},
+		{
+			"lang": "et",
+			"text": "vajaduse korral andmekaitseametniku nimi ja kontaktandmed;"
+		},
+		{
+			"lang": "el",
+			"text": "β) το όνομα και τα στοιχεία επικοινωνίας του υπευθύνου προστασίας των δεδομένων, εφόσον συντρέχει περίπτωση·"
+		},
+		{
+			"lang": "bg",
+			"text": "б) името и координатите за връзка на длъжностното лице по защита на данните, ако има такова;"
+		},
+		{
+			"lang": "hu",
+			"text": "az adatvédelmi tisztviselő neve és elérhetősége, ha van ilyen;"
+		},
+		{
+			"lang": "mt",
+			"text": "l-isem u d-dettalji ta’ kuntatt tal-uffiċjal tal-protezzjoni tad-dejta, jekk ikun hemm;"
+		},
+		{
+			"lang": "lv",
+			"text": "datu aizsardzības inspektora nosaukumu un kontaktinformāciju, ja tāds ir;"
+		},
+		{
+			"lang": "ro",
+			"text": "numele și datele de contact ale responsabilului cu protecția datelor, dacă este cazul;"
+		},
+		{
+			"lang": "sk",
+			"text": "meno a kontaktné údaje úradníka pre ochranu údajov, ak je určený;"
+		},
+		{
+			"lang": "sl",
+			"text": "imenu uradnika za varstvo podatkov, če ta obstaja, in njegove kontaktne podatke;"
+		},
+		{
+			"lang": "fi",
+			"text": "mahdollisen tietosuojavastaavan nimi ja yhteystiedot;"
+		},
+		{
+			"lang": "pl",
+			"text": "imienia i nazwiska/nazwy oraz danych kontaktowych ewentualnego inspektora ochrony danych;"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų apsaugos pareigūno, jei toks yra, vardas ir pavardė ir duomenys ryšiams;"
+		},
+		{
+			"lang": "nl",
+			"text": "de naam en de contactgegevens van de functionaris voor gegevensbescherming, in voorkomend geval;"
+		},
+		{
+			"lang": "sv",
+			"text": "Namn och kontaktuppgifter för det eventuella uppgiftsskyddsombudet."
+		}
+	],
+	"children": [],
+	"title": "Article 28 – Paragraph 2 – Point 2"
+}

@@ -1,0 +1,105 @@
+{
+	"id": "c3s2",
+	"type": "section",
+	"literal": "2",
+	"parent": "c3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "INFORMATION AND ACCESS TO DATA"
+		},
+		{
+			"lang": "de",
+			"text": "INFORMATIONSPFLICHT UND AUSKUNFTSRECHT"
+		},
+		{
+			"lang": "fr",
+			"text": "INFORMATION ET ACCÈS AUX DONNÉES"
+		},
+		{
+			"lang": "es",
+			"text": "información y acceso a los datos"
+		},
+		{
+			"lang": "pt",
+			"text": "INFORMAÇÃO E ACESSO AOS DADOS"
+		},
+		{
+			"lang": "it",
+			"text": "INFORMAZIONE E ACCESSO AI DATI"
+		},
+		{
+			"lang": "ga",
+			"text": "FAISNÉIS AGUS ROCHTAIN AR SHONRAÍ"
+		},
+		{
+			"lang": "cs",
+			"text": "INFORMACE A PŘÍSTUP K ÚDAJŮM"
+		},
+		{
+			"lang": "da",
+			"text": "INFORMATION OG ADGANG TIL OPLYSNINGER"
+		},
+		{
+			"lang": "et",
+			"text": "TEAVITAMINE JA ANDMETELE JUURDEPÄÄS"
+		},
+		{
+			"lang": "el",
+			"text": "ΕΝΗΜΕΡΩΣΗ ΚΑΙ ΠΡΟΣΒΑΣΗ ΣΤΑ ΔΕΔΟΜΕΝΑ"
+		},
+		{
+			"lang": "bg",
+			"text": "ИНФОРМАЦИЯ И ДОСТЪП ДО ДАННИ"
+		},
+		{
+			"lang": "hu",
+			"text": "TÁJÉKOZTATÁS ÉS AZ ADATOKHOZ VALÓ HOZZÁFÉRÉS"
+		},
+		{
+			"lang": "mt",
+			"text": "INFORMAZZJONI U AĊĊESS GĦAL DEJTA"
+		},
+		{
+			"lang": "lv",
+			"text": "INFORMĀCIJA UN PIEKĻUVE DATIEM"
+		},
+		{
+			"lang": "ro",
+			"text": "INFORMARE ȘI ACCES LA DATE"
+		},
+		{
+			"lang": "sk",
+			"text": "INFORMÁCIE A PRÍSTUP K ÚDAJOM"
+		},
+		{
+			"lang": "sl",
+			"text": "INFORMACIJE IN DOSTOP DO PODATKOV"
+		},
+		{
+			"lang": "fi",
+			"text": "ILMOITTAMINEN JA TIEDONSAANTI"
+		},
+		{
+			"lang": "pl",
+			"text": "INFORMACJE I DOSTĘP DO DANYCH"
+		},
+		{
+			"lang": "lt",
+			"text": "INFORMAVIMAS IR TEISĖ SUSIPAŽINTI SU DUOMENIMIS"
+		},
+		{
+			"lang": "nl",
+			"text": "INFORMATIE EN TOEGANG TOT GEGEVENS"
+		},
+		{
+			"lang": "sv",
+			"text": "INFORMATION OCH TILLGÅNG TILL UPPGIFTER"
+		}
+	],
+	"children": [
+		"a14",
+		"a15"
+	],
+	"title": "Chapter 3 – Section 2"
+}

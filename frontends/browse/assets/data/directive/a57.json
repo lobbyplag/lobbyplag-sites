@@ -1,0 +1,104 @@
+{
+	"id": "a57",
+	"type": "article",
+	"literal": "57",
+	"parent": "c7s2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Consistency mechanism"
+		},
+		{
+			"lang": "de",
+			"text": "Kohärenzverfahren"
+		},
+		{
+			"lang": "fr",
+			"text": "Mécanisme de contrôle de la cohérence"
+		},
+		{
+			"lang": "es",
+			"text": "Mecanismo de coherencia"
+		},
+		{
+			"lang": "pt",
+			"text": "Mecanismo de controlo da coerência"
+		},
+		{
+			"lang": "it",
+			"text": "Meccanismo di coerenza"
+		},
+		{
+			"lang": "ga",
+			"text": "Sásra comhsheasmhachta"
+		},
+		{
+			"lang": "cs",
+			"text": "Mechanismus jednotnosti"
+		},
+		{
+			"lang": "da",
+			"text": "Sammenhængsmekanisme"
+		},
+		{
+			"lang": "et",
+			"text": "Järjepidevuse mehhanism"
+		},
+		{
+			"lang": "el",
+			"text": "Μηχανισμός συνεκτικότητας"
+		},
+		{
+			"lang": "bg",
+			"text": "Механизъм за съгласуваност"
+		},
+		{
+			"lang": "hu",
+			"text": "Egységességi mechanizmus"
+		},
+		{
+			"lang": "mt",
+			"text": "Mekkaniżmu ta’ konsistenza"
+		},
+		{
+			"lang": "lv",
+			"text": "Konsekvences mehānisms"
+		},
+		{
+			"lang": "ro",
+			"text": "Mecanismul pentru asigurarea coerenței"
+		},
+		{
+			"lang": "sk",
+			"text": "Mechanizmus konzistentnosti"
+		},
+		{
+			"lang": "sl",
+			"text": "Mehanizem za skladnost"
+		},
+		{
+			"lang": "fi",
+			"text": "Yhdenmukaisuusmekanismi"
+		},
+		{
+			"lang": "pl",
+			"text": "Mechanizm zgodności"
+		},
+		{
+			"lang": "lt",
+			"text": "Nuoseklumo užtikrinimo mechanizmas."
+		},
+		{
+			"lang": "nl",
+			"text": "Conformiteitstoetsing"
+		},
+		{
+			"lang": "sv",
+			"text": "Mekanism för enhetlighet"
+		}
+	],
+	"children": [
+		"a57t1"
+	],
+	"title": "Article 57"
+}

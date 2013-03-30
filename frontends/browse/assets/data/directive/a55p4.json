@@ -1,0 +1,105 @@
+{
+	"id": "a55p4",
+	"type": "paragraph",
+	"literal": "4",
+	"parent": "a55",
+	"text": [
+		{
+			"lang": "en",
+			"text": "A supervisory authority to which a request for assistance is addressed may not refuse to comply with it unless:"
+		},
+		{
+			"lang": "de",
+			"text": "Die Aufsichtsbehörde, an die ein Amtshilfeersuchen gerichtet wird, kann dieses nur ablehnen, wenn"
+		},
+		{
+			"lang": "fr",
+			"text": "Une autorité de contrôle saisie d'une demande d'assistance ne peut refuser de lui donner suite, à moins:"
+		},
+		{
+			"lang": "es",
+			"text": "Una autoridad de control a la que se haya dirigido una solicitud de asistencia no podrá negarse a atenderla, salvo si:"
+		},
+		{
+			"lang": "pt",
+			"text": "Uma autoridade de controlo à qual tenha sido dirigido um pedido não pode recusar dar‑lhe cumprimento, salvo se:"
+		},
+		{
+			"lang": "it",
+			"text": "L’autorità di controllo cui è presentata una richiesta di assistenza non può rifiutare di darvi seguito, salvo che:"
+		},
+		{
+			"lang": "ga",
+			"text": "Ní fhéadfaidh údarás maoirseachta ar a iarrtar cúnamh diúltú an iarraidh a chomhlíonadh ach amháin:"
+		},
+		{
+			"lang": "cs",
+			"text": "Orgán dozoru, jemuž byla žádost o pomoc předložena, jí musí vyhovět s výjimkou těchto případů:"
+		},
+		{
+			"lang": "da",
+			"text": "En tilsynsmyndighed, der modtager en anmodning om bistand, kan ikke afvise at imødekomme denne, medmindre:"
+		},
+		{
+			"lang": "et",
+			"text": "Järelevalveasutus, kellele abitaotlus on adresseeritud, ei või keelduda, välja arvatud juhul, kui:"
+		},
+		{
+			"lang": "el",
+			"text": "Αρχή ελέγχου στην οποία υποβάλλεται αίτημα παροχής συνδρομής δεν μπορεί να αρνηθεί να συμμορφωθεί προς αυτό, παρά μόνον εάν:"
+		},
+		{
+			"lang": "bg",
+			"text": "Надзорен орган, до който е изпратено искане за помощ, няма право да откаже да го изпълни, освен ако:"
+		},
+		{
+			"lang": "hu",
+			"text": "A segítségnyújtás iránti kérelemmel megkeresett felügyelő hatóság nem tagadhatja meg annak teljesítését, kivéve ha:"
+		},
+		{
+			"lang": "mt",
+			"text": "Awtorità ta’ superviżjoni li tkun wasslitilha talba għall-assistenza ma tistax tirrifjuta li tikkonforma magħha sakemm:"
+		},
+		{
+			"lang": "lv",
+			"text": "Uzraudzības iestāde, kurai lūdz palīdzību, nevar atteikties izpildīt pieprasījumu, izņemot, ja:"
+		},
+		{
+			"lang": "ro",
+			"text": "O autoritate de supraveghere căreia i se adresează o solicitare de asistență nu poate refuza să îi dea curs, cu excepția cazului în care:"
+		},
+		{
+			"lang": "sk",
+			"text": "Ak je dozornému orgánu adresovaná žiadosť o pomoc, nemôže jej odmietnuť vyhovieť, s výnimkou toho, keď:"
+		},
+		{
+			"lang": "sl",
+			"text": "Nadzorni organ, ki prejme zahtevo za pomoč, te zahteve ne sme zavrniti, razen če:"
+		},
+		{
+			"lang": "fi",
+			"text": "Valvontaviranomainen, jolle avunantopyyntö on osoitettu, voi kieltäytyä noudattamasta sitä vain jos"
+		},
+		{
+			"lang": "pl",
+			"text": "Organ nadzorczy, do którego został skierowany wniosek o pomoc, nie może odmówić realizacji wniosku, chyba że:"
+		},
+		{
+			"lang": "lt",
+			"text": "Priežiūros institucija, kuriai teikiamas pagalbos prašymas, negali atsisakyti jo patenkinti, išskyrus atvejus, kai:"
+		},
+		{
+			"lang": "nl",
+			"text": "Een toezichthoudende autoriteit tot wie een verzoek om bijstand is gericht, kan dit verzoek slechts afwijzen, indien:"
+		},
+		{
+			"lang": "sv",
+			"text": "En tillsynsmyndighet som tar emot en begäran om bistånd få bara vägra att tillmötesgå begäran om"
+		}
+	],
+	"children": [
+		"a55p4i1",
+		"a55p4i2"
+	],
+	"title": "Article 55 – Paragraph 4"
+}

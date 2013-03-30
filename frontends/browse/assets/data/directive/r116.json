@@ -1,0 +1,102 @@
+{
+	"id": "r116",
+	"type": "recital",
+	"literal": "116",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "For proceedings against a controller or processor, the plaintiff should have the choice to bring the action before the courts of the Member States where the controller or processor has an establishment or where the data subject resides, unless the controller is a public authority acting in the exercise of its public powers."
+		},
+		{
+			"lang": "de",
+			"text": "Bei Verfahren gegen für die Verarbeitung Verantwortliche oder Auftragsverarbeiter sollte es dem Kläger überlassen bleiben, ob er die Gerichte des Mitgliedstaats anruft, in dem der für die Verarbeitung Verantwortliche oder der Auftragsverarbeiter eine Niederlassung hat oder in dem die betroffene Person ihren gewöhnlichen Aufenthalt hat; dies gilt nicht, wenn es sich bei dem für die Verarbeitung Verantwortlichen um eine Behörde handelt, die in Ausübung ihrer hoheitlichen Befugnisse tätig geworden ist."
+		},
+		{
+			"lang": "fr",
+			"text": "En ce qui concerne les recours à l'encontre d'un responsable du traitement ou d'un sous‑traitant, le demandeur devrait pouvoir choisir d'intenter l'action devant les juridictions des États membres dans lesquels le responsable du traitement ou le sous‑traitant a un établissement ou dans l'État membre dans lequel la personne concernée réside, sauf si le responsable du traitement est une autorité publique agissant dans l’exercice de la puissance publique."
+		},
+		{
+			"lang": "es",
+			"text": "Por lo que respecta a las acciones contra los responsables o encargados del tratamiento, el demandante debe tener la opción de ejercitarlas ante los órganos jurisdiccionales de los Estados miembros en los que los responsables o encargados del tratamiento estén establecidos o donde tenga su residencia el interesado, a menos que los responsables sean autoridades públicas que actúen en el ejercicio del poder público."
+		},
+		{
+			"lang": "pt",
+			"text": "No que diz respeito a ações intentadas contra o responsável pelo tratamento ou o subcontratante, o requerente pode optar entre intentar a ação nos tribunais do Estado‑Membro em que está estabelecido o responsável pelo tratamento ou o subcontratante, ou nos tribunais do Estado-Membro de residência da pessoa em causa, salvo se o responsável pelo tratamento for uma autoridade atuando no exercício dos seus poderes públicos."
+		},
+		{
+			"lang": "it",
+			"text": "Nei ricorsi contro un responsabile del trattamento o incaricato del trattamento, il ricorrente deve poter avviare un’azione legale dinanzi al giudice dello Stato membro in cui il responsabile del trattamento o l’incaricato del trattamento ha uno stabilimento o in cui risiede l’interessato, salvo che il responsabile del trattamento sia un ente pubblico che agisce nell’esercizio dei suoi poteri pubblici."
+		},
+		{
+			"lang": "ga",
+			"text": "Maidir le himeachtaí i gcoinne rialaitheora nó próiseálaí, ba cheart rogha a bheith ag an ngearánaí caingean a thabhairt os comhair na gcúirteanna sna Ballstáit ina bhfuil bunaíocht ag an rialaitheoir nó ag an bpróiseálaí nó sa Bhallstát ina bhfuil cónaí ar an duine is ábhar do na sonraí, ach amháin más údarás poiblí é an rialaitheoir atá ag gníomhú i bhfeidhmiú a chumhachtaí poiblí."
+		},
+		{
+			"lang": "cs",
+			"text": "Při řízeních proti správci nebo zpracovateli by žalobce měl mít možnost volby, zda podá žalobu u soudů členského státu, kde je správce nebo zpracovatel usazen nebo kde má subjekt údajů bydliště, s výjimkou případů, kdy je správce orgánem veřejné moci, který jedná v rámci výkonu veřejné moci."
+		},
+		{
+			"lang": "da",
+			"text": "Ved sager mod en registeransvarlig eller registerfører bør sagsøgeren have mulighed for at indbringe sagen for domstolene i de medlemsstater, hvor den registeransvarlige eller registerføreren er etableret, eller hvor den registrerede er bosiddende, medmindre den registeransvarlige er en offentlig myndighed, der udøver offentligretlige beføjelser."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutava töötleja või volitatud töötleja vastase hagi korral peaks hagejal olema võimalus esitada hagi kohtule liikmesriigis, kus vastutav töötleja või volitatud töötleja asub või andmesubjekti elukohariigis, välja arvatud juhul, kui vastutav töötleja on avaliku sektori asutus, kes teostab oma avalikku võimu."
+		},
+		{
+			"lang": "el",
+			"text": "Για διαδικασίες κατά υπευθύνου επεξεργασίας ή εκτελούντος την επεξεργασία, ο ενάγων πρέπει να μπορεί να επιλέγει εάν θα ασκήσει την αγωγή ενώπιον των δικαστηρίων του κράτους μέλους στο οποίο ο υπεύθυνος επεξεργασίας ή ο εκτελών την επεξεργασία διαθέτει εγκατάσταση ή στο κράτος μέλος στο οποίο διαμένει το πρόσωπο στο οποίο αναφέρονται τα δεδομένα, εκτός εάν ο υπεύθυνος επεξεργασίας είναι δημόσια αρχή η οποία ενεργεί στο πλαίσιο της άσκησης των δημόσιων εξουσιών της."
+		},
+		{
+			"lang": "bg",
+			"text": "При производства срещу администратор или обработващ данни ищецът следва да има избор да заведе дело пред съдилищата на държавите-членки, в които администраторът или обработващият данни е установен, или където пребивава субектът на данни, освен ако администраторът не е публичен орган, който действа в изпълнение на своите публични правомощия."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő vagy -feldolgozó elleni eljárást illetően a felperes választhat, hogy az eljárást annak a tagállamnak a bírósága előtt indítja meg, ahol az adatkezelő vagy -feldolgozó telephellyel rendelkezik, vagy az érintett tartózkodási helye szerinti tagállam bírósága előtt, kivéve, ha az adatkezelő közhatalmi jogosítványait gyakorolva eljáró hatóság."
+		},
+		{
+			"lang": "mt",
+			"text": "Fil-każ ta’ proċeduri kontra kontrollur jew proċessur, ir-rikorrent għandu jkollu l-għażla li jressaq l-azzjoni quddiem il-qrati tal-Istati Membri fejn il-kontrollur jew il-proċessur għandu stabbiliment jew fejn jgħix is-suġġett tad-dejta, sakemm il-kontrollur ma jkunx awtorità pubblika li qiegħda taġixxi fl-eżerċizzju tas-setgħat pubbliċi tagħha."
+		},
+		{
+			"lang": "lv",
+			"text": "Tiesvedībā pret pārzini vai apstrādātāju, prasītājam būtu jābūt izvēles tiesībām vērsties tās dalībvalsts tiesā, kurā atrodas pārziņa vai apstrādātāja institūcija vai kurā atrodas datu subjekta dzīvesvieta, izņemot, ja pārzinis ir valsts iestāde, kas rīkojas, pildot savas valsts iestādes pilnvaras."
+		},
+		{
+			"lang": "ro",
+			"text": "În ceea ce privește acțiunile inițiate împotriva unui operator sau unei persoane împuternicite de către operator, reclamantul ar trebui să aibă posibilitatea de a introduce acțiunea în fața instanțelor din statele membre în care operatorul sau persoana împuternicită de către operator are un sediu sau în care persoana vizată își are reședința, cu excepția cazului în care operatorul este o autoritate publică care acționează în exercitarea competențelor sale publice."
+		},
+		{
+			"lang": "sk",
+			"text": "Pri konaniach voči prevádzkovateľovi alebo sprostredkovateľovi by žalobca mal mať možnosť podať návrh na začatie konania na súde členského štátu, v ktorom má prevádzkovateľ alebo sprostredkovateľ príslušné zariadenie v činnosti, alebo kde má dotknutá osoba bydlisko, s výnimkou prípadov, keď prevádzkovateľom je verejný orgán konajúci v rámci výkonu svojich verejných právomocí."
+		},
+		{
+			"lang": "sl",
+			"text": "V postopkih zoper upravljavca ali obdelovalca bi moral imeti tožnik možnost, da postopek začne pred sodiščem države članice, v kateri ima upravljavec ali obdelovalec sedež, ali pred sodiščem države članice, v kateri prebiva posameznik, na katerega se nanašajo osebni podatki, razen če je upravljavec javni organ, ki izvaja svoja javna pooblastila."
+		},
+		{
+			"lang": "fi",
+			"text": "Kantajan olisi voitava valita, nostaako se kanteen rekisterinpitäjää tai henkilötietojen käsittelijää vastaan sen jäsenvaltion tuomioistuimissa, johon rekisterinpitäjä tai henkilötietojen käsittelijä on sijoittautunut, vai rekisteröidyn asuinjäsenvaltiossa, paitsi jos rekisterinpitäjä on viranomainen, jonka toiminta liittyy sen julkisen vallan käyttöön."
+		},
+		{
+			"lang": "pl",
+			"text": "W przypadku postępowania przeciwko administratorowi lub podmiotowi przetwarzającemu, powód powinien mieć możliwość wniesienia pozwu do sądu w państwie członkowskim, w którym administrator lub podmiot przetwarzający mają siedzibę lub w którym mieszka podmiot danych, chyba że administrator jest organem publicznym działającym w ramach wykonywania swoich uprawnień publicznych."
+		},
+		{
+			"lang": "lt",
+			"text": "kai ieškinys pareiškiamas duomenų valdytojui ar tvarkytojui, ieškovas turėtų turėti galimybę kreiptis į valstybės narės, kurioje duomenų valdytojas ar tvarkytojas įsisteigęs arba kurioje duomenų subjektas gyvena, teismus, nebent duomenų valdytojas yra valdžios institucija, vykdanti savo viešuosius įgaliojimus;"
+		},
+		{
+			"lang": "nl",
+			"text": "Voor procedures tegen een voor de verwerking verantwoordelijke of een verwerker dient de verzoeker te kunnen kiezen om de zaak aanhangig te maken bij een rechter in de lidstaat waar de voor de verwerking verantwoordelijke of de verwerker een vestiging heeft, of dit te doen in de lidstaat waar de betrokkene woont, tenzij de voor de verwerking verantwoordelijke een overheidsinstantie is die krachtens overheidsbevoegdheid handelt."
+		},
+		{
+			"lang": "sv",
+			"text": "Vid rättsliga förfaranden mot en registeransvarig eller en registerförare bör käranden kunna välja att väcka talan antingen vid domstolarna i de medlemsstater där den registeransvarige eller registerföraren är etablerad eller där den registrerade bor, såvida inte den registeransvarige är en myndighet som agerar inom ramen för sin myndighetsutövning."
+		}
+	],
+	"children": [],
+	"title": "Recital 116"
+}

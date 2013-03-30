@@ -1,0 +1,102 @@
+{
+	"id": "r2",
+	"type": "recital",
+	"literal": "2",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The processing of personal data is designed to serve man; the principles and rules on the protection of individuals with regard to the processing of their personal data should, whatever the nationality or residence of natural persons, respect their fundamental rights and freedoms, notably their right to the protection of personal data. It should contribute to the accomplishment of an area of freedom, security and justice and of an economic union, to economic and social progress, the strengthening and the convergence of the economies within the internal market, and the well-being of individuals."
+		},
+		{
+			"lang": "de",
+			"text": "Die Verarbeitung personenbezogener Daten steht im Dienste des Menschen; die Grundsätze und Vorschriften zum Schutz natürlicher Personen bei der Verarbeitung ihrer personenbezogenen Daten sollten gewährleisten, dass ungeachtet der Staatsangehörigkeit oder des gewöhnlichen Aufenthaltsorts der natürlichen Personen deren Grundrechte und Grundfreiheiten und insbesondere deren Recht auf Schutz personenbezogener Daten gewahrt bleiben. Die Datenverarbeitung sollte zur Vollendung eines Raums der Freiheit, der Sicherheit und des Rechts und einer Wirtschaftsunion, zum wirtschaftlichen und sozialen Fortschritt, zur Stärkung und zum Zusammenwachsen der Volkswirtschaften innerhalb des Binnenmarktes sowie zum Wohlergehen der Menschen beitragen."
+		},
+		{
+			"lang": "fr",
+			"text": "Le traitement des données à caractère personnel est au service de l’homme; les principes et les règles régissant la protection des personnes physiques à l'égard du traitement des données les concernant devraient donc, quelle que soit la nationalité ou la résidence de ces personnes, respecter leurs libertés et leurs droits fondamentaux, notamment le droit à la protection des données à caractère personnel. Le traitement des données devrait contribuer à la réalisation d'un espace de liberté, de sécurité et de justice et d'une union économique, au progrès économique et social, à la consolidation et à la convergence des économies au sein du marché intérieur, ainsi qu'au bien-être des personnes."
+		},
+		{
+			"lang": "es",
+			"text": "El tratamiento de datos personales está al servicio del hombre; los principios y normas relativos a la protección de las personas en lo que respecta al tratamiento de sus datos de carácter personal deben, cualquiera que sea la nacionalidad o residencia de las personas físicas, respetar las libertades y derechos fundamentales, en particular el derecho a la protección de los datos de carácter personal. Debe contribuir a la plena realización de un espacio de libertad, seguridad y justicia y de una unión económica, al progreso económico y social, al refuerzo y la convergencia de las economías dentro del mercado interior, así como al bienestar de los individuos."
+		},
+		{
+			"lang": "pt",
+			"text": "O tratamento dos dados pessoais é concebido para servir as pessoas; os princípios e as regras em matéria de proteção das pessoas singulares relativamente ao tratamento dos seus dados pessoais devem respeitar, portanto, independentemente da nacionalidade ou do local de residência dessas pessoas, os seus direitos e liberdades fundamentais, particularmente o direito à proteção dos dados pessoais. O tratamento dos dados deve contribuir para a realização de um espaço de liberdade, segurança e justiça e de uma união económica, o progresso económico e social, a consolidação e a convergência das economias a nível do mercado interno e para o bem-estar das pessoas."
+		},
+		{
+			"lang": "it",
+			"text": "Il trattamento dei dati personali è al servizio dell’uomo; i principi e le norme a tutela delle persone fisiche con riguardo al trattamento dei dati personali devono rispettarne i diritti e le libertà fondamentali, in particolare il diritto alla protezione dei dati personali, a prescindere dalla nazionalità o dalla residenza dell’interessato. Il trattamento dei dati personali dovrebbe contribuire alla realizzazione di uno spazio di libertà, sicurezza e giustizia e di un’unione economica, al progresso economico e sociale, al rafforzamento e alla convergenza delle economie nel mercato interno e al benessere delle persone."
+		},
+		{
+			"lang": "ga",
+			"text": "Tá próiseáil sonraí pearsanta in ainm is a bheith chun leas an duine; ba cheart go n‑urramódh na prionsabail agus na rialacha maidir le cosaint daoine aonair i ndáil le próiseáil a sonraí pearsanta, is cuma cén náisiúntacht atá ag na daoine nádúrtha sin nó cén áit a bhfuil cónaí orthu, ba cheart go n‑urramódh na prionsabail agus na rialacha sin cearta agus saoirsí bunúsacha na ndaoine, agus an ceart go ndéanfar sonraí pearsanta a chosaint go háirithe. Ba cheart próiseáil sonraí pearsanta a bheith ina cuidiú le limistéar saoirse, slándála agus ceartais agus aontas eacnamaíoch a bhaint amach, agus ba cheart go gcuirfeadh sí le dul chun cinn eacnamaíoch agus sóisialta, le neartú agus cóineasú na ngeilleagar laistigh den mhargadh inmheánach agus le dea-bhail daoine aonair."
+		},
+		{
+			"lang": "cs",
+			"text": "Zpracování osobních údajů má sloužit lidem; zásady a pravidla ochrany fyzických osob v souvislosti se zpracováváním jejich osobních údajů by proto měly bez ohledu na státní příslušnost nebo bydliště těchto osob dodržovat jejich základní práva a svobody, zejména právo na ochranu osobních údajů. Zpracování osobních údajů by mělo přispět k dotvoření prostoru svobody, bezpečnosti a práva a hospodářské unie, k hospodářskému a sociálnímu pokroku, posilování a sbližování ekonomik v rámci vnitřního trhu a k dobrým životním podmínkám jednotlivců."
+		},
+		{
+			"lang": "da",
+			"text": "Personoplysninger behandles for menneskets skyld; principperne og reglerne for beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger bør, uanset de fysiske personers nationalitet eller bopæl, respektere deres grundlæggende rettigheder og frihedsrettigheder, navnlig deres ret til beskyttelse af personoplysninger. Behandlingen af personoplysninger bør bidrage til skabelsen af et område med frihed, sikkerhed og retfærdighed samt en økonomisk union og til økonomiske og sociale fremskridt, styrkelse af og konvergens mellem økonomierne i det indre marked og fysiske personers velfærd."
+		},
+		{
+			"lang": "et",
+			"text": "Isikuandmete töötlemine on mõeldud teenima inimkonda ning üksikisikute kaitse põhimõtete ja eeskirjadega nende isikuandmete töötlemisel tuleks füüsiliste isikute rahvusest ja elukohast sõltumata austada nende põhiõigusi ja -vabadusi, eelkõige õigust isikuandmete kaitsele. Isikuandmete töötlemine peaks kaasa aitama vabadusel, turvalisusel ja õigusel rajaneva ala ning majandusliidu saavutamisele, majanduslikule ja sotsiaalsele arengule, majanduse tugevdamisele ja lähendamisele siseturul ning üksikisikute heaolule."
+		},
+		{
+			"lang": "el",
+			"text": "Η επεξεργασία των δεδομένων προσωπικού χαρακτήρα προορίζεται να εξυπηρετεί τον άνθρωπο. Οι αρχές και οι κανόνες για την προστασία των φυσικών προσώπων έναντι της επεξεργασίας των δεδομένων προσωπικού χαρακτήρα που τα αφορούν πρέπει, ανεξάρτητα από την ιθαγένεια ή τον τόπο διαμονής των φυσικών προσώπων, να σέβονται τα θεμελιώδη δικαιώματα και τις ελευθερίες τους, και συγκεκριμένα το δικαίωμά τους στην προστασία των δεδομένων προσωπικού χαρακτήρα που τα αφορούν. Η επεξεργασία πρέπει να συμβάλει στην επίτευξη ενός χώρου ελευθερίας, ασφάλειας και δικαιοσύνης και οικονομικής ένωσης, στην οικονομική και κοινωνική πρόοδο, στην ενίσχυση και στη σύγκλιση των οικονομιών στην εσωτερική αγορά και στην ευημερία των φυσικών προσώπων."
+		},
+		{
+			"lang": "bg",
+			"text": "Обработването на лични данни е предназначено да служи на хората; принципите и правилата относно защитата на физическите лица във връзка с обработването на личните им данни следва, независимо от гражданството или местопребиваването на физическите лица, да съблюдават техните основни права и свободи и по-конкретно правото на защита на личните им данни. Това следва да допринася за създаването на пространство на свобода, сигурност и правосъдие и на икономически съюз, за постигането на икономически и социален прогрес, за укрепването и сближаването на икономиките в рамките на вътрешния пазар, както и за благосъстоянието на хората."
+		},
+		{
+			"lang": "hu",
+			"text": "A személyes adatok feldolgozásának célja az emberek szolgálata; a személyes adataik feldolgozása vonatkozásában az egyének védelméhez kapcsolódó elveknek és szabályoknak a természetes személyek nemzetiségétől és lakóhelyétől függetlenül tiszteletben kell tartaniuk e személyek alapvető jogait és szabadságait, különösen személyes adataik védelméhez való jogukat. Ennek hozzá kell járulnia a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség, valamint a gazdasági unió megteremtéséhez, a gazdasági és társadalmi fejlődéshez, a belső piacon belüli gazdaságok erősödéséhez és konvergenciájához, valamint az egyének jólétéhez."
+		},
+		{
+			"lang": "mt",
+			"text": "L-ipproċessar tad-dejta personali huwa maħsub sabiex jaqdi lill-bniedem; il-prinċipji u r-regoli dwar il-protezzjoni tal-individwi fir-rigward tal-ipproċessar tad-dejta personali tagħhom, tkun xi tkun in-nazzjonalità jew ir-residenza tal-persuni fiżiċi, għandhom jirrispettaw id-drittijiet u l-libertajiet fundamentali tagħhom, b’mod partikolari d-dritt tagħhom għall-protezzjoni tad-dejta personali. Dan għandu jikkontribwixxi għall-kisba ta’ spazju ta’ libertà, sigurtà u ġustizzja u ta’ għaqda ekonomika, għall-progress ekonomiku u soċjali, it-tisħiħ u l-konverġenza tal-ekonomiji fis-suq intern, u l-benesseri tal-individwi."
+		},
+		{
+			"lang": "lv",
+			"text": "Personas datu apstrādes mērķis ir kalpot cilvēkam; noteikumiem par fizisku personu aizsardzību attiecībā uz personas datu apstrādi un tās principiem neatkarīgi no fiziskās personas valstspiederības vai dzīvesvietas būtu jāievēro pamattiesības un brīvības un jo īpaši tiesības uz personas datu aizsardzību. Tai ir jāveicina brīvības, drošības un tiesiskuma telpas un ekonomikas savienības izveide, jāatbalsta ekonomikas un sociālais progress, iekšējā tirgus ekonomiku izaugsme un konverģence un iedzīvotāju labklājība."
+		},
+		{
+			"lang": "ro",
+			"text": "Prelucrarea datelor cu caracter personal este în serviciul cetățeanului; principiile și normele privind protecția persoanelor fizice referitor la prelucrarea datelor cu caracter personal ar trebui, indiferent de cetățenia sau de locul de reședință al persoanelor fizice, să respecte drepturile și libertățile fundamentale ale acestora, în special dreptul la protecția datelor cu caracter personal. Aceasta ar trebui să contribuie la realizarea unui spațiu de libertate, securitate și justiție și a unei uniuni economice, la progresul economic și social, la consolidarea și convergența economiilor în cadrul pieței interne și la bunăstarea persoanelor fizice."
+		},
+		{
+			"lang": "sk",
+			"text": "Spracovávanie údajov je určené k tomu, aby slúžilo človeku; zásady a pravidlá ochrany fyzických osôb pri spracúvaní ich osobných údajov by bez ohľadu na štátnu príslušnosť alebo bydlisko fyzických osôb mali rešpektovať základné práva a slobody, najmä ich právo na ochranu osobných údajov. Mali by prispieť k dokončeniu budovania priestoru slobody, bezpečnosti a spravodlivosti a hospodárskej únie, k hospodárskemu a sociálnemu pokroku, k posilneniu konvergencie ekonomík v rámci vnútorného trhu a ku prospechu fyzických osôb."
+		},
+		{
+			"lang": "sl",
+			"text": "Obdelava osebnih podatkov je namenjena temu, da služi človeku; načela in predpisi o varstvu posameznikov pri obdelavi njihovih osebnih podatkov morajo ne glede na državljanstvo ali prebivališče fizičnih oseb spoštovati njihove temeljne pravice in svoboščine, predvsem pravico do varstva osebnih podatkov. Prispevati mora k oblikovanju območja svobode, varnosti in pravice ter gospodarske unije, h gospodarskemu in družbenemu napredku, krepitvi in uskladitvi gospodarstev na notranjem trgu ter blaginji posameznikov."
+		},
+		{
+			"lang": "fi",
+			"text": "Henkilötietojen käsittelyn on tarkoitus palvella ihmistä, minkä vuoksi niissä periaatteissa ja säännöissä, jotka koskevat yksilöiden suojelua henkilötietojen käsittelyssä, olisi henkilöiden kansalaisuudesta ja asuinpaikasta riippumatta otettava huomioon heidän perusoikeutensa ja ‑vapautensa ja erityisesti oikeus henkilötietojen suojaan. Henkilötietojen käsittelyn olisi tuettava vapauden, turvallisuuden ja oikeuden alueen ja talousunionin kehittämistä, taloudellista ja sosiaalista edistystä, talouksien lujittamista ja lähentämistä sisämarkkinoilla sekä yksilöiden hyvinvointia."
+		},
+		{
+			"lang": "pl",
+			"text": "Przetwarzanie danych osobowych ma służyć człowiekowi, zaś zasady i przepisy dotyczące ochrony osób fizycznych w odniesieniu do przetwarzania ich danych osobowych powinny, niezależnie od obywatelstwa czy miejsca stałego zamieszkania osób fizycznych, szanować ich podstawowe prawa i wolności, szczególnie prawo do ochrony danych osobowych. Powinno ono również przyczyniać się do stworzenia obszaru wolności, bezpieczeństwa i sprawiedliwości oraz unii gospodarczej, osiągnięcia postępu gospodarczego i społecznego, wzmocnienia i konwergencji gospodarek na rynku wewnętrznym, a także do poprawy zamożności ludzi."
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų tvarkymo paskirtis – tarnauti žmogui; asmenų apsaugos principais ir taisyklėmis, taikomais tvarkant jų asmens duomenis, turėtų būti paisoma fizinių asmenų pagrindinių teisių ir laisvių, visų pirma teisės į asmens duomenų apsaugą, neatsižvelgiant į jų pilietybę ar gyvenamąją vietą. Tai turėtų padėti užbaigti kurti laisvės, saugumo ir teisingumo erdvę ir ekonominę sąjungą, skatinti ekonominę ir socialinę pažangą, stiprinti valstybių narių ekonomiką, siekti jų integracijos vidaus rinkoje ir žmonių gerovės;"
+		},
+		{
+			"lang": "nl",
+			"text": "De verwerking van persoonsgegevens staat ten dienste van de mens; de beginselen en voorschriften betreffende de bescherming van natuurlijke personen bij de verwerking van hun persoonsgegevens dienen, ongeacht de nationaliteit of de verblijfplaats van de betrokkenen, in overeenstemming te zijn met hun grondrechten en fundamentele vrijheden, en in het bijzonder met hun recht op bescherming van persoonsgegevens. Gegevensverwerking dient bij te dragen tot de totstandbrenging van een ruimte van vrijheid, veiligheid en recht en van een economische unie, tot economische en sociale vooruitgang, de versterking en de convergentie van de economieën binnen de interne markt en het individuele welzijn."
+		},
+		{
+			"lang": "sv",
+			"text": "Avsikten med att behandla personuppgifter är att betjäna människor. Principerna och reglerna för skyddet av enskilda personer vid behandling av deras personuppgifter bör, oavsett medborgarskap eller hemvist, respektera deras grundläggande rättigheter och friheter, främst deras rätt till skydd av personuppgifter. Behandlingen av personuppgifter bör bidra till att skapa ett område av frihet, säkerhet och rättvisa och en ekonomisk union, till ekonomiska och sociala framsteg, till förstärkning och konvergens av ekonomierna inom den inre marknaden samt till enskilda människors välbefinnande."
+		}
+	],
+	"children": [],
+	"title": "Recital 2"
+}

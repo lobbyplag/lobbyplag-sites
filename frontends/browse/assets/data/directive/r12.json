@@ -1,0 +1,102 @@
+{
+	"id": "r12",
+	"type": "recital",
+	"literal": "12",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The protection afforded by this Regulation concerns natural persons, whatever their nationality or place of residence, in relation to the processing of personal data. With regard to the processing of data which concern legal persons and in particular undertakings established as legal persons, including the name and the form of the legal person and the contact details of the legal person, the protection of this Regulation should not be claimed by any person. This should also apply where the name of the legal person contains the names of one or more natural persons."
+		},
+		{
+			"lang": "de",
+			"text": "Der durch diese Verordnung gewährte Schutz betrifft die Verarbeitung personenbezogener Daten natürlicher Personen ungeachtet ihrer Staatsangehörigkeit oder ihres Wohnorts. Im Falle juristischer Personen und insbesondere von als juristische Person gegründeten Unternehmen, deren Daten, zum Beispiel deren Name, Rechtsform oder Kontaktdaten, verarbeitet werden, sollte eine Berufung auf diese Verordnung nicht möglich sein. Dies sollte auch dann gelten, wenn der Name der juristischen Person die Namen einer oder mehrerer natürlichen Personen enthält."
+		},
+		{
+			"lang": "fr",
+			"text": "La protection conférée par le présent règlement concerne les personnes physiques, indépendamment de leur nationalité ou de leur lieu de résidence, dans le cadre du traitement des données à caractère personnel. En ce qui concerne le traitement de données relatives à des personnes morales, et en particulier des entreprises dotées de la personnalité juridique, notamment le nom, la forme juridique et les coordonnées de la personne morale, la protection conférée par le présent règlement ne devrait pas pouvoir être invoquée. Cela devrait être également le cas lorsque le nom de la personne morale contient le nom d’une ou plusieurs personnes physiques."
+		},
+		{
+			"lang": "es",
+			"text": "La protección otorgada por el presente Reglamento se refiere a las personas físicas, independientemente de su nacionalidad o de su lugar de residencia, en relación con el tratamiento de datos personales. Por lo que respecta al tratamiento de datos relativos a personas jurídicas y en particular a empresas constituidas como personas jurídicas, incluido el nombre y la forma de la persona jurídica y sus datos de contacto, nadie puede invocar la protección del presente Reglamento. Ello también es de aplicación cuando el nombre de la persona jurídica incluya los nombres de una o más personas físicas."
+		},
+		{
+			"lang": "pt",
+			"text": "A proteção conferida pelo presente regulamento diz respeito às pessoas singulares, independentemente da sua nacionalidade ou local de residência, relativamente ao tratamento de dados pessoais. No que respeita ao tratamento de dados relativos a pessoas coletivas e, em especial, empresas estabelecidas na qualidade de pessoas coletivas, incluindo a denominação, a forma jurídica e as coordenadas da pessoa coletiva, a proteção conferida pelo presente regulamento não pode ser invocada. Tal deve ser igualmente o caso sempre que a denominação da pessoa coletiva incluir os nomes de uma ou mais pessoas singulares."
+		},
+		{
+			"lang": "it",
+			"text": "La protezione prevista dal presente regolamento si applica alle persone fisiche, a prescindere dalla nazionalità o dal luogo di residenza, in relazione al trattamento dei dati personali. La protezione offerta dal presente regolamento non potrà essere invocata per il trattamento dei dati relativi a persone giuridiche, in particolare imprese dotate di personalità giuridica, compreso il nome, la forma giuridica e i contatti. Ciò vale anche quando il nome della persona giuridica contiene il nome di una o più persone fisiche."
+		},
+		{
+			"lang": "ga",
+			"text": "Baineann an chosaint a bhfuil foráil déanta ina leith sa Rialachán seo le daoine nádúrtha, is cuma cén náisiúntacht atá acu nó cén áit a bhfuil cónaí orthu, i ndáil le próiseáil a sonraí pearsanta. Maidir le próiseáil sonraí a bhaineann le daoine dlítheanacha agus go háirithe le gnóthais a bhfuil pearsantacht dhlíthiúil acu, lena n‑áirítear ainm, foirm dhlíthiúil agus sonraí teagmhála an duine dhlítheanaigh, níor cheart go bhféadfadh na daoine ná na gnóthais sin cosaint faoin Rialachán seo a éileamh. Ba cheart feidhm a bheith aige sin freisin i gcás ina bhfuil ceann amháin nó níos mó d’ainmneacha daoine nádúrtha mar chuid d'ainm an duine dhlítheanaigh."
+		},
+		{
+			"lang": "cs",
+			"text": "Ochrana poskytovaná tímto nařízením se týká zpracovávání osobních údajů fyzických osob bez ohledu na jejich státní příslušnost nebo bydliště. Pokud jsou zpracovávány údaje právnických osob a zejména podniků vytvořených jako právnické osoby, např. název, právní forma a kontaktní údaje, neměly by se tyto právnické osoby domáhat ochrany na základě tohoto nařízení. To by mělo platit rovněž v případě, kdy jméno právnické osoby obsahuje jména jedné nebo více fyzických osob."
+		},
+		{
+			"lang": "da",
+			"text": "Den beskyttelse, som denne forordning sikrer, vedrører fysiske personer uanset nationalitet eller bopæl i forbindelse med behandling af personoplysninger. Hvad angår behandling af oplysninger, der vedrører juridiske personer, navnlig virksomheder, der er etableret som juridiske personer, herunder den juridiske persons navn, form og kontaktoplysninger, bør ingen personer ikke kunne kræve beskyttelse under denne forordning. Det bør også gælde, når den juridiske persons navn indeholder navnene på en eller flere fysiske personer."
+		},
+		{
+			"lang": "et",
+			"text": "Käesoleva määrusega pakutav kaitse laieneb füüsiliste isikute isikuandmete töötlemisele, olenemata asjaomase isiku kodakondsusest või elukohast. Ühelgi isikul ei ole võimalik nõuda käesoleva määrusega ettenähtavat kaitset seoses selliste andmete töötlemisega, mis käsitlevad juriidilisi isikuid, eelkõige juriidiliste isikutena asutatud ettevõtjaid, sealhulgas juriidilise isiku nime ja vormi ning kontaktandmetega. Seda kohaldatakse ka juhul, kui juriidilise isiku nimi sisaldab ühe või mitme füüsilise isiku nime."
+		},
+		{
+			"lang": "el",
+			"text": "Η προστασία που παρέχει ο παρών κανονισμός αφορά τα φυσικά πρόσωπα, ανεξαρτήτως ιθαγένειας ή τόπου διαμονής, σε σχέση με την επεξεργασία δεδομένων προσωπικού χαρακτήρα. Όσον αφορά την επεξεργασία δεδομένων που αφορούν νομικά πρόσωπα, και ιδίως επιχειρήσεις συσταθείσες ως νομικά πρόσωπα, συμπεριλαμβανομένης της επωνυμίας, του τύπου και των στοιχείων επικοινωνίας του νομικού προσώπου, η παρεχόμενη από τον παρόντα κανονισμό προστασία δεν πρέπει να τυγχάνει επίκλησης. Αυτό πρέπει να ισχύει επίσης όταν η επωνυμία του νομικού προσώπου περιέχει τα ονόματα ενός ή περισσότερων φυσικών προσώπων."
+		},
+		{
+			"lang": "bg",
+			"text": "Защитата, осигурена с настоящия регламент, засяга физическите лица, независимо от тяхната националност или местоживеене, във връзка с обработването на лични данни. Що се отнася до обработването на данни, които засягат юридически лица, и по-специално предприятия, установени като юридически лица, включително наименованието и правната форма на юридическото лице и координатите за връзка на юридическото лице, никое лице не следва да търси защита по силата на настоящия регламент. Това следва да се прилага и когато наименованието на юридическото лице съдържа имената на едно или повече физически лица."
+		},
+		{
+			"lang": "hu",
+			"text": "Az e rendelet által nyújtott védelem a természetes személyeket a személyes adatok feldolgozása tekintetében nemzetiségtől és lakóhelytől függetlenül illeti meg. Olyan adatfeldolgozás tekintetében, amely jogi személyeket érint, és különösen olyan vállalkozásokat, amelyeket jogi személyként hoztak létre, beleértve a jogi személy nevét és formáját, valamint a jogi személy elérhetőségére vonatkozó adatokat, senki nem igényelheti a jelen rendelet szerinti védelmet. Ez vonatkozik arra az esetre is, ha a jogi személy egy vagy több természetes személy nevét tartalmazza."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-protezzjoni mogħtija minn dan ir-Regolament tirrigwarda lill-persuni fiżiċi, tkun xi tkun in-nazzjonalità jew il-post ta’ residenza tagħhom, fir-rigward tal-ipproċessar tad-dejta personali. Fir-rigward tal-ipproċessar tad-dejta li jikkonċerna l-persuni ġuridiċi u b’mod partikolari l-impriżi stabbiliti bħala persuni ġuridiċi, inkluż l-isem u l-forma tal-persuna ġuridika u d-dettalji ta’ kuntatt tal-persuna ġuridika, il-protezzjoni ta’ dan ir-Regolament m'għandhiex tintalab minn kwalunkwe persuna. Dan għandu japplika wkoll fejn l-isem tal-persuna ġuridika jkun fih l-ismijiet ta' persuna fiżika waħda jew aktar."
+		},
+		{
+			"lang": "lv",
+			"text": "Šajā regulā noteiktā aizsardzība attiecībā uz personas datu apstrādi paredzēta fiziskām personām neatkarīgi no to valstspiederības vai dzīvesvietas. Šajā regulā noteiktā aizsardzība nebūtu jāattiecina uz juridisku personu datu apstrādi, jo īpaši attiecībā uz uzņēmumiem, kam ir juridiskas personas statuss, ietverot juridiskās personas nosaukumu, uzņēmējdarbības formu un kontaktinformāciju. Tas pats attiecas arī uz gadījumiem, kad juridiskas personas nosaukums ietver vienas vai vairāku fizisku personu vārdus vai uzvārdus."
+		},
+		{
+			"lang": "ro",
+			"text": "Protecția conferită de prezentul regulament vizează persoanele fizice, indiferent de cetățenia sau de locul de reședință al acestora, în ceea ce privește prelucrarea datelor cu caracter personal. Referitor la prelucrarea datelor care privesc persoane juridice și, în special, întreprinderi cu personalitate juridică, inclusiv numele și tipul de persoană juridică și detaliile de contact ale persoanei juridice, protecția conferită de prezentul regulament nu ar trebui să poată fi invocată de nicio persoană. Aceasta ar trebui să se aplice, de asemenea, în cazul în care numele persoanei juridice conține numele uneia sau mai multor persoane fizice."
+		},
+		{
+			"lang": "sk",
+			"text": "Ochrana, ktorú toto nariadenie poskytuje, sa týka fyzických osôb bez ohľadu na ich štátnu príslušnosť alebo bydlisko a vzťahuje sa na spracúvanie osobných údajov. Pokiaľ ide o spracúvanie údajov týkajúcich sa právnických osôb a najmä podnikov vystupujúcich ako právnické osoby vrátane názvu, formy a kontaktných údajov právnickej osoby, takéto právnické osoby sa nemôžu domáhať ochrany poskytovanej týmto nariadením. Toto pravidlo sa uplatňuje aj vtedy, ak názov právnickej osoby obsahuje mená jedného alebo viacerých fyzických osôb."
+		},
+		{
+			"lang": "sl",
+			"text": "Varstva, zagotovljenega s to uredbo, bi morale biti v zvezi z obdelavo osebnih podatkov deležne fizične osebe, ne glede na njihovo državljanstvo ali stalno prebivališče. Pravne osebe in zlasti podjetja, ustanovljena kot pravne osebe, katerih podatki, vključno z imenom in obliko ter kontaktnimi podatki pravne osebe, se obdelujejo, ne bi smele zahtevati varstva iz te uredbe. To bi moralo veljati tudi, kadar ime pravne osebe vsebuje ime ene ali več fizičnih oseb."
+		},
+		{
+			"lang": "fi",
+			"text": "Tämän asetuksen tarjoaman suojan olisi koskettava kaikkia luonnollisia henkilöitä heidän kansalaisuudestaan ja asuinpaikastaan riippumatta, silloin kun on kyse henkilötietojen käsittelystä. Oikeushenkilöiden ja erityisesti oikeushenkilön muodossa perustettujen yritysten ei pitäisi vedota tähän asetukseen perustuvaan suojeluun silloin kun tietojenkäsittely koskee näiden oikeushenkilöiden tietoja, kuten oikeushenkilön nimeä, oikeudellista muotoa ja yhteystietoja. Samaa olisi sovellettava myös silloin kun oikeushenkilön nimi sisältää yhden tai useamman luonnollisen henkilön nimen."
+		},
+		{
+			"lang": "pl",
+			"text": "Ochrona zapewniona na mocy niniejszego rozporządzenia dotyczy osób fizycznych, niezależnie od ich obywatelstwa lub miejsca zamieszkania, w zakresie przetwarzania danych osobowych. Jeśli chodzi o przetwarzanie danych, które dotyczą osób prawnych, w szczególności przedsiębiorstw będących osobami prawnymi, w tym danych dotyczących firmy, formy prawnej i danych kontaktowych osoby prawnej, nie podlegają one ochronie udzielanej na mocy niniejszego rozporządzenia. Przepis ten powinien mieć także zastosowanie wtedy, gdy firma osoby prawnej obejmuje nazwisko jednej lub większej liczby osób fizycznych."
+		},
+		{
+			"lang": "lt",
+			"text": "šiuo reglamentu fiziniams asmenims užtikrinama apsauga tvarkant jų asmens duomenis, neatsižvelgiant į jų pilietybę ar gyvenamąją vietą. Kiek tai susiję su juridinių asmenų ir ypač juridinio asmens statusą turinčių įmonių duomenų, įskaitant juridinio asmens pavadinimą, teisinę formą ir kontaktinius duomenis, tvarkymu, teisė remtis šiuo reglamentu nesuteikiama. Tai taikytina ir tais atvejais, kai juridinio asmens pavadinime yra vieno ar daugiau fizinių asmenų vardai;"
+		},
+		{
+			"lang": "nl",
+			"text": "De bescherming die door deze verordening wordt geboden, dient betrekking te hebben op natuurlijke personen, ongeacht hun nationaliteit of verblijfplaats, in verband met de verwerking van hun persoonsgegevens. Met betrekking tot de verwerking van gegevens over rechtspersonen en met name als rechtspersonen gevestigde ondernemingen, zoals de naam en de rechtsvorm van de rechtspersoon en de contactgegevens van de rechtspersoon, dient geen beroep op deze verordening te kunnen worden gedaan. Dit dient ook te gelden wanneer de naam van de rechtspersoon de namen van een of meer natuurlijke personen bevat."
+		},
+		{
+			"lang": "sv",
+			"text": "Det skydd som ska tillhandahållas enligt denna förordning gäller för fysiska personer, oavsett medborgarskap eller hemvist, vid behandling av personuppgifter. När det gäller behandling av uppgifter rörande juridiska personer, exempelvis uppgifter om namn och typ av juridisk person samt kontaktuppgifter, bör denna förordning inte kunna tillämpas. Det gäller särskilt fråga om företag som bildats som juridiska personer. Detta bör också gälla när namnet på den juridiska personen innehåller namnet på en eller flera fysiska personer."
+		}
+	],
+	"children": [],
+	"title": "Recital 12"
+}

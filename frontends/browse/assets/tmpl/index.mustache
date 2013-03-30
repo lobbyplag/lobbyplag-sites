@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>LobbyPlag ➔ Browse</title>
+		<meta charset="utf-8" />
+
+		<!--[if lt IE 9]><script src="/assets/js/html5shiv.min.js" type="text/javascript"></script><![endif]-->
+
+		<meta property="og:title" content="LobbyPlag: Browse Laws">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="http://browse.lobbyplag.eu/">
+		<meta property="og:image" content="http://www.lobbyplag.eu/assets/img/lobbyplag-comparison.jpg">
+
+		<link href="/assets/fonts/gentium-basic/gentium-book-basic.css" rel="stylesheet" type="text/css">
+		<link href="/assets/fonts/source-code-pro/source-code-pro.css" rel="stylesheet" type="text/css">
+		<link href="/assets/fonts/source-sans-pro/source-sans-pro.css" rel="stylesheet" type="text/css">
+		<link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+		<link href="/assets/css/index.css" rel="stylesheet" type="text/css">
+
+		<script src="/assets/js/jquery.min.js" type="text/javascript"></script>
+		<script src="/assets/js/jquery.history.min.js" type="text/javascript"></script>
+		<script src="/assets/js/jquery.mustache.min.js" type="text/javascript"></script>
+		<script src="/assets/js/bootstrap.min.js" type="text/javascript"></script>
+		<script src="/assets/js/index.js" type="text/javascript"></script>
+		
+	</head>
+	<body>
+		<header>
+			<h1><a href="/"><span>Lobby</span><strong>Plag</strong></a></h1>
+			<nav id="header-nav" class="navbar navbar-inverse">
+				<ul class="nav">
+					<li><a href="http://blog.lobbyplag.eu/">Blog</a></li>
+					<li class="active"><a href="/">Browse</a></li>
+					<li><a href="http://research.lobbyplag.eu/">Research</a></li>
+					<li><a href="http://www.lobbyplag.eu/#/compare">Find Lobby Plags</a></li>
+					<li><a href="http://www.lobbyplag.eu/#/getinvolved">Get involved!</a></li>
+					<li><a href="http://www.lobbyplag.eu/#/source">Data Sources</a></li>
+				</ul>
+			</nav>
+		</header>
+		<nav id="indicator-container">
+			<div id="indicator">
+				{{> indicator}}
+			</div>
+			<div id="indicator-hint-container">
+				<div id="indicator-hint"></div>
+			</div>
+		</nav>
+		<!--
+		<nav id="lang-container">
+			<div id="lang">
+				<ul id="lang-items" class="clearfix">
+					<li id="lang-bg"><a href="/bg{{path}}{{path}}" data-lang="bg" title="Български">bg</a></li>
+					<li id="lang-cs"><a href="/cs{{path}}{{path}}" data-lang="cs" title="Česky">cs</a></li>
+					<li id="lang-da"><a href="/da{{path}}{{path}}" data-lang="da" title="Dansk">da</a></li>
+					<li id="lang-de"><a href="/de{{path}}" data-lang="de" title="Deutsch">de</a></li>
+					<li id="lang-el"><a href="/el{{path}}" data-lang="el" title="Ελληνικά">el</a></li>
+					<li id="lang-en"><a href="/en{{path}}" data-lang="en" title="English">en</a></li>
+					<li id="lang-es"><a href="/es{{path}}" data-lang="es" title="Español">es</a></li>
+					<li id="lang-et"><a href="/et{{path}}" data-lang="et" title="Eesti">et</a></li>
+					<li id="lang-fi"><a href="/fi{{path}}" data-lang="fi" title="Suomi">fi</a></li>
+					<li id="lang-fr"><a href="/fr{{path}}" data-lang="fr" title="Français">fr</a></li>
+					<li id="lang-ga"><a href="/ga{{path}}" data-lang="ga" title="Gaeilge">ga</a></li>
+					<li id="lang-hu"><a href="/hu{{path}}" data-lang="hu" title="Magyar">hu</a></li>
+					<li id="lang-it"><a href="/it{{path}}" data-lang="it" title="Italiano">it</a></li>
+					<li id="lang-lt"><a href="/lt{{path}}" data-lang="lt" title="Lietuvių">lt</a></li>
+					<li id="lang-lv"><a href="/lv{{path}}" data-lang="lv" title="Latviešu">lv</a></li>
+					<li id="lang-mt"><a href="/mt{{path}}" data-lang="mt" title="Malti">mt</a></li>
+					<li id="lang-nl"><a href="/nl{{path}}" data-lang="nl" title="Nederlands">nl</a></li>
+					<li id="lang-pl"><a href="/pl{{path}}" data-lang="pl" title="Polski">pl</a></li>
+					<li id="lang-pt"><a href="/pt{{path}}" data-lang="pt" title="Português">pt</a></li>
+					<li id="lang-ro"><a href="/ro{{path}}" data-lang="ro" title="Română">ro</a></li>
+					<li id="lang-sk"><a href="/sk{{path}}" data-lang="sk" title="Slovenčina">sk</a></li>
+					<li id="lang-sl"><a href="/sl{{path}}" data-lang="sl" title="Slovenščina">sl</a></li>
+					<li id="lang-sv"><a href="/sv{{path}}" data-lang="sv" title="Svenska">sv</a></li>
+				</ul>
+			</div>
+		</nav>
+		-->
+		<div id="main-container">
+			<div id="main" role="main">
+				{{> main}}
+			</div>
+		</div>
+		<footer>
+			<div id="creator">
+				<a href="http://www.opendatacity.de/" rel="follow" class="odc">OpenDataCity</a>
+			</div>
+			<div id="social">
+				<div class="social">
+					<a href="https://twitter.com/lobbyplag">Follow us on Twitter</a>
+				</div>
+				<div class="social">
+					Share this on:
+					<a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.lobbyplag.eu%2F&amp;text=EU+General+Data+Protection+Regulation+full+of+copypasted+lobby+proposals+%23lobbyplag+%23gdpr&amp;via=lobbyplag&amp;related=lobbyplag" id="share-twitter" class="share-pop">Twitter</a>
+					<a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.lobbyplag.eu%2F%3F1&amp;t=EU+General+Data+Protection+Regulation+full+of+copypasted+lobby+proposals" id="share-facebook" class="share-pop">Facebook</a>
+					<a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.lobbyplag.eu%2F" id="share-google" class="share-pop">Google+</a>
+					<a href="https://alpha.app.net/intent/post?text=EU+General+Data+Protection+Regulation+full+of+copypasted+lobby+proposals+%23lobbyplag+%23gdpr+http%3A%2F%2Fwww.lobbyplag.eu%2F" id="share-adn" class="share-pop">App.net</a>
+				</div>
+			</div>
+		</footer>
+	</body>
+</html>

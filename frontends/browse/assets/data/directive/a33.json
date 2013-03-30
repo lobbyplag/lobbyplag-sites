@@ -1,0 +1,110 @@
+{
+	"id": "a33",
+	"type": "article",
+	"literal": "33",
+	"parent": "c4s3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Data protection impact assessment"
+		},
+		{
+			"lang": "de",
+			"text": "Datenschutz-Folgenabschätzung"
+		},
+		{
+			"lang": "fr",
+			"text": "Analyse d’impact relative à la protection des données"
+		},
+		{
+			"lang": "es",
+			"text": "Evaluación de impacto relativa a la protección de datos"
+		},
+		{
+			"lang": "pt",
+			"text": "Avaliação de impacto sobre a proteção de dados"
+		},
+		{
+			"lang": "it",
+			"text": "Valutazione d’impatto sulla protezione dei dati"
+		},
+		{
+			"lang": "ga",
+			"text": "Measúnú tionchair ar chosaint sonraí"
+		},
+		{
+			"lang": "cs",
+			"text": "Posuzování dopadu na ochranu údajů"
+		},
+		{
+			"lang": "da",
+			"text": "Konsekvensanalyse vedrørende databeskyttelse"
+		},
+		{
+			"lang": "et",
+			"text": "Isikuandmete kaitsele avaldatava mõju hinnang"
+		},
+		{
+			"lang": "el",
+			"text": "Εκτίμηση επιπτώσεων σχετικά με την προστασία δεδομένων"
+		},
+		{
+			"lang": "bg",
+			"text": "Оценка на въздействието върху защитата на данните"
+		},
+		{
+			"lang": "hu",
+			"text": "Adatvédelmi hatásvizsgálat"
+		},
+		{
+			"lang": "mt",
+			"text": "Valutazzjoni tal-impatt fuq il-protezzjoni tad-dejta"
+		},
+		{
+			"lang": "lv",
+			"text": "Datu aizsardzības ietekmes novērtējums"
+		},
+		{
+			"lang": "ro",
+			"text": "Evaluarea impactului privind protecția datelor"
+		},
+		{
+			"lang": "sk",
+			"text": "Posúdenie vplyvu na ochranu údajov"
+		},
+		{
+			"lang": "sl",
+			"text": "Ocena učinka o varstvu podatkov"
+		},
+		{
+			"lang": "fi",
+			"text": "Tietosuojaa koskeva vaikutustenarviointi"
+		},
+		{
+			"lang": "pl",
+			"text": "Ocena skutków w zakresie ochrony danych"
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų apsaugos poveikio vertinimas"
+		},
+		{
+			"lang": "nl",
+			"text": "Privacyeffectbeoordeling"
+		},
+		{
+			"lang": "sv",
+			"text": "Konsekvensbedömning avseende uppgiftsskydd"
+		}
+	],
+	"children": [
+		"a33p1",
+		"a33p2",
+		"a33p3",
+		"a33p4",
+		"a33p5",
+		"a33p6",
+		"a33p7"
+	],
+	"title": "Article 33"
+}

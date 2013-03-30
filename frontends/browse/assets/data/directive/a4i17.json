@@ -1,0 +1,102 @@
+{
+	"id": "a4i17",
+	"type": "point",
+	"literal": "17",
+	"parent": "a4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "‘binding corporate rules’ means personal data protection policies which are adhered to by a controller or processor established on the territory of a Member State of the Union for transfers or a set of transfers of personal data to a controller or processor in one or more third countries within a group of undertakings;"
+		},
+		{
+			"lang": "de",
+			"text": "„verbindliche unternehmensinterne Datenschutzregelungen“ Maßnahmen zum Schutz personenbezogener Daten, zu deren Einhaltung sich ein im Hoheitsgebiet eines EU-Mitgliedstaats niedergelassener für die Verarbeitung Verantwortlicher oder Auftragsverarbeiter für Datenübermittlungen oder eine Kategorie von Datenübermittlungen personenbezogener Daten an einen für die Verarbeitung Verantwortlichen oder Auftragsverarbeiter derselben Unternehmensgruppe in einem oder mehreren Drittländern verpflichtet;"
+		},
+		{
+			"lang": "fr",
+			"text": "«règles d'entreprise contraignantes»: les règles internes relatives à la protection des données à caractère personnel qu'applique un responsable du traitement ou un sous­traitant établi sur le territoire d’un État membre de l’Union, aux transferts ou à un ensemble de transferts de données à caractère personnel à un responsable du traitement ou à un sous­traitant dans un ou plusieurs pays tiers au sein d'un groupe d'entreprises;"
+		},
+		{
+			"lang": "es",
+			"text": "«normas corporativas vinculantes»: las políticas de protección de datos personales asumidas por un responsable o encargado del tratamiento establecido en el territorio de un Estado miembro de la Unión para las transferencias o un conjunto de transferencias de datos personales a un responsable o encargado del tratamiento en uno o más países terceros, dentro de un grupo de empresas;"
+		},
+		{
+			"lang": "pt",
+			"text": "«Regras vinculativas para empresas», regras internas de proteção de dados pessoais que aplica um responsável pelo tratamento ou um subcontratante estabelecido no território de um Estado-Membro da União para as transferências ou um conjunto de transferências de dados pessoais para um responsável ou subcontratante num ou mais países terceiros, dentro de um grupo de empresas;"
+		},
+		{
+			"lang": "it",
+			"text": "“norme vincolanti d’impresa”: le politiche in materia di protezione dei dati personali applicate da un responsabile del trattamento o incaricato del trattamento stabilito nel territorio di uno Stato membro dell’Unione al trasferimento o al complesso di trasferimenti di dati personali a un responsabile del trattamento o incaricato del trattamento in uno o più paesi terzi, nell’ambito di un gruppo di imprese;"
+		},
+		{
+			"lang": "ga",
+			"text": "ciallaíonn ‘rialacha ceangailteacha corparáideacha’ beartais um chosaint sonraí pearsanta lena gcloíonn rialaitheoir nó próiseálaí atá bunaithe ar chríoch Ballstáit de chuid an Aontais, ar beartais iad a bhaineann le sonraí pearsanta nó tacar sonraí pearsanta a aistriú chuig rialaitheoir nó chuig próiseálaí i gceann amháin nó níos mó de thríú tíortha laistigh de ghrúpa gnóthas;"
+		},
+		{
+			"lang": "cs",
+			"text": "„závaznými podnikovými pravidly“ opatření na ochranu osobních údajů, která dodržuje správce nebo zpracovatel usazený na území členského státu Unie při předávání osobních údajů jednotlivě nebo v souborech správci nebo zpracovateli v rámci skupiny podniků v jedné nebo více třetích zemích;"
+		},
+		{
+			"lang": "da",
+			"text": "&quot;bindende virksomhedsregler&quot;: regler om beskyttelse af personoplysninger, som en registeransvarlig eller registerfører, der er etableret i en EU-medlemsstats område, overholder i forbindelse med videregivelser eller en serie af videregivelser af personoplysninger til en registeransvarlig eller registerfører i et eller flere tredjelande inden for en koncern"
+		},
+		{
+			"lang": "et",
+			"text": "„siduvad ettevõtluseeskirjad” – liidu liikmesriigis asuva vastutava töötleja ja volitatud töötleja kehtestatud isikuandmete kaitse põhimõtted, millest ta lähtub isikuandmete ühekordsel või korduval edastamisel ühes või mitmes kolmandas riigis kontserni koosseisus tegutsevale vastutavale või volitatud töötlejale;"
+		},
+		{
+			"lang": "el",
+			"text": "«δεσμευτικοί εταιρικοί κανόνες»: εσωτερικοί κανόνες προστασίας των δεδομένων προσωπικού χαρακτήρα τους οποίους εφαρμόζει ένας υπεύθυνος επεξεργασίας ή ένας εκτελών την επεξεργασία εγκαταστημένος στο έδαφος κράτους μέλους της Ένωσης για διαβιβάσεις ή σύνολο διαβιβάσεων δεδομένων προσωπικού χαρακτήρα σε υπεύθυνο επεξεργασίας ή εκτελούντα την επεξεργασία σε μία ή περισσότερες τρίτες χώρες εντός του ομίλου επιχειρήσεων·"
+		},
+		{
+			"lang": "bg",
+			"text": "„задължителни фирмени правила“ означава политики за защита на личните данни, които се спазват от администратор или обработващ лични данни, установен на територията на държава-членка на Съюза, при предаване или съвкупност от предавания на лични данни до администратор или обработващ лични данни в една или повече трети държави в рамките на група предприятия;"
+		},
+		{
+			"lang": "hu",
+			"text": "„kötelező erejű vállalati szabályok”: az Unió valamelyik tagállamában letelepedett adatkezelő vagy feldolgozó által kidolgozott személyesadat-védelmi politikák a személyes adatok adatkezelő vagy feldolgozó részére, vállalkozáscsoporton belüli, egy vagy több harmadik államba történő továbbítása vagy továbbítássorozata tekintetében;"
+		},
+		{
+			"lang": "mt",
+			"text": "‘regoli korporattivi vinkolanti’ tfisser politiki ta’ protezzjoni tad-dejta personali osservati minn kontrollur jew proċessur stabbilit fit-territorju ta’ Stat Membru tal-Unjoni għat-trasferimenti jew sett ta’ trasferimenti ta’ dejta personali lil kontrollur jew proċessur f’pajjiż terz wieħed jew aktar fi grupp ta’ impriżi;"
+		},
+		{
+			"lang": "lv",
+			"text": "&quot;saistošie uzņēmuma noteikumi&quot; ir personas datu aizsardzības vadlīnijas, ko stingri ievēro pārzinis vai apstrādātājs, kas atrodas Savienības dalībvalsts teritorijā, attiecībā uz personas datu nosūtīšanu vai vairākkārtēju nosūtīšanu pārzinim vai apstrādātājam vienā vai vairākās trešās valstīs uzņēmumu grupas ietvaros;"
+		},
+		{
+			"lang": "ro",
+			"text": "„reguli corporatiste obligatorii” înseamnă politicile în materie de protecție a datelor cu caracter personal care trebuie respectate de către un operator sau o persoană împuternicită de operator stabilită pe teritoriul unui stat membru al Uniunii, în ceea ce privește transferurile sau seturile de transferuri de date cu caracter personal către un operator sau o persoană împuternicită în una sau mai multe țări terțe în cadrul unui grup de întreprinderi;"
+		},
+		{
+			"lang": "sk",
+			"text": "„záväzné firemné pravidlá“ predstavujú politiku ochrany údajov, ktorú si osvojil prevádzkovateľ alebo sprostredkovateľ so sídlom na území členského štátu Únie na účely prenosov alebo súborov prenosov osobných údajov prevádzkovateľovi alebo sprostredkovateľovi v jednej alebo viacerých tretích krajinách v rámci skupiny podnikov;"
+		},
+		{
+			"lang": "sl",
+			"text": "„zavezujoča poslovna pravila“ pomenijo politike na področju varstva osebnih podatkov, ki jih upravljavec ali obdelovalec, ustanovljen na ozemlju države članice Unije, upošteva pri prenosih ali nizih prenosov osebnih podatkov upravljavcu ali obdelovalcu povezane družbe v eni ali več tretjih državah;"
+		},
+		{
+			"lang": "fi",
+			"text": "’yritystä koskevilla sitovilla säännöillä’ henkilötietojen suojelutoimia, joita jonkin jäsenvaltion alueelle sijoittautunut rekisterinpitäjä tai henkilötietojen käsittelijä on sitoutunut noudattamaan tehdessään henkilötietojen siirtoja tai siirtojen sarjoja yhdessä tai useammassa kolmannessa maassa sijaitsevalle rekisterinpitäjälle tai henkilötietojen käsittelijälle yritysryhmän sisällä;"
+		},
+		{
+			"lang": "pl",
+			"text": "„wiążące reguły korporacyjne” oznaczają polityki ochrony danych osobowych, których przestrzegają administrator lub podmiot przetwarzający mający siedzibę na terytorium państwa członkowskiego Unii do celów przekazywania danych osobowych do administratora lub podmiotu przetwarzającego w przynajmniej jednym państwie trzecim w ramach grupy przedsiębiorstw;"
+		},
+		{
+			"lang": "lt",
+			"text": "įmonei privalomos taisyklės – asmens duomenų apsaugos nuostatos, kurių Sąjungos valstybės narės teritorijoje įsisteigęs duomenų valdytojas arba tvarkytojas laikosi vieną ar daugiau kartų perduodamas asmens duomenis vienos ar daugiau trečiųjų šalių duomenų valdytojui arba tvarkytojui, priklausančiam tai pačiai įmonių grupei;"
+		},
+		{
+			"lang": "nl",
+			"text": "“bindende bedrijfsvoorschriften”: beleid inzake de bescherming van persoonsgegevens tot inachtneming waarvan een op het grondgebied van een lidstaat of de Unie gevestigde voor de verwerking verantwoordelijke of verwerker zich heeft verplicht voor de doorgifte of een reeks van doorgiften van persoonsgegevens binnen een groep van ondernemingen naar een voor de verwerking verantwoordelijke of verwerker in een of meer derde landen;"
+		},
+		{
+			"lang": "sv",
+			"text": "bindande företagsbestämmelser: strategier för skydd av personuppgifter som en registeransvarig eller registerförare som är etablerad på en medlemsstats territorium använder sig av vid överföringar eller en uppsättning av överföringar av personuppgifter till en registeransvarig eller registerförare i en eller flera tredjeländer inom en företagsgrupp."
+		}
+	],
+	"children": [],
+	"title": "Article 4 – Point 17"
+}

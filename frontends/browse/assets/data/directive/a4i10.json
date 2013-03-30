@@ -1,0 +1,102 @@
+{
+	"id": "a4i10",
+	"type": "point",
+	"literal": "10",
+	"parent": "a4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "'genetic data' means all data, of whatever type, concerning the characteristics of an individual which are inherited or acquired during early prenatal development;"
+		},
+		{
+			"lang": "de",
+			"text": "„genetische Daten“ Daten jedweder Art zu den ererbten oder während der vorgeburtlichen Entwicklung erworbenen Merkmalen eines Menschen;"
+		},
+		{
+			"lang": "fr",
+			"text": "«données génétiques»: toutes les données, de quelque nature que ce soit, concernant les caractéristiques d'une personne physique qui sont héréditaires ou acquises à un stade précoce de son développement prénatal;"
+		},
+		{
+			"lang": "es",
+			"text": "«datos genéticos»: todos los datos, con independencia de su tipo, relativos a las características de una persona que sean hereditarias o adquiridas durante el desarrollo prenatal temprano;"
+		},
+		{
+			"lang": "pt",
+			"text": "«Dados genéticos», todos os dados, independentemente do tipo, relacionados com as características de uma pessoa singular que são hereditárias ou adquiridas numa fase precoce do seu desenvolvimento pré-natal;"
+		},
+		{
+			"lang": "it",
+			"text": "“dati genetici”: tutti i dati, di qualsiasi natura, riguardanti le caratteristiche di una persona fisica che siano ereditarie o acquisite in uno stadio precoce di sviluppo prenatale;"
+		},
+		{
+			"lang": "ga",
+			"text": "ciallaíonn ‘sonraí géiniteacha’ gach cineál sonraí a bhaineann le tréithe duine aonair arna bhfáil le hoidhreacht nó go luath san fhorbairt réamhbhreithe;"
+		},
+		{
+			"lang": "cs",
+			"text": "„genetickými údaji“ všechny údaje jakéhokoli typu týkající se dědičných znaků jednotlivce nebo znaků získaných v období raného prenatálního vývoje;"
+		},
+		{
+			"lang": "da",
+			"text": "&quot;genetiske data&quot;: alle data af enhver type vedrørende en fysisk persons karakteristika, der er arvet eller erhvervet under tidlig prænatal udvikling"
+		},
+		{
+			"lang": "et",
+			"text": "„geneetilised andmed” – mis tahes liiki andmed isiku pärilike ja varajasel sünnieelsel arenguetapil kujunenud omaduste kohta;"
+		},
+		{
+			"lang": "el",
+			"text": "«γενετικά δεδομένα»: όλα τα δεδομένα, οποιουδήποτε τύπου, τα οποία αφορούν τα χαρακτηριστικά φυσικού προσώπου που κληρονομούνται ή αποκτώνται κατά την αρχική προγεννητική ανάπτυξη·"
+		},
+		{
+			"lang": "bg",
+			"text": "„генетични данни“ означава всички данни, от всякакъв вид, свързани с белезите на дадено физическо лице, които са наследствени или са придобити по време на ранното пренатално развитие;"
+		},
+		{
+			"lang": "hu",
+			"text": "„genetikai adat”: az egyén jellemzőire vonatkozó bármely olyan adat, amelyet a születés előtti korai fejlődés során örökölt vagy szerzett;"
+		},
+		{
+			"lang": "mt",
+			"text": "‘dejta ġenetika’ tfisser id-dejta kollha, ta’ kwalunkwe tip, li tirrigwarda l-karatteristiċi ta’ individwu li jintirtu jew jinkisbu waqt l-iżvilupp bikri ta’ qabel it-twelid;"
+		},
+		{
+			"lang": "lv",
+			"text": "&quot;ģenētiskie dati&quot; ir visi dati, neatkarīgi no datu veida, saistībā ar personas pazīmēm, kas mantotas vai iegūtas agrīnas pirmsnatālās attīstības gaitā;"
+		},
+		{
+			"lang": "ro",
+			"text": "„date genetice” înseamnă toate datele, indiferent de tipul acestora, referitoare la caracteristicile unei persoane, care sunt moștenite sau dobândite într-un stadiu precoce de dezvoltare prenatală;"
+		},
+		{
+			"lang": "sk",
+			"text": "„genetické údaje“ sú všetky údaje akéhokoľvek druhu, týkajúce sa dedičných znakov fyzickej osoby alebo jej znakov získaných v období raného prenatálneho vývoja;"
+		},
+		{
+			"lang": "sl",
+			"text": "„genetski podatki“ pomenijo vse podatke ne glede na njihovo vrsto v zvezi z značilnostmi posameznika, ki so podedovane ali pridobljene v zgodnjem prenatalnem obdobju;"
+		},
+		{
+			"lang": "fi",
+			"text": "’geneettisillä tiedoilla’ kaikenlaisia tietoja yksilön perityistä tai sikiöaikaisen kehityksen aikana syntyneistä ominaisuuksista;"
+		},
+		{
+			"lang": "pl",
+			"text": "„dane genetyczne” oznaczają wszelkie dane dowolnego rodzaju dotyczące charakterystycznych cech osoby fizycznej, odziedziczonych lub nabytych na etapie wczesnego rozwoju prenatalnego;"
+		},
+		{
+			"lang": "lt",
+			"text": "genetiniai duomenys – visi bet kokios rūšies duomenys, susiję su embrioniniu laikotarpiu paveldėtomis ar įgytomis fizinio asmens savybėmis;"
+		},
+		{
+			"lang": "nl",
+			"text": "“genetische gegevens”: alle gegevens, van welke aard ook, over de overgeërfde of tijdens de vroege prenatale ontwikkeling verkregen kenmerken van een persoon;"
+		},
+		{
+			"lang": "sv",
+			"text": "genetiska uppgifter: alla uppgifter, oavsett typ, som rör sådana kännetecken för en enskild person som är nedärvda eller har erhållits under tidig prenatal utveckling."
+		}
+	],
+	"children": [],
+	"title": "Article 4 – Point 10"
+}

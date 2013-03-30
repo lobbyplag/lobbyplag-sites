@@ -1,0 +1,102 @@
+{
+	"id": "a14p6",
+	"type": "paragraph",
+	"literal": "6",
+	"parent": "a14",
+	"text": [
+		{
+			"lang": "en",
+			"text": "In the case referred to in point (b) of paragraph 5, the controller shall provide appropriate measures to protect the data subject's legitimate interests."
+		},
+		{
+			"lang": "de",
+			"text": "Im Fall des Absatzes 5 Buchstabe b ergreift der für die Verarbeitung Verantwortliche geeignete Maßnahmen zum Schutz der berechtigten Interessen der betroffenen Person."
+		},
+		{
+			"lang": "fr",
+			"text": "Dans le cas visé au paragraphe 5, point b), le responsable du traitement prend les mesures appropriées pour protéger les intérêts légitimes de la personne concernée."
+		},
+		{
+			"lang": "es",
+			"text": "En el caso contemplado en el apartado 5, letra b), el responsable del tratamiento establecerá las medidas apropiadas para proteger los intereses legítimos del interesado."
+		},
+		{
+			"lang": "pt",
+			"text": "No caso referido no n.º 5, alínea b), o responsável pelo tratamento deve adotar as medidas adequadas para proteger os interesses legítimos do titular dos dados."
+		},
+		{
+			"lang": "it",
+			"text": "Nel caso di cui al paragrafo 5, lettera b), il responsabile del trattamento predispone adeguate misure per proteggere i legittimi interessi dell’interessato."
+		},
+		{
+			"lang": "ga",
+			"text": "Sa chás dá dtagraítear i bpointe (b) de mhír 5, cuirfidh an rialaitheoir bearta iomchuí ar fáil chun leasanna dlisteanacha an duine is ábhar do na sonraí a chosaint."
+		},
+		{
+			"lang": "cs",
+			"text": "V případě uvedeném v odst. 5 písm. b) správce provede vhodná opatření na ochranu oprávněných zájmů subjektu údajů."
+		},
+		{
+			"lang": "da",
+			"text": "I det tilfælde, der er nævnt i stk. 5, litra b), træffer den registeransvarlige tilstrækkelige foranstaltninger til at beskytte den registreredes legitime interesser."
+		},
+		{
+			"lang": "et",
+			"text": "Lõike 5 punktis b osutatud juhul näeb vastutav töötleja ette meetmed andmesubjekti õigustatud huvi kaitsmiseks."
+		},
+		{
+			"lang": "el",
+			"text": "Για την περίπτωση που αναφέρεται στην παράγραφο 5 στοιχείο β), ο υπεύθυνος επεξεργασίας προβλέπει κατάλληλα μέτρα για την προστασία των έννομων συμφερόντων του προσώπου στο οποίο αναφέρονται τα δεδομένα."
+		},
+		{
+			"lang": "bg",
+			"text": "В случая, посочен в параграф 5, буква б), администраторът осигурява подходящи мерки за защита на законните интереси на субекта на данните."
+		},
+		{
+			"lang": "hu",
+			"text": "Az (5) bekezdés b) pontja szerinti esetben az adatkezelő megteszi a megfelelő intézkedéseket az érintett jogos érdekeinek védelme érdekében."
+		},
+		{
+			"lang": "mt",
+			"text": "Fil-każ imsemmi fil-punt (b) tal-paragrafu 5, il-kontrollur għandu jipprovdi miżuri xierqa sabiex jipproteġi l-interessi leġittimi tas-suġġett tad-dejta."
+		},
+		{
+			"lang": "lv",
+			"text": "Gadījumā, kas minēts 5. punkta b) apakšpunktā, pārzinis nodrošina atbilstošus pasākumus, lai aizsargātu datu subjekta likumīgās intereses."
+		},
+		{
+			"lang": "ro",
+			"text": "În cazul menționat la alineatul (5) litera (b), operatorul prevede măsuri corespunzătoare pentru protejarea intereselor legitime ale persoanei vizate."
+		},
+		{
+			"lang": "sk",
+			"text": "V prípade uvedenom v odseku 5 písm. b) prevádzkovateľ zabezpečí primerané opatrenia na ochranu oprávnených záujmov dotknutej osoby."
+		},
+		{
+			"lang": "sl",
+			"text": "V primeru iz točke (b) odstavka 5 upravljavec zagotovi ustrezne ukrepe za zaščito pravnih interesov posameznika, na katerega se nanašajo osebni podatki."
+		},
+		{
+			"lang": "fi",
+			"text": "Edellä olevan 5 kohdan b alakohdassa tarkoitetussa tapauksessa rekisterinpitäjän on toteutettava tarvittavat toimenpiteet rekisteröidyn oikeutettujen etujen suojaamiseksi."
+		},
+		{
+			"lang": "pl",
+			"text": "W przypadku, o którym mowa w ust. 5 lit. b), administrator zapewnia odpowiednie środki mające na celu ochronę słusznych interesów podmiotu danych."
+		},
+		{
+			"lang": "lt",
+			"text": "5 dalies b punkte nurodytu atveju duomenų valdytojas numato tinkamas priemones teisėtiems duomenų subjekto interesams apsaugoti."
+		},
+		{
+			"lang": "nl",
+			"text": "In het in lid 5, onder b), bedoelde geval neemt de voor de verwerking verantwoordelijke passende maatregelen om de gerechtvaardigde belangen van de betrokkene te beschermen."
+		},
+		{
+			"lang": "sv",
+			"text": "I det fall som avses i punkt 5 b ska den registeransvarige vidta lämpliga åtgärder för att skydda den registrerades berättigade intressen."
+		}
+	],
+	"children": [],
+	"title": "Article 14 – Paragraph 6"
+}

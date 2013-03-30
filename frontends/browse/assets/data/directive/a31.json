@@ -1,0 +1,109 @@
+{
+	"id": "a31",
+	"type": "article",
+	"literal": "31",
+	"parent": "c4s2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Notification of a personal data breach to the supervisory authority"
+		},
+		{
+			"lang": "de",
+			"text": "Meldung von Verletzungen des Schutzes personenbezogener Daten an die Aufsichtsbehörde"
+		},
+		{
+			"lang": "fr",
+			"text": "Notification à l'autorité de contrôle d'une violation de données à caractère personnel"
+		},
+		{
+			"lang": "es",
+			"text": "Notificación de una violación de datos personales a la autoridad de control"
+		},
+		{
+			"lang": "pt",
+			"text": "Notificação da violação de dados pessoais à autoridade de controlo"
+		},
+		{
+			"lang": "it",
+			"text": "Notificazione di una violazione dei dati personali all’autorità di controllo"
+		},
+		{
+			"lang": "ga",
+			"text": "Fógra a thabhairt don údarás maoirseachta faoi shárú i ndáil le sonraí pearsanta"
+		},
+		{
+			"lang": "cs",
+			"text": "Ohlašování případů narušení bezpečnosti osobních údajů orgánu dozoru"
+		},
+		{
+			"lang": "da",
+			"text": "Anmeldelse af brud på persondatasikkerheden til tilsynsmyndigheden"
+		},
+		{
+			"lang": "et",
+			"text": "Järelevalveasutuse teavitamine isikuandmetega seotud rikkumisest"
+		},
+		{
+			"lang": "el",
+			"text": "Κοινοποίηση παραβίασης δεδομένων προσωπικού χαρακτήρα στην αρχή ελέγχου"
+		},
+		{
+			"lang": "bg",
+			"text": "Уведомяване на надзорния орган за нарушение на сигурността на личните данни"
+		},
+		{
+			"lang": "hu",
+			"text": "A felügyelő hatóság értesítése a személyes adatok megsértéséről"
+		},
+		{
+			"lang": "mt",
+			"text": "Notifika ta’ ksur tad-dejta personali lill-awtorità ta’ superviżjoni"
+		},
+		{
+			"lang": "lv",
+			"text": "Personas datu aizsardzības pārkāpuma paziņošana uzraudzības iestādei"
+		},
+		{
+			"lang": "ro",
+			"text": "Notificarea autorității de supraveghere în cazul încălcării securității datelor cu caracter personal"
+		},
+		{
+			"lang": "sk",
+			"text": "Oznámenie o porušení ochrany osobných údajov dozornému orgánu"
+		},
+		{
+			"lang": "sl",
+			"text": "Obveščanje nadzornega organa o kršitvi varnosti osebnih podatkov"
+		},
+		{
+			"lang": "fi",
+			"text": "Henkilötietojen tietoturvaloukkauksesta ilmoittaminen valvontaviranomaiselle"
+		},
+		{
+			"lang": "pl",
+			"text": "Zgłoszenie naruszenia ochrony danych osobowych organowi nadzorczemu"
+		},
+		{
+			"lang": "lt",
+			"text": "Pranešimas apie asmens duomenų saugumo pažeidimą priežiūros institucijai"
+		},
+		{
+			"lang": "nl",
+			"text": "Melding van een inbreuk in verband met persoonsgegevens aan de toezichthoudende autoriteit"
+		},
+		{
+			"lang": "sv",
+			"text": "Anmälan av ett personuppgiftsbrott till tillsynsmyndigheten"
+		}
+	],
+	"children": [
+		"a31p1",
+		"a31p2",
+		"a31p3",
+		"a31p4",
+		"a31p5",
+		"a31p6"
+	],
+	"title": "Article 31"
+}

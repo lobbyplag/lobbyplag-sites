@@ -1,0 +1,109 @@
+{
+	"id": "a52",
+	"type": "article",
+	"literal": "52",
+	"parent": "c6s2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Duties"
+		},
+		{
+			"lang": "de",
+			"text": "Aufgaben"
+		},
+		{
+			"lang": "fr",
+			"text": "Fonctions"
+		},
+		{
+			"lang": "es",
+			"text": "Funciones"
+		},
+		{
+			"lang": "pt",
+			"text": "Funções"
+		},
+		{
+			"lang": "it",
+			"text": "Funzioni"
+		},
+		{
+			"lang": "ga",
+			"text": "Dualgais"
+		},
+		{
+			"lang": "cs",
+			"text": "Povinnosti"
+		},
+		{
+			"lang": "da",
+			"text": "Opgaver"
+		},
+		{
+			"lang": "et",
+			"text": "Kohustused"
+		},
+		{
+			"lang": "el",
+			"text": "Καθήκοντα"
+		},
+		{
+			"lang": "bg",
+			"text": "Задължения"
+		},
+		{
+			"lang": "hu",
+			"text": "Feladatkörök"
+		},
+		{
+			"lang": "mt",
+			"text": "Dmirijiet"
+		},
+		{
+			"lang": "lv",
+			"text": "Pienākumi"
+		},
+		{
+			"lang": "ro",
+			"text": "Atribuții"
+		},
+		{
+			"lang": "sk",
+			"text": "Povinnosti"
+		},
+		{
+			"lang": "sl",
+			"text": "Naloge"
+		},
+		{
+			"lang": "fi",
+			"text": "Tehtävät"
+		},
+		{
+			"lang": "pl",
+			"text": "Obowiązki"
+		},
+		{
+			"lang": "lt",
+			"text": "Pareigos"
+		},
+		{
+			"lang": "nl",
+			"text": "Taken"
+		},
+		{
+			"lang": "sv",
+			"text": "Uppdrag"
+		}
+	],
+	"children": [
+		"a52p1",
+		"a52p2",
+		"a52p3",
+		"a52p4",
+		"a52p5",
+		"a52p6"
+	],
+	"title": "Article 52"
+}

@@ -1,0 +1,107 @@
+{
+	"id": "a22",
+	"type": "article",
+	"literal": "22",
+	"parent": "c4s1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Responsibility of the controller"
+		},
+		{
+			"lang": "de",
+			"text": "Pflichten des für die Verarbeitung Verantwortlichen"
+		},
+		{
+			"lang": "fr",
+			"text": "Obligations incombant au responsable du traitement"
+		},
+		{
+			"lang": "es",
+			"text": "Obligaciones del responsable del tratamiento"
+		},
+		{
+			"lang": "pt",
+			"text": "Obrigações do responsável pelo tratamento"
+		},
+		{
+			"lang": "it",
+			"text": "Responsabilità del responsabile del trattamento"
+		},
+		{
+			"lang": "ga",
+			"text": "Freagracht an rialaitheora"
+		},
+		{
+			"lang": "cs",
+			"text": "Odpovědnost správce"
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarliges ansvar"
+		},
+		{
+			"lang": "et",
+			"text": "Vastutava töötleja ülesanded"
+		},
+		{
+			"lang": "el",
+			"text": "Ευθύνη του υπευθύνου επεξεργασίας"
+		},
+		{
+			"lang": "bg",
+			"text": "Отговорност на администратора"
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő felelőssége"
+		},
+		{
+			"lang": "mt",
+			"text": "Responsabbiltà tal-kontrollur"
+		},
+		{
+			"lang": "lv",
+			"text": "Pārziņa atbildība"
+		},
+		{
+			"lang": "ro",
+			"text": "Responsabilitatea operatorului"
+		},
+		{
+			"lang": "sk",
+			"text": "Zodpovednosť prevádzkovateľa"
+		},
+		{
+			"lang": "sl",
+			"text": "Pristojnost upravljavca"
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän vastuu"
+		},
+		{
+			"lang": "pl",
+			"text": "Odpowiedzialność administratora○"
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojo atsakomybė"
+		},
+		{
+			"lang": "nl",
+			"text": "Verantwoordelijkheden van de voor de verwerking verantwoordelijke"
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvariges ansvar"
+		}
+	],
+	"children": [
+		"a22p1",
+		"a22p2",
+		"a22p3",
+		"a22p4"
+	],
+	"title": "Article 22"
+}

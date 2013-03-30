@@ -1,0 +1,106 @@
+{
+	"id": "a35p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a35",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller and the processor shall designate a data protection officer in any case where:"
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche und der Auftragsverarbeiter benennen einen Datenschutzbeauftragten, falls"
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement et le sous-traitant désignent systématiquement un délégué à la protection des données lorsque:"
+		},
+		{
+			"lang": "es",
+			"text": "El responsable y el encargado del tratamiento designarán un delegado de protección de datos siempre que:"
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento e o subcontratante designam um delegado para a proteção de dados sempre que:"
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento e l’incaricato del trattamento designano sistematicamente un responsabile della protezione dei dati quando:"
+		},
+		{
+			"lang": "ga",
+			"text": "Ceapfaidh an rialaitheoir agus an próiseálaí oifigeach cosanta sonraí in aon cheann de na cásanna seo a leanas:"
+		},
+		{
+			"lang": "cs",
+			"text": "Správce a zpracovatel jmenují inspektora ochrany údajů v každém případě, kdy:"
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige og registerføreren udpeger altid en databeskyttelsesansvarlig, når:"
+		},
+		{
+			"lang": "et",
+			"text": "Vastutava töötleja ja volitatud töötleja määravad ametisse andmekaitseametniku, kui:"
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας και ο εκτελών την επεξεργασία ορίζουν υπεύθυνο προστασίας δεδομένων σε κάθε περίπτωση στην οποία:"
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът и обработващият лични данни определят длъжностно лице по защита на данните във всички случаи, когато:"
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő és az adatfeldolgozó adatvédelmi tisztviselőt jelöl ki minden olyan esetben, amikor:"
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur u l-proċessur għandu jaħtar uffiċjal tal-protezzjoni tad-dejta fi kwalunkwe każ meta:"
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinis un apstrādātājs ieceļ datu aizsardzības inspektoru katrā gadījumā, kad"
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul și persoana împuternicită de către operator desemnează un responsabil cu protecția datelor atunci când:"
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ a sprostredkovateľ určia úradníka pre ochranu údajov v každom prípade, keď:"
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec in obdelovalec imenujeta uradno osebo za varstvo podatkov v vsakem primeru, kadar:"
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän ja henkilötietojen käsittelijän on nimitettävä tietosuojavastaava aina kun"
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator i podmiot przetwarzający wyznaczają inspektora ochrony danych, w każdym przypadku, w którym:"
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas ir duomenų tvarkytojas paskiria duomenų apsaugos pareigūną, kai:"
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke en de verwerker wijzen een functionaris voor gegevensbescherming aan in elk geval waarin:"
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige och registerföraren ska utnämna ett uppgiftsskyddsombud om"
+		}
+	],
+	"children": [
+		"a35p1i1",
+		"a35p1i2",
+		"a35p1i3"
+	],
+	"title": "Article 35 – Paragraph 1"
+}

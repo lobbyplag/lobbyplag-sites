@@ -1,0 +1,111 @@
+{
+	"id": "a58",
+	"type": "article",
+	"literal": "58",
+	"parent": "c7s2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Opinion by the European Data Protection Board"
+		},
+		{
+			"lang": "de",
+			"text": "Stellungnahme des Europäischen Datenschutzausschusses"
+		},
+		{
+			"lang": "fr",
+			"text": "Avis du comité européen de la protection des données"
+		},
+		{
+			"lang": "es",
+			"text": "Dictamen del Consejo Europeo de Protección de Datos"
+		},
+		{
+			"lang": "pt",
+			"text": "Parecer do Comité Europeu para a Proteção de Dados"
+		},
+		{
+			"lang": "it",
+			"text": "Parere del comitato europeo per la protezione dei dati"
+		},
+		{
+			"lang": "ga",
+			"text": "Tuairim ón mBord Eorpach um Chosaint Sonraí"
+		},
+		{
+			"lang": "cs",
+			"text": "Stanovisko Evropské rady pro ochranu údajů"
+		},
+		{
+			"lang": "da",
+			"text": "Det Europæiske Databeskyttelsesråds udtalelse"
+		},
+		{
+			"lang": "et",
+			"text": "Euroopa Andmekaitsenõukogu arvamus"
+		},
+		{
+			"lang": "el",
+			"text": "Γνώμη του Ευρωπαϊκού Συμβουλίου Προστασίας Δεδομένων"
+		},
+		{
+			"lang": "bg",
+			"text": "Становище на Европейския комитет по защита на данните"
+		},
+		{
+			"lang": "hu",
+			"text": "Az Európai Adatvédelmi Testület véleménye"
+		},
+		{
+			"lang": "mt",
+			"text": "Opinjoni mill-Bord Ewropew għall-Protezzjoni tad-Dejta"
+		},
+		{
+			"lang": "lv",
+			"text": "Eiropas Datu aizsardzības kolēģijas atzinums"
+		},
+		{
+			"lang": "ro",
+			"text": "Avizul Comitetului european pentru protecția datelor"
+		},
+		{
+			"lang": "sk",
+			"text": "Stanovisko Európskeho výboru pre ochranu údajov"
+		},
+		{
+			"lang": "sl",
+			"text": "Mnenje Evropskega odbora za varstvo podatkov"
+		},
+		{
+			"lang": "fi",
+			"text": "Euroopan tietosuojaneuvoston lausunto"
+		},
+		{
+			"lang": "pl",
+			"text": "Opinia Europejskiej Rady Ochrony Danych"
+		},
+		{
+			"lang": "lt",
+			"text": "Europos duomenų apsaugos valdybos nuomonė"
+		},
+		{
+			"lang": "nl",
+			"text": "Advies van het Europees Comité voor gegevensbescherming"
+		},
+		{
+			"lang": "sv",
+			"text": "Yttrande från Europeiska dataskyddsstyrelsen"
+		}
+	],
+	"children": [
+		"a58p1",
+		"a58p2",
+		"a58p3",
+		"a58p4",
+		"a58p5",
+		"a58p6",
+		"a58p7",
+		"a58p8"
+	],
+	"title": "Article 58"
+}

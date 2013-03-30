@@ -1,0 +1,107 @@
+{
+	"id": "a59",
+	"type": "article",
+	"literal": "59",
+	"parent": "c7s2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Opinion by the Commission"
+		},
+		{
+			"lang": "de",
+			"text": "Stellungnahme der Kommission"
+		},
+		{
+			"lang": "fr",
+			"text": "Avis de la Commission"
+		},
+		{
+			"lang": "es",
+			"text": "Dictamen de la Comisión"
+		},
+		{
+			"lang": "pt",
+			"text": "Parecer da Comissão"
+		},
+		{
+			"lang": "it",
+			"text": "Parere della Commissione"
+		},
+		{
+			"lang": "ga",
+			"text": "Tuairim ón gCoimisiún"
+		},
+		{
+			"lang": "cs",
+			"text": "Stanovisko Komise"
+		},
+		{
+			"lang": "da",
+			"text": "Kommissionens udtalelse"
+		},
+		{
+			"lang": "et",
+			"text": "Komisjoni arvamus"
+		},
+		{
+			"lang": "el",
+			"text": "Γνώμη της Επιτροπής"
+		},
+		{
+			"lang": "bg",
+			"text": "Становище на Комисията"
+		},
+		{
+			"lang": "hu",
+			"text": "A Bizottság véleménye"
+		},
+		{
+			"lang": "mt",
+			"text": "Opinjoni mill-Kummissjoni"
+		},
+		{
+			"lang": "lv",
+			"text": "Komisijas atzinums"
+		},
+		{
+			"lang": "ro",
+			"text": "Avizul Comisiei"
+		},
+		{
+			"lang": "sk",
+			"text": "Stanovisko Komisie"
+		},
+		{
+			"lang": "sl",
+			"text": "Mnenje Komisije"
+		},
+		{
+			"lang": "fi",
+			"text": "Komission lausunto"
+		},
+		{
+			"lang": "pl",
+			"text": "Opinia Komisji"
+		},
+		{
+			"lang": "lt",
+			"text": "Komisijos nuomonė"
+		},
+		{
+			"lang": "nl",
+			"text": "Advies van de Commissie"
+		},
+		{
+			"lang": "sv",
+			"text": "Yttrande från kommissionen"
+		}
+	],
+	"children": [
+		"a59p1",
+		"a59p2",
+		"a59p3",
+		"a59p4"
+	],
+	"title": "Article 59"
+}

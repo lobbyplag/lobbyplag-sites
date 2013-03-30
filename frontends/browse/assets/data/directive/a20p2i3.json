@@ -1,0 +1,102 @@
+{
+	"id": "a20p2i3",
+	"type": "point",
+	"literal": "c",
+	"parent": "a20p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "is based on the data subject's consent, subject to the conditions laid down in Article 7 and to suitable safeguards."
+		},
+		{
+			"lang": "de",
+			"text": "mit Einwilligung der betroffenen Person nach Maßgabe von Artikel 7 und vorbehaltlich entsprechender Garantien erfolgt."
+		},
+		{
+			"lang": "fr",
+			"text": "est fondé sur le consentement de la personne concernée, sous réserve des conditions énoncées à l’article 7 et de garanties appropriées."
+		},
+		{
+			"lang": "es",
+			"text": "se basa en el consentimiento del interesado, a reserva de las condiciones establecidas en el artículo 7 y de garantías adecuadas."
+		},
+		{
+			"lang": "pt",
+			"text": "Tiver por base o consentimento do titular dos dados, sob reserva das condições estabelecidas no artigo 7.º, e de garantias adequadas."
+		},
+		{
+			"lang": "it",
+			"text": "si basa sul consenso dell’interessato, fatte salve le condizioni di cui all’articolo 7 e l’esistenza di garanzie adeguate."
+		},
+		{
+			"lang": "ga",
+			"text": "má tá an phróiseáil bunaithe ar thoiliú ón duine is ábhar do na sonraí, faoi réir na gcoinníollacha atá leagtha síos in Airteagal 7 agus faoi réir cosaintí oiriúnacha."
+		},
+		{
+			"lang": "cs",
+			"text": "založeno na souhlasu subjektu údajů, s výhradou podmínek stanovených v článku 7 a vhodných záruk."
+		},
+		{
+			"lang": "da",
+			"text": "er baseret på den registreredes samtykke med forbehold af bestemmelserne i artikel 7 og passende garantier."
+		},
+		{
+			"lang": "et",
+			"text": "põhineb andmesubjekti nõusolekul, kui on täidetud artiklis 7 sätestatud tingimused ja võetud sobivad kaitsemeetmed."
+		},
+		{
+			"lang": "el",
+			"text": "γ) βασίζεται στη συγκατάθεση του προσώπου στο οποίο αναφέρονται τα δεδομένα, με την επιφύλαξη των προϋποθέσεων που προβλέπονται στο άρθρο 7 και κατάλληλων εγγυήσεων."
+		},
+		{
+			"lang": "bg",
+			"text": "в) се основава на съгласието на субекта на данните при спазване на условията, предвидени в член 7, и при наличието на подходящи гаранции."
+		},
+		{
+			"lang": "hu",
+			"text": "az érintett hozzájárulása alapján végzik, a 7. cikkben megállapított feltételek és a megfelelő biztosítékok mellett."
+		},
+		{
+			"lang": "mt",
+			"text": "ikun ibbażat fuq il-kunsens tas-suġġett tad-dejta, soġġett għall-kundizzjonijiet stabbiliti fl-Artikolu 7 u għal salvagwardji xierqa."
+		},
+		{
+			"lang": "lv",
+			"text": "pamato ar datu subjekta piekrišanu, ievērojot 7. panta nosacījumus un atbilstošus aizsardzības pasākumus."
+		},
+		{
+			"lang": "ro",
+			"text": "se bazează pe consimțământul persoanei vizate, sub rezerva condițiilor prevăzute la articolul 7 și a unor garanții corespunzătoare."
+		},
+		{
+			"lang": "sk",
+			"text": "založené na súhlase dotknutej osoby s výhradou podmienok stanovených v článku 7 a vhodných záruk."
+		},
+		{
+			"lang": "sl",
+			"text": "utemeljena s privolitvijo posameznika, na katerega se nanašajo osebni podatki, v skladu s pogoji iz člena 7 in ustreznimi zaščitnimi ukrepi."
+		},
+		{
+			"lang": "fi",
+			"text": "perustuu rekisteröidyn suostumukseen, edellyttäen että 7 artiklassa säädetyt edellytykset täyttyvät ja että asianmukaiset takeet on annettu."
+		},
+		{
+			"lang": "pl",
+			"text": "odbywa się na podstawie zgody podmiotu danych, z zastrzeżeniem warunków określonych w art. 7 oraz właściwych gwarancji."
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų tvarkymas pagrįstas duomenų subjekto sutikimu laikantis 7 straipsnyje nustatytų sąlygų ir taikant tinkamas apsaugos priemones."
+		},
+		{
+			"lang": "nl",
+			"text": "plaatsvindt op grond van de toestemming van de betrokkene, mits aan de voorwaarden van artikel 7 wordt voldaan en passende waarborgen worden geboden."
+		},
+		{
+			"lang": "sv",
+			"text": "grundar sig på den registrerades samtycke, på de villkor som fastställs i artikel 7 och under förutsättning att lämpliga skyddsåtgärder har införts."
+		}
+	],
+	"children": [],
+	"title": "Article 20 – Paragraph 2 – Point 3"
+}

@@ -1,0 +1,109 @@
+{
+	"id": "c2",
+	"type": "chapter",
+	"literal": "II",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "PRINCIPLES"
+		},
+		{
+			"lang": "de",
+			"text": "GRUNDSÄTZE"
+		},
+		{
+			"lang": "fr",
+			"text": "PRINCIPES"
+		},
+		{
+			"lang": "es",
+			"text": "PRINCIPIOS"
+		},
+		{
+			"lang": "pt",
+			"text": "PRINCÍPIOS"
+		},
+		{
+			"lang": "it",
+			"text": "PRINCIPI"
+		},
+		{
+			"lang": "ga",
+			"text": "PRIONSABAIL"
+		},
+		{
+			"lang": "cs",
+			"text": "ZÁSADY"
+		},
+		{
+			"lang": "da",
+			"text": "PRINCIPPER"
+		},
+		{
+			"lang": "et",
+			"text": "PÕHIMÕTTED"
+		},
+		{
+			"lang": "el",
+			"text": "ΑΡΧΕΣ"
+		},
+		{
+			"lang": "bg",
+			"text": "ПРИНЦИПИ"
+		},
+		{
+			"lang": "hu",
+			"text": "ALAPELVEK"
+		},
+		{
+			"lang": "mt",
+			"text": "PRINĊIPJI"
+		},
+		{
+			"lang": "lv",
+			"text": "PRINCIPI"
+		},
+		{
+			"lang": "ro",
+			"text": "PRINCIPII"
+		},
+		{
+			"lang": "sk",
+			"text": "ZÁSADY"
+		},
+		{
+			"lang": "sl",
+			"text": "NAČELA"
+		},
+		{
+			"lang": "fi",
+			"text": "PERIAATTEET"
+		},
+		{
+			"lang": "pl",
+			"text": "ZASADY"
+		},
+		{
+			"lang": "lt",
+			"text": "PRINCIPAI"
+		},
+		{
+			"lang": "nl",
+			"text": "BEGINSELEN"
+		},
+		{
+			"lang": "sv",
+			"text": "PRINCIPER"
+		}
+	],
+	"children": [
+		"a5",
+		"a6",
+		"a7",
+		"a8",
+		"a9",
+		"a10"
+	],
+	"title": "Chapter 2"
+}

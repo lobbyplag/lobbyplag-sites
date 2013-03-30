@@ -1,0 +1,107 @@
+{
+	"id": "a66",
+	"type": "article",
+	"literal": "66",
+	"parent": "c7s3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Tasks of the European Data Protection Board"
+		},
+		{
+			"lang": "de",
+			"text": "Aufgaben des Europäischen Datenschutzausschusses"
+		},
+		{
+			"lang": "fr",
+			"text": "Missions du comité européen de la protection des données"
+		},
+		{
+			"lang": "es",
+			"text": "Tareas del Consejo Europeo de Protección de Datos"
+		},
+		{
+			"lang": "pt",
+			"text": "Atribuições do Comité Europeu para a Proteção de Dados"
+		},
+		{
+			"lang": "it",
+			"text": "Compiti del comitato europeo per la protezione dei dati"
+		},
+		{
+			"lang": "ga",
+			"text": "Cúraimí an Bhoird Eorpaigh um Chosaint Sonraí"
+		},
+		{
+			"lang": "cs",
+			"text": "Úkoly Evropské rady pro ochranu údajů"
+		},
+		{
+			"lang": "da",
+			"text": "Det Europæiske Databeskyttelsesråds opgaver"
+		},
+		{
+			"lang": "et",
+			"text": "Euroopa Andmekaitsenõukogu ülesanded"
+		},
+		{
+			"lang": "el",
+			"text": "Καθήκοντα του Ευρωπαϊκού Συμβουλίου Προστασίας Δεδομένων"
+		},
+		{
+			"lang": "bg",
+			"text": "Задачи на Европейския комитет по защита на данните"
+		},
+		{
+			"lang": "hu",
+			"text": "Az Európai Adatvédelmi Testület feladatai"
+		},
+		{
+			"lang": "mt",
+			"text": "Kompiti tal-Bord Ewropew għall-Protezzjoni tad-Dejta"
+		},
+		{
+			"lang": "lv",
+			"text": "Eiropas Datu aizsardzības kolēģijas uzdevumi"
+		},
+		{
+			"lang": "ro",
+			"text": "Sarcinile Comitetului european pentru protecția datelor"
+		},
+		{
+			"lang": "sk",
+			"text": "Úlohy Európskeho výboru pre ochranu údajov"
+		},
+		{
+			"lang": "sl",
+			"text": "Naloge Evropskega odbora za varstvo podatkov"
+		},
+		{
+			"lang": "fi",
+			"text": "Euroopan tietosuojaneuvoston tehtävät"
+		},
+		{
+			"lang": "pl",
+			"text": "Zadania Europejskiej Rady Ochrony Danych"
+		},
+		{
+			"lang": "lt",
+			"text": "Europos duomenų apsaugos valdybos užduotys"
+		},
+		{
+			"lang": "nl",
+			"text": "Taken van het Europees Comité voor gegevensbescherming"
+		},
+		{
+			"lang": "sv",
+			"text": "Europeiska dataskyddsstyrelsens arbetsuppgifter"
+		}
+	],
+	"children": [
+		"a66p1",
+		"a66p2",
+		"a66p3",
+		"a66p4"
+	],
+	"title": "Article 66"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "a15p1i3",
+	"type": "point",
+	"literal": "c",
+	"parent": "a15p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the recipients or categories of recipients to whom the personal data are to be or have been disclosed, in particular to recipients in third countries;"
+		},
+		{
+			"lang": "de",
+			"text": "die Empfänger oder Kategorien von Empfängern, an die die personenbezogenen Daten weitergegeben werden müssen oder weitergegeben worden sind, speziell bei Empfängern in Drittländern,"
+		},
+		{
+			"lang": "fr",
+			"text": "les destinataires ou les catégories de destinataires auxquels les données à caractère personnel doivent être ou ont été communiquées, en particulier lorsque les destinataires sont établis dans des pays tiers;"
+		},
+		{
+			"lang": "es",
+			"text": "los destinatarios o las categorías de destinatarios a quienes van a comunicarse o han sido comunicados los datos personales, en particular los destinatarios establecidos en terceros países;"
+		},
+		{
+			"lang": "pt",
+			"text": "Destinatários ou categorias de destinatários a quem os dados pessoais serão ou foram divulgados, em especial quando os destinatários estão estabelecidos em países terceiros;"
+		},
+		{
+			"lang": "it",
+			"text": "i destinatari o le categorie di destinatari a cui i dati personali sono stati o saranno comunicati, in particolare se destinatari di paesi terzi;"
+		},
+		{
+			"lang": "ga",
+			"text": "na faighteoirí nó na catagóirí faighteoirí a nochtfar na sonraí pearsanta dóibh nó a nochtadh na sonraí pearsanta dóibh, go háirithe faighteoirí i dtríú tíortha;"
+		},
+		{
+			"lang": "cs",
+			"text": "informace o příjemcích nebo kategoriích příjemců, kterým mají být nebo byly osobní údaje zpřístupněny, zejména o příjemcích v třetích zemích;"
+		},
+		{
+			"lang": "da",
+			"text": "de modtagere eller kategorier af modtagere, som personoplysningerne videregives eller er blevet videregivet til, navnlig modtagere i tredjelande"
+		},
+		{
+			"lang": "et",
+			"text": "millistele või mis liiki vastuvõtjatele isikuandmeid avalikustatakse või on avalikustatud, eelkõige teave kolmandates riikides olevate vastuvõtjate kohta;"
+		},
+		{
+			"lang": "el",
+			"text": "γ) τους αποδέκτες ή τις κατηγορίες αποδεκτών στους οποίους πρόκειται να γνωστοποιηθούν ή γνωστοποιήθηκαν τα δεδομένα προσωπικού χαρακτήρα, ιδίως σε αποδέκτες σε τρίτες χώρες·"
+		},
+		{
+			"lang": "bg",
+			"text": "в) получателите или категориите получатели, пред които ще бъдат или са разкрити личните данни, по-специално получателите в трети държави;"
+		},
+		{
+			"lang": "hu",
+			"text": "a címzettek vagy a címzettek kategóriái, akik számára az adatokat ki kívánják adni vagy kiadták, ideértve különösen a harmadik országokbeli címzetteket;"
+		},
+		{
+			"lang": "mt",
+			"text": "ir-riċevituri jew kategoriji ta’ riċevituri li lilhom sejra tkun żvelata jew ġiet żvelata d-dejta personali, b’mod partikolari r-riċevituri f’pajjiżi terzi;"
+		},
+		{
+			"lang": "lv",
+			"text": "personas datu saņēmēji vai datu saņēmēju kategorijas, kam personas dati tiks vai tikuši izpausti, jo īpaši saņēmēji trešās valstīs;"
+		},
+		{
+			"lang": "ro",
+			"text": "destinatarii sau categoriile de destinatari cărora datele cu caracter personal urmează să le fie divulgate sau le-au fost divulgate, în special dacă destinatarii sunt din țări terțe;"
+		},
+		{
+			"lang": "sk",
+			"text": "príjemcov alebo kategórie príjemcov, ktorým osobné údaje majú byť alebo boli sprístupnené, najmä príjemcovia v tretích krajinách;"
+		},
+		{
+			"lang": "sl",
+			"text": "informacije o prejemnikih ali vrstah prejemnikov, ki jim bodo ali so jim bili posredovani osebni podatki, zlasti prejemnikih v tretjih državah;"
+		},
+		{
+			"lang": "fi",
+			"text": "vastaanottajat tai vastaanottajaryhmät, joille henkilötietoja on luovutettu tai on tarkoitus luovuttaa, erityisesti kolmansissa maissa olevat vastaanottajat;"
+		},
+		{
+			"lang": "pl",
+			"text": "odbiorcy lub kategorie odbiorców, którym dane osobowe mają być lub zostały ujawnione, w szczególności odbiorcy w państwach trzecich;"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų gavėjus, kuriems ketinama atskleisti asmens duomenis arba kuriems asmens duomenys buvo atskleisti, arba tokių gavėjų kategorijas, visų pirma duomenų gavėjus trečiosiose šalyse;"
+		},
+		{
+			"lang": "nl",
+			"text": "de ontvangers of categorieën ontvangers aan wie de gegevens moeten worden verstrekt of verstrekt zijn, met name ontvangers in derde landen;"
+		},
+		{
+			"lang": "sv",
+			"text": "De mottagare eller kategorier av mottagare till vilka personuppgifterna ska lämnas ut eller har lämnats ut, särskilt mottagare i tredjeländer."
+		}
+	],
+	"children": [],
+	"title": "Article 15 – Paragraph 1 – Point 3"
+}

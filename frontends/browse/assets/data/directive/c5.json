@@ -1,0 +1,109 @@
+{
+	"id": "c5",
+	"type": "chapter",
+	"literal": "V",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "TRANSFER OF PERSONAL DATA TO THIRD COUNTRIES OR INTERNATIONAL ORGANISATIONS"
+		},
+		{
+			"lang": "de",
+			"text": "ÜBERMITTLUNG PERSONENBEZOGENER DATEN IN DRITTLÄNDER ODER AN INTERNATIONALE ORGANISATIONEN"
+		},
+		{
+			"lang": "fr",
+			"text": "TRANSFERT DE DONNÉES À CARACTÈRE PERSONNEL VERS DES PAYS TIERS OU À DES ORGANISATIONS INTERNATIONALES"
+		},
+		{
+			"lang": "es",
+			"text": "TRANSFERENCIA DE DATOS PERSONALES A TERCEROS PAÍSES U ORGANIZACIONES INTERNACIONALES"
+		},
+		{
+			"lang": "pt",
+			"text": "TRANSFERÊNCIA DE DADOS PESSOAIS PARA PAÍSES TERCEIROS OU ORGANIZAÇÕES INTERNACIONAIS"
+		},
+		{
+			"lang": "it",
+			"text": "TRASFERIMENTO DI DATI PERSONALI VERSO PAESI TERZI O ORGANIZZAZIONI INTERNAZIONALI"
+		},
+		{
+			"lang": "ga",
+			"text": "SONRAÍ A AISTRIÚ GO TRÍÚ TÍORTHA NÓ GO hÉAGRAÍOCHTAÍ IDIRNÁISIÚNTA"
+		},
+		{
+			"lang": "cs",
+			"text": "PŘEDÁVÁNÍ OSOBNÍCH ÚDAJŮ DO TŘETÍCH ZEMÍ NEBO MEZINÁRODNÍM ORGANIZACÍM"
+		},
+		{
+			"lang": "da",
+			"text": "VIDEREGIVELSE AF PERSONOPLYSNINGER TIL TREDJELANDE ELLER INTERNATIONALE ORGANISATIONER"
+		},
+		{
+			"lang": "et",
+			"text": "ISIKUANDMETE EDASTAMINE KOLMANDATELE RIIKIDELE JA RAHVUSVAHELISTELE ORGANISATSIOONIDELE"
+		},
+		{
+			"lang": "el",
+			"text": "ΔΙΑΒΙΒΑΣΗ ΔΕΔΟΜΕΝΩΝ ΠΡΟΣΩΠΙΚΟΥ ΧΑΡΑΚΤΗΡΑ ΣΕ ΤΡΙΤΕΣ ΧΩΡΕΣ Ή ΔΙΕΘΝΕΙΣ ΟΡΓΑΝΙΣΜΟΥΣ"
+		},
+		{
+			"lang": "bg",
+			"text": "ПРЕДАВАНЕ НА ЛИЧНИ ДАННИ НА ТРЕТИ ДЪРЖАВИ ИЛИ МЕЖДУНАРОДНИ ОРГАНИЗАЦИИ"
+		},
+		{
+			"lang": "hu",
+			"text": "A SZEMÉLYES ADATOK HARMADIK ORSZÁGOKBA VAGY NEMZETKÖZI SZERVEZETEK RÉSZÉRE TÖRTÉNŐ TOVÁBBÍTÁSA"
+		},
+		{
+			"lang": "mt",
+			"text": "TRASFERIMENT TA’ DEJTA PERSONALI LIL PAJJIŻI TERZI JEW LIL ORGANIZZAZZJONIJIET INTERNAZZJONALI"
+		},
+		{
+			"lang": "lv",
+			"text": "PERSONAS DATU NOSŪTĪŠANA UZ TREŠĀM VALSTĪM VAI STARPTAUTISKĀM ORGANIZĀCIJĀM"
+		},
+		{
+			"lang": "ro",
+			"text": "TRANSFERUL DATELOR CU CARACTER PERSONAL CĂTRE ȚĂRI TERȚE SAU ORGANIZAȚII INTERNAȚIONALE"
+		},
+		{
+			"lang": "sk",
+			"text": "PRENOS OSOBNÝCH ÚDAJOV DO TRETÍCH KRAJÍN ALEBO MEDZINÁRODNÝM ORGANIZÁCIÁM"
+		},
+		{
+			"lang": "sl",
+			"text": "PRENOS OSEBNIH PODATKOV V TRETJE DRŽAVE ALI MEDNARODNE ORGANIZACIJE"
+		},
+		{
+			"lang": "fi",
+			"text": "HENKILÖTIETOJEN SIIRTO KOLMANSIIN MAIHIN TAI KANSAINVÄLISILLE JÄRJESTÖILLE"
+		},
+		{
+			"lang": "pl",
+			"text": "PRZEKAZYWANIE DANYCH OSOBOWYCH DO PAŃSTW TRZECICH LUB ORGANIZACJI MIĘDZYNARODOWYCH"
+		},
+		{
+			"lang": "lt",
+			"text": "ASMENS DUOMENŲ PERDAVIMAS Į TREČIĄSIAS ŠALIS ARBA TARPTAUTINĖMS ORGANIZACIJOMS"
+		},
+		{
+			"lang": "nl",
+			"text": "DOORGIFTE VAN PERSOONSGEGEVENS NAAR DERDE LANDEN OF INTERNATIONALE ORGANISATIES"
+		},
+		{
+			"lang": "sv",
+			"text": "ÖVERFÖRING AV PERSONUPPGIFTER TILL TREDJELÄNDER ELLER INTERNATIONELLA ORGANISATIONER"
+		}
+	],
+	"children": [
+		"a40",
+		"a41",
+		"a42",
+		"a43",
+		"a44",
+		"a45"
+	],
+	"title": "Chapter 5"
+}

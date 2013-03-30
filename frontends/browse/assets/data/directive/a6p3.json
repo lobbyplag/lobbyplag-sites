@@ -1,0 +1,106 @@
+{
+	"id": "a6p3",
+	"type": "paragraph",
+	"literal": "3",
+	"parent": "a6",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The basis of the processing referred to in points (c) and (e) of paragraph 1 must be provided for in:"
+		},
+		{
+			"lang": "de",
+			"text": "Die Verarbeitungen gemäß Absatz 1 Buchstaben c und e müssen eine Rechtsgrundlage haben im"
+		},
+		{
+			"lang": "fr",
+			"text": "Le fondement juridique du traitement visé au paragraphe 1, points c) et e), doit être prévu dans:"
+		},
+		{
+			"lang": "es",
+			"text": "El fundamento jurídico del tratamiento contemplado en el apartado 1, letras c) y e), se habrá de establecer en:"
+		},
+		{
+			"lang": "pt",
+			"text": "O fundamento jurídico do tratamento referido no n.º 1, alíneas c) e e), deve ser previsto:"
+		},
+		{
+			"lang": "it",
+			"text": "La base su cui si fonda il trattamento dati di cui al paragrafo 1, lettere c) ed e), deve essere prevista:"
+		},
+		{
+			"lang": "ga",
+			"text": "Ní mór foráil a dhéanamh i gceann de na dlíthe seo a leanas maidir le bunús na próiseála dá dtagraítear i bpointí (c) agus (e) de mhír 1:"
+		},
+		{
+			"lang": "cs",
+			"text": "Právní základ pro zpracování údajů podle odst. 1 písm. c) a e) musí být stanoven:"
+		},
+		{
+			"lang": "da",
+			"text": "Behandling, jf. stk. 1, litra c) og e), skal være omhandlet i:"
+		},
+		{
+			"lang": "et",
+			"text": "Lõike 1 punktides c ja e osutatud töötlemise alus peab olema ette nähtud:"
+		},
+		{
+			"lang": "el",
+			"text": "Η βάση της επεξεργασίας που αναφέρεται στην παράγραφο 1 στοιχεία γ) και ε) πρέπει να προβλέπεται:"
+		},
+		{
+			"lang": "bg",
+			"text": "Основанието за обработването, посочено в параграф 1, букви в) и д), трябва да бъде предвидено в:"
+		},
+		{
+			"lang": "hu",
+			"text": "Az (1) bekezdés c) és e) pontja szerinti adatfeldolgozás alapjáról:"
+		},
+		{
+			"lang": "mt",
+			"text": "Il-bażi tal-ipproċessar imsemmi fil-punti (c) u (e) tal-paragrafu 1 għandu jkun ipprovdut:"
+		},
+		{
+			"lang": "lv",
+			"text": "Apstrādes, kas minēta 1. punkta c) un e) apakšpunktā, pamatu ir jāparedz:"
+		},
+		{
+			"lang": "ro",
+			"text": "Temeiul juridic pentru prelucrarea menționată la alineatul (1) literele (c) și (e) trebuie să fie prevăzut în:"
+		},
+		{
+			"lang": "sk",
+			"text": "Základ spracovania uvedený v odseku 1 písm. c) a e) musí byť upravený:"
+		},
+		{
+			"lang": "sl",
+			"text": "Podlaga za obdelavo iz točk (c) in (e) odstavka 1 mora biti določena v:"
+		},
+		{
+			"lang": "fi",
+			"text": "Edellä olevan 1 kohdan c ja e alakohdassa tarkoitetun käsittelyn perusteista on säädettävä"
+		},
+		{
+			"lang": "pl",
+			"text": "Podstawa przetwarzania, o której mowa w ust. 1 lit. c) i e), musi być przewidziana w:"
+		},
+		{
+			"lang": "lt",
+			"text": "1 dalies c–e punktuose nurodytas asmenų tvarkymo pagrindas turi būti įtvirtintas:"
+		},
+		{
+			"lang": "nl",
+			"text": "In de grondslag voor de in lid 1, onder c) en e), bedoelde verwerking moet worden voorzien in:"
+		},
+		{
+			"lang": "sv",
+			"text": "Den grund för behandlingen som avses i punkt 1 c och e ska föreskrivas i"
+		}
+	],
+	"children": [
+		"a6p3i1",
+		"a6p3i2",
+		"a6p3t1"
+	],
+	"title": "Article 6 – Paragraph 3"
+}

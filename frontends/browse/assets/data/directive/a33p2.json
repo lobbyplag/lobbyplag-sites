@@ -1,0 +1,108 @@
+{
+	"id": "a33p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a33",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The following processing operations in particular present specific risks referred to in paragraph 1:"
+		},
+		{
+			"lang": "de",
+			"text": "Die in Absatz 1 genannten Risiken bestehen insbesondere bei folgenden Verarbeitungsvorgängen:"
+		},
+		{
+			"lang": "fr",
+			"text": "Les traitements présentant les risques particuliers visés au paragraphe 1 sont notamment les suivants:"
+		},
+		{
+			"lang": "es",
+			"text": "Las siguientes operaciones de tratamiento, en particular, entrañan los riesgos específicos contemplados en el apartado 1:"
+		},
+		{
+			"lang": "pt",
+			"text": "As seguintes operações de tratamento, em especial, apresentam os riscos específicos referidos no n.º 1:"
+		},
+		{
+			"lang": "it",
+			"text": "Presentano rischi specifici ai sensi del paragrafo 1 in particolare i seguenti trattamenti:"
+		},
+		{
+			"lang": "ga",
+			"text": "Tá na rioscaí sonracha dá dtagraítear i mír 1 ag baint leis na hoibríochtaí próiseála seo a leanas go háirithe:"
+		},
+		{
+			"lang": "cs",
+			"text": "Specifická rizika uvedená v odstavci 1 jsou spojena zejména s těmito zpracováními:"
+		},
+		{
+			"lang": "da",
+			"text": "Følgende former for behandling kan indebære de i stk. 1 omhandlede specifikke risici:"
+		},
+		{
+			"lang": "et",
+			"text": "Lõikes 1 osutatud ohtu kujutavad endast eelkõige järgmised töötlemistoimingud:"
+		},
+		{
+			"lang": "el",
+			"text": "Οι ακόλουθες πράξεις επεξεργασίας ειδικότερα ενέχουν τους συγκεκριμένους κινδύνους που αναφέρονται στην παράγραφο 1:"
+		},
+		{
+			"lang": "bg",
+			"text": "Конкретните рискове, посочени в параграф 1, се създават по-специално при следните операции по обработване:"
+		},
+		{
+			"lang": "hu",
+			"text": "Az (1) bekezdés szerinti különleges kockázatokat különösen a következő feldolgozási műveletek jelentik:"
+		},
+		{
+			"lang": "mt",
+			"text": "L-operazzjonijiet ta’ pproċessar li ġejjin b’mod partikolari jippreżentaw dawn ir-riskji speċifiċi msemmija fil-paragrafu 1:"
+		},
+		{
+			"lang": "lv",
+			"text": "Īpašo apdraudējumu, kas minēts 1. punktā, jo īpaši izraisa šādas apstrādes darbības:"
+		},
+		{
+			"lang": "ro",
+			"text": "Următoarele operațiuni de prelucrare prezintă în special riscurile specifice la care se face referire la alineatul (1):"
+		},
+		{
+			"lang": "sk",
+			"text": "Osobitné riziká v zmysle odseku 1 predstavujú najmä tieto operácie spracovania:"
+		},
+		{
+			"lang": "sl",
+			"text": "Posebne nevarnosti iz odstavka 1 predstavljajo zlasti naslednji postopki obdelave:"
+		},
+		{
+			"lang": "fi",
+			"text": "Edellä 1 kohdassa tarkoitettuja erityisiä riskejä voi liittyä erityisesti seuraaviin käsittelytoimiin:"
+		},
+		{
+			"lang": "pl",
+			"text": "Szczególne ryzyko, o którym mowa w ust. 1, stwarzają w szczególności następujące operacje przetwarzania:"
+		},
+		{
+			"lang": "lt",
+			"text": "1 dalyje nurodyta konkreti rizika kyla visų pirma atliekant šias duomenų tvarkymo operacijas:"
+		},
+		{
+			"lang": "nl",
+			"text": "Met name de volgende verwerkingen houden de in lid 1 bedoelde specifieke risico’s in:"
+		},
+		{
+			"lang": "sv",
+			"text": "I synnerhet följande typer av behandling medför sådana särskilda risker som avses i punkt 1:"
+		}
+	],
+	"children": [
+		"a33p2i1",
+		"a33p2i2",
+		"a33p2i3",
+		"a33p2i4",
+		"a33p2i5"
+	],
+	"title": "Article 33 – Paragraph 2"
+}

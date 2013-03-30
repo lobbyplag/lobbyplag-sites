@@ -1,0 +1,102 @@
+{
+	"id": "a35p3",
+	"type": "paragraph",
+	"literal": "3",
+	"parent": "a35",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Where the controller or the processor is a public authority or body, the data protection officer may be designated for several of its entities, taking account of the organisational structure of the public authority or body."
+		},
+		{
+			"lang": "de",
+			"text": "Falls es sich bei dem für die Verarbeitung Verantwortlichen oder dem Auftragsverarbeiter um eine Behörde oder um eine öffentliche Einrichtung handelt, kann der Datenschutzbeauftragte unter Berücksichtigung der Struktur der Behörde beziehungsweise der öffentlichen Einrichtung für mehrere Bereiche benannt werden."
+		},
+		{
+			"lang": "fr",
+			"text": "Lorsque le responsable du traitement ou le sous‑traitant est une autorité ou un organisme publics, le délégué à la protection des données peut être désigné pour plusieurs de ses entités, compte tenu de la structure organisationnelle de l'autorité ou de l'organisme publics."
+		},
+		{
+			"lang": "es",
+			"text": "Cuando el responsable o el encargado del tratamiento sea una autoridad u organismo públicos, el delegado de protección de datos podrá ser designado para varias de sus entidades, teniendo en cuenta la estructura organizativa de la autoridad u organismo públicos."
+		},
+		{
+			"lang": "pt",
+			"text": "Sempre que o responsável pelo tratamento ou o subcontratante for uma autoridade ou um organismo público, o delegado para a proteção de dados pode ser designado para várias das suas entidades, atendendo à estrutura organizacional da autoridade ou do organismo público."
+		},
+		{
+			"lang": "it",
+			"text": "Qualora il responsabile del trattamento o l’incaricato del trattamento sia un’autorità pubblica o un organismo pubblico, il responsabile della protezione dei dati può essere designato per più enti, tenuto conto della struttura organizzativa dell’autorità pubblica o dell’organismo pubblico."
+		},
+		{
+			"lang": "ga",
+			"text": "I gcás inar údarás nó comhlacht poiblí é an rialaitheoir nó an próiseálaí, féadfar an t‑oifigeach cosanta sonraí a cheapadh do roinnt eintiteas de chuid an údaráis nó an chomhlachta sin, ag cur struchtúr eagraíochtúil an údaráis nó an chomhlachta phoiblí san áireamh."
+		},
+		{
+			"lang": "cs",
+			"text": "Je-li správce nebo zpracovatel orgánem veřejné moci či veřejnoprávním subjektem, inspektor ochrany údajů může být s přihlédnutím k organizační struktuře daného orgánu veřejné moci či veřejnoprávního subjektu jmenován pro několik jeho organizačních jednotek."
+		},
+		{
+			"lang": "da",
+			"text": "Hvis den registeransvarlige eller registerføreren er en offentlig myndighed eller et offentligt organ, kan den databeskyttelsesansvarlige udpeges for flere enheder i overensstemmelse med den offentlige myndigheds eller det offentlige organs struktur."
+		},
+		{
+			"lang": "et",
+			"text": "Kui vastutav töötleja või volitatud töötleja on avaliku sektori asutus või organ, võib mitme üksuse jaoks määrata ühe andmekaitseametniku olenevalt avaliku sektori asutuse või organi organisatsioonilisest struktuurist."
+		},
+		{
+			"lang": "el",
+			"text": "Εάν ο υπεύθυνος επεξεργασίας ή ο εκτελών την επεξεργασία είναι δημόσια αρχή ή δημόσιος φορέας, ο υπεύθυνος προστασίας δεδομένων μπορεί να ορίζεται για περισσότερες από τις οντότητές της (του), λαμβάνοντας υπόψη την οργανωτική δομή της δημόσιας αρχής ή του δημόσιου φορέα."
+		},
+		{
+			"lang": "bg",
+			"text": "Когато администраторът или обработващият лични данни е обществен орган или структура, длъжностното лице по защита на данните може да бъде назначено да отговаря за няколко от неговите звена, като се отчита организационната структура на обществения орган или структура."
+		},
+		{
+			"lang": "hu",
+			"text": "Amennyiben az adatkezelő vagy az adatfeldolgozó hatóság vagy állami szerv, az adatvédelmi tisztviselő több ilyen jogalany számára is kijelölhető, figyelemmel a hatóság vagy állami szerv szervezeti felépítésére."
+		},
+		{
+			"lang": "mt",
+			"text": "Meta l-kontrollur jew il-proċessur huwa awtorità jew korp pubbliku, l-uffiċjal tal-protezzjoni tad-dejta jista’ jinħatar għal diversi mill-entitajiet tagħha, filwaqt li jittieħed kont tal-istruttura organizzativa tal-awtorità jew il-korp pubbliku."
+		},
+		{
+			"lang": "lv",
+			"text": "Ja pārzinis vai apstrādātājs ir valsts iestāde vai struktūra, datu aizsardzības inspektoru var iecelt vairākām tās vienībām, ņemot vērā valsts iestādes vai struktūras organizatorisko uzbūvi."
+		},
+		{
+			"lang": "ro",
+			"text": "În cazul în care operatorul sau persoana împuternicită de către operator este o autoritate sau un organism public, responsabilul cu protecția datelor poate fi desemnat pentru mai multe dintre entitățile sale, luând în considerare structura organizatorică a autorității sau a organismului public."
+		},
+		{
+			"lang": "sk",
+			"text": "Ak je prevádzkovateľom alebo sprostredkovateľom verejný orgán alebo subjekt, úradník pre ochranu údajov môže byť určený pre viaceré ich podriadené zložky podľa danej štruktúry verejného orgánu alebo subjektu."
+		},
+		{
+			"lang": "sl",
+			"text": "Kadar je upravljavec ali obdelovalec javni organ, je lahko uradna oseba za varstvo podatkov ob upoštevanju organizacijske strukture javnega organa imenovana za več njegovih subjektov."
+		},
+		{
+			"lang": "fi",
+			"text": "Jos rekisterinpitäjä tai henkilötietojen käsittelijä on viranomainen tai julkishallinnon elin, tietosuojavastaava voidaan nimittää sen useampaa yksikköä varten, kyseisen viranomaisen tai elimen organisaatiorakenne huomioon ottaen."
+		},
+		{
+			"lang": "pl",
+			"text": "Jeśli administrator lub podmiot przetwarzający są organem lub podmiotem publicznym, inspektor ochrony danych może być wyznaczony dla szeregu jego jednostek organizacyjnych, z uwzględnieniem struktury organizacyjnej organu lub podmiotu publicznego."
+		},
+		{
+			"lang": "lt",
+			"text": "Jeigu duomenų valdytojas arba duomenų tvarkytojas yra valdžios institucija ar įstaiga, duomenų apsaugos pareigūnas gali būti skiriamas keliems jai priklausantiems subjektams, atsižvelgiant į tos valdžios institucijos ar įstaigos organizacinę struktūrą."
+		},
+		{
+			"lang": "nl",
+			"text": "Wanneer de voor de verwerking verantwoordelijke of de verwerker een overheidsinstantie of –orgaan is, kan de functionaris voor gegevensbescherming voor verschillende entiteiten van die instantie of dat orgaan worden aangewezen, met inachtneming van de organisatiestructuur van de overheidsinstantie of het overheidsorgaan."
+		},
+		{
+			"lang": "sv",
+			"text": "Om den registeransvarige och registerföraren är en offentlig myndighet eller ett offentligt organ, får uppgiftsskyddsombudet utnämnas för flera av dess enheter, med hänsyn till den offentliga myndighetens eller det offentliga organets struktur."
+		}
+	],
+	"children": [],
+	"title": "Article 35 – Paragraph 3"
+}

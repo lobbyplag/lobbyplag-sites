@@ -1,0 +1,102 @@
+{
+	"id": "r9",
+	"type": "recital",
+	"literal": "9",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Effective protection of personal data throughout the Union requires strengthening and detailing the rights of data subjects and the obligations of those who process and determine the processing of personal data, but also equivalent powers for monitoring and ensuring compliance with the rules for the protection of personal data and equivalent sanctions for offenders in the Member States."
+		},
+		{
+			"lang": "de",
+			"text": "Ein unionsweiter wirksamer Schutz personenbezogener Daten erfordert eine Stärkung und Präzisierung der Rechte der betroffenen Personen sowie eine Verschärfung der Auflagen für diejenigen, die personenbezogene Daten verarbeiten und darüber entscheiden, aber ebenso gleiche Befugnisse der Mitgliedstaaten bei der Überwachung und Gewährleistung der Einhaltung der Vorschriften zum Schutz personenbezogener Daten sowie gleiche Sanktionen im Falle ihrer Verletzung."
+		},
+		{
+			"lang": "fr",
+			"text": "Une protection effective des données à caractère personnel dans toute l'Union exige non seulement de renforcer et de préciser les droits des personnes concernées, ainsi que les obligations de ceux qui effectuent ou déterminent le traitement des données à caractère personnel, mais aussi de conférer, dans les États membres, des pouvoirs équivalents de surveillance et de contrôle de l'application des règles relatives à la protection des données à caractère personnel, et de prévoir des sanctions équivalentes pour les contrevenants."
+		},
+		{
+			"lang": "es",
+			"text": "La protección efectiva de los datos personales en la Unión no solo requiere que se refuercen y detallen los derechos de los interesados y las obligaciones de quienes tratan y determinan el tratamiento de los datos de carácter personal, sino también que se otorguen poderes equivalentes para supervisar y garantizar el cumplimiento de las normas relativas a la protección de los datos de carácter personal y se impongan sanciones equivalentes a los infractores en los Estados miembros."
+		},
+		{
+			"lang": "pt",
+			"text": "Uma proteção eficaz dos dados pessoais na União exige não só o reforço e a especificação dos direitos dos titulares de dados e das obrigações dos responsáveis pelo tratamento e definição do tratamento de dados pessoais, mas também poderes equivalentes para controlar e assegurar a conformidade das regras de proteção dos dados pessoais e sanções equivalentes para os infratores nos Estados‑Membros."
+		},
+		{
+			"lang": "it",
+			"text": "Ai fini di un’efficace protezione dei dati personali in tutta l’Unione è necessario rafforzare e precisare i diritti degli interessati e gli obblighi di coloro che effettuano e determinano il trattamento dei dati, dotare gli Stati membri di poteri equivalenti per monitorare e garantire il rispetto delle norme di protezione dei dati personali, e prevedere sanzioni equivalenti per i trasgressori."
+		},
+		{
+			"lang": "ga",
+			"text": "D’fhonn sonraí pearsanta a chosaint go héifeachtach ar fud an Aontais, ní mór cearta na ndaoine is ábhar do na sonraí agus oibleagáidí iad siúd a dhéanann sonraí pearsanta a phróiseáil, nó a chinneann an phróiseáil sin a dhéanamh, a neartú agus a mhionsonrú. Tá gá freisin, áfach, le cumhachtaí coibhéiseacha chun faireachán a dhéanamh agus chun a áirithiú go gcomhlíontar na rialacha maidir le cosaint sonraí pearsanta, agus gá le smachtbhannaí coibhéiseacha dóibh siúd nach gcomhlíonann na rialacha sin sna Ballstáit."
+		},
+		{
+			"lang": "cs",
+			"text": "Účinná ochrana osobních údajů v celé Unii vyžaduje posílení a upřesnění práv subjektů údajů a povinností těch, kteří zpracovávají osobní údaje a určují způsob jejich zpracování, ale také stejné pravomoci členských států při sledování a zajišťování souladu s pravidly ochrany osobních údajů a stejné sankce za jejich porušování."
+		},
+		{
+			"lang": "da",
+			"text": "For at sikre en effektiv beskyttelse af personoplysninger i Unionen er det nødvendigt at styrke og præcisere de registreredes rettigheder og de forpligtelser, der påhviler dem, der behandler og træffer afgørelse om behandling af personoplysninger, men der skal også gives tilsvarende beføjelser til at kontrollere og sikre overholdelse af reglerne om beskyttelse af personoplysninger og indføres tilsvarende sanktioner over for dem, som ikke overholder bestemmelserne i medlemsstaterne."
+		},
+		{
+			"lang": "et",
+			"text": "Tõhusaks isikuandmete kaitseks terves ELis tuleks tugevdada ja täpsustada andmesubjektide õigusi ning isikuandmete töötlejate ja selle üle otsustajate kohustusi, aga ka nendele vastavaid volitusi isikuandmete kaitse eeskirjade järgimise kontrollimisel ja tagamisel ning rikkujatele määratavaid karistusi liikmesriikides."
+		},
+		{
+			"lang": "el",
+			"text": "Η ουσιαστική προστασία των δεδομένων προσωπικού χαρακτήρα σε ολόκληρη την Ένωση απαιτεί την ενίσχυση και τη λεπτομερή περιγραφή των δικαιωμάτων των προσώπων στα οποία αναφέρονται τα δεδομένα, καθώς και των υποχρεώσεων εκείνων που επεξεργάζονται και καθορίζουν την επεξεργασία δεδομένων προσωπικού χαρακτήρα, αλλά επίσης αντίστοιχες εξουσίες παρακολούθησης και διασφάλισης της συμμόρφωσης προς τους κανόνες προστασίας των δεδομένων προσωπικού χαρακτήρα και αντίστοιχες κυρώσεις για τους παραβάτες στα κράτη μέλη."
+		},
+		{
+			"lang": "bg",
+			"text": "Ефективната защита на личните данни в рамките на Съюза изисква укрепване и подробно описание на правата на субектите на данните и задълженията на онези, които обработват и определят обработването на личните данни, но също и еквивалентни правомощия за наблюдение и гарантиране на спазването на правилата за защита на личните данни, както и еквивалентни санкции за нарушителите в държавите-членки."
+		},
+		{
+			"lang": "hu",
+			"text": "A személyes adatoknak az Unió egész területén biztosított hatékony védelme megköveteli az érdekeltek jogainak, valamint a személyes adatok feldolgozását végző és a feldolgozást meghatározó személyek kötelezettségeinek megszilárdítását és részletes meghatározását, de ugyanakkor azt is, hogy a személyes adatok védelmére vonatkozó szabályok betartásának ellenőrzését és biztosítását azonos hatáskörben és a jogsértőkre azonos szankciót kiszabva lássák el a tagállamokban."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-protezzjoni effettiva tad-dejta personali fl-Unjoni kollha teħtieġ it-tisħiħ u l-ispeċifikar tad-drittijiet tas-suġġetti tad-dejta u l-obbligi ta’ dawk li jipproċessaw u jiddeterminaw l-ipproċessar ta’ dejta personali, iżda wkoll setgħat ugwali għall-monitoraġġ u l-iżgurar tal-konformità mar-regoli għall-protezzjoni ta’ dejta personali u sanzjonijiet ugwali għat-trasgressuri fl-Istati Membri."
+		},
+		{
+			"lang": "lv",
+			"text": "Lai personas datu aizsardzība visā Savienībā būtu efektīva, nepieciešams stiprināt un precizēt datu subjektu tiesības un to personu pienākumus, kas apstrādā personas datus un nosaka to apstrādi, turklāt nepieciešams piešķirt arī atbilstošas pilnvaras uzraudzīt un nodrošināt personas datu aizsardzības noteikumu ievērošanu un noteikt atbilstošas sankcijas pārkāpējiem dalībvalstīs."
+		},
+		{
+			"lang": "ro",
+			"text": "Protecția efectivă a datelor cu caracter personal în întreaga Uniune necesită nu numai consolidarea și detalierea drepturilor persoanelor vizate și a obligațiilor celor care prelucrează și decid prelucrarea datelor cu caracter personal, ci și competențe echivalente pentru monitorizarea și asigurarea conformității cu normele de protecție a datelor cu caracter personal și sancțiuni echivalente pentru autorii infracțiunilor în statele membre."
+		},
+		{
+			"lang": "sk",
+			"text": "Účinná ochrana osobných údajov v rámci Únie si vyžaduje posilnenie a spresnenie práv dotknutých osôb a povinností tých, ktorí osobné údaje spracúvajú a o ich spracovaní rozhodujú, no vyžaduje si aj zodpovedajúce právomoci na monitorovanie a zabezpečenie súladu s pravidlami ochrany osobných údajov a zodpovedajúce sankcie voči tým, ktorí v členských štátoch tieto pravidlá porušujú."
+		},
+		{
+			"lang": "sl",
+			"text": "Za učinkovito varstvo osebnih podatkov v Uniji je treba okrepiti in podrobneje opredeliti pravice posameznikov, na katere se nanašajo osebni podatki, ter obveznosti tistih, ki obdelujejo osebne podatke in določajo postopke obdelave, pa tudi enakovredna pooblastila za spremljanje in zagotavljanje skladnosti s pravili varstva osebnih podatkov ter enake sankcije za kršitelje v državah članicah."
+		},
+		{
+			"lang": "fi",
+			"text": "Jotta henkilötietoja voidaan suojata tehokkaasti kaikkialla unionissa, on vahvistettava ja täsmennettävä rekisteröidyn oikeuksia ja henkilötietoja käsittelevien ja niiden käsittelystä päättävien velvollisuuksia. Samalla on varmistettava samantasoiset valtuudet seurata ja varmistaa henkilötietojen suojelua koskevien sääntöjen noudattaminen ja sääntöjen rikkomiseen syyllistyneille samantasoiset seuraamukset jäsenvaltioissa."
+		},
+		{
+			"lang": "pl",
+			"text": "Skuteczna ochrona danych osobowych w całej Unii wymaga wzmocnienia i doprecyzowania praw podmiotów danych oraz obowiązków podmiotów, które przetwarzają dane osobowe i kierują tym procesem, lecz także równorzędnych uprawnień w zakresie monitorowania i zapewnienia zgodności z przepisami w zakresie ochrony danych osobowych oraz równorzędnych sankcji wobec osób naruszających te przepisy w państwach członkowskich."
+		},
+		{
+			"lang": "lt",
+			"text": "siekiant veiksmingos asmens duomenų apsaugos visoje Sąjungoje, reikia ne tik sustiprinti ir patikslinti duomenų subjektų teises ir asmens duomenis tvarkančių ir su jų tvarkymu susijusius sprendimus priimančių subjektų pareigas, bet ir nustatyti lygiaverčius priežiūros įgaliojimus valstybėse narėse ir užtikrinti, kad būtų laikomasi asmens duomenų apsaugos taisyklių, o pažeidėjams taikomos lygiavertės sankcijos;"
+		},
+		{
+			"lang": "nl",
+			"text": "Doeltreffende bescherming van persoonsgegevens in de gehele Unie vereist versterking en nadere vaststelling van de rechten van de betrokkenen en de verplichtingen van degenen die persoonsgegevens verwerken en van degenen die over die verwerking beslissen, maar ook vergelijkbare bevoegdheden inzake toezicht en handhaving van de voorschriften inzake gegevensbescherming en vergelijkbare sancties voor overtreders in de lidstaten."
+		},
+		{
+			"lang": "sv",
+			"text": "Ett effektivt skydd av personuppgifter över hela unionen förutsätter att de registrerades rättigheter förstärks och specificeras och att de registeransvarigas och registerförarnas skyldigheter vid behandling av personuppgifter klargörs, men också att det finns likvärdiga befogenheter för övervakning och ser till att reglerna för skyddet av personuppgifter efterlevs och att påföljderna är likvärdiga i medlemsstaterna."
+		}
+	],
+	"children": [],
+	"title": "Recital 9"
+}

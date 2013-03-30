@@ -1,0 +1,102 @@
+{
+	"id": "a18p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a18",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The data subject shall have the right, where personal data are processed by electronic means and in a structured and commonly used format, to obtain from the controller a copy of data undergoing processing in an electronic and structured format which is commonly used and allows for further use by the data subject."
+		},
+		{
+			"lang": "de",
+			"text": "Werden personenbezogene Daten elektronisch in einem strukturierten gängigen elektronischen Format verarbeitet, hat die betroffene Person das Recht, von dem für die Verarbeitung Verantwortlichen eine Kopie der verarbeiteten Daten in einem von ihr weiter verwendbaren strukturierten gängigen elektronischen Format zu verlangen."
+		},
+		{
+			"lang": "fr",
+			"text": "Lorsque des données à caractère personnel font l'objet d'un traitement automatisé dans un format structuré et couramment utilisé, la personne concernée a le droit d'obtenir auprès du responsable du traitement une copie des données faisant l'objet du traitement automatisé dans un format électronique structuré qui est couramment utilisé et qui permet la réutilisation de ces données par la personne concernée."
+		},
+		{
+			"lang": "es",
+			"text": "Cuando se traten datos personales por vía electrónica en un formato estructurado y comúnmente utilizado, el interesado tendrá derecho a obtener del responsable del tratamiento una copia de los datos objeto de tratamiento en un formato electrónico estructurado y comúnmente utilizado que le permita seguir utilizándolos."
+		},
+		{
+			"lang": "pt",
+			"text": "Sempre que os dados pessoais forem objeto de tratamento eletrónico num formato estruturado e de utilização corrente, o titular dos dados tem o direito de obter do responsável pelo tratamento uma cópia dos dados sujeitos a tratamento sob um formato eletrónico e estruturado de utilização corrente e que permita utilização posterior pela pessoa em causa."
+		},
+		{
+			"lang": "it",
+			"text": "L’interessato ha il diritto, ove i dati personali siano trattati con mezzi elettronici e in un formato strutturato e di uso comune, di ottenere dal responsabile del trattamento copia dei dati trattati in un formato elettronico e strutturato che sia di uso comune e gli consenta di farne ulteriore uso."
+		},
+		{
+			"lang": "ga",
+			"text": "I gcás ina ndéantar sonraí pearsanta a phróiseáil trí mhodhanna leictreonacha agus i bhformáid struchtúrtha atá i ngnáthúsáid, beidh sé de cheart an duine is ábhar do na sonraí cóip de na sonraí atá á bpróiseáil a fháil ón rialaitheoir i bhformáid leictreonach struchtúrtha atá i ngnáthúsáid agus a fhágann go bhféadfaidh an duine is ábhar do na sonraí iad a úsáid arís."
+		},
+		{
+			"lang": "cs",
+			"text": "Pokud se osobní údaje zpracovávají elektronicky a ve strukturovaném a běžně používaném formátu, má subjekt údajů právo získat od správce kopii zpracovávaných údajů elektronicky a ve strukturovaném a běžně používaném formátu, který umožňuje jejich další využití subjektem údajů."
+		},
+		{
+			"lang": "da",
+			"text": "Den registrerede har, når personoplysninger behandles elektronisk og i et struktureret og almindeligt anvendt format, ret til af den registeransvarlige at få en kopi af oplysninger, der er genstand for behandling, i et almindeligt anvendt elektronisk og struktureret format, som den registrerede kan anvende senere."
+		},
+		{
+			"lang": "et",
+			"text": "Struktureeritud ja üldkasutatavas vormingus olevate isikuandmete elektroonilise töötlemise korral on andmesubjektil õigus saada vastutavalt töötlejalt töödeldavate andmete elektrooniline struktureeritud ja üldkasutatavas vormingus koopia, mida andmesubjekt saab omakorda kasutada."
+		},
+		{
+			"lang": "el",
+			"text": "Το πρόσωπο στο οποίο αναφέρονται τα δεδομένα δικαιούται, εάν τα δεδομένα προσωπικού χαρακτήρα υποβάλλονται σε επεξεργασία με ηλεκτρονικά μέσα και με δομημένο και συνήθως χρησιμοποιούμενο μορφότυπο, να εξασφαλίσει από τον υπεύθυνο επεξεργασίας αντίγραφο των δεδομένων που υποβάλλονται σε επεξεργασία, σε ηλεκτρονικό και δομημένο μορφότυπο συνήθους χρήσης ο οποίος επιτρέπει την περαιτέρω χρήση από το πρόσωπο στο οποίο αναφέρονται τα δεδομένα."
+		},
+		{
+			"lang": "bg",
+			"text": "Субектът на данни има право, когато личните данни се обработват с електронни средства и в структуриран и широко използван формат, да получи от администратора копие на данните, които се обработват, в електронен и структуриран формат, който е широко използван и позволява по-нататъшното му ползване от субекта на данните."
+		},
+		{
+			"lang": "hu",
+			"text": "A személyes adatok strukturált és széles körben használt formátumban történő elektronikus feldolgozása esetén az érintettnek joga van arra, hogy kérje az adatkezelőtől a feldolgozás alatt álló adatok széles körben használt elektronikus és strukturált formátumú másolatát, amely lehetővé teszi az érintett általi további használatot."
+		},
+		{
+			"lang": "mt",
+			"text": "Is-suġġett tad-dejta għandu jkollu d-dritt, meta d-dejta personali tkun ipproċessata b’mezzi elettroniċi u b’format strutturat u użat b’mod komuni, li jikseb mingħand il-kontrollur kopja tad-dejta li tkun qiegħda tiġi pproċessata f’format elettroniku u strutturat li jintuża normalment u li jippermetti l-użu ulterjuri mis-suġġett tad-dejta."
+		},
+		{
+			"lang": "lv",
+			"text": "Datu subjektam ir tiesības gadījumos, kad personas datus apstrādā elektroniskiem līdzekļiem un strukturētā un plaši izmantotā formātā, iegūt no pārziņa apstrādāto datu kopiju plaši izmantotā elektroniskā un strukturētā formātā, kas ļauj datu subjektam šos datus turpmāk izmantot."
+		},
+		{
+			"lang": "ro",
+			"text": "În cazul în care datele cu caracter personal sunt prelucrate electronic într-un format structurat care este utilizat în mod curent, persoana vizată are dreptul să obțină, din partea operatorului, o copie a datelor care fac obiectul prelucrării electronice într-un format electronic structurat care este utilizat în mod curent și care permite persoanei vizate să utilizeze ulterior aceste date."
+		},
+		{
+			"lang": "sk",
+			"text": "Ak sa osobné údaje spracúvajú v elektronickej podobe a v štruktúrovanom a bežne používanom formáte, dotknutá osoba má právo dostať od prevádzkovateľa kópiu údajov spracovaných v elektronickej a štruktúrovanej forme, ktorá je bežne používaná a ktorá umožňuje ďalšie využívanie dotknutou osobou."
+		},
+		{
+			"lang": "sl",
+			"text": "Posameznik, na katerega se nanašajo osebni podatki, ima v primeru, ko se osebni podatki obdelujejo z elektronskimi sredstvi in v strukturirani obliki v splošni rabi, pravico, da od upravljavca zahteva kopijo podatkov, ki se obdelujejo, v elektronski in strukturirani obliki v splošni rabi, ki omogoča nadaljnjo uporabo s strani posameznika, na katerega se nanašajo osebni podatki."
+		},
+		{
+			"lang": "fi",
+			"text": "Kun henkilötietoja käsitellään sähköisin keinoin, jäsennellyssä ja yleisesti käytetyssä muodossa, rekisteröidyllä on oikeus saada rekisterinpitäjältä jäljennös käsiteltävistä tiedoista yleisesti käytetyssä sähköisessä ja jäsennellyssä muodossa, joka antaa rekisteröidylle mahdollisuuden käyttää tietoja edelleen."
+		},
+		{
+			"lang": "pl",
+			"text": "Podmiot danych ma prawo, jeśli dane osobowe są przetwarzane w sposób elektroniczny oraz w zorganizowanym i powszechnie używanym formacie, do uzyskania od administratora kopii danych podlegających przetwarzaniu w formacie elektronicznym i zorganizowanym, który jest powszechnie używany i umożliwia dalsze wykorzystywanie przez podmiot danych."
+		},
+		{
+			"lang": "lt",
+			"text": "Jeigu asmens duomenys tvarkomi elektroniniu būdu ir taikant susistemintą bei dažnai naudojamą formatą, duomenų subjektas turi teisę iš duomenų valdytojo gauti tvarkomų duomenų kopiją elektroniniu ir susistemintu bei dažnai naudojamu formatu, kad duomenų subjektas galėtų ja toliau naudotis."
+		},
+		{
+			"lang": "nl",
+			"text": "Wanneer persoonsgegevens elektronisch en in een gestructureerd en algemeen gebruikt formaat worden verwerkt, heeft de betrokkene het recht om van de voor de verwerking verantwoordelijke een kopie te krijgen van de gegevens die worden verwerkt in een elektronisch en gestructureerd formaat dat algemeen wordt gebruikt en verder door de betrokkene kan worden gebruikt."
+		},
+		{
+			"lang": "sv",
+			"text": "Om personuppgifter behandlas på elektronisk väg och i ett strukturerat och allmänt använt format, ska den registrerade ha rätt att av den registeransvarige erhålla en kopia av de uppgifter som håller på att behandlas i ett elektroniskt och strukturerat format som är allmänt använt och som den registrerade kan fortsätta att använda."
+		}
+	],
+	"children": [],
+	"title": "Article 18 – Paragraph 1"
+}

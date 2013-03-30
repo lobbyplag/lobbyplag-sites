@@ -1,0 +1,108 @@
+{
+	"id": "a38",
+	"type": "article",
+	"literal": "38",
+	"parent": "c4s5",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Codes of conduct"
+		},
+		{
+			"lang": "de",
+			"text": "Verhaltensregeln"
+		},
+		{
+			"lang": "fr",
+			"text": "Codes de conduite"
+		},
+		{
+			"lang": "es",
+			"text": "Códigos de conducta"
+		},
+		{
+			"lang": "pt",
+			"text": "Códigos de conduta"
+		},
+		{
+			"lang": "it",
+			"text": "Codici di condotta"
+		},
+		{
+			"lang": "ga",
+			"text": "Cóid iompair"
+		},
+		{
+			"lang": "cs",
+			"text": "Kodexy chování"
+		},
+		{
+			"lang": "da",
+			"text": "Adfærdskodekser"
+		},
+		{
+			"lang": "et",
+			"text": "Toimimisjuhendid"
+		},
+		{
+			"lang": "el",
+			"text": "Κώδικες δεοντολογίας"
+		},
+		{
+			"lang": "bg",
+			"text": "Кодекси за поведение"
+		},
+		{
+			"lang": "hu",
+			"text": "Eljárási szabályzatok"
+		},
+		{
+			"lang": "mt",
+			"text": "Kodiċijiet ta’ kondotta"
+		},
+		{
+			"lang": "lv",
+			"text": "Profesionālās ētikas kodeksi"
+		},
+		{
+			"lang": "ro",
+			"text": "Coduri de conduită"
+		},
+		{
+			"lang": "sk",
+			"text": "Kódexy správania"
+		},
+		{
+			"lang": "sl",
+			"text": "Pravila ravnanja"
+		},
+		{
+			"lang": "fi",
+			"text": "Käytännesäännöt"
+		},
+		{
+			"lang": "pl",
+			"text": "Kodeksy postępowania"
+		},
+		{
+			"lang": "lt",
+			"text": "Elgesio kodeksai"
+		},
+		{
+			"lang": "nl",
+			"text": "Gedragscodes"
+		},
+		{
+			"lang": "sv",
+			"text": "Uppförandekodex"
+		}
+	],
+	"children": [
+		"a38p1",
+		"a38p2",
+		"a38p3",
+		"a38p4",
+		"a38p5"
+	],
+	"title": "Article 38"
+}

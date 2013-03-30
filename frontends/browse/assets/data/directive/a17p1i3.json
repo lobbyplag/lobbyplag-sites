@@ -1,0 +1,102 @@
+{
+	"id": "a17p1i3",
+	"type": "point",
+	"literal": "c",
+	"parent": "a17p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the data subject objects to the processing of personal data pursuant to Article 19;"
+		},
+		{
+			"lang": "de",
+			"text": "Die betroffene Person legt gemäß Artikel 19 Widerspruch gegen die Verarbeitung ein."
+		},
+		{
+			"lang": "fr",
+			"text": "la personne concernée s'oppose au traitement des données à caractère personnel en vertu de l'article 19;"
+		},
+		{
+			"lang": "es",
+			"text": "el interesado se opone al tratamiento de datos personales con arreglo a lo dispuesto en el artículo 19;"
+		},
+		{
+			"lang": "pt",
+			"text": "O titular dos dados opõe‑se ao tratamento de dados pessoais nos termos do artigo 19.º;"
+		},
+		{
+			"lang": "it",
+			"text": "l’interessato si oppone al trattamento di dati personali ai sensi dell’articolo 19;"
+		},
+		{
+			"lang": "ga",
+			"text": "déanann an duine is ábhar do na sonraí agóid i gcoinne phróiseáil na sonraí pearsanta de bhun Airteagal 19;"
+		},
+		{
+			"lang": "cs",
+			"text": "subjekt údajů vznáší námitku proti zpracování osobních údajů podle článku 19;"
+		},
+		{
+			"lang": "da",
+			"text": "den registrerede gør indsigelse mod behandlingen af personoplysninger i henhold til artikel 19, eller"
+		},
+		{
+			"lang": "et",
+			"text": "andmesubjekt vaidlustab isikuandmete töötlemise artikli 19 kohaselt;"
+		},
+		{
+			"lang": "el",
+			"text": "γ) το πρόσωπο στο οποίο αναφέρονται τα δεδομένα αντιτάσσεται στην επεξεργασία δεδομένων προσωπικού χαρακτήρα δυνάμει του άρθρου 19·"
+		},
+		{
+			"lang": "bg",
+			"text": "в) субектът на данните възразява срещу обработването на лични данни съгласно член 19;"
+		},
+		{
+			"lang": "hu",
+			"text": "az érintett a 19. cikk értelmében kifogásolja a személyes adatok feldolgozását; vagy"
+		},
+		{
+			"lang": "mt",
+			"text": "is-suġġett tad-dejta joġġezzjona għall-ipproċessar ta’ dejta personali skont l-Artikolu 19;"
+		},
+		{
+			"lang": "lv",
+			"text": "datu subjekts iebilst pret personas datu apstrādi saskaņā ar 19. pantu;"
+		},
+		{
+			"lang": "ro",
+			"text": "persoana vizată se opune prelucrării datelor cu caracter personal în temeiul articolului 19;"
+		},
+		{
+			"lang": "sk",
+			"text": "dotknutá osoba v súlade s článkom 19 namieta proti spracovaniu osobných údajov;"
+		},
+		{
+			"lang": "sl",
+			"text": "posameznik, na katerega se nanašajo osebni podatki, obdelavi osebnih podatkov ugovarja v skladu s členom 19;"
+		},
+		{
+			"lang": "fi",
+			"text": "rekisteröity vastustaa henkilötietojen käsittelyä 19 artiklan nojalla;"
+		},
+		{
+			"lang": "pl",
+			"text": "podmiot danych sprzeciwia się przetwarzaniu danych osobowych zgodnie z art. 19;"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų subjektas pagal 19 straipsnį nesutinka, kad asmens duomenys būtų tvarkomi;"
+		},
+		{
+			"lang": "nl",
+			"text": "de betrokkene maakt bezwaar tegen de verwerking van de persoonsgegevens overeenkomstig artikel 19;"
+		},
+		{
+			"lang": "sv",
+			"text": "Den registrerade invänder mot behandlingen av personuppgifter enligt artikel 19."
+		}
+	],
+	"children": [],
+	"title": "Article 17 – Paragraph 1 – Point 3"
+}

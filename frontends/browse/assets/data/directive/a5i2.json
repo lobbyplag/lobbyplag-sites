@@ -1,0 +1,102 @@
+{
+	"id": "a5i2",
+	"type": "point",
+	"literal": "b",
+	"parent": "a5",
+	"text": [
+		{
+			"lang": "en",
+			"text": "collected for specified, explicit and legitimate purposes and not further processed in a way incompatible with those purposes;"
+		},
+		{
+			"lang": "de",
+			"text": "für genau festgelegte, eindeutige und rechtmäßige Zwecke erhoben werden und dürfen nicht in einer mit diesen Zwecken nicht zu vereinbarenden Weise weiterverarbeitet werden;"
+		},
+		{
+			"lang": "fr",
+			"text": "collectées pour des finalités déterminées, explicites et légitimes, et ne pas être traitées ultérieurement de manière incompatible avec ces finalités;"
+		},
+		{
+			"lang": "es",
+			"text": "recogidos con fines determinados, explícitos y legítimos, y no serán tratados posteriormente de manera incompatible con dichos fines;"
+		},
+		{
+			"lang": "pt",
+			"text": "Recolhidos para finalidades determinadas, explícitas e legítimas e não serem posteriormente tratados de forma incompatível com essas finalidades;"
+		},
+		{
+			"lang": "it",
+			"text": "raccolti per finalità determinate, esplicite e legittime, e successivamente trattati in modo non incompatibile con tali finalità;"
+		},
+		{
+			"lang": "ga",
+			"text": "ní mór iad a bhailiú chun críocha sonraithe soiléire dlisteanacha agus ní dhéanfar iad a phróiseáil tuilleadh ina dhiaidh sin ar shlí a bheadh ar neamhréir leis na críocha sin;"
+		},
+		{
+			"lang": "cs",
+			"text": "shromažďovány pro stanovené účely, výslovně vyjádřené a legitimní, a nesmí být dále zpracovávány způsobem, který je s těmito účely neslučitelný;"
+		},
+		{
+			"lang": "da",
+			"text": "skal indsamles til udtrykkeligt angivne og legitime formål og må ikke senere gøres til genstand for behandling, som er uforenelig med disse formål"
+		},
+		{
+			"lang": "et",
+			"text": "isikuandmeid kogutakse täpselt ja selgelt kindlaksmääratud ning õiguspärastel eesmärkidel ning neid ei töödelda hiljem viisil, mis on nende eesmärkidega vastuolus;"
+		},
+		{
+			"lang": "el",
+			"text": "β) να συλλέγονται για καθορισμένους, ρητούς και νόμιμους σκοπούς και να μην υποβάλλονται σε περαιτέρω επεξεργασία κατά τρόπο μη συμβατό προς τους σκοπούς αυτούς·"
+		},
+		{
+			"lang": "bg",
+			"text": "б) събирани за конкретни, изрично указани и законни цели и да не се обработват допълнително по начин, който е несъвместим с тези цели;"
+		},
+		{
+			"lang": "hu",
+			"text": "gyűjtése csak meghatározott, egyértelmű és törvényes célból történhet, és további feldolgozásuk nem végezhető e célokkal ellentétesen;"
+		},
+		{
+			"lang": "mt",
+			"text": "miġbura għal finijiet speċifiċi, espliċiti u leġittimi u mhux ipproċessata ulterjorment b’mod li ma jkunx kompatibbli ma’ dawk il-finijiet;"
+		},
+		{
+			"lang": "lv",
+			"text": "vāktiem konkrētiem, skaidriem un likumīgiem nolūkiem, un tos nedrīkst tālāk apstrādāt ar šiem nolūkiem nesavienojamā veidā;"
+		},
+		{
+			"lang": "ro",
+			"text": "să fie colectate în scopuri determinate, explicite și legitime și să nu fie prelucrate ulterior într-un mod incompatibil cu aceste scopuri;"
+		},
+		{
+			"lang": "sk",
+			"text": "zhromažďované na konkrétne určené, explicitné a legitímne účely a nesmú sa ďalej spracúvať spôsobmi, ktoré nie sú zlučiteľné s týmito účelmi;"
+		},
+		{
+			"lang": "sl",
+			"text": "zbrani za določene, jasne in zakonite namene ter se ne smejo naprej obdelovati na način, ki je nezdružljiv s temi nameni;"
+		},
+		{
+			"lang": "fi",
+			"text": "ne on kerättävä tiettyä nimenomaista ja laillista tarkoitusta varten, eikä niitä saa käsitellä myöhemmin näiden tarkoitusten kanssa yhteensopimattomalla tavalla;"
+		},
+		{
+			"lang": "pl",
+			"text": "zbierane w konkretnych, bezpośrednich i zgodnych z prawem celach i nieprzetwarzane dalej w sposób niezgodny z tymi celami;"
+		},
+		{
+			"lang": "lt",
+			"text": "renkami nustatytais, aiškiai apibrėžtais ir teisėtais tikslais, o toliau tvarkomi su šiais tikslais suderintais būdais;"
+		},
+		{
+			"lang": "nl",
+			"text": "voor welbepaalde, uitdrukkelijk omschreven en gerechtvaardigde doeleinden worden verzameld en mogen vervolgens niet op een met die doeleinden onverenigbare wijze worden verwerkt;"
+		},
+		{
+			"lang": "sv",
+			"text": "De ska samlas in för särskilda, uttryckligt angivna och berättigade ändamål och inte senare behandlas på ett sätt som är oförenligt med dessa ändamål."
+		}
+	],
+	"children": [],
+	"title": "Article 5 – Point 2"
+}

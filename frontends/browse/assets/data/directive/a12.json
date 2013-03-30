@@ -1,0 +1,109 @@
+{
+	"id": "a12",
+	"type": "article",
+	"literal": "12",
+	"parent": "c3s1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Procedures and mechanisms for exercising the rights of the data subject"
+		},
+		{
+			"lang": "de",
+			"text": "Verfahren und Vorkehrungen, damit die betroffene Person ihre Rechte ausüben kann"
+		},
+		{
+			"lang": "fr",
+			"text": "Procédures et mécanismes prévus pour l'exercice des droits de la personne concernée"
+		},
+		{
+			"lang": "es",
+			"text": "Procedimientos y mecanismos para el ejercicio de los derechos de los interesados"
+		},
+		{
+			"lang": "pt",
+			"text": "Procedimentos e mecanismos previstos para o exercício dos direitos dos titulares de dados"
+		},
+		{
+			"lang": "it",
+			"text": "Procedure e meccanismi per l’esercizio dei diritti dell’interessato"
+		},
+		{
+			"lang": "ga",
+			"text": "Nósanna imeachta agus sásraí d’fheidhmiú chearta an duine is ábhar do na sonraí"
+		},
+		{
+			"lang": "cs",
+			"text": "Postupy a mechanismy pro výkon práv subjektu údajů"
+		},
+		{
+			"lang": "da",
+			"text": "Procedurer og ordninger for udøvelse af den registreredes rettigheder"
+		},
+		{
+			"lang": "et",
+			"text": "Andmesubjekti õiguste kasutamise kord ja mehhanismid"
+		},
+		{
+			"lang": "el",
+			"text": "Διαδικασίες και μηχανισμοί για την άσκηση των δικαιωμάτων του προσώπου στο οποίο αναφέρονται τα δεδομένα"
+		},
+		{
+			"lang": "bg",
+			"text": "Процедури и механизми за упражняване на правата на субекта на данни"
+		},
+		{
+			"lang": "hu",
+			"text": "Az érintett jogainak gyakorlására vonatkozó eljárások és mechanizmusok"
+		},
+		{
+			"lang": "mt",
+			"text": "Proċeduri u mekkaniżmi għall-eżerċitar tad-drittijiet tas-suġġett tad-dejta"
+		},
+		{
+			"lang": "lv",
+			"text": "Procedūras un mehānismi datu subjekta tiesību izmantošanai"
+		},
+		{
+			"lang": "ro",
+			"text": "Proceduri și mecanisme de exercitare a drepturilor persoanei vizate"
+		},
+		{
+			"lang": "sk",
+			"text": "Postupy a mechanizmy na výkon práv dotknutej osoby"
+		},
+		{
+			"lang": "sl",
+			"text": "Postopki in mehanizmi za uveljavljanje pravic posameznika, na katerega se nanašajo osebni podatki"
+		},
+		{
+			"lang": "fi",
+			"text": "Menettelyt ja mekanismit rekisteröidyn oikeuksien käyttämistä varten"
+		},
+		{
+			"lang": "pl",
+			"text": "Procedury i mechanizmy wykonywania praw przez podmiot danych"
+		},
+		{
+			"lang": "lt",
+			"text": "Naudojimosi duomenų subjekto teisėmis tvarka ir mechanizmai"
+		},
+		{
+			"lang": "nl",
+			"text": "Procedures en mechanismen voor de uitoefening van de rechten van de betrokkene"
+		},
+		{
+			"lang": "sv",
+			"text": "Förfaranden och rutiner för den registrerades utövande av sina rättigheter"
+		}
+	],
+	"children": [
+		"a12p1",
+		"a12p2",
+		"a12p3",
+		"a12p4",
+		"a12p5",
+		"a12p6"
+	],
+	"title": "Article 12"
+}

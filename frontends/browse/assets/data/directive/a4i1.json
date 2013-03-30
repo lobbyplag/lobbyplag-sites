@@ -1,0 +1,102 @@
+{
+	"id": "a4i1",
+	"type": "point",
+	"literal": "1",
+	"parent": "a4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "'data subject' means an identified natural person or a natural person who can be identified, directly or indirectly, by means reasonably likely to be used by the controller or by any other natural or legal person, in particular by reference to an identification number, location data, online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that person;"
+		},
+		{
+			"lang": "de",
+			"text": "„betroffene Person&quot; eine bestimmte natürliche Person oder eine natürliche Person, die direkt oder indirekt mit Mitteln bestimmt werden kann, die der für die Verarbeitung Verantwortliche oder jede sonstige natürliche oder juristische Person nach allgemeinem Ermessen aller Voraussicht nach einsetzen würde, etwa mittels Zuordnung zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen, die Ausdruck ihrer physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität sind;"
+		},
+		{
+			"lang": "fr",
+			"text": "«personne concernée»: une personne physique identifiée ou une personne physique qui peut être identifiée, directement ou indirectement, par des moyens raisonnablement susceptibles d'être utilisés par le responsable du traitement ou par toute autre personne physique ou morale, notamment par référence à un numéro d’identification, à des données de localisation, à un identifiant en ligne ou à un ou plusieurs éléments spécifiques, propres à son identité physique, physiologique, génétique, psychique, économique, culturelle ou sociale;"
+		},
+		{
+			"lang": "es",
+			"text": "«interesado»: toda persona física identificada o que pueda ser identificada, directa o indirectamente, por medios que puedan ser utilizados razonablemente por el responsable del tratamiento o por cualquier otra persona física o jurídica, en particular mediante un número de identificación, datos de localización, identificador en línea o uno o varios elementos específicos de la identidad física, fisiológica, genética, psíquica, económica, cultural o social de dicha persona;"
+		},
+		{
+			"lang": "pt",
+			"text": "«Titular de dados», uma pessoa singular identificada ou identificável, direta ou indiretamente, por meios com razoável probabilidade de serem utilizados pelo responsável pelo tratamento ou por qualquer outra pessoa singular ou coletiva, nomeadamente por referência a um número de identificação, a dados de localização, a um identificador em linha ou a um ou mais elementos específicos próprios à sua identidade física, fisiológica, genética, psíquica, económica, cultural ou social;"
+		},
+		{
+			"lang": "it",
+			"text": "“interessato”: la persona fisica identificata o identificabile, direttamente o indirettamente, con mezzi che il responsabile del trattamento o altra persona fisica o giuridica ragionevolmente può utilizzare, con particolare riferimento a un numero di identificazione, a dati relativi all’ubicazione, a un identificativo on line o a uno o più elementi caratteristici della sua identità genetica, fisica, fisiologica, psichica, economica, culturale o sociale;"
+		},
+		{
+			"lang": "ga",
+			"text": "ciallaíonn ‘duine is ábhar do shonraí’ duine nádúrtha aitheanta nó duine nádúrtha is féidir a shainaithint, go díreach nó go hindíreach, trí mhodhanna ar dócha le réasún go n‑úsáidfeadh an rialaitheoir nó aon duine nádúrtha nó dlítheanach eile iad, go háirithe trí thagairt a dhéanamh d'uimhir aitheantais, do shonraí suímh, d'aitheantóir ar líne nó do cheann amháin nó níos mó d'fhachtóirí a bhaineann go sonrach le céannacht fhisiceach, fhiseolaíoch, ghéiniteach, mheabhrach, eacnamaíoch, chultúrtha nó shóisialta an duine sin;"
+		},
+		{
+			"lang": "cs",
+			"text": "„subjektem údajů“ identifikovaná fyzická osoba nebo fyzická osoba, kterou lze přímo či nepřímo identifikovat prostředky, o nichž lze důvodně předpokládat, že je správce nebo jakákoli jiná fyzická nebo právnická osoba použijí pro identifikaci dané osoby, zejména s odkazem na identifikační číslo, lokalizační údaje, elektronický identifikátor nebo s odkazem na jeden či více zvláštních prvků její fyzické, fyziologické, genetické, psychické, ekonomické, kulturní nebo sociální identity;"
+		},
+		{
+			"lang": "da",
+			"text": "&quot;registreret&quot;: en identificeret fysisk person eller en fysisk person, der direkte eller indirekte kan identificeres ved hjælp af de hjælpemidler, der med rimelighed kan tænkes bragt i anvendelse af den registeransvarlige eller af enhver anden fysisk eller juridisk person, bl.a. ved et id-nummer, lokaliseringsdata, online-id eller et eller flere elementer, der er særlige for denne persons fysiske, fysiologiske, genetiske, psykiske, økonomiske, kulturelle eller sociale identitet"
+		},
+		{
+			"lang": "et",
+			"text": "„andmesubjekt” – füüsiline isik, kelle isikusamasus on tuvastatud või otseselt või kaudselt tuvastatav vahenditega, mida vastutav töötleja või mis tahes muu füüsiline või juriidiline isik tavaliselt kasutavad, nagu isikukood, asukohaandmed ja veebiidentifikaator, samuti üks või mitu isiku füüsilist, füsioloogilist, geneetilist, vaimset, majanduslikku, kultuurilist ja sotsiaalset tunnust;"
+		},
+		{
+			"lang": "el",
+			"text": "«πρόσωπο στο οποίο αναφέρονται τα δεδομένα»: φυσικό πρόσωπο του οποίου η ταυτότητα είναι γνωστή ή μπορεί να εξακριβωθεί, άμεσα ή έμμεσα, με μέσα τα οποία είναι εύλογα πιθανό να χρησιμοποιηθούν από τον υπεύθυνο επεξεργασίας ή από οποιοδήποτε άλλο φυσικό ή νομικό πρόσωπο, ιδίως βάσει αριθμού ταυτότητας, δεδομένων θέσης, επιγραμμικού αναγνωριστικού ή βάσει ενός ή περισσοτέρων συγκεκριμένων στοιχείων που χαρακτηρίζουν την υπόσταση του συγκεκριμένου προσώπου από φυσική, βιολογική, γενετική, ψυχολογική, οικονομική, πολιτιστική ή κοινωνική άποψη·"
+		},
+		{
+			"lang": "bg",
+			"text": "„субект на данни“ означава физическо лице, което е идентифицирано или може да бъде идентифицирано пряко или косвено чрез средства, за които с основание се предполага, че е възможно да бъдат използвани от администратора или от всяко друго физическо или юридическо лице, по-специално чрез идентификационен номер, данни за местонахождение, онлайн идентификатори или чрез един или повече признаци, специфични за неговата физическа, физиологична, генетична, психическа, икономическа, културна или социална идентичност;"
+		},
+		{
+			"lang": "hu",
+			"text": "„érintett”: azonosított vagy közvetlen vagy közvetett módon az adatkezelő vagy más természetes vagy jogi személy által ésszerű módon – különösen egy azonosító számra, tartózkodási információra, online azonosító jelekre vagy a személy fizikai, fiziológiai, genetikai, szellemi, gazdasági, kulturális vagy társadalmi identitására vonatkozó egy vagy több tényezőre történő utalás révén – azonosítható természetes személy;"
+		},
+		{
+			"lang": "mt",
+			"text": "‘suġġett tad-dejta’ tfisser persuna fiżika identifikata jew persuna fiżika li tista’ tkun identifikata, direttament jew indirettament, b’mezzi li raġonevolment aktarx jintużaw mill-kontrollur jew minn kwalunkwe persuna fiżika jew ġuridika oħra, b’mod partikolari b’referenza għal numru ta’ identifikazzjoni, dejta dwar il-lok, identifikatur onlajn jew għal fattur speċifiku wieħed jew aktar għall-identità fiżika, fiżjoloġika, ġenetika, mentali, ekonomika, kulturali jew soċjali ta’ dik il-persuna;"
+		},
+		{
+			"lang": "lv",
+			"text": "&quot;datu subjekts&quot; ir identificēta fiziska persona vai fiziska persona, ko tieši vai netieši var identificēt, izmantojot līdzekļus, ko pārzinis vai jebkura cita fiziska vai juridiska persona varētu pamatoti izmantot, jo īpaši atsaucoties uz identifikācijas numuru, atrašanās vietas datiem, tiešsaistes identifikatoru vai vienu vai vairākiem šai personai raksturīgiem fiziskās, fizioloģiskās, ģenētiskās, garīgās, saimnieciskās, kultūras vai sociālās identitātes faktoriem;"
+		},
+		{
+			"lang": "ro",
+			"text": "„persoana vizată” înseamnă o persoană fizică identificată sau o persoană fizică ce poate fi identificată, în mod direct sau indirect, prin mijloace care pot fi utilizate, cu o probabilitate rezonabilă, de operator sau de orice altă persoană fizică sau juridică, în special prin referire la un număr de identificare, la date de localizare, la un identificator online sau la unul sau mai mulți factori specifici identității fizice, fiziologice, genetice, psihice, economice, culturale sau sociale a persoanei respective;"
+		},
+		{
+			"lang": "sk",
+			"text": "„dotknutá osoba“ je určená fyzická osoba alebo fyzická osoba, ktorú možno určiť priamo alebo nepriamo, najmä odkazom na identifikačné číslo, lokalizačné údaje, online identifikátor, alebo odkazom na jeden či viaceré prvky, ktoré tvoria fyzickú, fyziologickú, psychickú, genetickú, mentálnu, ekonomickú, kultúrnu alebo sociálnu identitu tejto osoby a to spôsobmi, o ktorých možno odôvodnene predpokladať, že ich prevádzkovateľ alebo akákoľvek iná fyzická alebo právnická osoba používajú;"
+		},
+		{
+			"lang": "sl",
+			"text": "„posameznik, na katerega se nanašajo osebni podatki“ pomeni določeno fizično osebo ali fizično osebo, ki je neposredno ali posredno določljiva s sredstvi, za katera se razumno pričakuje, da jih bo uporabil upravljavec ali vsaka druga fizična ali pravna oseba, zlasti z navedbo identifikacijske številke, podatkov o lokaciji, spletnih identifikatorjev ali enega ali več dejavnikov, ki so značilni za fizično, fiziološko, genetsko, duševno, gospodarsko, kulturno ali družbeno identiteto navedene osebe;"
+		},
+		{
+			"lang": "fi",
+			"text": "’rekisteröidyllä’ luonnollista henkilöä, joka on tunnistettu tai tunnistettavissa suoraan tai epäsuorasti keinoin, joita joko rekisterinpitäjä tai muu luonnollinen tai oikeushenkilö voi kohtuuden rajoissa käyttää, erityisesti henkilönumeron, sijaintitiedon, internet-tunnisteiden taikka yhden tai useamman henkilölle tunnusomaisen fyysisen, fysiologisen, geneettisen, psyykkisen, taloudellisen, kulttuurisen tai sosiaalisen tekijän perusteella;"
+		},
+		{
+			"lang": "pl",
+			"text": "„podmiot danych” oznacza zidentyfikowaną osobę fizyczną lub osobę fizyczną, którą można zidentyfikować, bezpośrednio lub pośrednio, za pomocą wszelkich środków, które z rozsądnym prawdopodobieństwem mogą być użyte przez administratora lub inną osobę fizyczną bądź prawną, szczególnie przez odniesienie do numeru identyfikacyjnego, danych dotyczących lokalizacji, identyfikatora online lub przynajmniej jednego czynnika charakterystycznego dla fizycznej, fizjologicznej, genetycznej, umysłowej, ekonomicznej, kulturowej lub społecznej tożsamości tej osoby;"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų subjektas – konkretus fizinis asmuo, kurį tiesiogiai arba netiesiogiai galima nustatyti priemonėmis, kuriomis, tikėtina, galėtų naudotis duomenų valdytojas arba kitas fizinis ar juridinis asmuo, visų pirma pagal asmens identifikavimo numerį, vietos nustatymo duomenis, interneto identifikatorių arba vieną ar kelis to asmens fizinės, fiziologinės, genetinės, psichinės, ekonominės, kultūrinės ar socialinės tapatybės požymius;"
+		},
+		{
+			"lang": "nl",
+			"text": "“betrokkene”: een geïdentificeerde natuurlijke persoon of een natuurlijke persoon die direct of indirect, met behulp van middelen waarvan mag worden aangenomen dat zij redelijkerwijs door de voor de verwerking verantwoordelijke dan wel door een andere natuurlijke of rechtspersoon in te zetten zijn, kan worden geïdentificeerd, met name aan de hand van een identificatienummer, gegevens over de verblijfplaats, een online-identificatiemiddel of een of meer specifieke elementen die kenmerkend zijn voor zijn fysieke, fysiologische, genetische, mentale, economische, culturele of sociale identiteit."
+		},
+		{
+			"lang": "sv",
+			"text": "den registrerade: en fysisk person som är direkt eller indirekt identifierad eller identifierbar, med medel som rimligen kan komma att användas av den registeransvarige eller av någon annan fysisk eller juridisk person, framför allt med hänvisning till ett identifikationsnummer, en lokaliseringsuppgift eller nätidentifierare, eller till en eller fler faktorer som är specifika för personens fysiska, fysiologiska, genetiska, psykiska, ekonomiska, kulturella eller sociala identitet."
+		}
+	],
+	"children": [],
+	"title": "Article 4 – Point 1"
+}

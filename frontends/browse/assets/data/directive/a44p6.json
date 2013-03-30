@@ -1,0 +1,102 @@
+{
+	"id": "a44p6",
+	"type": "paragraph",
+	"literal": "6",
+	"parent": "a44",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller or processor shall document the assessment as well as the appropriate safeguards adduced referred to in point (h) of paragraph 1 of this Article in the documentation referred to in Article 28 and shall inform the supervisory authority of the transfer."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche oder der Auftragsverarbeiter erfasst die von ihm vorgenommene Beurteilung sowie die in Absatz 1 Buchstabe h dieses Artikels genannten geeigneten Garantien in der Dokumentation gemäß Artikel 28 und setzt die Aufsichtsbehörde von der Übermittlung in Kenntnis."
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement ou le sous‑traitant atteste la matérialité, dans la documentation visée à l'article 28, de l'évaluation et des garanties appropriées offertes visées au paragraphe 1, point h), et informe l'autorité de contrôle du transfert."
+		},
+		{
+			"lang": "es",
+			"text": "El responsable o el encargado del tratamiento documentarán, en la documentación contemplada en el artículo 28, la evaluación y las garantías apropiadas ofrecidas contempladas en el apartado 1, letra h), e informarán de la transferencia a la autoridad de control."
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento ou o subcontratante deve documentar, nos termos do artigo 28.º, a avaliação e as garantias adequadas apresentadas, referidas no n.º 1, alínea h), e informa a autoridade de controlo da transferência."
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento o l’incaricato del trattamento attesta nella documentazione di cui all’articolo 28 la valutazione e le garanzie adeguate offerte di cui al paragrafo 1, lettera d), e informa l’autorità di controllo del trasferimento."
+		},
+		{
+			"lang": "ga",
+			"text": "Déanfaidh an rialaitheoir nó an próiseálaí tuairisciú sa doiciméadacht dá dtagraítear in Airteagal 28 ar an measúnú agus ar na cosaintí iomchuí arna dtabhairt ar aird dá dtagraítear i bpointe (h) de mhír 1 den Airteagal seo agus cuirfidh sé an t‑údarás maoirseachta ar an eolas faoin aistriú."
+		},
+		{
+			"lang": "cs",
+			"text": "Správce nebo zpracovatel zaznamená posouzení i přijaté vhodné záruky uvedené v odst. 1 písm. h) tohoto článku v dokumentaci zmíněné v článku 28 a o předání informuje orgán dozoru."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige eller registerføreren dokumenterer vurderingen og de fornødne garantier, der ydes, som omhandlet i denne artikels stk. 1, litra h), i den dokumentation, der er nævnt i artikel 28, og underretter tilsynsmyndigheden om videregivelsen."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja või volitatud töötleja registreerivad hindamise ja ka käesoleva artikli lõike 1 punktis h osutatud asjakohased lisatud kaitsemeetmed artiklis 28 osutatud dokumentides ning teavitavad edastamisest järelevalveasutust."
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας ή ο εκτελών την επεξεργασία τεκμηριώνουν την αξιολόγηση καθώς και τις παρεχόμενες κατάλληλες εγγυήσεις, οι οποίες αναφέρονται στην παράγραφο 1 στοιχείο η) του παρόντος άρθρου, στην τεκμηρίωση που αναφέρεται στο άρθρο 28, και ενημερώνουν την αρχή ελέγχου για τη διαβίβαση."
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът или обработващият лични данни документира оценката, както и предоставените подходящи гаранции, посочени в параграф 1, буква з) от настоящия член, в документацията, посочена в член 28, и информира надзорния орган за предаването на данните."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő vagy -feldolgozó a 28. cikk szerinti dokumentációban dokumentálja a vizsgálatot és az e cikk (1) bekezdésének h) pontja szerinti, létrehozott megfelelő biztosítékokat, és a továbbításról értesíti a felügyelő hatóságot."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur jew il-proċessur għandu jiddokumenta l-valutazzjoni kif ukoll is-salvagwardji xierqa ppreżentati msemmija fil-punt (h) tal-paragrafu 1 (h) ta’ dan l-Artikolu fid-dokumentazzjoni msemmija fl-Artikolu 28 u għandu jinforma lill-awtorità ta’ superviżjoni dwar it-trasferiment."
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinis un apstrādātājs dokumentē novērtējumu un nodrošinātos atbilstošos aizsardzības pasākumus, kas minēti šā panta 1. punkta h) apakšpunktā, saskaņā ar 28. pantu par dokumentāciju un informē uzraudzības iestādi par nosūtīšanu."
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul sau persoana împuternicită de către operator consemnează evaluarea și garanțiile corespunzătoare oferite prevăzute la alineatul (1) litera (h) de la prezentul articol, în documentele prevăzute la articolul 28 și informează autoritatea de supraveghere cu privire la transfer."
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ alebo sprostredkovateľ dokumentujú posúdenie, ako aj náležité záruky uvedené v odseku 1 písm. h) tohto článku v dokumentácii uvedenej v článku 28 a informujú dozorný orgán o prenose."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec ali obdelovalec dokumentira oceno in predvidene ustrezne zaščitne ukrepe iz točke (h) odstavka 1 tega člena v dokumentaciji iz člena 28 in o prenosu obvesti nadzorni organ."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän tai henkilötietojen käsittelijän on tallennettava sekä arviointi että tämän artiklan 1 kohdan h alakohdassa tarkoitetut asianmukaiset takeet 28 artiklassa tarkoitettuihin asiakirjoihin ja ilmoitettava siirrosta valvontaviranomaiselle."
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator lub podmiot przetwarzający sporządzają włączają dokumentację dotyczącą oceny, a także istnienia odpowiednich gwarancji, o których mowa w ust. 1 lit. h) tego artykułu do dokumentacji, o której mowa w art. 28 i informują organ nadzorczy o przekazaniu."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas arba duomenų tvarkytojas pagal 28 straipsnį dokumentuoja vertinimą ir nustatytas tinkamas apsaugos priemones, nurodytas šio straipsnio 1 dalies h punkte, ir apie perdavimą informuoja priežiūros instituciją."
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke of de verwerker staaft de beoordeling en de in lid 1, onder h), bedoelde passende garanties met bewijsstukken door middel van de in artikel 28 bedoelde documenten en stelt de toezichthoudende autoriteit in kennis van de doorgifte."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige eller registerföraren ska, som en del av den dokumentation som avses i artikel 28, bevara uppgifter både om den bedömning som gjorts och de lämpliga skyddsåtgärder som vidtagits enligt punkt 1 h, och ska underrätta tillsynsmyndigheten om överföringen."
+		}
+	],
+	"children": [],
+	"title": "Article 44 – Paragraph 6"
+}

@@ -1,0 +1,113 @@
+{
+	"id": "a52p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a52",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The supervisory authority shall:"
+		},
+		{
+			"lang": "de",
+			"text": "Aufgaben der Aufsichtsbehörde sind"
+		},
+		{
+			"lang": "fr",
+			"text": "L'autorité de contrôle:"
+		},
+		{
+			"lang": "es",
+			"text": "La autoridad de control:"
+		},
+		{
+			"lang": "pt",
+			"text": "Incumbe à autoridade de controlo:"
+		},
+		{
+			"lang": "it",
+			"text": "L’autorità di controllo:"
+		},
+		{
+			"lang": "ga",
+			"text": "Déanfaidh an t‑údarás maoirseachta na nithe seo a leanas:"
+		},
+		{
+			"lang": "cs",
+			"text": "Orgán dozoru:"
+		},
+		{
+			"lang": "da",
+			"text": "Tilsynsmyndigheden:"
+		},
+		{
+			"lang": "et",
+			"text": "Järelevalveasutus:"
+		},
+		{
+			"lang": "el",
+			"text": "Η αρχή ελέγχου:"
+		},
+		{
+			"lang": "bg",
+			"text": "Надзорният орган:"
+		},
+		{
+			"lang": "hu",
+			"text": "A felügyelő hatóság:"
+		},
+		{
+			"lang": "mt",
+			"text": "L-awtorità ta’ superviżjoni għandha:"
+		},
+		{
+			"lang": "lv",
+			"text": "Uzraudzības iestāde:"
+		},
+		{
+			"lang": "ro",
+			"text": "Autoritatea de supraveghere:"
+		},
+		{
+			"lang": "sk",
+			"text": "Dozorný orgán:"
+		},
+		{
+			"lang": "sl",
+			"text": "Nadzorni organ:"
+		},
+		{
+			"lang": "fi",
+			"text": "Valvontaviranomainen"
+		},
+		{
+			"lang": "pl",
+			"text": "Organ nadzorczy:"
+		},
+		{
+			"lang": "lt",
+			"text": "Priežiūros institucija:"
+		},
+		{
+			"lang": "nl",
+			"text": "De toezichthoudende autoriteit:"
+		},
+		{
+			"lang": "sv",
+			"text": "Tillsynsmyndigheten ska ansvara för följande:"
+		}
+	],
+	"children": [
+		"a52p1i1",
+		"a52p1i2",
+		"a52p1i3",
+		"a52p1i4",
+		"a52p1i5",
+		"a52p1i6",
+		"a52p1i7",
+		"a52p1i8",
+		"a52p1i9",
+		"a52p1i10"
+	],
+	"title": "Article 52 – Paragraph 1"
+}

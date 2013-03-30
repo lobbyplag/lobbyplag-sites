@@ -1,0 +1,104 @@
+{
+	"id": "a50",
+	"type": "article",
+	"literal": "50",
+	"parent": "c6s1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Professional secrecy"
+		},
+		{
+			"lang": "de",
+			"text": "Verschwiegenheitspflicht"
+		},
+		{
+			"lang": "fr",
+			"text": "Secret professionnel"
+		},
+		{
+			"lang": "es",
+			"text": "Secreto profesional"
+		},
+		{
+			"lang": "pt",
+			"text": "Sigilo profissional"
+		},
+		{
+			"lang": "it",
+			"text": "Segreto professionale"
+		},
+		{
+			"lang": "ga",
+			"text": "Rúndacht ghairmiúil"
+		},
+		{
+			"lang": "cs",
+			"text": "Profesní tajemství"
+		},
+		{
+			"lang": "da",
+			"text": "Tavshedspligt"
+		},
+		{
+			"lang": "et",
+			"text": "Ametisaladus"
+		},
+		{
+			"lang": "el",
+			"text": "Επαγγελματικό απόρρητο"
+		},
+		{
+			"lang": "bg",
+			"text": "Професионална тайна"
+		},
+		{
+			"lang": "hu",
+			"text": "Szakmai titoktartás"
+		},
+		{
+			"lang": "mt",
+			"text": "Segretezza professjonali"
+		},
+		{
+			"lang": "lv",
+			"text": "Dienesta noslēpums"
+		},
+		{
+			"lang": "ro",
+			"text": "Secretul profesional"
+		},
+		{
+			"lang": "sk",
+			"text": "Služobné tajomstvo"
+		},
+		{
+			"lang": "sl",
+			"text": "Poklicna molčečnost"
+		},
+		{
+			"lang": "fi",
+			"text": "Vaitiolovelvollisuus"
+		},
+		{
+			"lang": "pl",
+			"text": "Tajemnica służbowa"
+		},
+		{
+			"lang": "lt",
+			"text": "Profesinė paslaptis"
+		},
+		{
+			"lang": "nl",
+			"text": "Beroepsgeheim"
+		},
+		{
+			"lang": "sv",
+			"text": "Tystnadsplikt"
+		}
+	],
+	"children": [
+		"a50t1"
+	],
+	"title": "Article 50"
+}

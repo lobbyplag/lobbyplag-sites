@@ -1,0 +1,112 @@
+{
+	"id": "a34",
+	"type": "article",
+	"literal": "34",
+	"parent": "c4s3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Prior authorisation and prior consultation"
+		},
+		{
+			"lang": "de",
+			"text": "Vorherige Genehmigung und vorherige Zurateziehung"
+		},
+		{
+			"lang": "fr",
+			"text": "Autorisation et consultation préalables"
+		},
+		{
+			"lang": "es",
+			"text": "Autorización y consulta previas"
+		},
+		{
+			"lang": "pt",
+			"text": "Autorização prévia e consulta prévia"
+		},
+		{
+			"lang": "it",
+			"text": "Autorizzazione preventiva e consultazione preventiva"
+		},
+		{
+			"lang": "ga",
+			"text": "Réamhúdarú agus réamhchomhairliúchán"
+		},
+		{
+			"lang": "cs",
+			"text": "Předchozí povolení a předchozí konzultace"
+		},
+		{
+			"lang": "da",
+			"text": "Forudgående godkendelse og forudgående høring"
+		},
+		{
+			"lang": "et",
+			"text": "Eelnev luba ja konsulteerimine"
+		},
+		{
+			"lang": "el",
+			"text": "Προηγούμενη έγκριση και προηγούμενη διαβούλευση"
+		},
+		{
+			"lang": "bg",
+			"text": "Предварително разрешение и предварителна консултация"
+		},
+		{
+			"lang": "hu",
+			"text": "Előzetes engedélyezés és előzetes konzultáció"
+		},
+		{
+			"lang": "mt",
+			"text": "Awtorizzazzjoni minn qabel u konsultazzjoni minn qabel"
+		},
+		{
+			"lang": "lv",
+			"text": "Iepriekšēja atļauja un iepriekšēja apspriešanās"
+		},
+		{
+			"lang": "ro",
+			"text": "Autorizarea prealabilă și consultarea prealabilă"
+		},
+		{
+			"lang": "sk",
+			"text": "Povolenie vopred a konzultácia vopred"
+		},
+		{
+			"lang": "sl",
+			"text": "Predhodna odobritev in predhodno posvetovanje"
+		},
+		{
+			"lang": "fi",
+			"text": "Ennakkohyväksyntä ja ennakkokuuleminen"
+		},
+		{
+			"lang": "pl",
+			"text": "Uprzednie zezwolenie i uprzednia konsultacja"
+		},
+		{
+			"lang": "lt",
+			"text": "Išankstinis leidimas ir išankstinis konsultavimasis"
+		},
+		{
+			"lang": "nl",
+			"text": "Voorafgaande toestemming en voorafgaande raadpleging"
+		},
+		{
+			"lang": "sv",
+			"text": "Förhandstillstånd och förhandssamråd"
+		}
+	],
+	"children": [
+		"a34p1",
+		"a34p2",
+		"a34p3",
+		"a34p4",
+		"a34p5",
+		"a34p6",
+		"a34p7",
+		"a34p8",
+		"a34p9"
+	],
+	"title": "Article 34"
+}

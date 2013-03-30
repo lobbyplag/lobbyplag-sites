@@ -1,0 +1,102 @@
+{
+	"id": "a22p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a22",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller shall adopt policies and implement appropriate measures to ensure and be able to demonstrate that the processing of personal data is performed in compliance with this Regulation."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche stellt durch geeignete Strategien und Maßnahmen sicher, dass personenbezogene Daten in Übereinstimmung mit dieser Verordnung verarbeitet werden und er den Nachweis dafür erbringen kann."
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement adopte des règles internes et met en œuvre les mesures appropriées pour garantir, et être à même de démontrer, que le traitement des données à caractère personnel est effectué dans le respect du présent règlement."
+		},
+		{
+			"lang": "es",
+			"text": "El responsable del tratamiento adoptará políticas e implementará medidas apropiadas para asegurar y poder demostrar que el tratamiento de datos personales se lleva a cabo de conformidad con el presente Reglamento."
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento adota regras internas e executa as medidas adequadas para assegurar, e conseguir comprovar, que o tratamento dos dados pessoais é realizado em conformidade com o presente regulamento."
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento adotta politiche e attua misure adeguate per garantire ed essere in grado di dimostrare che il trattamento dei dati personali effettuato è conforme al presente regolamento."
+		},
+		{
+			"lang": "ga",
+			"text": "Glacfaidh an rialaitheoir beartais agus cuirfidh sé bearta iomchuí chun feidhme chun a áirithiú go bpróiseáiltear sonraí pearsanta i gcomhréir leis an Rialachán seo agus chun a áirithiú gur féidir é sin a léiriú."
+		},
+		{
+			"lang": "cs",
+			"text": "Správce přijme politiky a provede vhodná opatření, aby zajistil, že zpracovávání osobních údajů probíhá v souladu s tímto nařízením, a aby byl schopen tuto skutečnost prokázat."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige indfører regler og gennemfører passende foranstaltninger med henblik på at sikre og være i stand til at påvise, at behandlingen af personoplysninger foretages i overensstemmelse med denne forordning."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja võtab vastu põhimõtted ja rakendab meetmeid, mis võimaldavad tagada ja tõendada, et isikuandmete töötlemine on käesoleva määrusega kooskõlas."
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας θεσπίζει πολιτικές και εφαρμόζει κατάλληλα μέτρα ώστε να διασφαλίζει και να μπορεί να αποδείξει ότι η επεξεργασία των δεδομένων προσωπικού χαρακτήρα εκτελείται σύμφωνα με τον παρόντα κανονισμό."
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът приема политики и предприема подходящи мерки, за да гарантира и да има възможност да докаже, че обработването на лични данни се извършва в съответствие с настоящия регламент."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő elfogadja azokat a politikákat és végrehajtja azokat a megfelelő intézkedéseket, amelyekkel biztosítja és igazolni tudja azt, hogy a személyes adatok feldolgozása e rendelettel összhangban történik."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur għandu jadotta politiki u jimplimenta miżuri adattati sabiex jassigura u jkun jista’ juri li l-ipproċessar ta’ dejta personali jsir skont dan ir-Regolament."
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinis pieņem vadlīnijas un īsteno piemērotus pasākumus, lai nodrošinātu un uzskatāmi parādītu, ka personas datu apstrāde ir notikusi saskaņā ar šo regulu."
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul adoptă politici și pune în aplicare măsuri adecvate pentru a garanta și a putea demonstra că prelucrarea datelor cu caracter personal se efectuează în conformitate cu prezentul regulament."
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ prijme pravidlá a uplatňuje vhodné opatrenia s cieľom zabezpečiť a byť schopný preukázať, že spracúvanie osobných údajov sa vykonáva v súlade s týmto nariadením."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec sprejme politike in izvede ustrezne ukrepe, s katerimi zagotovi in lahko dokaže, da se obdelava osebnih podatkov izvaja v skladu s to uredbo."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän on hyväksyttävä toimintamenetelmät ja toteutettava tarvittavat toimenpiteet sen varmistamiseksi ja osoittamiseksi, että henkilötietojen käsittelyssä noudatetaan tätä asetusta."
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator przyjmuje polityki i realizuje odpowiednie środki w celu zapewnienia, by przetwarzanie danych osobowych odbywało się zgodnie z niniejszym rozporządzeniem oraz wykazania tej zgodności."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas priima veiklos nuostatas ir taiko tinkamas priemones, kuriomis užtikrina, kad asmens duomenys būtų tvarkomi laikantis šio reglamento, ir gali tai įrodyti."
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke stelt beleid vast en voert passende maatregelen uit om ervoor te zorgen en te kunnen aantonen dat de verwerking van persoonsgegevens in overeenstemming met deze verordening wordt uitgevoerd."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige ska anta policyer och genomföra lämpliga åtgärder för att säkerställa och kunna visa att behandlingen av personuppgifter utförs i enlighet med denna förordning."
+		}
+	],
+	"children": [],
+	"title": "Article 22 – Paragraph 1"
+}

@@ -1,0 +1,105 @@
+{
+	"id": "a28p4",
+	"type": "paragraph",
+	"literal": "4",
+	"parent": "a28",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The obligations referred to in paragraphs 1 and 2 shall not apply to the following controllers and processors:"
+		},
+		{
+			"lang": "de",
+			"text": "Die in den Absätzen 1 und 2 genannten Anforderungen gelten nicht für folgende für die Verarbeitung Verantwortliche und Auftragsverarbeiter:"
+		},
+		{
+			"lang": "fr",
+			"text": "Les obligations visées aux paragraphes 1 et 2 ne s'appliquent pas aux responsables du traitement et aux sous‑traitants relevant des catégories suivantes:"
+		},
+		{
+			"lang": "es",
+			"text": "Las obligaciones contempladas en los apartados 1 y 2 no serán aplicables a los responsables y los encargados del tratamiento siguientes:"
+		},
+		{
+			"lang": "pt",
+			"text": "As obrigações referidas nos n.ºs 1 e 2 não se aplicam aos responsáveis pelo tratamento e aos subcontratantes seguintes:"
+		},
+		{
+			"lang": "it",
+			"text": "Gli obblighi di cui ai paragrafi 1 e 2 non si applicano ai seguenti responsabili del trattamento e incaricati del trattamento:"
+		},
+		{
+			"lang": "ga",
+			"text": "Ní bheidh feidhm ag na hoibleagáidí dá dtagraítear i mír 1 agus i mír 2 maidir leis na rialaitheoirí agus na próiseálaithe seo a leanas:"
+		},
+		{
+			"lang": "cs",
+			"text": "Povinnosti uvedené v odstavcích 1 a 2 se nevztahují na následující správce a zpracovatele:"
+		},
+		{
+			"lang": "da",
+			"text": "Den i stk. 1 og 2 omhandlede forpligtelse finder ikke anvendelse på følgende registeransvarlige og registerførere:"
+		},
+		{
+			"lang": "et",
+			"text": "Lõikes 1 ja 2 osutatud kohustusi ei kohaldata järgmiste vastutavate töötlejate ega volitatud töötlejate suhtes:"
+		},
+		{
+			"lang": "el",
+			"text": "Οι υποχρεώσεις που αναφέρονται στις παραγράφους 1 και 2 δεν εφαρμόζονται στους ακόλουθους υπευθύνους επεξεργασίας και εκτελούντες την επεξεργασία:"
+		},
+		{
+			"lang": "bg",
+			"text": "Задълженията, посочени в параграфи 1 и 2, не се прилагат спрямо следните администратори и обработващи лични данни:"
+		},
+		{
+			"lang": "hu",
+			"text": "Az (1) és (2) bekezdésben szereplő kötelezettségek nem vonatkoznak az alábbi adatkezelőkre és adatfeldolgozókra:"
+		},
+		{
+			"lang": "mt",
+			"text": "L-obbligi msemmija fil-paragrafi 1 u 2 m’għandhomx japplikaw għall-kontrulluri u l-proċessuri segwenti:"
+		},
+		{
+			"lang": "lv",
+			"text": "Pienākumus, kas minēti 1. un 2. punktā, nepiemēro šādiem pārziņiem un apstrādātājiem:"
+		},
+		{
+			"lang": "ro",
+			"text": "Obligațiile menționate la alineatele (1) și (2) nu se aplică următoarelor categorii de operatori și persoane împuternicite de către operatori:"
+		},
+		{
+			"lang": "sk",
+			"text": "Povinnosti uvedené v odsekoch 1 a 2 sa nevzťahujú na týchto prevádzkovateľov a sprostredkovateľov:"
+		},
+		{
+			"lang": "sl",
+			"text": "Obveznosti iz odstavkov 1 in 2 ne veljajo za naslednje upravljavce in obdelovalce:"
+		},
+		{
+			"lang": "fi",
+			"text": "Edellä 1 ja 2 kohdassa tarkoitetut velvollisuudet eivät koske seuraavia rekisterinpitäjiä ja henkilötietojen käsittelijöitä:"
+		},
+		{
+			"lang": "pl",
+			"text": "Obowiązków, o których mowa w ust. 1 i 2, nie stosuje się do następujących administratorów i podmiotów przetwarzających:"
+		},
+		{
+			"lang": "lt",
+			"text": "1 ir 2 dalyse nurodytos pareigos netaikomos šiems duomenų valdytojams ir duomenų tvarkytojams:"
+		},
+		{
+			"lang": "nl",
+			"text": "De in de leden 1 en 2 bedoelde verplichtingen zijn niet van toepassing op de volgende voor de verwerking verantwoordelijken en verwerkers:"
+		},
+		{
+			"lang": "sv",
+			"text": "De skyldigheter som anges i punkterna 1 och 2 ska inte gälla för följande registeransvariga och registerförare:"
+		}
+	],
+	"children": [
+		"a28p4i1",
+		"a28p4i2"
+	],
+	"title": "Article 28 – Paragraph 4"
+}

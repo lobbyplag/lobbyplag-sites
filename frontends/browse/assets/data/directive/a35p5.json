@@ -1,0 +1,102 @@
+{
+	"id": "a35p5",
+	"type": "paragraph",
+	"literal": "5",
+	"parent": "a35",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller or processor shall designate the data protection officer on the basis of professional qualities and, in particular, expert knowledge of data protection law and practices and ability to fulfil the tasks referred to in Article 37. The necessary level of expert knowledge shall be determined in particular according to the data processing carried out and the protection required for the personal data processed by the controller or the processor."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche oder der Auftragsverarbeiter benennt den Datenschutzbeauftragten nach Maßgabe der beruflichen Qualifikation und insbesondere des Fachwissens, das dieser auf dem Gebiet des Datenschutzrechts und der einschlägigen Praktiken besitzt, sowie nach Maßgabe von dessen Fähigkeit zur Erfüllung der in Artikel 37 genannten Aufgaben. Der Grad des erforderlichen Fachwissens richtet sich insbesondere nach der Art der durchgeführten Datenverarbeitung und des erforderlichen Schutzes für die von dem für die Verarbeitung Verantwortlichen oder dem Auftragsverarbeiter verarbeiteten personenbezogenen Daten."
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement ou le sous‑traitant désignent le délégué à la protection des données sur la base de ses qualités professionnelles et, en particulier, de ses connaissances spécialisées de la législation et des pratiques en matière de protection des données, et de sa capacité à accomplir les tâches énumérées à l’article 37. Le niveau de connaissances spécialisées requis est déterminé notamment en fonction du traitement des données effectué et de la protection exigée pour les données à caractère personnel traitées par le responsable du traitement ou le sous‑traitant."
+		},
+		{
+			"lang": "es",
+			"text": "El responsable o el encargado del tratamiento designarán el delegado de protección de datos atendiendo a sus cualidades profesionales y, en particular, a sus conocimientos especializados de la legislación y las prácticas en materia de protección de datos, y a su capacidad para ejecutar las tareas contempladas en el artículo 37. El nivel de conocimientos especializados requerido se determinará, en particular, en función del tratamiento de datos llevado a cabo y de la protección exigida para los datos personales tratados por el responsable o el encargado del tratamiento."
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento ou o subcontratante designam o delegado para a proteção de dados com base nas suas qualidades profissionais e, em especial, nos seus conhecimentos especializados no domínio da legislação e das práticas a nível da proteção de dados, e na sua capacidade para cumprir as funções referidas no artigo 37.º. O nível de conhecimentos especializados necessários é determinado, em particular, em função do tratamento de dados realizado e da proteção exigida para os dados pessoais tratados pelo responsável pelo tratamento ou pelo subcontratante."
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento o l’incaricato del trattamento designa il responsabile della protezione dei dati in funzione delle qualità professionali, in particolare della conoscenza specialistica della normativa e delle pratiche in materia di protezione dei dati, e della capacità di adempiere ai compiti di cui all’articolo 37. Il livello necessario di conoscenza specialistica è determinato in particolare in base al trattamento di dati effettuato e alla protezione richiesta per i dati personali trattati dal responsabile del trattamento o dall’incaricato del trattamento."
+		},
+		{
+			"lang": "ga",
+			"text": "Ceapfaidh an rialaitheoir nó an próiseálaí an t‑oifigeach cosanta sonraí bunaithe ar cháilíochtaí gairmiúla an duine agus go háirithe ar an méid saineolais atá ag an duine maidir le dlí agus cleachtais um chosaint sonraí agus ar chumas an duine na cúraimí dá dtagraítear in Airteagal 37 a chomhlíonadh. Déanfar an leibhéal saineolais is gá a chinneadh de réir na próiseála sonraí atá á déanamh agus de réir na cosanta atá de dhíth ar na sonraí pearsanta atá á bpróiseáil ag an rialaitheoir nó ag an bpróiseálaí."
+		},
+		{
+			"lang": "cs",
+			"text": "Správce nebo zpracovatel jmenují inspektora ochrany údajů na základě profesních kvalit, zejména na základě jeho odborných znalostí práva a praxe v oblasti ochrany údajů a na základě jeho schopnosti plnit úkoly stanovené v článku 37. Potřebná úroveň odborných znalostí se konkrétně určí podle prováděného zpracování údajů a podle ochrany, která se pro osobní údaje zpracovávané správcem nebo zpracovatelem požaduje."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige eller registerføreren udpeger en databeskyttelsesansvarlig på grundlag af dennes faglige kvalifikationer, ekspertise på området for databeskyttel­seslovgivning og -praksis samt evne til at udføre de opgaver, der er omhandlet i artikel 37. Det nødvendige niveau af ekspertise afgøres navnlig ud fra den udførte databehandling og den beskyttelse, der kræves af de personoplysninger, som behandles af den registeransvarlige eller registerføreren."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja ja volitatud töötleja lähtuvad andmekaitseametniku määramisel tema kutseoskustest, eelkõige isikuandmete kaitse alaste õigusaktide ja tava tundmisest ning suutlikkusest täita artiklis 37 osutatud ülesandeid. Erialateadmised määratakse kindlaks eelkõige vastavalt andmete töötlemise laadile ja vastutava töötleja ja volitatud töötleja töödeldavate isikuandmete kaitsmise nõuetele."
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας ή ο εκτελών την επεξεργασία ορίζουν τον υπεύθυνο προστασίας δεδομένων βάσει επαγγελματικών προσόντων και ιδίως πείρας στο δίκαιο και στις πρακτικές προστασίας των δεδομένων και ικανότητας εκπλήρωσης των καθηκόντων που αναφέρονται στο άρθρο 37. Το αναγκαίο επίπεδο πείρας καθορίζεται ειδικότερα ανάλογα με την επεξεργασία δεδομένων που διενεργείται και από την προστασία την οποία απαιτούν τα δεδομένα προσωπικού χαρακτήρα που επεξεργάζονται ο υπεύθυνος επεξεργασίας ή ο εκτελών την επεξεργασία."
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът или обработващият лични данни определя длъжностното лице по защита на данните въз основа на неговите професионални качества, и по-специално въз основа на експертните му познания в областта на законодателството и практиките за защита на данните и способността му да изпълнява задачите, посочени в член 37. Необходимото ниво на експертни познания се определят по-специално в съответствие с извършваното обработване на данни и защитата, която е необходима за личните данни, обработвани от администратора или обработващия лични данни."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő vagy -feldolgozó az adatvédelmi tisztviselőt szakmai képesítés és elsősorban az adatvédelmi jog és gyakorlat szakértői szintű ismerete, valamint a 37. cikkben említett feladatok ellátására való alkalmasság alapján jelöli ki. A szakértői ismeretek szükséges szintjét kifejezetten az adatkezelő vagy -feldolgozó által végzett adatfeldolgozás, valamint az általuk feldolgozott személyes adatok tekintetében megkövetelt védelem határozza meg."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur jew il-proċessur għandhom jaħtru lill-uffiċjal tal-protezzjoni tad-dejta fuq il-bażi tal-kwalitajiet professjonali u, b’mod partikolari, l-għarfien espert tal-liġi u tal-prattiki dwar il-protezzjoni tad-dejta u l-ħila li jwettaq il-kompiti msemmija fl-Artikolu 37. Il-livell meħtieġ ta’ għarfien espert għandu jkun stabbilit b’mod partikolari skont l-ipproċessar tad-dejta li jkun sar u l-protezzjoni meħtieġa għad-dejta personali pproċessata mill-kontrollur jew mill-proċessur."
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinis vai apstrādātājs ieceļ datu aizsardzības inspektoru, pamatojoties uz tā profesionālo kvalifikāciju, jo īpaši pamatojoties uz eksperta līmeņa zināšanām datu aizsardzības tiesību un prakses jomā un spēju pildīt uzdevumus, kas minēti 37. pantā. Nepieciešamo eksperta zināšanu līmeni nosaka jo īpaši ņemot vērā datu apstrādi, kas tiek veikta, un aizsardzību, kas nepieciešama pārziņa vai apstrādātāja apstrādātajiem personas datiem."
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul sau persoana împuternicită de către operator desemnează responsabilul cu protecția datelor în baza calităților profesionale și, în special, a cunoștințelor de specialitate în materie de legislație și practici privind protecția datelor și a capacității de a îndeplini sarcinile menționate la articolul 37. Nivelul necesar al cunoștințelor de specialitate se stabilește în special în special în funcție de prelucrarea efectuată asupra datelor și de gradul de protecție impus pentru datele cu caracter personal prelucrate de către operator sau de persoana împuternicită de către operator."
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ alebo sprostredkovateľ určia úradníka pre ochranu údajov na základe odborných kvalít, a to najmä na základe odborných znalostí práva a praxe v oblasti ochrany údajov a na základe schopností plniť úlohy uvedené v článku 37. Potrebná úroveň odborných znalostí sa určí najmä s ohľadom na spracovanie osobných údajov, ktoré sa vykonáva, a na ochranu vyžadovanú pre osobné údaje, ktoré spracúva prevádzkovateľ alebo sprostredkovateľ."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec ali obdelovalec uradno osebo za varstvo podatkov imenuje na podlagi strokovnih odlik in zlasti strokovnega znanja o zakonodaji in praksah varstva podatkov ter zmožnosti za opravljanje nalog iz člena 37. Stopnja potrebnega strokovnega znanja se določi zlasti v skladu z izvedeno obdelavo podatkov in varstvom, ki ga zahtevajo osebni podatki, obdelani s strani upravljavca ali obdelovalca."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän tai henkilötietojen käsittelijän on tietosuojavastaavaa nimitettäessä otettava huomioon ammattipätevyys ja erityisesti tietosuojalainsäädäntöä ja alan käytänteitä koskeva erityisasiantuntemus sekä valmiudet suorittaa 37 artiklassa tarkoitetut tehtävät. Tarvittavan erityisasiantuntemuksen taso määräytyy etenkin rekisterinpitäjän ja henkilötietojen käsittelijän suorittaman tietojenkäsittelyn ja käsiteltävien tietojen edellyttämän suojan perusteella."
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator lub podmiot przetwarzający wyznaczają inspektora ochrony danych na podstawie jego kwalifikacji zawodowych oraz w szczególności jego wiedzy specjalistycznej z zakresu prawa ochrony danych, praktyki i zdolności do wykonywania zadań, o których mowa w art. 37. Niezbędny poziom wiedzy specjalistycznej ustala się w szczególności zgodnie z prowadzonym przetwarzaniem danych oraz ochroną wymaganą dla danych osobowych przetwarzanych przez administratora lub podmiot przetwarzający."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas arba duomenų tvarkytojas duomenų apsaugos pareigūną paskiria vertindamas profesinę kvalifikaciją ir visų pirma duomenų apsaugos teisės aktų ir praktikos išmanymą, taip pat gebėjimą atlikti 37 straipsnyje nurodytas užduotis. Būtinas dalykinių žinių lygis visų pirma nustatomas atsižvelgiant į atliekamą duomenų tvarkymą ir būtiną duomenų valdytojo arba duomenų tvarkytojo tvarkomų asmens duomenų apsaugą."
+		},
+		{
+			"lang": "nl",
+			"text": "De functionaris voor gegevensbescherming wordt door de voor de verwerking verantwoordelijke of de verwerker aangewezen op grond van zijn professionele kwaliteiten en, in het bijzonder, zijn deskundigheid op het gebied van de wetgeving en de praktijk inzake gegevensbescherming en zijn vermogen de in artikel 37 bedoelde taken te vervullen. Het vereiste niveau van deskundigheid wordt met name bepaald op grond van de uitgevoerde gegevensverwerking en de bescherming die voor de door de voor de verwerking verantwoordelijke of de verwerker verwerkte gegevens vereist is."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige eller registerföraren ska utnämna uppgiftsskyddsombudet på grundval av yrkesmässiga kvalifikationer och, i synnerhet, expertkunnande om lagstiftning och praxis avseende uppgiftsskydd samt förmåga att fullgöra de arbetsuppgifter som avses i artikel 37. Den nödvändiga nivån på expertkunnandet ska fastställas särskilt i enlighet med den uppgiftsbehandling som utförs och det skydd som krävs för de personuppgifter som behandlas av den registeransvarige och registerföraren."
+		}
+	],
+	"children": [],
+	"title": "Article 35 – Paragraph 5"
+}

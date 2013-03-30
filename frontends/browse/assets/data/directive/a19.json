@@ -1,0 +1,106 @@
+{
+	"id": "a19",
+	"type": "article",
+	"literal": "19",
+	"parent": "c3s4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Right to object"
+		},
+		{
+			"lang": "de",
+			"text": "Widerspruchsrecht"
+		},
+		{
+			"lang": "fr",
+			"text": "Droit d'opposition"
+		},
+		{
+			"lang": "es",
+			"text": "Derecho de oposición"
+		},
+		{
+			"lang": "pt",
+			"text": "Direito de oposição"
+		},
+		{
+			"lang": "it",
+			"text": "Diritto di opposizione"
+		},
+		{
+			"lang": "ga",
+			"text": "An ceart agóide"
+		},
+		{
+			"lang": "cs",
+			"text": "Právo vznést námitku"
+		},
+		{
+			"lang": "da",
+			"text": "Ret til indsigelse"
+		},
+		{
+			"lang": "et",
+			"text": "Vaidlustamisõigus"
+		},
+		{
+			"lang": "el",
+			"text": "Δικαίωμα αντίταξης"
+		},
+		{
+			"lang": "bg",
+			"text": "Право на възражение"
+		},
+		{
+			"lang": "hu",
+			"text": "A kifogásoláshoz való jog"
+		},
+		{
+			"lang": "mt",
+			"text": "Dritt għall-oġġezzjoni"
+		},
+		{
+			"lang": "lv",
+			"text": "Tiesības iebilst"
+		},
+		{
+			"lang": "ro",
+			"text": "Dreptul la opoziție"
+		},
+		{
+			"lang": "sk",
+			"text": "Právo namietať"
+		},
+		{
+			"lang": "sl",
+			"text": "Pravica do ugovora"
+		},
+		{
+			"lang": "fi",
+			"text": "Oikeus vastustaa henkilötietojen käsittelyä"
+		},
+		{
+			"lang": "pl",
+			"text": "Prawo wniesienia sprzeciwu"
+		},
+		{
+			"lang": "lt",
+			"text": "Teisė nesutikti"
+		},
+		{
+			"lang": "nl",
+			"text": "Recht van bezwaar"
+		},
+		{
+			"lang": "sv",
+			"text": "Rätt att göra invändningar"
+		}
+	],
+	"children": [
+		"a19p1",
+		"a19p2",
+		"a19p3"
+	],
+	"title": "Article 19"
+}

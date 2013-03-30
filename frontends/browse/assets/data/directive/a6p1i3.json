@@ -1,0 +1,102 @@
+{
+	"id": "a6p1i3",
+	"type": "point",
+	"literal": "c",
+	"parent": "a6p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "processing is necessary for compliance with a legal obligation to which the controller is subject;"
+		},
+		{
+			"lang": "de",
+			"text": "Die Verarbeitung ist zur Erfüllung einer gesetzlichen Verpflichtung erforderlich, der der für die Verarbeitung Verantwortliche unterliegt."
+		},
+		{
+			"lang": "fr",
+			"text": "le traitement est nécessaire au respect d'une obligation légale à laquelle le responsable du traitement est soumis;"
+		},
+		{
+			"lang": "es",
+			"text": "el tratamiento es necesario para el cumplimiento de una obligación jurídica a la que está sujeto el responsable del tratamiento,"
+		},
+		{
+			"lang": "pt",
+			"text": "O tratamento for necessário para o respeito de uma obrigação jurídica a que o responsável pelo tratamento esteja sujeito;"
+		},
+		{
+			"lang": "it",
+			"text": "il trattamento è necessario per adempiere un obbligo legale al quale è soggetto il responsabile del trattamento;"
+		},
+		{
+			"lang": "ga",
+			"text": "is ga an phróiseáil a dhéanamh chun oibleagáid dhlíthiúil a bhfuil an rialtóir faoina réir a chomhlíonadh;"
+		},
+		{
+			"lang": "cs",
+			"text": "zpracování je nezbytné pro splnění právní povinnosti, které podléhá správce;"
+		},
+		{
+			"lang": "da",
+			"text": "behandlingen er nødvendig for at overholde en retlig forpligtelse, som gælder for den registeransvarlige"
+		},
+		{
+			"lang": "et",
+			"text": "töötlemine on vajalik vastutava töötleja seadusjärgse kohustuse täitmiseks;"
+		},
+		{
+			"lang": "el",
+			"text": "γ) η επεξεργασία είναι απαραίτητη για την τήρηση εκ του νόμου υποχρεώσεως του υπευθύνου της επεξεργασίας·"
+		},
+		{
+			"lang": "bg",
+			"text": "в) обработването е необходимо за спазването на законово задължение, което се прилага спрямо администратора;"
+		},
+		{
+			"lang": "hu",
+			"text": "az adatfeldolgozás az adatkezelőre vonatkozó jogi kötelezettség teljesítéséhez szükséges;"
+		},
+		{
+			"lang": "mt",
+			"text": "l-ipproċessar huwa meħtieġ għall-konformità ma’ obbligu legali li għalih huwa soġġett il-kontrollur;"
+		},
+		{
+			"lang": "lv",
+			"text": "apstrāde ir vajadzīga, lai izpildītu pārzinim uzliktu juridisku pienākumu;"
+		},
+		{
+			"lang": "ro",
+			"text": "prelucrarea este necesară în vederea îndeplinirii unei obligații legale care îi revine operatorului;"
+		},
+		{
+			"lang": "sk",
+			"text": "spracovanie je nevyhnutné na splnenie zákonnej povinnosti prevádzkovateľa;"
+		},
+		{
+			"lang": "sl",
+			"text": "obdelava je potrebna za izpolnitev zakonske obveznosti, ki velja za upravljavca;"
+		},
+		{
+			"lang": "fi",
+			"text": "käsittely on tarpeen rekisterinpitäjän lakisääteisen velvoitteen noudattamiseksi;"
+		},
+		{
+			"lang": "pl",
+			"text": "przetwarzanie jest niezbędne do wypełnienia obowiązku prawnego ciążącego na administratorze;"
+		},
+		{
+			"lang": "lt",
+			"text": "tvarkyti duomenis reikia siekiant, kad duomenų valdytojas įvykdytų savo teisinę pareigą;"
+		},
+		{
+			"lang": "nl",
+			"text": "de verwerking is noodzakelijk om te voldoen aan een wettelijke verplichting van de voor de verwerking verantwoordelijke;"
+		},
+		{
+			"lang": "sv",
+			"text": "Behandlingen är nödvändig för att fullgöra en rättslig förpliktelse som åvilar den registeransvarige."
+		}
+	],
+	"children": [],
+	"title": "Article 6 – Paragraph 1 – Point 3"
+}

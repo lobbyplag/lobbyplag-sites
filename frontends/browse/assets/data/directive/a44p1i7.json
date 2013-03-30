@@ -1,0 +1,102 @@
+{
+	"id": "a44p1i7",
+	"type": "point",
+	"literal": "g",
+	"parent": "a44p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the transfer is made from a register which according to Union or Member State law is intended to provide information to the public and which is open to consultation either by the public in general or by any person who can demonstrate legitimate interest, to the extent that the conditions laid down in Union or Member State law for consultation are fulfilled in the particular case; or"
+		},
+		{
+			"lang": "de",
+			"text": "die Übermittlung aus einem Register erfolgt, das gemäß dem Unionsrecht oder dem mitgliedstaatlichen Recht zur Information der Öffentlichkeit bestimmt ist und entweder der gesamten Öffentlichkeit oder allen Personen, die ein berechtigtes Interesse nachweisen können, zur Einsichtnahme offensteht, soweit die im Unionsrecht oder im mitgliedstaatlichen Recht festgelegten Voraussetzungen für die Einsichtnahme im Einzelfall gegeben sind, oder"
+		},
+		{
+			"lang": "fr",
+			"text": "le transfert intervienne au départ d'un registre public qui, en vertu de dispositions du droit de l'Union ou des États membres, est destiné à l'information du public et est ouvert à la consultation du public ou de toute personne justifiant d'un intérêt légitime, dans la mesure où les conditions prévues dans le droit de l'Union ou des États membres pour la consultation sont remplies dans le cas particulier; ou"
+		},
+		{
+			"lang": "es",
+			"text": "la transferencia se realice desde un registro público que, con arreglo al Derecho de la Unión o de un Estado miembro, tenga por objeto facilitar información al público y esté abierto a la consulta del público en general o de cualquier persona que pueda acreditar un interés legítimo, en la medida en que se cumplan, en cada caso particular, las condiciones que establece el Derecho de la Unión o de un Estado miembro para la consulta; o"
+		},
+		{
+			"lang": "pt",
+			"text": "A transferência for realizada a partir de um registo público que, nos termos da legislação União ou de um Estado-Membro, se destine à informação do público e se encontre aberto à consulta do público em geral ou de qualquer pessoa que possa provar um interesse legítimo, na medida em que as condições estabelecidas no direito da União ou de um Estado-Membro para a consulta estejam preenchidas no caso concreto; ou"
+		},
+		{
+			"lang": "it",
+			"text": "il trasferimento sia effettuato a partire da un registro che, a norma del diritto dell’Unione o di uno Stato membro, mira a fornire informazioni al pubblico e può esser consultato tanto dal pubblico in generale quanto da chiunque sia in grado di dimostrare un legittimo interesse, purché sussistano i requisiti per la consultazione previsti dal diritto dell’Unione o dello Stato membro, oppure"
+		},
+		{
+			"lang": "ga",
+			"text": "go ndéantar an t‑aistriú ó chlár arna cheapadh, de réir dhlí an Aontais nó dlí Ballstáit, chun faisnéis a chur ar fáil don phobal, ar clár é a fhéadfaidh an pobal i gcoitinne a cheadú nó a fhéadfaidh aon duine is féidir leas dlisteanach a léiriú a cheadú, ar chuntar go bhfuil na coinníollacha maidir le comhairliúchán atá leagtha síos i ndlí an Aontais nó i ndlí Ballstáit comhlíonta sa chás sin; nó"
+		},
+		{
+			"lang": "cs",
+			"text": "k předání dochází z rejstříku, který je na základě práva Unie nebo členských států určen pro informování veřejnosti a je přístupný k nahlížení veřejnosti obecně nebo jakékoli osobě, která prokáže oprávněný zájem, pokud jsou v daném případě splněny právní předpisy Unie nebo členských států pro nahlížení, nebo"
+		},
+		{
+			"lang": "da",
+			"text": "videregivelsen finder sted fra et register, der ifølge EU-retten eller medlemsstatens lovgivning er beregnet til at informere offentligheden, og som er tilgængeligt for offentligheden generelt eller for personer, der kan godtgøre at have en legitim interesse heri, i det omfang de ved lov fastsatte betingelser for offentlig tilgængelighed er opfyldt i det specifikke tilfælde, eller"
+		},
+		{
+			"lang": "et",
+			"text": "edastamine tehakse registrist, mis liidu või liikmesriigi õigusaktide kohaselt on mõeldud avalikkuse teavitamiseks ja on tutvumiseks avatud laiemale avalikkusele või kõigile õigustatud huviga isikutele, kuivõrd konkreetsel juhul täidetakse tutvumist käsitlevaid tingimusi, mis liidu või liikmesriigi õigusaktidega on ette nähtud, või"
+		},
+		{
+			"lang": "el",
+			"text": "ζ) η διαβίβαση πραγματοποιείται από μητρώο το οποίο σύμφωνα με το δίκαιο της Ένωσης ή δίκαιο κράτους μέλους προορίζεται για την παροχή πληροφοριών στο κοινό και είναι ανοικτό για αναζήτηση πληροφοριών είτε γενικά από το ευρύ κοινό είτε από οποιοδήποτε πρόσωπο που μπορεί να αποδείξει έννομο συμφέρον, εφόσον πληρούνται στη συγκεκριμένη περίπτωση οι προϋποθέσεις που προβλέπονται στο δίκαιο της Ένωσης ή στο δίκαιο του κράτους μέλους για την αναζήτηση πληροφοριών · ή"
+		},
+		{
+			"lang": "bg",
+			"text": "ж) предаването се извършва от регистрационна система, която съгласно правото на Съюза или на държавите-членки, е предназначена да предоставя информация на обществеността и е достъпна за справка от обществеността по принцип или от всяко лице, което може да докаже, че има законен интерес за това, доколкото условията за справка, установени в правото на Съюза или на държавите-членки, са изпълнени в конкретния случай; или"
+		},
+		{
+			"lang": "hu",
+			"text": "a továbbítást olyan nyilvántartásból végzik, amely az uniós vagy nemzeti jog értelmében a nyilvánosság tájékoztatását szolgálja, és amely általában a nyilvánosság vagy bármely jogos érdekét igazoló személy számára betekintés céljából rendelkezésre áll, amennyiben az uniós vagy nemzeti jog által a betekintésre megállapított feltételek az adott esetben teljesülnek; vagy"
+		},
+		{
+			"lang": "mt",
+			"text": "it-trasferiment isir minn reġistru li skont il-liġi tal-Unjoni jew tal-Istat Membru huwa maħsub sabiex jipprovdi informazzjoni lill-pubbliku u li huwa miftuħ għall-konsultazzjoni kemm mill-pubbliku inġenerali jew minn kwalunkwe persuna li tista’ turi interess leġittimu, safejn il-kundizzjonijiet stabbiliti taħt il-liġi tal-Unjoni jew tal-Istat Membru għall-konsultazzjoni jkunu ssodisfati fil-każ partikolari; jew"
+		},
+		{
+			"lang": "lv",
+			"text": "nosūtīšanu izdara no reģistra, kurš saskaņā ar Savienības vai dalībvalsts tiesībām ir paredzēts, lai sniegtu informāciju sabiedrībai, un kurā var ieskatīties vai nu sabiedrība vispārīgi vai jebkura likumīgi ieinteresēta persona, ciktāl konkrētajā gadījumā tiek pildīti Savienības vai dalībvalsts tiesībās paredzētie ieskatīšanās nosacījumi; vai"
+		},
+		{
+			"lang": "ro",
+			"text": "transferul se realizează dintr-un registru care, potrivit dreptului Uniunii sau al statului membru, are scopul de a furniza informații publicului și care poate fi consultat fie de public, în general, fie de orice persoană care poate face dovada interesului legitim, în măsura în care sunt îndeplinite condițiile cu privire la consultare prevăzute de dreptul Uniunii sau al statului membru în acel caz specific; sau"
+		},
+		{
+			"lang": "sk",
+			"text": "prenos sa uskutočňuje z registra, ktorý je podľa práva Únie alebo členského štátu určený na poskytovanie informácií verejnosti a ktorý je otvorený na nahliadanie verejnosti alebo akejkoľvek osobe, ktorá môže preukázať oprávnený záujem, pokiaľ podmienky stanovené právnymi predpismi Únie alebo právnymi predpismi členského štátu na nahliadanie sú v tomto konkrétnom prípade splnené, alebo"
+		},
+		{
+			"lang": "sl",
+			"text": "se prenos opravi iz registra, ki je po zakonodaji Unije ali zakonodaji držav članic namenjen zagotavljanju informacij javnosti in je na voljo za vpogled bodisi javnosti na splošno bodisi kateri koli osebi, ki lahko izkaže pravni interes, v kolikor so v posameznem primeru izpolnjeni pogoji za tak vpogled, določeni v zakonodaji Unije ali zakonodaji držav članic; ali"
+		},
+		{
+			"lang": "fi",
+			"text": "siirto tehdään julkisesta rekisteristä, joka on unionin tai jäsenvaltion lainsäädännön mukaisesti yleisön käytettävissä tai kenen tahansa sellaisen henkilön käytettävissä, joka voi esittää tiedonsaannille perustellun syyn, siltä osin kuin rekisterin käytettävissä olemisen edellytykset, joista säädetään unionin tai jäsenvaltion lainsäädännössä, täyttyvät kussakin yksittäisessä tapauksessa; tai"
+		},
+		{
+			"lang": "pl",
+			"text": "przekazanie następuje z rejestru, który zgodnie z prawem Unii lub państwa członkowskiego ma służyć za źródło informacji dla ogółu społeczeństwa, udostępnionego do konsultacji obywateli i każdej osoby mogącej wykazać słuszny interes, o ile warunki określone przez prawo Unii lub państwa członkowskiego odnośnie do wglądu do takiego rejestru zostały w danym przypadku spełnione; lub"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenys perduodami iš registro, kuriuo pagal Sąjungos arba valstybės narės teisės aktus naudojamasi teikiant informaciją visuomenei ir su kuriame esančia informacija gali susipažinti plačioji visuomenė arba bet kuris asmuo, galintis įrodyti teisėtą interesą, jeigu kiekvienu konkrečiu atveju laikomasi Sąjungos arba valstybės narės teisės aktais nustatytų susipažinimo su tokiame registre esančia informacija sąlygų; arba"
+		},
+		{
+			"lang": "nl",
+			"text": "de doorgifte geschiedt vanuit een openbaar register dat krachtens de EU-wetgeving of de nationale wetgeving bedoeld is om het publiek voor te lichten en dat door eenieder dan wel door iedere persoon die zich op een rechtmatig belang kan beroepen, kan worden geraadpleegd, voor zover in het betrokken geval is voldaan aan de voorwaarden van de EU-wetgeving of de nationale wetgeving voor raadpleging; of"
+		},
+		{
+			"lang": "sv",
+			"text": "Överföringen görs från ett register som enligt unionens eller medlemsstatens lagstiftning är avsett att ge allmänheten information och som är tillgängligt antingen för allmänheten eller för var och en som kan styrka ett berättigat intresse, i den utsträckning som de i unionslagstiftningen eller medlemsstatens lagstiftning angivna villkoren för tillgänglighet uppfylls i det enskilda fallet."
+		}
+	],
+	"children": [],
+	"title": "Article 44 – Paragraph 1 – Point 7"
+}

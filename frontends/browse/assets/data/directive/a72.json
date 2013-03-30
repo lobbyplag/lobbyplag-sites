@@ -1,0 +1,106 @@
+{
+	"id": "a72",
+	"type": "article",
+	"literal": "72",
+	"parent": "c7s3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Confidentiality"
+		},
+		{
+			"lang": "de",
+			"text": "Vertraulichkeit"
+		},
+		{
+			"lang": "fr",
+			"text": "Confidentialité"
+		},
+		{
+			"lang": "es",
+			"text": "Confidencialidad"
+		},
+		{
+			"lang": "pt",
+			"text": "Confidencialidade"
+		},
+		{
+			"lang": "it",
+			"text": "Riservatezza"
+		},
+		{
+			"lang": "ga",
+			"text": "Rúndacht"
+		},
+		{
+			"lang": "cs",
+			"text": "Důvěrnost"
+		},
+		{
+			"lang": "da",
+			"text": "Fortrolighed"
+		},
+		{
+			"lang": "et",
+			"text": "Konfidentsiaalsus"
+		},
+		{
+			"lang": "el",
+			"text": "Εμπιστευτικότητα"
+		},
+		{
+			"lang": "bg",
+			"text": "Поверителност"
+		},
+		{
+			"lang": "hu",
+			"text": "Titoktartás"
+		},
+		{
+			"lang": "mt",
+			"text": "Kunfidenzjalità"
+		},
+		{
+			"lang": "lv",
+			"text": "Konfidencialitāte"
+		},
+		{
+			"lang": "ro",
+			"text": "Confidențialitate"
+		},
+		{
+			"lang": "sk",
+			"text": "Dôvernosť"
+		},
+		{
+			"lang": "sl",
+			"text": "Zaupnost"
+		},
+		{
+			"lang": "fi",
+			"text": "Luottamuksellisuus"
+		},
+		{
+			"lang": "pl",
+			"text": "Poufność"
+		},
+		{
+			"lang": "lt",
+			"text": "Konfidencialumas"
+		},
+		{
+			"lang": "nl",
+			"text": "Vertrouwelijkheid"
+		},
+		{
+			"lang": "sv",
+			"text": "Sekretess"
+		}
+	],
+	"children": [
+		"a72p1",
+		"a72p2",
+		"a72p3"
+	],
+	"title": "Article 72"
+}

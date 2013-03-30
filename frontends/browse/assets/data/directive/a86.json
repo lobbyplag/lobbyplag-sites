@@ -1,0 +1,108 @@
+{
+	"id": "a86",
+	"type": "article",
+	"literal": "86",
+	"parent": "c10",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Exercise of the delegation"
+		},
+		{
+			"lang": "de",
+			"text": "Befugnisübertragung"
+		},
+		{
+			"lang": "fr",
+			"text": "Exercice de la délégation"
+		},
+		{
+			"lang": "es",
+			"text": "Ejercicio de la delegación"
+		},
+		{
+			"lang": "pt",
+			"text": "Exercício de delegação"
+		},
+		{
+			"lang": "it",
+			"text": "Esercizio della delega"
+		},
+		{
+			"lang": "ga",
+			"text": "An tarmligean a fheidhmiú"
+		},
+		{
+			"lang": "cs",
+			"text": "Výkon přenesené pravomoci"
+		},
+		{
+			"lang": "da",
+			"text": "Udøvelse af de delegerede beføjelser"
+		},
+		{
+			"lang": "et",
+			"text": "Delegeeritud volituste rakendamine"
+		},
+		{
+			"lang": "el",
+			"text": "Άσκηση της εξουσιοδότησης"
+		},
+		{
+			"lang": "bg",
+			"text": "Упражняване на делегирането"
+		},
+		{
+			"lang": "hu",
+			"text": "A felhatalmazás gyakorlása"
+		},
+		{
+			"lang": "mt",
+			"text": "Eżerċizzju tad-delegazzjoni"
+		},
+		{
+			"lang": "lv",
+			"text": "Deleģēšana"
+		},
+		{
+			"lang": "ro",
+			"text": "Exercitarea delegării de competențe"
+		},
+		{
+			"lang": "sk",
+			"text": "Výkon delegovaných právomocí"
+		},
+		{
+			"lang": "sl",
+			"text": "Prenos pooblastila"
+		},
+		{
+			"lang": "fi",
+			"text": "Siirretyn säädösvallan käyttäminen"
+		},
+		{
+			"lang": "pl",
+			"text": "Wykonywanie przekazanych uprawnień"
+		},
+		{
+			"lang": "lt",
+			"text": "Naudojimasis suteiktais įgaliojimais"
+		},
+		{
+			"lang": "nl",
+			"text": "Uitoefening van de bevoegdheidsdelegatie"
+		},
+		{
+			"lang": "sv",
+			"text": "Delegeringens utövande"
+		}
+	],
+	"children": [
+		"a86p1",
+		"a86p2",
+		"a86p3",
+		"a86p4",
+		"a86p5"
+	],
+	"title": "Article 86"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "a30p4i2",
+	"type": "point",
+	"literal": "b",
+	"parent": "a30p4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "prevent any unauthorised disclosure, reading, copying, modification, erasure or removal of personal data;"
+		},
+		{
+			"lang": "de",
+			"text": "jedwede unbefugte Einsichtnahme in personenbezogene Daten sowie jedwede unbefugte Offenlegung, Kopie, Änderung, Löschung oder Entfernung von personenbezogenen Daten zu verhindern;"
+		},
+		{
+			"lang": "fr",
+			"text": "d'empêcher toute forme non autorisée de divulgation, de lecture, de copie, de modification, d'effacement ou de suppression de données à caractère personnel;"
+		},
+		{
+			"lang": "es",
+			"text": "impedir cualquier forma no autorizada de comunicación, lectura, copia, modificación, supresión o cancelación de datos personales;"
+		},
+		{
+			"lang": "pt",
+			"text": "Impedir qualquer forma não autorizada de divulgação, leitura, reprodução, alteração, apagamento ou retirada de dados;"
+		},
+		{
+			"lang": "it",
+			"text": "impedire qualunque forma non autorizzata di divulgazione, lettura, copia, modifica, cancellazione o rimozione dei dati personali;"
+		},
+		{
+			"lang": "ga",
+			"text": "chun cosc a chur le haon chás neamhúdaraithe ina nochtar, ina léitear, ina gcóipeáiltear, ina modhnaítear, ina scriostar nó ina n‑aistrítear sonraí pearsanta;"
+		},
+		{
+			"lang": "cs",
+			"text": "předešla nedovolenému sdělování, čtení, kopírování, upravování, výmazu či odstranění osobních údajů;"
+		},
+		{
+			"lang": "da",
+			"text": "at forhindre ubeføjet videregivelse, læsning, kopiering, ændring, sletning eller fjernelse af personoplysninger"
+		},
+		{
+			"lang": "et",
+			"text": "vältida isikuandmete loata avalikustamist, lugemist, kopeerimist, muutmist, kustutamist ja eemaldamist;"
+		},
+		{
+			"lang": "el",
+			"text": "β) την αποφυγή κάθε μη εξουσιοδοτημένης κοινοποίησης, ανάγνωσης, αντιγραφής, τροποποίησης, διαγραφής ή αφαίρεσης δεδομένων προσωπικού χαρακτήρα·"
+		},
+		{
+			"lang": "bg",
+			"text": "б) да се предотврати всякакво неразрешено разкриване, четене, копиране, изменяне, заличаване или отстраняване на лични данни;"
+		},
+		{
+			"lang": "hu",
+			"text": "a személyes adatok jogosulatlan közlésének, olvasásának, másolásának, módosításának, törlésének vagy eltávolításának megelőzése;"
+		},
+		{
+			"lang": "mt",
+			"text": "tipprevjeni kull żvelar, qari, ikkuppjar, tibdil, tħassir jew tneħħija mhux awtorizzata ta’ dejta personali;"
+		},
+		{
+			"lang": "lv",
+			"text": "novērstu personas datu neatļautu izpaušanu, nolasīšanu, pavairošanu, sagrozīšanu, dzēšanu vai izņemšanu;"
+		},
+		{
+			"lang": "ro",
+			"text": "preveni orice act neautorizat de divulgare, citire, copiere, modificare, ștergere sau eliminare a datelor cu caracter personal;"
+		},
+		{
+			"lang": "sk",
+			"text": "zabrániť akémukoľvek neoprávnenému sprístupneniu, čítaniu, kopírovaniu, pozmeňovaniu, vymazaniu alebo odstráneniu osobných údajov;"
+		},
+		{
+			"lang": "sl",
+			"text": "prepreči morebitno nepooblaščeno razkritje, branje, kopiranje, spreminjanje, izbris ali odstranitev osebnih podatkov;"
+		},
+		{
+			"lang": "fi",
+			"text": "henkilötietojen luvattoman luovuttamisen, lukemisen, jäljentämisen, muuttamisen, poistamisen tai siirtämisen estämiseksi;"
+		},
+		{
+			"lang": "pl",
+			"text": "zapobiegania nieuprawnionemu ujawnianiu, odczytywaniu, kopiowaniu, zmienianiu lub usuwaniu danych osobowych;"
+		},
+		{
+			"lang": "lt",
+			"text": "užkirsti kelią asmens duomenų neleistinam atskleidimui, skaitymui, kopijavimui, keitimui, ištrynimui ar pašalinimui;"
+		},
+		{
+			"lang": "nl",
+			"text": "te voorkomen dat persoonsgegevens ongeoorloofd worden verstrekt, gelezen, gekopieerd, gewijzigd, gewist of verwijderd;"
+		},
+		{
+			"lang": "sv",
+			"text": "förhindra obehörigt röjande, obehörig läsning, kopiering, ändring eller radering eller obehörigt avlägsnande av personuppgifter,"
+		}
+	],
+	"children": [],
+	"title": "Article 30 – Paragraph 4 – Point 2"
+}

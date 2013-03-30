@@ -1,0 +1,102 @@
+{
+	"id": "a4i11",
+	"type": "point",
+	"literal": "11",
+	"parent": "a4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "'biometric data' means any data relating to the physical, physiological or behavioural characteristics of an individual which allow their unique identification, such as facial images, or dactyloscopic data;"
+		},
+		{
+			"lang": "de",
+			"text": "„biometrische Daten“ Daten zu den physischen, physiologischen oder verhaltenstypischen Merkmalen eines Menschen, die dessen eindeutige Identifizierung ermöglichen, wie Gesichtsbilder oder daktyloskopische Daten;"
+		},
+		{
+			"lang": "fr",
+			"text": "«données biométriques»: toutes les données relatives aux caractéristiques physiques, physiologiques ou comportementales d'une personne physique qui permettent son identification unique, telles que des images faciales ou des données dactyloscopiques;"
+		},
+		{
+			"lang": "es",
+			"text": "«datos biométricos»: cualesquiera datos relativos a las características físicas, fisiológicas o conductuales de una persona que permitan su identificación única, como imágenes faciales o datos dactiloscópicos;"
+		},
+		{
+			"lang": "pt",
+			"text": "«Dados biométricos», quaisquer dados relativos às características físicas, fisiológicas ou comportamentais de uma pessoa singular que permitam a sua identificação única, nomeadamente imagens faciais ou dados dactiloscópicos;"
+		},
+		{
+			"lang": "it",
+			"text": "“dati biometrici”: i dati relativi alle caratteristiche fisiche, fisiologiche o comportamentali di una persona che ne consentono l’identificazione univoca, quali l’immagine facciale o i rilievi dattiloscopici;"
+		},
+		{
+			"lang": "ga",
+			"text": "ciallaíonn ‘sonraí bithmhéadracha’ aon sonraí a bhaineann le saintréithe fisiciúla, fiseolaíocha nó iompraíochta duine aonair lenar féidir é a shainaithint, amhail íomhánna den aghaidh nó sonraí dachtalascópacha;"
+		},
+		{
+			"lang": "cs",
+			"text": "„biometrickými údaji“ všechny údaje týkající se fyzických či fyziologických znaků nebo znaků chování jedince, které umožňují jeho jednoznačnou identifikaci, například snímky obličeje nebo daktyloskopické údaje;"
+		},
+		{
+			"lang": "da",
+			"text": "&quot;biometriske data&quot;: alle data vedrørende en fysisk persons fysiske, fysiologiske eller adfærdsmæssige karakteristika, der gør det muligt entydigt at identificere vedkommende, f.eks. ansigtsbillede eller fingeraftryksoplysninger"
+		},
+		{
+			"lang": "et",
+			"text": "„biomeetrilised andmed” – andmed isiku tuvastamist võimaldavate füüsiliste, füsioloogiliste ja käitumuslike omaduste kohta, näiteks näokujutis ja sõrmejäljeandmed;"
+		},
+		{
+			"lang": "el",
+			"text": "«βιομετρικά δεδομένα»: οποιαδήποτε δεδομένα σχετίζονται με φυσικά, βιολογικά ή συμπεριφορικά χαρακτηριστικά φυσικού προσώπου, τα οποία επιτρέπουν την αδιαμφισβήτητη ταυτοποίησή του, όπως εικόνες προσώπου ή δακτυλοσκοπικά δεδομένα·"
+		},
+		{
+			"lang": "bg",
+			"text": "„биометрични данни“ означава всички данни, свързани с физическите, физиологичните или поведенческите характеристики на дадено физическо лице, които позволяват неговата уникална идентификация, като лицеви изображения или дактилоскопични данни;"
+		},
+		{
+			"lang": "hu",
+			"text": "„biometrikus adat”: az egyén olyan fizikai, pszichológiai vagy viselkedési jellemzőjére vonatkozó adat, amely lehetővé teszi az egyedi azonosítását, mint például az arckép vagy a daktiloszkópiai adat;"
+		},
+		{
+			"lang": "mt",
+			"text": "‘dejta bijometrika’ tfisser kwalunkwe dejta relatata mal-karatteristiċi fiżiċi, fiżjoloġiċi jew tal-imġiba ta’ individwu li tippermetti l-identifikazzjoni unika tiegħu, bħal immaġni tal-wiċċ, jew dejta dattiloskopika;"
+		},
+		{
+			"lang": "lv",
+			"text": "&quot;biometriskie dati&quot; ir visi dati saistībā ar personas fiziskajām, psiholoģiskajām vai uzvedības pazīmēm, kas ļauj veikt unikālu identifikāciju, piemēram, sejas attēli vai daktiloskopijas dati;"
+		},
+		{
+			"lang": "ro",
+			"text": "„date biometrice” înseamnă orice date referitoare la caracteristicile fizice, fiziologice sau comportamentale ale unei persoane, care permit identificarea unică a acesteia, cum ar fi imaginile faciale sau datele dactiloscopice;"
+		},
+		{
+			"lang": "sk",
+			"text": "„biometrické údaje“ sú akékoľvek údaje týkajúce sa fyzických, fyziologických alebo behaviorálnych charakteristík fyzickej osoby, ktoré umožňujú jej jednoznačnú identifikáciu, napríklad vyobrazenia tváre alebo daktyloskopické údaje;"
+		},
+		{
+			"lang": "sl",
+			"text": "„biometrični podatki“ pomenijo vse podatke v zvezi s fizičnimi, fiziološkimi ali vedenjskimi značilnostmi posameznika, ki omogočajo njegovo edinstveno identifikacijo, kot so podobe obraza ali daktiloskopski podatki;"
+		},
+		{
+			"lang": "fi",
+			"text": "’biometrisillä tiedoilla’ kaikkia yksilön fyysisiin ja fysiologisiin ominaisuuksiin tai käyttäytymiseen liittyviä tietoja, joiden perusteella yksilö voidaan tunnistaa, kuten kasvokuvia tai sormenjälkitietoja;"
+		},
+		{
+			"lang": "pl",
+			"text": "„dane biometryczne” oznaczają wszelkie dane dotyczące cech fizycznych, fizjologicznych i behawioralnych danej osoby, które umożliwiają jej precyzyjną identyfikację, takie jak wizerunek twarzy lub dane daktyloskopijne;"
+		},
+		{
+			"lang": "lt",
+			"text": "biometriniai duomenys – bet kokie duomenys apie asmens fizinius, fiziologinius arba elgesio ypatumus, pagal kuriuos galimas unikalus jo atpažinimas, pavyzdžiui, veido atvaizdai arba daktiloskopiniai duomenys;"
+		},
+		{
+			"lang": "nl",
+			"text": "“biometrische gegevens”: alle gegevens met betrekking tot de fysieke, fysiologische of gedragskenmerken van een persoon op grond waarvan de eenduidige kenmerking van die persoon mogelijk is, zoals afbeeldingen van het gezicht of dactyloscopische gegevens;"
+		},
+		{
+			"lang": "sv",
+			"text": "biometriska uppgifter: alla uppgifter som rör en enskild persons fysiska, fysiologiska eller beteendemässiga kännetecken och som gör det möjligt att identifiera honom eller henne individuellt, såsom ansiktsbilder eller fingeravtrycksuppgifter."
+		}
+	],
+	"children": [],
+	"title": "Article 4 – Point 11"
+}

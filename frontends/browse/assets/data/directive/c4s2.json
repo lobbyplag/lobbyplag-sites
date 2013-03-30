@@ -1,0 +1,106 @@
+{
+	"id": "c4s2",
+	"type": "section",
+	"literal": "2",
+	"parent": "c4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "data SECURITY"
+		},
+		{
+			"lang": "de",
+			"text": "DATENSICHERHEIT"
+		},
+		{
+			"lang": "fr",
+			"text": "SÉCURITÉ DES DONNÉES"
+		},
+		{
+			"lang": "es",
+			"text": "SEGURIDAD DE LOS DATOS"
+		},
+		{
+			"lang": "pt",
+			"text": "SEGURANÇA DOS DADOS"
+		},
+		{
+			"lang": "it",
+			"text": "SICUREZZA DEI DATI"
+		},
+		{
+			"lang": "ga",
+			"text": "SLANDÁIL SONRAÍ"
+		},
+		{
+			"lang": "cs",
+			"text": "BEZPEČNOST ÚDAJŮ"
+		},
+		{
+			"lang": "da",
+			"text": "DATASIKKERHED"
+		},
+		{
+			"lang": "et",
+			"text": "ANDMETURVE"
+		},
+		{
+			"lang": "el",
+			"text": "ΑΣΦΑΛΕΙΑ ΔΕΔΟΜΕΝΩΝ"
+		},
+		{
+			"lang": "bg",
+			"text": "СИГУРНОСТ НА ДАННИТЕ"
+		},
+		{
+			"lang": "hu",
+			"text": "ADATBIZTONSÁG"
+		},
+		{
+			"lang": "mt",
+			"text": "SIGURTÀ TAD-DEJTA"
+		},
+		{
+			"lang": "lv",
+			"text": "DATU DROŠĪBA"
+		},
+		{
+			"lang": "ro",
+			"text": "SECURITATEA DATELOR"
+		},
+		{
+			"lang": "sk",
+			"text": "BEZPEČNOSŤ ÚDAJOV"
+		},
+		{
+			"lang": "sl",
+			"text": "VARNOST PODATKOV"
+		},
+		{
+			"lang": "fi",
+			"text": "TIETOTURVALLISUUS"
+		},
+		{
+			"lang": "pl",
+			"text": "BEZPIECZEŃSTWO danych"
+		},
+		{
+			"lang": "lt",
+			"text": "DUOMENŲ SAUGUMAS"
+		},
+		{
+			"lang": "nl",
+			"text": "GEGEVENSBEVEILIGING"
+		},
+		{
+			"lang": "sv",
+			"text": "DATASÄKERHET"
+		}
+	],
+	"children": [
+		"a30",
+		"a31",
+		"a32"
+	],
+	"title": "Chapter 4 – Section 2"
+}

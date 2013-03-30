@@ -1,0 +1,111 @@
+{
+	"id": "a14p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a14",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Where personal data relating to a data subject are collected, the controller shall provide the data subject with at least the following information:"
+		},
+		{
+			"lang": "de",
+			"text": "Einer Person, von der personenbezogene Daten erhoben werden, teilt der für die Verarbeitung Verantwortliche zumindest Folgendes mit:"
+		},
+		{
+			"lang": "fr",
+			"text": "Lorsque des données à caractère personnel relatives à une personne concernée sont collectées, le responsable du traitement doit fournir à cette personne au moins les informations suivantes:"
+		},
+		{
+			"lang": "es",
+			"text": "Cuando se recojan datos personales relativos a un interesado, el responsable del tratamiento le facilitará, al menos, la siguiente información:"
+		},
+		{
+			"lang": "pt",
+			"text": "Sempre que os dados pessoais de uma pessoa forem recolhidos, o responsável pelo tratamento deve fornecer ao titular dos dados pelo menos as seguintes informações:"
+		},
+		{
+			"lang": "it",
+			"text": "In caso di raccolta di dati personali, il responsabile del trattamento fornisce all’interessato almeno le seguenti informazioni:"
+		},
+		{
+			"lang": "ga",
+			"text": "I gcás ina mbailítear sonraí pearsanta duine is ábhar do shonraí, tabharfaidh an rialaitheoir faisnéis faoin méid seo a leanas ar a laghad don duine is ábhar do na sonraí:"
+		},
+		{
+			"lang": "cs",
+			"text": "Pokud se shromažďují údaje týkající se subjektu údajů, správce poskytne subjektu údajů alespoň tyto informace:"
+		},
+		{
+			"lang": "da",
+			"text": "Hvis personoplysninger om en registreret indsamles, udleverer den registeransvarlige mindst følgende oplysninger til den registrerede:"
+		},
+		{
+			"lang": "et",
+			"text": "Andmesubjektile, kelle isikuandmeid kogutakse, teeb vastutav töötleja teatavaks vähemalt järgmise:"
+		},
+		{
+			"lang": "el",
+			"text": "Εάν συλλέγονται δεδομένα προσωπικού χαρακτήρα που αφορούν ένα πρόσωπο, ο υπεύθυνος επεξεργασίας παρέχει στο πρόσωπο στο οποίο αναφέρονται τα δεδομένα τουλάχιστον τις ακόλουθες πληροφορίες:"
+		},
+		{
+			"lang": "bg",
+			"text": "Когато се събират лични данни, свързани с даден субект на данни, администраторът предоставя на субекта на данните най-малко следната информация относно:"
+		},
+		{
+			"lang": "hu",
+			"text": "Az érintettre vonatkozó személyes adatok gyűjtése során az adatkezelőnek legalább az alábbiakról tájékoztatnia kell az érintettet:"
+		},
+		{
+			"lang": "mt",
+			"text": "Fejn tinġabar dejta personali relatata ma’ suġġett tad-dejta, il-kontrollur għandu jipprovdi mill-inqas din l-informazzjoni li ġejja lis-suġġett tad-dejta:"
+		},
+		{
+			"lang": "lv",
+			"text": "Ja tiek vākti datu subjekta personas dati, pārzinis sniedz datu subjektam vismaz šādu informāciju:"
+		},
+		{
+			"lang": "ro",
+			"text": "Atunci când sunt colectate date cu caracter personal referitoare la o persoană vizată, operatorul furnizează persoanei vizate cel puțin următoarele informații:"
+		},
+		{
+			"lang": "sk",
+			"text": "V prípadoch, keď sa zhromažďujú osobné údaje týkajúce sa dotknutej osoby, prevádzkovateľ poskytne dotknutej osobe informácie obsahujúce aspoň:"
+		},
+		{
+			"lang": "sl",
+			"text": "Pri zbiranju osebnih podatkov v zvezi s posameznikom, na katerega se nanašajo osebni podatki, upravljavec posamezniku, na katerega se nanašajo osebni podatki, zagotovi vsaj naslednje:"
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisteröityä koskevia henkilötietoja kerättäessä rekisterinpitäjän on toimitettava rekisteröidylle ainakin seuraavat tiedot:"
+		},
+		{
+			"lang": "pl",
+			"text": "W przypadku zbierania danych osobowych odnoszących się do podmiotu danych, administrator udziela temu podmiotowi co najmniej następujących informacji:"
+		},
+		{
+			"lang": "lt",
+			"text": "Kai renkami duomenų subjekto asmens duomenys, duomenų valdytojas duomenų subjektui pateikia bent tokią informaciją:"
+		},
+		{
+			"lang": "nl",
+			"text": "Wanneer persoonsgegevens met betrekking tot de betrokkene worden verzameld, verstrekt de voor de verwerking verantwoordelijke de betrokkene ten minste de volgende informatie:"
+		},
+		{
+			"lang": "sv",
+			"text": "Om personuppgifter som rör en registrerad person samlas in, ska den registeransvarige till den registrerade åtminstone lämna information om följande:"
+		}
+	],
+	"children": [
+		"a14p1i1",
+		"a14p1i2",
+		"a14p1i3",
+		"a14p1i4",
+		"a14p1i5",
+		"a14p1i6",
+		"a14p1i7",
+		"a14p1i8"
+	],
+	"title": "Article 14 – Paragraph 1"
+}

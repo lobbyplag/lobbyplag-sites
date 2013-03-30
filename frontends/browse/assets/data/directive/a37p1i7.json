@@ -1,0 +1,102 @@
+{
+	"id": "a37p1i7",
+	"type": "point",
+	"literal": "g",
+	"parent": "a37p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "to monitor the response to requests from the supervisory authority, and, within the sphere of the data protection officer's competence, co-operating with the supervisory authority at the latter's request or on the data protection officer’s own initiative;"
+		},
+		{
+			"lang": "de",
+			"text": "Überwachung der auf Anfrage der Aufsichtsbehörde ergriffenen Maßnahmen sowie Zusammenarbeit im Rahmen der Zuständigkeiten des Datenschutzbeauftragten mit der Aufsichtsbehörde auf deren Ersuchen oder auf eigene Initiative des Datenschutzbeauftragten;"
+		},
+		{
+			"lang": "fr",
+			"text": "vérifier qu'il a été répondu aux demandes de l’autorité de contrôle et, dans le domaine de compétence du délégué à la protection des données, coopérer avec l’autorité de contrôle, à la demande de celle-ci ou à l'initiative du délégué à la protection des données;"
+		},
+		{
+			"lang": "es",
+			"text": "supervisar la respuesta a las solicitudes de la autoridad de control y, en el marco de las competencias del delegado de protección de datos, cooperar con la autoridad de control a solicitud de esta o a iniciativa propia;"
+		},
+		{
+			"lang": "pt",
+			"text": "Acompanhar a resposta aos pedidos da autoridade de controlo e, no âmbito da competência do delegado para a proteção de dados, cooperar com a autoridade de controlo, a pedido desta ou por iniciativa do próprio delegado para a proteção de dados;"
+		},
+		{
+			"lang": "it",
+			"text": "controllare che sia dato seguito alle richieste dell’autorità di controllo e, nell’ambito delle sue competenze, cooperare con l’autorità di controllo di propria iniziativa o su sua richiesta;"
+		},
+		{
+			"lang": "ga",
+			"text": "beidh air faireachán a dhéanamh ar an dóigh a bhfreagraítear d’iarrataí ón údarás maoirseachta, agus, laistigh de réimse inniúlachta an oifigigh cosanta sonraí, rachaidh sé i gcomhar leis an údarás maoirseachta arna iarraidh sin don údarás nó ar thionscnamh an oifigigh cosanta sonraí féin;"
+		},
+		{
+			"lang": "cs",
+			"text": "sledovat reakce na žádosti orgánu dozoru a v mezích svých pravomocí inspektora ochrany údajů spolupracovat s orgánem dozoru, pokud o to požádá, nebo pokud k tomu dá podnět inspektor ochrany údajů;"
+		},
+		{
+			"lang": "da",
+			"text": "at kontrollere besvarelsen af anmodninger fra tilsynsmyndigheden og inden for rammerne af den databeskyttelsesansvarliges beføjelser at samarbejde med tilsynsmyndigheden på dennes anmodning eller på eget initiativ"
+		},
+		{
+			"lang": "et",
+			"text": "jälgida järelevalveasutuse taotlustele vastamist ja oma pädevuse piires ka temaga koostöö tegemist vastavalt järelevalveasutuse taotlusele või andmekaitseametniku omal algatusel;"
+		},
+		{
+			"lang": "el",
+			"text": "ζ) να παρακολουθεί την απάντηση της αρχής ελέγχου σε αιτήματα και, στο πλαίσιο της αρμοδιότητας του υπευθύνου προστασίας δεδομένων, να συνεργάζεται με την αρχή ελέγχου κατόπιν αιτήματός της ή με πρωτοβουλία του υπευθύνου προστασίας δεδομένων·"
+		},
+		{
+			"lang": "bg",
+			"text": "ж) да наблюдава отговорите на искания от надзорния орган и, в рамките на компетентността на длъжностното лице по защита на данните, да си сътрудничи с надзорния орган по негово искане или по своя собствена инициатива;"
+		},
+		{
+			"lang": "hu",
+			"text": "a felügyelő hatóság megkeresésére adott válaszok ellenőrzése, valamint az adatvédelmi tisztviselő hatáskörén belül a felügyelő hatósággal – annak kérelmére vagy az adatvédelmi tisztviselő saját kezdeményezésre – történő együttműködés;"
+		},
+		{
+			"lang": "mt",
+			"text": "jissorvelja t-tweġibiet għat-talbiet mill-awtorità ta’ superviżjoni, u, fl-isfera tal-kompetenza tal-uffiċjal tal-protezzjoni tad-dejta, jikkoopera mal-awtorità ta’ superviżjoni fuq talba ta’ din tal-aħħar jew fuq inizjattiva tal-uffiċjal tal-protezzjoni tad-dejta stess;"
+		},
+		{
+			"lang": "lv",
+			"text": "uzraudzīt atbildes uz uzraudzības iestādes pieprasījumiem un datu aizsardzības inspektora kompetences ietvaros sadarboties ar uzraudzības iestādi pēc tās pieprasījuma vai pēc datu aizsardzības inspektora paša iniciatīvas;"
+		},
+		{
+			"lang": "ro",
+			"text": "monitorizarea răspunsului la cererile adresate de autoritatea de supraveghere, și, în limitele competenței responsabilului cu protecția datelor, cooperarea cu autoritatea de supraveghere, la cererea acesteia sau din propria inițiativă a responsabilului cu protecția datelor;"
+		},
+		{
+			"lang": "sk",
+			"text": "monitorovanie odpovedí na žiadosti dozorného orgánu a v rámci rozsahu právomocí úradníka pre ochranu údajov aj spolupráca s dozorným orgánom na jeho žiadosť či na základe jeho podnetu;"
+		},
+		{
+			"lang": "sl",
+			"text": "spremljanje odgovora na zahteve nadzornega organa in sodelovanje, v okviru pristojnosti uradne osebe za varstvo podatkov, z nadzornim organom na zahtevo slednjega ali na pobudo uradne osebe za varstvo podatkov;"
+		},
+		{
+			"lang": "fi",
+			"text": "seurata valvontaviranomaisen pyyntöihin vastaamista ja tietosuojavastaavan toimivaltuuksien mukaisesti tehdä yhteistyötä valvontaviranomaisen kanssa jälkimmäisen pyynnöstä tai tietosuojavastaavan omasta aloitteesta;"
+		},
+		{
+			"lang": "pl",
+			"text": "monitorowanie odpowiedzi na wnioski organów nadzorczych oraz, w ramach kompetencji inspektora ochrony danych, współpraca z organem nadzorczym na wniosek tego organu lub z inicjatywy inspektora ochrony danych;"
+		},
+		{
+			"lang": "lt",
+			"text": "stebėti, ką į prašymus atsako priežiūros institucija, ir priežiūros institucijos prašymu arba savo iniciatyva su ja bendradarbiauti pagal duomenų apsaugos pareigūno kompetenciją;"
+		},
+		{
+			"lang": "nl",
+			"text": "het toezien op het gevolg dat aan verzoeken van de toezichthoudende autoriteit is gegeven en het, binnen de grenzen van de bevoegdheid van de functionaris voor gegevensbescherming, verlenen van medewerking aan de toezichthoudende autoriteit op diens verzoek of op eigen initiatief van de functionaris voor gegevensbescherming;"
+		},
+		{
+			"lang": "sv",
+			"text": "Att övervaka svaret på begäranden från tillsynsmyndigheten, och, inom uppgiftsskyddsombudets behörighet, att samarbeta med tillsynsmyndigheten på den senares begäran eller på uppgiftsskyddsombudets eget initiativ."
+		}
+	],
+	"children": [],
+	"title": "Article 37 – Paragraph 1 – Point 7"
+}

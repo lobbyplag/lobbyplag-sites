@@ -1,0 +1,102 @@
+{
+	"id": "a37p1i3",
+	"type": "point",
+	"literal": "c",
+	"parent": "a37p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "to monitor the implementation and application of this Regulation, in particular as to the requirements related to data protection by design, data protection by default and data security and to the information of data subjects and their requests in exercising their rights under this Regulation;"
+		},
+		{
+			"lang": "de",
+			"text": "Überwachung der Umsetzung und Anwendung dieser Verordnung, insbesondere ihrer Anforderungen an einen Datenschutz durch Technik und an datenschutzfreundliche Voreinstellungen, an die Datensicherheit, an die Benachrichtigung der betroffenen Personen und an die Anträge der betroffenen Personen zur Wahrnehmung der ihren nach dieser Verordnung zustehenden Rechte;"
+		},
+		{
+			"lang": "fr",
+			"text": "contrôler la mise en œuvre et l'application du présent règlement, notamment en ce qui concerne les exigences relatives à la protection des données dès la conception, à la protection des données par défaut et à la sécurité des données, ainsi que l'information des personnes concernées et l’examen des demandes présentées dans l'exercice de leurs droits au titre du présent règlement;"
+		},
+		{
+			"lang": "es",
+			"text": "supervisar la implementación y aplicación del presente Reglamento, en particular por lo que hace a los requisitos relativos a la protección de datos desde el diseño, la protección de datos por defecto y la seguridad de los datos, así como a la información de los interesados y las solicitudes presentadas en el ejercicio de sus derechos en virtud del presente Reglamento;"
+		},
+		{
+			"lang": "pt",
+			"text": "Controlar a execução e a aplicação do presente regulamento, em especial quanto aos requisitos relacionados com a proteção de dados desde a conceção, a proteção de dados por defeito e a segurança de dados, bem como às informações dos titulares de dados e exame dos pedidos para exercer os seus direitos nos termos do presente regulamento;"
+		},
+		{
+			"lang": "it",
+			"text": "sorvegliare l’attuazione e l’applicazione del presente regolamento, con particolare riguardo ai requisiti concernenti la protezione fin dalla progettazione, la protezione di default, la sicurezza dei dati, l’informazione dell’interessato e le richieste degli interessati di esercitare i diritti riconosciuti dal presente regolamento;"
+		},
+		{
+			"lang": "ga",
+			"text": "beidh air faireachán a dhéanamh ar chur chun feidhme agus cur i bhfeidhm an Rialacháin seo, go háirithe maidir leis na ceanglais a bhaineann le cosaint sonraí d'aon ghnó, cosaint sonraí trí mhainneachtain agus slándáil sonraí agus a bhaineann le daoine is ábhar do shonraí a chur ar an eolas agus le hiarrataí na ndaoine sin a gcearta a fheidhmiú faoin Rialachán seo;"
+		},
+		{
+			"lang": "cs",
+			"text": "sledovat provádění a uplatňování tohoto nařízení, zejména požadavků týkajících se ochrany údajů již od návrhu, standardního nastavení ochrany údajů a bezpečnosti údajů a požadavků týkajících se informovanosti subjektů údajů a jejich žádostí o výkon jejich práv podle tohoto nařízení;"
+		},
+		{
+			"lang": "da",
+			"text": "at kontrollere gennemførelsen og anvendelsen af denne forordning, navnlig med hensyn til kravene vedrørende indbygget databeskyttelse, databeskyttelse gennem indstillinger og datasikkerhed og oplysninger til registrerede og deres anmodninger i forbindelse med udøvelsen af deres rettigheder i henhold til denne forordning"
+		},
+		{
+			"lang": "et",
+			"text": "jälgida käesoleva määruse, eelkõige isikuandmete lõimitud ja vaikimisi kaitse, andmeturbe, andmesubjektide teavitamise ning andmesubjektide poolt nende käesolevast määrusest tulenevate õiguste kasutamiseks esitatavate taotluste kohta kehtestatud nõuete rakendamist ja kohaldamist;"
+		},
+		{
+			"lang": "el",
+			"text": "γ) να παρακολουθεί τη θέση σε ισχύ και την εφαρμογή του παρόντος κανονισμού, ιδίως όσον αφορά τις απαιτήσεις που σχετίζονται με την προστασία των δεδομένων ήδη από τον σχεδιασμό, την προστασία των δεδομένων εξ ορισμού, την ασφάλεια των δεδομένων και την ενημέρωση των προσώπων στα οποία αναφέρονται τα δεδομένα και τα αιτήματά τους κατά την άσκηση των δικαιωμάτων τους που απορρέουν από τον παρόντα κανονισμό·"
+		},
+		{
+			"lang": "bg",
+			"text": "в) да наблюдава изпълнението и прилагането на настоящия регламент, по-специално по отношение на изискванията, свързани със защитата на данните още при проектирането, защитата на данните по подразбиране и сигурността на данните, както и по отношение на информирането на субектите на данни и техните искания при упражняване на правата им по силата на настоящия регламент;"
+		},
+		{
+			"lang": "hu",
+			"text": "e rendelet végrehajtásának és alkalmazásának ellenőrzése, különösen a beépített és az alapértelmezett adatvédelemre, az adatbiztonságra, valamint az érintettek tájékoztatására és az e rendelet szerinti jogaik gyakorlásakor benyújtandó kérelmekre vonatkozó követelmények tekintetében;"
+		},
+		{
+			"lang": "mt",
+			"text": "jissorvelja l-implimentazzjoni u l-applikazzjoni ta’ dan ir-Regolament, b’mod partikolari rigward ir-rekwiżiti relatati mal-protezzjoni tad-dejta bid-disinn, il-protezzjoni tad-dejta b’mod awtomatiku u s-sigurtà tad-dejta u dwar l-informazzjoni tas-suġġetti tad-dejta u t-talbiet tagħhom fl-eżerċizzju tad-drittijiet tagħhom taħt dan ir-Regolament;"
+		},
+		{
+			"lang": "lv",
+			"text": "uzraudzīt šīs regulas īstenošanu un piemērošanu, jo īpaši attiecībā uz prasībām saistībā ar integrētu datu aizsardzību, datu aizsardzību pēc noklusējuma un datu drošību, un saistībā ar datu subjektu informēšanu un datu subjektu pieprasījumiem, izmantojot viņu tiesības saskaņā ar šo regulu;"
+		},
+		{
+			"lang": "ro",
+			"text": "monitorizarea aplicării prezentului regulament, în special în ceea ce privește cerințele legate de protecția datelor de la momentul conceperii, de protecția implicită a datelor, de securitatea datelor, de informațiile persoanelor vizate și de cererile acestora în exercitarea drepturilor lor în temeiul prezentului regulament;"
+		},
+		{
+			"lang": "sk",
+			"text": "monitorovanie vykonávania a uplatňovania tohto nariadenia, najmä pokiaľ ide o požiadavky súvisiace s ochranou údajov špecificky navrhnutou, ochranou údajov štandardne určenou, s bezpečnosťou údajov, informovaním dotknutých osôb a s ich žiadosťami, ktorými vykonávajú svoje práva vyplývajúce z ustanovení prijatých podľa tohto nariadenia;"
+		},
+		{
+			"lang": "sl",
+			"text": "spremljanje izvajanja in uporabe te uredbe, zlasti v zvezi z zahtevami, povezanimi z vgrajenim varstvom podatkov in varnostjo podatkov, ter v zvezi z informacijami posameznikov, na katere se nanašajo osebni podatki, in njihovimi zahtevami pri uveljavljanju pravic na podlagi te uredbe;"
+		},
+		{
+			"lang": "fi",
+			"text": "seurata tämän asetuksen täytäntöönpanoa ja soveltamista ja erityisesti sisäänrakennettuun tietosuojaan, oletusarvoiseen tietosuojaan ja tietoturvallisuuteen liittyviä vaatimuksia sekä rekisteröidylle ilmoittamista ja rekisteröityjen esittämiä pyyntöjä, jotka koskevat tähän asetukseen pohjautuvien oikeuksien käyttöä;"
+		},
+		{
+			"lang": "pl",
+			"text": "monitorowanie wykonania i stosowania niniejszego rozporządzenia, w szczególności jeśli chodzi o wymogi dotyczące uwzględnienia ochrony danych już w fazie projektowania, ochrony danych jako opcji domyślnej i bezpieczeństwa danych oraz informowania podmiotów danych, a także wniosków w ramach wykonywania praw przysługujących im na mocy niniejszego rozporządzenia."
+		},
+		{
+			"lang": "lt",
+			"text": "stebėti šio reglamento įgyvendinimą ir taikymą, visų pirma kiek tai susiję su reikalavimais dėl pritaikytosios duomenų apsaugos, standartizuotosios duomenų apsaugos ir duomenų saugumo, taip pat informacijos teikimo duomenų subjektams ir jų prašymų, pateiktų naudojantis šiame reglamente nustatytomis teisėmis;"
+		},
+		{
+			"lang": "nl",
+			"text": "het toezien op de uitvoering en de toepassing van deze verordening, met name met betrekking tot de vereisten inzake privacy by design, privacy by default en gegevensbeveiliging en met betrekking tot het informeren van betrokkenen en hun verzoeken in het kader van de uitoefening van hun rechten uit hoofde van deze verordening;"
+		},
+		{
+			"lang": "sv",
+			"text": "Att övervaka genomförandet och tillämpningen av denna förordning, särskilt när det gäller de krav som avser inbyggt uppgiftsskydd, uppgiftsskydd som standard och datasäkerhet samt information till de registrerade och deras begäranden i utövandet av sina rättigheter enligt denna förordning."
+		}
+	],
+	"children": [],
+	"title": "Article 37 – Paragraph 1 – Point 3"
+}

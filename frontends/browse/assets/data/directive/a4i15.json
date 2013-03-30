@@ -1,0 +1,102 @@
+{
+	"id": "a4i15",
+	"type": "point",
+	"literal": "15",
+	"parent": "a4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "‘enterprise’ means any entity engaged in an economic activity, irrespective of its legal form, thus including, in particular, natural and legal persons, partnerships or associations regularly engaged in an economic activity;"
+		},
+		{
+			"lang": "de",
+			"text": "„Unternehmen“ jedes Gebilde, das eine wirtschaftliche Tätigkeit ausübt, unabhängig von seiner Rechtsform, das heißt vor allem natürliche und juristische Personen sowie Personengesellschaften oder Vereinigungen, die regelmäßig einer wirtschaftlichen Tätigkeit nachgehen;"
+		},
+		{
+			"lang": "fr",
+			"text": "«entreprise»: toute entité exerçant une activité économique, quelle que soit sa forme juridique, y compris, notamment, les personnes physiques et morales, les sociétés de personnes ou les associations qui exercent régulièrement une activité économique;"
+		},
+		{
+			"lang": "es",
+			"text": "«empresa»: toda entidad dedicada a una actividad económica, independientemente de su forma jurídica, incluidas, en particular, las personas físicas y jurídicas, así como las sociedades o asociaciones que ejerzan regularmente una actividad económica;"
+		},
+		{
+			"lang": "pt",
+			"text": "«Empresa», qualquer entidade que, independentemente da sua forma jurídica, exerce uma atividade económica, incluindo, nomeadamente, as pessoas singulares e coletivas, as sociedades ou associações que exercem regularmente uma atividade económica;"
+		},
+		{
+			"lang": "it",
+			"text": "“impresa”: ogni entità, indipendentemente dalla forma giuridica rivestita, che eserciti un’attività economica, comprendente pertanto, in particolare, le persone fisiche e giuridiche, le società di persone o le associazioni che esercitano un’attività economica;"
+		},
+		{
+			"lang": "ga",
+			"text": "ciallaíonn ‘fiontar’ aon eintiteas atá ag gabháil do ghníomhaíocht eacnamaíoch, is cuma faoi fhoirm dhlíthiúil na gníomhaíochta sin, lena n‑áirítear go háirithe daoine nádúrtha agus dlítheanacha, comhpháirtíochtaí nó comhlachais a bhíonn ag gnáthghabháil do ghníomhaíocht eacnamaíoch;"
+		},
+		{
+			"lang": "cs",
+			"text": "„podnikem“ každý subjekt vykonávající hospodářskou činnost bez ohledu na jeho právní formu. K těmto subjektům patří zejména fyzické a právnické osoby, obchodní společnosti nebo sdružení, která běžně vykonávají hospodářskou činnost;"
+		},
+		{
+			"lang": "da",
+			"text": "&quot;virksomhed&quot;: enhver enhed, som udøver økonomisk virksomhed, uanset dens retlige status, herunder navnlig fysiske og juridiske personer, partnerskaber og sammenslutninger, der regelmæssigt udøver økonomisk virksomhed"
+		},
+		{
+			"lang": "et",
+			"text": "„ettevõte” – majandustegevusega tegelev mis tahes üksus olenemata selle õiguslikust vormist, sealhulgas füüsilised ja juriidilised isikud, partnerlused ja ühendused, kes tegelevad korrapäraselt majandustegevusega;"
+		},
+		{
+			"lang": "el",
+			"text": "«επιχείρηση»: κάθε οντότητα η οποία ασκεί οικονομική δραστηριότητα, ανεξάρτητα από τον νομικό της τύπο, συμπεριλαμβανομένων, κυρίως, των φυσικών και νομικών προσώπων, των προσωπικών εταιρειών ή των ενώσεων που ασκούν τακτικά οικονομική δραστηριότητα·"
+		},
+		{
+			"lang": "bg",
+			"text": "„предприятие“ означава всяко образувание, което осъществява икономическа дейност, независимо от правната му форма, като в това число по-специално се включват физическите и юридическите лица, партньорствата или сдруженията, които редовно осъществяват икономическа дейност;"
+		},
+		{
+			"lang": "hu",
+			"text": "„vállalkozás”: gazdasági tevékenységet folytató jogalany, függetlenül a jogi formájától, ideértve különösen a rendszeres gazdasági tevékenységet folytató természetes és jogi személyeket, partnerségeket és egyesületeket;"
+		},
+		{
+			"lang": "mt",
+			"text": "‘impriża’ tfisser kull entità impenjata f’attività ekonomika, irrispettivament mill-forma legali tagħha, u b’hekk tinkludi, b’mod partikolari, persuni fiżiċi u ġuridiċi, sħubiji jew assoċjazzjonijiet regolarment impenjati f’attività ekonomika;"
+		},
+		{
+			"lang": "lv",
+			"text": "&quot;uzņēmums&quot; ir jebkura vienība, kas veic saimniecisku darbību, neatkarīgi no tās juridiskā statusa, tādējādi jo īpaši ietverot fiziskas un juridiskas personas, partnerības vai asociācijas, kas regulāri veic saimniecisku darbību;"
+		},
+		{
+			"lang": "ro",
+			"text": "„întreprindere” înseamnă orice entitate care desfășoară o activitate economică, indiferent de forma juridică a acesteia, cuprinzând, în special, persoane fizice și juridice, parteneriate sau asociații care desfășoară în mod regulat o activitate economică;"
+		},
+		{
+			"lang": "sk",
+			"text": "„podnik“ je akýkoľvek subjekt vykonávajúci hospodársku činnosť bez ohľadu na jeho právnu formu; ide teda konkrétne aj o fyzické a právnické osoby, partnerstvá alebo združenia, ktoré pravidelne vykonávajú hospodársku činnosť;"
+		},
+		{
+			"lang": "sl",
+			"text": "„podjetje“ pomeni vsak subjekt, ki opravlja gospodarsko dejavnost, ne glede na njegovo pravno obliko, in obsega zlasti fizične in pravne osebe, partnerstva ali združenja, ki redno opravljajo gospodarsko dejavnost;"
+		},
+		{
+			"lang": "fi",
+			"text": "’yrityksellä’ taloudellista toimintaa harjoittavaa yksikköä sen oikeudellisesta muodosta riippumatta, mukaan lukien erityisesti luonnolliset ja oikeushenkilöt, kumppanuudet tai yhdistykset, jotka säännöllisesti harjoittavat taloudellista toimintaa;"
+		},
+		{
+			"lang": "pl",
+			"text": "„przedsiębiorstwo” oznacza każdy podmiot prowadzący działalność gospodarczą, niezależne od jego formy prawnej, w tym w szczególności osoby fizyczne i prawne, partnerstwa lub zrzeszenia prowadzące regularną działalność gospodarczą;"
+		},
+		{
+			"lang": "lt",
+			"text": "įmonė – bet kuris bet kokios teisinės formos ekonomine veikla užsiimantis subjektas, visų pirma reguliaria ekonomine veikla užsiimantys fiziniai ir juridiniai asmenys, ūkinės bendrijos ar susivienijimai;"
+		},
+		{
+			"lang": "nl",
+			"text": "“onderneming”: iedere entiteit die zich bezighoudt met een economische activiteit, ongeacht de rechtsvorm van die entiteit, met inbegrip derhalve van met name natuurlijke en rechtspersonen, personenvennootschappen of verenigingen die regelmatig een economische activiteit uitoefenen;"
+		},
+		{
+			"lang": "sv",
+			"text": "företag: en enhet som bedriver ekonomisk verksamhet, oavsett dess juridiska form, vilket således särskilt inbegriper fysiska och juridiska personer, partnerskap eller föreningar som regelbundet bedriver ekonomisk verksamhet."
+		}
+	],
+	"children": [],
+	"title": "Article 4 – Point 15"
+}

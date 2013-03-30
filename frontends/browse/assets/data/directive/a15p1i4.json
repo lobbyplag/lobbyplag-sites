@@ -1,0 +1,102 @@
+{
+	"id": "a15p1i4",
+	"type": "point",
+	"literal": "d",
+	"parent": "a15p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the period for which the personal data will be stored;"
+		},
+		{
+			"lang": "de",
+			"text": "die Dauer, für die die personenbezogenen Daten gespeichert werden,"
+		},
+		{
+			"lang": "fr",
+			"text": "la durée pendant laquelle les données à caractère personnel seront conservées;"
+		},
+		{
+			"lang": "es",
+			"text": "el plazo durante el cual se conservarán los datos personales;"
+		},
+		{
+			"lang": "pt",
+			"text": "Período de conservação dos dados pessoais;"
+		},
+		{
+			"lang": "it",
+			"text": "il periodo per il quale saranno conservati i dati personali;"
+		},
+		{
+			"lang": "ga",
+			"text": "tréimhse stórála na sonraí pearsanta;"
+		},
+		{
+			"lang": "cs",
+			"text": "dobu, po kterou se budou osobní údaje uchovávat;"
+		},
+		{
+			"lang": "da",
+			"text": "det tidsrum, hvori personoplysningerne opbevares"
+		},
+		{
+			"lang": "et",
+			"text": "isikuandmete säilitamise tähtaeg;"
+		},
+		{
+			"lang": "el",
+			"text": "δ) το χρονικό διάστημα αποθήκευσης των δεδομένων προσωπικού χαρακτήρα·"
+		},
+		{
+			"lang": "bg",
+			"text": "г) срока, за който ще се съхраняват личните данни;"
+		},
+		{
+			"lang": "hu",
+			"text": "a személyes adatok tárolásának időtartama;"
+		},
+		{
+			"lang": "mt",
+			"text": "il-perjodu li matulu sejra tkun maħżuna d-dejta personali;"
+		},
+		{
+			"lang": "lv",
+			"text": "termiņš, cik ilgi personas dati tiks glabāti;"
+		},
+		{
+			"lang": "ro",
+			"text": "perioada în care vor fi stocate datele cu caracter personal;"
+		},
+		{
+			"lang": "sk",
+			"text": "obdobie, počas ktorého sa osobné údaje budú uchovávať;"
+		},
+		{
+			"lang": "sl",
+			"text": "informacije o roku shranjevanja osebnih podatkov;"
+		},
+		{
+			"lang": "fi",
+			"text": "henkilötietojen säilytysaika;"
+		},
+		{
+			"lang": "pl",
+			"text": "okres przechowywania danych osobowych;"
+		},
+		{
+			"lang": "lt",
+			"text": "asmens duomenų saugojimo laikotarpį;"
+		},
+		{
+			"lang": "nl",
+			"text": "de periode gedurende welke de persoonsgegevens worden opgeslagen;"
+		},
+		{
+			"lang": "sv",
+			"text": "Den period under vilken personuppgifterna kommer att lagras."
+		}
+	],
+	"children": [],
+	"title": "Article 15 – Paragraph 1 – Point 4"
+}

@@ -1,0 +1,107 @@
+{
+	"id": "a30",
+	"type": "article",
+	"literal": "30",
+	"parent": "c4s2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Security of processing"
+		},
+		{
+			"lang": "de",
+			"text": "Sicherheit der Verarbeitung"
+		},
+		{
+			"lang": "fr",
+			"text": "Sécurité des traitements"
+		},
+		{
+			"lang": "es",
+			"text": "Seguridad del tratamiento"
+		},
+		{
+			"lang": "pt",
+			"text": "Segurança do tratamento"
+		},
+		{
+			"lang": "it",
+			"text": "Sicurezza del trattamento"
+		},
+		{
+			"lang": "ga",
+			"text": "Slándáil próiseála"
+		},
+		{
+			"lang": "cs",
+			"text": "Bezpečnost zpracovávání"
+		},
+		{
+			"lang": "da",
+			"text": "Behandlingssikkerhed"
+		},
+		{
+			"lang": "et",
+			"text": "Töötlemise turvalisus"
+		},
+		{
+			"lang": "el",
+			"text": "Ασφάλεια επεξεργασίας"
+		},
+		{
+			"lang": "bg",
+			"text": "Сигурност на обработването"
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatfeldolgozás biztonsága"
+		},
+		{
+			"lang": "mt",
+			"text": "Sigurtà tal-ipproċessar"
+		},
+		{
+			"lang": "lv",
+			"text": "Apstrādes drošība"
+		},
+		{
+			"lang": "ro",
+			"text": "Securitatea prelucrării"
+		},
+		{
+			"lang": "sk",
+			"text": "Bezpečnosť spracovania"
+		},
+		{
+			"lang": "sl",
+			"text": "Varnost obdelave"
+		},
+		{
+			"lang": "fi",
+			"text": "Käsittelyn turvallisuus"
+		},
+		{
+			"lang": "pl",
+			"text": "Bezpieczeństwo przetwarzania"
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų tvarkymo saugumas"
+		},
+		{
+			"lang": "nl",
+			"text": "Beveiliging van de verwerking"
+		},
+		{
+			"lang": "sv",
+			"text": "Säkerhet i samband med behandlingen av uppgifter"
+		}
+	],
+	"children": [
+		"a30p1",
+		"a30p2",
+		"a30p3",
+		"a30p4"
+	],
+	"title": "Article 30"
+}

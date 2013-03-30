@@ -1,0 +1,102 @@
+{
+	"id": "a4i12",
+	"type": "point",
+	"literal": "12",
+	"parent": "a4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "‘data concerning health’ means any information which relates to the physical or mental health of an individual, or to the provision of health services to the individual;"
+		},
+		{
+			"lang": "de",
+			"text": "„Gesundheitsdaten“ Informationen, die sich auf den körperlichen oder geistigen Gesundheitszustand einer Person oder auf die Erbringung von Gesundheitsleistungen für die betreffende Person beziehen;"
+		},
+		{
+			"lang": "fr",
+			"text": "«données concernant la santé»: toute information relative à la santé physique ou mentale d'une personne, ou à la prestation de services de santé à cette personne;"
+		},
+		{
+			"lang": "es",
+			"text": "«datos relativos a la salud»: cualquier información que se refiera a la salud física o mental de una persona, o a la asistencia prestada por los servicios de salud a la persona;"
+		},
+		{
+			"lang": "pt",
+			"text": "«Dados relativos à saúde», quaisquer informações relacionadas com a saúde física ou psíquica de uma pessoa singular, ou com a prestação de serviços de saúde a essa pessoa;"
+		},
+		{
+			"lang": "it",
+			"text": "“dati relativi alla salute”: qualsiasi informazione attinente alla salute fisica o mentale di una persona o alla prestazione di servizi sanitari a detta persona;"
+		},
+		{
+			"lang": "ga",
+			"text": "ciallaíonn ‘sonraí a bhaineann le sláinte’ aon fhaisnéis a bhaineann le sláinte fhisiciúil nó le sláinte mheabhrach duine aonair, nó a bhaineann le seirbhísí sláinte a sholáthar don duine aonair;"
+		},
+		{
+			"lang": "cs",
+			"text": "„údaji o zdravotním stavu“ veškeré informace týkající se fyzického nebo duševního zdraví osoby nebo poskytování zdravotních služeb této osobě;"
+		},
+		{
+			"lang": "da",
+			"text": "&quot;helbredsoplysninger&quot;: enhver oplysning, der vedrører en persons fysiske eller mentale helbred eller levering af sundhedsydelser til vedkommende"
+		},
+		{
+			"lang": "et",
+			"text": "„terviseandmed” – teave, mis käsitleb isiku füüsilist ja vaimset tervist ning isikule tervishoiuteenuse osutamist;"
+		},
+		{
+			"lang": "el",
+			"text": "«δεδομένα που αφορούν την υγεία»: κάθε πληροφορία που σχετίζεται με τη σωματική ή ψυχική υγεία ενός προσώπου ή με την παροχή υγειονομικής περίθαλψης στο φυσικό πρόσωπο·"
+		},
+		{
+			"lang": "bg",
+			"text": "„данни за здравословното състояние“ означава всяка информация, която се отнася до физическото или психическото здраве на дадено физическо лице, или до предоставянето на здравни услуги на физическото лице;"
+		},
+		{
+			"lang": "hu",
+			"text": "„egészségügyi adat”: minden olyan adat, amely az érintett testi vagy pszichikai egészségi állapotára vagy az érintettnek nyújtott egészségügyi szolgáltatásra vonatkozik;"
+		},
+		{
+			"lang": "mt",
+			"text": "‘dejta dwar is-saħħa’ tfisser kwalunkwe informazzjoni li għandha x’taqsam mas-saħħa fiżika jew mentali ta’ individwu, jew mal-għoti ta’ servizzi tas-saħħa lill-individwu, u li jistgħu jinkludu: informazzjoni dwar ir-reġistrazzjoni tal-individwu għall-għoti tas-servizzi tas-saħħa; informazzjoni dwar ħlasijiet jew eliġibbiltà għall-kura tas-saħħa fir-rigward tal-individwu; numru, simbolu jew dettall mogħti lil individwu sabiex l-individwu jkun identifikat b’mod uniku għal skopijiet ta’ saħħa; kwalunkwe informazzjoni dwar l-individwu miġbura matul il-provvediment ta’ servizzi tas-saħħa lill-individwu, informazzjoni miġbura minn testijiet jew eżamijiet fuq parti mill-ġisem jew sustanza mill-ġisem; u l-identifikazzjoni ta’ persuna (professjonista tal-kura tas-saħħa) bħala l-fornitur tal-kura tas-saħħa lill-individwu;"
+		},
+		{
+			"lang": "lv",
+			"text": "&quot;veselības dati&quot; ir visa veida informācija saistībā ar personas fizisko vai garīgo veselību vai veselības aprūpes pakalpojumu sniegšanu personai;"
+		},
+		{
+			"lang": "ro",
+			"text": "„date privind sănătatea” înseamnă orice informații legate de sănătatea fizică sau mentală a unei persoane sau de acordarea de servicii medicale persoanei respective;"
+		},
+		{
+			"lang": "sk",
+			"text": "„údaje týkajúce sa zdravia“ sú všetky informácie týkajúce sa fyzického alebo duševného zdravia fyzickej osoby alebo poskytovania zdravotníckych služieb fyzickej osobe;"
+		},
+		{
+			"lang": "sl",
+			"text": "„podatki o zdravstvenem stanju“ pomenijo vsako informacijo, ki se nanaša na telesno ali duševno zdravje posameznika ali na izvajanje zdravstvenih storitev za posameznika;"
+		},
+		{
+			"lang": "fi",
+			"text": "’terveystiedoilla’ yksilön fyysiseen tai psyykkiseen terveyteen tai hänelle annettuihin terveyspalveluihin liittyviä tietoja;"
+		},
+		{
+			"lang": "pl",
+			"text": "„dane dotyczące zdrowia” oznaczają wszelkie informacje związane ze zdrowiem fizycznym lub psychicznym danej osoby lub ze świadczeniem usług zdrowotnych na jej rzecz;"
+		},
+		{
+			"lang": "lt",
+			"text": "sveikatos duomenys – visa informacija, susijusi su fizine ar psichine asmens sveikata arba su asmeniui teikiamomis sveikatos priežiūros paslaugomis;"
+		},
+		{
+			"lang": "nl",
+			"text": "“gegevens over gezondheid”: alle informatie over de fysieke of mentale gezondheid van een persoon, of over de verlening van een gezondheidsdienst aan een persoon;"
+		},
+		{
+			"lang": "sv",
+			"text": "uppgifter om hälsa: alla uppgifter som rör en enskild persons fysiska eller psykiska hälsa eller de hälso- och sjukvårdstjänster som tillhandahållits personen."
+		}
+	],
+	"children": [],
+	"title": "Article 4 – Point 12"
+}

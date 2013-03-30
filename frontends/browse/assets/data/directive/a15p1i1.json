@@ -1,0 +1,102 @@
+{
+	"id": "a15p1i1",
+	"type": "point",
+	"literal": "a",
+	"parent": "a15p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the purposes of the processing;"
+		},
+		{
+			"lang": "de",
+			"text": "die Verarbeitungszwecke,"
+		},
+		{
+			"lang": "fr",
+			"text": "les finalités du traitement;"
+		},
+		{
+			"lang": "es",
+			"text": "los fines del tratamiento;"
+		},
+		{
+			"lang": "pt",
+			"text": "Finalidades do tratamento;"
+		},
+		{
+			"lang": "it",
+			"text": "le finalità del trattamento;"
+		},
+		{
+			"lang": "ga",
+			"text": "críocha na próiseála;"
+		},
+		{
+			"lang": "cs",
+			"text": "účely zpracování;"
+		},
+		{
+			"lang": "da",
+			"text": "formålene med behandlingen"
+		},
+		{
+			"lang": "et",
+			"text": "töötlemise eesmärk,"
+		},
+		{
+			"lang": "el",
+			"text": "α) τους σκοπούς της επεξεργασίας·"
+		},
+		{
+			"lang": "bg",
+			"text": "а) целите на обработването;"
+		},
+		{
+			"lang": "hu",
+			"text": "az adatfeldolgozás céljai;"
+		},
+		{
+			"lang": "mt",
+			"text": "l-objettivi tal-ipproċessar;"
+		},
+		{
+			"lang": "lv",
+			"text": "apstrādes nolūki;"
+		},
+		{
+			"lang": "ro",
+			"text": "scopurile prelucrării;"
+		},
+		{
+			"lang": "sk",
+			"text": "účely spracovania;"
+		},
+		{
+			"lang": "sl",
+			"text": "informacije o namenih obdelave;"
+		},
+		{
+			"lang": "fi",
+			"text": "käsittelyn tarkoitukset;"
+		},
+		{
+			"lang": "pl",
+			"text": "cele przetwarzania;"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų tvarkymo tikslus;"
+		},
+		{
+			"lang": "nl",
+			"text": "de doeleinden van de verwerking;"
+		},
+		{
+			"lang": "sv",
+			"text": "Ändamålen med behandlingen."
+		}
+	],
+	"children": [],
+	"title": "Article 15 – Paragraph 1 – Point 1"
+}

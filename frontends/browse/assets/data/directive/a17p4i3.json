@@ -1,0 +1,102 @@
+{
+	"id": "a17p4i3",
+	"type": "point",
+	"literal": "c",
+	"parent": "a17p4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the processing is unlawful and the data subject opposes their erasure and requests the restriction of their use instead;"
+		},
+		{
+			"lang": "de",
+			"text": "die Verarbeitung unrechtmäßig ist, die betroffene Person aber Einspruch gegen ihre Löschung erhebt und stattdessen deren eingeschränkte Nutzung fordert;"
+		},
+		{
+			"lang": "fr",
+			"text": "lorsque leur traitement est illicite et que la personne concernée s'oppose à leur effacement et exige à la place la limitation de leur utilisation;"
+		},
+		{
+			"lang": "es",
+			"text": "el tratamiento sea ilícito y el interesado se oponga a su supresión y solicite en su lugar la limitación de su uso;"
+		},
+		{
+			"lang": "pt",
+			"text": "O tratamento for ilícito e o titular dos dados se opuser ao seu apagamento e solicitar, em contrapartida, a limitação da sua utilização;"
+		},
+		{
+			"lang": "it",
+			"text": "quando il trattamento è illecito e l’interessato si oppone alla loro cancellazione e chiede invece che ne sia limitato l’utilizzo;"
+		},
+		{
+			"lang": "ga",
+			"text": "i gcás ina bhfuil an phróiseáil neamhdhleathach agus ina gcuireann an duine is ábhar do na sonraí i gcoinne iad a scriosadh agus ina n‑iarrann sé go gcuirfear srian leo in áit iad a scriosadh;"
+		},
+		{
+			"lang": "cs",
+			"text": "zpracování je nezákonné a subjekt údajů odmítá jejich výmaz a žádá místo toho o omezení jejich použití;"
+		},
+		{
+			"lang": "da",
+			"text": "behandlingen af dem er ulovlig, og den registrerede modsætter sig deres sletning og i stedet kræver, at anvendelsen heraf begrænses"
+		},
+		{
+			"lang": "et",
+			"text": "töötlemine on ebaseaduslik, kuid andmesubjekt ei taotle nende kustutamist, vaid nende kasutamise piiramist;"
+		},
+		{
+			"lang": "el",
+			"text": "γ) η επεξεργασία είναι παράνομη και το πρόσωπο στο οποίο αναφέρονται τα δεδομένα αντιτάσσεται στη διαγραφή τους και ζητεί, αντ’ αυτής, τον περιορισμό της χρήσης τους·"
+		},
+		{
+			"lang": "bg",
+			"text": "в) обработването им е неправомерно, но субектът на данните не желае те да бъдат заличени, а изисква вместо това ограничаване на използването им;"
+		},
+		{
+			"lang": "hu",
+			"text": "a feldolgozás jogellenes, és az érintett kifogásolja a törlést, és inkább az adatok felhasználásának korlátozását kéri;"
+		},
+		{
+			"lang": "mt",
+			"text": "l-ipproċessar huwa illegali u s-suġġett tad-dejta jopponi t-tħassir tagħha u jitlob minflok ir-restrizzjoni tal-użu tagħha;"
+		},
+		{
+			"lang": "lv",
+			"text": "apstrāde ir nelikumīga, un datu subjekts iebilst pret datu dzēšanu un tās vietā pieprasa datu izmantošanas ierobežošanu;"
+		},
+		{
+			"lang": "ro",
+			"text": "prelucrarea acestora este ilegală, iar persoana vizată se opune ștergerii datelor, solicitând, în schimb, restricționarea utilizării lor;"
+		},
+		{
+			"lang": "sk",
+			"text": "spracovanie je protizákonné a dotknutá osoba namieta proti ich vymazaniu a žiada namiesto toho obmedzenie ich použitia;"
+		},
+		{
+			"lang": "sl",
+			"text": "je obdelava nezakonita in posameznik, na katerega se nanašajo osebni podatki, nasprotuje njihovemu izbrisu in namesto tega zahteva omejitev njihove uporabe;"
+		},
+		{
+			"lang": "fi",
+			"text": "käsittely on lainvastaista ja rekisteröity vastustaa tietojen poistamista ja vaatii sen sijaan niiden käytön rajoittamista;"
+		},
+		{
+			"lang": "pl",
+			"text": "przetwarzanie jest niezgodne z prawem i podmiot danych sprzeciwia się ich usunięciu, wnioskując w zamian o ograniczenie ich wykorzystywania;"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų tvarkymas yra neteisėtas ir duomenų subjektas nesutinka, kad jie būtų ištrinti, ir vietoj to prašo apriboti jų naudojimą;"
+		},
+		{
+			"lang": "nl",
+			"text": "de verwerking ervan onrechtmatig is en de betrokkene zich tegen het wissen ervan verzet en in de plaats daarvan om beperking van het gebruik ervan verzoekt;"
+		},
+		{
+			"lang": "sv",
+			"text": "behandlingen är olaglig och den registrerade motsätter sig att de raderas och i stället begär en begränsning av deras användning,"
+		}
+	],
+	"children": [],
+	"title": "Article 17 – Paragraph 4 – Point 3"
+}

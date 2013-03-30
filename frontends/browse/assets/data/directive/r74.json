@@ -1,0 +1,102 @@
+{
+	"id": "r74",
+	"type": "recital",
+	"literal": "74",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Where a data protection impact assessment indicates that processing operations involve a high degree of specific risks to the rights and freedoms of data subjects, such as excluding individuals from their right, or by the use of specific new technologies, the supervisory authority should be consulted, prior to the start of operations, on a risky processing which might not be in compliance with this Regulation, and to make proposals to remedy such situation. Such consultation should equally take place in the course of the preparation either of a measure by the national parliament or of a measure based on such legislative measure which defines the nature of the processing and lays down appropriate safeguards."
+		},
+		{
+			"lang": "de",
+			"text": "In Fällen, in denen die Datenschutz-Folgenabschätzung ergibt, dass bestimmte Verarbeitungsvorgänge große konkrete Risiken für die Rechte und Freiheiten von betroffenen Personen bergen, zum Beispiel das Risiko, infolge des Rückgriffs auf neue Technologien von dem Recht auf Datenschutz nicht Gebrauch machen zu können, sollte die Aufsichtsbehörde vor Beginn dieser Vorgänge zu der Frage, ob die geplante risikobehaftete Verarbeitung gegen die Bestimmungen dieser Verordnung verstößt, zu Rate gezogen werden müssen und Abhilfevorschläge unterbreiten dürfen. Eine solche Konsultation sollte auch bei der Ausarbeitung einer gesetzgeberischen Maßnahme des nationalen Parlaments oder einer darauf basierenden Maßnahme erfolgen, die die Art der Verarbeitung und geeignete Garantien festlegt."
+		},
+		{
+			"lang": "fr",
+			"text": "Lorsqu'une analyse d’impact relative à la protection des données indique que des opérations de traitement exposent les droits et libertés des personnes concernées à un degré élevé de risques particuliers, comme priver ces personnes d'un droit, ou de par l'utilisation de certaines technologies nouvelles, l'autorité de contrôle devrait pouvoir être consultée, avant le début de l'opération, sur un traitement risqué susceptible de ne pas être conforme au présent règlement, et formuler des propositions visant à y remédier. Cette consultation devrait également avoir lieu pendant l'élaboration d'une mesure législative du parlement national, ou d'une mesure fondée sur cette dernière définissant la nature du traitement et instaurant les garanties appropriées."
+		},
+		{
+			"lang": "es",
+			"text": "Cuando una evaluación de impacto de la protección de datos indique que las operaciones de tratamiento presentan un alto grado de riesgos específicos para los derechos y libertades de los interesados, como el de privar a dichas personas de un derecho, o por la utilización de nuevas tecnologías específicas, la autoridad de control debe ser consultada antes del comienzo de las operaciones en relación con el tratamiento de un riesgo que podría no estar en conformidad con el presente Reglamento, y formular propuestas para corregir esta situación. Dicha consulta también debe realizarse en el curso de la elaboración de una medida por el Parlamento nacional o de una iniciativa basada en dicha medida legislativa que defina la naturaleza del tratamiento y precise las garantías apropiadas."
+		},
+		{
+			"lang": "pt",
+			"text": "Sempre que uma avaliação de impacto sobre a proteção de dados indicar que as operações de tratamento de dados acarretam um elevado grau de riscos particulares sobre os direitos e liberdades dos titulares de dados, como privar essas pessoas de um direito, ou devido à utilização de novas tecnologias específicas, a autoridade de controlo deve ser consultada, antes de as operações terem início, sobre um tratamento arriscado suscetível de não estar em conformidade com o presente regulamento, e de apresentar propostas para remediar essa situação. Essa consulta deve igualmente ser efetuada durante os trabalhos de elaboração de uma medida legislativa pelo parlamento nacional, ou de uma medida baseada nesta última medida que defina a natureza do tratamento e especifique as garantias adequadas."
+		},
+		{
+			"lang": "it",
+			"text": "Se dalla valutazione d’impatto sulla protezione dei dati risulta che operazioni di trattamento o l’uso di nuove particolari tecnologie espongono i diritti e le libertà degli interessati a un grado elevato di rischi specifici, privandoli ad esempio di un diritto, l’autorità di controllo deve essere consultata prima dell’inizio delle operazioni, affinché verifichi se un trattamento rischioso sia conforme al presente regolamento e formuli proposte per ovviare a tale situazione. Siffatta consultazione deve aver luogo anche durante l’elaborazione di una proposta legislativa del parlamento nazionale o di una misura basata su quella proposta legislativa, che definisca la natura del trattamento e precisi le garanzie appropriate."
+		},
+		{
+			"lang": "ga",
+			"text": "I gcás ina dtugann measúnú tionchair ar chosaint sonraí le tuiscint go gcuireann oibríochtaí próiseála cearta agus saoirsí na ndaoine is ábhar do na sonraí go mór i mbaol, amhail trí chearta a cheilt ar dhaoine aonair, nó trí theicneolaíochtaí sonracha nua a úsáid, ba cheart dul i gcomhairle leis an údarás maoirseachta, sula gcuirtear tús leis na hoibríochtaí, maidir le próiseáil rioscúil ar baolach nach mbeadh sí i gcomhréir leis an Rialachán seo, agus ba cheart go mbeadh an t‑údarás maoirseachta in ann tograí a dhéanamh chun cás den sórt sin a leigheas. Ba cheart comhairliúchán den sórt sin a dhéanamh freisin le linn don pharlaimint náisiúnta beart a ullmhú nó le linn beart a ullmhú atá bunaithe ar bheart reachtach lena sainítear cineál na próiseála agus lena leagtar síos cosaintí iomchuí."
+		},
+		{
+			"lang": "cs",
+			"text": "Pokud z posouzení dopadu na ochranu údajů vyplývá, že zpracovávání s sebou nese vysoké specifické riziko z hlediska práv a svobod subjektů údajů, například riziko, že dané osoby nebudou moci uplatnit své právo na ochranu údajů, nebo riziko plynoucí z využití nových specifických technologií, měl by být před zahájením činností konzultován orgán dozoru ohledně rizikového zpracování, které možná není v souladu s tímto nařízením, aby předložil návrhy na nápravu této situace. Tato konzultace může být rovněž uskutečněna během přípravy legislativního opatření vnitrostátního parlamentu nebo opatření založeného na tomto legislativním opatření, které vymezuje povahu zpracování a stanoví vhodné záruky."
+		},
+		{
+			"lang": "da",
+			"text": "Hvis en konsekvensanalyse vedrørende databeskyttelse viser, at behandlingen involverer en høj grad af specifikke risici for registreredes rettigheder og frihedsrettigheder, som f.eks. at personer fratages en rettighed, eller ved brug af bestemte nye teknologier, bør tilsynsmyndigheden inden iværksættelse af behandlingsaktiviteter høres om en risikobehæftet behandling, der muligvis ikke er i overensstemmelse med denne forordning, og bør fremsætte forslag om afhjælpning af en sådan situation. En sådan høring bør ligeledes gennemføres som led i udarbejdelsen af en lovgivningsmæssig foranstaltning, der vedtages af det nationale parlament, eller af en anden foranstaltning med hjemmel i en sådan lovgivningsmæssig foranstaltning, som fastlægger karakteren af behandlingen og indfører de fornødne garantier."
+		},
+		{
+			"lang": "et",
+			"text": "Kui isikuandmete kaitse alasest mõjuhinnangust ilmneb, et töötlemistoimingud või konkreetse uue tehnoloogia kasutuselevõtt on seotud mitmete konkreetsete ohtudega andmesubjektide õigustele ja vabadustele, näiteks jättes üksikisikud ilma nende õigustest, konsulteeritakse enne tegevuse alustamist järelevalveasutusega ohtliku töötlemise asjus, mis ei pruugi käesoleva määrusega kooskõlas olla, ning tegemaks ettepanekuid sellise olukorra lahendamiseks. Selline konsulteerimine peaks toimuma ka siis, kui valmistatakse ette kas liikmesriigi parlamendi meedet või sellisel õigusaktil põhinevat meedet, millega määratakse kindlaks töötlemise laad ja nähakse ette vajalikud kaitsemeetmed."
+		},
+		{
+			"lang": "el",
+			"text": "Εάν η εκτίμηση επιπτώσεων σχετικά με την προστασία των δεδομένων υποδεικνύει ότι οι πράξεις επεξεργασίας συνεπάγονται υψηλό βαθμό συγκεκριμένων κινδύνων για τα δικαιώματα και τις ελευθερίες των προσώπων στα οποία αναφέρονται τα δεδομένα, όπως τον αποκλεισμό φυσικών προσώπων από το δικαίωμά τους, ή λόγω της χρήσης συγκεκριμένων νέων τεχνολογιών, πρέπει να ζητείται η γνώμη της αρχής ελέγχου, πριν από την έναρξη των πράξεων, για μια ριψοκίνδυνη επεξεργασία η οποία ενδέχεται να μην είναι σύμφωνη προς τον παρόντα κανονισμό, η δε αρχή ελέγχου πρέπει να μπορεί να διατυπώσει προτάσεις για την επανόρθωση της κατάστασης αυτής. Μια τέτοια διαβούλευση πρέπει επίσης να λάβει χώρα κατά την προετοιμασία ενός μέτρου από το εθνικό κοινοβούλιο ή ενός μέτρου που βασίζεται σε τέτοιο νομοθετικό μέτρο το οποίο καθορίζει τη φύση της επεξεργασίας και θεσπίζει κατάλληλες εγγυήσεις."
+		},
+		{
+			"lang": "bg",
+			"text": "Когато оценката на въздействието върху защитата на данните показва, че операциите по обработване имат висока степен на конкретни рискове за правата и свободите на субектите на данни, като например изключване на физически лица от ползването на тяхно право или поради използването на специално нови технологии, надзорният орган следва да бъде консултиран, преди започването на операциите, относно рисково обработване, което може да не е в съответствие с настоящия регламент, и да направи предложения за коригиране на такава ситуация.Такива консултации могат да се извършват също и в хода на изготвянето на мярка от националния парламент или на мярка, основаваща се на такава законодателна мярка, в която се определя характерът на обработването и се установяват подходящи гаранции."
+		},
+		{
+			"lang": "hu",
+			"text": "Amennyiben egy adatvédelmi hatásvizsgálat azt jelzi, hogy az adatfeldolgozó műveletek valószínűleg magas szintű, különleges kockázatot jelentenek az érintettek jogaira és szabadságaira nézve, mint például kizárhatják az egyéneket a jogaik gyakorlásából vagy különleges új technológiákat alkalmaznak, a műveletek megkezdése előtt konzultálni kell a felügyelő hatósággal arról a kockázatos feldolgozásról, amely esetlegesen nem áll összhangban e rendelettel, és javaslatokat készíteni e helyzet orvoslására. Ezt a konzultációt egyaránt el kell végezni a nemzeti parlament intézkedésének előkészítése, vagy valamely, az adatfeldolgozás jellegét meghatározó és a megfelelő biztosítékokat megállapító jogalkotási rendelkezésen alapuló intézkedés előkészítése során."
+		},
+		{
+			"lang": "mt",
+			"text": "Fejn valutazzjoni tal-impatt fuq il-protezzjoni tad-dejta tindika li l-operazzjonijiet ta’ pproċessar jinvolvu grad għoli ta’ riskji speċifiċi għad-drittijiet u l-libertajiet tas-suġġetti tad-dejta, bħall-esklużjoni tal-individwi mid-dritt tagħhom, jew bl-użu ta’ teknoloġiji ġodda speċifiċi, l-awtorità ta’ superviżjoni għandha tkun ikkonsultata, qabel jinbdew l-operazzjonijiet, dwar ipproċessar riskjuż li jista’ ma jkunx konformi ma’ dan ir-Regolament, u li tagħmel proposti sabiex tirrimedja sitwazzjoni bħal din. Din il-konsultazzjoni għandha sseħħ ukoll matul it-tħejjija kemm ta’ miżura mill-parlament nazzjonali kif ukoll ta’ miżura bbażata fuq miżura leġiżlattiva li tiddefinixxi n-natura tal-ipproċessar u tistabbilixxi salvagwardji xierqa."
+		},
+		{
+			"lang": "lv",
+			"text": "Ja datu aizsardzības ietekmes novērtējums norāda, ka apstrādes darbības ir saistītas ar augstu īpaša apdraudējuma pakāpi datu subjekta tiesībām un brīvībām, kā piemēram, tiesību izmantošanas liegšana, vai saistībā ar īpašu, jaunu tehnoloģiju izmantošanu, pirms darbību uzsākšanas par riskanto apstrādi, kas varētu pārkāpt šīs regulas noteikumus, būtu jākonsultējas ar uzraudzības iestādi un jāiesniedz priekšlikumi, kā šo situāciju uzlabot. Šādām konsultācijām būtu vienlīdz jānotiek vai nu valsts parlamenta akta sagatavošanas gaitā, vai tāda pasākuma sagatavošanas gaitā, kas pamatojas uz likumdevēja aktu, kurā noteikts apstrādes raksturs un paredzēti atbilstoši aizsardzības līdzekļi."
+		},
+		{
+			"lang": "ro",
+			"text": "În cazul în care o evaluare a impactului asupra protecției datelor arată că operațiunile de prelucrare implică un nivel ridicat al riscurilor specifice pentru drepturile și libertățile persoanelor vizate, cum ar fi privarea persoanelor fizice de un drept, sau prin utilizarea noilor tehnologii specifice, autoritatea de supraveghere ar trebui să fie consultată, înainte de începerea operațiunilor, cu privire la o prelucrare riscantă care ar putea să nu fie conformă cu prezentul regulament și pentru a face propuneri în vederea remedierii unei astfel de situații. Această consultare ar trebui, de asemenea, să aibă loc în timpul elaborării fie a unei măsuri a parlamentului național, fie a unei măsuri întemeiate pe o astfel de măsură legislativă, care definește natura prelucrării și stabilește garanțiile corespunzătoare."
+		},
+		{
+			"lang": "sk",
+			"text": "Ak z posúdenia vplyvu na ochranu údajov vyplýva, že operácie spracovania údajov sú sprevádzané vysokým stupňom osobitných rizík pre práva a slobody dotknutých osôb, ako je napríklad riziko, že v dôsledku použitia osobitných nových technológií nebude pre fyzické osoby možné uplatniť ich právo, mal by byť ešte pred začiatkom spracúvania kontaktovaný dozorný orgán a informovaný o riskantnom spracúvaní, ktoré nemusí byť v súlade s týmto nariadením, a mali by byť navrhnuté možnosti nápravy tejto situácie. Takéto konzultácie by sa mali rovnako vykonávať aj počas prípravy buď opatrenia vnútroštátnym parlamentom alebo opatrenia založeného na takomto legislatívnom opatrení, ktoré definuje povahu spracúvania a stanovuje náležité záruky."
+		},
+		{
+			"lang": "sl",
+			"text": "Kadar ocena učinka o varstvu podatkov pokaže, da je s postopki obdelave povezana visoka raven posebnih tveganj za pravice in svoboščine posameznikov, na katere se nanašajo osebni podatki, na primer izključevanje posameznikov iz pravice, ali na podlagi uporabe posebnih novih tehnologij, bi moralo biti pred začetkom postopka opravljeno posvetovanje z nadzornim organom o tvegani obdelavi, ki morda ni v skladu s to uredbo, s strani nadzornega organa pa podani predlogi za ureditev takega položaja. Tako posvetovanje bi moralo prav tako potekati med pripravo bodisi ukrepa nacionalnega parlamenta bodisi ukrepa, temelječega na takem zakonodajnem ukrepu, ki opredeljuje naravo obdelave in predpisuje ustrezne zaščitne ukrepe."
+		},
+		{
+			"lang": "fi",
+			"text": "Jos tietosuojaa koskeva vaikutustenarviointi osoittaa, että käsittelytoimiin tai tietyn uuden teknologian käyttöön liittyy runsaasti erityisiä rekisteröidyn oikeuksiin ja vapauksiin vaikuttavia riskejä, kuten rekisteröidyn jääminen ilman tiettyä oikeutta, ennen käsittelyn aloittamista olisi kuultava valvontaviranomaista tällaisesta riskialttiista käsittelystä, joka saattaa olla vastoin asetuksen säännöksiä, jotta se voi esittää ehdotuksia tilanteen korjaamiseksi. Tällainen kuuleminen olisi suoritettava myös joko kansallisen parlamentin toimenpiteen tai tällaiseen lainsäädäntötoimenpiteeseen perustuvan toimenpiteen valmistelun aikana, kun näissä toimenpiteissä määritetään käsittelyn luonne ja vahvistetaan asianmukaiset takeet."
+		},
+		{
+			"lang": "pl",
+			"text": "Jeśli ocena skutków w zakresie ochrony danych wykaże, że operacje przetwarzania wiążą się z wysokim poziomem konkretnych ryzyk dla praw i wolności podmiotów danych, takich jak pozbawienie osób fizycznych przysługującego im prawa lub korzystanie z konkretnych nowych technologii, przed rozpoczęciem operacji należy zasięgnąć opinii organu nadzorczego na temat ryzykownego przetwarzania, które mogłoby być niezgodne z niniejszym rozporządzeniem oraz przedstawić propozycje naprawienia tej sytuacji. Opinii należy zasięgnąć również w trakcie przygotowywania środka ustawodawczego przez parlament narodowy lub środka opartego na takim środku prawnym, który określa charakter przetwarzania danych oraz daje odpowiednie gwarancje."
+		},
+		{
+			"lang": "lt",
+			"text": "kai iš duomenų apsaugos poveikio įvertinimo paaiškėja, kad duomenų tvarkymo operacijos susijusios su didele konkrečia rizika duomenų subjektų teisėms ir laisvėms, kaip antai rizika, kad naudojant konkrečias naujas technologijas fiziniams asmenims bus užkirstas kelias pasinaudoti savo teisėmis, prieš pradedant operacijas reikėtų su priežiūros institucija konsultuotis dėl su rizika susijusio duomenų tvarkymo, kuris galėtų pažeisti šio reglamento reikalavimus, ir pateikti pasiūlymus, kaip tokią padėtį ištaisyti. Konsultuotis reikėtų ir rengiant nacionalinio parlamento teisėkūros priemonę arba ja pagrįstą priemonę, kuria apibrėžiamas duomenų tvarkymo pobūdis ir nustatomos tinkamos apsaugos priemonės;"
+		},
+		{
+			"lang": "nl",
+			"text": "Wanneer een privacyeffectbeoordeling uitwijst dat verwerking bijvoorbeeld door het gebruik van specifieke nieuwe technologieën gepaard gaat met grote specifieke risico’s voor de rechten en vrijheden van betrokkenen, zoals het uitsluiten van personen van hun recht, dienen voor het begin van de verwerkingen de toezichthoudende autoriteiten te worden geraadpleegd over gevoelige activiteiten die mogelijk niet in overeenstemming zijn met deze verordening, en zijn voorstellen geboden om de situatie te verbeteren. Een dergelijke raadpleging dient ook te worden uitgevoerd in het kader van de voorbereiding van een door het nationale parlement aan te nemen maatregel of op basis van een dergelijke wettelijke maatregel, waarin de aard van de verwerking is omschreven en passende waarborgen zijn opgenomen."
+		},
+		{
+			"lang": "sv",
+			"text": "Om det av en konsekvensbedömning avseende uppgiftsskydd framgår att behandlingen innebär att de registrerades rättigheter och friheter utsätts för höggradiga särskilda risker, exempelvis att enskilda fråntas sina rättigheter eller genom att särskild ny teknik används, bör innan behandlingen inleds samråd ske med tillsynsmyndigheten om den behandling som medför risker och eventuellt inte överensstämmer med denna förordning och förslag lämnas som åtgärdar situationen. Denna typ av samråd bör även ske som ett led i det nationella parlamentets förberedande arbete med en åtgärd eller som ett led i arbetet med en åtgärd som grundas på en sådan lagstiftande åtgärd som definierar behandlingens art och anger lämpliga skyddsåtgärder."
+		}
+	],
+	"children": [],
+	"title": "Recital 74"
+}

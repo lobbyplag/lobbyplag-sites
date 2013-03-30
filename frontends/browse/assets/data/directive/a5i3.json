@@ -1,0 +1,102 @@
+{
+	"id": "a5i3",
+	"type": "point",
+	"literal": "c",
+	"parent": "a5",
+	"text": [
+		{
+			"lang": "en",
+			"text": "adequate, relevant, and limited to the minimum necessary in relation to the purposes for which they are processed; they shall only be processed if, and as long as, the purposes could not be fulfilled by processing information that does not involve personal data;"
+		},
+		{
+			"lang": "de",
+			"text": "dem Zweck angemessen und sachlich relevant sowie auf das für die Zwecke der Datenverarbeitung notwendige Mindestmaß beschränkt sein; sie dürfen nur verarbeitet werden, wenn und solange die Zwecke der Verarbeitung nicht durch die Verarbeitung von anderen als personenbezogenen Daten erreicht werden können;"
+		},
+		{
+			"lang": "fr",
+			"text": "adéquates, pertinentes et limitées au minimum nécessaire au regard des finalités pour lesquelles elles sont traitées; elles ne sont traitées que si, et pour autant que, les finalités du traitement ne peuvent pas être atteintes par le traitement d'informations ne contenant pas de données à caractère personnel;"
+		},
+		{
+			"lang": "es",
+			"text": "adecuados, pertinentes y limitados al mínimo necesario en relación a los fines para los que se traten; solo se tratarán si y siempre que estos fines no pudieran alcanzarse mediante el tratamiento de información que no implique datos personales;"
+		},
+		{
+			"lang": "pt",
+			"text": "Adequados, pertinentes e limitados ao mínimo necessário relativamente às finalidades para que são tratados; só devem ser tratados se e desde que as finalidades não puderem ser alcançadas através do tratamento de informações que não envolvam dados pessoais;"
+		},
+		{
+			"lang": "it",
+			"text": "adeguati, pertinenti e limitati al minimo necessario rispetto alle finalità perseguite; i dati possono essere trattati solo se e nella misura in cui le finalità non conseguibili attraverso il trattamento di informazioni che non contengono dati personali;"
+		},
+		{
+			"lang": "ga",
+			"text": "ní mór do na sonraí a bheith leordhóthanach ábhartha agus teoranta don mhéid is lú sonraí is gá maidir leis na críocha ar chucu a dhéantar iad a phróiseáil; ní dhéanfar iad a phróiseáil ach amháin murar féidir, agus fad nach féidir, na críocha a bhaint amach trí fhaisnéis a phróiseáil nach mbaineann le sonraí pearsanta;"
+		},
+		{
+			"lang": "cs",
+			"text": "odpovídající z hlediska účelu, pro který jsou zpracovávány, musí pro něj být relevantní a omezené na nezbytné minimum; zpracovávány jsou pouze tehdy a dokud nemůže být daného účelu dosaženo zpracováním informací, které nezahrnují osobní údaje;"
+		},
+		{
+			"lang": "da",
+			"text": "skal være tilstrækkelige og relevante og ikke omfatte mere end det, der kræves for at opfylde de formål, hvortil de behandles, og de må kun behandles, hvis og så længe disse formål ikke kan opfyldes ved at behandle oplysninger, der ikke omfatter personoplysninger"
+		},
+		{
+			"lang": "et",
+			"text": "isikuandmed on asjakohased, olulised ja neid on piisavalt, kuid mitte rohkem, kui on minimaalselt vaja töötlemise otstarbe seisukohalt, ning et neid töödeldakse ainult sel juhul ja seni, kuni isikuandmeteta teabe töötlemine ei võimalda saavutada seatud eesmärke;"
+		},
+		{
+			"lang": "el",
+			"text": "γ) να είναι κατάλληλα, συναφή και να περιορίζονται στα ελάχιστα αναγκαία σε σχέση με τους σκοπούς για τους οποίους υποβάλλονται σε επεξεργασία· υποβάλλονται σε επεξεργασία μόνον εάν και εφόσον οι σκοποί δεν μπορούν να επιτευχθούν μέσω επεξεργασίας πληροφοριών οι οποίες δεν περιλαμβάνουν δεδομένα προσωπικού χαρακτήρα·"
+		},
+		{
+			"lang": "bg",
+			"text": "в) подходящи, релевантни и ограничени до минимума, необходим за целите, за които данните се обработват; те се обработват само ако и дотолкова доколкото целите не могат да бъдат постигнати без обработването на информация, която не включва лични данни;"
+		},
+		{
+			"lang": "hu",
+			"text": "megfelelőek, relevánsak, és nem haladják meg a feldolgozás céljához szükséges legkisebb mértéket, és csak akkor és addig dolgozhatók fel, amikor és ameddig e célok nem érhetők el olyan információ feldolgozásával, amely nem vonatkozik személyes adatokra;"
+		},
+		{
+			"lang": "mt",
+			"text": "adegwata, rilevanti u limitata għall-minimu meħtieġ fir-rigward tal-għanijiet li għalihom tkun ipproċessata; din għandha tkun ipproċessata biss jekk, u sakemm, l-għanijiet ma setgħux jintlaħqu bl-ipproċessar ta’ informazzjoni li ma tinvolvix dejta personali;"
+		},
+		{
+			"lang": "lv",
+			"text": "adekvātiem, atbilstīgiem un jāaprobežojas ar minimumu, kas nepieciešams nolūkiem, kādiem šie dati tiek apstrādāti; tos apstrādā tikai tad un tikai tik ilgi, kamēr apstrādes nolūkus nav iespējams sasniegt, apstrādājot informāciju, kas neietver personas datus;"
+		},
+		{
+			"lang": "ro",
+			"text": "să fie adecvate, pertinente și limitate la strictul necesar în ceea ce privește scopurile pentru care sunt prelucrate; aceste date sunt prelucrate numai dacă și atât timp cât scopurile nu pot fi îndeplinite prin prelucrarea unor informații care nu implică date cu caracter personal;"
+		},
+		{
+			"lang": "sk",
+			"text": "primerané, relevantné a obmedzené na nevyhnutné minimum z hľadiska účelov, na ktoré sa spracúvajú; majú sa spracúvať iba vtedy a len dovtedy, kým dané účely nemožno dosiahnuť spracovaním informácií, ktoré nezahŕňajú osobné údaje;"
+		},
+		{
+			"lang": "sl",
+			"text": "primerni, ustrezni in omejeni na nujno potrebne za namene, za katere se obdelujejo; obdelujejo se lahko samo in kolikor namenov ni bilo mogoče doseči z obdelavo informacij, ki niso osebni podatki;"
+		},
+		{
+			"lang": "fi",
+			"text": "niiden on oltava asianmukaisia ja olennaisia ja niiden määrä on rajoitettava mahdollisimman vähään suhteessa niihin tarkoituksiin, joita varten niitä käsitellään; niitä saa käsitellä vain ja ainoastaan siltä osin kuin näitä tarkoituksia ei voitu täyttää käsittelemällä tietoja, joihin ei sisälly henkilötietoja;"
+		},
+		{
+			"lang": "pl",
+			"text": "prawidłowe, właściwe i ograniczone do minimum niezbędnego w odniesieniu do celów, do których dane są przetwarzane; dane te są przetwarzane jedynie wtedy gdy i tylko przez okres w którym tych celów nie można spełnić przetwarzając informacje, które nie obejmują danych osobowych;"
+		},
+		{
+			"lang": "lt",
+			"text": "adekvatūs, susiję ir minimalios apimties, būtinos tikslams, kuriais jie tvarkomi, pasiekti; jie tvarkomi tik tiek ir tol, kol tikslų negalima pasiekti tvarkant asmens duomenų neapimančios informacijos;"
+		},
+		{
+			"lang": "nl",
+			"text": "adequaat en ter zake dienend zijn en beperkt blijven tot datgene wat minimaal nodig is voor de doeleinden waarvoor zij worden verwerkt; zij worden alleen verwerkt wanneer en voor zolang als de doeleinden niet zouden kunnen worden verwezenlijkt door het verwerken van andere gegevens dan persoonsgegevens;"
+		},
+		{
+			"lang": "sv",
+			"text": "De ska vara adekvata, relevanta och begränsade till ett strikt minimum när det gäller de syften för vilka de behandlas; de ska bara behandlas om, och så länge som, syftena inte kan uppnås genom att man behandlar information som inte rör personuppgifter."
+		}
+	],
+	"children": [],
+	"title": "Article 5 – Point 3"
+}

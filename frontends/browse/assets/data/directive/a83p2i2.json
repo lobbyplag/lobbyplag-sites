@@ -1,0 +1,102 @@
+{
+	"id": "a83p2i2",
+	"type": "point",
+	"literal": "b",
+	"parent": "a83p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the publication of personal data is necessary to present research findings or to facilitate research insofar as the interests or the fundamental rights or freedoms of the data subject do not override these interests; or"
+		},
+		{
+			"lang": "de",
+			"text": "die Veröffentlichung personenbezogener Daten für die Darstellung von Forschungsergebnissen oder zur Unterstützung der Forschung notwendig ist, soweit die Interessen oder Grundrechte und Grundfreiheiten der betroffenen Person diese Interessen nicht überwiegen oder"
+		},
+		{
+			"lang": "fr",
+			"text": "la publication de données à caractère personnel est nécessaire pour présenter les résultats de la recherche ou pour faciliter la recherche, sous réserve que les intérêts ou les libertés ou les droits fondamentaux de la personne concernée ne prévalent pas sur l'intérêt de la recherche; ou"
+		},
+		{
+			"lang": "es",
+			"text": "la publicación de los datos personales es necesaria para presentar los resultados de una investigación o para facilitar una investigación, siempre que los intereses o los derechos o libertades fundamentales del interesado no prevalezcan sobre tales objetivos; o"
+		},
+		{
+			"lang": "pt",
+			"text": "A publicação dos dados pessoais for necessária para a apresentação de resultados da investigação ou para facilitar a investigação, desde que os interesses ou os direitos e liberdades fundamentais do titular dos dados não prevaleçam sobre o interesse da investigação;"
+		},
+		{
+			"lang": "it",
+			"text": "la pubblicazione dei dati personali è necessaria per presentare i risultati della ricerca o per facilitarla, nella misura in cui gli interessi o i diritti o le libertà fondamentali dell’interessato non prevalgano sull’interesse della ricerca, oppure"
+		},
+		{
+			"lang": "ga",
+			"text": "más gá sonraí pearsanta a fhoilsiú chun torthaí taighde a thíolacadh nó chun taighde a éascú sa mhéid is nach sáródh leasanna nó cearta bunúsacha nó saoirsí bunúsacha an duine is ábhar do na sonraí na leasanna sin; nó"
+		},
+		{
+			"lang": "cs",
+			"text": "pokud je zveřejnění osobních údajů nutné k předložení výsledků výzkumu nebo k usnadnění výzkumu a nad těmito zájmy nepřeváží zájmy nebo základní práva či svobody subjektů údajů nebo"
+		},
+		{
+			"lang": "da",
+			"text": "offentliggørelsen af personoplysninger er nødvendig for at fremlægge forskningsresultater eller fremme forskningen, for så vidt den registreredes interesser, grundlæggende rettigheder eller frihedsrettigheder ikke tilsidesætter disse interesser"
+		},
+		{
+			"lang": "et",
+			"text": "isikuandmete avaldamine on vajalik teadustöö tulemuste tutvustamiseks või teadustegevuse edendamiseks ja kui andmesubjekti huvid või põhiõigused ja -vabadused ei ole ülimuslikud nende huvide suhtes või"
+		},
+		{
+			"lang": "el",
+			"text": "β) η δημοσίευση δεδομένων προσωπικού χαρακτήρα είναι απαραίτητη για την παρουσίαση πορισμάτων έρευνας ή για τη διευκόλυνση έρευνας στον βαθμό που τα συμφέροντα ή τα θεμελιώδη δικαιώματα ή οι ελευθερίες του προσώπου στο οποίο αναφέρονται τα δεδομένα δεν υπερισχύουν των εν λόγω συμφερόντων·"
+		},
+		{
+			"lang": "bg",
+			"text": "б) публикуването на лични данни е необходимо за представяне на открития от изследвания и за улесняване на изследвания дотолкова, доколкото интересите или основните права или свободи на субекта на данни нямат преимущество пред тези интереси; или"
+		},
+		{
+			"lang": "hu",
+			"text": "a személyes adatok nyilvánosságra hozatala a kutatási eredmények bemutatása vagy a kutatás megkönnyítése céljából szükséges, amennyiben az érintett érdekei, alapvető jogai vagy szabadságai nem élveznek elsőbbséget ezen érdekekkel szemben; vagy"
+		},
+		{
+			"lang": "mt",
+			"text": "il-pubblikazzjoni ta’ dejta personali hija meħtieġa sabiex jiġu ppreżentati s-sejbiet tar-riċerka jew biex tiġi ffaċilitata r-riċerka sakemm l-interessi jew id-drittijiet jew il-libertajiet fundamentali tas-suġġett tad-dejta ma jegħlbux dawn l-interessi; jew"
+		},
+		{
+			"lang": "lv",
+			"text": "personas datu publicēšana ir nepieciešama, lai iepazīstinātu ar izpētes rezultātiem vai atvieglotu izpēti, ciktāl datu subjekta intereses vai pamattiesības un brīvības nav svarīgākas salīdzinājumā ar šīm interesēm; vai"
+		},
+		{
+			"lang": "ro",
+			"text": "publicarea datelor cu caracter personal este necesară pentru a prezenta rezultatele cercetării sau pentru a facilita cercetarea, în măsura în care interesele sau drepturile ori libertățile fundamentale ale persoanei vizate nu prevalează asupra acestor interese sau"
+		},
+		{
+			"lang": "sk",
+			"text": "zverejnenie osobných údajov je potrebné na prezentáciu výsledkov výskumu alebo na uľahčenie výskumu, pokiaľ záujmy alebo základné práva a slobody dotknutej osoby neprevažujú nad týmito záujmami, alebo"
+		},
+		{
+			"lang": "sl",
+			"text": "objava osebnih podatkov potrebna zaradi predstavitve rezultatov raziskave ali olajšanja raziskave, če interesi ali temeljne pravice ali svoboščine posameznika, na katerega se nanašajo osebni podatki, ne prevladajo nad temi interesi; ali"
+		},
+		{
+			"lang": "fi",
+			"text": "henkilötietojen julkaiseminen on tarpeen tutkimustulosten esittämistä varten tai tutkimuksen helpottamiseksi siltä osin kuin rekisteröidyn edut tai perusoikeudet tai ‑vapaudet eivät syrjäytä näitä etuja; tai"
+		},
+		{
+			"lang": "pl",
+			"text": "publikacja danych osobowych jest niezbędna do zaprezentowania ustaleń uzyskanych w wyniku badań lub do ułatwienia badań w takim zakresie, w jakim interesy lub podstawowe prawa i wolności podmiotu danych nie mają charakteru nadrzędnego; lub"
+		},
+		{
+			"lang": "lt",
+			"text": "asmens duomenis paskelbti būtina tyrimų išvadoms pateikti arba tyrimams palengvinti, jeigu šie interesai nėra viršesni už duomenų subjekto interesus arba pagrindines teises ar laisves; arba"
+		},
+		{
+			"lang": "nl",
+			"text": "de publicatie van persoonsgegevens nodig is om de onderzoeksresultaten te presenteren of het onderzoek te vergemakkelijken, mits de belangen of de grondrechten en grondvrijheden van de betrokkene geen voorrang hebben boven deze belangen; of"
+		},
+		{
+			"lang": "sv",
+			"text": "offentliggörandet av personuppgifter är nödvändigt för att lägga fram forskningsresultat eller för att underlätta forskning, så länge inte den registrerades intressen eller grundläggande rättigheter och friheter överskuggar dessa intressen,"
+		}
+	],
+	"children": [],
+	"title": "Article 83 – Paragraph 2 – Point 2"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "r32",
+	"type": "recital",
+	"literal": "32",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Where processing is based on the data subject's consent, the controller should have the burden of proving that the data subject has given the consent to the processing operation. In particular in the context of a written declaration on another matter, safeguards should ensure that the data subject is aware that and to what extent consent is given."
+		},
+		{
+			"lang": "de",
+			"text": "Erfolgt die Verarbeitung mit Einwilligung der betroffenen Person, sollte die Beweislast, dass die betroffene Person ihre Einwilligung zu dem Verarbeitungsvorgang gegeben hat, bei dem für die Verarbeitung Verantwortlichen liegen. Vor allem bei Abgabe einer schriftlichen Erklärung in anderem Zusammenhang sollten Vorkehrungen getroffen werden, die sicherstellen, dass die betroffene Person weiß, dass und wozu sie ihre Einwilligung erteilt."
+		},
+		{
+			"lang": "fr",
+			"text": "Lorsque le traitement est fondé sur le consentement de la personne concernée, c'est au responsable du traitement que devrait incomber la charge de prouver que ladite personne a bien consenti au traitement. En particulier, dans le contexte d’une déclaration écrite relative à une autre question, des garanties devraient faire en sorte que la personne concernée donne son consentement en toute connaissance de cause."
+		},
+		{
+			"lang": "es",
+			"text": "Cuando el tratamiento se lleve a cabo con el consentimiento del interesado, la carga de demostrar que este ha dado su consentimiento a la operación de tratamiento debe recaer en el responsable del tratamiento. En particular, en el contexto de una declaración por escrito efectuada sobre otro asunto, debe haber garantías de que el interesado es consciente de que da su consentimiento y en qué medida lo hace."
+		},
+		{
+			"lang": "pt",
+			"text": "Sempre que o tratamento for realizado com base no consentimento do titular dos dados, recai sobre o responsável pelo tratamento o ónus de provar o consentimento da pessoa em causa. Em especial, no contexto de uma declaração escrita relativa a outra matéria, devem existir as devidas garantias de que o titular dos dados está ciente do consentimento dado com todo o conhecimento de causa."
+		},
+		{
+			"lang": "it",
+			"text": "Per i trattamenti basati sul consenso dell’interessato, dovrebbe incombere al responsabile del trattamento dimostrare che l’interessato ha acconsentito al trattamento. In particolare, nel contesto di una dichiarazione scritta relativa a un’altra materia, occorrono garanzie che assicurino che l’interessato sia consapevole di esprimere un consenso e in qual misura."
+		},
+		{
+			"lang": "ga",
+			"text": "I gcás ina bhfuil próiseáil bunaithe ar thoiliú an duine is ábhar do na sonraí, ba cheart an dualgas maidir le cruthú gur thoiligh an duine is ábhar do na sonraí leis an oibríocht próiseála a leagan ar an rialaitheoir. Go háirithe i gcomhthéacs dearbhaithe i scríbhinn maidir le hábhar éigin eile, ba cheart cosaintí a bheith ann chun a áirithiú go bhfuil an duine is ábhar do na sonraí ar an eolas go bhfuil toiliú á thabhairt aige agus go bhfuil sé ar an eolas faoin méid a bhfuil sé á thabhairt."
+		},
+		{
+			"lang": "cs",
+			"text": "Pokud je zpracování založeno na souhlasu subjektu údajů, měl by důkazní břemeno, že subjekt údajů vyjádřil souhlas se zpracováváním, nést správce. Zejména v případě písemného prohlášení souvisejícího s jinou skutečností by mělo být pomocí záruk zajištěno, že subjekt údajů si je vědom, že dává souhlas a v jakém rozsahu."
+		},
+		{
+			"lang": "da",
+			"text": "Når behandlingen er baseret på den registreredes samtykke, bør den registeransvarlige bevise, at den registrerede har givet sit samtykke til behandlingen. I forbindelse med navnlig skriftlige erklæringer om andre forhold bør garantier sikre, at den registrerede er bekendt med, at og i hvilket omfang der afgives samtykke."
+		},
+		{
+			"lang": "et",
+			"text": "Kui töötlemine toimub andmesubjekti nõusolekul, peaks vastutaval töötlejal lasuma tõendamiskohustus, et andmesubjekt on töötlemistoimingu heaks kiitnud. Eelkõige muid küsimusi käsitleva kirjaliku avalduse puhul tuleks kaitsemeetmetega tagada, et andmesubjekt on teadlik nõusoleku andmisest ja nõusoleku andmise ulatusest."
+		},
+		{
+			"lang": "el",
+			"text": "Όταν η επεξεργασία βασίζεται στη συγκατάθεση του προσώπου στο οποίο αναφέρονται τα δεδομένα, ο υπεύθυνος επεξεργασίας φέρει το βάρος απόδειξης ότι το πρόσωπο στο οποίο αναφέρονται τα δεδομένα παρέσχε τη συγκατάθεσή του στην πράξη επεξεργασίας. Ειδικότερα, στο πλαίσιο έγγραφης δήλωσης για άλλο θέμα, εγγυήσεις πρέπει να διασφαλίζουν ότι το πρόσωπο στο οποίο αναφέρονται τα δεδομένα γνωρίζει ότι και σε ποιο βαθμό παρέχει τη συγκατάθεσή του."
+		},
+		{
+			"lang": "bg",
+			"text": "Когато обработването се извършва въз основа на съгласието на субекта на данни, администраторът следва да носи тежестта на доказване, че субектът на данни е дал съгласието си за операцията по обработване. По-специално в случай на писмена декларация по друг въпрос с гаранциите следва да се гарантира, че субектът на данни е информиран за това, че дава съгласието си и в каква степен го дава."
+		},
+		{
+			"lang": "hu",
+			"text": "Amennyiben a feldolgozás az érintett hozzájárulásán alapul, az adatkezelőnek kell bizonyítania, hogy az érintett hozzájárult a feldolgozási művelethez. Különösen a más ügyben tett írásos nyilatkozattal összefüggésben biztosítékokkal kell biztosítani azt, hogy az érintett tisztában legyen azzal, hogy hozzájárulását adta, valamint azzal, hogy milyen mértékben tette ezt."
+		},
+		{
+			"lang": "mt",
+			"text": "Meta l-ipproċessar ikun ibbażat fuq il-kunsens tas-suġġett tad-dejta, il-kontrollur għandu jkollu l-oneru li jipprova li s-suġġett tad-dejta ta l-kunsens tiegħu għall-operazzjoni ta’ pproċessar. B’mod partikolari fil-kuntest ta’ dikjarazzjoni bil-miktub fuq kwistjoni oħra, is-salvagwardji għandhom jiżguraw li s-suġġett tad-dejta huwa konxju dwar u sa liema punt ta l-kunsens."
+		},
+		{
+			"lang": "lv",
+			"text": "Ja apstrāde pamatojas uz datu subjekta piekrišanu, pārzinim būtu jāuzliek pienākums pierādīt, ka datu subjekts ir devis piekrišanu apstrādes darbībai. Jo īpaši saistībā ar rakstisku deklarāciju kādā citā jautājumā aizsardzības pasākumiem būtu jānodrošina, ka datu subjekts apzinās, ka viņš sniedz piekrišanu un kādā apmērā viņš to dara."
+		},
+		{
+			"lang": "ro",
+			"text": "În cazul în care prelucrarea se bazează pe consimțământul persoanei vizate, sarcina probei cu privire la faptul că persoana vizată și-a dat consimțământul pentru operațiunea de prelucrare îi revine operatorului. În special, în contextul unei declarații scrise cu privire la un alt aspect, garanțiile ar trebui să asigure că persoana vizată este conștientă de faptul că și-a dat consimțământul și în ce măsură a făcut acest lucru."
+		},
+		{
+			"lang": "sk",
+			"text": "Ak je spracovanie založené na súhlase dotknutej osoby, malo by byť povinnosťou prevádzkovateľa preukázať, že dotknutá osoba vyjadrila súhlas s operáciami spracovania údajov. Najmä v súvislosti s písomným vyhlásením v inej záležitosti by záruky mali zabezpečovať, že dotknutá osoba si je vedomá, že dáva súhlas a v akom rozsahu ho udeľuje."
+		},
+		{
+			"lang": "sl",
+			"text": "Kadar obdelava temelji na privolitvi posameznika, na katerega se nanašajo osebni podatki, bi moral upravljavec dokazati, da je posameznik, na katerega se nanašajo osebni podatki, privolil v postopek obdelave. Zlasti v okviru pisne izjave o drugi zadevi bi morali zaščitni ukrepi zagotoviti, da se posameznik, na katerega se nanašajo osebni podatki, zaveda, da daje privolitev in v kakšnem obsegu."
+		},
+		{
+			"lang": "fi",
+			"text": "Kun tietojenkäsittely perustuu rekisteröidyn suostumukseen, rekisterinpitäjällä olisi oltava vastuu sen osoittamisesta, että rekisteröity on antanut suostumuksensa käsittelytoimiin. Etenkin jos suostumus annetaan muuta seikkaa koskevan kirjallisen ilmoituksen yhteydessä, olisi annettava takeet sen varmistamiseksi, että rekisteröity on tietoinen siitä, että hän on antanut suostumuksensa ja että hän tietää, mitä se koskee."
+		},
+		{
+			"lang": "pl",
+			"text": "Jeśli przetwarzanie odbywa się na podstawie zgody podmiotu danych, ciężar udowodnienia, że podmiot danych wyraził zgodę na operację przetwarzania, spoczywa na administratorze. W szczególności w przypadku pisemnego oświadczenia złożonego w innej sprawie odpowiednie gwarancje powinny zapewniać, iż podmiot danych jest świadomy wyrażenia zgody oraz jej zakresu."
+		},
+		{
+			"lang": "lt",
+			"text": "kai duomenys tvarkomi gavus duomenų subjekto sutikimą, pareiga įrodyti, kad duomenų subjektas sutiko su duomenų tvarkymo operacija, turėtų tekti duomenų valdytojui. Visų pirma kai rašytinis pareiškimas teikiamas kitu klausimu, apsaugos priemonėmis turėtų būti užtikrinta, kad duomenų subjektas suvokia, kad sutinka ir dėl ko;"
+		},
+		{
+			"lang": "nl",
+			"text": "Wanneer de verwerking plaatsvindt op grond van toestemming van de betrokkene, dient het bewijs dat de betrokkene toestemming heeft gegeven voor de verwerking te worden geleverd door de voor de verwerking verantwoordelijke. Met name in de context van een schriftelijke verklaring over een andere zaak dient te worden gewaarborgd dat de betrokkene zich ervan bewust is dat hij toestemming geeft en hoever deze toestemming reikt."
+		},
+		{
+			"lang": "sv",
+			"text": "När behandling sker efter samtycke från registrerade bör registeransvariga ha bevisbördan när det gäller att visa att de registrerade har lämnat sitt samtycke till behandlingen. Vid skriftliga deklarationer som också rör andra frågor bör skyddsåtgärder finnas som ser till att de registrerade är medvetna om detta och hur långt samtycket sträcker sig."
+		}
+	],
+	"children": [],
+	"title": "Recital 32"
+}

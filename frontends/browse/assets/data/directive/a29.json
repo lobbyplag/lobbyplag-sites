@@ -1,0 +1,105 @@
+{
+	"id": "a29",
+	"type": "article",
+	"literal": "29",
+	"parent": "c4s1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Co-operation with the supervisory authority"
+		},
+		{
+			"lang": "de",
+			"text": "Zusammenarbeit mit der Aufsichtsbehörde"
+		},
+		{
+			"lang": "fr",
+			"text": "Coopération avec l'autorité de contrôle"
+		},
+		{
+			"lang": "es",
+			"text": "Cooperación con la autoridad de control"
+		},
+		{
+			"lang": "pt",
+			"text": "Cooperação com a autoridade de controlo"
+		},
+		{
+			"lang": "it",
+			"text": "Cooperazione con l’autorità di controllo"
+		},
+		{
+			"lang": "ga",
+			"text": "Comhar leis an údarás maoirseachta"
+		},
+		{
+			"lang": "cs",
+			"text": "Spolupráce s orgánem dozoru"
+		},
+		{
+			"lang": "da",
+			"text": "Samarbejde med tilsynsmyndigheden"
+		},
+		{
+			"lang": "et",
+			"text": "Koostöö järelevalveasutusega"
+		},
+		{
+			"lang": "el",
+			"text": "Συνεργασία με την αρχή ελέγχου"
+		},
+		{
+			"lang": "bg",
+			"text": "Сътрудничество с надзорния орган"
+		},
+		{
+			"lang": "hu",
+			"text": "Együttműködés a felügyelő hatósággal"
+		},
+		{
+			"lang": "mt",
+			"text": "Kooperazzjoni mal-awtorità ta’ superviżjoni"
+		},
+		{
+			"lang": "lv",
+			"text": "Sadarbība ar uzraudzības iestādi"
+		},
+		{
+			"lang": "ro",
+			"text": "Cooperarea cu autoritatea de supraveghere"
+		},
+		{
+			"lang": "sk",
+			"text": "Spolupráca s dozorným orgánom"
+		},
+		{
+			"lang": "sl",
+			"text": "Sodelovanje z nadzornim organom"
+		},
+		{
+			"lang": "fi",
+			"text": "Yhteistyö valvontaviranomaisen kanssa"
+		},
+		{
+			"lang": "pl",
+			"text": "Współpraca z organem nadzorczym"
+		},
+		{
+			"lang": "lt",
+			"text": "Bendradarbiavimas su priežiūros institucija"
+		},
+		{
+			"lang": "nl",
+			"text": "Medewerking met de toezichthoudende autoriteit"
+		},
+		{
+			"lang": "sv",
+			"text": "Samarbete med tillsynsmyndigheten"
+		}
+	],
+	"children": [
+		"a29p1",
+		"a29p2"
+	],
+	"title": "Article 29"
+}

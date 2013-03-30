@@ -1,0 +1,102 @@
+{
+	"id": "a33p2i1",
+	"type": "point",
+	"literal": "a",
+	"parent": "a33p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "a systematic and extensive evaluation of personal aspects relating to a natural person or for analysing or predicting in particular the natural person's economic situation, location, health, personal preferences, reliability or behaviour, which is based on automated processing and on which measures are based that produce legal effects concerning the individual or significantly affect the individual;"
+		},
+		{
+			"lang": "de",
+			"text": "systematische und umfassende Auswertung persönlicher Aspekte einer natürlichen Person, beispielsweise zwecks Analyse ihrer wirtschaftlichen Lage, ihres Aufenthaltsorts, ihres Gesundheitszustands, ihrer persönlichen Vorlieben, ihrer Zuverlässigkeit oder ihres Verhaltens oder zwecks diesbezüglicher Voraussagen, die sich auf eine automatisierte Verarbeitung von Daten gründet und ihrerseits als Grundlage für Maßnahmen dient, welche Rechtswirkung gegenüber der betroffenen Person entfalten oder erhebliche Auswirkungen für diese mit sich bringen;"
+		},
+		{
+			"lang": "fr",
+			"text": "l'évaluation systématique et à grande échelle des aspects personnels propres à une personne physique ou visant à analyser ou à prévoir, en particulier, la situation économique de ladite personne physique, sa localisation, son état de santé, ses préférences personnelles, sa fiabilité ou son comportement, qui est fondée sur un traitement automatisé et sur la base de laquelle sont prises des mesures produisant des effets juridiques concernant ou affectant de manière significative ladite personne;"
+		},
+		{
+			"lang": "es",
+			"text": "la evaluación sistemática y exhaustiva de los aspectos personales propios de una persona física o destinada a analizar o a predecir, en particular, su situación económica, localización, estado de salud, preferencias personales, fiabilidad o comportamiento, que se base en un tratamiento automatizado y sobre la base de la cual se tomen medidas que produzcan efectos jurídicos que atañan o afecten significativamente a dicha persona;"
+		},
+		{
+			"lang": "pt",
+			"text": "A avaliação sistemática e completa dos aspetos pessoais relacionados com uma pessoa singular, ou visando analisar ou prever, nomeadamente, a sua situação financeira, localização, saúde, preferências pessoais, fiabilidade ou comportamento, baseada num processo automatizado e com base na qual são adotadas medidas que produzem efeitos jurídicos relativamente à pessoa em causa ou que a afetam de forma significativa;"
+		},
+		{
+			"lang": "it",
+			"text": "la valutazione sistematica e globale di aspetti della personalità dell’interessato o volta ad analizzarne o prevederne in particolare la situazione economica, l’ubicazione, lo stato di salute, le preferenze personali, l’affidabilità o il comportamento, basata su un trattamento automatizzato e da cui discendono misure che hanno effetti giuridici o significativamente incidono sull’interessato;"
+		},
+		{
+			"lang": "ga",
+			"text": "meastóireacht chórasach agus chuimsitheach ar ghnéithe pearsanta a bhaineann le duine nádúrtha nó meastóireacht chun anailís a dhéanamh ar staid eacnamaíoch an duine nádúrtha, a áit cónaithe, a shláinte, a shainroghanna pearsanta, a iontaofa atá sé nó ar a chuid iompair, nó chun na nithe sin a thomhas, ar meastóireacht í atá bunaithe ar phróiseáil uathoibrithe agus ar a mbunaítear bearta a bhfuil éifeachtaí dlíthiúla acu a bhaineann leis an duine aonair nó a dhéanann difear suntasach don duine aonair;"
+		},
+		{
+			"lang": "cs",
+			"text": "se systematickým a rozsáhlým vyhodnocováním osobních aspektů fyzických osob nebo s rozborem či předpovídáním zejména ekonomické situace, lokalizace, zdraví, osobních preferencí, spolehlivosti či chování těchto fyzických osob, jestliže je zpracování údajů automatizované a zakládají se na něm opatření, která vyvolají ve vztahu k daným jednotlivcům právní účinky nebo která se těchto jednotlivců významným způsobem dotknou;"
+		},
+		{
+			"lang": "da",
+			"text": "systematisk og omfattende evaluering af personlige aspekter vedrørende en fysisk person eller med henblik på analyse eller forudsigelse af en fysisk persons økonomiske situation, lokalitet, sundhed, personlige præferencer, pålidelighed eller adfærd baseret på elektronisk databehandling, som kan resultere i foranstaltninger, der har retsvirkning for vedkommende eller berører vedkommende i væsentlig grad"
+		},
+		{
+			"lang": "et",
+			"text": "automatiseeritud andmetöötlusel põhinev füüsilise isiku süstemaatiline ja põhjalik analüüsimine, et hinnata või prognoosida füüsilise isiku majanduslikku olukorda, asukohta, tervist, eelistusi, usaldusväärsust ja käitumist eesmärgiga teha andmesubjekti jaoks õiguslike tagajärgedega või teda oluliselt mõjutavaid otsuseid;"
+		},
+		{
+			"lang": "el",
+			"text": "α) συστηματική και εκτενής αξιολόγηση προσωπικών πτυχών ενός φυσικού προσώπου, για παράδειγμα με στόχο την ανάλυση ή την πρόβλεψη ειδικότερα της οικονομικής κατάστασης, της θέσης, της υγείας, των προσωπικών προτιμήσεων, της αξιοπιστίας ή της συμπεριφοράς του φυσικού προσώπου, η οποία βασίζεται σε αυτοματοποιημένη επεξεργασία και βάσει της οποίας λαμβάνονται μέτρα τα οποία παράγουν έννομες συνέπειες που αφορούν ή επηρεάζουν σημαντικά το φυσικό πρόσωπο·"
+		},
+		{
+			"lang": "bg",
+			"text": "а) систематична и обширна оценка на лични аспекти, свързани с дадено физическо лице, за анализиране или прогнозиране, по-специално на неговото икономическо положение, местоположение, здравословно състояние, лични предпочитания, надеждност или поведение, която се основава на автоматизирано обработване и на чието основание се вземат мерки, които пораждат правни последици за лицето или го засягат в значителна степен;"
+		},
+		{
+			"lang": "hu",
+			"text": "a természetes személyre vonatkozó egyes személyes szempontok olyan módszeres és átfogó értékelése vagy különösen a természetes személy gazdasági helyzetének, tartózkodási helyének, egészségének, személyes igényeinek, megbízhatóságának vagy viselkedésének olyan elemzése vagy előrejelzése, amelyre automatizált feldolgozáson alapul, és amelyre az érintett személy tekintetében joghatással bíró vagy az egyént jelentős mértékben érintő intézkedések épülnek;"
+		},
+		{
+			"lang": "mt",
+			"text": "Evalwazzjoni sistematika u estensiva tal-aspetti personali relatati ma’ persuna fiżika jew għall-analiżi jew it-tbassir b’mod partikolari tas--sitwazzjoni ekonomika, il-post, is-saħħa, il-preferenzi personali, l-affidabbiltà jew l-imġiba tal-persuna fiżika, li tkun ibbażata fuq l-ipproċessar awtomatizzat li fuqu huma bbażati miżuri li jipproduċu effetti legali li jirrigwardaw lill-individwu jew jaffettwaw b’mod sinifikanti lill-individwu;"
+		},
+		{
+			"lang": "lv",
+			"text": "sistemātiska un plaša ar fizisko personu saistītu personisku aspektu novērtēšana vai analizēšana, lai iepriekšparedzētu, piemēram, fiziskas personas ekonomisko situāciju, atrašanās vietu, veselību, personīgās vēlmes, uzticamību vai uzvedību, kuras pamatā ir automatizēta apstrāde un ar ko pamato pasākumus, kas personai rada tiesiskas sekas vai to būtiski skar;"
+		},
+		{
+			"lang": "ro",
+			"text": "o evaluare sistematică și cuprinzătoare a aspectelor personale referitoare la o persoană fizică sau care vizează analizarea ori întocmirea de previziuni în special în ceea ce privește situația economică a persoanei fizice, locul în care se află, sănătatea, preferințele personale, încrederea de care se bucură sau comportamentul acesteia, care se bazează pe prelucrarea automată și pe care se bazează măsurile care produc efecte juridice sau care afectează în mod semnificativ persoana respectivă;"
+		},
+		{
+			"lang": "sk",
+			"text": "systematické a rozsiahle hodnotenie osobných aspektov týkajúcich sa určitej fyzickej osoby alebo slúžiacich na analýzu či prognózovanie týkajúce sa najmä ekonomickej situácie, bydliska, zdravia, osobných preferencií, spoľahlivosti alebo správania, ktoré je založené na automatizovanom spracovaní a ktoré je základom opatrení s právnymi účinkami týkajúcimi sa tejto fyzickej osoby;"
+		},
+		{
+			"lang": "sl",
+			"text": "sistematično in obsežno vrednotenje osebnih vidikov v zvezi s fizično osebo ali za analiziranje oziroma predvidevanje zlasti ekonomskega položaja, lokacije, zdravja, osebnega okusa, zanesljivosti ali vedenja fizične osebe, ki temelji na samodejni obdelavi in na katerem temeljijo ukrepi, ki imajo pravne učinke v zvezi s posameznikom ali nanj znatno vplivajo;"
+		},
+		{
+			"lang": "fi",
+			"text": "luonnollisen henkilön henkilökohtaisten ominaisuuksien järjestelmällinen ja kattava arviointi hänen taloudellisen tilanteensa, sijaintinsa, terveytensä, henkilökohtaisten mieltymystensä, luotettavuutensa tai käyttäytymisensä analysoimista tai ennakoimista varten automatisoidun tietojenkäsittelyn perusteella sellaisten toimenpiteiden antamista varten, jotka aiheuttavat kyseiselle yksilölle oikeusvaikutuksia tai vaikuttavat häneen merkittävällä tavalla;"
+		},
+		{
+			"lang": "pl",
+			"text": "systematyczna i kompleksowa ocena aspektów osobowych osoby fizycznej bądź operacje przetwarzania mające na celu analizę lub przewidzenie w szczególności sytuacji ekonomicznej, miejsca pobytu, stanu zdrowia, preferencji osobistych, wiarygodności lub zachowania osoby fizycznej, która opiera się na automatycznym przetwarzaniu, i na której opierają się środki, które wywołują skutki prawne dotyczące danej osoby lub mają na nią istotny wpływ;"
+		},
+		{
+			"lang": "lt",
+			"text": "sistemingą ir išsamų su fiziniu asmeniu susijusių asmeninių aspektų vertinimą arba duomenų tvarkymo operacijas, atliekamas siekiant išnagrinėti arba numatyti fizinio asmens ekonominę situaciją, buvimo vietą, sveikatos būklę, asmeninius pomėgius, patikimumą arba elgesį, kai tokia operacija grindžiama automatizuotu duomenų tvarkymu ir ja remiantis taikomos priemonės, dėl kurių fizinis asmuo patiria teisinių pasekmių arba kurios daro jam didelį poveikį;"
+		},
+		{
+			"lang": "nl",
+			"text": "een systematische en uitgebreide beoordeling van aspecten van de persoonlijkheid van een natuurlijke persoon, bijvoorbeeld om met name zijn economische situatie, verblijfplaats, gezondheid, persoonlijke voorkeuren, betrouwbaarheid of gedrag te analyseren of te voorspellen, die is gebaseerd op geautomatiseerde verwerking en waarop maatregelen zijn gebaseerd waaraan voor die persoon rechtsgevolgen zijn verbonden of die hem in aanzienlijke mate treffen;"
+		},
+		{
+			"lang": "sv",
+			"text": "En systematisk och omfattande bedömning av en fysisk persons personliga aspekter eller i syfte att analysera eller förutse särskilt den fysiska personens ekonomiska situation, vistelseort, hälsa, personliga preferenser, pålitlighet eller beteende, vilket grundar sig på automatisk behandling och på vilka sådana åtgärder grundar sig som har rättsliga följder för den enskilde eller som märkbart påverkar honom eller henne."
+		}
+	],
+	"children": [],
+	"title": "Article 33 – Paragraph 2 – Point 1"
+}

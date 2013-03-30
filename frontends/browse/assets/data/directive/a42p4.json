@@ -1,0 +1,102 @@
+{
+	"id": "a42p4",
+	"type": "paragraph",
+	"literal": "4",
+	"parent": "a42",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Where a transfer is based on contractual clauses as referred to in point (d) of paragraph 2 of this Article the controller or processor shall obtain prior authorisation of the contractual clauses according to point (a) of Article 34(1) from the supervisory authority. If the transfer is related to processing activities which concern data subjects in another Member State or other Member States, or substantially affect the free movement of personal data within the Union, the supervisory authority shall apply the consistency mechanism referred to in Article 57."
+		},
+		{
+			"lang": "de",
+			"text": "Für Datenübermittlungen nach Maßgabe der in Absatz 2 Buchstabe d dieses Artikels genannten Vertragsklauseln holt der für die Verarbeitung Verantwortliche oder der Auftragsverarbeiter die vorherige Genehmigung der Aufsichtsbehörde gemäß Artikel 34 Absatz 1 Buchstabe a ein. Falls die Datenübermittlung im Zusammenhang mit Verarbeitungstätigkeiten steht, welche Personen in einem oder mehreren anderen Mitgliedstaaten betreffen oder wesentliche Auswirkungen auf den freien Verkehr von personenbezogenen Daten in der Union haben, bringt die Aufsichtsbehörde das in Artikel 57 genannte Kohärenzverfahren zur Anwendung."
+		},
+		{
+			"lang": "fr",
+			"text": "Lorsqu'un transfert est effectué en vertu de clauses contractuelles telles que celles visées au paragraphe 2, point d), le responsable du traitement ou le sous‑traitant doit avoir obtenu l'autorisation préalable des clauses contractuelles par l’autorité de contrôle conformément à l'article 34, paragraphe 1, point a). Si le transfert est lié à un traitement qui porte sur des personnes concernées dans un ou plusieurs autres États membres, ou affecte sensiblement la libre circulation des données à caractère personnel dans l’Union, l’autorité de contrôle applique le mécanisme de contrôle de la cohérence prévu à l’article 57."
+		},
+		{
+			"lang": "es",
+			"text": "Cuando una transferencia se efectúe en virtud de cláusulas contractuales como las contempladas en la letra d) del apartado 2, el responsable o el encargado del tratamiento deberán haber obtenido de la autoridad de control la autorización previa de las cláusulas contractuales con arreglo a lo dispuesto en el artículo 34, apartado 1. Si la transferencia se refiere a actividades de tratamiento que atañan a interesados en otro u otros Estados miembros o que afecten sustancialmente a la libre circulación de datos personales dentro de la Unión, la autoridad de control aplicará el mecanismo de coherencia contemplado en el artículo 57."
+		},
+		{
+			"lang": "pt",
+			"text": "Sempre que uma transferência tiver por base cláusulas contratuais como as referidas no n.º 2, alínea d), o responsável pelo tratamento ou o subcontratante deve obter a autorização prévia das cláusulas contratuais, em conformidade com o artigo 34.º, n.º 1, alínea a), pela autoridade de controlo. Se a transferência estiver relacionada com atividades de tratamento relativas a titulares de dados noutro Estado-Membro, ou possam prejudicar substancialmente a livre circulação de dados pessoais na União, a autoridade de controlo aplica o mecanismo de controlo da coerência referido no artigo 57.º."
+		},
+		{
+			"lang": "it",
+			"text": "Se il trasferimento si basa sulle clausole contrattuali di cui paragrafo 2, lettera d), il responsabile del trattamento o l’incaricato del trattamento deve ottenere l’autorizzazione preventiva dell’autorità di controllo in relazione alle clausole contrattuali in conformità dell’articolo 34, paragrafo 1, lettera a). Se il trasferimento è connesso ad attività di trattamento riguardanti interessati in un altro Stato membro o in altri Stati membri, o che incidono significativamente sulla libera circolazione dei dati personali all’interno dell’Unione, l’autorità di controllo applica il meccanismo di coerenza di cui all’articolo 57."
+		},
+		{
+			"lang": "ga",
+			"text": "I gcás ina bhfuil aistriú bunaithe ar chlásail chonarthacha dá dtagraítear i bpointe (d) de mhír 2 den Airteagal seo, ní mór don rialaitheoir nó don phróiseálaí réamhúdarú a fháil do na clásail chonarthacha sin ón údarás maoirseachta i gcomhréir le pointe (a) d’Airteagal 34(1). Má tá baint ag an aistriú le gníomhaíochtaí próiseála lena mbaineann daoine is ábhar do shonraí i mBallstát eile nó i mBallstáit eile, nó má dhéanann an t‑aistriú difear suntasach do shaorghluaiseacht sonraí pearsanta san Aontas, cuirfidh an t‑údarás maoirseachta an sásra comhsheasmhachta dá dtagraítear in Airteagal 57 i bhfeidhm."
+		},
+		{
+			"lang": "cs",
+			"text": "Jestliže se určité předání zakládá na smluvních doložkách podle odst. 2 písm. d) tohoto článku, tyto smluvní doložky musí správci nebo zpracovateli nejdříve schválit orgán dozoru podle čl. 34 odst. 1 písm. a). Pokud je dané předání spojeno se zpracováním údajů týkajících se subjektů v jiném členském státu nebo v jiných členských státech nebo pokud významně ovlivňuje volný pohyb osobních údajů v rámci Unie, orgán dozoru použije mechanismus jednotnosti uvedený v článku 57."
+		},
+		{
+			"lang": "da",
+			"text": "Når videregivelse er baseret på kontraktbestemmelser som nævnt i denne artikels stk. 2, litra d), indhenter den registeransvarlige eller registerføreren forudgående godkendelse af kontraktbestemmelserne i henhold til artikel 34, stk. 1, litra a), hos tilsynsmyndigheden. Hvis videregivelsen vedrører behandlingsaktiviteter, der berører registrerede i en anden medlemsstat eller andre medlemsstater, eller som i væsentlig grad påvirker den frie udveksling af personoplysninger i Unionen, anvender tilsynsmyndigheden den sammenhængsmekanisme, der er omhandlet i artikel 57."
+		},
+		{
+			"lang": "et",
+			"text": "Kui edastamine põhineb käesoleva artikli lõike 2 punktis d osutatud lepingutingimustel, peab vastutav töötleja või volitatud töötleja saama järelevalveasutuselt eelneva loa vastavalt artikli 34 lõike 1 punktile a. Juhul, kui edastamine on seotud töötlemisega, mis puudutab teise liikmesriigi või teiste liikmesriikide andmesubjekte või mis mõjutab märgatavalt isikuandmete vaba liikumist liidu piires, kohaldab järelevalveasutus artiklis 57 osutatud järjepidevuse mehhanismi."
+		},
+		{
+			"lang": "el",
+			"text": "Εάν η διαβίβαση βασίζεται σε συμβατικές ρήτρες, όπως αναφέρεται στην παράγραφο 2 στοιχείο δ) του παρόντος άρθρου, ο υπεύθυνος επεξεργασίας ή ο εκτελών την επεξεργασία εξασφαλίζουν προηγούμενη έγκριση των συμβατικών ρητρών από την αρχή ελέγχου σύμφωνα με το άρθρο 34 παράγραφος 1 στοιχείο α). Εάν η διαβίβαση σχετίζεται με δραστηριότητες επεξεργασίας οι οποίες αφορούν πρόσωπα στα οποία αναφέρονται τα δεδομένα σε άλλο κράτος μέλος ή άλλα κράτη μέλη, ή επηρεάζουν σημαντικά την ελεύθερη κυκλοφορία δεδομένων προσωπικού χαρακτήρα στην Ένωση, η αρχή ελέγχου εφαρμόζει τον μηχανισμό συνεκτικότητας που αναφέρεται στο άρθρο 57."
+		},
+		{
+			"lang": "bg",
+			"text": "Когато предаването на данни се основа на договорни клаузи, както е посочено в параграф 2, буква г), администраторът или обработващият лични данни получава предварително разрешение на договорните клаузи от надзорния орган в съответствие с член 34, параграф 1, буква а). Ако предаването на данни е свързано с дейности по обработване, които засягат субекти на данни в друга държава-членка или други държави-членки, или които съществено засягат свободното движение на лични данни в рамките на Съюза, надзорният орган прилага механизма за съгласуваност, посочен в член 57."
+		},
+		{
+			"lang": "hu",
+			"text": "Amennyiben a továbbítás az e cikk (2) bekezdésének d) pontja szerinti szerződéses feltételeken alapul, az adatkezelő vagy -feldolgozó a 34. cikk (1) bekezdésének a) pontja értelmében előzetesen engedélyezteti a szerződéses feltételeket a felügyelő hatósággal. Amennyiben a továbbítás más tagállam vagy tagállamok érintettjeire vonatkozó feldolgozási tevékenyéghez kapcsolódik, vagy lényegesen érinti a személyes adatok Unión belüli szabad áramlását, a felügyelő hatóság alkalmazza az 57. cikk szerinti egységességi mechanizmust."
+		},
+		{
+			"lang": "mt",
+			"text": "Meta trasferiment ikun ibbażat fuq klawżoli kuntrattwali kif imsemmija fil-punt (d) tal-paragrafu 2 ta’ dan l-Artikolu, il-kontrollur jew il-proċessur għandu jikseb awtorizzazzjoni minn qabel tal-klawżoli kuntrattwali skont il-punt (a) tal-Artikolu 31(1) mill-awtorità ta’ superviżjoni. Jekk it-trasferiment ikun relatat ma’ attivitajiet ta’ pproċessar li jirrigwardaw suġġetti tad-dejta fi Stat Membru ieħor jew Stati Membri oħrajn, jew jaffettwa sostanzjalment il-moviment liberu ta’ dejta personali fl-Unjoni, l-awtorità ta’ superviżjoni għandha tapplika l-mekkaniżmu ta’ konsistenza msemmi fl-Artikolu 57."
+		},
+		{
+			"lang": "lv",
+			"text": "Ja nosūtīšana pamatojas uz līguma noteikumiem, kā minēts šā panta 2. punkta d) apakšpunktā, pārzinis vai apstrādātājs no uzraudzības iestādes saņem iepriekšēju līguma noteikumu apstiprinājumu saskaņā ar 34. panta 1. punktu. Ja nosūtīšana ir saistīta ar apstrādes darbībām, kas attiecas uz datu subjektiem citā dalībvalstī vai dalībvalstīs, vai būtiski skar personas datu brīvu apriti Savienībā, uzraudzības iestāde piemēro konsekvences mehānismu, kas minēts 57. pantā."
+		},
+		{
+			"lang": "ro",
+			"text": "Atunci când transferul se realizează în baza unor clauzele contractuale, astfel cum se menționează în prezentul articol la alineatul (2) litera (d), operatorul sau persoana împuternicită de către operator obține de la autoritatea de supraveghere autorizarea prealabilă pentru clauzele contractuale, în conformitate cu articolul 34 alineatul (1). Dacă transferul are legătură cu activitățile de prelucrare care se referă la persoane vizate din alt stat membru sau din alte state membre, sau dacă afectează în mod semnificativ libera circulație a datelor cu caracter personal în cadrul Uniunii, autoritatea de supraveghere aplică mecanismul pentru asigurarea coerenței prevăzut la articolul 57."
+		},
+		{
+			"lang": "sk",
+			"text": "Ak sa prenos uskutočňuje na základe zmluvných doložiek podľa odseku 2 písm. d) tohto článku, prevádzkovateľ alebo sprostredkovateľ musia k týmto zmluvným doložkám získať vopred povolenie od dozorného orgánu podľa článku 34 ods.1. Ak presun súvisí s činnosťou spracovania, ktorá sa týka dotknutých osôb v inom členskom štáte či štátoch, alebo podstatne ovplyvňuje voľný pohyb osobných údajov v rámci Únie, dozorný orgán uplatní mechanizmus konzistentnosti ustanovený v článku 57."
+		},
+		{
+			"lang": "sl",
+			"text": "Kadar prenos temelji na pogodbenih določbah iz točke (d) odstavka 2 tega člena, upravljavec ali obdelovalec od nadzornega organa pridobi predhodno odobritev pogodbenih določb v skladu s točko (a) člena 34(1). Če je prenos povezan s postopki obdelave v zvezi s posamezniki, na katere se nanašajo osebni podatki, v drugi državi članici ali drugih državah članicah ali znatno vpliva na prosti pretok osebnih podatkov v Uniji, nadzorni organ uporabi mehanizem za skladnost iz člena 57."
+		},
+		{
+			"lang": "fi",
+			"text": "Jos siirto perustuu tämän artiklan 2 kohdan d alakohdassa tarkoitettuihin sopimuslausekkeisiin, rekisterinpitäjän tai henkilötietojen käsittelijän on saatava sopimuslausekkeille valvontaviranomaisen ennakkohyväksyntä 34 artiklan 1 kohdan mukaisesti. Jos siirto liittyy käsittelytoimiin, jotka kohdistuvat toisessa jäsenvaltiossa tai toisissa jäsenvaltioissa asuviin rekisteröityihin, tai jos toimet voivat merkittävästi haitata henkilötietojen vapaata liikkuvuutta unionissa, valvontaviranomaisen on sovellettava 57 artiklassa tarkoitettua yhdenmukaisuusmekanismia."
+		},
+		{
+			"lang": "pl",
+			"text": "Jeśli operacja przekazywania odbywa się na podstawie klauzul umownych, o których mowa w ust. 2 lit. d) niniejszego artykułu, administrator lub podmiot przetwarzający uzyskują od organu nadzorczego uprzednie zezwolenie na zastosowanie klauzul umownych zgodnie z art. 34 ust. 1 lit. a). Jeśli przekazanie wiąże się z przetwarzaniem, które dotyczy podmiotu danych w innym państwie członkowskim lub innych państwach członkowskich bądź ma istotny wpływ na swobodny przepływ danych osobowych w całej Unii, organ nadzorczy stosuje mechanizm zgodności, o którym mowa w art. 57."
+		},
+		{
+			"lang": "lt",
+			"text": "Jeigu duomenys perduodami remiantis sutarties sąlygomis, kaip nurodyta šio straipsnio 2 dalies d punkte, duomenų valdytojas arba duomenų tvarkytojas iš priežiūros institucijos gauna išankstinį leidimą taikyti tas sutarties sąlygas pagal 34 straipsnio 1 dalį. Jeigu duomenys perduodami vykdant duomenų tvarkymo veiklą, susijusią su duomenų subjektais kitoje valstybėje narėje arba kitose valstybėse narėse, arba duomenis perduodant daromas didelis poveikis laisvam asmens duomenų judėjimui Sąjungoje, priežiūros institucija taiko 57 straipsnyje nurodytą nuoseklumo užtikrinimo mechanizmą."
+		},
+		{
+			"lang": "nl",
+			"text": "Voor een doorgifte op basis van contractuele bepalingen als bedoeld in lid 2, onder d), verkrijgt de voor de verwerking verantwoordelijke of de verwerker overeenkomstig artikel 34, lid 1, onder a), voorafgaande toestemming van de contractuele bepalingen van de toezichthoudende autoriteit. Indien de doorgifte verband houdt met verwerkingen die betrekking hebben op betrokkenen in een andere lidstaat of andere lidstaten of een inbreuk maken op het vrije verkeer van persoonsgegevens binnen de Unie, verricht de toezichthoudende autoriteit de in artikel 57 bedoelde conformiteitstoetsing."
+		},
+		{
+			"lang": "sv",
+			"text": "Om en överföring grundar sig på avtalsklausuler enligt punkt 2 d ska den registeransvarige eller registerföraren först ansöka om att få dessa klausuler godkända av tillsynsmyndigheten enligt artikel 34.1 a. Om överföringen har samband med behandling av uppgifter om registrerade personer i en eller flera andra medlemsstater eller om den väsentligt påverkar det fria flödet av personuppgifter inom unionen ska tillsynsmyndigheten tillämpa den mekanism för enhetlighet som avses i artikel 57."
+		}
+	],
+	"children": [],
+	"title": "Article 42 – Paragraph 4"
+}

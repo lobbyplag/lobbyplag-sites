@@ -1,0 +1,106 @@
+{
+	"id": "a60",
+	"type": "article",
+	"literal": "60",
+	"parent": "c7s2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Suspension of a draft measure"
+		},
+		{
+			"lang": "de",
+			"text": "Aussetzung einer geplanten Maßnahme"
+		},
+		{
+			"lang": "fr",
+			"text": "Suspension d’un projet de mesure"
+		},
+		{
+			"lang": "es",
+			"text": "Suspensión de un proyecto de medida"
+		},
+		{
+			"lang": "pt",
+			"text": "Suspensão de um projeto de medida"
+		},
+		{
+			"lang": "it",
+			"text": "Sospensione di un progetto di misura"
+		},
+		{
+			"lang": "ga",
+			"text": "Dréachtbheart a fhionraí"
+		},
+		{
+			"lang": "cs",
+			"text": "Odklad návrhu opatření"
+		},
+		{
+			"lang": "da",
+			"text": "Suspension af en foreslået foranstaltning"
+		},
+		{
+			"lang": "et",
+			"text": "Meetme eelnõu peatamine"
+		},
+		{
+			"lang": "el",
+			"text": "Αναστολή σχεδίου μέτρου"
+		},
+		{
+			"lang": "bg",
+			"text": "Временно преустановяване на проектомярка"
+		},
+		{
+			"lang": "hu",
+			"text": "Az intézkedéstervezet felfüggesztése"
+		},
+		{
+			"lang": "mt",
+			"text": "Sospensjoni ta’ abbozz ta’ miżura"
+		},
+		{
+			"lang": "lv",
+			"text": "Pasākuma projekta apturēšana"
+		},
+		{
+			"lang": "ro",
+			"text": "Suspendarea unui proiect de măsură"
+		},
+		{
+			"lang": "sk",
+			"text": "Pozastavenie návrhu opatrenia"
+		},
+		{
+			"lang": "sl",
+			"text": "Začasni preklic osnutka ukrepa"
+		},
+		{
+			"lang": "fi",
+			"text": "Toimenpideluonnoksen hyväksymisen keskeyttäminen"
+		},
+		{
+			"lang": "pl",
+			"text": "Zawieszenie projektu środka"
+		},
+		{
+			"lang": "lt",
+			"text": "Priemonės projekto priėmimo sustabdymas"
+		},
+		{
+			"lang": "nl",
+			"text": "Schorsing van een ontwerpmaatregel"
+		},
+		{
+			"lang": "sv",
+			"text": "Uppskjutet antagande av ett utkast till åtgärd"
+		}
+	],
+	"children": [
+		"a60p1",
+		"a60p2",
+		"a60p3"
+	],
+	"title": "Article 60"
+}

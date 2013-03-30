@@ -1,0 +1,108 @@
+{
+	"id": "c6s1",
+	"type": "section",
+	"literal": "1",
+	"parent": "c6",
+	"text": [
+		{
+			"lang": "en",
+			"text": "INDEPENDENT STATUS"
+		},
+		{
+			"lang": "de",
+			"text": "UNABHÄNGIGKEIT"
+		},
+		{
+			"lang": "fr",
+			"text": "STATUT D'INDÉPENDANCE"
+		},
+		{
+			"lang": "es",
+			"text": "INDEPENDENCIA"
+		},
+		{
+			"lang": "pt",
+			"text": "ESTATUTO INDEPENDENTE"
+		},
+		{
+			"lang": "it",
+			"text": "INDIPENDENZA"
+		},
+		{
+			"lang": "ga",
+			"text": "STÁDAS NEAMHSPLEÁCH"
+		},
+		{
+			"lang": "cs",
+			"text": "NEZÁVISLOST POSTAVENÍ"
+		},
+		{
+			"lang": "da",
+			"text": "UAFHÆNGIG STATUS"
+		},
+		{
+			"lang": "et",
+			"text": "SÕLTUMATUS"
+		},
+		{
+			"lang": "el",
+			"text": "ΑΝΕΞΑΡΤΗΤΟ ΚΑΘΕΣΤΩΣ"
+		},
+		{
+			"lang": "bg",
+			"text": "НЕЗАВИСИМ СТАТУТ"
+		},
+		{
+			"lang": "hu",
+			"text": "FÜGGETLEN JOGÁLLÁS"
+		},
+		{
+			"lang": "mt",
+			"text": "STATUS INDIPENDENTI"
+		},
+		{
+			"lang": "lv",
+			"text": "NEATKARĪBA"
+		},
+		{
+			"lang": "ro",
+			"text": "STATUT INDEPENDENT"
+		},
+		{
+			"lang": "sk",
+			"text": "NEZÁVISLÉ POSTAVENIE"
+		},
+		{
+			"lang": "sl",
+			"text": "STATUS NEODVISNOSTI"
+		},
+		{
+			"lang": "fi",
+			"text": "RIIPPUMATON ASEMA"
+		},
+		{
+			"lang": "pl",
+			"text": "NIEZALEŻNY STATUS"
+		},
+		{
+			"lang": "lt",
+			"text": "NEPRIKLAUSOMUMAS"
+		},
+		{
+			"lang": "nl",
+			"text": "ONAFHANKELIJKHEID"
+		},
+		{
+			"lang": "sv",
+			"text": "OBEROENDE STÄLLNING"
+		}
+	],
+	"children": [
+		"a46",
+		"a47",
+		"a48",
+		"a49",
+		"a50"
+	],
+	"title": "Chapter 6 – Section 1"
+}

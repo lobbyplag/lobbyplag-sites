@@ -1,0 +1,102 @@
+{
+	"id": "a55p5",
+	"type": "paragraph",
+	"literal": "5",
+	"parent": "a55",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The requested supervisory authority shall inform the requesting supervisory authority of the results or, as the case may be, of the progress or the measures taken in order to meet the request by the requesting supervisory authority."
+		},
+		{
+			"lang": "de",
+			"text": "Die Aufsichtsbehörde, an die das Ersuchen gerichtet wurde, informiert die ersuchende Aufsichtsbehörde über die Ergebnisse oder gegebenenfalls über den Fortgang der Maßnahmen, die getroffen wurden, um dem Ersuchen nachzukommen."
+		},
+		{
+			"lang": "fr",
+			"text": "L’autorité de contrôle requise informe l’autorité de contrôle requérante des résultats obtenus ou, selon le cas, de l'avancement du dossier ou des mesures prises pour donner suite à la demande de l’autorité de contrôle requérante."
+		},
+		{
+			"lang": "es",
+			"text": "La autoridad de control a la que se haya dirigido la solicitud informará a la autoridad de control solicitante de los resultados obtenidos o, en su caso, de los progresos registrados o de las medidas adoptadas para dar curso a su solicitud."
+		},
+		{
+			"lang": "pt",
+			"text": "A autoridade de controlo requerida deve informar a autoridade de controlo requerente dos resultados obtidos ou, consoante o caso, do andamento do dossiê ou das medidas adotadas para satisfazer o pedido da autoridade de controlo requerente."
+		},
+		{
+			"lang": "it",
+			"text": "L’autorità di controllo richiesta informa l’autorità di controllo richiedente dell’esito o, se del caso, dei progressi o delle misure prese per rispondere alla sua richiesta."
+		},
+		{
+			"lang": "ga",
+			"text": "Cuirfidh an t‑údarás maoirseachta iarrtha an t‑údarás maoirseachta iarrthach ar an eolas faoi thorthaí na hiarrata nó, de réir mar a bheidh, faoin dul chun cinn nó na bearta atá déanta chun an iarraidh ón údarás maoirseachta iarrthach a chomhlíonadh."
+		},
+		{
+			"lang": "cs",
+			"text": "Orgán dozoru, kterému je žádost předložena, informuje předkládající orgán dozoru podle situace o výsledcích, nebo o vývoji či opatřeních, jež byla přijata v zájmu jejího vyřízení."
+		},
+		{
+			"lang": "da",
+			"text": "Den anmodede tilsynsmyndighed underretter den anmodende tilsynsmyndighed om resultaterne eller om forløbet eller de foranstaltninger, der er iværksat for at imødekomme anmodningen fra den anmodende tilsynsmyndighed."
+		},
+		{
+			"lang": "et",
+			"text": "Taotluse saanud järelevalveasutus teavitab taotluse esitanud järelevalveasutust tulemustest või vajaduse korral asjade käigust või meetmetest, mis võetakse esitatud taotluse rahuldamiseks."
+		},
+		{
+			"lang": "el",
+			"text": "Η αρχή ελέγχου στην οποία υποβλήθηκε το αίτημα ενημερώνει την αρχή ελέγχου που υπέβαλε το αίτημα για τα αποτελέσματα ή, ανάλογα με την περίπτωση, για την πρόοδο ή για τα μέτρα που λήφθηκαν για την ικανοποίηση του αιτήματος της αρχής που υπέβαλε το αίτημα."
+		},
+		{
+			"lang": "bg",
+			"text": "Надзорният орган, до който е отправено искането, информира искащия надзорен орган за резултатите или, в зависимост от случая, за напредъка или предприетите мерки за изпълнение на искането на искащия надзорен орган."
+		},
+		{
+			"lang": "hu",
+			"text": "A megkeresett felügyelő hatóság tájékoztatja a megkereső felügyelő hatóságot az eredményekről, vagy adott esetben az elért előrelépésről vagy a megkereső felügyelő hatóság kérelmének teljesítése érdekében hozott intézkedésekről."
+		},
+		{
+			"lang": "mt",
+			"text": "L-awtorità ta’ superviżjoni li ssirilha t-talba għandha tinforma lill-awtorità ta’ superviżjoni li tagħmel it-talba dwar ir-riżultati jew, skont kif ikun il-każ, dwar il-progress jew il-miżuri meħuda sabiex titwieġeb it-talba mill-awtorità ta’ superviżjoni li tagħmel it-talba."
+		},
+		{
+			"lang": "lv",
+			"text": "Uzraudzības iestāde, kurai pieprasījumus adresēts, informē pieprasošo uzraudzības iestādi par rezultātiem, vai attiecīgā gadījumā par progresu vai pasākumiem, kas veikti, lai izpildītu pieprasošās iestādes pieprasījumu."
+		},
+		{
+			"lang": "ro",
+			"text": "Autoritatea de supraveghere căreia i s-a adresat solicitarea informează autoritatea de supraveghere care a transmis solicitarea cu privire la rezultate sau, după caz, la progresele înregistrate ori măsurile întreprinse pentru a da curs solicitării respective."
+		},
+		{
+			"lang": "sk",
+			"text": "Požiadaný dozorný orgán poskytne žiadajúcemu dozornému orgánu informácie o výsledkoch opatrení prijatých s cieľom vyhovieť požiadavke žiadajúceho dozornému orgánu, alebo podľa situácie o pokroku dosiahnutom v tejto súvislosti, resp. o opatreniach prijatých na tento účel."
+		},
+		{
+			"lang": "sl",
+			"text": "Zaprošeni nadzorni organ obvesti nadzorni organ prosilec o rezultatih ali, odvisno od posameznega primera, o napredku ali sprejetih ukrepih, da se ugodi zahtevi nadzornega organa prosilca."
+		},
+		{
+			"lang": "fi",
+			"text": "Pyynnön vastaanottanut valvontaviranomainen ilmoittaa pyynnön esittäneelle valvontaviranomaiselle asian ratkaisusta tai tarvittaessa asian etenemisestä tai pyynnön täyttämiseksi toteutetuista toimenpiteistä."
+		},
+		{
+			"lang": "pl",
+			"text": "Organ nadzorczy, do którego został skierowany wniosek, informuje organ nadzorczy, który złożył wniosek, o wynikach lub, zależnie od okoliczności, o postępach w sprawie lub środkach podjętych w celu realizacji wniosku przez organ nadzorczy, do którego został skierowany wniosek."
+		},
+		{
+			"lang": "lt",
+			"text": "Prašymą gavusi priežiūros institucija informuoja prašymą pateikusią priežiūros instituciją apie jos prašymo rezultatus arba atitinkamais atvejais jo eigą arba priemones, kurių imtasi siekiant jį patenkinti."
+		},
+		{
+			"lang": "nl",
+			"text": "De toezichthoudende autoriteit tot wie het verzoek is gericht, informeert de verzoekende toezichthoudende autoriteit over de resultaten of, in voorkomend geval, de vooruitgang van de maatregelen die zijn genomen om aan het verzoek van de verzoekende toezichthoudende autoriteit te voldoen."
+		},
+		{
+			"lang": "sv",
+			"text": "Den tillsynsmyndighet som tagit emot begäran ska meddela den myndighet som begäran kommer ifrån om resultatet eller, i förekommande fall, om hur de åtgärder som vidtagits för att tillmötesgå begäran fortskrider."
+		}
+	],
+	"children": [],
+	"title": "Article 55 – Paragraph 5"
+}

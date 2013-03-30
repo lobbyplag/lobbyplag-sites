@@ -1,0 +1,111 @@
+{
+	"id": "a44p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a44",
+	"text": [
+		{
+			"lang": "en",
+			"text": "In the absence of an adequacy decision pursuant to Article 41 or of appropriate safeguards pursuant to Article 42, a transfer or a set of transfers of personal data to a third country or an international organisation may take place only on condition that:"
+		},
+		{
+			"lang": "de",
+			"text": "Falls weder ein Angemessenheitsbeschluss nach Artikel 41 vorliegt noch geeignete Garantien nach Artikel 42 bestehen, ist eine Übermittlung oder eine Kategorie von Übermittlungen personenbezogener Daten in ein Drittland oder an eine internationale Organisation nur zulässig, wenn"
+		},
+		{
+			"lang": "fr",
+			"text": "En l’absence d’une décision relative au caractère adéquat du niveau de protection conformément à l’article 41 ou de garanties appropriées conformément à l’article 42, un transfert ou un ensemble de transferts de données à caractère personnel vers un pays tiers ou à une organisation internationale ne peuvent être effectués qu'à condition que:"
+		},
+		{
+			"lang": "es",
+			"text": "En ausencia de una decisión de adecuación de conformidad con lo dispuesto en el artículo 41 o de garantías apropiadas de conformidad con lo dispuesto en el artículo 42, solo podrá procederse a una transferencia o una serie de transferencias de datos personales a un tercer país o una organización internacional cuando:"
+		},
+		{
+			"lang": "pt",
+			"text": "Na falta de uma decisão de adequação nos termos do artigo 41.º, ou de garantias adequadas nos termos do artigo 42.º, uma transferência ou um conjunto de transferências de dados pessoais para um país terceiro ou uma organização internacional só pode ser efetuada se:"
+		},
+		{
+			"lang": "it",
+			"text": "In mancanza di una decisione di adeguatezza ai sensi dell’articolo 41 o di garanzie adeguate ai sensi dell’articolo 42, è ammesso il trasferimento o un complesso di trasferimenti di dati personali verso un paese terzo o un’organizzazione internazionale soltanto a condizione che:"
+		},
+		{
+			"lang": "ga",
+			"text": "In éagmais cinnidh maidir le cosaint leordhóthanach de bhun Airteagal 41 nó in éagmais cosaintí iomchuí de bhun Airteagal 42, ní fhéadfar sonraí pearsanta a aistriú ná tacar sonraí pearsanta a aistriú go tríú tír ná go heagraíocht idirnáisiúnta ach amháin ar choinníoll:"
+		},
+		{
+			"lang": "cs",
+			"text": "Jestliže neexistuje rozhodnutí o přiměřenosti podle článku 41 nebo vhodné záruky podle článku 42, předání nebo řada předání osobních údajů do třetí země nebo mezinárodní organizaci se může uskutečnit pouze za podmínky, že:"
+		},
+		{
+			"lang": "da",
+			"text": "Hvis der ikke er truffet en afgørelse om tilstrækkeligheden af beskyttelsesniveauet i henhold til artikel 41, eller de fornødne garantier i henhold til artikel 42 ikke foreligger, må en videregivelse eller en serie af videregivelser af personoplysninger til et tredjeland eller en international organisation kun finde sted, såfremt:"
+		},
+		{
+			"lang": "et",
+			"text": "Artikli 41 kohase piisava kaitse otsuse või artikli 42 kohaste asjaomaste kaitsemeetmete puudumise korral võib kolmandale riigile või rahvusvahelisele organisatsioonile isikuandmeid edastada ainult tingimusel, et:"
+		},
+		{
+			"lang": "el",
+			"text": "Απουσία απόφασης περί επάρκειας δυνάμει του άρθρου 41 ή κατάλληλων εγγυήσεων δυνάμει του άρθρου 42, μια διαβίβαση ή μια σειρά διαβιβάσεων δεδομένων προσωπικού χαρακτήρα σε τρίτη χώρα ή σε διεθνή οργανισμό μπορεί να πραγματοποιηθεί μόνον εφόσον:"
+		},
+		{
+			"lang": "bg",
+			"text": "При липсата на решение относно адекватността по силата на член 41 или на подходящи гаранции по силата на член 42 предаване или съвкупност от предавания на лични данни на дадена трета държава или международна организация може да се извърши само при условие че:"
+		},
+		{
+			"lang": "hu",
+			"text": "A 41. cikk értelmében vett megfelelőségi határozat, illetve a 42. cikk szerinti megfelelő biztosítékok hiányában a tagállamok előírják, hogy a személyes adatok harmadik ország vagy nemzetközi szervezet részére történő továbbítására vagy továbbítássorozatára csak azzal a feltétellel kerülhet sor, hogy:"
+		},
+		{
+			"lang": "mt",
+			"text": "Fin-nuqqas ta’ deċiżjoni dwar l-adegwatezza skont l-Artikolu 41 jew ta’ salvagwardji xierqa skont l-Artikolu 42, trasferiment jew sett ta’ trasferimenti ta’ dejta personali lil pajjiż terz jew lil organizzazzjoni internazzjonali jista’ jseħħ biss sakemm:"
+		},
+		{
+			"lang": "lv",
+			"text": "Ja nav pieņemts lēmums par aizsardzības līmeņa pietiekamību saskaņā ar 41. pantu vai nav nodrošināti atbilstoši aizsardzības pasākumi saskaņā ar 42. pantu, personas datus var nosūtīt vai vairākkārtīgi nosūtīt uz trešo valsti vai starptautisku organizāciju tikai ar nosacījumu, ka:"
+		},
+		{
+			"lang": "ro",
+			"text": "În absența unei decizii privind caracterul adecvat al nivelului de protecție în conformitate cu articolul 41, sau a unor garanții adecvate în conformitate cu articolul 42, un transfer sau o serie de transferuri de date cu caracter personal către o țară terță sau o organizație internațională poate avea loc numai în condițiile în care:"
+		},
+		{
+			"lang": "sk",
+			"text": "Ak nebolo prijaté rozhodnutie o primeranosti podľa článku 41 alebo ak nie sú zabezpečené náležité záruky podľa článku 42, prenos alebo súbor prenosov osobných údajov do tretej krajiny alebo medzinárodnej organizácii sa môže uskutočniť, len ak:"
+		},
+		{
+			"lang": "sl",
+			"text": "Če sklep o ustreznosti v skladu s členom 41 ali ustrezni zaščitni ukrepi v skladu s členom 42 niso bili sprejeti, se prenos ali niz prenosov osebnih podatkov v tretjo državo ali mednarodno organizacijo lahko izvede samo pod pogojem, da:"
+		},
+		{
+			"lang": "fi",
+			"text": "Jos 41 artiklan nojalla ei ole tehty tietosuojan tason riittävyyttä koskevaa päätöstä tai 42 artiklassa tarkoitettuja asianmukaisia takeita ei ole annettu, henkilötietojen siirto tai siirtojen sarja kolmanteen maahan tai kansainväliselle järjestölle voidaan suorittaa vain sillä edellytyksellä, että"
+		},
+		{
+			"lang": "pl",
+			"text": "W braku decyzji stwierdzającej odpowiedni poziom ochrony na mocy art. 41 lub odpowiednich gwarancji na mocy art. 42, operacja lub zestaw operacji przekazywania danych osobowych do państwa trzeciego lub organizacji międzynarodowej może nastąpić wyłącznie pod warunkiem, że:"
+		},
+		{
+			"lang": "lt",
+			"text": "Jeigu nepriimtas sprendimas dėl tinkamumo pagal 41 straipsnį arba nenustatytos tinkamos apsaugos priemonės pagal 42 straipsnį, vieną ar kelis kartus perduoti asmens duomenis į trečiąją šalį arba tarptautinei organizacijai galima tik tada, kai:"
+		},
+		{
+			"lang": "nl",
+			"text": "Bij ontstentenis van een besluit waarbij het beschermingsniveau passend wordt verklaard overeenkomstig artikel 41 of passende garanties overeenkomstig artikel 42, kan een doorgifte of een categorie doorgiften van persoonsgegevens naar een derde land of een internationale organisatie slechts plaatsvinden op voorwaarde dat:"
+		},
+		{
+			"lang": "sv",
+			"text": "Om det inte föreligger något beslut om adekvat skyddsnivå enligt artikel 41 eller lämpliga skyddsåtgärder enligt artikel 42 får en överföring eller serier av överföringar till ett tredjeland eller en internationell organisation bara ske om något av följande villkor är uppfyllt:"
+		}
+	],
+	"children": [
+		"a44p1i1",
+		"a44p1i2",
+		"a44p1i3",
+		"a44p1i4",
+		"a44p1i5",
+		"a44p1i6",
+		"a44p1i7",
+		"a44p1i8"
+	],
+	"title": "Article 44 – Paragraph 1"
+}

@@ -1,0 +1,107 @@
+{
+	"id": "a23",
+	"type": "article",
+	"literal": "23",
+	"parent": "c4s1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Data protection by design and by default"
+		},
+		{
+			"lang": "de",
+			"text": "Datenschutz durch Technik und datenschutzfreundliche Voreinstellungen"
+		},
+		{
+			"lang": "fr",
+			"text": "Protection des données dès la conception et protection des données par défaut"
+		},
+		{
+			"lang": "es",
+			"text": "Protección de datos desde el diseño y por defecto"
+		},
+		{
+			"lang": "pt",
+			"text": "Proteção de dados desde a conceção e por defeito"
+		},
+		{
+			"lang": "it",
+			"text": "Protezione fin dalla progettazione e protezione di default"
+		},
+		{
+			"lang": "ga",
+			"text": "Cosaint sonraí d’aon ghnó agus trí mhainneachtain"
+		},
+		{
+			"lang": "cs",
+			"text": "Ochrana údajů již od návrhu a standardní nastavení ochrany údajů"
+		},
+		{
+			"lang": "da",
+			"text": "Indbygget databeskyttelse og databeskyttelse gennem indstillinger"
+		},
+		{
+			"lang": "et",
+			"text": "Isikuandmete lõimitud kaitse ja vaikimisi kaitse"
+		},
+		{
+			"lang": "el",
+			"text": "Προστασία των δεδομένων ήδη από τον σχεδιασμό και εξ ορισμού"
+		},
+		{
+			"lang": "bg",
+			"text": "Защита на данните още при проектирането и по подразбиране"
+		},
+		{
+			"lang": "hu",
+			"text": "Beépített és alapértelmezett adatvédelem"
+		},
+		{
+			"lang": "mt",
+			"text": "Il-protezzjoni tad-dejta bid-disinn u b’mod awtomatiku"
+		},
+		{
+			"lang": "lv",
+			"text": "Integrēta datu aizsardzība un datu aizsardzība pēc noklusējuma"
+		},
+		{
+			"lang": "ro",
+			"text": "Protecția datelor începând cu momentul conceperii și protecția implicită a datelor"
+		},
+		{
+			"lang": "sk",
+			"text": "Ochrana údajov špecificky navrhnutá a štandardne určená"
+		},
+		{
+			"lang": "sl",
+			"text": "Vgrajeno varstvo podatkov"
+		},
+		{
+			"lang": "fi",
+			"text": "Sisäänrakennettu ja oletusarvoinen tietosuoja"
+		},
+		{
+			"lang": "pl",
+			"text": "Uwzględnienie ochrony danych już w fazie projektowania oraz ochrona danych jako opcja domyślna"
+		},
+		{
+			"lang": "lt",
+			"text": "Pritaikytoji duomenų apsauga ir standartizuotoji duomenų apsauga"
+		},
+		{
+			"lang": "nl",
+			"text": "Privacy by design en by default"
+		},
+		{
+			"lang": "sv",
+			"text": "Inbyggt uppgiftsskydd och uppgiftsskydd som standard"
+		}
+	],
+	"children": [
+		"a23p1",
+		"a23p2",
+		"a23p3",
+		"a23p4"
+	],
+	"title": "Article 23"
+}

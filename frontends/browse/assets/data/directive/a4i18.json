@@ -1,0 +1,102 @@
+{
+	"id": "a4i18",
+	"type": "point",
+	"literal": "18",
+	"parent": "a4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "'child' means any person below the age of 18 years;"
+		},
+		{
+			"lang": "de",
+			"text": "„Kind“ jede Person bis zur Vollendung des achtzehnten Lebensjahres;"
+		},
+		{
+			"lang": "fr",
+			"text": "«enfant»: toute personne âgée de moins de dix-huit ans;"
+		},
+		{
+			"lang": "es",
+			"text": "«niño»: toda persona menor de 18 años;"
+		},
+		{
+			"lang": "pt",
+			"text": "«Criança», qualquer pessoa com menos de 18 anos;"
+		},
+		{
+			"lang": "it",
+			"text": "“minore”: persona di età inferiore agli anni diciotto;"
+		},
+		{
+			"lang": "ga",
+			"text": "ciallaíonn ‘leanbh’ aon duine atá faoi 18 mbliana d’aois;"
+		},
+		{
+			"lang": "cs",
+			"text": "„dítětem“ každá osoba mladší 18 let;"
+		},
+		{
+			"lang": "da",
+			"text": "&quot;barn&quot;: en person under atten år"
+		},
+		{
+			"lang": "et",
+			"text": "„laps” – alla 18aastane isik;"
+		},
+		{
+			"lang": "el",
+			"text": "«παιδί»: οποιοδήποτε πρόσωπο ηλικίας κάτω των 18 ετών·"
+		},
+		{
+			"lang": "bg",
+			"text": "„дете“ означава всяко лице на възраст под 18 години;"
+		},
+		{
+			"lang": "hu",
+			"text": "„gyermek”: bármely 18 évesnél fiatalabb személy;"
+		},
+		{
+			"lang": "mt",
+			"text": "‘minorenni’ tfisser kull persuna taħt it-18-il sena;"
+		},
+		{
+			"lang": "lv",
+			"text": "&quot;bērns&quot; ir persona, kas nav sasniegusi 18 gadu vecumu;"
+		},
+		{
+			"lang": "ro",
+			"text": "„minor” înseamnă orice persoană cu vârsta sub 18 ani;"
+		},
+		{
+			"lang": "sk",
+			"text": "„dieťa“ je každá osoba mladšia ako 18 rokov;"
+		},
+		{
+			"lang": "sl",
+			"text": "„otrok“ pomeni osebo, mlajšo od 18 let;"
+		},
+		{
+			"lang": "fi",
+			"text": "’lapsella’ alle 18-vuotiasta henkilöä;"
+		},
+		{
+			"lang": "pl",
+			"text": "„dziecko” oznacza każdą osobę w wieku poniżej 18 lat;"
+		},
+		{
+			"lang": "lt",
+			"text": "vaikas – bet kuris jaunesnis nei 18 metų asmuo;"
+		},
+		{
+			"lang": "nl",
+			"text": "„kind”: iedere persoon die jonger is dan achttien jaar;"
+		},
+		{
+			"lang": "sv",
+			"text": "barn: alla personer som är yngre än arton år."
+		}
+	],
+	"children": [],
+	"title": "Article 4 – Point 18"
+}

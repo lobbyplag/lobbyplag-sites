@@ -1,0 +1,102 @@
+{
+	"id": "a43p2i4",
+	"type": "point",
+	"literal": "d",
+	"parent": "a43p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the general data protection principles, in particular purpose limitation, data quality, legal basis for the processing, processing of sensitive personal data; measures to ensure data security; and the requirements for onward transfers to organisations which are not bound by the policies;"
+		},
+		{
+			"lang": "de",
+			"text": "die allgemeinen Datenschutzgrundsätze, zum Beispiel Zweckbegrenzung, die Datenqualität, die Rechtsgrundlage für die Verarbeitung sowie die Bestimmungen für etwaige Verarbeitungen sensibler personenbezogener Daten, Maßnahmen zur Sicherstellung der Datensicherheit und die Anforderungen für die Datenweitergabe an nicht an diese Vorschriften gebundene Organisationen;"
+		},
+		{
+			"lang": "fr",
+			"text": "les principes généraux de protection des données, notamment la limitation de la finalité, la qualité des données, la base juridique du traitement, le traitement de données à caractère personnel sensibles, les mesures visant à garantir la sécurité des données, ainsi que les exigences en matière de transferts ultérieurs à des organismes qui ne sont pas liés par les mesures en question;"
+		},
+		{
+			"lang": "es",
+			"text": "los principios generales en materia de protección de datos, en particular la limitación de la finalidad, la calidad de los datos, la base jurídica del tratamiento, el tratamiento de datos personales sensibles, las medidas encaminadas a garantizar la seguridad de los datos y los requisitos en materia de transferencias ulteriores a organizaciones que no estén vinculadas por esas políticas;"
+		},
+		{
+			"lang": "pt",
+			"text": "Os princípios gerais de proteção de dados, nomeadamente a limitação das finalidades, a qualidade dos dados, a base jurídica para o tratamento, o tratamento de dados pessoais sensíveis, as medidas de garantia da segurança dos dados e os requisitos para transferências ulteriores para organizações que não se encontrem vinculadas pelas medidas em causa;"
+		},
+		{
+			"lang": "it",
+			"text": "i principi generali di protezione dei dati, in particolare in relazione alla finalità, alla qualità dei dati, alla base giuridica del trattamento e al trattamento di dati personali sensibili, le misure a garanzia della sicurezza dei dati e i requisiti per i trasferimenti successivi ad organizzazioni che non sono vincolate dalle politiche;"
+		},
+		{
+			"lang": "ga",
+			"text": "na prionsabail ghinearálta maidir le cosaint sonraí, go háirithe prionsabal an teorannaithe de réir cuspóra, prionsabail maidir le cáilíocht sonraí, bunús dlí na próiseála, agus próiseáil sonraí pearsanta atá íogair; bearta chun slándáil sonraí a áirithiú; agus na ceanglais maidir le sonraí a aistriú ar aghaidh chuig eagraíochtaí nach bhfuil faoi cheangal ag na beartais;"
+		},
+		{
+			"lang": "cs",
+			"text": "obecné zásady pro ochranu údajů, zejména účelové omezení, kvalitu údajů, právní základ pro zpracovávání a pro zpracovávání citlivých osobních údajů; opatření k zajištění bezpečnosti údajů a požadavky na další předávání organizacím, které touto politikou nejsou vázány;"
+		},
+		{
+			"lang": "da",
+			"text": "de generelle databeskyttelsesprincipper, navnlig formålsbegrænsning, datakvalitet, retsgrundlag for behandling, behandling af følsomme personoplysninger, foranstaltninger til at sikre datasikkerhed og krav vedrørende videreoverførsel til organisationer, der ikke er underlagt reglerne"
+		},
+		{
+			"lang": "et",
+			"text": "üldised isikuandmete kaitse põhimõtted, eelkõige eesmärgi piiritlemine, andmete kvaliteet, töötlemise õiguslik alus, tundlike isikuandmete töötlemine; andmeturbe tagamise meetmed; andmete edasine edastamine organisatsioonidele, kelle suhtes need eeskirjad ei ole siduvad;"
+		},
+		{
+			"lang": "el",
+			"text": "δ) τις γενικές αρχές προστασίας δεδομένων, ιδίως τον περιορισμό του σκοπού, την ποιότητα των δεδομένων, τη νομική βάση για την επεξεργασία, την επεξεργασία ευαίσθητων δεδομένων προσωπικού χαρακτήρα, μέτρα ώστε να διασφαλίζεται η ασφάλεια των δεδομένων, καθώς και τις απαιτήσεις σχετικά με περαιτέρω διαβιβάσεις σε οργανισμούς οι οποίοι δεν δεσμεύονται από τις πολιτικές·"
+		},
+		{
+			"lang": "bg",
+			"text": "г) общите принципи за защита на данните, по-специално принципът на ограничаване до предвидената цел, принципът за качество на данните, правното основание за обработването, обработването на чувствителни лични данни; мерките за осигуряване на сигурността на данните, както и изискванията за последващо предаване на данни до организации, които не са обвързани от тези политики;"
+		},
+		{
+			"lang": "hu",
+			"text": "az általános adatvédelmi elvek, különösen a célhoz kötöttség, az adatminőség, a feldolgozás jogalapja, az érzékeny személyes adatok feldolgozása, az adatbiztonságot biztosító intézkedések; valamint az olyan szervezetekhez irányuló továbbítás feltételei, amelyeket nem kötnek a politikák;"
+		},
+		{
+			"lang": "mt",
+			"text": "il-prinċipji ġenerali ta’ protezzjoni tad-dejta, b’mod partikolari l-limitazzjoni tal-għan, il-kwalità tad-dejta, bażi legali għall-ipproċessar, l-ipproċessar ta’ dejta personali sensittiva; miżuri sabiex tkun assigurata s-sigurtà tad-dejta; u r-rekwiżiti għal trasferimenti ulterjuri lil organizzazzjonijiet li ma jkunux marbuta bil-politiki;"
+		},
+		{
+			"lang": "lv",
+			"text": "vispārīgos datu aizsardzības principus, jo īpaši ierobežojumus saistībā ar nolūku, datu kvalitāte, apstrādes juridiskais pamats, sensitīvu personas datu apstrāde, pasākumi datu drošības nodrošināšanai un prasības tālākai datu nosūtīšanai organizācijām, kurām vadlīnijas nav saistošas;"
+		},
+		{
+			"lang": "ro",
+			"text": "principiile generale în materie de protecție a datelor, în special limitarea scopului, calitatea datelor, temeiul juridic pentru prelucrarea datelor, prelucrarea datelor sensibile cu caracter personal; măsuri de asigurare a securității datelor, precum și cerințele pentru transferurile ulterioare către organizații care nu au obligații în temeiul politicilor;"
+		},
+		{
+			"lang": "sk",
+			"text": "všeobecné zásady ochrany údajov, najmä obmedzenie účelu, kvalitu údajov, právny základ spracovania, spracúvanie citlivých osobných údajov, opatrenia na zaistenie bezpečnosti údajov, ako aj požiadavky na ďalší prenos pre potreby organizácií, ktoré nie sú viazané touto politikou;"
+		},
+		{
+			"lang": "sl",
+			"text": "splošna načela o varstvu podatkov, zlasti omejitev namena, kakovost podatkov, pravno podlago za obdelavo, obdelavo občutljivih osebnih podatkov, ukrepe za zagotavljanje varnosti podatkov in zahteve za nadaljnje prenose v organizacije, ki jih politike ne zavezujejo;"
+		},
+		{
+			"lang": "fi",
+			"text": "yleiset tietosuojaperiaatteet, erityisesti käsittelytarkoituksen rajoittaminen, tietojen laatu, käsittelyn oikeusperusta, arkaluonteisten henkilötietojen käsittely; toimenpiteet tietoturvan varmistamiseksi; ja vaatimukset tietojen siirtämiseksi edelleen järjestöille, joita nämä menettelyt eivät sido;"
+		},
+		{
+			"lang": "pl",
+			"text": "ogólne zasady ochrony danych, w szczególności zasadę celowości, jakość danych, podstawę prawna przetwarzania, przetwarzanie szczególnie chronionych danych osobowych, środki mające na celu zapewnienie bezpieczeństwa danych oraz wymogi w zakresie wtórnego przekazywania organizacjom, które nie są związane politykami;"
+		},
+		{
+			"lang": "lt",
+			"text": "bendrieji duomenų apsaugos principai, visų pirma susiję su tikslų apribojimu, duomenų kokybe, teisiniu duomenų tvarkymo pagrindu, neskelbtinų asmens duomenų tvarkymu; duomenų saugumo užtikrinimo priemonės; ir tolesnio perdavimo organizacijoms, kurios šių veiklos nuostatų laikytis neprivalo, reikalavimai;"
+		},
+		{
+			"lang": "nl",
+			"text": "de algemene beginselen inzake gegevensbescherming, namelijk de doelbinding, de kwaliteit van de gegevens, de rechtsgrondslag voor verwerking, de verwerking van gevoelige persoonsgegevens, de maatregelen om de beveiliging van de gegevens te waarborgen en de vereisten die worden gesteld bij verdere doorgiften aan organisaties die niet door de bedrijfsvoorschriften zijn gebonden;"
+		},
+		{
+			"lang": "sv",
+			"text": "allmänna principer för uppgiftsskydd, särskilt avgränsning av syfte, kvalitet på uppgifterna, rättslig grund för behandlingen av dem, principer för behandlingen av känsliga personuppgifter, åtgärder för att garantera skyddet av uppgifterna och villkoren för vidarebefordran av uppgifter till organisationer som inte är bundna av företagsgruppens policy,"
+		}
+	],
+	"children": [],
+	"title": "Article 43 – Paragraph 2 – Point 4"
+}

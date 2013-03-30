@@ -1,0 +1,102 @@
+{
+	"id": "a10t1",
+	"type": "introduction",
+	"literal": null,
+	"parent": "a10",
+	"text": [
+		{
+			"lang": "en",
+			"text": "If the data processed by a controller do not permit the controller to identify a natural person, the controller shall not be obliged to acquire additional information in order to identify the data subject for the sole purpose of complying with any provision of this Regulation."
+		},
+		{
+			"lang": "de",
+			"text": "Kann der für die Verarbeitung Verantwortliche anhand der von ihm verarbeiteten Daten eine natürliche Person nicht bestimmen, ist er nicht verpflichtet, zur bloßen Einhaltung einer Vorschrift dieser Verordnung zusätzliche Daten einzuholen, um die betroffene Person zu bestimmen."
+		},
+		{
+			"lang": "fr",
+			"text": "Si les données traitées par un responsable du traitement ne lui permettent pas d'identifier une personne physique, le responsable du traitement n'est pas tenu d'obtenir des informations supplémentaires pour identifier la personne concernée à la seule fin de respecter une disposition du présent règlement."
+		},
+		{
+			"lang": "es",
+			"text": "Si los datos sometidos a tratamiento por un responsable no le permiten identificar a una persona física, el responsable no estará obligado a hacerse con información adicional con vistas a identificar al interesado con la única finalidad de cumplir lo dispuesto en el presente Reglamento."
+		},
+		{
+			"lang": "pt",
+			"text": "Se os dados tratados por um responsável pelo tratamento não lhe permitirem identificar uma pessoa singular, esse responsável não é obrigado a obter informações adicionais para identificar o titular dos dados com o único objetivo de respeitar uma disposição do presente regulamento."
+		},
+		{
+			"lang": "it",
+			"text": "Se i dati trattati da un responsabile del trattamento non consentono di identificare una persona fisica, il responsabile del trattamento non è obbligato ad acquisire ulteriori informazioni per identificare l’interessato al solo fine di rispettare una disposizione del presente regolamento."
+		},
+		{
+			"lang": "ga",
+			"text": "Murar féidir leis an rialaitheoir duine nádúrtha a shainaithint ó na sonraí a phróiseáil sé, ní bheidh sé d’oibleagáid ar an rialaitheoir faisnéis bhreise a fháil chun an duine is ábhar do na sonraí a shainaithint díreach chun foráil de chuid an Rialacháin seo a chomhlíonadh."
+		},
+		{
+			"lang": "cs",
+			"text": "Pokud údaje zpracovávané správcem nedovolují správci identifikovat fyzickou osobu, není správce povinen získat dodatečné informace pro zjištění totožnosti subjektu údajů výlučně za účelem dosažení souladu s některým ustanovením tohoto nařízení."
+		},
+		{
+			"lang": "da",
+			"text": "Hvis de oplysninger, der behandles af en registeransvarlig, ikke sætter den registeransvarlige i stand til at identificere en fysisk person, er den registeransvarlige ikke forpligtet til at indhente yderligere oplysninger for at kunne identificere den registrerede alene for at overholde bestemmelserne i denne forordning."
+		},
+		{
+			"lang": "et",
+			"text": "Juhul kui vastutav töötleja töötleb selliseid andmeid, mille alusel ei saa füüsilist isikut tuvastada, ei ole ta kohustatud hankima lisateavet ainult käesoleva määruse täitmiseks."
+		},
+		{
+			"lang": "el",
+			"text": "Εάν τα δεδομένα που υποβάλλονται σε επεξεργασία από υπεύθυνο επεξεργασίας δεν επιτρέπουν στον υπεύθυνο επεξεργασίας να εξακριβώσει την ταυτότητα ενός φυσικού προσώπου, ο υπεύθυνος επεξεργασίας δεν υποχρεούται να λαμβάνει πρόσθετες πληροφορίες προκειμένου να προσδιορίζει την ταυτότητα του προσώπου στο οποίο αναφέρονται τα δεδομένα για τον αποκλειστικό σκοπό της συμμόρφωσης προς οποιαδήποτε διάταξη του παρόντος κανονισμού."
+		},
+		{
+			"lang": "bg",
+			"text": "Ако обработваните от администратора данни не му позволяват да идентифицира дадено физическо лице, администраторът не е задължен да придобива допълнителна информация, за да идентифицира субекта на данните единствено с цел спазване на някоя от разпоредбите на настоящия регламент."
+		},
+		{
+			"lang": "hu",
+			"text": "Amennyiben az adatkezelő által feldolgozott adatok nem teszik lehetővé az adatkezelő számára, hogy azonosítson egy természetes személyt, az adatkezelő nem köteles kiegészítő információkat beszerezni annak érdekében, hogy pusztán azért azonosítsa az érintettet, hogy megfeleljen e rendelet valamelyik rendelkezésének."
+		},
+		{
+			"lang": "mt",
+			"text": "Jekk id-dejta pproċessata minn kontrollur ma tippermettix lill-kontrollur jidentifika persuna fiżika, il-kontrollur m’għandux ikun obbligat li jakkwista informazzjoni addizzjonali sabiex jidentifika s-suġġett tad-dejta għall-iskop uniku li jikkonforma ma’ xi dispożizzjoni minn dan ir-Regolament."
+		},
+		{
+			"lang": "lv",
+			"text": "Ja pārziņa apstrādātie dati neļauj pārzinim identificēt fizisku personu, datu pārzinim nav pienākuma iegūt papildu informāciju, lai identificētu datu subjektu, ja ieguves vienīgais nolūks ir kāda šīs regulas noteikuma ievērošana."
+		},
+		{
+			"lang": "ro",
+			"text": "În cazul în care datele prelucrate de către un operator nu îi permit acestuia să identifice o persoană fizică, operatorul nu are obligația de a obține informații suplimentare pentru a identifica persoana vizată numai în scopul respectării unei dispoziții ale prezentului regulament."
+		},
+		{
+			"lang": "sk",
+			"text": "Ak údaje spracúvané prevádzkovateľom nedovoľujú prevádzkovateľovi identifikovať fyzickú osobu, prevádzkovateľ nie je povinný získať dodatočné informácie na zistenie totožnosti dotknutej osoby výlučne na to, aby dosiahol súlad s niektorým ustanovením tohto nariadenia."
+		},
+		{
+			"lang": "sl",
+			"text": "Če podatki, ki jih upravljavec obdeluje, upravljavcu ne omogočajo identifikacije fizične osebe, upravljavec ni zavezan k pridobivanju dodatnih informacij, da bi ugotovil istovetnost posameznika, na katerega se nanašajo osebni podatki, samo zaradi skladnosti s katero koli določbo te uredbe."
+		},
+		{
+			"lang": "fi",
+			"text": "Jos rekisterinpitäjä ei pysty tunnistamaan luonnollista henkilöä käsiteltävien tietojen perusteella, rekisterinpitäjällä ei ole velvollisuutta hankkia lisätietoja rekisteröidyn tunnistamista varten, jos tämä olisi tarpeen vain jotta voitaisiin noudattaa jotakin tämän asetuksen säännöstä."
+		},
+		{
+			"lang": "pl",
+			"text": "Jeśli dane przetwarzane przez administratora nie umożliwiają mu identyfikacji osoby fizycznej, administrator nie ma obowiązku uzyskania dodatkowych informacji w celu identyfikacji podmiotu danych wyłącznie ze względu na konieczność respektowania przepisu niniejszego rozporządzenia."
+		},
+		{
+			"lang": "lt",
+			"text": "Jeigu duomenų valdytojas pagal tvarkomus duomenis negali nustatyti fizinio asmens tapatybės, jis neįpareigojamas gauti papildomos informacijos duomenų subjektui nustatyti vien tam, kam būtų laikomasi kurios nors šio reglamento nuostatos."
+		},
+		{
+			"lang": "nl",
+			"text": "Wanneer de door de voor de verwerking verantwoordelijke verwerkte gegevens het voor hem niet mogelijk maken een natuurlijke persoon te identificeren, is hij niet verplicht om, uitsluitend om aan een bepaling van deze verordening te voldoen, aanvullende informatie te verkrijgen ter identificatie van de betrokkene."
+		},
+		{
+			"lang": "sv",
+			"text": "Om de uppgifter som behandlas av en registeransvarig inte gör det möjligt för den registeransvarige att identifiera en fysisk person, ska den registeransvarige inte vara tvungen att erhålla ytterligare information för att identifiera den registrerade endast i syfte att iaktta någon av bestämmelserna i denna förordning."
+		}
+	],
+	"children": [],
+	"title": "Article 10 – Text 1"
+}

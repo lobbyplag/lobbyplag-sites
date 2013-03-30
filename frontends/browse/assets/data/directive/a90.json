@@ -1,0 +1,104 @@
+{
+	"id": "a90",
+	"type": "article",
+	"literal": "90",
+	"parent": "c11",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Evaluation"
+		},
+		{
+			"lang": "de",
+			"text": "Bewertung"
+		},
+		{
+			"lang": "fr",
+			"text": "Évaluation"
+		},
+		{
+			"lang": "es",
+			"text": "Evaluación"
+		},
+		{
+			"lang": "pt",
+			"text": "Avaliação"
+		},
+		{
+			"lang": "it",
+			"text": "Valutazione"
+		},
+		{
+			"lang": "ga",
+			"text": "Meastóireacht"
+		},
+		{
+			"lang": "cs",
+			"text": "Hodnocení"
+		},
+		{
+			"lang": "da",
+			"text": "Evaluering"
+		},
+		{
+			"lang": "et",
+			"text": "Hindamine"
+		},
+		{
+			"lang": "el",
+			"text": "Αξιολόγηση"
+		},
+		{
+			"lang": "bg",
+			"text": "Оценка"
+		},
+		{
+			"lang": "hu",
+			"text": "Értékelés"
+		},
+		{
+			"lang": "mt",
+			"text": "Evalwazzjoni"
+		},
+		{
+			"lang": "lv",
+			"text": "Izvērtēšana"
+		},
+		{
+			"lang": "ro",
+			"text": "Evaluarea"
+		},
+		{
+			"lang": "sk",
+			"text": "Hodnotenie"
+		},
+		{
+			"lang": "sl",
+			"text": "Ocena"
+		},
+		{
+			"lang": "fi",
+			"text": "Arviointi"
+		},
+		{
+			"lang": "pl",
+			"text": "Ocena"
+		},
+		{
+			"lang": "lt",
+			"text": "Vertinimas"
+		},
+		{
+			"lang": "nl",
+			"text": "Evaluatie"
+		},
+		{
+			"lang": "sv",
+			"text": "Utvärdering"
+		}
+	],
+	"children": [
+		"a90t1"
+	],
+	"title": "Article 90"
+}

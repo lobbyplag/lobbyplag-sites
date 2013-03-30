@@ -1,0 +1,102 @@
+{
+	"id": "a55p4i1",
+	"type": "point",
+	"literal": "a",
+	"parent": "a55p4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "it is not competent for the request; or"
+		},
+		{
+			"lang": "de",
+			"text": "sie für das Ersuchen nicht zuständig ist oder"
+		},
+		{
+			"lang": "fr",
+			"text": "qu'elle ne soit pas compétente pour la traiter; ou"
+		},
+		{
+			"lang": "es",
+			"text": "no fuera competente para dar curso a la solicitud; o"
+		},
+		{
+			"lang": "pt",
+			"text": "Não for competente para examinar o pedido; ou"
+		},
+		{
+			"lang": "it",
+			"text": "non sia competente per trattarla, oppure"
+		},
+		{
+			"lang": "ga",
+			"text": "mura bhfuil sé inniúil ar an iarraidh a chomhlíonadh; nó"
+		},
+		{
+			"lang": "cs",
+			"text": "orgán dozoru není ve věci dané žádosti příslušný nebo"
+		},
+		{
+			"lang": "da",
+			"text": "den ikke har kompetence i forbindelse med anmodningen"
+		},
+		{
+			"lang": "et",
+			"text": "asutus ei ole taotluse täitmiseks pädev või"
+		},
+		{
+			"lang": "el",
+			"text": "α) δεν είναι αρμόδια για τον χειρισμό του αιτήματος· ή"
+		},
+		{
+			"lang": "bg",
+			"text": "а) не е компетентен да изпълни искането; или"
+		},
+		{
+			"lang": "hu",
+			"text": "nem rendelkezik hatáskörrel a kérelem tekintetében; vagy"
+		},
+		{
+			"lang": "mt",
+			"text": "ma tkunx kompetenti għat-talba; jew"
+		},
+		{
+			"lang": "lv",
+			"text": "tā nav kompetenta izpildīt pieprasījumu; vai"
+		},
+		{
+			"lang": "ro",
+			"text": "nu are competența de a răspunde solicitării; sau"
+		},
+		{
+			"lang": "sk",
+			"text": "nie je príslušný vo veci žiadosti alebo"
+		},
+		{
+			"lang": "sl",
+			"text": "za zahtevo ni pristojen; ali"
+		},
+		{
+			"lang": "fi",
+			"text": "sillä ei ole pyynnön edellyttämää toimivaltaa; tai"
+		},
+		{
+			"lang": "pl",
+			"text": "nie jest właściwy do zajęcia się wnioskiem; lub"
+		},
+		{
+			"lang": "lt",
+			"text": "ji nėra kompetentinga jį patenkinti; arba"
+		},
+		{
+			"lang": "nl",
+			"text": "zij niet bevoegd is voor het verzoek; of"
+		},
+		{
+			"lang": "sv",
+			"text": "den inte är behörig att behandla den, eller"
+		}
+	],
+	"children": [],
+	"title": "Article 55 – Paragraph 4 – Point 1"
+}

@@ -1,0 +1,113 @@
+{
+	"id": "a9p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a9",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Paragraph 1 shall not apply where:"
+		},
+		{
+			"lang": "de",
+			"text": "Absatz 1 gilt nicht in folgenden Fällen:"
+		},
+		{
+			"lang": "fr",
+			"text": "Le paragraphe 1 ne s'applique pas lorsque:"
+		},
+		{
+			"lang": "es",
+			"text": "El apartado 1 no será aplicable si:"
+		},
+		{
+			"lang": "pt",
+			"text": "O n.º 1 não se aplica quando:"
+		},
+		{
+			"lang": "it",
+			"text": "Il paragrafo 1 non si applica quando:"
+		},
+		{
+			"lang": "ga",
+			"text": "Ní bheidh feidhm ag mír 1 sna cásanna seo a leanas:"
+		},
+		{
+			"lang": "cs",
+			"text": "Odstavec 1 se nepoužije, pokud:"
+		},
+		{
+			"lang": "da",
+			"text": "Stk. 1 finder ikke anvendelse, hvis:"
+		},
+		{
+			"lang": "et",
+			"text": "Lõiget 1 ei kohaldata, kui:"
+		},
+		{
+			"lang": "el",
+			"text": "Η παράγραφος 1 δεν εφαρμόζεται εάν:"
+		},
+		{
+			"lang": "bg",
+			"text": "Параграф 1 не се прилага, когато:"
+		},
+		{
+			"lang": "hu",
+			"text": "Az (1) bekezdés nem alkalmazható abban az esetben, ha:"
+		},
+		{
+			"lang": "mt",
+			"text": "Il-paragrafu 1 ma għandux japplika fejn:"
+		},
+		{
+			"lang": "lv",
+			"text": "Šā panta 1. punktu nepiemēro, ja:"
+		},
+		{
+			"lang": "ro",
+			"text": "Alineatul (1) nu se aplică atunci când:"
+		},
+		{
+			"lang": "sk",
+			"text": "Odsek 1 sa neuplatňuje, ak:"
+		},
+		{
+			"lang": "sl",
+			"text": "Odstavek 1 se ne uporablja, kadar:"
+		},
+		{
+			"lang": "fi",
+			"text": "Edellä olevaa 1 kohtaa ei sovelleta, jos:"
+		},
+		{
+			"lang": "pl",
+			"text": "Ustęp 1 nie ma zastosowania, w przypadku gdy:"
+		},
+		{
+			"lang": "lt",
+			"text": "1 dalis netaikoma tais atvejais, kai:"
+		},
+		{
+			"lang": "nl",
+			"text": "Lid 1 is niet van toepassing wanneer:"
+		},
+		{
+			"lang": "sv",
+			"text": "Punkt 1 ska inte gälla om något av följande villkor är uppfyllda:"
+		}
+	],
+	"children": [
+		"a9p2i1",
+		"a9p2i2",
+		"a9p2i3",
+		"a9p2i4",
+		"a9p2i5",
+		"a9p2i6",
+		"a9p2i7",
+		"a9p2i8",
+		"a9p2i9",
+		"a9p2i10"
+	],
+	"title": "Article 9 – Paragraph 2"
+}

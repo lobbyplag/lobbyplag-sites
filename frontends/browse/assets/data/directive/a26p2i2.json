@@ -1,0 +1,102 @@
+{
+	"id": "a26p2i2",
+	"type": "point",
+	"literal": "b",
+	"parent": "a26p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "employ only staff who have committed themselves to confidentiality or are under a statutory obligation of confidentiality;"
+		},
+		{
+			"lang": "de",
+			"text": "ausschließlich Mitarbeiter beschäftigt, die sich zur Vertraulichkeit verpflichtet haben oder der gesetzlichen Verschwiegenheitspflicht unterliegen;"
+		},
+		{
+			"lang": "fr",
+			"text": "n'emploie que du personnel qui a pris des engagements de confidentialité ou qui est soumis à une obligation légale de confidentialité;"
+		},
+		{
+			"lang": "es",
+			"text": "empleará únicamente personal que se haya comprometido a respetar la confidencialidad o esté sujeto a una obligación legal de confidencialidad;"
+		},
+		{
+			"lang": "pt",
+			"text": "Empregará apenas pessoal que assumiu um compromisso de confidencialidade ou que se encontre sujeito às obrigações de confidencialidade previstas na legislação;"
+		},
+		{
+			"lang": "it",
+			"text": "impieghi soltanto personale che si sia impegnato alla riservatezza o abbia l’obbligo legale di riservatezza;"
+		},
+		{
+			"lang": "ga",
+			"text": "ní fhostóidh an próiseálaí ach daoine a bhfuil gealltanas rúndachta tugtha acu nó atá faoi cheangal oibleagáide reachtúla;"
+		},
+		{
+			"lang": "cs",
+			"text": "zaměstnává pouze pracovníky, kteří se zavázali k mlčenlivosti nebo na které se povinnost mlčenlivosti vztahuje ze zákona;"
+		},
+		{
+			"lang": "da",
+			"text": "kun beskæftiger personale, som har forpligtet sig til at overholde en tavshedspligt eller i henhold til lovgivningen er underlagt tavshedspligt"
+		},
+		{
+			"lang": "et",
+			"text": "kasutab üksnes selliseid töötajaid, kes on tõotanud järgida konfidentsiaalsusnõuet või kelle suhtes kehtib õigusaktides sätestatud konfidentsiaalsusnõue;"
+		},
+		{
+			"lang": "el",
+			"text": "β) απασχολεί μόνον υπαλλήλους οι οποίοι έχουν αναλάβει δέσμευση τήρησης εμπιστευτικότητας ή τελούν υπό νόμιμη υποχρέωση τήρησης εμπιστευτικότητας·"
+		},
+		{
+			"lang": "bg",
+			"text": "б) наема единствено персонал, който е поел ангажимент за поверителност или е задължен по закон да спазва поверителност;"
+		},
+		{
+			"lang": "hu",
+			"text": "csak olyan személyeket alkalmazzon, akik titoktartási kötelezettséget vállaltak, vagy törvényes titoktartási kötelezettség alatt állnak;"
+		},
+		{
+			"lang": "mt",
+			"text": "jimpjega biss persunal li jkun impenja ruħu li jżomm il-kunfidenzjalità jew li jkun taħt obbligu statutorju ta’ kunfidenzjalità;"
+		},
+		{
+			"lang": "lv",
+			"text": "nodarbina tikai tādus darbiniekus, kas ir apņēmušies ievērot konfidencialitāti vai kuriem likumā ir noteikts pienākums ievērot konfidencialitāti;"
+		},
+		{
+			"lang": "ro",
+			"text": "angajează numai personal care s-a angajat să respecte confidențialitatea sau care sunt obligați prin lege să respecte confidențialitatea;"
+		},
+		{
+			"lang": "sk",
+			"text": "zamestnáva iba zamestnancov, ktorí sa zaviazali k zachovaniu dôvernosti alebo majú zákonnú povinnosť zachovávať dôvernosť,"
+		},
+		{
+			"lang": "sl",
+			"text": "zaposluje samo osebje, ki se je zavezalo k zaupnosti ali ga k zaupnosti zavezuje zakon;"
+		},
+		{
+			"lang": "fi",
+			"text": "ottaa palvelukseen ainoastaan sellaista henkilöstöä, joka on sitoutunut noudattamaan salassapitovelvollisuutta tai jota koskee lakisääteinen salassapitovelvollisuus;"
+		},
+		{
+			"lang": "pl",
+			"text": "zatrudnia wyłącznie personel, który zobowiązał się do zachowania poufności lub na którym spoczywa ustawowy obowiązek zachowania poufności;"
+		},
+		{
+			"lang": "lt",
+			"text": "įdarbina tik tuos darbuotojus, kurie įsipareigoja laikytis konfidencialumo arba kuriems taikoma įstatymu nustatyta konfidencialumo pareiga;"
+		},
+		{
+			"lang": "nl",
+			"text": "slechts personeel in dienst neemt dat zich ertoe heeft verplicht vertrouwelijkheid in acht te nemen of een wettelijke vertrouwelijkheidsplicht heeft;"
+		},
+		{
+			"lang": "sv",
+			"text": "endast får anställa personal som har åtagit sig att iaktta sekretess eller som omfattas av en lagstadgad sekretessförpliktelse,"
+		}
+	],
+	"children": [],
+	"title": "Article 26 – Paragraph 2 – Point 2"
+}

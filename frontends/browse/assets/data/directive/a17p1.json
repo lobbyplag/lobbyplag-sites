@@ -1,0 +1,107 @@
+{
+	"id": "a17p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a17",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The data subject shall have the right to obtain from the controller the erasure of personal data relating to them and the abstention from further dissemination of such data, especially in relation to personal data which are made available by the data subject while he or she was a child, where one of the following grounds applies:"
+		},
+		{
+			"lang": "de",
+			"text": "Die betroffene Person hat das Recht, von dem für die Verarbeitung Verantwortlichen die Löschung von sie betreffenden personenbezogenen Daten und die Unterlassung jeglicher weiteren Verbreitung dieser Daten zu verlangen, speziell wenn es sich um personenbezogene Daten handelt, die die betroffene Person im Kindesalter öffentlich gemacht hat, sofern einer der folgenden Gründe zutrifft:"
+		},
+		{
+			"lang": "fr",
+			"text": "La personne concernée a le droit d'obtenir du responsable du traitement l’effacement de données à caractère personnel la concernant et la cessation de la diffusion de ces données, en particulier en ce qui concerne des données à caractère personnel que la personne concernée avait rendues disponibles lorsqu’elle était enfant, ou pour l'un des motifs suivants:"
+		},
+		{
+			"lang": "es",
+			"text": "El interesado tendrá derecho a que el responsable del tratamiento suprima los datos personales que le conciernen y se abstenga de darles más difusión, especialmente en lo que respecta a los datos personales proporcionados por el interesado siendo niño, cuando concurra alguna de las circunstancias siguientes:"
+		},
+		{
+			"lang": "pt",
+			"text": "O titular dos dados tem o direito de obter do responsável pelo tratamento o apagamento de dados pessoais que lhe digam respeito e a cessação da comunicação ulterior desses dados, especialmente em relação a dados pessoais que tenham sido disponibilizados pelo titular dos dados quando ainda era uma criança, sempre que se aplique um dos motivos seguintes:"
+		},
+		{
+			"lang": "it",
+			"text": "L’interessato ha il diritto di ottenere dal responsabile del trattamento la cancellazione di dati personali che lo riguardano e la rinuncia a un’ulteriore diffusione di tali dati, in particolare in relazione ai dati personali resi pubblici quando l’interessato era un minore, se sussiste uno dei motivi seguenti:"
+		},
+		{
+			"lang": "ga",
+			"text": "Beidh sé de cheart ag an duine is ábhar do na sonraí go scriosfadh an rialaitheoir sonraí pearsanta a bhaineann leis agus go staonfadh an rialaitheoir ó na sonraí sin a scaipeadh tuilleadh, go háirithe maidir le sonraí pearsanta a chuir an duine is ábhar do na sonraí ar fáil nuair a bhí sé ina leanbh, más infheidhme ceann de na forais seo a leanas:"
+		},
+		{
+			"lang": "cs",
+			"text": "Subjekt údajů má právo požadovat od správce výmaz osobních údajů, které se jej týkají, a zdržení se dalšího šíření těchto údajů, zejména v souvislosti s osobními údaji, které subjekt údajů zpřístupnil v dětském věku, pokud je splněn jeden z těchto důvodů:"
+		},
+		{
+			"lang": "da",
+			"text": "Den registrerede kan kræve, at den registeransvarlige sletter personoplysninger vedrørende den registrerede og undlader yderligere udbredelse af sådanne oplysninger, navnlig hvad angår personoplysninger, som den registrerede har stillet til rådighed, da vedkommende var barn, såfremt:"
+		},
+		{
+			"lang": "et",
+			"text": "Andmesubjektil on õigus nõuda vastutavalt töötlejalt enda isikuandmete kustutamist ning levitamisest hoidumist, eriti kui tegemist on isikuandmetega, mille andmesubjekt tegi teatavaks lapsena, järgmistel põhjustel:"
+		},
+		{
+			"lang": "el",
+			"text": "Το πρόσωπο στο οποίο αναφέρονται τα δεδομένα δικαιούται να απαιτήσει από τον υπεύθυνο επεξεργασίας τη διαγραφή δεδομένων προσωπικού χαρακτήρα που το αφορούν και τη μη περαιτέρω διάδοση των εν λόγω δεδομένων, ιδίως σε σχέση με δεδομένα προσωπικού χαρακτήρα τα οποία διατέθηκαν από το συγκεκριμένο πρόσωπο κατά την παιδική του ηλικία, εάν συντρέχει ένας από τους ακόλουθους λόγους:"
+		},
+		{
+			"lang": "bg",
+			"text": "Субектът на данни има право по негово искане администраторът да заличи личните данни, свързани с него, и да се въздържа от по-нататъшно разпространение на такива данни, по-специално що се отнася до лични данни, които са били предоставени от субекта на данните, докато той е бил дете, когато се прилага едно от следните условия:"
+		},
+		{
+			"lang": "hu",
+			"text": "Az érintett kérheti az adatkezelőtől a rá vonatkozó személyes adatok törlését, valamint az ilyen adatok további terjesztésétől való tartózkodást, különösen az érintett által gyermekkorában elérhetővé tett személyes adatok vonatkozásában, ha:"
+		},
+		{
+			"lang": "mt",
+			"text": "Is-suġġett tad-dejta għandu jkollu d-dritt li jikseb mingħand il-kontrollur it-tħassir ta’ dejta personali li tirrigwardah u l-astensjoni minn aktar tixrid ta’ din id-dejta, b’mod speċjali fir-rigward ta’ dejta personali li titqiegħed għad-dispożizzjoni mis-suġġett tad-dejta meta hu kien għadu minorenni, meta tapplika waħda mir-raġunijiet li ġejjin:"
+		},
+		{
+			"lang": "lv",
+			"text": "Datu subjektam attiecībā pret pārzini ir tiesības uz savu personas datu dzēšanu un atturēšanos no turpmākas šādu datu izplatīšanas, jo īpaši saistībā ar personas datiem, ko datu subjekts ir darījis pieejamus, būdams bērns, ja izpildās viens no šādiem nosacījumiem:"
+		},
+		{
+			"lang": "ro",
+			"text": "Persoana vizată are dreptul de a obține din partea operatorului ștergerea datelor cu caracter personal care o privesc și încetarea difuzării acestor date, în special în ceea ce privește datele cu caracter personal care sunt puse la dispoziție de către persoana vizată atunci când era minor, în cazul în care se aplică unul dintre următoarele motive:"
+		},
+		{
+			"lang": "sk",
+			"text": "Dotknutá osoba má právo vymôcť prostredníctvom prevádzkovateľa výmaz svojich osobných údajov, ako aj to, aby sa prevádzkovateľ zdržal ďalšieho šírenia týchto údajov, najmä pokiaľ ide o osobné údaje, ktoré dotknutá osoba sprístupnila v čase, keď bola v dieťaťom, ak sa na tieto údaje vzťahuje niektorý z týchto dôvodov:"
+		},
+		{
+			"lang": "sl",
+			"text": "Posameznik, na katerega se nanašajo osebni podatki, ima pravico pri upravljavcu doseči izbris osebnih podatkov v zvezi z njim in opustitev nadaljnjega razširjanja takih podatkov, zlasti v zvezi z osebnimi podatki, ki so bili dani na voljo, ko je bil posameznik, na katerega se nanašajo osebni podatki, še otrok, če velja eden od naslednjih razlogov:"
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisteröidyllä on oikeus vaatia, että rekisterinpitäjä poistaa rekisteröityä koskevat henkilötiedot ja pidättyy näiden tietojen edelleen luovuttamisesta, etenkin kun kyseessä ovat henkilötiedot, jotka rekisteröity on asettanut saataville lapsena, edellyttäen että jokin seuraavista perusteista täyttyy:"
+		},
+		{
+			"lang": "pl",
+			"text": "Podmiot danych ma prawo do uzyskania od administratora usunięcia danych osobowych odnoszących się do niego oraz zaprzestania dalszego rozpowszechniania tych danych, zwłaszcza w odniesieniu do danych osobowych, które zostały udostępnione przez podmiot danych, kiedy był on dzieckiem, jeśli zastosowanie ma jedna z następujących przesłanek:"
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų subjektas turi teisę reikalauti, kad duomenų valdytojas ištrintų jo asmens duomenis ir tokių duomenų daugiau neplatintų, ypač asmens duomenų, kuriuos duomenų subjektas pateikė, kai buvo vaikas, jeigu tai galima pateisinti dėl kurios nors iš šių priežasčių:"
+		},
+		{
+			"lang": "nl",
+			"text": "De betrokkene heeft er recht op dat de voor de verwerking verantwoordelijke ervoor zorgt dat hem betreffende gegevens worden gewist en de verdere verspreiding van dergelijke gegevens achterwege blijft, met name waar het gaat om persoonsgegevens die door de betrokkene als kind beschikbaar zijn gesteld, wanneer een van de volgende gronden van toepassing is:"
+		},
+		{
+			"lang": "sv",
+			"text": "Den registrerade ska ha rätt att av den registeransvarige utverka att personuppgifter som rör vederbörande raderas och att man avstår från ytterligare spridning av sådana uppgifter, särskilt när det gäller personuppgifter som gjordes tillgängliga av den registrerade när vederbörande var barn, och där en av följande grunder är tillämpliga:"
+		}
+	],
+	"children": [
+		"a17p1i1",
+		"a17p1i2",
+		"a17p1i3",
+		"a17p1i4"
+	],
+	"title": "Article 17 – Paragraph 1"
+}

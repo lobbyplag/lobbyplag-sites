@@ -1,0 +1,102 @@
+{
+	"id": "a55p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a55",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Each supervisory authority shall take all appropriate measures required to reply to the request of another supervisory authority without delay and no later than one month after having received the request. Such measures may include, in particular, the transmission of relevant information on the course of an investigation or enforcement measures to bring about the cessation or prohibition of processing operations contrary to this Regulation."
+		},
+		{
+			"lang": "de",
+			"text": "Jede Aufsichtsbehörde ergreift alle geeigneten Maßnahmen, um dem Ersuchen einer anderen Aufsichtsbehörde unverzüglich und spätestens innerhalb eines Monats nach Eingang des Ersuchens nachzukommen. Dazu können insbesondere auch die Übermittlung zweckdienlicher Informationen über den Verlauf einer Untersuchung oder Durchsetzungsmaßnahmen gehören, um die Einstellung oder das Verbot von Verarbeitungsvorgängen zu erwirken, die gegen diese Verordnung verstoßen."
+		},
+		{
+			"lang": "fr",
+			"text": "Chaque autorité de contrôle prend toutes les mesures appropriées requises pour répondre à la demande d’une autre autorité de contrôle, sans délai et au plus tard un mois après la réception de la demande. Il peut s'agir, notamment, de la transmission d'informations utiles sur le déroulement d'une enquête ou de mesures répressives visant à faire cesser ou à interdire les traitements contraires au présent règlement."
+		},
+		{
+			"lang": "es",
+			"text": "Cada autoridad de control adoptará todas las medidas apropiadas requeridas para responder a la solicitud de otra autoridad de control sin demora y a más tardar en el plazo de un mes tras haber recibido la solicitud. Podrá tratarse, en particular, de la transmisión de información útil sobre el curso de una investigación o medidas represivas para que se proceda al cese o a la prohibición de las operaciones de tratamiento contrarias al presente Reglamento."
+		},
+		{
+			"lang": "pt",
+			"text": "Cada autoridade de controlo deve adotar todas as medidas adequadas necessárias para satisfazer o pedido de outra autoridade de controlo sem demora e, o mais tardar, um mês após a receção do pedido. Essas medidas podem incluir, particularmente, a transmissão de informações úteis sobre o desenrolar de um inquérito ou medidas de execução para fazer cessar ou proibir operações de tratamento de dados contrárias ao presente regulamento."
+		},
+		{
+			"lang": "it",
+			"text": "Ogni autorità di controllo prende tutte le misure opportune necessarie per dare seguito alle richieste delle altre autorità di controllo senza ritardo, al più tardi entro un mese dal ricevimento della richiesta. Tali misure possono consistere, in particolare, nella trasmissione di informazioni utili sull’andamento di un’indagine o dirette a far cessare o vietare i trattamenti contrari al presente regolamento."
+		},
+		{
+			"lang": "ga",
+			"text": "Déanfaidh gach údarás maoirseachta na bearta iomchuí uile is gá chun iarraidh ó údarás maoirseachta eile a fhreagairt agus déanfar sin gan mhoill agus tráth nach déanaí ná mí amháin ón iarraidh a fháil. Féadfar a áireamh sna bearta sin, go háirithe, faisnéis ábhartha a tharchur le linn imscrúdaithe nó bearta forfheidhmiúcháin chun oibríochtaí próiseála atá ar neamhréir leis an Rialachán seo a stopadh nó a thoirmeasc."
+		},
+		{
+			"lang": "cs",
+			"text": "Každý orgán dozoru přijme všechna příslušná opatření, která jsou požadována jakožto odpověď na žádost jiného orgánu dozoru, a to bez odkladu a nejpozději do jednoho měsíce od přijetí předmětné žádosti. Mezi těmito opatřeními mohou být zejména předávání relevantních informací o průběhu vyšetřování nebo donucovací opatření k ukončení nebo zákazu zpracovávání, které je v rozporu s tímto nařízením."
+		},
+		{
+			"lang": "da",
+			"text": "Hver tilsynsmyndighed træffer alle foranstaltninger, som er nødvendige for at besvare anmodninger fra en anden tilsynsmyndighed uden forsinkelse og senest en måned efter modtagelsen af anmodningen. Sådanne foranstaltninger kan bl.a. omfatte videregivelse af relevante oplysninger under undersøgelsen eller håndhævelses­foranstaltninger, der har til formål at stoppe eller forbyde behandling, der er i strid med denne forordning."
+		},
+		{
+			"lang": "et",
+			"text": "Iga järelevalveasutus võtab kõik nõuetekohased meetmed, et vastata teisele järelevalveasutusele viivitamata ja mitte hiljem kui üks kuu pärast taotluse saamist. Need meetmed võivad eelkõige hõlmata asjaomase teabe edastamist uurimise käigu kohta või täitemeetmeid, et katkestada või keelata käesoleva määruse vastased töötlemistoimingud."
+		},
+		{
+			"lang": "el",
+			"text": "Κάθε αρχή ελέγχου λαμβάνει όλα τα κατάλληλα μέτρα που απαιτούνται για να απαντήσει στο αίτημα άλλης αρχής ελέγχου χωρίς καθυστέρηση και το αργότερο έναν μήνα μετά την παραλαβή του αιτήματος. Τα εν λόγω μέτρα μπορεί να περιλαμβάνουν, ειδικότερα, τη διαβίβαση σχετικών πληροφοριών σχετικά με την πορεία μιας έρευνας ή τα μέτρα επιβολής για την παύση ή την απαγόρευση πράξεων επεξεργασίας που αντίκεινται στον παρόντα κανονισμό."
+		},
+		{
+			"lang": "bg",
+			"text": "Всеки надзорен орган предприема всички подходящи мерки, които са необходими, за да отговори на искането на друг надзорен орган без забавяне и не по-късно от един месец след получаване на искането. Такива мерки могат да включват, по-специално, предаване на значима информация относно хода на дадено разследване или мерки за правоприлагане с цел спиране или забрана на операции по обработване, които противоречат на настоящия регламент."
+		},
+		{
+			"lang": "hu",
+			"text": "Minden felügyelő hatóság megteszi az összes szükséges intézkedést a valamely másik felügyelő hatóságtól érkezett megkeresés haladéktalan és legkésőbb a megkeresés beérkezésétől számított egy hónapon belüli megválaszolása érdekében. Az ilyen intézkedések kiterjedhetnek különösen a releváns információk továbbítására a vizsgálat során, illetve az e rendelettel ellentétes adatfeldolgozási műveletek megszüntetését vagy tilalmát foganatosító végrehajtási intézkedésekre"
+		},
+		{
+			"lang": "mt",
+			"text": "Kull awtorità ta’ superviżjoni għandha tieħu l-miżuri meħtieġa sabiex twieġeb għat-talba ta’ awtorità ta’ superviżjoni oħra mingħajr dewmien u sa mhux aktar tard minn xahar wara li tkun irċeviet it-talba. Dawn il-miżuri jistgħu jinkludu, b’mod partikolari, it-trażmissjoni ta’ informazzjoni relevanti dwar il-kors ta’ investigazzjoni jew miżuri ta’ infurzar li jwaqqfu jew jipprojbixxu l-operazzjonijiet ta’ pproċessar kuntrarji għal dan ir-Regolament."
+		},
+		{
+			"lang": "lv",
+			"text": "Katra uzraudzības iestāde veic atbilstīgus pasākumus, kas nepieciešami, lai nekavējoties un ne vēlāk kā mēneša laikā atbildētu uz otras uzraudzības iestādes pieprasījumu. Šādi pasākumi var jo īpaši ietvert attiecīgās informācijas par izmeklēšanas gaitu nosūtīšanu vai izpildes pasākumus, lai pārtrauktu vai aizliegtu apstrādes darbības, kas ir pretrunā ar šo regulu."
+		},
+		{
+			"lang": "ro",
+			"text": "Fiecare autoritate de supraveghere ia toate măsurile corespunzătoare necesare pentru a răspunde solicitării din partea altei autorități de supraveghere, fără întârziere și cel târziu în termen de o lună de la data primirii cererii. Aceste măsuri pot include, în special, transmiterea informațiilor relevante privind cursul unei anchete sau măsuri de aplicare a legii pentru a pune capăt sau a interzice operațiunile de prelucrare care încalcă dispozițiile prezentului regulament."
+		},
+		{
+			"lang": "sk",
+			"text": "Každý dozorný orgán je povinný prijať všetky príslušné opatrenia, aby na žiadosť iného dozorného orgánu odpovedal bezodkladne a najneskôr do jedného mesiaca po prijatí žiadosti. K takýmto opatreniam môže patriť napríklad zaslanie relevantnej informácie o priebehu vyšetrovania alebo opatrenia na vymáhanie práva, ktorých cieľom je zastavenie alebo zákaz operácií spracovania, ktoré sú v rozpore s týmto nariadením."
+		},
+		{
+			"lang": "sl",
+			"text": "Vsak nadzorni organ sprejme vse ustrezne ukrepe, potrebne za odgovor na zahtevo drugega nadzornega organa, nemudoma in najpozneje en mesec po prejemu zahteve. Taki ukrepi vključujejo zlasti prenos relevantnih informacij o poteku preiskave ali ukrepe izvrševanja zaradi prenehanja ali prepovedi postopkov obdelave v nasprotju s to uredbo."
+		},
+		{
+			"lang": "fi",
+			"text": "Valvontaviranomaisten on toteutettava kaikki tarvittavat toimenpiteet voidakseen vastata toisen valvontaviranomaisen esittämään pyyntöön viipymättä ja viimeistään kuukauden kuluttua pyynnön vastaanottamisesta. Tällaisiin toimenpiteisiin voivat kuulua erityisesti tietojen välittäminen vireillä olevasta tutkimuksesta tai täytäntöönpanotoimista tämän asetuksen vastaisten käsittelytoimien keskeyttämistä tai kieltämistä varten."
+		},
+		{
+			"lang": "pl",
+			"text": "Każdy organ nadzorczy podejmuje wszystkie odpowiednie środki niezbędne do udzielenia odpowiedzi na wniosek innego organu nadzorczego bez zwłoki i nie później niż w terminie jednego miesiąca od otrzymania wniosku. Takie środki mogą obejmować w szczególności przekazywanie odpowiednich informacji na temat przebiegu dochodzenia lub realizacji środków egzekucyjnych w celu doprowadzenia do zaprzestania lub zabronienia operacji przetwarzania niezgodnych z niniejszym rozporządzeniem."
+		},
+		{
+			"lang": "lt",
+			"text": "Kiekviena priežiūros institucija imasi visų būtinų tinkamų priemonių, kad nedelsdama ir ne vėliau kaip per vieną mėnesį nuo kitos priežiūros institucijos prašymo gavimo, į jį atsakytų. Tokia priemonė visų pirma gali būti reikšmingos informacijos apie tyrimo eigą arba vykdymo priemones, kuriomis siekiama nutraukti arba uždrausti šio reglamento neatitinkančias duomenų tvarkymo operacijas, perdavimas."
+		},
+		{
+			"lang": "nl",
+			"text": "Elke toezichthoudende autoriteit neemt alle passende maatregelen die nodig zijn om het verzoek van een andere toezichthoudende autoriteit onverwijld en uiterlijk binnen één maand na de ontvangst van het verzoek te beantwoorden. Daarbij kan het met name gaan om de toezending van relevante informatie over het verloop van een onderzoek of de handhavingsmaatregelen die zijn genomen om verwerkingen die in strijd met deze verordening plaatsvinden, te doen staken of te verbieden."
+		},
+		{
+			"lang": "sv",
+			"text": "Varje tillsynsmyndighet ska vidta lämpliga åtgärder för att besvara en begäran från en annan tillsynsmyndighet; detta bör ske så snart som möjligt och inte senare än en månad efter det att den tagit emot begäran. Till sådana åtgärder hör bland annat att översända relevant information om utvecklingen av pågående undersökningar eller verkställighetsåtgärder som syftar till att avbryta eller förbjuda uppgiftsbehandling som står i strid med denna förordning."
+		}
+	],
+	"children": [],
+	"title": "Article 55 – Paragraph 2"
+}

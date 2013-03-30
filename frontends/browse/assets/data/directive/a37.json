@@ -1,0 +1,105 @@
+{
+	"id": "a37",
+	"type": "article",
+	"literal": "35",
+	"parent": "c4s4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Tasks of the data protection officer"
+		},
+		{
+			"lang": "de",
+			"text": "Aufgaben des Datenschutzbeauftragten"
+		},
+		{
+			"lang": "fr",
+			"text": "Missions du délégué à la protection des données"
+		},
+		{
+			"lang": "es",
+			"text": "Tareas del delegado de protección de datos"
+		},
+		{
+			"lang": "pt",
+			"text": "Atribuições do delegado para a proteção de dados"
+		},
+		{
+			"lang": "it",
+			"text": "Compiti del responsabile della protezione dei dati"
+		},
+		{
+			"lang": "ga",
+			"text": "Cúraimí an oifigigh cosanta sonraí"
+		},
+		{
+			"lang": "cs",
+			"text": "Úkoly inspektora ochrany údajů"
+		},
+		{
+			"lang": "da",
+			"text": "Den databeskyttelsesansvarliges hverv"
+		},
+		{
+			"lang": "et",
+			"text": "Andmekaitseametniku ülesanded"
+		},
+		{
+			"lang": "el",
+			"text": "Καθήκοντα του υπευθύνου προστασίας δεδομένων"
+		},
+		{
+			"lang": "bg",
+			"text": "Задачи на длъжностното лице по защита на данните"
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatvédelmi tisztviselő feladatai"
+		},
+		{
+			"lang": "mt",
+			"text": "Kompiti tal-uffiċjal tal-protezzjoni tad-dejta"
+		},
+		{
+			"lang": "lv",
+			"text": "Datu aizsardzības inspektora uzdevumi"
+		},
+		{
+			"lang": "ro",
+			"text": "Sarcinile responsabilului cu protecția datelor"
+		},
+		{
+			"lang": "sk",
+			"text": "Úlohy úradníka pre ochranu údajov"
+		},
+		{
+			"lang": "sl",
+			"text": "Naloge uradne osebe za varstvo podatkov"
+		},
+		{
+			"lang": "fi",
+			"text": "Tietosuojavastaavan tehtävät"
+		},
+		{
+			"lang": "pl",
+			"text": "Zadania inspektora ochrony danych"
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų apsaugos pareigūno užduotys"
+		},
+		{
+			"lang": "nl",
+			"text": "Taken van de functionaris voor gegevensbescherming"
+		},
+		{
+			"lang": "sv",
+			"text": "Uppgiftsskyddsombudets arbetsuppgifter"
+		}
+	],
+	"children": [
+		"a37p1",
+		"a37p2"
+	],
+	"title": "Article 37"
+}

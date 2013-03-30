@@ -1,0 +1,111 @@
+{
+	"id": "a28p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a28",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The documentation shall contain at least the following information:"
+		},
+		{
+			"lang": "de",
+			"text": "Die Dokumentation enthält mindestens folgende Informationen:"
+		},
+		{
+			"lang": "fr",
+			"text": "La documentation constituée comporte au moins les informations suivantes:"
+		},
+		{
+			"lang": "es",
+			"text": "La documentación deberá contener, como mínimo, la información siguiente:"
+		},
+		{
+			"lang": "pt",
+			"text": "Essa documentação deve consistir, pelo menos, nas seguintes informações:"
+		},
+		{
+			"lang": "it",
+			"text": "La documentazione contiene almeno le seguenti informazioni:"
+		},
+		{
+			"lang": "ga",
+			"text": "Beidh an fhaisnéis seo a leanas ar a laghad sa doiciméadacht:"
+		},
+		{
+			"lang": "cs",
+			"text": "V dokumentaci jsou obsaženy přinejmenším tyto údaje:"
+		},
+		{
+			"lang": "da",
+			"text": "Dokumentationen omfatter mindst følgende oplysninger:"
+		},
+		{
+			"lang": "et",
+			"text": "Dokumendid peavad sisaldama vähemalt järgmisi andmeid:"
+		},
+		{
+			"lang": "el",
+			"text": "Η τεκμηρίωση περιέχει τουλάχιστον τις ακόλουθες πληροφορίες:"
+		},
+		{
+			"lang": "bg",
+			"text": "Документацията съдържа най-малко следната информация:"
+		},
+		{
+			"lang": "hu",
+			"text": "A dokumentáció legalább az alábbi információt tartalmazza:"
+		},
+		{
+			"lang": "mt",
+			"text": "Id-dokumentazzjoni għandha tinkludi tal-inqas l-informazzjoni li ġejja:"
+		},
+		{
+			"lang": "lv",
+			"text": "Dokumentācijā ietver vismaz šādu informāciju:"
+		},
+		{
+			"lang": "ro",
+			"text": "Această documentație cuprinde cel puțin următoarele informații:"
+		},
+		{
+			"lang": "sk",
+			"text": "Dokumentácia obsahuje minimálne tieto informácie:"
+		},
+		{
+			"lang": "sl",
+			"text": "Dokumentacija vsebuje vsaj naslednje informacije o:"
+		},
+		{
+			"lang": "fi",
+			"text": "Asiakirjoissa on oltava vähintään seuraavat tiedot:"
+		},
+		{
+			"lang": "pl",
+			"text": "Dokumentacja zawiera przynajmniej informacje na temat:"
+		},
+		{
+			"lang": "lt",
+			"text": "Dokumentuose nurodoma bent ši informacija:"
+		},
+		{
+			"lang": "nl",
+			"text": "De documenten bevatten ten minste de volgende gegevens:"
+		},
+		{
+			"lang": "sv",
+			"text": "Dokumentationen ska innehålla åtminstone följande uppgifter:"
+		}
+	],
+	"children": [
+		"a28p2i1",
+		"a28p2i2",
+		"a28p2i3",
+		"a28p2i4",
+		"a28p2i5",
+		"a28p2i6",
+		"a28p2i7",
+		"a28p2i8"
+	],
+	"title": "Article 28 – Paragraph 2"
+}

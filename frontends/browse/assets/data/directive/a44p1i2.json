@@ -1,0 +1,102 @@
+{
+	"id": "a44p1i2",
+	"type": "point",
+	"literal": "b",
+	"parent": "a44p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the transfer is necessary for the performance of a contract between the data subject and the controller or the implementation of pre-contractual measures taken at the data subject's request; or"
+		},
+		{
+			"lang": "de",
+			"text": "die Übermittlung für die Erfüllung eines Vertrags zwischen der betroffenen Person und dem für die Verarbeitung Verantwortlichen oder zur Durchführung von vorvertraglichen Maßnahmen auf Antrag der betroffenen Person erforderlich ist,"
+		},
+		{
+			"lang": "fr",
+			"text": "le transfert soit nécessaire à l'exécution d'un contrat entre la personne concernée et le responsable du traitement ou à l'exécution de mesures précontractuelles prises à la demande de la personne concernée; ou"
+		},
+		{
+			"lang": "es",
+			"text": "la transferencia sea necesaria para la ejecución de un contrato entre el interesado y el responsable del tratamiento o para la implementación de medidas precontractuales adoptadas a solicitud del interesado; o"
+		},
+		{
+			"lang": "pt",
+			"text": "A transferência for necessária para a execução de um contrato entre o titular dos dados e o responsável pelo tratamento ou de diligências prévias à formação do contrato decididas a pedido da pessoa em causa; ou"
+		},
+		{
+			"lang": "it",
+			"text": "il trasferimento sia necessario all’esecuzione di un contratto concluso tra l’interessato e il responsabile del trattamento ovvero all’esecuzione di misure precontrattuali prese su istanza dell’interessato, oppure"
+		},
+		{
+			"lang": "ga",
+			"text": "gur gá an t‑aistriú a dhéanamh chun conradh idir an duine is ábhar do na sonraí agus an rialaitheoir a chomhlíonadh nó chun bearta réamhchonarthacha a chur chun feidhme arna iarraidh sin ag an duine is ábhar do na sonraí ; nó"
+		},
+		{
+			"lang": "cs",
+			"text": "předání je nezbytné pro splnění smlouvy mezi subjektem údajů a správcem nebo pro provedení opatření přijatých před uzavřením smlouvy na žádost subjektu údajů nebo"
+		},
+		{
+			"lang": "da",
+			"text": "videregivelsen er nødvendig af hensyn til opfyldelsen af en kontrakt mellem den registrerede og den registeransvarlige eller af hensyn til gennemførelsen af foranstaltninger, der træffes på den registreredes anmodning forud for indgåelsen af en sådan kontrakt, eller"
+		},
+		{
+			"lang": "et",
+			"text": "edastamine on vajalik andmesubjekti ja vastutava töötleja vahelise lepingu täitmiseks või andmesubjekti taotluse alusel võetavate lepingueelsete meetmete rakendamiseks või"
+		},
+		{
+			"lang": "el",
+			"text": "β) η διαβίβαση είναι απαραίτητη για την εκτέλεση σύμβασης μεταξύ του προσώπου στο οποίο αναφέρονται τα δεδομένα και του υπευθύνου επεξεργασίας ή για την εφαρμογή προσυμβατικών μέτρων τα οποία λαμβάνονται κατόπιν αιτήματος του προσώπου στο οποίο αναφέρονται τα δεδομένα· ή"
+		},
+		{
+			"lang": "bg",
+			"text": "б) предаването е необходимо за изпълнението на договор между субекта на данните и администратора или за изпълнението на преддоговорни мерки, взети по искане на субекта на данните; или"
+		},
+		{
+			"lang": "hu",
+			"text": "a továbbítás az érintett és az adatkezelő közötti szerződés teljesítéséhez, vagy az érintett kérelmére hozott, szerződést megelőző intézkedések végrehajtásához szükséges; vagy"
+		},
+		{
+			"lang": "mt",
+			"text": "it-trasferiment ikun meħtieġ għat-twettiq ta’ kuntratt bejn is-suġġett tad-dejta u l-kontrollur jew l-implimentazzjoni ta’ miżuri ta’ qabel il-kuntratt meħuda fuq talba tas-suġġett tad-dejta; jew"
+		},
+		{
+			"lang": "lv",
+			"text": "nosūtīšana ir vajadzīga, lai izpildītu līgumu starp datu subjektu un pārzini vai īstenotu pasākumus pirms līguma noslēgšanas, ko veic pēc datu subjekta pieprasījuma; vai"
+		},
+		{
+			"lang": "ro",
+			"text": "transferul este necesar pentru executarea unui contract între persoana vizată și operator sau pentru aplicarea unor măsuri precontractuale adoptate la cererea persoanei vizate; sau"
+		},
+		{
+			"lang": "sk",
+			"text": "prenos je nevyhnutný na plnenie zmluvy medzi dotknutou osobou a prevádzkovateľom alebo na vykonanie predzmluvných opatrení prijatých na žiadosť dotknutej osoby, alebo"
+		},
+		{
+			"lang": "sl",
+			"text": "je prenos potreben za izvajanje pogodbe med posameznikom, na katerega se nanašajo osebni podatki, in upravljavcem ali za izvajanje predpogodbenih ukrepov, sprejetih na zahtevo posameznika, na katerega se nanašajo osebni podatki; ali"
+		},
+		{
+			"lang": "fi",
+			"text": "siirto on tarpeen rekisteröidyn ja rekisterinpitäjän välisen sopimuksen täytäntöönpanemiseksi tai sopimusta edeltävien toimenpiteiden toteuttamiseksi rekisteröidyn pyynnöstä; tai"
+		},
+		{
+			"lang": "pl",
+			"text": "przekazanie jest niezbędne do wykonania umowy między podmiotem danych a administratorem lub wprowadzenia w życie środków poprzedzających umowę na wniosek podmiotu danych; lub"
+		},
+		{
+			"lang": "lt",
+			"text": "perduoti duomenis būtina siekiant įvykdyti duomenų subjekto ir duomenų valdytojo sutartį arba įgyvendinti ikisutartines priemones, kurių imamasi duomenų subjekto reikalavimu; arba"
+		},
+		{
+			"lang": "nl",
+			"text": "de doorgifte noodzakelijk is voor de uitvoering van een overeenkomst tussen de betrokkene en de voor de verwerking verantwoordelijke of voor de uitvoering van op verzoek van de betrokkene genomen precontractuele maatregelen; of"
+		},
+		{
+			"lang": "sv",
+			"text": "Överföringen är nödvändig för att fullgöra ett avtal mellan den registrerade och den registeransvarige eller för att genomföra åtgärder som föregår ett sådant avtal på den registrerades begäran."
+		}
+	],
+	"children": [],
+	"title": "Article 44 – Paragraph 1 – Point 2"
+}

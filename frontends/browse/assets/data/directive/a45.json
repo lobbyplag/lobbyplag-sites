@@ -1,0 +1,105 @@
+{
+	"id": "a45",
+	"type": "article",
+	"literal": "45",
+	"parent": "c5",
+	"text": [
+		{
+			"lang": "en",
+			"text": "International co-operation for the protection of personal data"
+		},
+		{
+			"lang": "de",
+			"text": "Internationale Zusammenarbeit zum Schutz personenbezogener Daten"
+		},
+		{
+			"lang": "fr",
+			"text": "Coopération internationale dans le domaine de la protection des données à caractère personnel"
+		},
+		{
+			"lang": "es",
+			"text": "Cooperación internacional en el ámbito de la protección de datos personales"
+		},
+		{
+			"lang": "pt",
+			"text": "Cooperação internacional no domínio da proteção de dados pessoais"
+		},
+		{
+			"lang": "it",
+			"text": "Cooperazione internazionale per la protezione dei dati personali"
+		},
+		{
+			"lang": "ga",
+			"text": "Comhar idirnáisiúnta chun sonraí pearsana a chosaint"
+		},
+		{
+			"lang": "cs",
+			"text": "Mezinárodní spolupráce v zájmu ochrany osobních údajů"
+		},
+		{
+			"lang": "da",
+			"text": "Internationalt samarbejde om beskyttelse af personoplysninger"
+		},
+		{
+			"lang": "et",
+			"text": "Isikuandmete kaitseks tehtav rahvusvaheline koostöö"
+		},
+		{
+			"lang": "el",
+			"text": "Διεθνής συνεργασία για την προστασία δεδομένων προσωπικού χαρακτήρα"
+		},
+		{
+			"lang": "bg",
+			"text": "Международно сътрудничество за защита на личните данни"
+		},
+		{
+			"lang": "hu",
+			"text": "A személyes adatok védelmével kapcsolatos nemzetközi együttműködés"
+		},
+		{
+			"lang": "mt",
+			"text": "Kooperazzjoni internazzjonali għall-protezzjoni tad-dejta personali"
+		},
+		{
+			"lang": "lv",
+			"text": "Starptautiskā sadarbība personas datu aizsardzības jomā"
+		},
+		{
+			"lang": "ro",
+			"text": "Cooperarea internațională în domeniul protecției datelor cu caracter personal"
+		},
+		{
+			"lang": "sk",
+			"text": "Medzinárodná spolupráca na účely ochrany osobných údajov"
+		},
+		{
+			"lang": "sl",
+			"text": "Mednarodno sodelovanje za varstvo osebnih podatkov"
+		},
+		{
+			"lang": "fi",
+			"text": "Kansainvälinen yhteistyö henkilötietojen suojaamiseksi"
+		},
+		{
+			"lang": "pl",
+			"text": "Międzynarodowa współpraca na rzecz ochrony danych osobowych"
+		},
+		{
+			"lang": "lt",
+			"text": "Tarptautinis bendradarbiavimas asmens duomenų apsaugos srityje"
+		},
+		{
+			"lang": "nl",
+			"text": "Internationale samenwerking voor de bescherming van persoonsgegevens"
+		},
+		{
+			"lang": "sv",
+			"text": "Internationellt samarbete för skydd av personuppgifter"
+		}
+	],
+	"children": [
+		"a45p1",
+		"a45p2"
+	],
+	"title": "Article 45"
+}

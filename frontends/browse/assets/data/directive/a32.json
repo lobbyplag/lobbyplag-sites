@@ -1,0 +1,109 @@
+{
+	"id": "a32",
+	"type": "article",
+	"literal": "32",
+	"parent": "c4s2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Communication of a personal data breach to the data subject"
+		},
+		{
+			"lang": "de",
+			"text": "Benachrichtigung der betroffenen Person von einer Verletzung des Schutzes ihrer personenbezogenen Daten"
+		},
+		{
+			"lang": "fr",
+			"text": "Communication à la personne concernée d'une violation de données à caractère personnel"
+		},
+		{
+			"lang": "es",
+			"text": "Comunicación de una violación de datos personales al interesado"
+		},
+		{
+			"lang": "pt",
+			"text": "Comunicação de uma violação de dados pessoais ao titular dos dados"
+		},
+		{
+			"lang": "it",
+			"text": "Comunicazione di una violazione dei dati personali all’interessato"
+		},
+		{
+			"lang": "ga",
+			"text": "Sárú i ndáil le sonraí pearsanta a chur in iúl don duine is ábhar do na sonraí"
+		},
+		{
+			"lang": "cs",
+			"text": "Oznamování případů narušení bezpečnosti osobních údajů subjektům údajů"
+		},
+		{
+			"lang": "da",
+			"text": "Meddelelse af brud på persondatasikkerheden til den registrerede"
+		},
+		{
+			"lang": "et",
+			"text": "Andmesubjekti teavitamine isikuandmetega seotud rikkumisest"
+		},
+		{
+			"lang": "el",
+			"text": "Γνωστοποίηση παραβίασης δεδομένων προσωπικού χαρακτήρα στο πρόσωπο στο οποίο αναφέρονται τα δεδομένα"
+		},
+		{
+			"lang": "bg",
+			"text": "Съобщаване на субекта на данните за нарушение на сигурността на личните данни"
+		},
+		{
+			"lang": "hu",
+			"text": "Az érintett értesítése a személyes adatok megsértéséről"
+		},
+		{
+			"lang": "mt",
+			"text": "Komunikazzjoni ta’ ksur tad-dejta personali lis-suġġett tad-dejta"
+		},
+		{
+			"lang": "lv",
+			"text": "Datu subjekta informēšana par personas datu aizsardzības pārkāpumu"
+		},
+		{
+			"lang": "ro",
+			"text": "Informarea persoanei vizate cu privire la încălcarea securității datelor cu caracter personal"
+		},
+		{
+			"lang": "sk",
+			"text": "Informovanie dotknutej osoby o porušení ochrany osobných údajov"
+		},
+		{
+			"lang": "sl",
+			"text": "Obveščanje posameznika, na katerega se nanašajo osebni podatki, o kršitvi varnosti osebnih podatkov"
+		},
+		{
+			"lang": "fi",
+			"text": "Henkilötietojen tietoturvaloukkauksesta ilmoittaminen rekisteröidylle"
+		},
+		{
+			"lang": "pl",
+			"text": "Zawiadomienie podmiotu danych o naruszeniu ochrony danych osobowych"
+		},
+		{
+			"lang": "lt",
+			"text": "Pranešimas apie asmens duomenų saugumo pažeidimą duomenų subjektui"
+		},
+		{
+			"lang": "nl",
+			"text": "Melding van een inbreuk in verband met persoonsgegevens aan de betrokkene"
+		},
+		{
+			"lang": "sv",
+			"text": "Information till den registrerade om ett personuppgiftsbrott"
+		}
+	],
+	"children": [
+		"a32p1",
+		"a32p2",
+		"a32p3",
+		"a32p4",
+		"a32p5",
+		"a32p6"
+	],
+	"title": "Article 32"
+}

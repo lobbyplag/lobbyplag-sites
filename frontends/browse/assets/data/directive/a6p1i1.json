@@ -1,0 +1,102 @@
+{
+	"id": "a6p1i1",
+	"type": "point",
+	"literal": "a",
+	"parent": "a6p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the data subject has given consent to the processing of their personal data for one or more specific purposes;"
+		},
+		{
+			"lang": "de",
+			"text": "Die betroffene Person hat ihre Einwilligung zu der Verarbeitung der sie betreffenden personenbezogenen Daten für einen oder mehrere genau festgelegte Zwecke gegeben."
+		},
+		{
+			"lang": "fr",
+			"text": "la personne concernée a consenti au traitement de ses données à caractère personnel pour une ou plusieurs finalités spécifiques;"
+		},
+		{
+			"lang": "es",
+			"text": "el interesado ha dado su consentimiento para el tratamiento de sus datos personales para uno o más fines específicos;"
+		},
+		{
+			"lang": "pt",
+			"text": "O titular dos dados tiver dado o seu consentimento para o tratamento dos seus dados pessoais para uma ou mais finalidades específicas;"
+		},
+		{
+			"lang": "it",
+			"text": "l’interessato ha manifestato il consenso al trattamento dei propri dati personali per una o più specifiche finalità;"
+		},
+		{
+			"lang": "ga",
+			"text": "tá toiliú tugtha ag an duine is ábhar do na sonraí a shonraí pearsanta a phróiseáil chun ceann amháin nó níos mó de chríocha sonracha;"
+		},
+		{
+			"lang": "cs",
+			"text": "subjekt údajů udělil souhlas se zpracováním svých osobních údajů pro jeden či více konkrétních účelů;"
+		},
+		{
+			"lang": "da",
+			"text": "den registrerede har givet sit samtykke til behandlingen af vedkommendes personoplysninger til et eller flere specifikke formål"
+		},
+		{
+			"lang": "et",
+			"text": "andmesubjekt on andnud selgesõnalise nõusoleku töödelda oma isikuandmeid ühel või mitmel konkreetsel eesmärgil;"
+		},
+		{
+			"lang": "el",
+			"text": "α) το πρόσωπο στο οποίο αναφέρονται τα δεδομένα παρέσχε συγκατάθεση στην επεξεργασία των δεδομένων προσωπικού χαρακτήρα που το αφορούν για έναν ή περισσότερους ειδικούς σκοπούς·"
+		},
+		{
+			"lang": "bg",
+			"text": "а) субектът на данните е дал съгласието си за обработването на неговите лични данни за една или повече конкретни цели;"
+		},
+		{
+			"lang": "hu",
+			"text": "az érintett hozzájárulását adta személyes adatainak egy vagy több konkrét célból történő feldolgozásához;"
+		},
+		{
+			"lang": "mt",
+			"text": "is-suġġett tad-dejta ta l-kunsens tiegħu għall-ipproċessar tad-dejta personali tiegħu għal għan speċifiku wieħed jew aktar;"
+		},
+		{
+			"lang": "lv",
+			"text": "datu subjekts ir devis piekrišanu savu personas datu apstrādei vienam vai vairākiem konkrētiem nolūkiem;"
+		},
+		{
+			"lang": "ro",
+			"text": "persoana vizată și-a dat consimțământul pentru prelucrarea datelor sale cu caracter personal pentru unul sau mai multe scopuri specifice;"
+		},
+		{
+			"lang": "sk",
+			"text": "dotknutá osoba vyjadrila súhlas so spracovaním svojich osobných údajov na určitý konkrétny účel či účely;"
+		},
+		{
+			"lang": "sl",
+			"text": "posameznik, na katerega se nanašajo osebni podatki, je privolil v obdelavo njegovih osebnih podatkov v enega ali več določenih namenov;"
+		},
+		{
+			"lang": "fi",
+			"text": "rekisteröity on antanut suostumuksensa henkilötietojensa käsittelyyn yhtä tai useampaa erityistarkoitusta varten;"
+		},
+		{
+			"lang": "pl",
+			"text": "podmiot danych wyraził zgodę na przetwarzanie swoich danych osobowych do jednego lub większej liczby konkretnych celów;"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų subjektas davė sutikimą, kad jo asmens duomenys būtų tvarkomi vienu ar keliais konkrečiais tikslais;"
+		},
+		{
+			"lang": "nl",
+			"text": "de betrokkene heeft toestemming gegeven voor de verwerking van zijn persoonsgegevens voor een of meer specifieke doeleinden;"
+		},
+		{
+			"lang": "sv",
+			"text": "Den registrerade har lämnat sitt samtycke till att vederbörandes personuppgifter behandlas för ett eller flera specifika ändamål."
+		}
+	],
+	"children": [],
+	"title": "Article 6 – Paragraph 1 – Point 1"
+}

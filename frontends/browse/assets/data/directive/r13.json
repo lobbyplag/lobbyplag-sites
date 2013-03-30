@@ -1,0 +1,102 @@
+{
+	"id": "r13",
+	"type": "recital",
+	"literal": "13",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The protection of individuals should be technologically neutral and not depend on the techniques used; otherwise this would create a serious risk of circumvention. The protection of individuals should apply to processing of personal data by automated means as well as to manual processing, if the data are contained or are intended to be contained in a filing system. Files or sets of files as well as their cover pages, which are not structured according to specific criteria, should not fall within the scope of this Regulation."
+		},
+		{
+			"lang": "de",
+			"text": "Der Schutz natürlicher Personen sollte technologieneutral sein und nicht von den verwendeten Verfahren abhängen, da andernfalls das Risiko einer Umgehung der Vorschriften groß wäre. Er sollte für die automatisierte Verarbeitung personenbezogener Daten ebenso gelten wie für die manuelle Verarbeitung von personenbezogenen Daten, die in einem Ablagesystem gespeichert sind oder gespeichert werden sollen. Akten oder Aktensammlungen sowie ihre Deckblätter, die nicht nach bestimmten Kriterien geordnet sind, sollten vom Anwendungsbereich der Verordnung ausgenommen werden."
+		},
+		{
+			"lang": "fr",
+			"text": "La protection des personnes devrait être neutre sur le plan technologique et ne pas dépendre des techniques utilisées, sous peine de créer de graves risques de contournement. Elle devrait s'appliquer aux traitements de données à caractère personnel automatisés ainsi qu'aux traitements manuels si les données sont contenues ou destinées à être contenues dans un fichier. Les dossiers ou ensembles de dossiers, de même que leurs couvertures, qui ne sont pas structurés selon des critères déterminés, ne devraient pas relever du champ d'application du présent règlement."
+		},
+		{
+			"lang": "es",
+			"text": "La protección de las personas físicas debe ser tecnológicamente neutra y no debe depender de las técnicas utilizadas, pues de lo contrario daría lugar a graves riesgos de elusión. La protección de las personas debe aplicarse al tratamiento automatizado de datos personales, así como a su tratamiento manual, si los datos están contenidos o destinados a ser incluidos en un fichero. Los ficheros o conjuntos de ficheros y sus carpetas que no estén estructurados con arreglo a criterios específicos no están comprendidos en el ámbito de aplicación del presente Reglamento."
+		},
+		{
+			"lang": "pt",
+			"text": "A proteção de pessoas singulares deve ser neutra em termos tecnológicos e independente das técnicas utilizadas, sob a pena de se correr um sério risco de ser contornada. Deve aplicar-se ao tratamento de dados pessoais por meios automatizados e manuais se os dados estiverem contidos ou se forem destinados a um sistema de ficheiros. As pastas ou conjuntos de pastas, bem como as suas capas, que não estejam estruturadas de acordo com critérios específicos, não são abrangidos pelo âmbito de aplicação do presente regulamento."
+		},
+		{
+			"lang": "it",
+			"text": "La protezione delle persone fisiche deve essere neutrale sotto il profilo tecnologico e non dipendere dalle tecniche impiegate; in caso contrario, si correrebbero gravi rischi di elusione. La protezione delle persone fisiche deve applicarsi sia al trattamento automatizzato che al trattamento manuale dei dati personali, se i dati sono contenuti o destinati ad essere contenuti in un archivio. Non dovrebbero rientrare nel campo di applicazione del presente regolamento i fascicoli o le serie di fascicoli, e le rispettive copertine, non strutturati secondo criteri specifici."
+		},
+		{
+			"lang": "ga",
+			"text": "Ba cheart daoine aonair a chosaint ar bhealach atá neodrach ó thaobh na teicneolaíochta de agus níor cheart go mbraithfeadh an chosaint sin ar na teicníochtaí atá in úsáid; murach sin bheadh baol tromchúiseach ilchéimnithe ann. Ba cheart daoine aonair a chosaint i ndáil le sonraí pearsanta a phróiseáil trí mhodhanna uathoibrithe agus de láimh sa chás ina bhfuil na sonraí á gcoinneáil i gcóras comhdúcháin nó má tá sé i gceist na sonraí a choinneáil i gcóras den sórt sin. Níor cheart go dtiocfadh comhaid nó tacair comhad agus a leathanaigh chumhdaigh, nach bhfuil struchtúraithe de réir critéar sonrach, faoi raon feidhme an Rialacháin seo."
+		},
+		{
+			"lang": "cs",
+			"text": "Ochrana jednotlivců by měla být technologicky neutrální a nezávislá na používaných postupech, jinak by bylo riziko obcházení předpisů příliš velké. Měla by platit jak pro automatizované zpracování osobních údajů, tak pro manuální zpracování, pokud jsou nebo mají být uloženy v evidenci. Záznamy nebo soubory záznamů, stejně jako jejich titulní strany, které nejsou uspořádány podle určených hledisek, by neměly spadat do oblasti působnosti tohoto nařízení."
+		},
+		{
+			"lang": "da",
+			"text": "Beskyttelsen af fysiske personer bør være teknologineutral og må ikke afhænge af de anvendte teknikker, da der ellers vil være alvorlig risiko for omgåelse. Beskyttelsen af fysiske personer bør gælde for både automatisk og manuel behandling af personoplysninger, hvis oplysningerne er indeholdt eller påtænkes indeholdt i et register. Sagsmapper eller samlinger af sagsmapper eller deres forsider, som ikke er struktureret efter bestemte kriterier, hører ikke under denne forordnings anvendelsesområde."
+		},
+		{
+			"lang": "et",
+			"text": "Üksikisikute kaitse peaks olema tehnoloogiliselt neutraalne ega tohiks sõltuda kasutatud vahenditest, vastasel juhul tekib märkimisväärne oht, et eeskirjade täitmisest hoitakse kõrvale. Kui andmed sisalduvad toimikusüsteemis või kui nad hiljem kantakse toimikusüsteemi, peab üksikisikute kaitse kehtima nii isikuandmete automatiseeritud kui ka automatiseerimata töötlemise puhul. Käesoleva määruse reguleerimisalasse ei kuulu toimikud või toimikute kogumid ega nende esilehed, mis ei ole teatavate kriteeriumide kohaselt korrastatud."
+		},
+		{
+			"lang": "el",
+			"text": "Η προστασία των φυσικών προσώπων πρέπει να είναι τεχνολογικά ουδέτερη και να μην εξαρτάται από τις χρησιμοποιούμενες τεχνικές διότι, διαφορετικά, δημιουργείται σοβαρός κίνδυνος καταστρατήγησης. Η προστασία των φυσικών προσώπων πρέπει να εφαρμόζεται τόσο στην επεξεργασία δεδομένων προσωπικού χαρακτήρα με αυτοματοποιημένα μέσα όσο και στη χειροκίνητη επεξεργασία, εάν τα δεδομένα περιέχονται ή προορίζονται να περιληφθούν σε αρχείο. Τα αρχεία ή τα σύνολα αρχείων καθώς και οι συνοδευτικές σελίδες τους, τα οποία δεν είναι διαρθρωμένα σύμφωνα με συγκεκριμένα κριτήρια, δεν πρέπει να υπάγονται στο πεδίο εφαρμογής του παρόντος κανονισμού."
+		},
+		{
+			"lang": "bg",
+			"text": "Защитата на физическите лица следва да бъде технологично неутрална и да не зависи от използваната техника, тъй като в противен случай това би създало сериозен риск от заобикаляне на закона. Защитата на физическите лица следва да се прилага за обработването на лични данни с автоматични средства, както и за ръчното им обработване, ако данните се съхраняват или са предназначени да се съхраняват в регистър на лични данни. Досиетата или групите от досиета, както и заглавните им страници, които не са структурирани съгласно специфични критерии, не следва да попадат в приложното поле на настоящия регламент."
+		},
+		{
+			"lang": "hu",
+			"text": "Az egyének védelmének technológiailag semlegesnek kell lennie, és az nem függhet a felhasznált technológiáktól; különben komoly megkerülési kockázatot teremtene. Az egyének védelme az automatizált eszközök útján végzett személyesadat-feldolgozás mellett a kézi feldolgozásra is vonatkozik, amennyiben az adatokat egy nyilvántartási rendszerben tárolják, vagy kívánják tárolni. A meghatározott szempontok szerint nem rendszerezett iratok, illetve iratok csoportjai, és azok borítóoldalai nem tartoznak e rendelet hatálya alá."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-protezzjoni tal-individwi għandha tkun teknoloġikament newtrali u ma tiddependix fuq it-tekniki użati; inkella din tista’ toħloq riskju serju ta’ ksur. Il-protezzjoni tal-individwi għandha tapplika għall-ipproċessar tad-dejta personali permezz ta’ mezzi awtomatizzati kif ukoll għall-ipproċessar manwali, jekk id-dejta titqgħed jew tkun masuba biex titqiegħed f’sistema ta’ arkivjar. Fajls jew settijiet ta’ fajls kif ukoll il-qoxriet ta’ barra tagħhom, li ma jkunux strutturati skont kriterji speċifiċi, m’għandhomx jaqgħu fi ħdan il-kamp ta’ applikazzjoni ta’ dan ir-Regolament."
+		},
+		{
+			"lang": "lv",
+			"text": "Fizisku personu aizsardzībai būtu jābūt tehnoloģiski neitrālai un neatkarīgai no izmantotajiem paņēmieniem, jo pretējā gadījumā tas radītu nopietnu likuma apiešanas risku. Fizisku personu aizsardzībai būtu jāattiecas gan uz personas datu apstrādi ar automatizētiem līdzekļiem, gan uz datu manuālu apstrādi, ja dati ir ietverti vai tos paredzēts ietvert kartotēkā. Šīs regulas piemērošanas jomā neietilpst datnes vai datņu kopumi, kā arī to ievadlapas, kuras nav sakārtotas atbilstoši speciāliem kritērijiem."
+		},
+		{
+			"lang": "ro",
+			"text": "Protecția persoanelor fizice ar trebui să fie neutră din punct de vedere tehnologic și să nu depindă de tehnicile utilizate, în caz contrar, creându-se un risc serios de eludare. Protecția persoanelor fizice ar trebui să se aplice prelucrării datelor cu caracter personal prin mijloace automate, precum și prelucrării manuale, în cazul în care datele sunt cuprinse sau destinate să fie cuprinse într-un sistem de evidență. Dosarele sau seturile de dosare, precum și copertele acestora, care nu sunt structurate în conformitate cu criterii specifice, nu ar trebui să intre în domeniul de aplicare a prezentului regulament."
+		},
+		{
+			"lang": "sk",
+			"text": "Ochrana fyzických osôb by mala byť technologicky neutrálna a nemala by sa odvíjať od použitých techník, inak by vznikalo závažné riziko obchádzania predpisov. Ochrana fyzických osôb by sa mala vzťahovať na spracúvanie osobných údajov automatizovaným spôsobom, ako aj na ručné spracovávanie, ak sú údaje uchované v informačnom systéme alebo doň majú byť uložené. Súbory alebo komplexy súborov ako aj ich hlavičky, ktoré nie sú štruktúrované podľa špecifických kritérií, nebudú patriť do pôsobnosti tejto smernice."
+		},
+		{
+			"lang": "sl",
+			"text": "Varstvo posameznikov bi moralo biti tehnološko nevtralno in neodvisno od uporabljenih metod, sicer bi to ustvarilo resno tveganje izogibanja izpolnjevanju obveznosti. Varstvo posameznikov bi moralo veljati za obdelavo osebnih podatkov s samodejnimi sredstvi in za ročno obdelavo, če podatki sestavljajo del zbirke ali so namenjeni oblikovanju dela zbirke. Zapisi ali nizi zapisov in njihove naslovnice, ki niso strukturirani v skladu s posebnimi merili, ne bi smeli spadati na področje uporabe te uredbe."
+		},
+		{
+			"lang": "fi",
+			"text": "Yksilöiden suojelun olisi oltava teknologianeutraalia eli se ei saisi riippua käytetystä tekniikasta, koska tällainen riippuvaisuus aiheuttaisi vakavan väärinkäytösten riskin. Yksilöiden suojelun olisi koskettava myös henkilötietojen automatisoitua käsittelyä sekä sellaisten henkilötietojen manuaalista käsittelyä, jotka muodostavat rekisterin osan tai joiden on tarkoitus muodostaa rekisterin osa. Tämän asetuksen soveltamisalaan ei ole tarkoitus sisällyttää sellaisia asiakirjoja tai asiakirjakokonaisuuksia kansilehtineen, joita ei ole järjestetty määriteltyjen perusteiden mukaisesti."
+		},
+		{
+			"lang": "pl",
+			"text": "Ochrona osób fizycznych powinna być technologicznie neutralna i nie powinna zależeć od stosowanych technik, ponieważ w przeciwnym razie wystąpiłoby poważne ryzyko obchodzenia prawa. Ochrona osób fizycznych powinna mieć zastosowanie do przetwarzania danych osobowych w sposób zautomatyzowany, jak również ręcznego przetwarzania, jeśli dane znajdują się lub mają znajdować się w zbiorze danych. Zbiory lub zestawy zbiorów oraz ich strony tytułowe, które nie są zorganizowane według określonych kryteriów, nie powinny wchodzić w zakres niniejszego rozporządzenia."
+		},
+		{
+			"lang": "lt",
+			"text": "asmenų apsauga turėtų būti neutrali technologijų atžvilgiu ir nepriklausyti nuo taikomų metodų; priešingu atveju iškiltų rimta teisės aktų apėjimo grėsmė. Asmenų apsauga turėtų būti taikoma asmens duomenis tvarkant tiek automatizuotomis priemonėmis, tiek rankiniu būdu, jeigu duomenys laikomi arba juos ketinama laikyti susistemintame rinkinyje. Šis reglamentas neturėtų būti taikomas pagal specialius kriterijus nesusistemintiems rinkiniams ar jų grupėms, taip pat jų tituliniams lapams;"
+		},
+		{
+			"lang": "nl",
+			"text": "De bescherming van personen dient technologisch neutraal te zijn en niet afhankelijk te zijn van de gebruikte technieken; anders zou een ernstig gevaar van ontduiking ontstaan. De bescherming van personen dient zowel te gelden bij automatische als manuele verwerking van persoonsgegevens, indien de gegevens zijn opgeslagen of zullen worden opgeslagen in een bestand. Dossiers of een verzameling dossiers, evenals de omslagen ervan, die niet volgens specifieke criteria gestructureerd zijn, dienen niet onder het toepassingsgebied van deze verordening te vallen."
+		},
+		{
+			"lang": "sv",
+			"text": "Skyddet av enskilda bör vara tekniskt neutralt, det vill säga inte vara beroende av den teknik som används, eftersom detta skulle kunna skapa en allvarlig risk för att reglerna kan kringgås. Skyddet av enskilda bör vara tillämpligt på både automatisk och manuell behandling av personuppgifter, om uppgifterna ingår i eller är avsedda att ingå i ett register. Akter eller grupper av akter liksom deras omslag, som inte är strukturerade enligt särskilda kriterier, bör inte omfattas av denna förordning."
+		}
+	],
+	"children": [],
+	"title": "Recital 13"
+}

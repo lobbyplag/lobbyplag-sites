@@ -1,0 +1,105 @@
+{
+	"id": "a80",
+	"type": "article",
+	"literal": "80",
+	"parent": "c9",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Processing of personal data and freedom of expression"
+		},
+		{
+			"lang": "de",
+			"text": "Verarbeitung personenbezogener Daten und freie Meinungsäußerung"
+		},
+		{
+			"lang": "fr",
+			"text": "Traitements de données à caractère personnel et liberté d'expression"
+		},
+		{
+			"lang": "es",
+			"text": "Tratamiento de datos personales y libertad de expresión"
+		},
+		{
+			"lang": "pt",
+			"text": "Tratamento de dados pessoais e liberdade de expressão"
+		},
+		{
+			"lang": "it",
+			"text": "Trattamento di dati personali e libertà d’espressione"
+		},
+		{
+			"lang": "ga",
+			"text": "Sonraí pearsanta a phróiseáil agus an ceart chun tuairimí a nochtadh"
+		},
+		{
+			"lang": "cs",
+			"text": "Zpracovávání osobních údajů a svoboda projevu"
+		},
+		{
+			"lang": "da",
+			"text": "Behandling af personoplysninger og ytringsfriheden"
+		},
+		{
+			"lang": "et",
+			"text": "Isikuandmete töötlemine ja sõnavabadus"
+		},
+		{
+			"lang": "el",
+			"text": "Επεξεργασία δεδομένων προσωπικού χαρακτήρα και ελευθερία έκφρασης"
+		},
+		{
+			"lang": "bg",
+			"text": "Обработване на лични данни и свобода на изразяване"
+		},
+		{
+			"lang": "hu",
+			"text": "A személyes adatok feldolgozása és a véleménynyilvánítás szabadsága"
+		},
+		{
+			"lang": "mt",
+			"text": "Ipproċessar ta’ dejta personali u libertà tal-espressjoni"
+		},
+		{
+			"lang": "lv",
+			"text": "Personas datu apstrāde un vārda brīvība"
+		},
+		{
+			"lang": "ro",
+			"text": "Prelucrarea datelor cu caracter personal și libertatea de exprimare"
+		},
+		{
+			"lang": "sk",
+			"text": "Spracúvanie osobných údajov a sloboda prejavu"
+		},
+		{
+			"lang": "sl",
+			"text": "Obdelava osebnih podatkov in svoboda izražanja"
+		},
+		{
+			"lang": "fi",
+			"text": "Henkilötietojen käsittely ja sananvapaus"
+		},
+		{
+			"lang": "pl",
+			"text": "Przetwarzanie danych osobowych i wolność wypowiedzi"
+		},
+		{
+			"lang": "lt",
+			"text": "Asmens duomenų tvarkymas ir saviraiškos laisvė"
+		},
+		{
+			"lang": "nl",
+			"text": "Verwerking van persoonsgegevens en vrijheid van meningsuiting"
+		},
+		{
+			"lang": "sv",
+			"text": "Behandling av personuppgifter och yttrandefriheten"
+		}
+	],
+	"children": [
+		"a80p1",
+		"a80p2"
+	],
+	"title": "Article 80"
+}

@@ -1,0 +1,105 @@
+{
+	"id": "c7s1",
+	"type": "section",
+	"literal": "1",
+	"parent": "c7",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Co-operation"
+		},
+		{
+			"lang": "de",
+			"text": "ZUSAMMENARBEIT"
+		},
+		{
+			"lang": "fr",
+			"text": "COOPÉRATION"
+		},
+		{
+			"lang": "es",
+			"text": "COOPERACIÓN"
+		},
+		{
+			"lang": "pt",
+			"text": "COOPERAÇÃO"
+		},
+		{
+			"lang": "it",
+			"text": "Cooperazione"
+		},
+		{
+			"lang": "ga",
+			"text": "Comhar"
+		},
+		{
+			"lang": "cs",
+			"text": "SPOLUPRÁCE"
+		},
+		{
+			"lang": "da",
+			"text": "Samarbejde"
+		},
+		{
+			"lang": "et",
+			"text": "KOOSTÖÖ"
+		},
+		{
+			"lang": "el",
+			"text": "ΣΥΝΕΡΓΑΣΙΑ"
+		},
+		{
+			"lang": "bg",
+			"text": "Сътрудничество"
+		},
+		{
+			"lang": "hu",
+			"text": "EGYÜTTMŰKÖDÉS"
+		},
+		{
+			"lang": "mt",
+			"text": "KOOPERAZZJONI"
+		},
+		{
+			"lang": "lv",
+			"text": "Sadarbība"
+		},
+		{
+			"lang": "ro",
+			"text": "Cooperare"
+		},
+		{
+			"lang": "sk",
+			"text": "Spolupráca"
+		},
+		{
+			"lang": "sl",
+			"text": "SODELOVANJE"
+		},
+		{
+			"lang": "fi",
+			"text": "Yhteistyö"
+		},
+		{
+			"lang": "pl",
+			"text": "Współpraca"
+		},
+		{
+			"lang": "lt",
+			"text": "Bendradarbiavimas"
+		},
+		{
+			"lang": "nl",
+			"text": "SAMENWERKING"
+		},
+		{
+			"lang": "sv",
+			"text": "Samarbete"
+		}
+	],
+	"children": [
+		"a55",
+		"a56"
+	],
+	"title": "Chapter 7 – Section 1"
+}

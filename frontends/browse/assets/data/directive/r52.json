@@ -1,0 +1,102 @@
+{
+	"id": "r52",
+	"type": "recital",
+	"literal": "52",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller should use all reasonable measures to verify the identity of a data subject that requests access, in particular in the context of online services and online identifiers. A controller should not retain personal data for the unique purpose of being able to react to potential requests."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche sollte alle vertretbaren Mittel nutzen, um die Identität einer Auskunft suchenden betroffenen Person zu überprüfen, insbesondere im Rahmen von Online-Diensten und im Falle von Online-Kennungen. Ein für die Verarbeitung Verantwortlicher sollte personenbezogene Daten nicht nur deshalb speichern, um auf mögliche Ansuchen reagieren zu können."
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement devrait prendre toutes les mesures raisonnables afin de s’assurer de l’identité d’une personne concernée demandant l'accès aux données, en particulier dans le contexte des services et identifiants en ligne. Un responsable des données ne devrait pas conserver des données à caractère personnel à la seule fin d'être en mesure de réagir à d'éventuelles demandes."
+		},
+		{
+			"lang": "es",
+			"text": "El responsable del tratamiento debe utilizar todas las medidas razonables para verificar la identidad de los interesados que soliciten acceso, en particular en el contexto de los servicios en línea y los identificadores en línea. Los responsables del tratamiento no deben conservar datos personales con el único propósito de poder responder a posibles solicitudes."
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento deve adotar todas as medidas razoáveis para verificar a identidade do titular dos dados que solicite o acesso, em especial no contexto de serviços em linha e de identificadores em linha. Um responsável pelo tratamento não deve conservar dados pessoais com a finalidade exclusiva de estar em condições de reagir a possíveis pedidos."
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento deve prendere tutte le misure ragionevoli per verificare l’identità di un interessato che chieda l’accesso, in particolare nel contesto di servizi on line e di identificativi on line. Il responsabile del trattamento non deve conservare dati personali al solo scopo di poter rispondere a potenziali richieste."
+		},
+		{
+			"lang": "ga",
+			"text": "Ba cheart don rialaitheoir gach beart réasúnta a dhéanamh chun céannacht duine is ábhar do shonraí atá ag iarraidh rochtain a fháil ar na sonraí sin a fhíorú, go háirithe i gcomhthéacs seirbhísí ar líne agus aitheantóirí ar líne. Níor cheart do rialaitheoir sonraí pearsanta a choinneáil díreach le go bhféadfadh sé freagairt d’iarrataí féideartha."
+		},
+		{
+			"lang": "cs",
+			"text": "Správce by měl využít všech rozumných opatření k ověření totožnosti subjektu údajů, který žádá o přístup, zejména v souvislosti s on-line službami a elektronickými identifikátory. Správce by neměl uchovávat osobní údaje pouze za tím účelem, aby mohl reagovat na případné žádosti."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige bør træffe alle rimelige foranstaltninger for at bekræfte identiteten af en registreret, som anmoder om indsigt, navnlig i forbindelse med onlinetjenester og online-id'er. En registeransvarlig må ikke opbevare personoplysninger alene for at kunne reagere på mulige anmodninger."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja peaks kasutama juurdepääsu taotleva andmesubjekti isiku tuvastamiseks kõiki mõistlikke meetmeid, seda eelkõige sidusteenuste ja veebiidentifikaatorite korral. Vastutav töötleja ei tohiks isikuandmeid säilitada üksnes selleks, et suuta reageerida võimalikele päringutele."
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας χρησιμοποιεί κάθε εύλογο μέτρο για να επαληθεύει την ταυτότητα του προσώπου στο οποίο αναφέρονται τα δεδομένα το οποίο ζητεί πρόσβαση, ιδίως στο πλαίσιο επιγραμμικών υπηρεσιών και επιγραμμικών αναγνωριστικών ταυτότητας. Ο υπεύθυνος επεξεργασίας δεν πρέπει να διατηρεί δεδομένα προσωπικού χαρακτήρα με μοναδικό σκοπό να μπορεί να αποκρίνεται σε δυνητικά αιτήματα."
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът следва да използва всички разумни мерки за проверка на самоличността на субекта на данни, който иска достъп, по-специално по отношение на онлайн услугите и онлайн идентификаторите. Администраторът не следва да запазва лични данни с единствената цел да може да отговори на потенциални искания."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelőnek minden ésszerű intézkedést meg kell tennie a hozzáférést kérő érintett személyazonosságának megállapítására, különösen az online szolgáltatásokkal és online azonosítókkal összefüggésben. Az adatkezelő nem őrizheti meg a személyes adatokat kizárólag azért, hogy megválaszolhassa az esetleges kérelmeket."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur għandu juża l-miżuri kollha raġonevoli sabiex jivverifika l-identità ta’ suġġett tad-dejta li jitlob aċċess, b’mod partikolari fil-kuntest ta’ servizzi onlajn u identifikaturi onlajn. Kontrollur m’għandux iżomm id-dejta personali għall-fini unika li jkun jista’ jirreaġixxi għal talbiet potenzjali."
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinim būtu jāizmanto visi saprātīgi pasākumi, lai pārbaudītu datu subjekta, kas izdara pieprasījumu, identitāti, jo īpaši saistībā ar tiešsaistes pakalpojumiem un tiešsaistes identifikatoriem. Pārzinim nebūtu jāglabā personas dati, ja vienīgais šādas glabāšanas nolūks ir būt spējīgam reaģēt uz iespējamiem pieprasījumiem."
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul ar trebui să ia toate măsurile rezonabile pentru a verifica identitatea unei persoane vizate care solicită acces la date, în special în contextul serviciilor online și al identificatorilor online. Un operator nu ar trebui să rețină datele cu caracter personal în scopul exclusiv de a fi în măsură să reacționeze la cereri potențiale."
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ by mal použiť všetky primerané opatrenia na overenie totožnosti dotknutej osoby žiadajúcej o prístup k údajom, najmä v súvislosti s online službami a online identifikátormi. Prevádzkovateľ by nemal uchovávať osobné údaje len preto, aby bol schopný reagovať na prípadné žiadosti."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec bi moral uporabiti vse primerne ukrepe za preverjanje istovetnosti posameznika, na katerega se nanašajo osebni podatki in ki zahteva dostop, zlasti v okviru spletnih storitev in spletnih identifikatorjev. Upravljavec ne bi smel hraniti osebnih podatkov samo zato, da se lahko odzove na morebitno zahtevo."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän olisi käytettävä kaikkia kohtuullisia keinoja tarkistaakseen sellaisen rekisteröidyn henkilöllisyyden, joka haluaa käyttää tiedonsaantioikeuttaan, erityisesti verkkopalvelujen ja internet-tunnisteiden yhteydessä. Rekisterinpitäjän ei pitäisi säilyttää henkilötietoja ainoastaan mahdollisiin pyyntöihin vastaamista varten."
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator powinien skorzystać ze wszystkich uzasadnionych środków w celu weryfikacji tożsamości podmiotu danych, który żąda dostępu, w szczególności w kontekście usług internetowych i identyfikatorów internetowych. Administrator nie powinien zatrzymywać danych osobowych wyłącznie po to, by móc odpowiadać na potencjalne wnioski."
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų valdytojas turėtų naudotis visomis pagrįstomis priemonėmis, kad patikrintų prašančio leisti susipažinti su duomenimis duomenų subjekto tapatybę, ypač kai tai susiję su interneto paslaugomis ir interneto identifikatoriais. Duomenų valdytojas neturėtų saugoti asmens duomenų vien tam, kad galėtų atsakyti į galimus prašymus;"
+		},
+		{
+			"lang": "nl",
+			"text": "Eenieder dient het recht te hebben persoonsgegevens over zichzelf te laten rectificeren en het “recht om te worden vergeten”, als het bewaren van dergelijke gegevens niet in overeenstemming is met deze verordening. Betrokkenen dienen met name het recht te hebben dat hun persoonsgegevens worden uitgewist en niet verder worden verwerkt als de gegevens niet langer nodig zijn voor de doeleinden waarvoor zij zijn verzameld of anderszins verwerkt, als de betrokkenen hun toestemming voor de verwerking hebben ingetrokken of bezwaar maken tegen de verwerking van hun persoonsgegevens, of als de verwerking van hun persoonsgegevens op een ander punt niet met deze verordening in overeenstemming is. Dit recht is uitermate relevant wanneer de betrokkene toestemming heeft gegeven als kind, toen hij zich nog niet volledig bewust was van de risico’s van verwerking, en dergelijke persoonsgegevens later wil verwijderen, met name van het internet."
+		},
+		{
+			"lang": "sv",
+			"text": "Registeransvariga bör vidta alla rimliga åtgärder för att kontrollera identiteten på en registrerad som begär tillgång, särskilt inom ramen för nättjänster och i fråga om nätidentifierare. Registeransvariga bör inte behålla personuppgifter enbart för att kunna agera vid en potentiell sådan begäran."
+		}
+	],
+	"children": [],
+	"title": "Recital 52"
+}

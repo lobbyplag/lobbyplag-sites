@@ -1,0 +1,102 @@
+{
+	"id": "a79p6i1",
+	"type": "point",
+	"literal": "a",
+	"parent": "a79p6",
+	"text": [
+		{
+			"lang": "en",
+			"text": "processes personal data without any or sufficient legal basis for the processing or does not comply with the conditions for consent pursuant to Articles 6, 7 and 8;"
+		},
+		{
+			"lang": "de",
+			"text": "personenbezogene Daten ohne oder ohne ausreichende Rechtsgrundlage verarbeitet oder die Bedingungen für die Einwilligung gemäß den Artikeln 6, 7 und 8 nicht beachtet;"
+		},
+		{
+			"lang": "fr",
+			"text": "traite des données à caractère personnel sans base juridique ou sans base juridique suffisante à cette fin ou ne respecte pas les conditions relatives au consentement conformément aux articles 6, 7 et 8;"
+		},
+		{
+			"lang": "es",
+			"text": "trate datos personales sin base jurídica o sin base jurídica suficiente para el tratamiento, o no cumpla las condiciones para el consentimiento con arreglo a los artículos 6, 7 y 8;"
+		},
+		{
+			"lang": "pt",
+			"text": "Proceda ao tratamento de dados pessoais sem fundamento jurídico ou sem fundamento jurídico suficiente para esse fim ou não cumpra as condições relativas ao consentimento, nos termos dos artigos 6.º, 7.º e 8.º;"
+		},
+		{
+			"lang": "it",
+			"text": "tratta dati personali senza una base giuridica o una base giuridica sufficiente a tal fine o non rispetta le condizioni relative al consenso, in violazione degli articoli 6, 7 e 8;"
+		},
+		{
+			"lang": "ga",
+			"text": "aon duine a phróiseálann sonraí pearsanta gan aon bhunús dlí nó gan bunús dlí leordhóthanach don phróiseáil sin nó nach gcomhlíonann na coinníollacha maidir le toiliú de bhun Airteagal 6, Airteagal 7 agus Airteagal 8;"
+		},
+		{
+			"lang": "cs",
+			"text": "zpracovává osobní údaje bez žádného nebo dostatečného právního základu nebo nedodrží podmínky týkající se souhlasu podle článků 6, 7 a 8;"
+		},
+		{
+			"lang": "da",
+			"text": "behandler personoplysninger uden retsgrundlag eller med utilstrækkeligt retsgrundlag for behandlingen eller ikke overholder betingelserne for samtykke i artikel 6, 7 og 8"
+		},
+		{
+			"lang": "et",
+			"text": "töötleb isikuandmeid ilma või piisava õigusliku aluseta ja ei täida artiklite 6, 7 ja 8 kohaseid nõusoleku andmise tingimusi;"
+		},
+		{
+			"lang": "el",
+			"text": "α) επεξεργάζεται δεδομένα προσωπικού χαρακτήρα χωρίς ή με ανεπαρκή νομική βάση για την επεξεργασία ή δεν συμμορφώνεται προς τις προϋποθέσεις της συγκατάθεσης δυνάμει των άρθρων 6, 7 και 8·"
+		},
+		{
+			"lang": "bg",
+			"text": "а) обработва лични данни без никакво или без достатъчно правно основание за обработването или не спазва условията за съгласие съгласно членове 6, 7 и 8;"
+		},
+		{
+			"lang": "hu",
+			"text": "a személyes adatok feldolgozását a feldolgozáshoz szükséges jogalap nélkül vagy megfelelő jogalap nélkül végzi, vagy nem tesz eleget a 6., 7. és 8. cikk szerinti hozzájárulás feltételeinek;"
+		},
+		{
+			"lang": "mt",
+			"text": "jipproċessa dejta personali mingħajr kwalunkwe bażi legali jew bażi legali suffiċjenti għall-ipproċessar jew ma jikkonformax mal-kundizzjonijiet għall-kunsens skont l-Artikoli 6, 7 u 8;"
+		},
+		{
+			"lang": "lv",
+			"text": "personas datus apstrādā bez juridiska pamata vai apstrādei nav pietiekama juridiska pamata vai nav ievēroti nosacījumi par piekrišanu saskaņā ar 6., 7. un 8. pantu;"
+		},
+		{
+			"lang": "ro",
+			"text": "prelucrează datele cu caracter personal fără niciun temei juridic sau fără un temei juridic suficient pentru prelucrare sau nu respectă condițiile privind consimțământul, în temeiul articolelor 6, 7 și 8;"
+		},
+		{
+			"lang": "sk",
+			"text": "spracúva osobné údaje bez akéhokoľvek alebo dostatočného právneho základu pre spracovanie, alebo nedodržiava podmienky na udelenie súhlasu podľa článkov 6, 7 a 8;"
+		},
+		{
+			"lang": "sl",
+			"text": "obdeluje osebne podatke brez kakršne koli ali nezadostne pravne podlage za obdelavo ali ne izpolnjuje pogojev glede privolitve v skladu s členi 6, 7 in 8;"
+		},
+		{
+			"lang": "fi",
+			"text": "käsittelee henkilötietoja ilman mitään tai ilman riittävää oikeusperustaa tai ei noudata 6–8 artiklassa säädettyjä suostumusta koskevia edellytyksiä;"
+		},
+		{
+			"lang": "pl",
+			"text": "przetwarza dane osobowe bez żadnej lub wystarczającej podstawy prawnej przetwarzania lub nie przestrzega warunków dotyczących uzyskania zgody na mocy art. 6, 7 i 8;"
+		},
+		{
+			"lang": "lt",
+			"text": "tvarko asmens duomenis neturėdamas jokio arba pakankamo teisinio pagrindo juos tvarkyti arba nesilaiko su sutikimu susijusių sąlygų pagal 6, 7 ir 8 straipsnius;"
+		},
+		{
+			"lang": "nl",
+			"text": "persoonsgegevens verwerkt zonder of zonder toereikende rechtsgrondslag voor de verwerking of de voorwaarden voor toestemming niet naleeft overeenkomstig de artikelen 6, 7 en 8;"
+		},
+		{
+			"lang": "sv",
+			"text": "behandlar personuppgifter utan tillräcklig rättslig grund för ändamålet eller underlåter att följa villkoren för samtycke enligt artiklarna 6, 7 och 8,"
+		}
+	],
+	"children": [],
+	"title": "Article 79 – Paragraph 6 – Point 1"
+}

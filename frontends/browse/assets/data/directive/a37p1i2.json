@@ -1,0 +1,102 @@
+{
+	"id": "a37p1i2",
+	"type": "point",
+	"literal": "b",
+	"parent": "a37p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "to monitor the implementation and application of the policies of the controller or processor in relation to the protection of personal data, including the assignment of responsibilities, the training of staff involved in the processing operations, and the related audits;"
+		},
+		{
+			"lang": "de",
+			"text": "Überwachung der Umsetzung und Anwendung der Strategien des für die Verarbeitung Verantwortlichen oder des Auftragsverarbeiters für den Schutz personenbezogener Daten einschließlich der Zuweisung von Zuständigkeiten, der Schulung der an den Verarbeitungsvorgängen beteiligten Mitarbeiter und der diesbezüglichen Überprüfungen;"
+		},
+		{
+			"lang": "fr",
+			"text": "contrôler la mise en œuvre et l'application des règles internes du responsable du traitement ou du sous‑traitant en matière de protection des données à caractère personnel, y compris la répartition des responsabilités, la formation du personnel participant aux traitements, et les audits s'y rapportant;"
+		},
+		{
+			"lang": "es",
+			"text": "supervisar la implementación y aplicación de las políticas del responsable o del encargado del tratamiento en materia de protección de datos personales, incluida la asignación de responsabilidades, la formación del personal que participa en las operaciones de tratamiento, y las auditorías correspondientes;"
+		},
+		{
+			"lang": "pt",
+			"text": "Controlar a execução e a aplicação das regras internas do responsável pelo tratamento ou do subcontratante relativas à proteção de dados pessoais, incluindo a repartição de responsabilidades, a formação do pessoal envolvido nas operações de tratamento de dados, e as auditorias correspondentes;"
+		},
+		{
+			"lang": "it",
+			"text": "sorvegliare l’attuazione e l’applicazione delle politiche del responsabile del trattamento o dell’incaricato del trattamento in materia di protezione dei dati personali, compresi l’attribuzione delle responsabilità, la formazione del personale che partecipa ai trattamenti e gli audit connessi;"
+		},
+		{
+			"lang": "ga",
+			"text": "beidh air faireachán a dhéanamh ar chur chun feidhme agus cur i bhfeidhm bheartais an rialaitheora nó an phróiseálaí maidir le cosaint sonraí pearsanta, lena n‑áirítear beartais maidir le freagrachtaí a thabhairt amach, oiliúint a chur ar lucht foirne atá bainteach leis na hoibríochtaí próiseála, agus maidir leis na hiniúchtaí gaolmhara;"
+		},
+		{
+			"lang": "cs",
+			"text": "sledovat provádění a uplatňování politik správce nebo zpracovatele souvisejících s ochranou osobních údajů včetně svěřování odpovědnosti, školení pracovníků zapojených do zpracovávání a souvisejících auditů;"
+		},
+		{
+			"lang": "da",
+			"text": "at overvåge gennemførelsen og anvendelsen af den registeransvarliges eller registerførerens regler om beskyttelse af personoplysninger, herunder fordeling af ansvar, uddannelse af det personale, der medvirker ved databehandlingen, og de tilhørende kontroller"
+		},
+		{
+			"lang": "et",
+			"text": "jälgida vastutava töötleja ja volitatud töötleja isikuandmete kaitse põhimõtete rakendamist ja kohaldamist, sealhulgas ülesannete jaotamist, isikuandmete töötlemises osaleva personali koolitamist ja nendega seotud auditeerimist;"
+		},
+		{
+			"lang": "el",
+			"text": "β) να παρακολουθεί τη θέση σε ισχύ και την εφαρμογή των πολιτικών του υπευθύνου επεξεργασίας ή του εκτελούντος την επεξεργασία σε σχέση με την προστασία των δεδομένων προσωπικού χαρακτήρα, συμπεριλαμβανομένων της ανάθεσης αρμοδιοτήτων, της κατάρτισης των υπαλλήλων που συμμετέχουν στις πράξεις επεξεργασίας και των σχετικών ελέγχων·"
+		},
+		{
+			"lang": "bg",
+			"text": "б) да наблюдава изпълнението и прилагането на стратегиите на администратора или обработващия лични данни по отношение на защитата на личните данни, включително възлагането на отговорности, обучаването на персонала, участващ в операциите по обработване, и свързаните с това одити;"
+		},
+		{
+			"lang": "hu",
+			"text": "a személyes adatok védelmével kapcsolatos adatkezelői vagy -feldolgozói politikák végrehajtásának és alkalmazásának ellenőrzése, ideértve a feladatok kijelölését, az adatfeldolgozási műveletekben résztvevő személyzet képzését és az ehhez kapcsolódó ellenőrzéseket is;"
+		},
+		{
+			"lang": "mt",
+			"text": "jissorvelja l-implimentazzjoni u l-applikazzjoni tal-politiki tal-kontrollur jew tal-proċessur fir-rigward tal-protezzjoni tad-dejta personali, inklużi l-assenjazzjoni tar-responsabbiltajiet, it-taħriġ tal-persunal involut fl-operazzjonijiet ta’ pproċessar tal-operazzjonijiet, u l-verifiki relatati;"
+		},
+		{
+			"lang": "lv",
+			"text": "uzraudzīt pārziņa vai apstrādātāja vadlīniju īstenošanu un piemērošanu saistībā ar personas datu aizsardzību, ietverot arī pienākumu sadali, apstrādes darbībās iesaistīto darbinieku mācības un ar to saistītas revīzijas;"
+		},
+		{
+			"lang": "ro",
+			"text": "monitorizarea aplicării politicilor operatorului sau ale persoanei împuternicite de către operator în ceea ce privește protecția datelor cu caracter personal, inclusiv alocarea responsabilităților, formarea personalului implicat în operațiunile de prelucrare și auditurile aferente;"
+		},
+		{
+			"lang": "sk",
+			"text": "monitorovanie zavádzania a uplatňovania pravidiel prevádzkovateľa a sprostredkovateľa v súvislosti s ochranou osobných údajov vrátane rozdelenia povinností, odbornej prípravy zamestnancov zapojených do operácií spracúvania a súvisiacich auditov;"
+		},
+		{
+			"lang": "sl",
+			"text": "spremljanje izvajanja in uporabe politik upravljavca ali obdelovalca v zvezi z varstvom osebnih podatkov, vključno z dodeljevanjem nalog, usposabljanjem uslužbencev, vključenih v postopke obdelave, in s tem povezanimi revizijami;"
+		},
+		{
+			"lang": "fi",
+			"text": "seurata rekisterinpitäjän tai henkilötietojen käsittelijän henkilötietojen suojaan liittyvien toimintamenetelmien täytäntöönpanoa ja soveltamista, kuten vastuunjakoa, käsittelyyn osallistuvan henkilöstön koulutusta ja tarkastuksia;"
+		},
+		{
+			"lang": "pl",
+			"text": "monitorowanie wykonania i stosowania polityk administratora lub podmiotu przetwarzającego w zakresie ochrony danych osobowych, w tym przydział obowiązków, szkolenie personelu zaangażowanego w operacje przetwarzania oraz powiązane kontrole;"
+		},
+		{
+			"lang": "lt",
+			"text": "stebėti su asmens duomenų apsauga susijusios duomenų valdytojo arba duomenų tvarkytojo veiklos nuostatų įgyvendinimą ir taikymą, įskaitant atsakomybės priskyrimą, duomenų tvarkymo operacijose dalyvaujančių darbuotojų mokymą ir susijusius auditus;"
+		},
+		{
+			"lang": "nl",
+			"text": "het toezien op de uitvoering en toepassing van het beleid van de voor de verwerking verantwoordelijke of de verwerker met betrekking tot de bescherming van persoonsgegevens, met inbegrip van de toewijzing van verantwoordelijkheden, de opleiding van het bij de verwerking betrokken personeel en de betreffende audits;"
+		},
+		{
+			"lang": "sv",
+			"text": "Att övervaka genomförandet och tillämpningen av den registeransvariges eller registerförarens policy för skydd av personuppgifter, inbegripet ansvarstilldelning, utbildning av personal som deltar i behandlingen och tillhörande granskning."
+		}
+	],
+	"children": [],
+	"title": "Article 37 – Paragraph 1 – Point 2"
+}

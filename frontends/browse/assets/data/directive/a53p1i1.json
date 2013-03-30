@@ -1,0 +1,102 @@
+{
+	"id": "a53p1i1",
+	"type": "point",
+	"literal": "a",
+	"parent": "a53p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "to notify the controller or the processor of an alleged breach of the provisions governing the processing of personal data, and, where appropriate, order the controller or the processor to remedy that breach, in a specific manner, in order to improve the protection of the data subject;"
+		},
+		{
+			"lang": "de",
+			"text": "den für die Verarbeitung Verantwortlichen oder den Auftragsverarbeiter auf einen behaupteten Verstoß gegen die Vorschriften zum Schutz personenbezogener Daten hinzuweisen und ihn gegebenenfalls anzuweisen, diesem Verstoß in einer bestimmten Weise abzuhelfen, um den Schutz der betroffenen Person zu verbessern,"
+		},
+		{
+			"lang": "fr",
+			"text": "d'informer le responsable du traitement ou le sous‑traitant d'une violation alléguée des dispositions régissant le traitement des données à caractère personnel et, le cas échéant, d’ordonner au responsable du traitement ou au sous‑traitant de remédier à cette violation par des mesures déterminées, afin d'améliorer la protection de la personne concernée;"
+		},
+		{
+			"lang": "es",
+			"text": "notificar al responsable o al encargado del tratamiento una presunta violación de las disposiciones que rigen el tratamiento de datos personales y, cuando proceda, ordenar al responsable o al encargado que subsanen dicha violación, de manera específica, con el fin de mejorar la protección del interesado;"
+		},
+		{
+			"lang": "pt",
+			"text": "Notificar o responsável pelo tratamento ou o subcontratante de uma alegada violação das disposições que regulam o tratamento de dados pessoais e, se for caso disso, ordenar que o responsável pelo tratamento ou o subcontratante sanem essa violação, através de medidas específicas, a fim de melhorar a proteção do titular dos dados;"
+		},
+		{
+			"lang": "it",
+			"text": "notificare al responsabile del trattamento o all’incaricato del trattamento le asserite violazioni delle disposizioni sul trattamento dei dati personali e, all’occorrenza, ingiungere al responsabile del trattamento o all’incaricato del trattamento di porre rimedio alle violazioni con misure specifiche, al fine di migliorare la protezione degli interessati;"
+		},
+		{
+			"lang": "ga",
+			"text": "fógra a thabhairt don rialaitheoir nó don phróiseálaí faoi shárú líomhnaithe ar na forálacha lena rialaítear próiseáil sonraí pearsanta, agus, nuair is iomchuí, ordú a thabhairt ar bhealach sonrach don rialaitheoir nó don phróiseálaí an sárú sin a leigheas chun an chosaint don duine is ábhar do na sonraí a chosaint;"
+		},
+		{
+			"lang": "cs",
+			"text": "oznamovat správci nebo zpracovateli případy údajného porušení ustanovení o zpracovávání osobních údajů a v příslušných případech jim nařizovat, aby taková porušení konkrétním způsobem napravili v zájmu zlepšení ochrany subjektů údajů;"
+		},
+		{
+			"lang": "da",
+			"text": "til at underrette den registeransvarlige eller registerføreren om en påstået overtrædelse af bestemmelserne om behandling af personoplysninger og i givet fald give den registeransvarlige eller registerføreren påbud om at råde bod på overtrædelsen og forbedre beskyttelsen af den registrerede"
+		},
+		{
+			"lang": "et",
+			"text": "teavitada vastutavat töötlejat või volitatud töötlejat isikuandmete töötlemist reguleerivate sätete väidetavast rikkumisest ja vajaduse korral käskida vastutaval töötlejal või volitatud töötlejal rikkumine kindlal viisil kõrvaldada, et parandada andmesubjekti kaitset;"
+		},
+		{
+			"lang": "el",
+			"text": "α) να ειδοποιεί τον υπεύθυνο επεξεργασίας ή τον εκτελούντα τον επεξεργασία για εικαζόμενη παραβίαση των διατάξεων που ρυθμίζουν την επεξεργασία δεδομένων προσωπικού χαρακτήρα και, εφόσον συντρέχει περίπτωση, να δίνει εντολή στον υπεύθυνο επεξεργασίας ή στον εκτελούντα την επεξεργασία να επανορθώσει την εν λόγω παραβίαση, με συγκεκριμένο τρόπο, με σκοπό τη βελτίωση της προστασίας του προσώπου στο οποίο αναφέρονται τα δεδομένα·"
+		},
+		{
+			"lang": "bg",
+			"text": "а) да уведомява администратора или обработващия лични данни за предполагаемо нарушение на разпоредбите, уреждащи обработването на лични данни, и при необходимост да разпорежда на администратора или обработващия лични данни да отстрани това нарушение по конкретен начин, за да се подобри защитата на субекта на данни;"
+		},
+		{
+			"lang": "hu",
+			"text": "a személyesadat-feldolgozást szabályozó rendelkezések állítólagos megsértése esetén értesítse az adatkezelőt vagy az adatfeldolgozót, és szükség esetén felhívja az adatkezelőt vagy -feldolgozót a rendelkezés megsértésének orvoslására, különös esetben pedig az érintettek védelmének javítására;"
+		},
+		{
+			"lang": "mt",
+			"text": "li tinnotifika lill-kontrollur jew lill-proċessur dwar ksur allegat tad-dispożizzjonijiet li jirregolaw l-ipproċessar tad-dejta personali, u, fejn xieraq, tordna lill-kontrollur jew lill-proċessur li jirrimedja dak il-ksur, b’mod speċifiku, sabiex itejjeb il-protezzjoni tas-suġġett tad-dejta;"
+		},
+		{
+			"lang": "lv",
+			"text": "paziņot pārzinim vai apstrādātājam, ka ir aizdomas par to noteikumu pārkāpumu, kas regulē personas datu apstrādi, un vajadzības gadījumā izdot rīkojumu pārzinim vai apstrādātājam novērst šo pārkāpumu īpašā veidā datu subjektu aizsardzības uzlabošanai;"
+		},
+		{
+			"lang": "ro",
+			"text": "să notifice operatorul sau persoana împuternicită de către operator cu privire la presupusa încălcare a dispozițiilor care reglementează prelucrarea datelor cu caracter personal și, după caz, să dispună remedierea încălcării de către operator sau persoana împuternicită de către operator, în mod specific, pentru îmbunătățirea protecției de care beneficiază persoana vizată;"
+		},
+		{
+			"lang": "sk",
+			"text": "oznamovať prevádzkovateľovi či sprostredkovateľovi domnelé porušenie ustanovení o spracovaní osobných údajov a v prípade potreby prevádzkovateľovi či sprostredkovateľovi nariadiť, aby konkrétnym spôsobom napravili toto porušenie s cieľom zlepšiť ochranu dotknutej osoby;"
+		},
+		{
+			"lang": "sl",
+			"text": "upravljavca ali obdelovalca obvesti o domnevni kršitvi predpisov, ki urejajo obdelavo osebnih podatkov, in po potrebi upravljavcu ali obdelovalcu odredi, da na določen način odpravi to kršitev in tako izboljša varstvo posameznika, na katerega se nanašajo osebni podatki;"
+		},
+		{
+			"lang": "fi",
+			"text": "ilmoittaa rekisterinpitäjälle tai henkilötietojen käsittelijälle henkilötietojen käsittelyä koskevien sääntöjen väitetystä rikkomisesta ja tarvittaessa määrätä rekisterinpitäjä tai henkilötietojen käsittelijä korjaamaan tämä rikkominen määrätyllä tavalla rekisteröidyn suojelun parantamiseksi;"
+		},
+		{
+			"lang": "pl",
+			"text": "zawiadamiania administratora lub podmiotu przetwarzającego o domniemanym naruszeniu przepisów regulujących przetwarzanie danych osobowych, a w stosownych przypadkach, nakazania administratorowi lub podmiotowi przetwarzającemu usunięcia naruszenia w konkretny sposób w celu poprawy ochrony podmiotu danych;"
+		},
+		{
+			"lang": "lt",
+			"text": "pranešti duomenų valdytojui arba duomenų tvarkytojui apie įtariamą nuostatų dėl asmens duomenų tvarkymo pažeidimą ir, kai tinkama, nurodyti duomenų valdytojui arba duomenų tvarkytojui konkrečiomis priemonėmis ištaisyti pažeidimą, siekiant sustiprinti duomenų subjekto apsaugą;"
+		},
+		{
+			"lang": "nl",
+			"text": "de voor de verwerking verantwoordelijke of de verwerker in kennis te stellen van een vermeende inbreuk op de voorschriften inzake de verwerking van persoonsgegevens en, indien nodig, de voor de verwerking verantwoordelijke of de verwerker te gelasten die inbreuk met bepaalde maatregelen ongedaan te maken, teneinde de bescherming van de betrokkene te verbeteren;"
+		},
+		{
+			"lang": "sv",
+			"text": "meddela den registeransvarige eller registerföraren om det finns en påstådd överträdelse av bestämmelserna om behandling av personuppgifter, och om så krävs specifikt beordra den registeransvarige eller registerföraren att komma tillrätta med överträdelsen och därigenom skydda den registrerade,"
+		}
+	],
+	"children": [],
+	"title": "Article 53 – Paragraph 1 – Point 1"
+}

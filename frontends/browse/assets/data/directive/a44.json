@@ -1,0 +1,110 @@
+{
+	"id": "a44",
+	"type": "article",
+	"literal": "44",
+	"parent": "c5",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Derogations"
+		},
+		{
+			"lang": "de",
+			"text": "Ausnahmen"
+		},
+		{
+			"lang": "fr",
+			"text": "Dérogations"
+		},
+		{
+			"lang": "es",
+			"text": "Excepciones"
+		},
+		{
+			"lang": "pt",
+			"text": "Derrogações"
+		},
+		{
+			"lang": "it",
+			"text": "Deroghe"
+		},
+		{
+			"lang": "ga",
+			"text": "Maoluithe"
+		},
+		{
+			"lang": "cs",
+			"text": "Výjimky"
+		},
+		{
+			"lang": "da",
+			"text": "Undtagelser"
+		},
+		{
+			"lang": "et",
+			"text": "Erandid"
+		},
+		{
+			"lang": "el",
+			"text": "Παρεκκλίσεις"
+		},
+		{
+			"lang": "bg",
+			"text": "Дерогации"
+		},
+		{
+			"lang": "hu",
+			"text": "Eltérések"
+		},
+		{
+			"lang": "mt",
+			"text": "Derogi"
+		},
+		{
+			"lang": "lv",
+			"text": "Atkāpes"
+		},
+		{
+			"lang": "ro",
+			"text": "Derogări"
+		},
+		{
+			"lang": "sk",
+			"text": "Odchýlky"
+		},
+		{
+			"lang": "sl",
+			"text": "Odstopanja"
+		},
+		{
+			"lang": "fi",
+			"text": "Poikkeukset"
+		},
+		{
+			"lang": "pl",
+			"text": "Odstępstwa"
+		},
+		{
+			"lang": "lt",
+			"text": "Nukrypti leidžiančios nuostatos"
+		},
+		{
+			"lang": "nl",
+			"text": "Afwijkingen"
+		},
+		{
+			"lang": "sv",
+			"text": "Undantag"
+		}
+	],
+	"children": [
+		"a44p1",
+		"a44p2",
+		"a44p3",
+		"a44p4",
+		"a44p5",
+		"a44p6",
+		"a44p7"
+	],
+	"title": "Article 44"
+}

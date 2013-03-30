@@ -1,0 +1,108 @@
+{
+	"id": "a76",
+	"type": "article",
+	"literal": "76",
+	"parent": "c8",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Common rules for court proceedings"
+		},
+		{
+			"lang": "de",
+			"text": "Gemeinsame Vorschriften für Gerichtsverfahren"
+		},
+		{
+			"lang": "fr",
+			"text": "Règles communes pour les procédures juridictionnelles"
+		},
+		{
+			"lang": "es",
+			"text": "Normas comunes para los procedimientos judiciales"
+		},
+		{
+			"lang": "pt",
+			"text": "Regras comuns para os procedimentos judiciais"
+		},
+		{
+			"lang": "it",
+			"text": "Norme comuni per i procedimenti giurisdizionali"
+		},
+		{
+			"lang": "ga",
+			"text": "Comhrialacha maidir le himeachtaí cúirte"
+		},
+		{
+			"lang": "cs",
+			"text": "Společná pravidla pro soudní řízení"
+		},
+		{
+			"lang": "da",
+			"text": "Fælles regler for retssager"
+		},
+		{
+			"lang": "et",
+			"text": "Kohtumenetluse ühiseeskirjad"
+		},
+		{
+			"lang": "el",
+			"text": "Κοινοί κανόνες για τις δικαστικές διαδικασίες"
+		},
+		{
+			"lang": "bg",
+			"text": "Общи правила за съдебните производства"
+		},
+		{
+			"lang": "hu",
+			"text": "A bírósági eljárásokra vonatkozó közös szabályok"
+		},
+		{
+			"lang": "mt",
+			"text": "Regoli komuni għall-proċeduri tal-qorti"
+		},
+		{
+			"lang": "lv",
+			"text": "Kopējie tiesvedības noteikumi"
+		},
+		{
+			"lang": "ro",
+			"text": "Norme comune aplicabile acțiunilor în instanță"
+		},
+		{
+			"lang": "sk",
+			"text": "Spoločné pravidlá pre súdne konania"
+		},
+		{
+			"lang": "sl",
+			"text": "Splošna pravila za postopke pred sodiščem"
+		},
+		{
+			"lang": "fi",
+			"text": "Tuomioistuinmenettelyjä koskevat yhteiset säännöt"
+		},
+		{
+			"lang": "pl",
+			"text": "Wspólne zasady postępowań sądowych"
+		},
+		{
+			"lang": "lt",
+			"text": "Bendros teismo proceso taisyklės"
+		},
+		{
+			"lang": "nl",
+			"text": "Gemeenschappelijke voorschriften voor beroepen in rechte"
+		},
+		{
+			"lang": "sv",
+			"text": "Gemensamma bestämmelser om domstolsförfaranden"
+		}
+	],
+	"children": [
+		"a76p1",
+		"a76p2",
+		"a76p3",
+		"a76p4",
+		"a76p5"
+	],
+	"title": "Article 76"
+}

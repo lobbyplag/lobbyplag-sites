@@ -1,0 +1,107 @@
+{
+	"id": "a64",
+	"type": "article",
+	"literal": "64",
+	"parent": "c7s3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "European Data Protection Board"
+		},
+		{
+			"lang": "de",
+			"text": "Europäischer Datenschutzausschuss"
+		},
+		{
+			"lang": "fr",
+			"text": "Comité européen de la protection des données"
+		},
+		{
+			"lang": "es",
+			"text": "Consejo Europeo de Protección de Datos"
+		},
+		{
+			"lang": "pt",
+			"text": "Comité Europeu para a Proteção de Dados"
+		},
+		{
+			"lang": "it",
+			"text": "Comitato europeo per la protezione dei dati"
+		},
+		{
+			"lang": "ga",
+			"text": "Bord Eorpach um Chosaint Sonraí"
+		},
+		{
+			"lang": "cs",
+			"text": "Evropská rada pro ochranu údajů"
+		},
+		{
+			"lang": "da",
+			"text": "Det Europæiske Databeskyttelsesråd"
+		},
+		{
+			"lang": "et",
+			"text": "Euroopa Andmekaitsenõukogu"
+		},
+		{
+			"lang": "el",
+			"text": "Ευρωπαϊκό Συμβούλιο Προστασίας Δεδομένων"
+		},
+		{
+			"lang": "bg",
+			"text": "Европейски комитет по защита на данните"
+		},
+		{
+			"lang": "hu",
+			"text": "Az Európai Adatvédelmi Testület"
+		},
+		{
+			"lang": "mt",
+			"text": "Bord Ewropew għall-Protezzjoni tad-Dejta"
+		},
+		{
+			"lang": "lv",
+			"text": "Eiropas datu aizsardzības kolēģija"
+		},
+		{
+			"lang": "ro",
+			"text": "Comitetul european pentru protecția datelor"
+		},
+		{
+			"lang": "sk",
+			"text": "Európsky výbor pre ochranu údajov"
+		},
+		{
+			"lang": "sl",
+			"text": "Evropski odbor za varstvo podatkov"
+		},
+		{
+			"lang": "fi",
+			"text": "Euroopan tietosuojaneuvosto"
+		},
+		{
+			"lang": "pl",
+			"text": "Europejska Rada Ochrony Danych"
+		},
+		{
+			"lang": "lt",
+			"text": "Europos duomenų apsaugos valdyba"
+		},
+		{
+			"lang": "nl",
+			"text": "Europees Comité voor gegevensbescherming"
+		},
+		{
+			"lang": "sv",
+			"text": "Europeiska dataskyddsstyrelsen"
+		}
+	],
+	"children": [
+		"a64p1",
+		"a64p2",
+		"a64p3",
+		"a64p4"
+	],
+	"title": "Article 64"
+}

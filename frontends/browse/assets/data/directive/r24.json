@@ -1,0 +1,102 @@
+{
+	"id": "r24",
+	"type": "recital",
+	"literal": "24",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "When using online services, individuals may be associated with online identifiers provided by their devices, applications, tools and protocols, such as Internet Protocol addresses or cookie identifiers. This may leave traces which, combined with unique identifiers and other information received by the servers, may be used to create profiles of the individuals and identify them. It follows that identification numbers, location data, online identifiers or other specific factors as such need not necessarily be considered as personal data in all circumstances."
+		},
+		{
+			"lang": "de",
+			"text": "Bei der Inanspruchnahme von Online-Diensten werden dem Nutzer unter Umständen Online-Kennungen wie IP-Adressen oder Cookie-Kennungen, die sein Gerät oder Software-Anwendungen und -Tools oder Protokolle liefern, zugeordnet. Dies kann Spuren hinterlassen, die zusammen mit eindeutigen Kennungen und anderen beim Server eingehenden Informationen dazu benutzt werden können, um Profile der betroffenen Personen zu erstellen und sie zu identifizieren. Hieraus folgt, dass Kennnummern, Standortdaten, Online-Kennungen oder sonstige Elemente als solche nicht zwangsläufig und unter allen Umständen als personenbezogene Daten zu betrachten sind."
+		},
+		{
+			"lang": "fr",
+			"text": "Lorsqu'elles utilisent des services en ligne, les personnes physiques se voient associer des identifiants en ligne tels que des adresses IP ou des témoins de connexion («cookies») par les appareils, applications, outils et protocoles utilisés. Ces identifiants peuvent laisser des traces qui, combinées aux identifiants uniques et à d’autres informations reçues par les serveurs, peuvent servir à créer des profils et à identifier les personnes. Il en découle que des numéros d’identification, des données de localisation, des identifiants en ligne ou d’autres éléments spécifiques ne doivent pas nécessairement être considérés, en soi, comme des données à caractère personnel dans tous les cas de figure."
+		},
+		{
+			"lang": "es",
+			"text": "Cuando utilizan servicios en línea, las personas físicas pueden ser asociadas a identificadores en línea facilitados por sus dispositivos, aplicaciones, herramientas y protocolos, como las direcciones de los protocolos de internet o los identificadores de sesión almacenados en cookies. Ello puede dejar huellas que, combinadas con identificadores únicos y otros datos recibidos por los servidores, pueden ser utilizadas para elaborar perfiles de las personas e identificarlas. De ello se deduce que los números de identificación, los datos de localización, los identificadores en línea u otros factores específicos no necesariamente tienen que ser considerados datos de carácter personal en toda circunstancia."
+		},
+		{
+			"lang": "pt",
+			"text": "Ao utilizarem os serviços em linha, as pessoas singulares podem ser associadas a identificadores em linha, fornecidos pelos respetivos aparelhos, aplicações, ferramentas e protocolos, tais como endereços IP (Protocolo Internet) ou testemunhos de conexão (cookie). Estes identificadores podem deixar vestígios que, em combinação com identificadores únicos e outras informações recebidas pelos servidores, podem ser utilizadas para a definição de perfis e a identificação das pessoas. Daí decorre que números de identificação, dados de localização, identificadores em linha ou outros elementos específicos não devem ser necessariamente considerados como dados pessoais em todas as circunstâncias."
+		},
+		{
+			"lang": "it",
+			"text": "Navigando on line, accade che si sia associati a identificativi on line prodotti dai dispositivi, dalle applicazioni, dagli strumenti e protocolli utilizzati, quali gli indirizzi IP o i marcatori temporanei (cookies). Tali identificativi possono lasciare tracce che, combinate con altri identificativi univoci e altre informazioni ricevute dai server, possono essere utilizzate per creare profili e identificare gli utenti. Ne consegue che numeri di identificazione, dati relativi all’ubicazione, identificativi on line o altri fattori specifici non debbano di per sé essere necessariamente considerati dati personali in tutte le circostanze."
+		},
+		{
+			"lang": "ga",
+			"text": "Nuair a úsáideann daoine aonair seirbhísí ar líne féadfar na daoine sin a chomhcheangal le haitheantóirí ar líne cosúil le seoltaí prótacal idirlín nó aitheantóirí fianán (“cookies”), trí na gléasanna, feidhmchláir, uirlisí agus prótacail atá in úsáid acu. D’fhéadfadh sé go bhfágfadh sin loirg a d’fhéadfaí a úsáid, in éineacht le haitheantóirí uathúla agus le faisnéis eile a fhaigheann na freastalaithe, chun próifílí a chruthú de na daoine aonair agus chun iad a shainaithint. Fágann sé sin nach gá uimhreacha aitheantais, sonraí suímh, aitheantóirí ar líne nó fachtóirí sonracha eile a mheas mar shonraí pearsanta i ngach cúinse."
+		},
+		{
+			"lang": "cs",
+			"text": "Při využívání on-line služeb mohou být uživateli přiřazeny elektronické identifikátory, jako jsou adresy internetového protokolu nebo identifikátory cookies, které používají jeho zařízení, aplikace, nástroje a protokoly. To může zanechávat stopy, které mohou být spolu s jedinečnými identifikátory a dalšími informacemi, které servery získávají, použity k vytvoření profilů jednotlivých osob a k jejich identifikaci. Z toho vyplývá, že identifikační čísla, lokalizační údaje, elektronické identifikátory nebo jiné specifické prvky jako takové nemusejí být nezbytně za všech okolností považovány za osobní údaje."
+		},
+		{
+			"lang": "da",
+			"text": "Når fysiske personer bruger onlinetjenester, kan de forbindes med online­identifikatorer, som leveres af deres enheder, applikationer, værktøjer og protokoller, som f.eks. IP-adresser eller cookie-id'er. Dette kan efterlade spor, der kombineret med unikke id'er og andre oplysninger, som serverne modtager, kan bruges til at oprette profiler af de fysiske personer og identificere dem. Id-numre, lokaliseringsdata, online-id'er eller andre specifikke faktorer bør derfor ikke som sådan betragtes som personoplysninger under alle omstændigheder."
+		},
+		{
+			"lang": "et",
+			"text": "Sidusteenuste kasutamisel võib üksikisikut seostada tema seadmete, rakenduste, tööriistade ja protokollide jagatavate veebiidentifikaatoritega, näiteks IP-aadresside või küpsistega. See võib jätta jälgi, mida kombineeritult serveritesse saabuvate kordumatute identifikaatoritega ja muu teabega võidakse kasutada üksikisikute profileerimiseks ja nende tuvastamiseks. Sellest järeldub, et identifitseerimisnumbreid, asukohaandmeid, veebiidentifikaatoreid ja muid konkreetseid tegureid ei ole iseenesest tingimata vaja pidada isikuandmeteks."
+		},
+		{
+			"lang": "el",
+			"text": "Όταν χρησιμοποιούν επιγραμμικές υπηρεσίες, τα φυσικά πρόσωπα μπορεί να συνδέονται με επιγραμμικά αναγνωριστικά ταυτότητας, τα οποία παρέχονται από τις συσκευές, τις εφαρμογές, τα εργαλεία και τα πρωτόκολλά τους, όπως διευθύνσεις πρωτοκόλλου Ίντερνετ ή αναγνωριστικά cookies. Αυτά μπορεί να αφήνουν ίχνη τα οποία, σε συνδυασμό με μοναδικά αναγνωριστικά ταυτότητας και άλλες πληροφορίες που λαμβάνουν οι εξυπηρετητές, μπορούν να χρησιμοποιηθούν για τη δημιουργία προφίλ των φυσικών προσώπων και την αναγνώριση της ταυτότητάς τους. Επομένως, αναγνωριστικοί αριθμοί, δεδομένα θέσης, επιγραμμικά αναγνωριστικά ταυτότητας ή άλλοι ειδικοί τέτοιοι παράγοντες δεν είναι υποχρεωτικό να θεωρούνται σε κάθε περίπτωση δεδομένα προσωπικού χαρακτήρα."
+		},
+		{
+			"lang": "bg",
+			"text": "При използването на онлайн услуги физическите лица могат да са свързани с онлайн идентификатори, предоставени от техните устройства, приложения, инструменти и протоколи, като адресите по интернет протокол (IP адреси) или идентификаторите, наричани „бисквитки“. По този начин могат да бъдат оставени следи, които, съчетани с уникалните идентификатори и с друга информация, получена от сървърите, могат да се използват за създаването на профили на физическите лица и за тяхното идентифициране. От това следва, че идентификационните номера, данните за местоположението, онлайн идентификаторите или други специфични фактори като такива не е трябва непременно да се считат за лични данни при всички обстоятелства."
+		},
+		{
+			"lang": "hu",
+			"text": "Az online szolgáltatások igénybe vétele során az egyének a berendezéseik, alkalmazásaik, eszközeik és szabványos protokolljaik által rendelkezésre bocsátott online azonosítókhoz kapcsolódnak, mint például az IP-cím vagy a cookie-azonosítók. Mivel ez olyan nyomokat hagy maga után, amely az egyedi azonosítókkal és a szerverek által fogadott egyéb információkkal együtt felhasználható az egyének profiljának létrehozásához és az azonosításukhoz. Ebből következik, hogy az azonosítószámokat, tartózkodási helyre utaló adatokat, online azonosítókat vagy egyéb sajátos tényezőket nem szükségképpen kell minden körülmények között személyes adatnak tekinteni."
+		},
+		{
+			"lang": "mt",
+			"text": "Meta jużaw is-servizzi onlajn, l-individwi jistgħu jiġu assoċjati ma’ identifikaturi onlajn ipprovduti mill-apparat, l-applikazzjonijiet, l-għodod u l-protokolli tagħhom, bħal indirizzi tal-Protokoll tal-Internet jew identifikaturi tal-cookies. Dan jista’ jħalli traċċi li, flimkien ma’ identifikaturi uniċi u informazzjoni oħra li jirċievu s-servers, jistgħu jintużaw sabiex jinħolqu profili tal-individwi u jidentifikawhom, dan ir-Regolament għandu japplika għall-ipproċessar li jinvolvi dejta bħal din. Minn dan isegwi li n-numri ta’ identifikazzjoni, id-dejta ta’ lokazzjoni, l-identifikaturi onlajn jew fatturi speċifiċi oħra bħala tali ma għandhomx bżonn neċessajament li jiġu kkunsidrati bħala dejta personali fiċ-ċirkostanzi kollha."
+		},
+		{
+			"lang": "lv",
+			"text": "Izmantojot tiešsaistes pakalpojumus, fiziskām personām var piešķirt tiešsaistes identifikatorus, ko izmanto viņu ierīces, lietojumprogrammas, rīki un protokoli, kā piemēram interneta protokola adreses vai sīkdatņu identifikatori. Tādējādi iespējams tiek atstātas pēdas, ko savienojumā ar unikāliem identifikatoriem vai citu informāciju, ko saņem serveri, var izmantot, lai veidotu fizisku personu profilus un tos identificētu. No tā var secināt, ka identifikācijas numurus, atrašanās vietas datus, tiešsaistes identifikatorus vai citus īpašus faktorus pašus par sevi ne vienmēr vajag uzskatīt par personas datiem."
+		},
+		{
+			"lang": "ro",
+			"text": "Atunci când utilizează servicii online, persoanele fizice pot fi asociate cu identificatorii online furnizați de dispozitivele, aplicațiile, instrumentele și protocoalele lor, cum ar fi adresele IP sau identificatorii cookie. Aceștia pot lăsa urme care, combinate cu identificatorii unici și alte informații primite de servere, pot fi utilizate pentru crearea de profiluri ale persoanelor fizice și pentru identificarea lor. Prin urmare, numerele de identificare, datele de localizare, identificatorii online sau alți factori specifici nu trebuie neapărat să fie considerați ca atare date cu caracter personal în toate circumstanțele."
+		},
+		{
+			"lang": "sk",
+			"text": "Pri používaní online služieb môžu byť fyzickým osobám pridelené online identifikátory, ktoré sú generované prístrojmi, aplikáciami, nástrojmi a protokolmi, ako je IP adresa alebo cookies týchto služieb. Tieto môžu zanechávať stopy, ktoré môžu byť v kombinácii s jedinečnými identifikátormi a inými informáciami získanými zo serverov použité na vytvorenie profilov fyzických osôb a na ich identifikáciu. Vyplýva z toho, že identifikačné čísla, lokalizačné údaje, online identifikátory alebo iné osobitné faktory nemusia byť nutne ako také pokladané za všetkých okolností za osobné údaje."
+		},
+		{
+			"lang": "sl",
+			"text": "Pri uporabi spletnih storitev so lahko posamezniki povezani s spletnimi identifikatorji, ki jih zagotovijo njihove naprave, aplikacije, orodja in protokoli, kot so naslovi internetnega protokola ali identifikatorji piškotkov. To lahko pusti sledi, ki se lahko skupaj z edinstvenimi identifikatorji in drugimi informacijami, ki jih prejmejo strežniki, uporabijo za oblikovanje profilov posameznikov in njihovo identifikacijo. Iz tega sledi, da identifikacijskih številk, podatkov o lokaciji, spletnih identifikatorjev ali drugih posebnih dejavnikov ni treba vedno šteti za osebne podatke v vseh okoliščinah."
+		},
+		{
+			"lang": "fi",
+			"text": "Verkkopalvelujen käyttäjät voidaan yhdistää heidän käyttämiensä laitteiden, sovellusten, työkalujen ja protokollien internet-tunnisteisiin, kuten IP-osoitteisiin tai evästeisiin. Näin käyttäjästä voi jäädä jälkiä, joita voidaan käyttää yhdessä ainutlaatuisten tunnisteiden ja muiden palvelimille toimitettujen tietojen avulla käyttäjien profilointiin ja tunnistamiseen. Tästä seuraa, että tunnistenumeroita, sijaintitietoja, internet-tunnisteita tai muita erityistekijöitä ei sinänsä tarvitse pitää henkilötietoina kaikissa tilanteissa."
+		},
+		{
+			"lang": "pl",
+			"text": "Osoby fizyczne korzystające z usług internetowych można identyfikować na podstawie identyfikatorów internetowych, które znajdują się w urządzeniach, aplikacjach, narzędziach i protokołach, takich jak adresy IP lub identyfikatory plików cookie. Mogą one zostawiać ślady, które, w połączeniu z unikatowymi identyfikatorami i innymi informacjami uzyskanymi przez serwery, mogą być wykorzystywane do tworzenia profili poszczególnych osób i ich identyfikacji. W wyniku tego numery identyfikacyjne, dane dotyczące lokalizacji, identyfikatory internetowe lub inne szczególne czynniki jako takie niekonieczne muszą być uważane za dane osobowe w każdych okolicznościach."
+		},
+		{
+			"lang": "lt",
+			"text": "naudodamiesi interneto paslaugomis, asmenys gali būti susieti su savo įrenginių, programų, priemonių ir protokolų interneto identifikatoriais, pavyzdžiui interneto protokolo adresais arba slapukų identifikatoriais. Taip gali likti pėdsakų, kurie kartu su unikaliu identifikatoriumi ir kita serverio gauta informacija gali būti panaudoti asmenų profiliams kurti ir jiems identifikuoti. Todėl asmens identifikavimo numeris, vietos nustatymo duomenys, interneto identifikatoriai ar kiti specifiniai požymiai patys savaime nebūtinai visomis aplinkybėmis turi būti laikomi asmens duomenimis;"
+		},
+		{
+			"lang": "nl",
+			"text": "Bij het gebruik van onlinediensten kunnen natuurlijke personen worden gekoppeld aan online-identificatiemiddelen via hun apparatuur, applicaties, instrumenten en protocollen, zoals internetprotocol (IP)-adressen en identificatiecookies. Dit kan sporen achterlaten die, in combinatie met unieke identificatoren en andere door de servers ontvangen informatie, kunnen worden gebruikt om profielen op te stellen van personen en personen te herkennen. Identificatienummers, locatiegegevens, online-identificatiemiddelen en andere specifieke factoren hoeven dus niet onder alle omstandigheden als persoonsgegevens te worden beschouwd."
+		},
+		{
+			"lang": "sv",
+			"text": "Vid användning av nättjänster kan enskilda personer knytas till nätidentifierare som lämnas av deras utrustning, applikationer, verktyg och protokoll, t.ex. ip-adresser eller kakor. Detta kan efterlämna spår som i kombination med unika identifierare och andra uppgifter som tas emot av servrarna kan användas för att skapa profiler för enskilda personer och identifiera dem. Således utgör inte alltid identifieringsnummer, lokaliseringsuppgifter, nätidentifierare eller andra särskilda uppgifter i sig nödvändigtvis personuppgifter."
+		}
+	],
+	"children": [],
+	"title": "Recital 24"
+}

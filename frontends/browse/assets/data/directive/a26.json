@@ -1,0 +1,108 @@
+{
+	"id": "a26",
+	"type": "article",
+	"literal": "26",
+	"parent": "c4s1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Processor"
+		},
+		{
+			"lang": "de",
+			"text": "Auftragsverarbeiter"
+		},
+		{
+			"lang": "fr",
+			"text": "Sous‑traitant"
+		},
+		{
+			"lang": "es",
+			"text": "Encargado del tratamiento"
+		},
+		{
+			"lang": "pt",
+			"text": "Subcontratante"
+		},
+		{
+			"lang": "it",
+			"text": "Incaricato del trattamento"
+		},
+		{
+			"lang": "ga",
+			"text": "Próiseálaí"
+		},
+		{
+			"lang": "cs",
+			"text": "Zpracovatel"
+		},
+		{
+			"lang": "da",
+			"text": "Registerfører"
+		},
+		{
+			"lang": "et",
+			"text": "Volitatud töötleja"
+		},
+		{
+			"lang": "el",
+			"text": "Εκτελών την επεξεργασία"
+		},
+		{
+			"lang": "bg",
+			"text": "Обработващ лични данни"
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatfeldolgozó"
+		},
+		{
+			"lang": "mt",
+			"text": "Proċessur"
+		},
+		{
+			"lang": "lv",
+			"text": "Apstrādātājs"
+		},
+		{
+			"lang": "ro",
+			"text": "Persoana împuternicită de către operator"
+		},
+		{
+			"lang": "sk",
+			"text": "Sprostredkovateľ"
+		},
+		{
+			"lang": "sl",
+			"text": "Obdelovalec"
+		},
+		{
+			"lang": "fi",
+			"text": "Henkilötietojen käsittelijä"
+		},
+		{
+			"lang": "pl",
+			"text": "Podmiot przetwarzający"
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų tvarkytojas"
+		},
+		{
+			"lang": "nl",
+			"text": "Verwerker"
+		},
+		{
+			"lang": "sv",
+			"text": "Registerförare"
+		}
+	],
+	"children": [
+		"a26p1",
+		"a26p2",
+		"a26p3",
+		"a26p4",
+		"a26p5"
+	],
+	"title": "Article 26"
+}

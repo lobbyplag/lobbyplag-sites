@@ -1,0 +1,107 @@
+{
+	"id": "a17p4",
+	"type": "paragraph",
+	"literal": "4",
+	"parent": "a17",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Instead of erasure, the controller shall restrict processing of personal data where:"
+		},
+		{
+			"lang": "de",
+			"text": "Anstatt die personenbezogenen Daten zu löschen, kann der für die Verarbeitung Verantwortliche deren Verarbeitung beschränken, wenn"
+		},
+		{
+			"lang": "fr",
+			"text": "Au lieu de procéder à l'effacement, le responsable du traitement limite le traitement de données à caractère personnel:"
+		},
+		{
+			"lang": "es",
+			"text": "En lugar de proceder a la supresión, el responsable del tratamiento limitará el tratamiento de datos personales cuando:"
+		},
+		{
+			"lang": "pt",
+			"text": "Em vez de proceder ao apagamento, o responsável pelo tratamento deve restringir o tratamento de dados pessoais sempre que:"
+		},
+		{
+			"lang": "it",
+			"text": "Invece di provvedere alla cancellazione, il responsabile del trattamento limita il trattamento dei dati personali:"
+		},
+		{
+			"lang": "ga",
+			"text": "In áit na sonraí a scriosadh, cuirfidh an rialaitheoir srian le próiseáil sonraí pearsanta sna cásanna seo a leanas:"
+		},
+		{
+			"lang": "cs",
+			"text": "Namísto vymazání osobních údajů může správce omezit jejich zpracování, pokud:"
+		},
+		{
+			"lang": "da",
+			"text": "I stedet for sletning begrænser den registeransvarlige behandlingen af personoplysninger, hvis:"
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja piirab isikuandmete töötlemist nende kustutamise asemel, kui:"
+		},
+		{
+			"lang": "el",
+			"text": "Αντί της διαγραφής, ο υπεύθυνος επεξεργασίας περιορίζει την επεξεργασία δεδομένων προσωπικού χαρακτήρα, εάν:"
+		},
+		{
+			"lang": "bg",
+			"text": "Вместо да заличи личните данни, администраторът ограничава обработването им, когато:"
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő a személyes adatok törlése helyett korlátozza azok feldolgozását, ha:"
+		},
+		{
+			"lang": "mt",
+			"text": "Minflok it-tħassir, il-kontrollur għandu jillimita l-ipproċessar ta’ dejta personali meta:"
+		},
+		{
+			"lang": "lv",
+			"text": "Dzēšanas vietā pārzinis ierobežo personas datu apstrādi, ja:"
+		},
+		{
+			"lang": "ro",
+			"text": "În loc să le șteargă, operatorul limitează prelucrarea datelor cu caracter personal în cazul în care:"
+		},
+		{
+			"lang": "sk",
+			"text": "Namiesto výmazu prevádzkovateľ obmedzí spracovanie osobných údajov v prípade, že:"
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec namesto izbrisa obdelavo osebnih podatkov omeji, kadar:"
+		},
+		{
+			"lang": "fi",
+			"text": "Tietojen poistamisen sijasta rekisterinpitäjän on rajoitettava niiden käsittelyä, jos"
+		},
+		{
+			"lang": "pl",
+			"text": "Zamiast usuwania, administrator ogranicza przetwarzanie danych osobowych, jeśli:"
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas asmens duomenų neištrina, o apriboja jų tvarkymą, jeigu:"
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke beperkt de verwerking van persoonsgegevens in plaats van deze te wissen wanneer:"
+		},
+		{
+			"lang": "sv",
+			"text": "Istället för radering ska den registeransvarige begränsa behandlingen av personuppgifter om"
+		}
+	],
+	"children": [
+		"a17p4i1",
+		"a17p4i2",
+		"a17p4i3",
+		"a17p4i4"
+	],
+	"title": "Article 17 – Paragraph 4"
+}

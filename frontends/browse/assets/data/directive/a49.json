@@ -1,0 +1,111 @@
+{
+	"id": "a49",
+	"type": "article",
+	"literal": "49",
+	"parent": "c6s1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Rules on the establishment of the supervisory authority"
+		},
+		{
+			"lang": "de",
+			"text": "Errichtung der Aufsichtsbehörde"
+		},
+		{
+			"lang": "fr",
+			"text": "Règles relatives à l'établissement de l'autorité de contrôle"
+		},
+		{
+			"lang": "es",
+			"text": "Normas relativas al establecimiento de la autoridad de control"
+		},
+		{
+			"lang": "pt",
+			"text": "Regras relativas à constituição da autoridade de controlo"
+		},
+		{
+			"lang": "it",
+			"text": "Norme sull’istituzione dell’autorità di controllo"
+		},
+		{
+			"lang": "ga",
+			"text": "Rialacha maidir leis an údarás maoirseachta a bhunú"
+		},
+		{
+			"lang": "cs",
+			"text": "Pravidla pro zřízení orgánu dozoru"
+		},
+		{
+			"lang": "da",
+			"text": "Regler om oprettelse af tilsynsmyndigheden"
+		},
+		{
+			"lang": "et",
+			"text": "Järelevalveasutuse loomise eeskirjad"
+		},
+		{
+			"lang": "el",
+			"text": "Κανόνες για τη σύσταση της αρχής ελέγχου"
+		},
+		{
+			"lang": "bg",
+			"text": "Правила за създаването на надзорния орган"
+		},
+		{
+			"lang": "hu",
+			"text": "A felügyelő hatóság létrehozására vonatkozó szabályok"
+		},
+		{
+			"lang": "mt",
+			"text": "Regoli dwar l-istabbiliment tal-awtorità ta’ superviżjoni"
+		},
+		{
+			"lang": "lv",
+			"text": "Noteikumi uzraudzības iestādes izveidei"
+		},
+		{
+			"lang": "ro",
+			"text": "Norme privind instituirea autorității de supraveghere"
+		},
+		{
+			"lang": "sk",
+			"text": "Pravidlá zriaďovania dozorného orgánu"
+		},
+		{
+			"lang": "sl",
+			"text": "Pravila o ustanovitvi nadzornega organa"
+		},
+		{
+			"lang": "fi",
+			"text": "Valvontaviranomaisen perustamista koskevat säännöt"
+		},
+		{
+			"lang": "pl",
+			"text": "Zasady dotyczące ustanowienia organu nadzorczego"
+		},
+		{
+			"lang": "lt",
+			"text": "Priežiūros institucijos įsteigimo taisyklės"
+		},
+		{
+			"lang": "nl",
+			"text": "Oprichting van de toezichthoudende autoriteit"
+		},
+		{
+			"lang": "sv",
+			"text": "Regler för inrättandet av en tillsynsmyndighet"
+		}
+	],
+	"children": [
+		"a49t1",
+		"a49i1",
+		"a49i2",
+		"a49i3",
+		"a49i4",
+		"a49i5",
+		"a49i6",
+		"a49i7"
+	],
+	"title": "Article 49"
+}

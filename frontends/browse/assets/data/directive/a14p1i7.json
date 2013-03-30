@@ -1,0 +1,102 @@
+{
+	"id": "a14p1i7",
+	"type": "point",
+	"literal": "g",
+	"parent": "a14p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "where applicable, that the controller intends to transfer to a third country or international organisation and on the level of protection afforded by that third country or international organisation by reference to an adequacy decision by the Commission;"
+		},
+		{
+			"lang": "de",
+			"text": "gegebenenfalls die Absicht des für die Verarbeitung Verantwortlichen, die Daten an ein Drittland oder eine internationale Organisation zu übermitteln, sowie das dort geltende Datenschutzniveau unter Bezugnahme auf einen Angemessenheitsbeschluss der Kommission,"
+		},
+		{
+			"lang": "fr",
+			"text": "le cas échéant, son intention d'effectuer un transfert vers un pays tiers ou à une organisation internationale, et le niveau de protection offert par le pays tiers ou l'organisation internationale en question, par référence à une décision relative au caractère adéquat du niveau de protection rendue par la Commission;"
+		},
+		{
+			"lang": "es",
+			"text": "cuando proceda, la intención del responsable del tratamiento de efectuar una transferencia a un tercer país u organización internacional, y el nivel de protección ofrecido por dicho tercer país u organización internacional, con referencia a una decisión de adecuación por parte de la Comisión;"
+		},
+		{
+			"lang": "pt",
+			"text": "Se for caso disso, a intenção de o responsável pelo tratamento transferir os dados para um país terceiro ou uma organização internacional, e o nível de proteção assegurado por esse país terceiro ou organização internacional, em referência a uma decisão sobre o nível de proteção adequado adotada pela Comissão;"
+		},
+		{
+			"lang": "it",
+			"text": "se del caso, l’intenzione del responsabile del trattamento di trasferire dati personali a un paese terzo o a un’organizzazione internazionale e il livello di protezione garantito dal paese terzo o organizzazione internazionale, richiamando una decisione di adeguatezza della Commissione;"
+		},
+		{
+			"lang": "ga",
+			"text": "nuair is infheidhme, cuirfidh an rialaitheoir é ar an eolas go bhfuil sé beartaithe ag an rialaitheoir na sonraí pearsanta a aistriú chuig tríú tír nó chuig eagraíocht idirnáisiúnta, agus cuirfidh sé é ar an eolas faoin leibhéal cosanta a bhfuil foráil déanta ina leith ag an tríú tír nó ag an eagraíocht idirnáisiúnta sin, trí thagairt a dhéanamh do chinneadh ón gCoimisiún maidir le cosaint leordhóthanach;"
+		},
+		{
+			"lang": "cs",
+			"text": "v případě potřeby uvést, že správce hodlá předat údaje do třetí země nebo mezinárodní organizaci a informaci o úrovni ochrany poskytované touto třetí zemí nebo mezinárodní organizací s odkazem na rozhodnutí Komise o přiměřenosti;"
+		},
+		{
+			"lang": "da",
+			"text": "såfremt den registeransvarlige agter at videregive personoplysninger til et tredjeland eller en international organisation, oplysninger om det beskyttelses­niveau, som det pågældende tredjeland eller den pågældende internationale organisation har, med henvisning til Kommissionens afgørelse om tilstrækkeligheden af beskyttelsesniveauet"
+		},
+		{
+			"lang": "et",
+			"text": "vajaduse korral selle, et vastutav töötleja kavatseb edastada isikuandmed kolmandasse riiki või rahvusvahelisele organisatsioonile, ning isikuandmete kaitse taseme kolmandas riigis või rahvusvahelises organisatsioonis, osutades piisavat kaitset käsitlevale komisjoni otsusele;"
+		},
+		{
+			"lang": "el",
+			"text": "ζ) όπου συντρέχει περίπτωση, ότι ο υπεύθυνος επεξεργασίας προτίθεται να διαβιβάσει τα δεδομένα σε τρίτη χώρα ή διεθνή οργανισμό και το επίπεδο προστασίας που παρέχει η εν λόγω τρίτη χώρα ή ο διεθνής οργανισμός διά παραπομπής σε απόφαση περί επάρκειας της Επιτροπής·"
+		},
+		{
+			"lang": "bg",
+			"text": "ж) когато е приложимо, информация че администраторът възнамерява да предаде данните на трета държава или на международна организация, както и информация за нивото на защита, осигурено от тази трета държава или международна организация, с позоваване на решението на Комисията относно адекватността;"
+		},
+		{
+			"lang": "hu",
+			"text": "az adatkezelő harmadik országba vagy nemzetközi szervezet részére történő adattovábbítási szándéka esetén az e harmadik ország vagy nemzetközi szervezet által biztosított védelem szintje, a Bizottság megfelelőségi határozatára való hivatkozás mellett;"
+		},
+		{
+			"lang": "mt",
+			"text": "fejn japplika, li l-kontrollur għandu l-ħsieb li jittrasferixxi lejn pajjiż terz jew organizzazzjoni internazzjonali u l-livell ta’ protezzjoni mogħti minn dak il-pajjiż terz jew dik l-organizzazzjoni internazzjonali permezz ta’ referenza għal deċiżjoni xierqa mill-Kummissjoni;"
+		},
+		{
+			"lang": "lv",
+			"text": "attiecīgā gadījumā informācija, ka pārzinis paredz nosūtīt datus uz trešo valstu vai starptautisku organizāciju, un informācija par aizsardzības līmeni, ko nodrošina šī trešā valsts vai starptautiskā organizācija, atsaucoties uz Komisijas lēmumu par aizsardzības līmeņa pietiekamību;"
+		},
+		{
+			"lang": "ro",
+			"text": "dacă este cazul, intenția operatorului de a efectua un transfer către o țară terță sau o organizație internațională și nivelul de protecție oferit de țara terță sau de organizația internațională respectivă, prin trimitere la o decizie a Comisiei privind caracterul adecvat al nivelului de protecție;"
+		},
+		{
+			"lang": "sk",
+			"text": "v relevantnom prípade informáciu, že prevádzkovateľ zamýšľa prenos do tretej krajiny alebo medzinárodnej organizácii a informáciu o úrovni ochrany poskytovanej touto treťou krajinou alebo medzinárodnou organizáciou s odkazom na rozhodnutie Komisie o primeranosti;"
+		},
+		{
+			"lang": "sl",
+			"text": "kjer je primerno, informacije o tem, da namerava upravljavec prenesti podatke v tretjo državo ali mednarodno organizacijo, in o ravni varstva, ki jo nudi ta tretja država ali mednarodna organizacija s sklicem na sklep Komisije o ustreznosti;"
+		},
+		{
+			"lang": "fi",
+			"text": "tarvittaessa tieto siitä, että rekisterinpitäjä aikoo siirtää tietoja kolmanteen maahan tai kansainväliselle järjestölle, ja kyseisen kolmannen maan tai kansainvälisen järjestön tarjoaman tietosuojan taso tietosuojan riittävyyttä koskevan komission päätöksen perusteella;"
+		},
+		{
+			"lang": "pl",
+			"text": "w stosownych przypadkach, zamiar przekazania danych przez administratora do państwa trzeciego lub organizacji międzynarodowej oraz informacje na temat poziomu ochrony zapewnianego przez to państwo trzecie lub organizację międzynarodową przez odniesienie do decyzji Komisji stwierdzającej odpowiedni poziom ochrony;"
+		},
+		{
+			"lang": "lt",
+			"text": "kai taikoma, apie duomenų valdytojo ketinimą duomenis perduoti į trečiąją šalį arba tarptautinei organizacijai ir Komisijos sprendimu dėl tinkamumo pagrįstą informaciją apie tos trečiosios šalies ar tarptautinės organizacijos užtikrinamą apsaugos lygį;"
+		},
+		{
+			"lang": "nl",
+			"text": "in voorkomend geval het voornemen van de voor de verwerking verantwoordelijke tot doorgifte van persoonsgegevens naar een derde land of een internationale organisatie en het door dat derde land of die internationale organisatie geboden beschermingsniveau onder verwijzing naar een besluit van de Commissie waarbij het beschermingsniveau passend wordt verklaard;"
+		},
+		{
+			"lang": "sv",
+			"text": "I tillämpliga fall, att den registeransvarige avser att överföra personuppgifterna till ett tredjeland eller en internationell organisation och nivån på det skydd som detta tredjeland eller denna internationella organisation kan erbjuda med hänvisning till ett beslut av kommissionen om adekvat skyddsnivå."
+		}
+	],
+	"children": [],
+	"title": "Article 14 – Paragraph 1 – Point 7"
+}

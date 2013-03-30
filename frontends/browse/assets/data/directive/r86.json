@@ -1,0 +1,102 @@
+{
+	"id": "r86",
+	"type": "recital",
+	"literal": "86",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Provisions should be made for the possibility for transfers in certain circumstances where the data subject has given his consent, where the transfer is necessary in relation to a contract or a legal claim, where important grounds of public interest laid down by Union or Member State law so require or where the transfer is made from a register established by law and intended for consultation by the public or persons having a legitimate interest. In this latter case such a transfer should not involve the entirety of the data or entire categories of the data contained in the register and, when the register is intended for consultation by persons having a legitimate interest, the transfer should be made only at the request of those persons or if they are to be the recipients."
+		},
+		{
+			"lang": "de",
+			"text": "Datenübermittlungen sollten unter bestimmten Voraussetzungen zulässig sein, nämlich wenn die betroffene Person ihre Einwilligung erteilt hat, wenn die Übermittlung im Rahmen eines Vertrags oder Gerichtsverfahrens oder zur Wahrung eines im Unionsrecht oder im Recht eines Mitgliedstaates festgelegten wichtigen öffentlichen Interesses erforderlich ist oder wenn die Übermittlung aus einem gesetzlich vorgesehenen Register erfolgt, das von der Öffentlichkeit oder Personen mit berechtigtem Interesse eingesehen werden kann. In diesem Fall sollte sich eine solche Übermittlung nicht auf die Gesamtheit oder ganze Kategorien der im Register enthaltenen Daten erstrecken dürfen. Ist das betreffende Register zur Einsichtnahme durch Personen mit berechtigtem Interesse bestimmt, sollte die Übermittlung nur auf Antrag dieser Personen oder nur dann erfolgen, wenn diese Personen die Adressaten der Übermittlung sind."
+		},
+		{
+			"lang": "fr",
+			"text": "Le présent règlement devrait autoriser les transferts dans certains cas où la personne concernée a donné son consentement, lorsque le transfert est nécessaire dans le cadre d'un contrat ou d'une action en justice, lorsque des motifs importants d'intérêt général établis par le droit de l'Union ou d'un État membre l'exigent, ou lorsque le transfert est effectué à partir d'un registre établi par la loi et destiné à être consulté par le public ou par des personnes y ayant un intérêt légitime. Dans ce dernier cas de figure, le transfert ne devrait toutefois pas porter sur la totalité des données ni sur des catégories entières de données contenues dans le registre et, lorsque ce dernier est destiné à être consulté par des personnes qui y ont un intérêt légitime, le transfert ne devrait avoir lieu que si ces personnes le demandent ou si elles en sont les destinataires."
+		},
+		{
+			"lang": "es",
+			"text": "Se debe establecer la posibilidad de realizar transferencias en determinadas circunstancias, cuando el interesado haya dado su consentimiento, la transferencia sea necesaria en relación con un contrato o una reclamación legal, así lo requieran motivos importantes de interés público establecidos por la legislación del Estado miembro o de la Unión, o cuando la transferencia se haga a partir de un registro establecido por ley y se destine a ser consultada por el público o personas con un interés legítimo. En este último caso la transferencia no debe afectar a la totalidad de los datos o de las categorías de datos incluidos en el registro y, cuando el registro esté destinado a ser consultado por personas que tengan un interés legítimo, la transferencia solo debe efectuarse a petición de dichas personas o si estas van a ser las destinatarias."
+		},
+		{
+			"lang": "pt",
+			"text": "É conveniente prever a possibilidade de transferências em determinadas circunstâncias se o titular dos dados deu o seu consentimento, se a transferência for necessária em relação a um contrato ou um processo judicial, se motivos importantes de interesse público previstos pela legislação União ou de um Estado-Membro o exigirem, ou se a transferência for efetuada a partir de um registo criado por lei e destinado à consulta do público ou de pessoas com um interesse legítimo. Neste último caso, a transferência não deve abranger a totalidade dos dados nem categorias completas de dados contidos nesse registo e, quando este último se destinar a ser consultado por pessoas com um interesse legítimo, a transferência apenas deve ser efetuada a pedido dessas pessoas ou caso sejam os seus destinatários."
+		},
+		{
+			"lang": "it",
+			"text": "È opportuno prevedere la possibilità di trasferire dati in alcune circostanze se l’interessato ha acconsentito, se il trasferimento è necessario in relazione ad un contratto o un’azione legale, se sussistono motivi di rilevante interesse pubblico previsti dalla legislazione di uno Stato membro o dell’Unione o se i dati sono trasferiti da un registro stabilito per legge e destinato ad essere consultato dal pubblico o dalle persone aventi un legittimo interesse. In quest’ultimo caso, il trasferimento non deve riguardare la totalità dei dati o delle categorie di dati contenuti nel registro; inoltre, quando il registro è destinato ad essere consultato dalle persone aventi un legittimo interesse, i dati possono essere trasferiti soltanto se tali persone lo richiedono o ne sono destinatarie."
+		},
+		{
+			"lang": "ga",
+			"text": "Ba cheart foráil a dhéanamh go bhféadfaí sonraí a aistriú i gcúinsí áirithe má tá toiliú tugtha ag an duine is ábhar do na sonraí, má tá gá leis an aistriú i ndáil le conradh nó le héileamh dlíthiúil, má cheanglaítear le dlí an Aontais nó le dlí Ballstáit aistriú a dhéanamh ar fhorais thábhachtacha leasa phoiblí, nó má dhéantar an t‑aistriú ó chlár arna bhunú le dlí agus a fhéadfaidh an pobal nó daoine a bhfuil leas dlisteanach acu é a cheadú. Sa chás deireanach sin níor cheart go mbainfeadh aistriú den sórt sin leis na sonraí ar fad ná leis na catagóirí sonraí ar fad atá sa chlár agus, nuair atá sé beartaithe go bhféadfaidh daoine a bhfuil leas dlisteanach acu sa chlár é a cheadú, níor cheart an t‑aistriú a dhéanamh ach arna iarraidh sin do na daoine sin a bhfuil leas dlisteanach acu nó más iad na daoine sin a gheobhaidh na sonraí."
+		},
+		{
+			"lang": "cs",
+			"text": "Měla by být stanovena možnost předávat údaje za určitých okolností, pokud subjekt údajů dal svůj souhlas, pokud je předávání nezbytné v souvislosti se smlouvou anebo s uplatňováním právního nároku, pokud je to nutné z důvodů důležitého veřejného zájmu stanoveného právem Unie nebo členského státu nebo pokud je předávání prováděno z rejstříku zřízeného ze zákona, přístupného veřejnosti nebo osobám s oprávněným zájmem. V tomto případě by se takové předání nemělo týkat všech údajů ani celých kategorií údajů obsažených v tomto rejstříku, a pokud má být rejstřík přístupný osobám s oprávněným zájmem, mělo by být předání uskutečněno pouze na žádost těchto osob nebo pokud jsou tyto osoby jejich příjemci."
+		},
+		{
+			"lang": "da",
+			"text": "Videregivelse bør tillades under bestemte omstændigheder, hvor den registrerede har meddelt sit samtykke, hvor videregivelsen er nødvendig i forbindelse med en kontrakt eller et retskrav, hvor beskyttelsen af væsentlige samfundsinteresser i henhold til EU-retten eller medlemsstatslovgivning kræver det, eller hvor videregivelsen sker fra et register, der er oprettet ved lov, og som offentligheden eller personer med en legitim interesse heri bør kunne konsultere. I sidstnævnte tilfælde bør en sådan videregivelse ikke omfatte alle oplysningerne eller hele kategorier af oplysninger i dette register, og når et register er beregnet til at blive konsulteret af personer, der har en legitim interesse heri, bør videregivelse kun ske på anmodning af disse personer, eller hvis de selv er modtageren."
+		},
+		{
+			"lang": "et",
+			"text": "Andmete edastamine peaks olema võimalik teatavatel asjaoludel, kui andmesubjekt on andnud oma nõusoleku, kui edastamine on vajalik seoses lepingu või kohtumenetlusega, kui seda nõuab ELi või liikmesriikide õiguses sätestatud kaalukas avalik huvi või kui edastatakse seadusega loodud ja avalikkusele või kõigile õigustatud huviga isikutele tutvumiseks avatud registrist pärinevaid andmeid. Viimati nimetatud juhul ei tohiks edastada kõiki andmeid ega registris sisalduvate andmete kõiki liike ja juhul, kui register on mõeldud tutvumiseks õigustatud huviga isikutele, tuleks andmed edastada ainult kõnealuste isikute taotluse korral või juhul, kui nemad on andmete vastuvõtjad."
+		},
+		{
+			"lang": "el",
+			"text": "Πρέπει να προβλεφθεί η δυνατότητα διαβιβάσεων σε ορισμένες περιπτώσεις στις οποίες το πρόσωπο στο οποίο αναφέρονται τα δεδομένα παρέσχε τη συγκατάθεσή του, στις οποίες η διαβίβαση είναι αναγκαία σε σχέση με σύμβαση ή δικαστική διαδικασία, στις οποίες σημαντικοί λόγοι δημόσιου συμφέροντος που προβλέπονται από το δίκαιο της Ένωσης ή των κρατών μελών απαιτούν κάτι τέτοιο, ή στις οποίες η διαβίβαση πραγματοποιείται από μητρώο το οποίο συστάθηκε διά νόμου και προορίζεται για άντληση πληροφοριών από το κοινό ή πρόσωπα τα οποία έχουν έννομο συμφέρον. Στην τελευταία αυτή περίπτωση, η εν λόγω διαβίβαση δεν πρέπει να αφορά το σύνολο των δεδομένων ή ολόκληρες κατηγορίες δεδομένων που περιέχονται στο μητρώο και όταν το μητρώο προορίζεται για άντληση πληροφοριών από πρόσωπα τα οποία έχουν έννομο συμφέρον, η διαβίβαση πρέπει να πραγματοποιείται μόνον κατόπιν αιτήματος των εν λόγω προσώπων ή μόνον εάν μπορούν να είναι αποδέκτες της διαβίβασης."
+		},
+		{
+			"lang": "bg",
+			"text": "Следва да се предвиди възможността да се предават данни при определени обстоятелства, когато субектът на данните е дал съгласието си, когато предаването е необходимо във връзка с договор или правна претенция, когато това се налага поради важно основание от обществен интерес, предвидено в правото на Съюза или на държава-членка, или когато предаването се извършва от регистрационна система, създадена със закон и предназначена за справки от обществеността или от лица, които имат законен интерес. В този случай предаването не следва да включва всички данни или всички категории от данни, съдържащи се в регистрационната система, а когато регистрационната система е предназначена за справка от лица, които имат законен интерес, предаването следва да се извършва единствено по искане на тези лица или ако те са получателите."
+		},
+		{
+			"lang": "hu",
+			"text": "Rendelkezni kell a továbbítás lehetőségéről bizonyos körülmények esetében, ha az érintett hozzájárulását adta, ha a továbbítás szerződés vagy jogi igény érvényesítése keretében szükséges, ha a fontos közérdek uniós vagy tagállami jogban szereplő védelme megkívánja, vagy ha a továbbításra jogszabály alapján létrehozott nyilvántartásból kerül sor, és célja a nyilvánossággal vagy a jogos érdekkel rendelkező személyekkel való konzultáció. Ez utóbbi esetben az ilyen továbbítás nem vonatkozhat a nyilvántartásban szereplő adatok vagy adatkategóriák összességére, és amennyiben a nyilvántartás célja a jogos érdekkel rendelkező személyekkel való konzultáció, a továbbításra kizárólag e személyek kérelmére kerülhet sor, vagy ha ők a címzettek."
+		},
+		{
+			"lang": "mt",
+			"text": "Għandhom isiru provvedimenti għall-possibbiltà ta’ trasferimenti f’ċerti ċirkostanzi fejn is-suġġett tad-dejta jkun ta l-kunsens tiegħu, fejn it-trasferiment huwa meħtieġ minħabba xi kuntratt jew talba legali, fejn raġunijiet importanti ta’ interess pubbliku stabbilit mil-liġi tal-Unjoni jew ta’ Stat Membru hekk jeħtieġu, jew fejn it-trasferiment isir minn reġistru stabbilit mil-liġi u maħsub għall-konsultazzjoni mill-pubbliku jew persuni li jkollhom interess leġittimu. F’dan l-aħħar każ dan it-trasferiment ma għandux jinvolvi d-dejta kollha jew kategoriji sħaħ tad-dejta li tinsab fir-reġistru u, meta r-reġistru huwa maħsub għall-konsultazzjoni mill-pubbliku jew persuni li jkollhom interess leġittimu, it-trasferiment għandu jsir biss fuq it-talba ta’ dawk il-persuni jew jekk sejrin ikunu r-riċevituri. Dawn il-possibbiltajiet għandhom ikunu interpretati b’mod restrittiv."
+		},
+		{
+			"lang": "lv",
+			"text": "Būtu jāparedz noteikumi, kas ļauj nosūtīt datus atsevišķos apstākļos, ja datu subjekts ir devis piekrišanu, ja nosūtīšana ir nepieciešama saistībā ar līgumu vai tiesisku prasījumu, ja tas nepieciešams, pamatojoties uz Savienības vai dalībvalsts tiesībās noteiktām svarīgām sabiedrības interesēm, vai ja datus nosūta no reģistra, kas izveidots ar likumu un kas paredzēts, lai likumīgi ieinteresētas personas vai sabiedrība, varētu tajā ieskatīties. Pēdējā gadījumā nebūtu jānosūta pilnīgi visi reģistrā ietvertie dati vai veselas datu kategorijas, un ja reģistrs ir paredzēts, lai tajā varētu ieskatīties likumīgi ieinteresētas personas, datus būtu jānosūta tikai pēc šo personu pieprasījuma vai ja šīs personas ir datu saņēmējas."
+		},
+		{
+			"lang": "ro",
+			"text": "Ar trebui să se prevadă posibilitatea de a se efectua transferuri în anumite circumstanțe în care persoana vizată și-a dat consimțământul, în care transferul este necesar în legătură cu un contract sau cu o acțiune în justiție, în care motive importante de interes public stabilite de dreptul Uniunii sau de legislația unui stat membru impun acest lucru sau în care transferul se efectuează dintr-un registru instituit prin lege și destinat să fie consultat de către public sau de către persoane care au un interes legitim. În acest ultim caz, un astfel de transfer nu ar trebui să implice totalitatea datelor sau ansamblul categoriilor de date conținute în registru, iar atunci când registrul este destinat să fie consultat de către persoane care au un interes legitim, transferul ar trebui să fie efectuat doar la cererea persoanelor respective sau dacă acestea sunt destinatarii."
+		},
+		{
+			"lang": "sk",
+			"text": "Mali by byť prijaté ustanovenia o možnosti prenosov za určitých okolností, ak dotknutá osoba dala súhlas, ak je prenos potrebný v súvislosti so zmluvným alebo právnym nárokom, ak si to vyžadujú dôležité dôvody verejného záujmu stanoveného Úniou alebo členským štátom alebo ak je prenos realizovaný z registra vytvoreného na základe zákona alebo určeného na nahliadanie zo strany verejnosti alebo osôb s oprávneným záujmom. V poslednom uvedenom prípade by tento prenos nemal zahŕňať úplné údaje alebo celé kategórie údajov obsiahnutých v registri a ak je register učený na nahliadanie zo strany osôb s oprávneným záujmom, prenos by sa mal vykonať len na požiadanie takýchto osôb alebo vtedy, ak sú takéto osoby príjemcami údajov."
+		},
+		{
+			"lang": "sl",
+			"text": "Predvidena bi morala biti možnost prenosov v določenih okoliščinah, kadar je posameznik, na katerega se nanašajo osebni podatki, dal svojo privolitev, kadar je prenos potreben zaradi pogodbe ali pravnega zahtevka, kadar to zahtevajo pomembni javni interesi, določeni z zakonodajo Unije ali zakonodajo držav članic, ali kadar je prenos izveden iz registra, vzpostavljenega z zakonodajo, ki je namenjen za uporabo s strani javnosti ali oseb s pravnim interesom. V slednjem primeru tak prenos ne bi smel vključevati celotnih podatkov ali celotnih vrst podatkov, ki jih vsebuje register, in kadar je register namenjen vpogledu oseb, ki imajo pravni interes, bi bilo treba prenos opraviti samo na zahtevo teh oseb ali če bodo te osebe prejemniki."
+		},
+		{
+			"lang": "fi",
+			"text": "Olisi säädettävä mahdollisuudesta tehdä tiedonsiirtoja tietyissä tilanteissa, kun rekisteröity on antanut suostumuksensa, kun siirto on tarpeen sopimuksen tai oikeudellisen vaateen nojalla, kun unionin tai jäsenvaltion lainsäädäntöön perustuvat, yleistä etua koskevat tärkeät syyt niin vaativat tai kun siirto suoritetaan lailla perustetusta rekisteristä, joka on tarkoitettu yleisön tai kenen tahansa sellaisen henkilön käyttöön, jolla on siihen oikeutettu etu. Viimeksi mainitussa tapauksessa siirto ei saisi käsittää tietoja kokonaisuudessaan tai rekisterin sisältämää kokonaista tietoryhmää, ja jos rekisteri on tarkoitettu sellaisten henkilöiden käyttöön, joilla on siihen oikeutettu etu, siirto olisi tehtävä ainoastaan näiden henkilöiden pyynnöstä tai jos he ovat henkilötietojen vastaanottajia."
+		},
+		{
+			"lang": "pl",
+			"text": "Należy przewidzieć możliwość przekazywania danych w niektórych okolicznościach, jeżeli podmiot danych wyraził na to zgodę, jeżeli przekazanie danych jest konieczne w związku z umową lub roszczeniem prawnym, jeżeli wymagać tego będzie ochrona ważnego interesu publicznego wskazanego przez Unię lub państwo członkowskie lub w przypadku przekazania danych z rejestru utworzonego na mocy przepisów prawa i przeznaczonego do wglądu dla ogółu społeczeństwa lub osób wykazujących słuszny interes. W tym ostatnim przypadku przekazanie nie powinno obejmować całości danych lub całych kategorii danych z rejestru oraz, jeżeli rejestr jest przeznaczony do wglądu dla osób wykazujących słuszny interes, przekazanie danych powinno nastąpić jedynie na wniosek tych osób lub wówczas, gdy osoby te mają być odbiorcami."
+		},
+		{
+			"lang": "lt",
+			"text": "turėtų būti numatyta galimybė duomenis perduoti tam tikromis aplinkybėmis, kai duomenų subjektas yra davęs sutikimą, kai perduoti būtina dėl sutarties ar teismui pareikšto ieškinio, kai tai reikalinga dėl Sąjungos ar valstybės narės teisėje įtvirtintų viešojo intereso pagrindų, arba kai duomenys perduodami iš įstatymu įsteigto registro, kuris skirtas naudotis visuomenei ar teisėtų interesų turintiems asmenims. Pastaruoju atveju neturėtų būti perduodama registre sukauptų duomenų visuma arba ištisos jų kategorijos, o jeigu registras skirtas naudoti teisėtų interesų turintiems asmenims, duomenys turėtų būti perduodami tiktai tų asmenų prašymu arba jei jie yra duomenų gavėjai;"
+		},
+		{
+			"lang": "nl",
+			"text": "Doorgifte dient mogelijk te zijn in bepaalde gevallen waarin de betrokkene daartoe toestemming heeft gegeven, wanneer de doorgifte nodig is in het kader van een overeenkomst of van een rechtsvordering, wanneer in de wetgeving van de Unie of van de lidstaat vastgelegde gewichtige redenen van algemeen belang zulks vereisen, of wanneer het gaat om een doorgifte uit een bij de wet ingesteld register dat bedoeld is voor raadpleging door het publiek of personen met een gerechtvaardigd belang. In het laatste geval dient bij een dergelijke doorgifte niet de totaliteit van de in dit register opgenomen gegevens of categorieën gegevens te worden verstrekt en wanneer een register bedoeld is voor raadpleging door personen met een gerechtvaardigd belang, dient de doorgifte slechts plaats te vinden op verzoek van deze personen of wanneer de gegevens voor hen zijn bestemd."
+		},
+		{
+			"lang": "sv",
+			"text": "Bestämmelser bör införas som ger möjlighet att under vissa omständigheter göra överföringar om den registrerade har lämnat sitt samtycke, när överföringen är nödvändig med hänsyn till ett avtal eller ett rättsligt anspråk, när viktiga samhälleliga intressen fastställda genom unionell eller nationell lag så kräver eller när överföringen görs från ett register som inrättats genom lag och är avsett att konsulteras av allmänheten eller av personer med ett berättigat intresse. I sistnämnda fall bör en sådan överföring inte omfatta alla uppgifter eller hela kategorier av uppgifter som finns i registret. När registret är avsett att vara tillgängligt för personer med ett berättigat intresse ska överföringen göras endast på begäran av dessa personer eller om de själva är mottagarna."
+		}
+	],
+	"children": [],
+	"title": "Recital 86"
+}

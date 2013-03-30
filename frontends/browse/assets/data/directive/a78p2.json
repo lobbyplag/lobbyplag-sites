@@ -1,0 +1,102 @@
+{
+	"id": "a78p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a78",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Where the controller has established a representative, any penalties shall be applied to the representative, without prejudice to any penalties which could be initiated against the controller."
+		},
+		{
+			"lang": "de",
+			"text": "Hat der für die Verarbeitung Verantwortliche einen Vertreter benannt, wirken die Sanktionen gegen den Vertreter unbeschadet etwaiger Sanktionen, die gegen den für die Verarbeitung Verantwortlichen verhängt werden könnten."
+		},
+		{
+			"lang": "fr",
+			"text": "Lorsque le responsable du traitement a désigné un représentant, les sanctions sont appliquées au représentant, sans préjudice de toute procédure de sanction susceptible d'être engagée contre le responsable du traitement."
+		},
+		{
+			"lang": "es",
+			"text": "Cuando el responsable del tratamiento haya designado un representante, cualquier sanción se impondrá a este último, sin perjuicio de las sanciones que pudieran promoverse contra el controlador."
+		},
+		{
+			"lang": "pt",
+			"text": "Sempre que o responsável pelo tratamento tiver designado um representante, as sanções são aplicadas ao representante, sem prejuízo de quaisquer sanções que possam vir a ser aplicadas contra o responsável pelo tratamento."
+		},
+		{
+			"lang": "it",
+			"text": "Qualora il responsabile del trattamento abbia designato un rappresentante, le sanzioni si applicano al rappresentante, fatte salve le sanzioni applicabili al responsabile del trattamento."
+		},
+		{
+			"lang": "ga",
+			"text": "I gcás ina bhfuil ionadaí ainmnithe ag an rialaitheoir, ní mór na pionóis a fhorchur ar an ionadaí, gan dochar d'aon phionóis a d'fhéadfaí a thionscnamh i gcoinne an rialaitheora."
+		},
+		{
+			"lang": "cs",
+			"text": "Jestliže správce určil zástupce, veškeré sankce se vztahují na zástupce, aniž by tím byly dotčeny jakékoli sankce, které by mohly být iniciovány ve vztahu ke správci."
+		},
+		{
+			"lang": "da",
+			"text": "Når den registeransvarlige har udpeget en repræsentant, anvendes sanktioner på repræsentanten, uden at dette berører eventuelle sanktioner mod den registeransvarlige selv."
+		},
+		{
+			"lang": "et",
+			"text": "Kui vastutav töötleja on määranud esindaja, kohaldatakse karistust tema suhtes, ilma et see piiraks karistuste kohaldamist vastutava töötleja suhtes."
+		},
+		{
+			"lang": "el",
+			"text": "Εάν ο υπεύθυνος επεξεργασίας έχει ορίσει εκπρόσωπο, οι ενδεχόμενες ποινικές κυρώσεις εφαρμόζονται στον εκπρόσωπο, με την επιφύλαξη τυχόν κυρώσεων οι οποίες μπορεί να επιβληθούν κατά του υπευθύνου επεξεργασίας."
+		},
+		{
+			"lang": "bg",
+			"text": "Когато администраторът е установил представител, всички санкции се налагат на представителя, без това да засяга санкциите, които биха могли да бъдат предявени срещу самия администратор."
+		},
+		{
+			"lang": "hu",
+			"text": "Amennyiben az adatkezelő rendelkezik képviselővel, a szankciókat a képviselővel szemben kell alkalmazni, az adatkezelővel szemben alkalmazható szankciók sérelme nélkül."
+		},
+		{
+			"lang": "mt",
+			"text": "Meta l-kontrollur ikun stabbilixxa rappreżentant, kwalunkwe penalità għandha tkun applikata għar-rappreżentant, mingħajr preġudizzju għal kwalunkwe penalità li tista’ tinbeda kontra l-kontrollur."
+		},
+		{
+			"lang": "lv",
+			"text": "Ja pārzinis ir iecēlis pārstāvi, sankcijas piemēro pārstāvim, neskarot sankcijas, ko varētu piespriest pārzinim."
+		},
+		{
+			"lang": "ro",
+			"text": "În cazul în care operatorul a desemnat un reprezentant, sancțiunile sunt aplicate reprezentantului, fără a aduce atingere sancțiunilor care ar putea fi inițiate împotriva operatorului."
+		},
+		{
+			"lang": "sk",
+			"text": "Ak prevádzkovateľ ustanovil svojho zástupcu, všetky prípadné sankcie sa uplatňujú voči zástupcovi bez toho, aby boli dotknuté sankcie, ktoré by mohli byť iniciované proti prevádzkovateľovi."
+		},
+		{
+			"lang": "sl",
+			"text": "Kadar upravljavec imenuje predstavnika, vse kazenske sankcije veljajo za predstavnika, brez poseganja v kazenske sankcije, ki se lahko izrečejo upravljavcu."
+		},
+		{
+			"lang": "fi",
+			"text": "Jos rekisterinpitäjä on nimittänyt edustajan, seuraamuksia sovelletaan edustajaan, sanotun rajoittamatta seuraamuksia, joita voidaan määrätä rekisterinpitäjää itseään vastaan."
+		},
+		{
+			"lang": "pl",
+			"text": "W przypadku gdy administrator ustanowił przedstawiciela, wszystkie kary mają zastosowanie do przedstawiciela, bez uszczerbku dla jakiejkolwiek kary, która może grozić administratorowi."
+		},
+		{
+			"lang": "lt",
+			"text": "Jeigu duomenų valdytojas paskyrė atstovą, visos sankcijos taikomos atstovui, nedarant poveikio jokioms sankcijoms, kurios gali būti skirtos duomenų valdytojui."
+		},
+		{
+			"lang": "nl",
+			"text": "Wanneer de voor de verwerking verantwoordelijke een vertegenwoordiger heeft aangewezen, worden alle sancties op de vertegenwoordiger toegepast, onverminderd de sanctieprocedures die tegen de voor de verwerking verantwoordelijke kunnen worden ingesteld."
+		},
+		{
+			"lang": "sv",
+			"text": "Om den registeransvarige har utsett en företrädare ska eventuella påföljder tillämpas med avseende på företrädaren, utan att det påverkar de påföljder som skulle kunna utdömas för den registeransvarige."
+		}
+	],
+	"children": [],
+	"title": "Article 78 – Paragraph 2"
+}

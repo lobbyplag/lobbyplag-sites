@@ -1,0 +1,102 @@
+{
+	"id": "r55",
+	"type": "recital",
+	"literal": "55",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "To further strengthen the control over their own data and their right of access, data subjects should have the right, where personal data are processed by electronic means and in a structured and commonly used format, to obtain a copy of the data concerning them also in commonly used electronic format. The data subject should also be allowed to transmit those data, which they have provided, from one automated application, such as a social network, into another one. This should apply where the data subject provided the data to the automated processing system, based on their consent or in the performance of a contract."
+		},
+		{
+			"lang": "de",
+			"text": "Damit die betroffenen Personen eine bessere Kontrolle über ihre eigenen Daten haben und ihr Auskunftsrecht besser ausüben können, sollten sie im Falle einer elektronischen Verarbeitung ihrer personenbezogenen Daten in einem strukturierten gängigen Format ebenfalls Anspruch auf Erhalt einer Kopie der sie betreffenden Daten in einem gängigen elektronischen Format haben. Die betroffene Person sollte auch befugt sein, die von ihr zur Verfügung gestellten Daten von einer automatisierten Anwendung, etwa einem sozialen Netzwerk, auf eine andere Anwendung zu übertragen. Dies sollte dann möglich sein, wenn die betroffene Person die Daten dem automatisierten Verarbeitungssystem mit ihrer ausdrücklichen Einwilligung oder im Zuge der Erfüllung eines Vertrags zur Verfügung gestellt hat."
+		},
+		{
+			"lang": "fr",
+			"text": "Pour leur permettre de mieux maîtriser encore l'utilisation qui est faite des données les concernant et renforcer leur droit d’accès, les personnes devraient avoir le droit, lorsque des données à caractère personnel font l'objet d'un traitement automatisé dans un format structuré et couramment utilisé, d'obtenir une copie des données les concernant, également dans un format électronique structuré et couramment utilisé. La personne concernée devrait en outre être autorisée à transférer ces données, qu'elle a fournies, d'une application automatisée, telle qu'un réseau social, à une autre. Ce droit devrait s'appliquer lorsque la personne concernée a fourni les données au système de traitement automatisé, en donnant son consentement ou dans le cadre de l’exécution d’un contrat."
+		},
+		{
+			"lang": "es",
+			"text": "Para reforzar aún más el control sobre sus propios datos y su derecho de acceso, a los interesados les debe asistir el derecho, cuando los datos personales se sometan a tratamiento por medios electrónicos, en un formato estructurado y de uso habitual, a obtener una copia de los datos que les conciernan, también en formato electrónico de uso habitual. Asimismo se debe autorizar a los interesados a transmitir de una aplicación automatizada, como una red social, a otra aquellos datos que hayan facilitado. Tal debe ser el caso cuando el interesado haya facilitado los datos al sistema automatizado de tratamiento, dando su consentimiento o en cumplimiento de un contrato."
+		},
+		{
+			"lang": "pt",
+			"text": "Para reforçar melhor o controlo sobre os seus próprios dados e o seu direito de acesso, os titulares de dados devem ter o direito, sempre que os dados pessoais sejam objeto de tratamento automatizado num formato estruturado e de uso corrente, de obter uma cópia dos dados que lhes digam respeito, igualmente num formato eletrónico de utilização comum. O titular de dados deve, além disso, ser autorizado a transmitir os dados que forneceu, de uma aplicação automatizada, como uma rede social, para outra. Isto aplica-se também se o titular de dados tiver fornecido os dados a um sistema de tratamento automatizado com base no seu consentimento ou em cumprimento de um contrato."
+		},
+		{
+			"lang": "it",
+			"text": "Per rafforzare ulteriormente il controllo sui propri dati e il diritto di accedervi, occorre che l’interessato abbia il diritto, se i dati personali sono trattati con mezzi elettronici e in un formato strutturato e di uso comune, di ottenere una copia dei dati che lo riguardano ugualmente in formato elettronico di uso comune. Occorre anche che l’interessato sia autorizzato a trasferire i dati che ha fornito da un’applicazione automatizzata, ad esempio un social network, ad un’altra. Tale diritto dovrebbe applicarsi quando l’interessato ha fornito i dati al sistema di trattamento automatizzato acconsentendo al trattamento o in esecuzione di un contratto."
+		},
+		{
+			"lang": "ga",
+			"text": "Chun an smacht atá ag daoine ar a sonraí pearsanta féin agus ar a gceart rochtana a neartú tuilleadh, ba cheart, i gcás ina ndéantar sonraí pearsanta a phróiseáil trí mhodhanna leictreonacha agus i bhformáid struchtúrtha atá i ngnáthúsáid, go mbeadh sé de cheart ag na daoine is ábhar do na sonraí cóip de na sonraí a bhaineann leo a fháil freisin i bhformáid leictreonach a úsáidtear go coitanta. Ba cheart cead a bheith ag an duine is ábhar do na sonraí na sonraí sin atá curtha ar fáil aige cheana a bhogadh ó fheidhmchlár uathoibrithe amháin, amhail líonra sóisialta, go ceann eile. Ba cheart feidhm a bheith aige sin i gcás ina dtugann an duine is ábhar do na sonraí na sonraí do chóras próiseála uathoibrithe, le toiliú nó chun conradh a chomhlíonadh."
+		},
+		{
+			"lang": "cs",
+			"text": "Aby měly subjekty údajů větší kontrolu nad svými vlastními údaji a lépe uplatňovaly své právo na přístup, měly by v případě, kdy se osobní údaje zpracovávají elektronicky a ve strukturovaném a běžně používaném formátu, mít právo získat kopii údajů, které se jich týkají, rovněž v běžně používaném elektronickém formátu. Subjekt údajů by měl být rovněž oprávněn přenést údaje, které poskytl, z jedné automatizované aplikace, například ze sociální sítě, do jiné aplikace. To by mělo být možné v případě, kdy subjekt údajů poskytl údaje do automatizovaného systému zpracování na základě svého souhlasu nebo při plnění smlouvy."
+		},
+		{
+			"lang": "da",
+			"text": "For at give de registrerede øget kontrol over deres egne personoplysninger og deres ret til indsigt bør de, når personoplysninger behandles elektronisk og i et struktureret og almindeligt anvendt format, have ret til at få en kopi af oplysningerne om dem i et almindeligt anvendt elektronisk format. Den registrerede bør også kunne videregive de oplysninger, vedkommende har udleveret, fra en automatisk applikation, f.eks. et socialt netværk, til et andet. Dette bør gælde, hvis den registrerede har udleveret oplysningerne til databehandlingssystemet, baseret på dennes samtykke eller under opfyldelsen af en kontrakt."
+		},
+		{
+			"lang": "et",
+			"text": "Selleks et tugevdada kontrolli oma andmete ja nendega tutvumise õiguse üle, peaks andmesubjektidel olema struktureeritud ja üldkasutatavas vormingus olevate isikuandmete elektroonilise töötlemise puhul õigus saada neid käsitlevate andmete koopia samuti üldkasutatavas elektroonilises vormingus. Andmesubjektil peaks olema võimalik edastada enda esitatud andmeid ühest automatiseeritud rakendusest (näiteks sotsiaalvõrgustikust) teise. Seda tuleks kohaldada juhul, kui andmesubjekt esitas andmed automatiseeritud töötlemissüsteemi nõusoleku alusel või lepingu täitmisel."
+		},
+		{
+			"lang": "el",
+			"text": "Για να ενισχυθεί περαιτέρω ο έλεγχος επί των δεδομένων τους και το δικαίωμα πρόσβασής τους, τα πρόσωπα στα οποία αναφέρονται τα δεδομένα πρέπει να έχουν το δικαίωμα, εάν τα δεδομένα προσωπικού χαρακτήρα αποτελούν αντικείμενο επεξεργασίας με ηλεκτρονικά μέσα και με δομημένο και συνήθως χρησιμοποιούμενο μορφότυπο, να λαμβάνουν αντίγραφο των δεδομένων που τα αφορούν εξίσου σε συνήθως χρησιμοποιούμενο ηλεκτρονικό μορφότυπο. Το πρόσωπο στο οποίο αναφέρονται τα δεδομένα πρέπει να δικαιούται επίσης να μεταφέρει τα εν λόγω δεδομένα, τα οποία παρέσχε, από μια αυτοματοποιημένη εφαρμογή, όπως ένα κοινωνικό δίκτυο, σε μια άλλη. Αυτό πρέπει να εφαρμόζεται όταν το πρόσωπο στο οποίο αναφέρονται τα δεδομένα παρέσχε τα δεδομένα στο αυτοματοποιημένο σύστημα επεξεργασίας, με τη συγκατάθεσή του ή στο πλαίσιο της εκτέλεσης σύμβασης."
+		},
+		{
+			"lang": "bg",
+			"text": "С цел допълнително да се засилят контролът върху данните и правото на достъп, субектите на данни следва да имат право, когато личните данните се обработват с електронни средства и в структуриран и широко използван формат, да получат копие от свързаните с тях данни също в широко използван електронен формат. На субекта на данни следва също така да бъде позволено да предава данните, които е предоставил, от едно автоматизирано приложение, като например социална мрежа, на друго. Това следва да се прилага, когато субектът на данни е предоставил данните на система за автоматизирано обработване въз основа на съгласието си или при изпълнението на договор."
+		},
+		{
+			"lang": "hu",
+			"text": "A saját adataik feletti ellenőrzés és a hozzáférési jog gyakorlásának további erősítése érdekében az érintetteknek joga van a személyes adatok elektronikus úton történő feldolgozása során az őket érintő adatokról strukturált és széles körben elterjedt elektronikus formátumban másolatot kérni. Az érintettnek lehetősége van a rendelkezésre bocsátott adatok továbbítására is, az egyik automatizált alkalmazástól – például a közösségi hálózatról – a másikhoz. Ez alkalmazandó akkor is, ha az érintett az adatot a hozzájárulása alapján vagy szerződés teljesítése keretében bocsátotta az automatizált feldolgozó rendszer rendelkezésére."
+		},
+		{
+			"lang": "mt",
+			"text": "Sabiex isaħħu aktar il-kontroll fuq id-dejta tagħhom u d-dritt tagħhom għall-aċċess, is-suġġetti tad-dejta għandu jkollhom id-dritt, fejn id-dejta personali tkun ipproċessata b’mezzi elettroniċi u f’format strutturat u użat b’mod komuni, li jiksbu kopja tad-dejta dwarhom f’format elettroniku użat komunement. Is-suġġett tad-dejta għandu jitħalla wkoll jittrasmetti dik id-dejta, li kien ipprovda, minn applikazzjoni awtomatizzata, bħal netwerk soċjali, għal oħra. Dan għandu japplika meta s-suġġett tad-dejta pprovda d-dejta lis-sistema ta’ pproċessar awtomatizzata, abbażi tal-kunsens tiegħu jew fit-twettiq ta’ kuntratt."
+		},
+		{
+			"lang": "lv",
+			"text": "Lai vēl vairāk stiprinātu kontroli pār saviem datiem un piekļuves tiesības, datu subjektam gadījumos, kad personas datus apstrādā elektroniskiem līdzekļiem un strukturētā un plaši izmantotā formātā, vajadzētu būt tiesībām iegūt savu datu kopiju plaši izmantotā elektroniskā formātā. Datu subjektam būtu jāatļauj arī nosūtīt datus, ko viņš ir sniedzis, no vienas automatizētas lietotnes, piemēram, sociālā tīkla, uz citu. Tas būtu piemērojams, ja datu subjekts sniedza datus automatizētas apstrādes sistēmai, pamatojoties uz piekrišanu vai izpildot līgumu."
+		},
+		{
+			"lang": "ro",
+			"text": "Pentru a se consolida în continuare controlul asupra propriilor date și dreptul lor de acces, persoanele vizate ar trebui să aibă dreptul, în cazul în care datele cu caracter personal sunt prelucrate prin mijloace electronice într-un format structurat și utilizat în mod curent, de a obține, de asemenea, o copie a datelor care le privesc într-un format electronic utilizat în mod curent. Persoana vizată ar trebui, de asemenea, să fie autorizată să transmită datele respective, pe care le-a furnizat, dintr-o aplicație automată, cum ar fi o rețea socială, către alta. Aceasta ar trebui să se aplice în cazul în care persoana vizată a furnizat datele sistemului de prelucrare automată, pe baza consimțământului său sau în cadrul executării unui contract."
+		},
+		{
+			"lang": "sk",
+			"text": "Na ďalšie posilnenie kontroly nad údajmi dotknutej osoby a práva na prístup by dotknutá osoba tam, kde sa osobné údaje spracúvajú elektronickými prostriedkami a štruktúrovaným spôsobom v bežne používanom formáte, mala mať právo získať kópiu údajov, ktoré sa jej týkajú, a to v bežne používanom elektronickom formáte. Dotknutá osoba by takisto mala mať právo prenášať tieto údaje, ktoré poskytla, z jednej automatizovanej aplikácie, ako je sociálna sieť, do inej. Tento postup by sa mal uplatniť, ak dotknutá osoba poskytla údaje do automatizovaného systému spracovania na základe jej súhlasu alebo v rámci plnenia zmluvy."
+		},
+		{
+			"lang": "sl",
+			"text": "Za okrepitev nadzora nad lastnimi podatki in pravice do dostopa bi morali imeti posamezniki, na katere se nanašajo osebni podatki, pravico, da v primerih, kadar so osebni podatki obdelani z elektronskimi sredstvi in v strukturirani obliki v splošni rabi, pridobijo kopijo podatkov, ki se nanje nanašajo, tudi v elektronski obliki v splošni rabi. Posamezniku, na katerega se nanašajo osebni podatki, bi moralo biti dovoljeno tudi prenašanje podatkov, ki jih je predložil, iz ene avtomatizirane aplikacije, na primer družabnega omrežja, v drugo. To bi moralo veljati, kadar je posameznik, na katerega se nanašajo osebni podatki, na podlagi svoje privolitve ali pri izvajanju pogodbe zagotovil podatke avtomatiziranemu sistemu za obdelavo."
+		},
+		{
+			"lang": "fi",
+			"text": "Jotta voitaisiin edelleen lujittaa rekisteröityjen oikeutta valvoa henkilötietojaan ja heidän tiedonsaantioikeuttaan silloin kun henkilötietoja käsitellään sähköisin keinoin, jäsennellyssä ja yleisesti käytetyssä muodossa, rekisteröidyillä olisi oltava oikeus saada jäljennös heitä koskevista tiedoista myös yleisesti käytetyssä sähköisessä muodossa. Rekisteröityjen pitäisi myös voida siirtää antamansa tiedot yhdestä automaattisesta sovelluksesta, esimerkiksi sosiaalisesta verkostosta, toiseen. Tätä olisi sovellettava silloin kun rekisteröity on antanut tiedot automaattiseen käsittelyjärjestelmään oman suostumuksensa tai sopimuksen täytäntöönpanon perusteella."
+		},
+		{
+			"lang": "pl",
+			"text": "W celu dalszego wzmocnienia kontroli nad własnymi danymi oraz prawa dostępu, podmioty danych powinny mieć prawo, w przypadku gdy dane osobowe są przetwarzane w sposób elektroniczny oraz w zorganizowanym i powszechnie używanym formacie, do otrzymania kopii dotyczących ich danych także w takim powszechnie używanym formacie elektronicznym. Podmiot danych powinien także móc przekazywać dane, które dostarczył, ze zautomatyzowanej aplikacji, takiej jak sieć społeczna, do innej. Powinno to mieć zastosowanie wtedy, gdy podmiot danych dostarczył dane do automatycznego systemu przetwarzania na podstawie swojej zgody lub w związku z wykonaniem umowy."
+		},
+		{
+			"lang": "lt",
+			"text": "kai asmens duomenys tvarkomi elektroninėmis priemonėmis ir susistemintu bei dažnai naudojamu elektroniniu formatu, duomenų subjektai turėtų turėti teisę savo duomenų kopiją gauti taip pat dažnai naudojamu elektroniniu formatu, kad galėtų geriau kontroliuoti savo asmens duomenis ir pasinaudoti savo teise su jais susipažinti. Be to, duomenų subjektui taip pat turėtų būti leidžiama savo pateiktus duomenis persiųsti iš vienos automatizuotos programos, pavyzdžiui, socialinio tinklo, į kitą. Tai turėtų būti taikoma tais atvejais, kai duomenų subjektas duomenis automatizuotai duomenų tvarkymo sistemai pateikė savo sutikimu arba vykdydamas sutartį;"
+		},
+		{
+			"lang": "nl",
+			"text": "Om de controle over hun eigen gegevens en hun recht van toegang verder te versterken, dienen, wanneer persoonsgegevens elektronisch en in een gestructureerd en algemeen gebruikt formaat worden verwerkt, betrokkenen het recht te hebben om van de gegevens over hen ook een kopie in een elektronisch en algemeen gebruikt formaat te ontvangen. De betrokkenen dienen deze door hen verstrekte gegevens ook van de ene geautomatiseerde toepassing, zoals een sociaal netwerk, naar de andere te kunnen doorgeven. Dit dient van toepassing te zijn wanneer de betrokkenen de gegevens aan het geautomatiseerde verwerkingssysteem heeft verstrekt, door toestemming te geven dan wel een overeenkomst uit te voeren."
+		},
+		{
+			"lang": "sv",
+			"text": "För att ytterligare stärka de registrerades kontroll över sina egna uppgifter och rätt till tillgång bör de, när personuppgifter behandlas genom elektroniska medel och i strukturerat och gängse format, också ha rätt att få en kopia av uppgifter som rör dem i gängse elektroniskt format. Den registrerade bör även tillåtas överföra uppgifter som han eller hon själv har tillhandahållit från en automastisk tillämpning, exempelvis ett socialt nätverk, till en annan. Detta bör vara tillämpligt när de registrerade har lämnat uppgifterna till ett automastiskt databehandlingssystem, antingen efter att ha lämnat sitt samtycke eller inom ramen för genomförandet av ett avtal."
+		}
+	],
+	"children": [],
+	"title": "Recital 55"
+}

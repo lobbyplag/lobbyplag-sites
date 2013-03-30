@@ -1,0 +1,105 @@
+{
+	"id": "a68",
+	"type": "article",
+	"literal": "68",
+	"parent": "c7s3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Procedure"
+		},
+		{
+			"lang": "de",
+			"text": "Verfahrensweise"
+		},
+		{
+			"lang": "fr",
+			"text": "Procédure"
+		},
+		{
+			"lang": "es",
+			"text": "Procedimiento"
+		},
+		{
+			"lang": "pt",
+			"text": "Procedimento"
+		},
+		{
+			"lang": "it",
+			"text": "Procedura"
+		},
+		{
+			"lang": "ga",
+			"text": "Nós imeachta"
+		},
+		{
+			"lang": "cs",
+			"text": "Postupy"
+		},
+		{
+			"lang": "da",
+			"text": "Procedure"
+		},
+		{
+			"lang": "et",
+			"text": "Menetlus"
+		},
+		{
+			"lang": "el",
+			"text": "Διαδικασία"
+		},
+		{
+			"lang": "bg",
+			"text": "Процедура"
+		},
+		{
+			"lang": "hu",
+			"text": "Eljárás"
+		},
+		{
+			"lang": "mt",
+			"text": "Proċedura"
+		},
+		{
+			"lang": "lv",
+			"text": "Procedūra"
+		},
+		{
+			"lang": "ro",
+			"text": "Procedură"
+		},
+		{
+			"lang": "sk",
+			"text": "Postup"
+		},
+		{
+			"lang": "sl",
+			"text": "Postopek"
+		},
+		{
+			"lang": "fi",
+			"text": "Menettely"
+		},
+		{
+			"lang": "pl",
+			"text": "Procedura"
+		},
+		{
+			"lang": "lt",
+			"text": "Darbo tvarka"
+		},
+		{
+			"lang": "nl",
+			"text": "Procedure"
+		},
+		{
+			"lang": "sv",
+			"text": "Beslutsgång"
+		}
+	],
+	"children": [
+		"a68p1",
+		"a68p2"
+	],
+	"title": "Article 68"
+}

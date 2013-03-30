@@ -1,0 +1,102 @@
+{
+	"id": "a5i6",
+	"type": "point",
+	"literal": "f",
+	"parent": "a5",
+	"text": [
+		{
+			"lang": "en",
+			"text": "processed under the responsibility and liability of the controller, who shall ensure and demonstrate for each processing operation the compliance with the provisions of this Regulation."
+		},
+		{
+			"lang": "de",
+			"text": "unter der Gesamtverantwortung des für die Verarbeitung Verantwortlichen verarbeitet werden, der dafür haftet, dass bei jedem Verarbeitungsvorgang die Vorschriften dieser Verordnung eingehalten werden, und der den Nachweis hierfür erbringen muss."
+		},
+		{
+			"lang": "fr",
+			"text": "traitées sous la responsabilité du responsable du traitement, qui veille à la conformité de chaque opération de traitement avec les dispositions du présent règlement et en apporte la preuve ."
+		},
+		{
+			"lang": "es",
+			"text": "tratados bajo la responsabilidad del responsable del tratamiento, que, para cada operación de tratamiento, garantizará y demostrará el cumplimiento de las disposiciones del presente Reglamento."
+		},
+		{
+			"lang": "pt",
+			"text": "Tratados sob a autoridade e responsabilidade do responsável pelo tratamento, que deve assegurar e demonstrar a conformidade de cada operação de tratamento com as disposições do presente regulamento."
+		},
+		{
+			"lang": "it",
+			"text": "trattati sotto la responsabilità del responsabile del trattamento, che assicura e comprova, per ciascuna operazione, la conformità alle disposizioni del presente regolamento."
+		},
+		{
+			"lang": "ga",
+			"text": "ní mór iad a phróiseáil faoi fhreagracht agus faoi dhliteanas an rialaitheora a áiritheoidh go bhfuil gach oibríocht próiseála i gcomhréir le forálacha an Rialacháin seo agus a léireoidh sin."
+		},
+		{
+			"lang": "cs",
+			"text": "zpracovávány v odpovědnosti správce, který při každém zpracování zajistí a prokáže soulad s ustanoveními tohoto nařízení."
+		},
+		{
+			"lang": "da",
+			"text": "skal behandles under den registeransvarliges ansvar, og den registeransvarlige skal sikre og for hver behandlingsaktivitet påvise overensstemmelse med denne forordning."
+		},
+		{
+			"lang": "et",
+			"text": "isikuandmeid töödeldakse vastutava töötleja kohustuste raames ja vastutusel ning vastutav töötleja tagab ja tõendab, et töötlemistoimingud vastavad käesolevale määrusele."
+		},
+		{
+			"lang": "el",
+			"text": "στ) να υποβάλλονται σε επεξεργασία υπό την ευθύνη και την υποχρέωση αποζημίωσης του υπευθύνου επεξεργασίας, ο οποίος διασφαλίζει και αποδεικνύει για κάθε πράξη επεξεργασίας τη συμμόρφωση προς τις διατάξεις του παρόντος κανονισμού."
+		},
+		{
+			"lang": "bg",
+			"text": "е) обработвани под ръководството и отговорността на администратора, който осигурява и доказва спазването на разпоредбите на настоящия регламент при за всяка операция по обработване на данни."
+		},
+		{
+			"lang": "hu",
+			"text": "feldolgozása az adatkezelő felelősségére történik, akinek minden feldolgozási művelet tekintetében biztosítania és igazolnia kell az e rendelet rendelkezéseivel való összhangot."
+		},
+		{
+			"lang": "mt",
+			"text": "ipproċessata taħt ir-responsabbiltà u l-obbligu tal-kontrollur, li għandu jiżgura u juri għal kull operazzjoni ta’ pproċessar il-konformità mad-dispożizzjonijiet ta’ dan ir-Regolament."
+		},
+		{
+			"lang": "lv",
+			"text": "apstrādātiem pārziņa atbildībā, turklāt pārzinis nodrošina un uzskatāmi parāda, ka katra apstrādes darbība notiek saskaņā ar šo regulu."
+		},
+		{
+			"lang": "ro",
+			"text": "să fie prelucrate sub răspunderea operatorului, care asigură și demonstrează conformitatea fiecărei operațiuni de prelucrare cu dispozițiile prezentului regulament."
+		},
+		{
+			"lang": "sk",
+			"text": "spracúvané v rámci okruhu zodpovednosti a povinností prevádzkovateľa, ktorý zabezpečí a pre každú operáciu spracovania preukáže súlad s ustanoveniami tohto nariadenia."
+		},
+		{
+			"lang": "sl",
+			"text": "obdelani v okviru pristojnosti in odgovornosti upravljavca, ki za vsak postopek obdelave zagotovi in dokaže skladnost z določbami te uredbe."
+		},
+		{
+			"lang": "fi",
+			"text": "vastuu henkilötietojen käsittelystä kuuluu rekisterinpitäjälle, jonka on varmistettava ja osoitettava jokaisen käsittelytoimen osalta, että tämän asetuksen säännöksiä on noudatettu."
+		},
+		{
+			"lang": "pl",
+			"text": "przetwarzane pod nadzorem i na odpowiedzialność administratora, który zapewnia i wykazuje zgodność każdej operacji przetwarzania z przepisami niniejszego rozporządzenia."
+		},
+		{
+			"lang": "lt",
+			"text": "tvarkomi duomenų valdytojo atsakomybe, kuris užtikrina ir įrodo, kad kiekviena duomenų tvarkymo operacija atitinka šio reglamento nuostatas."
+		},
+		{
+			"lang": "nl",
+			"text": "worden verwerkt onder de verantwoordelijkheid van de voor de verwerking verantwoordelijke, die ervoor zorgt en aantoont dat elke verwerking voldoet aan de bepalingen van deze verordening."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige ska ansvara för behandlingen av personuppgifterna, och ska se till och visa att bestämmelserna i denna förordning efterlevs vid varje behandling."
+		}
+	],
+	"children": [],
+	"title": "Article 5 – Point 6"
+}

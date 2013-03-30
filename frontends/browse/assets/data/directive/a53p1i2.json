@@ -1,0 +1,102 @@
+{
+	"id": "a53p1i2",
+	"type": "point",
+	"literal": "b",
+	"parent": "a53p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "to order the controller or the processor to comply with the data subject's requests to exercise the rights provided by this Regulation;"
+		},
+		{
+			"lang": "de",
+			"text": "den für die Verarbeitung Verantwortlichen oder den Auftragsverarbeiter anzuweisen, den Anträgen der betroffenen Person auf Ausübung der ihr nach dieser Verordnung zustehenden Rechte zu entsprechen,"
+		},
+		{
+			"lang": "fr",
+			"text": "d'ordonner au responsable du traitement ou au sous‑traitant de satisfaire aux demandes d'exercice des droits prévus par le présent règlement présentées par la personne concernée;"
+		},
+		{
+			"lang": "es",
+			"text": "ordenar al responsable o al encargado del tratamiento que atiendan las solicitudes de ejercicio de los derechos conferidos por el presente Reglamento presentadas por el interesado;"
+		},
+		{
+			"lang": "pt",
+			"text": "Ordenar ao responsável pelo tratamento ou ao subcontratante que satisfaça os pedidos de exercício de direitos apresentados pelo titular dos dados previstos no presente regulamento;"
+		},
+		{
+			"lang": "it",
+			"text": "ingiungere al responsabile del trattamento o all’incaricato del trattamento di soddisfare le richieste dell’interessato di esercitare i diritti derivanti dal presente regolamento;"
+		},
+		{
+			"lang": "ga",
+			"text": "ordú a thabhairt don rialaitheoir nó don phróiseálaí iarrataí an duine is ábhar do na sonraí a chomhlíonadh maidir le feidhmiú na gceart dá bhforáiltear sa Rialachán;"
+		},
+		{
+			"lang": "cs",
+			"text": "nařizovat správci nebo zpracovateli, aby vyhověli žádostem subjektů údajů o výkon práv stanovených tímto nařízením;"
+		},
+		{
+			"lang": "da",
+			"text": "til at give den registeransvarlige påbud om at imødekomme den registreredes anmodning om at udøve de rettigheder, der er omfattet af denne forordning"
+		},
+		{
+			"lang": "et",
+			"text": "anda käsk vastutaval töötlejal või volitatud töötlejal rahuldada andmesubjekti taotlused seoses käesolevas määruses sätestatud õiguste kasutamisega;"
+		},
+		{
+			"lang": "el",
+			"text": "β) να δίνει εντολή στον υπεύθυνο επεξεργασίας ή στον εκτελούντα την επεξεργασία να συμμορφώνονται προς τα αιτήματα του προσώπου στο οποίο αναφέρονται τα δεδομένα για την άσκηση των δικαιωμάτων που προβλέπονται στον παρόντα κανονισμό·"
+		},
+		{
+			"lang": "bg",
+			"text": "б) да разпорежда на администратора или на обработващия лични данни да изпълни исканията на субекта на данни, свързани с упражняването на правата, предоставени с настоящия регламент;"
+		},
+		{
+			"lang": "hu",
+			"text": "elrendelje az érintett e rendelet szerinti jogainak gyakorlására vonatkozó kérelmének adatkezelő vagy adatfeldolgozó általi teljesítését;"
+		},
+		{
+			"lang": "mt",
+			"text": "li tordna lill-kontrollur jew lill-proċessur jikkonforma mat-talbiet tas-suġġett tad-dejta li jeżerċita d-drittijiet ipprovduti minn dan ir-Regolament;"
+		},
+		{
+			"lang": "lv",
+			"text": "izdot rīkojumu pārzinim vai apstrādātājam izpildīt datu subjekta pieprasījumu izmantot viņam šajā regulā piešķirtās tiesības;"
+		},
+		{
+			"lang": "ro",
+			"text": "să solicite operatorului sau persoanei împuternicite de către operator să respecte cererile persoanei vizate de exercitare a drepturilor prevăzute de prezentul regulament;"
+		},
+		{
+			"lang": "sk",
+			"text": "nariadiť prevádzkovateľovi či sprostredkovateľovi vyhovieť žiadostiam dotknutej osoby o výkon práv ustanovených týmto nariadením;"
+		},
+		{
+			"lang": "sl",
+			"text": "upravljavcu ali obdelovalcu odredi, da ugodi zahtevi posameznika, na katerega se nanašajo osebni podatki, v zvezi z uveljavljanjem pravic iz te uredbe;"
+		},
+		{
+			"lang": "fi",
+			"text": "määrätä rekisterinpitäjä tai henkilötietojen käsittelijä noudattamaan rekisteröidyn pyyntöjä, jotka koskevat tähän asetukseen perustuvien oikeuksien käyttöä;"
+		},
+		{
+			"lang": "pl",
+			"text": "nakazania administratorowi lub podmiotowi przetwarzającemu dane spełnienia żądań przedstawionych przez podmioty danych dotyczących skorzystania z praw przewidzianych w niniejszym rozporządzeniu;"
+		},
+		{
+			"lang": "lt",
+			"text": "nurodyti duomenų valdytojui arba duomenų tvarkytojui tenkinti duomenų subjekto prašymus užtikrinti šiame reglamente nustatytas teises;"
+		},
+		{
+			"lang": "nl",
+			"text": "de voor de verwerking verantwoordelijke of de verwerker te gelasten aan de verzoeken van de betrokkene tot uitoefening van zijn rechten uit hoofde van deze verordening te voldoen;"
+		},
+		{
+			"lang": "sv",
+			"text": "beordra den registeransvarige eller registerföraren att följa den registrerades krav att få utöva sina rättigheter enligt den här förordningen,"
+		}
+	],
+	"children": [],
+	"title": "Article 53 – Paragraph 1 – Point 2"
+}

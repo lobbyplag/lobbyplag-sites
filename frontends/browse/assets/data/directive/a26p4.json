@@ -1,0 +1,102 @@
+{
+	"id": "a26p4",
+	"type": "paragraph",
+	"literal": "4",
+	"parent": "a26",
+	"text": [
+		{
+			"lang": "en",
+			"text": "If a processor processes personal data other than as instructed by the controller, the processor shall be considered to be a controller in respect of that processing and shall be subject to the rules on joint controllers laid down in Article 24."
+		},
+		{
+			"lang": "de",
+			"text": "Jeder Auftragsverarbeiter, der personenbezogene Daten auf eine andere als die ihm von dem für die Verarbeitung Verantwortlichen bezeichnete Weise verarbeitet, gilt für diese Verarbeitung als für die Verarbeitung Verantwortlicher und unterliegt folglich den Bestimmungen des Artikels 24 für gemeinsam für die Verarbeitung Verantwortliche."
+		},
+		{
+			"lang": "fr",
+			"text": "S'il traite des données à caractère personnel d'une manière autre que celle définie dans les instructions du responsable du traitement, le sous‑traitant est considéré comme responsable du traitement à l’égard de ce traitement et il est soumis aux dispositions applicables aux responsables conjoints du traitement prévues à l'article 24."
+		},
+		{
+			"lang": "es",
+			"text": "Si un encargado del tratamiento trata datos personales sin seguir las instrucciones del responsable del tratamiento, el encargado será considerado responsable del tratamiento con respecto a ese tratamiento y estará sujeto a las normas aplicables a los corresponsables del tratamiento establecidas en el artículo 24."
+		},
+		{
+			"lang": "pt",
+			"text": "Se um subcontratante proceder ao tratamento de dados pessoais de forma diferente da que foi definida nas instruções do responsável pelo tratamento, o subcontratante é considerado responsável pelo tratamento quanto a esse tratamento, ficando sujeito às disposições aplicáveis aos responsáveis conjuntos pelo tratamento estabelecidas no artigo 24.º."
+		},
+		{
+			"lang": "it",
+			"text": "L’incaricato del trattamento che tratta i dati personali diversamente da quanto indicato nelle istruzioni del responsabile del trattamento è considerato responsabile del trattamento per tale trattamento ed è soggetto alle norme sui corresponsabili del trattamento di cui all’articolo 24."
+		},
+		{
+			"lang": "ga",
+			"text": "Má phróiseálann próiseálaí sonraí pearsanta seachas de réir mar a threoraíonn an rialaitheoir dó, measfar gur rialaitheoir atá sa phróiseálaí sin i ndáil leis an bpróiseáil sin agus beidh sé faoi réir na rialacha maidir le comhrialaitheoirí atá leagtha síos in Airteagal 24."
+		},
+		{
+			"lang": "cs",
+			"text": "Jestliže zpracovatel zpracovává jiné osobní údaje, než k jakým mu dal pokyn správce, považuje se ve vztahu k takovému zpracování za správce a vztahují se na něho pravidla o společných správcích uvedená v článku 24."
+		},
+		{
+			"lang": "da",
+			"text": "Hvis en registerfører behandler personoplysninger ud over den registeransvarliges instrukser, betragtes registerføreren som registeransvarlig for den pågældende behandling og er underlagt reglerne for fælles registeransvarlige i artikel 24."
+		},
+		{
+			"lang": "et",
+			"text": "Kui volitatud töötleja töötleb isikuandmeid eesmärgil, mis ei vasta vastutava töötleja antud ülesandele, käsitatakse volitatud töötlejat sellise töötlemise suhtes vastutava töötlejana ja tema suhtes kohaldatakse artiklis 24 sätestatud kaasvastutuse eeskirju."
+		},
+		{
+			"lang": "el",
+			"text": "Εάν ο εκτελών την επεξεργασία επεξεργάζεται δεδομένα προσωπικού χαρακτήρα πέραν των οδηγιών του υπευθύνου επεξεργασίας, ο εκτελών την επεξεργασία θεωρείται υπεύθυνος επεξεργασίας σε σχέση με τη συγκεκριμένη επεξεργασία και υπάγεται στους κανόνες για τους από κοινού υπευθύνους επεξεργασίας που προβλέπονται στο άρθρο 24."
+		},
+		{
+			"lang": "bg",
+			"text": "Ако обработващ лични данни обработва лични данни, различни от онези, за които е получил указания от администратора, първият се счита за администратор по отношение на това обработване и спрямо него се прилагат правилата за съвместните администратори, установени в член 24."
+		},
+		{
+			"lang": "hu",
+			"text": "Amennyiben valamely adatfeldolgozó az adatkezelő utasításaitól eltérő módon dolgozza fel a személyes adatokat, az adatfeldolgozó e feldolgozás tekintetében adatkezelőnek minősül, és rá a közös adatkezelőkre vonatkozó, a 24. cikkben rögzített szabályokat kell alkalmazni."
+		},
+		{
+			"lang": "mt",
+			"text": "Jekk proċessur jipproċessa dejta personali għajr kif ordnat mill-kontrollur, il-proċessur għandu jitqies li huwa kontrollur fir-rigward ta’ dak l-ipproċessar u għandu jkun soġġett għar-regoli dwar il-kontrolluri konġunti stipulati fl-Artikolu 24."
+		},
+		{
+			"lang": "lv",
+			"text": "Ja apstrādātājs apstrādā personas datus citādi, nekā norādījis pārzinis, apstrādātāju uzskata par pārzini attiecībā uz šo apstrādi un viņam ir piemērojami 24. pantā paredzētie noteikumi par kopīgiem pārziņiem."
+		},
+		{
+			"lang": "ro",
+			"text": "În cazul în care o persoană împuternicită de către operator prelucrează datele cu caracter personal într-un alt mod decât cel prevăzut în instrucțiunile date de operator, persoana împuternicită de către operator este considerată responsabilă de prelucrarea datelor în ceea ce privește prelucrarea respectivă și face obiectul dispozițiilor privind operatorii asociați prevăzute la articolul 24."
+		},
+		{
+			"lang": "sk",
+			"text": "Ak sprostredkovateľ spracúva osobné údaje iné než sú údaje podľa pokynov prevádzkovateľa, sprostredkovateľ sa v rozsahu tohto spracovania považuje za prevádzkovateľa a podlieha pravidlám o spoločných prevádzkovateľoch stanoveným v článku 24."
+		},
+		{
+			"lang": "sl",
+			"text": "Če obdelovalec obdela osebne podatke, katerih obdelave upravljavec od njega ni zahteval, se obdelovalec v zvezi s to obdelavo obravnava kot upravljavec in zanj veljajo pravila o skupnih upravljavcih iz člena 24."
+		},
+		{
+			"lang": "fi",
+			"text": "Jos henkilötietojen käsittelijä käsittelee muita kuin rekisterinpitäjän määräämiä henkilötietoja, käsittelijää on pidettävä kyseisen käsittelyn osalta rekisterinpitäjänä ja käsittelijään on sovellettava 24 artiklassa vahvistettuja, yhteisiä rekisterinpitäjiä koskevia sääntöjä."
+		},
+		{
+			"lang": "pl",
+			"text": "Jeśli podmiot przetwarzający przetwarza dane osobowe inne, niż te, których przetwarzanie zlecił administrator, podmiot przetwarzający jest uważany za administratora w zakresie tego przetwarzania i podlega przepisom dotyczącym współadministratorów ustanowionym w art. 24."
+		},
+		{
+			"lang": "lt",
+			"text": "Jeigu duomenų tvarkytojas tvarko asmens duomenis kitaip nei nurodė duomenų valdytojas, to duomenų tvarkymo atžvilgiu duomenų tvarkytojas laikomas duomenų valdytoju ir jam taikomos 24 straipsnyje nustatytos taisyklės dėl bendrų duomenų valdytojų."
+		},
+		{
+			"lang": "nl",
+			"text": "Wanneer een verwerker persoonsgegevens verwerkt anders dan volgens de instructies van de voor de verwerking verantwoordelijke, wordt de verwerker met betrekking tot die verwerking als een voor de verwerking verantwoordelijke beschouwd waarvoor de in artikel 24 neergelegde regels voor gezamenlijk voor de verwerking verantwoordelijken gelden."
+		},
+		{
+			"lang": "sv",
+			"text": "Om en registerförare behandlar andra personuppgifter än de som den registeransvarige gett instruktioner om ska registerföraren anses vara en registeransvarig med avseende på den behandlingen och ska omfattas av de bestämmelser om gemensamma registeransvariga som fastställs i artikel 24."
+		}
+	],
+	"children": [],
+	"title": "Article 26 – Paragraph 4"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "a4i13",
+	"type": "point",
+	"literal": "13",
+	"parent": "a4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "‘main establishment’ means as regards the controller, the place of its establishment in the Union where the main decisions as to the purposes, conditions and means of the processing of personal data are taken; if no decisions as to the purposes, conditions and means of the processing of personal data are taken in the Union, the main establishment is the place where the main processing activities in the context of the activities of an establishment of a controller in the Union take place. As regards the processor, 'main establishment' means the place of its central administration in the Union;"
+		},
+		{
+			"lang": "de",
+			"text": "„Hauptniederlassung“ im Falle des für die Verarbeitung Verantwortlichen der Ort seiner Niederlassung in der Union, an dem die Grundsatzentscheidungen hinsichtlich der Zwecke, Bedingungen und Mittel der Verarbeitung personenbezogener Daten getroffen werden; wird über die Zwecke, Bedingungen und Mittel der Verarbeitung personenbezogener Daten nicht in der Union entschieden, ist die Hauptniederlassung der Ort, an dem die Verarbeitungstätigkeiten im Rahmen der Tätigkeiten einer Niederlassung eines für die Verarbeitung Verantwortlichen in der Union hauptsächlich stattfinden. Im Falle des Auftragsverarbeiters bezeichnet „Hauptniederlassung“ den Ort, an dem der Auftragsverarbeiter seine Hauptverwaltung in der Union hat;"
+		},
+		{
+			"lang": "fr",
+			"text": "«établissement principal»: en ce qui concerne le responsable du traitement, le lieu de son établissement dans l'Union où sont prises les principales décisions quant aux finalités, aux conditions et aux moyens du traitement de données à caractère personnel; si aucune décision de ce type n’est prise dans l’Union, l’établissement principal est le lieu où sont exercées les principales activités de traitement dans le cadre des activités d’un établissement d’un responsable du traitement dans l’Union; en ce qui concerne le sous-traitant, on entend par «établissement principal» le lieu de son administration centrale dans l'Union;"
+		},
+		{
+			"lang": "es",
+			"text": "«establecimiento principal»: en lo que se refiere al responsable del tratamiento, el lugar de su establecimiento en la Unión en el que se adopten las decisiones principales en cuanto a los fines, condiciones y medios del tratamiento de datos personales; si no se adopta en la Unión decisión alguna en cuanto a los fines, condiciones y medios del tratamiento de datos personales, el establecimiento principal es el lugar en el que tienen lugar las principales actividades de tratamiento en el contexto de las actividades de un establecimiento del responsable del tratamiento en la Unión. Por lo que respecta al encargado del tratamiento, por «establecimiento principal» se entiende el lugar de su administración central en la Unión;"
+		},
+		{
+			"lang": "pt",
+			"text": "«Estabelecimento principal», no que se refere ao responsável pelo tratamento, o local do seu estabelecimento na União onde são adotadas as principais decisões quanto às finalidades, condições e meios para o tratamento de dados pessoais; se não forem adotadas quaisquer decisões relativas às finalidades, condições e meios na União, o estabelecimento principal é o local onde são exercidas as atividades de tratamento principais no contexto das atividades de um estabelecimento de um responsável pelo tratamento na União. No que se refere ao subcontratante, o «estabelecimento principal» é o local da sua administração central na União;"
+		},
+		{
+			"lang": "it",
+			"text": "“stabilimento principale”: per quanto riguarda il responsabile del trattamento, il luogo di stabilimento nell’Unione in cui sono prese le principali decisioni sulle finalità, le condizioni e i mezzi del trattamento di dati personali; se non sono prese decisioni di questo tipo nell’Unione, il luogo in cui sono condotte le principali attività di trattamento nell’ambito delle attività di uno stabilimento di un responsabile del trattamento nell’Unione. Con riferimento all’incaricato del trattamento, per “stabilimento principale” si intende il luogo in cui ha sede la sua amministrazione centrale nell’Unione."
+		},
+		{
+			"lang": "ga",
+			"text": "ciallaíonn ‘príomhbhunaíocht’, i gcás an rialaitheora, an áit a bhfuil a bhunaíocht san Aontas ina ndéantar na príomhchinntí maidir le críocha, coinníollacha agus modhanna na próiseála sonraí pearsanta; mura ndéantar aon chinntí san Aontas maidir le críocha, coinníollacha agus modhanna na próiseála sonraí pearsanta, is ionann an phríomhbhunaíocht agus an áit a ndéantar na príomhghníomhaíochtaí próiseála i gcomhthéacs gníomhaíochtaí bunaíochta rialaitheora san Aontas. I gcás an phróiseálaí, ciallaíonn ‘príomhbhunaíocht’ an áit a bhfuil riarachán lárnach an phróiseálaí san Aontas;"
+		},
+		{
+			"lang": "cs",
+			"text": "„hlavní provozovnou“ v případě správce místo jeho usazení v Unii, kde jsou přijímána hlavní rozhodnutí ohledně účelu, podmínek a prostředků zpracování osobních údajů; nejsou-li ohledně účelu, podmínek a prostředků zpracování osobních údajů přijímána rozhodnutí v Unii, je hlavní provozovnou místo, kde jsou prováděny hlavní činnosti spojené se zpracováním údajů, jež odpovídají činnostem sídla správce v Unii. V případě zpracovatele je „hlavní provozovnou“ místo, kde se nachází jeho ústřední správa v Unii;"
+		},
+		{
+			"lang": "da",
+			"text": "&quot;hovedvirksomhed&quot;: for så vidt angår den registeransvarlige, stedet for dennes virksomhed i Unionen, hvor de vigtigste beslutninger vedrørende formål, betingelser eller metoder i forbindelse med behandling af personoplysninger træffes; hvis der ikke træffes beslutninger vedrørende formål, betingelser eller metoder i forbindelse med behandling af personoplysninger i Unionen, er hovedvirksomheden det sted, hvor de vigtigste behandlingsaktiviteter i forbindelse med en registeransvarligs virksomhed i Unionen finder sted. For så vidt angår registerføreren, er &quot;hovedvirk­somhed&quot; stedet for dennes centrale administration i Unionen"
+		},
+		{
+			"lang": "et",
+			"text": "„peamine tegevuskoht” – vastutava töötleja selline asukoht liidus, kus tehakse peamised otsused isikuandmete töötlemise eesmärkide, tingimuste ja vahendite kohta või kui otsuseid isikuandmete töötlemise eesmärkide, tingimuste ja vahendite kohta ei tehta liidus, siis asukoht liidus, kus vastutav töötleja oma tegevuse käigus peamiselt andmeid töötleb. Volitatud töötleja peamine tegevuskoht on tema juhtkonna asukoht liidus;"
+		},
+		{
+			"lang": "el",
+			"text": "«κύρια εγκατάσταση»: όσον αφορά τον υπεύθυνο επεξεργασίας, ο τόπος της εγκατάστασής του στην Ένωση όπου λαμβάνονται οι βασικές αποφάσεις όσον αφορά τους σκοπούς, τις προϋποθέσεις και τα μέσα επεξεργασίας δεδομένων προσωπικού χαρακτήρα· εάν δεν λαμβάνονται αποφάσεις όσον αφορά τους σκοπούς, τις προϋποθέσεις και τα μέσα επεξεργασίας δεδομένων προσωπικού χαρακτήρα στην Ένωση, κύρια εγκατάσταση είναι ο τόπος στον οποίο εκτελούνται οι κύριες δραστηριότητες επεξεργασίας στο πλαίσιο των δραστηριοτήτων υπευθύνου επεξεργασίας σε εγκατάσταση στην Ένωση. Όσον αφορά τον εκτελούντα την επεξεργασία, «κύρια εγκατάσταση» είναι ο τόπος της κεντρικής διοίκησής του στην Ένωση·"
+		},
+		{
+			"lang": "bg",
+			"text": "„основно място на установяване“ означава по отношение на администратора мястото на неговото установяване в Съюза, където се вземат основните решения по отношение на целите, условията и средствата за обработването на лични данни; ако решенията относно целите, условията и средствата за обработването на лични данни не се вземат в Съюза, основното място на установяване е мястото, където се извършват основните дейности по обработване на данни в контекста на дейностите на място на установяване на даден администратор в Съюза. По отношение на обработващия лични данни „основно място на установяване“ означава мястото, където се намира централната му администрация в Съюза;"
+		},
+		{
+			"lang": "hu",
+			"text": "„fő szervezet”: az adatkezelő vonatkozásában a letelepedés azon helye az Unióban, ahol a személyes adatok feldolgozásának céljaira, feltételeire és módjaira vonatkozó fő döntéseket meghozzák; amennyiben a személyes adatok feldolgozásának céljaira, feltételeire és módjaira vonatkozó fő döntéseket nem az Unióban hozzák meg, a fő szervezet az a hely, ahol az Unióban létrehozott adatkezelő tevékenységeivel összefüggésben a fő feldolgozási tevékenységeket végzik. A feldolgozó vonatkozásában a „fő szervezet” a központi ügyvezetés helye az Unióban;"
+		},
+		{
+			"lang": "mt",
+			"text": "‘stabbiliment ewlieni’ tfisser fir-rigward tal-kontrollur, il-post tal-istabbilment tiegħu fl-Unjoni fejn id-deċiżjonijiet ewlenin dwar l-għanijiet, il-kundizzjonijiet u l-mezzi tal-ipproċessar tad-dejta personali huma meħuda; jekk fl-Unjoni ma tittieħed l-ebda deċiżjoni dwar l-għanijiet, il-kundizzjonijiet u l-mezzi tal-ipproċessar tad-dejta personali, l-istabbilment ewlieni huwa l-post fejn isiru l-attivitajiet ta’ pproċessar ewlenin fil-kuntest tal-attivitajiet ta’ stabbilment ta’ kontrollur fl-Unjoni. Fir-rigward tal-proċessur, ‘stabbilment ewlieni’ tfisser il-post tal-amministrazzjoni ċentrali tiegħu fl-Unjoni;"
+		},
+		{
+			"lang": "lv",
+			"text": "&quot;galvenās institūcijas atrašanās vieta&quot; attiecībā uz pārzini ir tās pārziņa institūcijas atrašanās vieta Savienībā, kur tiek pieņemti galvenie lēmumi par personas datu apstrādes nolūkiem, nosacījumiem un līdzekļiem; ja lēmumus par personas datu apstrādes nolūkiem, nosacījumiem un līdzekļiem nepieņem Savienībā, galvenās institūcijas atrašanās vieta ir tur, kur notiek galvenās apstrādes darbības saistībā ar pārziņa institūcijas darbībām Savienībā. Attiecībā uz apstrādātāju &quot;galvenās institūcijas atrašanās vieta&quot; ir tā centrālās pārvaldes institūcijas atrašanās vieta Savienībā;"
+		},
+		{
+			"lang": "ro",
+			"text": "„sediu principal” înseamnă, în ceea ce privește operatorul, locul de stabilire al acestuia pe teritoriul Uniunii, în care sunt luate principalele decizii privind scopurile, condițiile și mijloacele de prelucrare a datelor cu caracter personal; în cazul în care nu se ia nicio decizie pe teritoriul Uniunii cu privire la scopurile, condițiile și mijloacele de prelucrare a datelor cu caracter personal, sediul principal este locul în care se desfășoară principalele activități de prelucrare în cadrul activităților unui sediu al unui operator din Uniune. În ceea ce privește persoana împuternicită de operator, „sediu principal” înseamnă locul administrației sale centrale din Uniune;"
+		},
+		{
+			"lang": "sk",
+			"text": "„ústredie“ je v prípade prevádzkovateľa miesto jeho sídla v Únii, kde sa prijímajú najdôležitejšie rozhodnutia, pokiaľ ide o účely, podmienky a prostriedky spracúvania osobných údajov; ak sa v Únii neprijímajú žiadne rozhodnutia, pokiaľ ide o účely, podmienky a prostriedky spracúvania osobných údajov, ústredím je miesto, kde sa vykonáva hlavná činnosť zodpovedajúca činnosti zariadenia prevádzkovateľa v rámci Únie. V prípade sprostredkovateľa znamená „ústredie“ miesto jeho administratívneho sídla v Únii;"
+		},
+		{
+			"lang": "sl",
+			"text": "„glavni sedež“ v zvezi z upravljavcem pomeni kraj ustanovitve v Uniji, kjer se sprejemajo glavne odločitve glede namenov, pogojev in sredstev obdelave osebnih podatkov; če se odločitve glede namenov, pogojev in sredstev obdelave osebnih podatkov ne sprejemajo v Uniji, je glavni sedež kraj, v katerem se izvajajo glavni postopki obdelave v okviru dejavnosti ustanovitve upravljavca v Uniji. V zvezi z obdelovalcem „glavni sedež“ pomeni kraj njegove osrednje uprave v Uniji;"
+		},
+		{
+			"lang": "fi",
+			"text": "’päätoimipaikalla’ unionissa sijaitsevaa rekisterinpitäjän sijoittautumispaikkaa, jossa tehdään henkilötietojen käsittelyn tarkoituksia, edellytyksiä ja keinoja koskevat tärkeimmät päätökset; jos päätöksiä henkilötietojen käsittelyn tarkoituksista, edellytyksistä ja keinoista ei tehdä unionissa, päätoimipaikka on paikka, jossa unioniin sijoittautuneen rekisterinpitäjän toimintaan liittyvät tärkeimmät käsittelytoimet suoritetaan. Henkilötietojen käsittelijän päätoimipaikan olisi oltava sen keskushallinnon sijaintipaikka unionissa;"
+		},
+		{
+			"lang": "pl",
+			"text": "„główna siedziba” oznacza, jeśli chodzi o administratora, jego siedzibę w Unii, w której podejmowane są najważniejsze decyzje dotyczące celów, warunków i sposobów przetwarzania danych; jeśli decyzji dotyczących celów, warunków i sposobów przetwarzania danych osobowych nie podejmuje się w Unii, główną siedzibą jest miejsce, w którym odbywa się główna działalność w zakresie przetwarzania w kontekście działalności zakładu administratora w Unii. Jeśli chodzi o podmiot przetwarzający, „główna siedziba” oznacza miejsce, w którym znajduje się jego zarząd w Unii;"
+		},
+		{
+			"lang": "lt",
+			"text": "pagrindinė buveinė – duomenų valdytojo atveju yra jo buveinės vieta Sąjungos teritorijoje, kurioje priimami pagrindiniai sprendimai dėl asmens duomenų tvarkymo tikslų, sąlygų ir būdų; jei sprendimai dėl asmens duomenų tvarkymo tikslų, sąlygų ir būdų Sąjungos teritorijoje nepriimami, pagrindine buveine laikoma vieta, kurioje duomenų valdytojo buveinei veikiant Sąjungoje atliekamos pagrindinės duomenų tvarkymo operacijos. Duomenų tvarkytojo pagrindinė buveinė – jo centrinės administracijos vieta Sąjungos teritorijoje;"
+		},
+		{
+			"lang": "nl",
+			"text": "“belangrijkste vestiging”: met betrekking tot de voor de verwerking verantwoordelijke de plaats van vestiging van de voor de verwerking verantwoordelijke in de Unie waar de voornaamste besluiten over het doel van en de voorwaarden en de middelen voor de verwerking van persoonsgegevens worden genomen; wanneer in de Unie geen besluiten over het doel van of de voorwaarden en middelen voor de verwerking van persoonsgegevens worden genomen, is de belangrijkste vestiging de plaats waar de voornaamste gegevensverwerking in het kader van de activiteiten van een vestiging van een voor de verwerking verantwoordelijke in de Unie plaatsvindt. Met betrekking tot de verwerker is de “belangrijkste vestiging” de plaats waar zich zijn centrale administratie in de Unie bevindt;"
+		},
+		{
+			"lang": "sv",
+			"text": "huvudsakligt verksamhetsställe: när det gäller den registeransvarige, den plats i unionen där denne är etablerad, där de huvudsakliga besluten om syftena, villkoren och medlen för behandlingen av personuppgifter fattas; om inga beslut om syftena, villkoren och metoderna för behandlingen av personuppgifter fattas i unionen är det huvudsakliga verksamhetsstället den plats där den huvudsakliga behandlingen inom ramen för den verksamhet som bedrivs vid en registeransvarigs verksamhetsställe i unionen äger rum. När det gäller registerföraren avses med huvudsakligt verksamhetsställe den plats i unionen där vederbörande har sin centrala förvaltning."
+		}
+	],
+	"children": [],
+	"title": "Article 4 – Point 13"
+}

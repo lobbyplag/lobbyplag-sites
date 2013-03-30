@@ -1,0 +1,102 @@
+{
+	"id": "r40",
+	"type": "recital",
+	"literal": "40",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The processing of personal data for other purposes should be only allowed where the processing is compatible with those purposes for which the data have been initially collected, in particular where the processing is necessary for historical, statistical or scientific research purposes. Where the other purpose is not compatible with the initial one for which the data are collected, the controller should obtain the consent of the data subject for this other purpose or should base the processing on another legitimate ground for lawful processing, in particular where provided by Union law or the law of the Member State to which the controller is subject. In any case, the application of the principles set out by this Regulation and in particular the information of the data subject on those other purposes should be ensured."
+		},
+		{
+			"lang": "de",
+			"text": "Die Verarbeitung personenbezogener Daten für andere Zwecke sollte nur zulässig sein, wenn diese mit den Zwecken, für die sie ursprünglich erhoben wurden, vereinbar sind, beispielsweise dann, wenn die Verarbeitung für historische oder statistische Zwecke oder zum Zwecke der wissenschaftlichen Forschung erforderlich ist. Ist der andere Zweck nicht mit dem ursprünglichen Zweck, für den die Daten erhoben wurden, vereinbar, muss der für die Verarbeitung Verantwortliche hierfür die Einwilligung der betroffenen Person einholen oder die Verarbeitung auf einen anderen Rechtmäßigkeitsgrund stützen, der sich beispielsweise aus dem Unionsrecht oder dem Recht des Mitgliedstaats, dem der für die Verarbeitung Verantwortliche unterliegt, ergibt. In jedem Fall sollte gewährleistet sein, dass die in dieser Verordnung niedergelegten Grundsätze angewandt werden und die betroffene Person über diese anderen Zwecke unterrichtet wird."
+		},
+		{
+			"lang": "fr",
+			"text": "Le traitement des données à caractère personnel à d’autres fins ne devrait être autorisé que s'il est compatible avec les finalités de la collecte initiale des données, notamment lorsque le traitement est nécessaire à des fins statistiques ou de recherche historique ou scientifique. Lorsque cette autre finalité n'est pas compatible avec la finalité initiale de la collecte des données, il convient que le responsable du traitement obtienne le consentement de la personne concernée à cette autre finalité ou qu'il fonde le traitement sur un autre motif légitime, en particulier lorsque le droit de l'Union ou la législation de l'État membre dont relève le responsable des données le prévoit. En tout état de cause, l'application des principes énoncés par le présent règlement et, en particulier, de respecter l'obligation d'informer la personne concernée au sujet de ces autres finalités devrait être assurée."
+		},
+		{
+			"lang": "es",
+			"text": "El tratamiento de datos personales para otros fines solo debe autorizarse cuando sea compatible con aquellos fines para los que los datos hayan sido inicialmente recogidos, en particular cuando el tratamiento sea necesario para fines de investigación histórica, estadística o científica. Cuando esos otros fines no sean compatibles con el propósito inicial para el que se recopilan los datos, el responsable del tratamiento debe obtener el consentimiento del interesado para estos otros fines o debe basarlo en otro motivo legítimo para el tratamiento lícito, especialmente si así lo establece el Derecho de la Unión o la legislación del Estado miembro que sea de aplicación al responsable del tratamiento. En todo caso, se debe garantizar la aplicación de los principios establecidos por el presente Reglamento y, en particular, la información del interesado sobre esos otros fines."
+		},
+		{
+			"lang": "pt",
+			"text": "O tratamento de dados pessoais para outros fins apenas deve ser autorizado se for compatível com as finalidades para as quais os dados foram inicialmente recolhidos, particularmente para fins de investigação histórica, estatística ou científica. Sempre que essa outra finalidade não for compatível com a finalidade inicial para a qual os dados foram recolhidos, o responsável pelo tratamento deve obter o consentimento do titular dos dados para outra finalidade ou basear esse tratamento noutro fundamento legítimo para o tratamento lícito, nomeadamente se estabelecido pelo direito da União ou pela legislação do Estado-Membro a que o responsável pelo tratamento se encontre sujeito. Em qualquer caso, deve ser garantida a aplicação dos princípios enunciados pelo presente regulamento e, em particular, a obrigação de informar o titular dos dados sobre essas outras finalidades."
+		},
+		{
+			"lang": "it",
+			"text": "Il trattamento dei dati personali per altri fini dovrebbe essere consentito solo se compatibile con le finalità per le quali i dati sono stati inizialmente raccolti, in particolare se il trattamento è necessario per finalità storiche, statistiche o di ricerca scientifica. Se l’ulteriore finalità non è compatibile con la finalità iniziale della raccolta dati, sarebbe opportuno che il responsabile del trattamento ottenga il consenso specifico dell’interessato per tale finalità o basi il trattamento dati su un altro motivo legittimo, in particolare ove previsto dal diritto dell’Unione o dello Stato membro cui è soggetto il responsabile del trattamento. In ogni caso, dovrebbe essere garantita l’applicazione dei principi stabiliti dal presente regolamento, in particolare l’obbligo di informare l’interessato di tali altre finalità."
+		},
+		{
+			"lang": "ga",
+			"text": "Níor cheart próiseáil sonraí pearsanta chun críocha eile a cheadú ach amháin i gcás ina bhfuil an phróiseáil ag luí leis na críocha sin ar bailíodh na sonraí chucu ar an gcéad dul síos, go háirithe i gcás ina bhfuil an phróiseáil riachtanach chun críocha taighde stairiúil, staidrimh nó eolaíoch. I gcás nach bhfuil an chríoch eile ag luí leis an mbunchríoch ar bailíodh na sonraí chuici, ba cheart don rialaitheoir toiliú an duine is ábhar do na sonraí a fháil chun na críche eile sin nó ba cheart dó an phróiseáil a bhunú ar chúis dhlisteanach eile chun próiseáil dhleathach a dhéanamh, go háirithe nuair atá foráil déanta ina leith i ndlí an Aontais nó i ndlí an Bhallstáit a bhfuil an rialaitheoir faoina réir. Ar aon nós, ba cheart cur i bhfeidhm na bprionsabal a leagtar amach sa Rialachán seo a áirithiú agus ba cheart a áirithiú go háirithe go gcuirtear an duine is ábhar do na sonraí ar an eolas faoi na críocha eile sin."
+		},
+		{
+			"lang": "cs",
+			"text": "Zpracování osobních údajů pro jiné účely by mělo být přípustné pouze v případech, pokud je slučitelné s účely, pro které byly údaje původně sbírány, zejména pokud je zpracování nezbytné pro účely historiografického, statistického a vědeckého výzkumu. Pokud jiný účel není slučitelný s původním účelem, pro který byly údaje sbírány, měl by správce pro tento účel zpracování získat souhlas subjektu údajů nebo by měl při zpracování vycházet z jiného oprávněného důvodu pro zákonné zpracování, který například vyplývá z práva Unie nebo práva členského státu, kterému správce podléhá. V každém případě by mělo být zajištěno, že budou zásady stanovené tímto nařízením uplatňovány a subjekt údajů bude informován o těchto jiných účelech."
+		},
+		{
+			"lang": "da",
+			"text": "Behandlingen af personoplysninger til andre formål bør kun tillades, hvis behandlingen er forenelig med de formål, som oplysningerne oprindelig var indsamlet til, navnlig hvis behandlingen er nødvendig til historiske, statistiske eller videnskabelige forskningsformål. Hvis det andet formål ikke er foreneligt med det formål, som oplysningerne oprindeligt var indsamlet til, bør den registeransvarlige indhente den registreredes samtykke til dette andet formål eller basere behandlingen på en anden legitim grund til lovlig behandling, navnlig hvis det kræves i EU-retten eller medlemsstatens lovgivning, som den registeransvarlige er underlagt. Under alle omstændigheder bør det sikres, at de principper, der fastsættes ved denne forordning, og navnlig den registreredes oplysninger om disse andre formål anvendes."
+		},
+		{
+			"lang": "et",
+			"text": "Isikuandmete töötlemine muul eesmärgil peaks olema lubatud üksnes juhul, kui töötlemine on kooskõlas eesmärkidega, mille jaoks andmed algselt koguti, eelkõige juhul, kui töötlemine on vajalik ajaloo- või statistikauurimuste ning teadustöö eesmärgil. Kui muu eesmärk ei ole kooskõlas eesmärgiga, mille jaoks andmed algselt koguti, peaks vastutav töötleja andmete nimetatud muul eesmärgil töötlemiseks saama andmesubjekti nõusoleku või valima töötlemiseks seadusliku töötlemise muu õigusliku aluse, eelkõige kui see on ette nähtud ELi või selle liikmesriigi õigusega, mille õigust vastutava töötleja suhtes kohaldatakse. Igal juhul tuleks tagada käesolevas määruses sätestatud põhimõtete kohaldamine ja eelkõige andmesubjekti teavitamine kõnealustest muudest eesmärkidest."
+		},
+		{
+			"lang": "el",
+			"text": "Η επεξεργασία δεδομένων προσωπικού χαρακτήρα για άλλους σκοπούς πρέπει να επιτρέπεται μόνον εάν η επεξεργασία είναι συμβατή με τους σκοπούς εκείνους για τους οποίους συλλέχθηκαν αρχικά τα δεδομένα, ιδίως εάν η επεξεργασία είναι αναγκαία για ιστορικούς και στατιστικούς σκοπούς ή σκοπούς επιστημονικής έρευνας. Εάν ο άλλος σκοπός δεν είναι συμβατός με τον αρχικό σκοπό για τον οποίο συλλέχθηκαν τα δεδομένα, ο υπεύθυνος επεξεργασίας πρέπει να εξασφαλίζει τη συγκατάθεση του προσώπου στο οποίο αναφέρονται τα δεδομένα για τον συγκεκριμένο άλλο σκοπό ή πρέπει να βασίζει την επεξεργασία σε άλλον θεμιτό λόγο σύννομης επεξεργασίας, ιδίως εάν προβλέπεται από το δίκαιο της Ένωσης ή το δίκαιο του κράτους μέλος στο οποίο υπάγεται ο υπεύθυνος επεξεργασίας. Σε κάθε περίπτωση, πρέπει να εξασφαλίζεται η εφαρμογή των αρχών που καθορίζονται στον παρόντα κανονισμό και, ιδίως, η ενημέρωση του προσώπου στο οποίο αναφέρονται τα δεδομένα σχετικά με τους άλλους αυτούς σκοπούς."
+		},
+		{
+			"lang": "bg",
+			"text": "Обработването на лични данни за други цели следва да бъде разрешено единствено когато е съвместимо с целите, за които първоначално са събрани данните, по специално когато обработването е необходимо за исторически, статистически или научноизследователски цели. Ако другата цел не е съвместима с първоначалната, за която са събрани данните, администраторът следва да получи съгласието на субекта на данните за тази допълнителна цел или следва да основе обработването на друго законно основание за законосъобразно обработване, особено когато това е предвидено в правото на Съюза или в правото на държавата-членка, което се прилага спрямо администратора. Във всеки случай, прилагането на принципите, установени с настоящия регламент, и по-специално информирането на субекта на данните относно тези други цели, следва да бъдат гарантирани."
+		},
+		{
+			"lang": "hu",
+			"text": "A személyes adatok egyéb célú feldolgozása csak akkor megengedett, ha a feldolgozás az adatgyűjtés eredeti céljaival is összeegyeztethető, különösen, ha a feldolgozásra történelmi, statisztikai vagy tudományos kutatás céljából van szükség. Az adatgyűjtés eredeti céljával összeegyeztethetetlen egyéb cél esetén az adatkezelőnek a jogszerű adatfeldolgozás érdekében be kell szereznie az érintett ezen egyéb célhoz való hozzájárulását, vagy más jogszerű indokra kell alapítania a feldolgozást, különösen ha az uniós jog vagy azon tagállam joga, amelynek hatálya alá az adatkezelő tartozik, így rendelkezik. Minden esetben biztosítani kell az e rendeletben rögzített elvek alkalmazását, valamint különösen az érintett ezen egyéb célokról történő tájékoztatását."
+		},
+		{
+			"lang": "mt",
+			"text": "L-ipproċessar ta’ dejta personali għal finijiet oħra għandu jkun permess biss meta l-ipproċessar ikun kompatibbli ma’ dawk l-għanijiet li għalihom id-dejta nġabret inizjalment, b’mod partikolari fejn l-ipproċessar huwa meħtieġ għal għanijiet ta’ storja, statistika jew riċerka xjentifika. Meta l-għan l-ieħor mhuwiex kompatibbli ma’ dak inizjali li għalih inġabret id-dejta, il-kontrollur għandu jikseb il-kunsens tas-suġġett tad-dejta għal dan l-għan ieħor jew għandu jibbaża l-ipproċessar fuq bażi leġittima oħra għall-ipproċessar legali, b’mod partikolari fejn ipprovdut mil-liġi tal-Unjoni jew il-liġi tal-Istat Membru li l-kontrollur huwa soġġett għalih. Fi kwalunkwe każ, l-applikazzjoni b’mod partikolari tal-prinċipji stabbiliti minn dan ir-Regolament u b’mod partikolari l-informazzjoni lis-suġġett tad-dejta dwar dawk l-għanijiet ulterjuri għandhom ikunu żgurati."
+		},
+		{
+			"lang": "lv",
+			"text": "Personas datu apstrāde citos nolūkos būtu jāatļauj tikai tad, ja apstrāde notiek, saskaņā ar tiem nolūkiem, kuriem dati sākotnēji vākti, jo īpaši, ja apstrāde ir nepieciešama vēstures, statistikas vai zinātniskās izpētes nolūkos. Ja cits nolūks nav savienojams ar sākotnējo nolūku, kuram dati tika vākti, pārzinim būtu jāsaņem datu subjekta piekrišana šim citam nolūkam vai jārod apstrādei cits leģitīms pamats, lai tā būtu likumīga, jo īpaši saskaņā ar Savienības tiesībām vai dalībvalsts tiesībām, kas ir piemērojamas pārzinim. Jebkurā gadījumā būtu jānodrošina, ka tiek ievēroti šajā regulā noteiktie principi un jo īpaši datu subjekta tiesības uz informāciju par citiem apstrādes nolūkiem."
+		},
+		{
+			"lang": "ro",
+			"text": "Prelucrarea datelor cu caracter personal în alte scopuri ar trebui să fie permisă doar atunci când prelucrarea este compatibilă cu scopurile în care datele au fost inițial colectate, în special în cazul în care prelucrarea este necesară în scopuri de cercetare istorică, statistică sau științifică. În cazul în care celălalt scop nu este compatibil cu scopul inițial în care datele sunt colectate, operatorul ar trebuie să obțină consimțământul persoanei vizate cu privire la acest alt scop sau ar trebui să întemeieze prelucrarea legală pe un alt motiv legitim, în special în cazul în care acest fapt este prevăzut de dreptul Uniunii sau de legislația statului membru care se aplică operatorului. În orice caz, aplicarea principiilor stabilite de prezentul regulament și, în special, informarea persoanei vizate cu privire la aceste alte scopuri ar trebui să fie garantată."
+		},
+		{
+			"lang": "sk",
+			"text": "Spracúvanie osobných údajov na iné účely by malo byť povolené len vtedy, ak je toto spracúvanie v súlade s účelmi, na ktoré boli údaje pôvodne zhromaždené, najmä ak spracúvanie je potrebné na historické, štatistické alebo vedeckovýskumné účely. V prípadoch, v ktorých tento iný účel nie je v súlade s pôvodným účelom, na ktorý boli údaje zhromaždené, prevádzkovateľ by mal získať súhlas dotknutej osoby na tejto iný účel alebo by mal spracovanie vykonať na základe iného legitímneho dôvodu zákonného spracúvania, a to najmä ak je takýto dôvod stanovený v práve Únie alebo v práve členského štátu, ktorému prevádzkovateľ podlieha. V každom prípade by sa malo zabezpečiť uplatnenie zásad stanovených v tomto nariadení a najmä povinnosti informovať dotknutú osobu o týchto iných účeloch."
+		},
+		{
+			"lang": "sl",
+			"text": "Obdelava osebnih podatkov v druge namene bi morala biti dovoljena le, če je skladna s tistimi nameni, za katere so bili podatki prvotno zbrani, zlasti kadar je obdelava potrebna v zgodovinske, statistične ali znanstvenoraziskovalne namene. Če ta drugi namen ni skladen s prvotnim namenom, za katerega so podatki zbrani, bi moral upravljavec za ta drugi namen pridobiti privolitev posameznika, na katerega se nanašajo osebni podatki, ali pa bi moral obdelavo utemeljiti na drugi zakoniti podlagi za zakonito obdelavo, zlasti kadar to določa zakonodaja Unije ali zakonodaja držav članic, ki velja za upravljavca. V vsakem primeru bi morala biti zagotovljena uporaba načel iz te uredbe in zlasti obveščanje posameznika, na katerega se nanašajo osebni podatki, o teh drugih namenih."
+		},
+		{
+			"lang": "fi",
+			"text": "Henkilötietojen käsittely muita tarkoituksia varten olisi sallittava vain jos käsittely on niiden tarkoitusten mukaista, joita varten tiedot on alun perin kerätty, erityisesti silloin kun käsittely on tarpeen historiantutkimusta taikka tilastollisia tai tieteellisiä tutkimustarkoituksia varten. Jos muu tarkoitus on ristiriidassa sen tarkoituksen kanssa, jota varten tiedot alun perin kerättiin, rekisterinpitäjän olisi saatava rekisteröidyn suostumus tätä muuta tarkoitusta varten tai käsittelyn olisi perustuttava muuhun lainmukaista käsittelyä koskevaan oikeutettuun perusteeseen, erityisesti jos sellaisesta säädetään unionin oikeudessa tai rekisterinpitäjään sovellettavassa jäsenvaltion laissa. Kaikissa tapauksissa olisi varmistettava, että sovelletaan tässä asetuksessa vahvistettuja periaatteita ja erityisesti periaatetta, jonka mukaan rekisteröidylle on ilmoitettava näistä muista tarkoituksista."
+		},
+		{
+			"lang": "pl",
+			"text": "Przetwarzanie danych osobowych do innych celów powinno być dozwolone jedynie wtedy, gdy jest ono zgodne z celami, dla których dane zostały pierwotnie zebrane, w szczególności jeśli przetwarzanie jest niezbędne do celów badań historycznych, statystycznych lub naukowych. Jeśli ten inny cel nie jest zgodny z celem pierwotnym, w którym dane zostały zebrane, administrator powinien uzyskać zgodę podmiotu danych na realizację tego celu lub powinien oprzeć przetwarzanie na innej uzasadnionej podstawie zgodnego z prawem przetwarzania, w szczególności przewidzianej przez prawo Unii lub prawo państwa członkowskiego, któremu podlega administrator. W każdym przypadku należy zapewnić stosowanie zasad wskazanych w niniejszym rozporządzeniu, w szczególności w zakresie poinformowania podmiotu danych o tych innych celach."
+		},
+		{
+			"lang": "lt",
+			"text": "asmens duomenų tvarkymas kitais tikslais turėtų būti leidžiamas tik tuomet, kai duomenų tvarkymas dera su tikslais, kuriais iš pradžių duomenys buvo rinkti, visų pirma, kai duomenis tvarkyti būtina istoriniais, statistiniais arba mokslinių tyrimų tikslais. Kai kitas tikslas su pradiniu duomenų rinkimo tikslu nedera, duomenų valdytojas turėtų gauti duomenų subjekto sutikimą duomenis tvarkyti tuo kitu tikslu arba duomenų tvarkymą pagrįsti kitu teisėtu pagrindu, visų pirma įtvirtintu Sąjungos teisėje arba duomenų valdytojui taikytinos valstybės narės teisėje. Visais atvejais turėtų būti užtikrinta, kad bus taikomi šiame reglamente nustatyti principai, visų pirma, kad duomenų subjektas bus informuotas apie tuos kitus duomenų tvarkymo tikslus;"
+		},
+		{
+			"lang": "nl",
+			"text": "Persoonsgegevens die door hun aard bijzonder gevoelig en kwetsbaar zijn wat betreft de grondrechten of de persoonlijke levenssfeer, verdienen specifieke bescherming. Dergelijke gegevens dienen niet te worden verwerkt, tenzij de betrokkene hier uitdrukkelijk toestemming voor geeft. Niettemin dient uitdrukkelijk in uitzonderingen op dit verbod te worden voorzien met het oog op specifieke behoeften, met name wanneer de verwerking wordt verricht in het kader van wettige activiteiten door bepaalde verenigingen of stichtingen die ernaar streven de uitoefening van de fundamentele vrijheden mogelijk te maken."
+		},
+		{
+			"lang": "sv",
+			"text": "Behandling av personuppgifter för andra ändamål bör endast vara tillåten när detta är förenligt med de ändamål som uppgifterna ursprungligen samlades in för, särskilt när behandlingen är nödvändig för historiska, statistiska eller vetenskapliga forskningsändamål. När ett annat ändamål inte är förenligt med det ursprungliga som uppgifterna samlas in för, bör den registeransvarige skaffa sig den registrerades samtycke för detta andra ändamål eller åberopa en annan legitim grund för laglig behandling, exempelvis föreskrifter i unionslagstiftning eller i den medlemsstats lagstiftning som den registeransvarige omfattas av. Under alla omständigheter bör principerna i denna förordning tillämpas, särskilt när det gäller informationen till den registrerade om dessa andra ändamål."
+		}
+	],
+	"children": [],
+	"title": "Recital 40"
+}

@@ -1,0 +1,107 @@
+{
+	"id": "c6s2",
+	"type": "section",
+	"literal": "2",
+	"parent": "c6",
+	"text": [
+		{
+			"lang": "en",
+			"text": "DUTIES AND POWERS"
+		},
+		{
+			"lang": "de",
+			"text": "AUFGABEN UND BEFUGNISSE"
+		},
+		{
+			"lang": "fr",
+			"text": "FONCTIONS ET POUVOIRS"
+		},
+		{
+			"lang": "es",
+			"text": "FUNCIONES Y PODERES"
+		},
+		{
+			"lang": "pt",
+			"text": "FUNÇÕES E PODERES"
+		},
+		{
+			"lang": "it",
+			"text": "FUNZIONI E POTERI"
+		},
+		{
+			"lang": "ga",
+			"text": "DUALGAIS AGUS CUMHACHTAÍ"
+		},
+		{
+			"lang": "cs",
+			"text": "POVINNOSTI A PRAVOMOCI"
+		},
+		{
+			"lang": "da",
+			"text": "OPGAVER OG BEFØJELSER"
+		},
+		{
+			"lang": "et",
+			"text": "KOHUSTUSED JA VOLITUSED"
+		},
+		{
+			"lang": "el",
+			"text": "ΚΑΘΗΚΟΝΤΑ ΚΑΙ ΕΞΟΥΣΙΕΣ"
+		},
+		{
+			"lang": "bg",
+			"text": "ЗАДЪЛЖЕНИЯ И ПРАВОМОЩИЯ"
+		},
+		{
+			"lang": "hu",
+			"text": "FELADATOK ÉS HATÁSKÖRÖK"
+		},
+		{
+			"lang": "mt",
+			"text": "DMIRIJIET U SETGĦAT"
+		},
+		{
+			"lang": "lv",
+			"text": "PIENĀKUMI UN PILNVARAS"
+		},
+		{
+			"lang": "ro",
+			"text": "ATRIBUȚII ȘI FUNCȚII"
+		},
+		{
+			"lang": "sk",
+			"text": "POVINNOSTI A PRÁVOMOCI"
+		},
+		{
+			"lang": "sl",
+			"text": "NALOGE IN POOBLASTILA"
+		},
+		{
+			"lang": "fi",
+			"text": "TOIMIVALTA JA TEHTÄVÄT"
+		},
+		{
+			"lang": "pl",
+			"text": "OBOWIĄZKI I UPRAWNIENIA"
+		},
+		{
+			"lang": "lt",
+			"text": "PAREIGOS IR ĮGALIOJIMAI"
+		},
+		{
+			"lang": "nl",
+			"text": "TAKEN EN BEVOEGDHEDEN"
+		},
+		{
+			"lang": "sv",
+			"text": "UPPDRAG OCH BEFOGENHETER"
+		}
+	],
+	"children": [
+		"a51",
+		"a52",
+		"a53",
+		"a54"
+	],
+	"title": "Chapter 6 – Section 2"
+}

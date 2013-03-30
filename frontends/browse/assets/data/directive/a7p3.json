@@ -1,0 +1,102 @@
+{
+	"id": "a7p3",
+	"type": "paragraph",
+	"literal": "3",
+	"parent": "a7",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The data subject shall have the right to withdraw his or her consent at any time. The withdrawal of consent shall not affect the lawfulness of processing based on consent before its withdrawal."
+		},
+		{
+			"lang": "de",
+			"text": "Die betroffene Person hat das Recht, ihre Einwilligung jederzeit zu widerrufen. Durch den Widerruf der Einwilligung wird die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung nicht berührt."
+		},
+		{
+			"lang": "fr",
+			"text": "La personne concernée a le droit de retirer son consentement à tout moment. Le retrait du consentement ne compromet pas la licéité du traitement fondé sur le consentement préalablement donné."
+		},
+		{
+			"lang": "es",
+			"text": "El interesado tendrá derecho a retirar su consentimiento en cualquier momento. La retirada del consentimiento no afectará a la licitud del tratamiento basada en el consentimiento antes de su retirada."
+		},
+		{
+			"lang": "pt",
+			"text": "O titular dos dados tem o direito de retirar o seu consentimento a qualquer momento. A retirada do consentimento não compromete a licitude do tratamento efetuado com base no consentimento previamente dado."
+		},
+		{
+			"lang": "it",
+			"text": "L’interessato ha il diritto di revocare il proprio consenso in qualsiasi momento. La revoca del consenso non pregiudica la liceità del trattamento basata sul consenso prima della revoca."
+		},
+		{
+			"lang": "ga",
+			"text": "Beidh sé de cheart ag an duine is ábhar do na sonraí a thoiliú a tharraingt siar aon am is mian leis. Má tharraingítear siar toiliú ní dhéanfar difear do dhlíthiúlacht na próiseála atá bunaithe ar an toiliú sin a fháil roimh an tarraingt siar."
+		},
+		{
+			"lang": "cs",
+			"text": "Subjekt údajů má právo kdykoli svůj souhlas odvolat. Odvoláním souhlasu není dotčena zákonnost zpracování vycházejícího ze souhlasu, který byl dán před jeho odvoláním."
+		},
+		{
+			"lang": "da",
+			"text": "Den registrerede har til enhver tid ret til at trække sit samtykke tilbage. Tilbagetrækningen af samtykke berører ikke lovligheden af den behandling, der er baseret på samtykke inden tilbagetrækning heraf."
+		},
+		{
+			"lang": "et",
+			"text": "Andmesubjektil on õigus oma nõusolek igal ajal tühistada. Nõusoleku tühistamine ei mõjuta enne tühistamist toimunud töötlemise seaduslikkust."
+		},
+		{
+			"lang": "el",
+			"text": "Το πρόσωπο στο οποίο αναφέρονται τα δεδομένα δικαιούται να αποσύρει τη συγκατάθεσή του ανά πάσα στιγμή. Η απόσυρση της συγκατάθεσης δεν θίγει τη νομιμότητα της επεξεργασίας που βασίσθηκε στη συγκατάθεση προ της απόσυρσής της."
+		},
+		{
+			"lang": "bg",
+			"text": "Субектът на данни има правото да оттегли съгласието си по всяко време. Оттеглянето на съгласието не засяга законосъобразността на обработването, основано на дадено съгласие преди неговото оттегляне."
+		},
+		{
+			"lang": "hu",
+			"text": "Az érintett bármikor visszavonhatja hozzájárulását. A hozzájárulás visszavonása nem érinti a visszavonás előtti hozzájáruláson alapuló feldolgozás jogszerűségét."
+		},
+		{
+			"lang": "mt",
+			"text": "Is-suġġett tad-dejta għandu jkollu d-dritt li jirtira l-kunsens tiegħu fi kwalunkwe ħin. L-irtirar tal-kunsens ma għandux jaffettwa l-legalità tal-ipproċessar ibbażat fuq kunsens qabel l-irtirar tiegħu."
+		},
+		{
+			"lang": "lv",
+			"text": "Datu subjektam ir tiesības atsaukt savu piekrišanu jebkurā laikā. Piekrišanas atsaukums neietekmē apstrādes likumību, kas pamatojās uz piekrišanu pirms atsaukuma."
+		},
+		{
+			"lang": "ro",
+			"text": "Persoana vizată are dreptul să își retragă în orice moment consimțământul. Retragerea consimțământului nu afectează legalitatea prelucrării efectuate pe baza consimțământului înainte de retragerea acestuia."
+		},
+		{
+			"lang": "sk",
+			"text": "Dotknutá osoba má právo kedykoľvek odvolať svoj súhlas. Odvolanie súhlasu nemá vplyv na zákonnosť spracovania vychádzajúceho zo súhlasu pred jeho odvolaním."
+		},
+		{
+			"lang": "sl",
+			"text": "Posameznik, na katerega se nanašajo osebni podatki, ima pravico, da svojo privolitev kadar koli prekliče. Preklic privolitve ne vpliva na zakonitost obdelave na podlagi privolitve pred njenim preklicem."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisteröidyllä on oikeus peruuttaa suostumuksensa milloin tahansa. Suostumuksen peruuttaminen ei vaikuta suostumuksen perusteella ennen sen peruuttamista suoritetun käsittelyn lainmukaisuuteen."
+		},
+		{
+			"lang": "pl",
+			"text": "Podmiot danych ma prawo odwołać swoją zgodę w dowolnym momencie. Odwołanie zgody nie ma wpływu na zgodność z prawem przetwarzania opartego na zgodzie przed jej odwołaniem."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų subjektas turi teisę bet kuriuo metu atšaukti savo sutikimą. Sutikimo atšaukimas nedaro poveikio sutikimu pagrįsto duomenų tvarkymo, atlikto iki sutikimo atšaukimo, teisėtumui."
+		},
+		{
+			"lang": "nl",
+			"text": "De betrokkene heeft het recht zijn toestemming te allen tijde in te trekken. De intrekking van de toestemming laat de rechtmatigheid van de verwerking op basis van de toestemming vóór de intrekking daarvan, onverlet."
+		},
+		{
+			"lang": "sv",
+			"text": "De registrerade ska ha rätt att när som helst återkalla sitt samtycke. Återkallandet av samtycket ska inte påverka lagligheten hos behandling som grundar sig på samtycke, innan detta återkallas."
+		}
+	],
+	"children": [],
+	"title": "Article 7 – Paragraph 3"
+}

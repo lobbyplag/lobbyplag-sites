@@ -1,0 +1,102 @@
+{
+	"id": "a4i7",
+	"type": "point",
+	"literal": "7",
+	"parent": "a4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "'recipient' means a natural or legal person, public authority, agency or any other body to which the personal data are disclosed;"
+		},
+		{
+			"lang": "de",
+			"text": "&quot;Empfänger&quot; eine natürliche oder juristische Person, Behörde, Einrichtung oder jede andere Stelle, an die personenbezogene Daten weitergegeben werden;"
+		},
+		{
+			"lang": "fr",
+			"text": "«destinataire»: la personne physique ou morale, l'autorité publique, le service ou tout autre organisme qui reçoit communication de données à caractère personnel;"
+		},
+		{
+			"lang": "es",
+			"text": "«destinatario»: la persona física o jurídica, autoridad pública, servicio o cualquier otro organismo que reciba comunicación de datos personales;"
+		},
+		{
+			"lang": "pt",
+			"text": "«Destinatário», a pessoa singular ou coletiva, a autoridade pública, serviço ou qualquer outro organismo que receba comunicações de dados pessoais;"
+		},
+		{
+			"lang": "it",
+			"text": "“destinatario”: la persona fisica o giuridica, l’autorità pubblica, il servizio o qualsiasi altro organismo che riceve comunicazione di dati personali;"
+		},
+		{
+			"lang": "ga",
+			"text": "ciallaíonn ‘faighteoir’ duine nádúrtha nó dlítheanach, údarás poiblí, gníomhaireacht nó aon chomhlacht eile dá nochtar na sonraí pearsanta;"
+		},
+		{
+			"lang": "cs",
+			"text": "„příjemcem“ fyzická nebo právnická osoba, orgán veřejné moci, agentura nebo jakýkoli jiný subjekt, kterým jsou údaje sdělovány;"
+		},
+		{
+			"lang": "da",
+			"text": "&quot;modtager&quot;: en fysisk eller juridisk person, en offentlig myndighed, en institution eller ethvert andet organ, som personoplysninger videregives til"
+		},
+		{
+			"lang": "et",
+			"text": "„vastuvõtja” – füüsiline või juriidiline isik, avaliku sektori asutus või muu asutus või organ, kellele andmed avaldatakse;"
+		},
+		{
+			"lang": "el",
+			"text": "«αποδέκτης»: το φυσικό ή νομικό πρόσωπο, η δημόσια αρχή, η υπηρεσία ή οποιοσδήποτε άλλος φορέας στον οποίο κοινολογούνται τα δεδομένα προσωπικού χαρακτήρα·"
+		},
+		{
+			"lang": "bg",
+			"text": "„получател“ означава физическо или юридическо лице, публичен орган, агенция или друга структура, пред която се разкриват личните данни;"
+		},
+		{
+			"lang": "hu",
+			"text": "„címzett”: az a természetes vagy jogi személy, hatóság, intézmény vagy bármely más szerv, akinek vagy amelynek a részére a személyes adatot továbbítják;"
+		},
+		{
+			"lang": "mt",
+			"text": "‘riċevitur’ tfisser persuna fiżika jew ġuridika, awtorità pubblika, aġenzija jew korp ieħor li lilu tiġi żvelata d-dejta;"
+		},
+		{
+			"lang": "lv",
+			"text": "&quot;saņēmējs&quot; ir fiziska vai juridiska persona, valsts iestāde, aģentūra vai jebkura cita struktūra, kurai tiek izpausti personas dati;"
+		},
+		{
+			"lang": "ro",
+			"text": "„destinatar” înseamnă persoana fizică sau juridică, autoritatea publică, agenția sau orice alt organism căruia îi sunt transmise datele cu caracter personal;"
+		},
+		{
+			"lang": "sk",
+			"text": "„príjemca“ je fyzická alebo právnická osoba, verejný orgán, agentúra alebo akýkoľvek iný subjekt, ktorému sa sprístupňujú osobné údaje;"
+		},
+		{
+			"lang": "sl",
+			"text": "„prejemnik“ pomeni fizično ali pravno osebo, javni organ, agencijo ali vsak drug organ, ki so mu bili osebni podatki razkriti;"
+		},
+		{
+			"lang": "fi",
+			"text": "’vastaanottajalla’ luonnollista tai oikeushenkilöä, viranomaista, virastoa tai muuta elintä, jolle henkilötietoja luovutetaan;"
+		},
+		{
+			"lang": "pl",
+			"text": "„odbiorca” oznacza osobę fizyczną lub prawną, organ publiczny, agencję lub inny podmiot, któremu ujawnia się dane osobowe;"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų gavėjas – fizinis arba juridinis asmuo, valdžios institucija, agentūra ar bet kuris kitas organas, kuriam atskleidžiami asmens duomenys;"
+		},
+		{
+			"lang": "nl",
+			"text": "“ontvanger”: de natuurlijke of rechtspersoon, de overheidsinstantie, de dienst of enig ander orgaan aan wie, respectievelijk waaraan de gegevens worden meegedeeld;"
+		},
+		{
+			"lang": "sv",
+			"text": "mottagare: en fysisk eller juridisk person, myndighet, institution eller annat organ till vilket uppgifterna utlämnas."
+		}
+	],
+	"children": [],
+	"title": "Article 4 – Point 7"
+}

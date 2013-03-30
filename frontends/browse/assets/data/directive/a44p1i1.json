@@ -1,0 +1,102 @@
+{
+	"id": "a44p1i1",
+	"type": "point",
+	"literal": "a",
+	"parent": "a44p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the data subject has consented to the proposed transfer, after having been informed of the risks of such transfers due to the absence of an adequacy decision and appropriate safeguards; or"
+		},
+		{
+			"lang": "de",
+			"text": "die betroffene Person der vorgeschlagenen Datenübermittlung zugestimmt hat, nachdem sie über die Risiken derartiger ohne Vorliegen eines Angemessenheitsbeschlusses und ohne geeignete Garantien durchgeführter Datenübermittlungen informiert wurde,"
+		},
+		{
+			"lang": "fr",
+			"text": "la personne concernée ait consenti au transfert envisagé, après avoir été informée des risques du transfert en raison de l’absence d’une décision relative au caractère adéquat du niveau de protection et de garanties appropriées; ou"
+		},
+		{
+			"lang": "es",
+			"text": "el interesado haya dado su consentimiento a la transferencia propuesta, tras haber sido informado de los riesgos que entraña debido a la ausencia de una decisión de adecuación y de garantías apropiadas; o"
+		},
+		{
+			"lang": "pt",
+			"text": "O titular dos dados tiver dado o seu consentimento à transferência prevista, após ter sido informado dos riscos que essa transferência acarreta devido à falta de uma decisão de adequação e das garantias adequadas; ou"
+		},
+		{
+			"lang": "it",
+			"text": "l’interessato abbia acconsentito al trasferimento proposto, dopo essere stato informato dei rischi connessi a siffatti trasferimenti dovuti alla mancanza di una decisione di adeguatezza e di garanzie adeguate, oppure"
+		},
+		{
+			"lang": "ga",
+			"text": "gur thoiligh an duine is ábhar do na sonraí leis an aistriú atá beartaithe, tar éis a bheith curtha ar an eolas faoi na rioscaí a bhaineann le haistrithe den sórt sin in éagmais cinnidh maidir le cosaint leordhóthanach agus in éagmais cosaintí iomchuí; nó"
+		},
+		{
+			"lang": "cs",
+			"text": "daný subjekt údajů byl informován o rizicích takového předání v důsledku absence rozhodnutí o přiměřenosti a vhodných záruk a následně k navrhovanému předání vydal svůj souhlas nebo"
+		},
+		{
+			"lang": "da",
+			"text": "den registrerede har givet sit samtykke til den foreslåede videregivelse efter at være blevet informeret om risiciene ved sådanne videregivelser som følge af den manglende afgørelse om tilstrækkeligheden af beskyttelsesniveauet og de fornødne garantier, eller"
+		},
+		{
+			"lang": "et",
+			"text": "andmesubjekt on edastamiseks andnud nõusoleku pärast seda, kui teda teavitati sellise edastamise riskidest, mis tulenevad piisavuse otsuse ja asjaomaste kaitsemeetmete puudumisest, või"
+		},
+		{
+			"lang": "el",
+			"text": "α) το πρόσωπο στο οποίο αναφέρονται τα δεδομένα συγκατατέθηκε στη σχεδιαζόμενη διαβίβαση, αφού ενημερώθηκε για τους κινδύνους των εν λόγω διαβιβάσεων λόγω της απουσίας απόφασης περί επάρκειας και κατάλληλων εγγυήσεων· ή"
+		},
+		{
+			"lang": "bg",
+			"text": "а) субектът на данните е дал съгласието си за предлаганото предаване на данни, след като е бил информиран за рисковете от подобно предаване поради липсата на решение относно адекватността или на подходящи гаранции; или"
+		},
+		{
+			"lang": "hu",
+			"text": "az érintett hozzájárulását adta a tervezett továbbításhoz, miután tájékoztatták az ilyen továbbításnak a megfelelőségről szóló határozat és a megfelelő biztosítékok hiányából fakadó kockázatairól; vagy"
+		},
+		{
+			"lang": "mt",
+			"text": "is-suġġett tad-dejta jkun ikkonsenta għat-trasferiment propost, wara li jkun ġie informat dwar ir-riskji ta’ trasferimenti bħala dawn minħabba n-nuqqas ta’ deċiżjoni ta’ adegwatezza u ta’ salvagwardji xierqa; jew"
+		},
+		{
+			"lang": "lv",
+			"text": "datu subjekts ir piekritis ierosinātajai nosūtīšanai pēc tam, kad ir ticis informēts par šādas nosūtīšanas riskiem pietiekamības lēmuma un atbilstošu aizsardzības pasākumu trūkuma dēļ; vai"
+		},
+		{
+			"lang": "ro",
+			"text": "persoana vizată și-a exprimat acordul cu privire la transferul propus, după ce a fost informată cu privire la riscurile acestor transferuri în lipsa unei decizii privind caracterul adecvat al nivelului de protecție și a garanțiilor corespunzătoare; sau"
+		},
+		{
+			"lang": "sk",
+			"text": "dotknutá osoba vyjadrila súhlas s navrhovaným prenosom po tom, ako bola informovaná o rizikách takéhoto prenosu z dôvodu absencie rozhodnutia o primeranosti a náležitých záruk alebo"
+		},
+		{
+			"lang": "sl",
+			"text": "je posameznik, na katerega se nanašajo osebni podatki, po tem, ko je bil obveščen o nevarnostih takih prenosov zaradi nesprejetja sklepa o ustreznosti in ustreznih zaščitnih ukrepov, privolil v predlagani prenos; ali"
+		},
+		{
+			"lang": "fi",
+			"text": "rekisteröity on suostunut ehdotettuun siirtoon sen jälkeen, kun hänelle on ilmoitettu riskeistä, joita tällaisiin siirtoihin liittyy tietosuojan tason riittävyyttä koskevan päätöksen ja asianmukaisten takeiden puuttumisen vuoksi; tai"
+		},
+		{
+			"lang": "pl",
+			"text": "podmiot danych wyraził zgodę na proponowane przekazanie, po uzyskaniu informacji o zagrożeniach związanych z takim przekazaniem ze względu na brak decyzji stwierdzającej odpowiedni poziom ochrony oraz odpowiednich gwarancji; lub"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų subjektui buvo pranešta apie perdavimų, kai nepriimtas sprendimas dėl tinkamumo ir kai nenustatytos apsaugos priemonės, riziką ir jis sutiko, kad būtų numatyti duomenys būtų perduoti; arba"
+		},
+		{
+			"lang": "nl",
+			"text": "de betrokkene met de voorgestelde doorgifte heeft ingestemd, na over de risico’s van dergelijke doorgiften bij ontstentenis van een besluit waarbij het beschermingsniveau passend wordt verklaard en passende garanties te zijn geïnformeerd; of"
+		},
+		{
+			"lang": "sv",
+			"text": "Den registrerade har samtyckt till att uppgifterna får överföras, efter att först ha blivit informerad om de risker en överföring kan medföra när det inte föreligger något beslut om adekvat skyddsnivå eller lämpliga skyddsåtgärder."
+		}
+	],
+	"children": [],
+	"title": "Article 44 – Paragraph 1 – Point 1"
+}

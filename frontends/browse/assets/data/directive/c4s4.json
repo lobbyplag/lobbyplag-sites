@@ -1,0 +1,106 @@
+{
+	"id": "c4s4",
+	"type": "section",
+	"literal": "4",
+	"parent": "c4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "DATA PROTECTION OFFICER"
+		},
+		{
+			"lang": "de",
+			"text": "DATENSCHUTZBEAUFTRAGTER"
+		},
+		{
+			"lang": "fr",
+			"text": "DÉLÉGUÉ À LA PROTECTION DES DONNÉES"
+		},
+		{
+			"lang": "es",
+			"text": "DELEGADO DE PROTECCIÓN DE DATOS"
+		},
+		{
+			"lang": "pt",
+			"text": "DELEGADO PARA A PROTEÇÃO DE DADOS"
+		},
+		{
+			"lang": "it",
+			"text": "RESPONSABILE DELLA PROTEZIONE DEI DATI"
+		},
+		{
+			"lang": "ga",
+			"text": "OIFIGEACH COSANTA SONRAÍ"
+		},
+		{
+			"lang": "cs",
+			"text": "INSPEKTOR OCHRANY ÚDAJŮ"
+		},
+		{
+			"lang": "da",
+			"text": "DATABESKYTTELSESANSVARLIG"
+		},
+		{
+			"lang": "et",
+			"text": "ANDMEKAITSEAMETNIK"
+		},
+		{
+			"lang": "el",
+			"text": "ΥΠΕΥΘΥΝΟΣ ΠΡΟΣΤΑΣΙΑΣ ΔΕΔΟΜΕΝΩΝ"
+		},
+		{
+			"lang": "bg",
+			"text": "ДЛЪЖНОСТНО ЛИЦЕ ПО ЗАЩИТА НА ДАННИТЕ"
+		},
+		{
+			"lang": "hu",
+			"text": "AZ ADATVÉDELMI TISZTVISELŐ"
+		},
+		{
+			"lang": "mt",
+			"text": "UFFIĊJAL TAL-PROTEZZJONI TAD-DEJTA"
+		},
+		{
+			"lang": "lv",
+			"text": "DATU AIZSARDZĪBAS INSPEKTORS"
+		},
+		{
+			"lang": "ro",
+			"text": "RESPONSABILUL CU PROTECȚIA DATELOR"
+		},
+		{
+			"lang": "sk",
+			"text": "ÚRADNÍK PRE OCHRANU ÚDAJOV"
+		},
+		{
+			"lang": "sl",
+			"text": "URADNA OSEBA ZA VARSTVO PODATKOV"
+		},
+		{
+			"lang": "fi",
+			"text": "TIETOSUOJAVASTAAVA"
+		},
+		{
+			"lang": "pl",
+			"text": "INSPEKTOR OCHRONY DANYCH"
+		},
+		{
+			"lang": "lt",
+			"text": "DUOMENŲ APSAUGOS PAREIGŪNAS"
+		},
+		{
+			"lang": "nl",
+			"text": "FUNCTIONARIS VOOR GEGEVENSBESCHERMING"
+		},
+		{
+			"lang": "sv",
+			"text": "UPPGIFTSSKYDDSOMBUD"
+		}
+	],
+	"children": [
+		"a35",
+		"a36",
+		"a37"
+	],
+	"title": "Chapter 4 – Section 4"
+}

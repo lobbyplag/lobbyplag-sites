@@ -1,0 +1,102 @@
+{
+	"id": "a43p1i1",
+	"type": "point",
+	"literal": "a",
+	"parent": "a43p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "are legally binding and apply to and are enforced by every member within the controller’s or processor's group of undertakings, and include their employees;"
+		},
+		{
+			"lang": "de",
+			"text": "rechtsverbindlich sind, für alle Mitglieder der Unternehmensgruppe des für die Verarbeitung Verantwortlichen oder des Auftragsverarbeiters sowie deren Beschäftigte gelten und von diesen Mitgliedern angewendet werden;"
+		},
+		{
+			"lang": "fr",
+			"text": "qu'elles soient juridiquement contraignantes, qu'elles s'appliquent à toutes les entités du groupe d’entreprises du responsable du traitement ou du sous‑traitant, y compris à leurs salariés, et que lesdites entités en assurent le respect;"
+		},
+		{
+			"lang": "es",
+			"text": "sean jurídicamente vinculantes y se apliquen a todos los miembros del grupo de empresas del responsable o del encargado del tratamiento, incluidos sus empleados, que asegurarán su cumplimiento;"
+		},
+		{
+			"lang": "pt",
+			"text": "Sejam juridicamente vinculativas e aplicáveis a todas as entidades do grupo de empresas do responsável pelo tratamento ou do subcontratante, incluindo os seus assalariados, que deverão assegurar o seu respeito;"
+		},
+		{
+			"lang": "it",
+			"text": "siano giuridicamente vincolanti e si applichino a tutti i membri del gruppo d’imprese del responsabile del trattamento o dell’incaricato del trattamento, compresi i loro dipendenti, e siano da questi rispettate;"
+		},
+		{
+			"lang": "ga",
+			"text": "go mbeidh na rialacha ceangailteach ó thaobh dlí agus go mbeidh siad infheidhme maidir le gach comhalta i ngrúpa gnóthas an rialaitheora nó an phróiseálaí, lena n‑áirítear a bhfostaithe, agus go ndéanfaidh na daoine sin uile iad a fhorfheidhmiú;"
+		},
+		{
+			"lang": "cs",
+			"text": "jsou právně závazná, používá a prosazuje je každý člen v rámci správcovy nebo zpracovatelovy skupiny podniků a vztahují se i na zaměstnance;"
+		},
+		{
+			"lang": "da",
+			"text": "er retligt bindende, gælder for og anvendes af alle virksomheder i den registeransvarliges eller registerførerens koncern, og omfatter deres medarbejdere"
+		},
+		{
+			"lang": "et",
+			"text": "on õiguslikult siduvad ja neid kohaldatakse vastutava töötleja või volitatud töötleja ettevõtjate rühma iga liikme, sealhulgas nende töötajate suhtes ning kõik täidavad neid;"
+		},
+		{
+			"lang": "el",
+			"text": "α) είναι νομικά δεσμευτικοί και εφαρμόζονται σε κάθε μέλος και επιβάλλονται από κάθε μέλος στον όμιλο επιχειρήσεων του υπευθύνου επεξεργασίας ή του εκτελούντος την επεξεργασία, περιλαμβανομένων των υπαλλήλων τους·"
+		},
+		{
+			"lang": "bg",
+			"text": "а) са правно обвързващи, прилагат се спрямо и се привеждат в изпълнение от всеки член на групата предприятия на администратора или обработващия лични данни и включват техните служители;"
+		},
+		{
+			"lang": "hu",
+			"text": "jogilag kötelező érvényűek, és az adatkezelő vagy -feldolgozó vállalkozáscsoportjának minden tagjára tekintettel alkalmazandók és végrehajthatók, beleértve az alkalmazottakat is;"
+		},
+		{
+			"lang": "mt",
+			"text": "ikunu legalment vinkolanti u japplikaw għal u jkunu inforzati minn kull membru fi ħdan il-grupp ta’ impriżi tal-kontrollur jew tal-ipproċessur, u jinkludu lill-impjegati tagħhom;"
+		},
+		{
+			"lang": "lv",
+			"text": "ir juridiski saistoši un tos piemēro un izpilda visi pārziņa vai apstrādātāja uzņēmumu grupas locekļi, un attiecas arī uz darbiniekiem;"
+		},
+		{
+			"lang": "ro",
+			"text": "să aibă forță juridică obligatorie și să se aplice fiecărui membru al grupului de întreprinderi al operatorului sau al persoanei împuternicite de către operator și să includă și pe salariații acestora;"
+		},
+		{
+			"lang": "sk",
+			"text": "sú právne záväzné a vzťahujú sa na všetky podniky a zamestnancov v rámci skupiny podnikov prevádzkovateľa alebo sprostredkovateľa, ktoré ich povinne uplatňujú;"
+		},
+		{
+			"lang": "sl",
+			"text": "so pravno zavezujoča, veljajo za vsakega člana povezane družbe upravljavca ali obdelovalca, jih izvajajo vsi člani te družbe in obsegajo tudi zaposlene v tej družbi;"
+		},
+		{
+			"lang": "fi",
+			"text": "säännöt ovat oikeudellisesti sitovat ja niitä sovelletaan kaikkiin rekisterinpitäjän tai henkilötietojen käsittelijän yritysryhmän jäseniin, niiden työntekijät mukaan lukien, ja kaikki nämä yksiköt myös panevat säännöt täytäntöön;"
+		},
+		{
+			"lang": "pl",
+			"text": "są one prawnie wiążące i mają zastosowanie do oraz są egzekwowane przez wszystkich członków grupy przedsiębiorstw administratora lub podmiotu przetwarzającego, i obejmują ich pracowników;"
+		},
+		{
+			"lang": "lt",
+			"text": "jos yra teisiškai privalomos ir taikomos kiekvienam duomenų valdytojo arba duomenų tvarkytojo įmonių grupės nariui, įskaitant jų darbuotojus, ir jie jų laikosi;"
+		},
+		{
+			"lang": "nl",
+			"text": "juridisch bindend zijn voor en van toepassing zijn op alle leden van de groep van ondernemingen van de voor de verwerking verantwoordelijke of de verwerker, met inbegrip van hun werknemers, en dat deze leden op de naleving ervan toezien;"
+		},
+		{
+			"lang": "sv",
+			"text": "är rättsligt bindande, tillämpas på och verkställs av alla delar av den registeransvariges eller registerförarens företagsgrupp och av dess anställda,"
+		}
+	],
+	"children": [],
+	"title": "Article 43 – Paragraph 1 – Point 1"
+}

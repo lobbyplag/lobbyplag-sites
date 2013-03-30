@@ -1,0 +1,104 @@
+{
+	"id": "a10",
+	"type": "article",
+	"literal": "10",
+	"parent": "c2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Processing not allowing identification"
+		},
+		{
+			"lang": "de",
+			"text": "Verarbeitung, ohne dass die betroffene Person bestimmt werden kann"
+		},
+		{
+			"lang": "fr",
+			"text": "Traitement ne permettant pas l'identification"
+		},
+		{
+			"lang": "es",
+			"text": "Tratamiento que no permite identificación"
+		},
+		{
+			"lang": "pt",
+			"text": "Tratamento que não permite a identificação"
+		},
+		{
+			"lang": "it",
+			"text": "Trattamento che non consente identificazione"
+		},
+		{
+			"lang": "ga",
+			"text": "Próiseáil a fhágann nach féidir an duine is ábhar do na sonraí a shainaithint"
+		},
+		{
+			"lang": "cs",
+			"text": "Zpracování bez možnosti identifikace"
+		},
+		{
+			"lang": "da",
+			"text": "Behandling, der ikke muliggør identifikation"
+		},
+		{
+			"lang": "et",
+			"text": "Töötlemine, mille käigus ei saa isikut tuvastada"
+		},
+		{
+			"lang": "el",
+			"text": "Επεξεργασία η οποία δεν επιτρέπει την εξακρίβωση της ταυτότητας"
+		},
+		{
+			"lang": "bg",
+			"text": "Обработване, непозволяващо идентифициране"
+		},
+		{
+			"lang": "hu",
+			"text": "Az azonosítást lehetővé nem tevő adatfeldolgozás"
+		},
+		{
+			"lang": "mt",
+			"text": "Ipproċessar li ma jippermettix l-identifikazzjoni"
+		},
+		{
+			"lang": "lv",
+			"text": "Apstrāde, kas neļauj identifikāciju"
+		},
+		{
+			"lang": "ro",
+			"text": "Prelucrarea care nu permite identificarea"
+		},
+		{
+			"lang": "sk",
+			"text": "Spracovanie bez možnosti identifikácie"
+		},
+		{
+			"lang": "sl",
+			"text": "Obdelava, ki ne omogoča identifikacije"
+		},
+		{
+			"lang": "fi",
+			"text": "Käsittely, joka ei mahdollista tunnistamista"
+		},
+		{
+			"lang": "pl",
+			"text": "Przetwarzanie nie umożliwiające identyfikacji"
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų tvarkymas, kai asmens tapatybės nustatyti negalima"
+		},
+		{
+			"lang": "nl",
+			"text": "Verwerking waarbij identificatie niet mogelijk is"
+		},
+		{
+			"lang": "sv",
+			"text": "Behandling som inte möjliggör identifiering"
+		}
+	],
+	"children": [
+		"a10t1"
+	],
+	"title": "Article 10"
+}

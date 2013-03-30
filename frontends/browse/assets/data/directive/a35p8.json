@@ -1,0 +1,102 @@
+{
+	"id": "a35p8",
+	"type": "paragraph",
+	"literal": "8",
+	"parent": "a35",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The data protection officer may be employed by the controller or processor, or fulfil his or her tasks on the basis of a service contract."
+		},
+		{
+			"lang": "de",
+			"text": "Der Datenschutzbeauftragte kann durch den für die Verarbeitung Verantwortlichen oder durch den Auftragsverarbeiter beschäftigt werden oder seine Aufgaben auf der Grundlage eines Dienstleistungsvertrags erfüllen."
+		},
+		{
+			"lang": "fr",
+			"text": "Le délégué à la protection des données peut être un salarié du responsable du traitement ou du sous‑traitant, ou accomplir ses tâches sur la base d'un contrat de service."
+		},
+		{
+			"lang": "es",
+			"text": "El delegado de protección de datos podrá ser empleado por el responsable o el encargado del tratamiento o desempeñar sus tareas sobre la base de un contrato de servicios."
+		},
+		{
+			"lang": "pt",
+			"text": "O delegado para a proteção de dados pode ser um assalariado do responsável pelo tratamento ou do subcontratante, ou exercer as suas funções com base num contrato de prestação de serviços."
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile della protezione dei dati può essere assunto dal responsabile del trattamento o dall’incaricato del trattamento oppure adempiere ai suoi compiti in base a un contratto di servizi."
+		},
+		{
+			"lang": "ga",
+			"text": "D’fhéadfadh an rialaitheoir nó an próiseálaí an t‑oifigeach cosanta sonraí á fhostú, nó d’fhéadfadh an t‑oifigeach a chúraimí a chomhlíonadh ar bhonn conartha seirbhíse."
+		},
+		{
+			"lang": "cs",
+			"text": "Inspektor ochrany údajů může být zaměstnancem správce či zpracovatele nebo může své úkoly plnit na základě smlouvy o službách."
+		},
+		{
+			"lang": "da",
+			"text": "Den databeskyttelsesansvarlige kan være ansat af den registeransvarlige eller registerføreren eller udføre sit hverv på grundlag af en tjenesteydelseskontrakt."
+		},
+		{
+			"lang": "et",
+			"text": "Andmekaitseametnik võib olla vastutava töötleja või volitatud töötleja koosseisuline töötaja või täita oma ülesandeid teenuslepingu alusel."
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος προστασίας δεδομένων μπορεί να είναι υπάλληλος του υπευθύνου επεξεργασίας ή του εκτελούντος την επεξεργασία ή να ασκεί τα καθήκοντά του βάσει σύμβασης παροχής υπηρεσιών."
+		},
+		{
+			"lang": "bg",
+			"text": "Длъжностното лице по защита на данните може да бъде наето от администратора или обработващия лични данни или да изпълнява задачите си въз основа на договор за услуги."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatvédelmi tisztviselő az adatkezelő vagy -feldolgozó alkalmazásában állhat, vagy szolgáltatási szerződés keretében láthatja el feladatait."
+		},
+		{
+			"lang": "mt",
+			"text": "L-uffiċjal tal-protezzjoni tad-dejta jista’ jkun impjegat mill-kontrollur jew mill-proċessur, jew iwettaq il-kompiti tiegħu fuq il-bażi ta’ kuntratt ta’ servizz."
+		},
+		{
+			"lang": "lv",
+			"text": "Datu aizsardzības inspektoru var nodarbināt pārzinis vai apstrādātājs, vai tas var veikt savus uzdevumus uz līguma pamata."
+		},
+		{
+			"lang": "ro",
+			"text": "Responsabilul cu protecția datelor poate fi un angajat al operatorului sau al persoanei împuternicite de către operator ori poate să își îndeplinească atribuțiile în baza unui contract de servicii."
+		},
+		{
+			"lang": "sk",
+			"text": "Úradník pre ochranu údajov môže byť zamestnancom prevádzkovateľa alebo sprostredkovateľa, alebo môže plniť svoje úlohy na základe zmluvy o poskytovaní služieb."
+		},
+		{
+			"lang": "sl",
+			"text": "Uradna oseba za varstvo podatkov je lahko zaposlena pri upravljavcu ali obdelovalcu, ali pa svoje naloge opravlja na podlagi pogodbe o storitvah."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjä tai henkilötietojen käsittelijä voi ottaa tietosuojavastaavan palvelukseensa tai tietosuojavastaava voi hoitaa tehtäviään palvelusopimuksen perusteella."
+		},
+		{
+			"lang": "pl",
+			"text": "Inspektor ochrony danych może być zatrudniony przez administratora lub podmiot przetwarzający lub wykonywać swoje zadania na podstawie umowy o świadczenie usług."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas arba duomenų tvarkytojas duomenų apsaugos pareigūną gali įdarbinti arba savo užduotis duomenų apsaugos pareigūnas gali atlikti pagal paslaugų teikimo sutartį."
+		},
+		{
+			"lang": "nl",
+			"text": "De functionaris voor gegevensbescherming kan in dienst zijn van de voor de verwerking verantwoordelijke of de verwerker dan wel zijn taken op grond van een dienstverleningscontract verrichten."
+		},
+		{
+			"lang": "sv",
+			"text": "Uppgiftsskyddsombudet får anställas av den registeransvarige eller registerföraren, eller utföra sina arbetsuppgifter på grundval av ett tjänsteavtal."
+		}
+	],
+	"children": [],
+	"title": "Article 35 – Paragraph 8"
+}

@@ -1,0 +1,105 @@
+{
+	"id": "c4s5",
+	"type": "section",
+	"literal": "5",
+	"parent": "c4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "CODES OF CONDUCT AND CERTIFICATION"
+		},
+		{
+			"lang": "de",
+			"text": "VERHALTENSREGELN UND ZERTIFIZIERUNG"
+		},
+		{
+			"lang": "fr",
+			"text": "CODES DE CONDUITE ET CERTIFICATION"
+		},
+		{
+			"lang": "es",
+			"text": "CÓDIGOS DE CONDUCTA Y CERTIFICACIÓN"
+		},
+		{
+			"lang": "pt",
+			"text": "CÓDIGOS DE CONDUTA E CERTIFICAÇÃO"
+		},
+		{
+			"lang": "it",
+			"text": "CODICI DI CONDOTTA E CERTIFICAZIONE"
+		},
+		{
+			"lang": "ga",
+			"text": "CÓID IOMPAIR AGUS DEIMHNIÚ"
+		},
+		{
+			"lang": "cs",
+			"text": "KODEXY CHOVÁNÍ A OSVĚDČOVÁNÍ"
+		},
+		{
+			"lang": "da",
+			"text": "ADFÆRDSKODEKSER OG CERTIFICERING"
+		},
+		{
+			"lang": "et",
+			"text": "TOIMIMISJUHENDID JA SERTIFITSEERIMINE"
+		},
+		{
+			"lang": "el",
+			"text": "ΚΩΔΙΚΕΣ ΔΕΟΝΤΟΛΟΓΙΑΣ ΚΑΙ ΠΙΣΤΟΠΟΙΗΣΗ"
+		},
+		{
+			"lang": "bg",
+			"text": "КОДЕКСИ ЗА ПОВЕДЕНИЕ И СЕРТИФИЦИРАНЕ"
+		},
+		{
+			"lang": "hu",
+			"text": "ELJÁRÁSI SZABÁLYZATOK ÉS TANÚSÍTÁS"
+		},
+		{
+			"lang": "mt",
+			"text": "KODIĊIJIET TA’ KONDOTTA U ĊERTIFIKAZZJONI"
+		},
+		{
+			"lang": "lv",
+			"text": "PROFESIONĀLĀS ĒTIKAS KODEKSI UN SERTIFIKĀCIJA"
+		},
+		{
+			"lang": "ro",
+			"text": "CODURI DE CONDUITĂ ȘI CERTIFICARE"
+		},
+		{
+			"lang": "sk",
+			"text": "KÓDEXY SPRÁVANIA A CERTIFIKÁCIA"
+		},
+		{
+			"lang": "sl",
+			"text": "PRAVILA RAVNANJA IN POTRJEVANJE"
+		},
+		{
+			"lang": "fi",
+			"text": "KÄYTÄNNESÄÄNNÖT JA SERTIFIOINTI"
+		},
+		{
+			"lang": "pl",
+			"text": "KODEKSY POSTĘPOWANIA I CERTYFIKACJA"
+		},
+		{
+			"lang": "lt",
+			"text": "ELGESIO KODEKSAI IR SERTIFIKAVIMAS"
+		},
+		{
+			"lang": "nl",
+			"text": "GEDRAGSCODES EN CERTIFICERING"
+		},
+		{
+			"lang": "sv",
+			"text": "UPPFÖRANDEKODEX OCH CERTIFIERING"
+		}
+	],
+	"children": [
+		"a38",
+		"a39"
+	],
+	"title": "Chapter 4 – Section 5"
+}

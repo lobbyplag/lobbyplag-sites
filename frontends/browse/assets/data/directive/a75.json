@@ -1,0 +1,107 @@
+{
+	"id": "a75",
+	"type": "article",
+	"literal": "75",
+	"parent": "c8",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Right to a judicial remedy against a controller or processor"
+		},
+		{
+			"lang": "de",
+			"text": "Recht auf gerichtlichen Rechtsbehelf gegen für die Verarbeitung Verantwortliche oder Auftragsverarbeiter"
+		},
+		{
+			"lang": "fr",
+			"text": "Droit à un recours juridictionnel contre un responsable du traitement ou un sous‑traitant"
+		},
+		{
+			"lang": "es",
+			"text": "Derecho a un recurso judicial contra un responsable o encargado"
+		},
+		{
+			"lang": "pt",
+			"text": "Direito de ação judicial contra um responsável pelo tratamento ou um subcontratante"
+		},
+		{
+			"lang": "it",
+			"text": "Diritto a un ricorso giurisdizionale contro il responsabile del trattamento o l’incaricato del trattamento"
+		},
+		{
+			"lang": "ga",
+			"text": "Ceart chun leighis bhreithiúnaigh i gcoinne rialaitheora nó próiseálaí"
+		},
+		{
+			"lang": "cs",
+			"text": "Právo na soudní opravné prostředky vůči správci nebo zpracovateli"
+		},
+		{
+			"lang": "da",
+			"text": "Retsmidler over for den registeransvarlige eller registerføreren"
+		},
+		{
+			"lang": "et",
+			"text": "Õigus kasutada õiguskaitsevahendit vastutava töötleja või volitatud töötleja vastu"
+		},
+		{
+			"lang": "el",
+			"text": "Δικαίωμα δικαστικής προσφυγής κατά υπευθύνου επεξεργασίας ή εκτελούντος την επεξεργασία"
+		},
+		{
+			"lang": "bg",
+			"text": "Право на средства за съдебна защита срещу администратор или обработващ лични данни"
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelővel vagy -feldolgozóval szembeni bírósági jogorvoslathoz való jog"
+		},
+		{
+			"lang": "mt",
+			"text": "Dritt għal rimedju ġudizzjarju kontra kontrollur jew proċessur"
+		},
+		{
+			"lang": "lv",
+			"text": "Tiesības vērsties tiesā pret pārzini vai apstrādātāju"
+		},
+		{
+			"lang": "ro",
+			"text": "Dreptul la o cale de atac judiciară împotriva unui operator sau unei persoane împuternicite de operator"
+		},
+		{
+			"lang": "sk",
+			"text": "Právo na súdny prostriedok nápravy voči prevádzkovateľovi či sprostredkovateľovi"
+		},
+		{
+			"lang": "sl",
+			"text": "Pravica do pravnega sredstva v sodnem postopku zoper upravljavca ali obdelovalca"
+		},
+		{
+			"lang": "fi",
+			"text": "Oikeus oikeussuojakeinoihin rekisterinpitäjää tai henkilötietojen käsittelijää vastaan"
+		},
+		{
+			"lang": "pl",
+			"text": "Prawo do sądowego środka ochrony prawnej przeciwko administratorowi lub podmiotowi przetwarzającemu"
+		},
+		{
+			"lang": "lt",
+			"text": "Teisė imtis teisminių teisių gynimo priemonių prieš duomenų valdytoją arba duomenų tvarkytoją"
+		},
+		{
+			"lang": "nl",
+			"text": "Recht een beroep in rechte in te stellen tegen een voor de verwerking verantwoordelijke of een verwerker"
+		},
+		{
+			"lang": "sv",
+			"text": "Rätt att föra talan mot en registeransvarig eller en registerförare"
+		}
+	],
+	"children": [
+		"a75p1",
+		"a75p2",
+		"a75p3",
+		"a75p4"
+	],
+	"title": "Article 75"
+}

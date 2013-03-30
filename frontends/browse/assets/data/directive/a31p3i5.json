@@ -1,0 +1,102 @@
+{
+	"id": "a31p3i5",
+	"type": "point",
+	"literal": "e",
+	"parent": "a31p3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "describe the measures proposed or taken by the controller to address the personal data breach."
+		},
+		{
+			"lang": "de",
+			"text": "eine Beschreibung der vom für die Verarbeitung Verantwortlichen vorgeschlagenen oder ergriffenen Maßnahmen zur Behandlung der Verletzung des Schutzes personenbezogener Daten."
+		},
+		{
+			"lang": "fr",
+			"text": "décrire les mesures proposées ou prises par le responsable du traitement pour remédier à la violation de données à caractère personnel."
+		},
+		{
+			"lang": "es",
+			"text": "describir las medidas propuestas o adoptadas por el responsable del tratamiento para poner remedio a la violación de datos personales."
+		},
+		{
+			"lang": "pt",
+			"text": "Descrever as medidas propostas ou adotadas pelo responsável pelo tratamento para remediar a violação de dados pessoais."
+		},
+		{
+			"lang": "it",
+			"text": "descrivere le misure proposte o adottate dal responsabile del trattamento per porre rimedio alla violazione dei dati personali."
+		},
+		{
+			"lang": "ga",
+			"text": "tabharfar tuairisc ar na bearta atá beartaithe nó atá déanta ag an rialaitheoir le dul i ngleic leis an sárú i ndáil le sonraí pearsanta."
+		},
+		{
+			"lang": "cs",
+			"text": "popsána opatření, která správce navrhl nebo přijal k řešení daného narušení."
+		},
+		{
+			"lang": "da",
+			"text": "beskrive de foranstaltninger, som den registeransvarlige foreslår eller har iværksat for at afhjælpe bruddet på persondatasikkerheden."
+		},
+		{
+			"lang": "et",
+			"text": "kirjeldada vastutava töötleja kavandatud või võetud meetmeid isikuandmetega seotud rikkumise lahendamiseks."
+		},
+		{
+			"lang": "el",
+			"text": "ε) να περιγράφει τα μέτρα που προτείνονται ή που λήφθηκαν από τον υπεύθυνο επεξεργασίας για την αντιμετώπιση της παραβίασης των δεδομένων προσωπικού χαρακτήρα."
+		},
+		{
+			"lang": "bg",
+			"text": "д) описание на предложените или предприетите от администратора мерки за справяне с нарушението на сигурността на личните данни."
+		},
+		{
+			"lang": "hu",
+			"text": "az adatkezelő által a személyes adatok megsértésének orvoslására javasolt vagy tett intézkedések ismertetése."
+		},
+		{
+			"lang": "mt",
+			"text": "tiddeskrivi l-miżuri proposti jew meħuda mill-kontrollur sabiex jindirizza l-ksur tad-dejta personali."
+		},
+		{
+			"lang": "lv",
+			"text": "apraksta pārziņa ierosinātos vai veiktos pasākumus, lai risinātu personas datu aizsardzības pārkāpumu."
+		},
+		{
+			"lang": "ro",
+			"text": "să descrie măsurile propuse sau adoptate de operator pentru a remedia problema încălcării securității datelor cu caracter personal."
+		},
+		{
+			"lang": "sk",
+			"text": "opis opatrení navrhovaných alebo prijatých prevádzkovateľom s cieľom vyriešiť porušenie ochrany osobných údajov."
+		},
+		{
+			"lang": "sl",
+			"text": "opis ukrepov, ki jih upravljavec predlaga ali sprejme za obravnavanje kršitve varnosti osebnih podatkov."
+		},
+		{
+			"lang": "fi",
+			"text": "kuvattava toimenpiteet, joita rekisterinpitäjä on ehdottanut tai jotka se on toteuttanut henkilötietojen tietoturvaloukkauksen johdosta."
+		},
+		{
+			"lang": "pl",
+			"text": "opisywać środki proponowane lub podjęte przez administratora w celu zaradzenia naruszeniu ochrony danych osobowych."
+		},
+		{
+			"lang": "lt",
+			"text": "aprašytos priemonės, kurias pasiūlė arba kurių ėmėsi duomenų valdytojas asmens duomenų saugumo pažeidimui išaiškinti."
+		},
+		{
+			"lang": "nl",
+			"text": "een omschrijving van de maatregelen die de voor de verwerking verantwoordelijke heeft voorgesteld of genomen om de inbreuk in verband met persoonsgegevens aan te pakken."
+		},
+		{
+			"lang": "sv",
+			"text": "beskriva de åtgärder som den registeransvarige föreslagit eller vidtagit för att åtgärda personuppgiftsbrottet."
+		}
+	],
+	"children": [],
+	"title": "Article 31 – Paragraph 3 – Point 5"
+}

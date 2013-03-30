@@ -1,0 +1,108 @@
+{
+	"id": "c4",
+	"type": "chapter",
+	"literal": "IV",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "CONTROLLER AND PROCESSOR"
+		},
+		{
+			"lang": "de",
+			"text": "FÜR DIE VERARBEITUNG VERANTWORTLICHER UND AUFTRAGSVERARBEITER"
+		},
+		{
+			"lang": "fr",
+			"text": "RESPONSABLE DU TRAITEMENT ET SOUS‑TRAITANT"
+		},
+		{
+			"lang": "es",
+			"text": "RESPONSABLE DEL TRATAMIENTO Y ENCARGADO DEL TRATAMIENTO"
+		},
+		{
+			"lang": "pt",
+			"text": "RESPONSÁVEL PELO TRATAMENTO E SUBCONTRATANTE"
+		},
+		{
+			"lang": "it",
+			"text": "RESPONSABILE DEL TRATTAMENTO E INCARICATO DEL TRATTAMENTO"
+		},
+		{
+			"lang": "ga",
+			"text": "RIALAITHEOIR AGUS PRÓISEÁLAÍ"
+		},
+		{
+			"lang": "cs",
+			"text": "SPRÁVCE A ZPRACOVATEL"
+		},
+		{
+			"lang": "da",
+			"text": "REGISTERANSVARLIG OG REGISTERFØRER"
+		},
+		{
+			"lang": "et",
+			"text": "VASTUTAV TÖÖTLEJA JA VOLITATUD TÖÖTLEJA"
+		},
+		{
+			"lang": "el",
+			"text": "ΥΠΕΥΘΥΝΟΣ ΕΠΕΞΕΡΓΑΣΙΑΣ ΚΑΙ ΕΚΤΕΛΩΝ ΤΗΝ ΕΠΕΞΕΡΓΑΣΙΑ"
+		},
+		{
+			"lang": "bg",
+			"text": "АДМИНИСТРАТОР И ОБРАБОТВАЩ ЛИЧНИ ДАННИ"
+		},
+		{
+			"lang": "hu",
+			"text": "AZ ADATKEZELŐ ÉS AZ ADATFELDOLGOZÓ"
+		},
+		{
+			"lang": "mt",
+			"text": "KONTROLLUR U PROĊESSUR"
+		},
+		{
+			"lang": "lv",
+			"text": "PĀRZINIS UN APSTRĀDĀTĀJS"
+		},
+		{
+			"lang": "ro",
+			"text": "OPERATORUL ȘI PERSOANA ÎMPUTERNICITĂ DE CĂTRE OPERATOR"
+		},
+		{
+			"lang": "sk",
+			"text": "PREVÁDZKOVATEĽ A SPROSTREDKOVATEĽ"
+		},
+		{
+			"lang": "sl",
+			"text": "UPRAVLJAVEC IN OBDELOVALEC"
+		},
+		{
+			"lang": "fi",
+			"text": "REKISTERINPITÄJÄ JA HENKILÖTIETOJEN KÄSITTELIJÄ"
+		},
+		{
+			"lang": "pl",
+			"text": "ADMINISTRATOR I PODMIOT PRZETWARZAJĄCY"
+		},
+		{
+			"lang": "lt",
+			"text": "DUOMENŲ VALDYTOJAS IR DUOMENŲ TVARKYTOJAS"
+		},
+		{
+			"lang": "nl",
+			"text": "DE VOOR DE VERWERKING VERANTWOORDELIJKE EN DE VERWERKER"
+		},
+		{
+			"lang": "sv",
+			"text": "REGISTERANSVARIG OCH REGISTERFÖRARE"
+		}
+	],
+	"children": [
+		"c4s1",
+		"c4s2",
+		"c4s3",
+		"c4s4",
+		"c4s5"
+	],
+	"title": "Chapter 4"
+}

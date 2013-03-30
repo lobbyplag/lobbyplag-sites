@@ -1,0 +1,102 @@
+{
+	"id": "a75p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a75",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Proceedings against a controller or a processor shall be brought before the courts of the Member State where the controller or processor has an establishment. Alternatively, such proceedings may be brought before the courts of the Member State where the data subject has its habitual residence, unless the controller is a public authority acting in the exercise of its public powers."
+		},
+		{
+			"lang": "de",
+			"text": "Für Klagen gegen einen für die Verarbeitung Verantwortlichen oder gegen einen Auftragsverarbeiter sind die Gerichte des Mitgliedstaats zuständig, in dem der für die Verarbeitung Verantwortliche oder der Auftragsverarbeiter eine Niederlassung hat. Wahlweise können solche Klagen auch bei den Gerichten des Mitgliedstaats erhoben werden, in dem die betroffene Person ihren gewöhnlichen Aufenthalt hat, es sei denn, es handelt sich bei dem für die Verarbeitung Verantwortlichen um eine Behörde, die in Ausübung ihrer hoheitlichen Befugnisse tätig geworden ist."
+		},
+		{
+			"lang": "fr",
+			"text": "Une action contre un responsable du traitement ou un sous‑traitant est intentée devant les juridictions de l’État membre dans lequel le responsable du traitement ou le sous‑traitant dispose d'un établissement. Une telle action peut aussi être intentée devant les juridictions de l'État membre dans lequel la personne concernée a sa résidence habituelle, sauf si le responsable du traitement est une autorité publique agissant dans l'exercice de ses prérogatives de puissance publique."
+		},
+		{
+			"lang": "es",
+			"text": "Las acciones contra un responsable o encargado deberán ejercitarse ante los órganos jurisdiccionales del Estado miembro en el que el responsable o encargado tenga un establecimiento. Alternativamente, tales acciones podrán ejercitarse ante los órganos jurisdiccionales del Estado miembro en que el interesado tenga su residencia habitual, a menos que el responsable sea una autoridad pública que actúa en ejercicio del poder público."
+		},
+		{
+			"lang": "pt",
+			"text": "A ação judicial contra um responsável pelo tratamento ou um subcontratante é intentada nos tribunais do Estado-Membro em que o responsável pelo tratamento ou o subcontratante dispõe de um estabelecimento. Em alternativa, tal ação pode ser intentada nos tribunais do Estado-Membro em que o titular dos dados tem a sua residência habitual, salvo se o responsável pelo tratamento for uma autoridade no exercício das suas prerrogativas de poder público."
+		},
+		{
+			"lang": "it",
+			"text": "Le azioni contro il responsabile del trattamento o l’incaricato del trattamento sono promosse dinanzi alle autorità giurisdizionali dello Stato membro in cui il responsabile del trattamento o l’incaricato del trattamento ha uno stabilimento. In alternativa, tali azioni possono essere promosse dinanzi alle autorità giurisdizionali dello Stato membro in cui l’interessato risiede abitualmente, salvo che il responsabile del trattamento sia un’autorità pubblica nell’esercizio dei pubblici poteri."
+		},
+		{
+			"lang": "ga",
+			"text": "Tionscnófar imeachtaí i gcoinne rialaitheora nó próiseálaí os comhair na gcúirteanna sa Bhallstát ina bhfuil bunaíocht ag an rialaitheoir nó ag an próiseálaí. De rogha air sin, féadfar na himeachtaí sin a thionscnamh os comhair na gcúirteanna sa Bhallstát ina bhfuil gnáthchónaí ar an duine is ábhar do na sonraí, ach amháin más údarás poiblí an rialaitheoir atá ag gníomhú i bhfeidhmiú a chumhachtaí poiblí."
+		},
+		{
+			"lang": "cs",
+			"text": "Řízení proti správci nebo zpracovateli se zahajují u soudů toho členského státu, v němž má daný správce nebo zpracovatel provozovnu. Řízení se může popřípadě zahájit i u soudů členského státu, kde má subjekt údajů obvyklé bydliště, s výjimkou případů, kdy je správce orgánem veřejné moci a jedná v rámci výkonu veřejné moci."
+		},
+		{
+			"lang": "da",
+			"text": "En sag mod en registeransvarlig eller en registerfører anlægges ved domstolen i den medlemsstat, hvor den registeransvarlige eller registerføreren er etableret. Alternativt kan en sådan sag anlægges ved domstolen i den medlemsstat, hvor den registrerede har sit sædvanlige opholdssted, medmindre den registeransvarlige er en offentlig myndighed, der udøver offentligretlige beføjelser."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutava töötleja või volitatud töötleja vastu algatatakse menetlus selle liikmesriigi kohtus, kus vastutav töötleja või volitatud töötleja asub. Menetluse võib algatada ka selle liikmesriigi kohtus, kus asub andmesubjekti alaline elukoht, välja arvatud juhul, kui vastutav töötleja on avalikku võimu teostav avaliku sektori asutus."
+		},
+		{
+			"lang": "el",
+			"text": "Η διαδικασία κατά υπευθύνου επεξεργασίας ή εκτελούντος την επεξεργασία κινείται ενώπιον των δικαστηρίων του κράτους μέλους στο οποίο ο υπεύθυνος επεξεργασίας ή ο εκτελών την επεξεργασία έχουν εγκατάσταση. Εναλλακτικά, η εν λόγω διαδικασία μπορεί να κινηθεί ενώπιον των δικαστηρίων του κράτους μέλους στο οποίο το πρόσωπο στο οποίο αναφέρονται τα δεδομένα έχει τη συνήθη διαμονή του, εκτός εάν ο υπεύθυνος επεξεργασίας είναι δημόσια αρχή η οποία ενεργεί κατά την άσκηση των δημόσιων εξουσιών της."
+		},
+		{
+			"lang": "bg",
+			"text": "Производствата срещу даден администратор или обработващ лични данни се завеждат пред съдилищата на държавата-членка, в която администраторът или обработващият лични данни има място на установяване. Като алтернатива такива дела могат да се завеждат пред съдилищата в държавата-членка, в която субектът на данните пребивава постоянни, освен ако администраторът не е публичен орган, който действа в изпълнение на своите публични правомощия."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő vagy -feldolgozó elleni eljárást az adatkezelő vagy -feldolgozó telephelye szerinti tagállam bírósága előtt kell megindítani. Az ilyen eljárás megindítható az érintett szokásos tartózkodási helye szerinti tagállam bírósága előtt is, kivéve, ha az adatkezelő közhatalmi jogkörét gyakorló hatóság."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-proċeduri kontra kontrollur jew proċessur jistgħu jitressqu kemm quddiem il-qrati tal-Istat Membru fejn il-kontrollur jew il-proċessur għandu stabbiliment kif ukoll quddiem il-qrati tal-Istat Membru fejn is-suġġett tad-dejta jkollu r-residenza abitwali tiegħu."
+		},
+		{
+			"lang": "lv",
+			"text": "Prasību pret pārzini vai apstrādātāju ceļ tās dalībvalsts tiesā, kurā atrodas pārziņa vai apstrādātāja institūcija. Alternatīvi šādu prasību var celt tās dalībvalsts tiesā, kur atrodas datu subjekta pastāvīgā dzīvesvieta, izņemot, ja pārzinis ir valsts iestāde, kas rīkojas, pildot savas valsts iestādes pilnvaras."
+		},
+		{
+			"lang": "ro",
+			"text": "Acțiunile introduse împotriva unui operator sau unei persoane împuternicite de operator sunt prezentate în fața instanțelor din statul membru unde operatorul sau persoana împuternicită de operator are un sediu. Alternativ, o astfel de acțiune poate fi intentată în fața instanțelor din statul membru în care persoana vizată își are reședința obișnuită, cu excepția cazului în care operatorul este o autoritate publică care acționează în exercitarea competențelor sale publice."
+		},
+		{
+			"lang": "sk",
+			"text": "Návrh na začatie konania proti prevádzkovateľovi alebo sprostredkovateľovi sa podáva na súdoch členského štátu, v ktorom má prevádzkovateľ alebo sprostredkovateľ takéto zariadenie v činnosti. Návrh na začatie takéhoto konania možno podať aj na súdoch členského štátu, v ktorom má dotknutá osoba svoj obvyklý pobyt, pokiaľ prevádzkovateľom nie je verejný orgán konajúci v rámci výkonu svojich verejných právomocí."
+		},
+		{
+			"lang": "sl",
+			"text": "Za postopke zoper upravljavca ali obdelovalca so pristojna sodišča države članice, v kateri je upravljavec ali obdelovalec ustanovljen. Alternativno so za take postopke pristojna sodišča države članice, v kateri ima posameznik, na katerega se nanašajo osebni podatki, svoje običajno prebivališče, razen če je upravljavec javni organ, ki izvaja svoja javna pooblastila."
+		},
+		{
+			"lang": "fi",
+			"text": "Kanne rekisterinpitäjää tai henkilötietojen käsittelijää vastaan on nostettava sen jäsenvaltion tuomioistuimissa, jossa rekisterinpitäjällä tai henkilötietojen käsittelijällä on toimipaikka. Vaihtoehtoisesti tällainen kanne voidaan nostaa sen jäsenvaltion tuomioistuimissa, jossa rekisteröidyn vakinainen asuinpaikka on, paitsi jos rekisterinpitäjä on viranomainen, jonka toiminta liittyy sen julkisen vallan käyttöön."
+		},
+		{
+			"lang": "pl",
+			"text": "Postępowanie przeciwko administratorowi i podmiotowi przetwarzającemu wszczyna się przed sądem państwa członkowskiego, w którym administrator lub podmiot przetwarzający mają siedzibę. Alternatywnie takie postępowanie może być wszczęte przed sądem państwa członkowskiego, w którym podmiot danych ma miejsce zwykłego pobytu, chyba że administrator jest organem publicznym wykonującym swoje uprawnienia publiczne."
+		},
+		{
+			"lang": "lt",
+			"text": "Byla duomenų valdytojui arba duomenų tvarkytojui keliama valstybės narės, kurioje duomenų valdytojas arba duomenų tvarkytojas įsisteigęs, teismuose. Tokia byla taip pat gali būti keliama valstybės narės, kurioje yra nuolatinė duomenų subjekto gyvenamoji vieta, teismuose, išskyrus atvejus, kai duomenų valdytojas yra valdžios institucija, veikianti pagal savo viešuosius įgaliojimus."
+		},
+		{
+			"lang": "nl",
+			"text": "Een vordering tegen een voor de verwerking verantwoordelijke of een verwerker wordt ingesteld bij de gerechtelijke instanties van de lidstaat waar de voor de verwerking verantwoordelijke of de verwerker een vestiging heeft. Een dergelijke vordering kan ook worden ingesteld bij de gerechtelijke instanties van de lidstaat waar de betrokkene gewoonlijk verblijft, tenzij de voor de verwerking verantwoordelijke een autoriteit is die optreedt in de uitoefening van het overheidsgezag."
+		},
+		{
+			"lang": "sv",
+			"text": "Talan mot en registeransvarig eller en registerförare ska väckas vid domstolarna i den medlemsstat där den registeransvarige eller registerföraren är etablerad. Alternativt får sådan talan väckas vid domstolarna i den medlemsstat där den registrerade har hemvist, såvida inte registerföraren är en offentlig myndighet som agerar inom ramen för sin myndighetsutövning."
+		}
+	],
+	"children": [],
+	"title": "Article 75 – Paragraph 2"
+}

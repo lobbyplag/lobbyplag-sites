@@ -1,0 +1,102 @@
+{
+	"id": "a19p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a19",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The data subject shall have the right to object, on grounds relating to their particular situation, at any time to the processing of personal data which is based on points (d), (e) and (f) of Article 6(1), unless the controller demonstrates compelling legitimate grounds for the processing which override the interests or fundamental rights and freedoms of the data subject."
+		},
+		{
+			"lang": "de",
+			"text": "Die betroffene Person hat das Recht, aus Gründen, die sich aus ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung personenbezogener Daten, die aufgrund von Artikel 6 Absatz 1 Buchstaben d, e und f erfolgt, Widerspruch einzulegen, sofern der für die Verarbeitung Verantwortliche nicht zwingende schutzwürdige Gründe für die Verarbeitung nachweisen kann, die die Interessen oder Grundrechte und Grundfreiheiten der betroffenen Person überwiegen."
+		},
+		{
+			"lang": "fr",
+			"text": "La personne concernée a le droit de s'opposer à tout moment, pour des raisons tenant à sa situation particulière, à ce que des données à caractère personnel fassent l'objet d'un traitement fondé sur l'article 6, paragraphe 1, points d), e) et f), à moins que le responsable du traitement n'établisse l’existence de raisons impérieuses et légitimes justifiant le traitement, qui priment les intérêts ou les libertés et droits fondamentaux de la personne concernée."
+		},
+		{
+			"lang": "es",
+			"text": "El interesado tendrá derecho a oponerse en cualquier momento, por motivos relacionados con su situación particular, a que datos personales sean objeto de un tratamiento basado en el artículo 6, apartado 1, letras d), e) y f), salvo que el responsable del tratamiento acredite motivos imperiosos y legítimos para el tratamiento que prevalezcan sobre los intereses o los derechos y libertades fundamentales del interesado."
+		},
+		{
+			"lang": "pt",
+			"text": "O titular dos dados tem o direito de se opor em qualquer momento, por motivos relacionados com a sua situação particular, ao tratamento dos seus dados pessoais com base no artigo 6.º, n.º 1, alíneas d), e) e f), salvo se o responsável pelo tratamento apresentar razões imperiosas e legítimas que prevaleçam sobre os interesses ou direitos e liberdades fundamentais da pessoa em causa."
+		},
+		{
+			"lang": "it",
+			"text": "L’interessato ha il diritto di opporsi in qualsiasi momento, per motivi connessi alla sua situazione particolare, al trattamento dei dati personali ai sensi dell’articolo 6, paragrafo 1, lettere d), e) e f), salvo che il responsabile del trattamento dimostri l’esistenza di motivi preminenti e legittimi per procedere al trattamento che prevalgono sugli interessi o sui diritti e sulle libertà fondamentali dell’interessato."
+		},
+		{
+			"lang": "ga",
+			"text": "Beidh sé de cheart ag an duine is ábhar do na sonraí, ar chúiseanna a bhaineann lena staid áirithe féin, agóid a dhéanamh am ar bith i gcoinne próiseála sonraí pearsanta atá bunaithe ar phointí (d), (e) agus (f) d’Airteagal 6(1), ach amháin má léiríonn an rialaitheoir forais dhlisteanacha láidre a sháraíonn leasanna nó cearta agus saoirsí bunúsacha an duine is ábhar do na sonraí."
+		},
+		{
+			"lang": "cs",
+			"text": "Subjekt údajů má právo vznést námitku z důvodů týkajících se jeho konkrétní situace kdykoli v průběhu zpracování osobních údajů, které je založeno na čl. 6 odst. 1 písm. d), e) a f), pokud správce neprokáže závažné legitimní důvody pro zpracování, které převažují nad zájmy a základními právy a svobodami subjektu údajů."
+		},
+		{
+			"lang": "da",
+			"text": "Den registrerede har til enhver tid ret til af grunde, der vedrører den pågældendes særlige situation, at gøre indsigelse mod behandling af personoplysninger baseret på artikel 6, stk. 1, litra d), e) og f), medmindre den registeransvarlige påviser vægtige legitime grunde til behandlingen, der tilsidesætter den registreredes interesser eller grundlæggende rettigheder og frihedsrettigheder."
+		},
+		{
+			"lang": "et",
+			"text": "Andmesubjektil on õigus igal ajal konkreetsest olukorrast lähtudes vaidlustada isikuandmete töötlemine artikli 6 lõike 1 punktide d, e ja f alusel, välja arvatud juhul, kui vastutav töötleja tõendab, et töötlemine toimub täiesti õiguspärasel alusel, mis kaalub üles andmesubjekti huvid ning põhiõigused ja vabadused."
+		},
+		{
+			"lang": "el",
+			"text": "Το πρόσωπο στο οποίο αναφέρονται τα δεδομένα δικαιούται να αντιτάσσεται, για λόγους που σχετίζονται με την ιδιαίτερη κατάστασή του, ανά πάσα στιγμή στην επεξεργασία δεδομένων προσωπικού χαρακτήρα, η οποία βασίζεται στο άρθρο 6 παράγραφος 1 στοιχεία δ), ε) και στ), εκτός εάν ο υπεύθυνος επεξεργασίας καταδεικνύει επιτακτικούς και νόμιμους λόγους για την επεξεργασία οι οποίοι υπερισχύουν των συμφερόντων ή των θεμελιωδών δικαιωμάτων και ελευθεριών του προσώπου στο οποίο αναφέρονται τα δεδομένα."
+		},
+		{
+			"lang": "bg",
+			"text": "Субектът на данни има право по всяко време и на основание, свързано с неговата конкретна ситуация, на възражение срещу обработването на лични данни, което е основано на член 6, параграф 1, букви г), д) и е), освен ако администраторът не докаже, че са налице императивни законни основания за обработването, които имат преимущество пред интересите или основните права и свободи на субекта на данните."
+		},
+		{
+			"lang": "hu",
+			"text": "Az érintett egyedi helyzetével kapcsolatos indokok alapján bármikor kifogásolhatja személyes adatainak a 6. cikk (1) bekezdésének d), e) és f) pontján alapuló feldolgozását, kivéve, ha az adatkezelő igazolja, hogy a feldolgozást olyan kényszerítő erejű, jogos okok indokolják, amelyek elsőbbséget élveznek az érintett érdekeivel vagy alapvető jogaival és szabadságaival szemben."
+		},
+		{
+			"lang": "mt",
+			"text": "Is-suġġett tad-dejta għandu jkollu d-dritt li joġġezzjona, fuq raġunijiet relatati mas-sitwazzjoni partikolari li jinsab fiha, fi kwalunkwe ħin għall-ipproċessar ta’ dejta personali li jkun ibbażat fuq il-punti (d), (e) u (f) tal-Artikolu 6(1), sakemm il-kontrollur ma jagħtix raġunijiet leġittimi konvinċenti għall-ipproċessar li jegħlbu l-interessi jew id-drittijiet u l-libertajiet fundamentali tas-suġġett tad-dejta."
+		},
+		{
+			"lang": "lv",
+			"text": "Datu subjektam, pamatojoties uz iemesliem saistībā ar viņa īpašo situāciju, jebkurā laikā ir tiesības iebilst pret personas datu apstrādi, kas pamatojas uz 6. panta 1. punkta d), e) un f) apakšpunktu, izņemot, ja pārzinis norāda uz pārliecinošiem likumīgiem apstrādes pamatiem, kas ir svarīgāki par datu subjekta pamattiesībām un brīvībām."
+		},
+		{
+			"lang": "ro",
+			"text": "În orice moment, persoana vizată are dreptul de a se opune, pe motive legate de situația specială în care se află, prelucrării datelor cu caracter personal pe care se bazează pe articolul 6 alineatul (1) literele (d), (e) și (f), cu excepția cazului în care operatorul demonstrează că motivele legitime și imperioase care justifică prelucrarea primează asupra intereselor sau a drepturilor și libertăților fundamentale ale persoanei vizate."
+		},
+		{
+			"lang": "sk",
+			"text": "Dotknutá osoba má právo namietať z dôvodov týkajúcich sa jej konkrétnej situácie kedykoľvek v priebehu spracúvania osobných údajov vykonávaného na základe článku 6 ods. 1 písm. d), e) a f), pokiaľ prevádzkovateľ nepreukáže závažné legitímne dôvody na spracovanie, ktoré prevažujú nad záujmami alebo základnými právami a slobodami dotknutej osoby."
+		},
+		{
+			"lang": "sl",
+			"text": "Posameznik, na katerega se nanašajo osebni podatki, ima na podlagi razlogov, povezanih z njegovim posebnim položajem, pravico, da kadar koli ugovarja obdelavi osebnih podatkov, ki temelji na točkah (d), (e) in (f) člena 6(1), razen če upravljavec dokaže obstoj zakonitih in nujnih razlogov za obdelavo, ki prevladajo nad interesi ali temeljnimi pravicami in svoboščinami posameznika, na katerega se nanašajo osebni podatki."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisteröidyllä on oikeus henkilökohtaisen tilanteensa perusteella milloin tahansa vastustaa henkilötietojen käsittelyä, joka perustuu 6 artiklan 1 kohdan d, e ja f alakohtaan, paitsi jos rekisterinpitäjä voi osoittaa, että käsittelyyn on olemassa pakottava perusteltu syy, joka syrjäyttää rekisteröidyn edut tai perusoikeudet ja ‑vapaudet."
+		},
+		{
+			"lang": "pl",
+			"text": "Podmiot danych ma prawo, z przyczyn dotyczących jego szczególnej sytuacji, w dowolnym momencie wnieść sprzeciw wobec przetwarzania danych osobowych opartego na art. 6 ust. 1 lit. d), e) i f), chyba że administrator wykaże ważne i uzasadnione podstawy przetwarzania, które mają charakter nadrzędny wobec interesów lub podstawowych praw i wolności podmiotu danych."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų subjektas turi teisę dėl su jo konkrečiu atveju susijusių priežasčių bet kuriuo metu nesutikti, kad asmens duomenys būtų tvarkomi, kai toks duomenų tvarkymas grindžiamas 6 straipsnio 1 dalies d, e ir f punktais, išskyrus atvejus, kai duomenų valdytojas įrodo, kad duomenys tvarkomi dėl įtikinamų teisėtų priežasčių, kurios yra viršesnės už duomenų subjekto interesus arba pagrindines teises ir laisves."
+		},
+		{
+			"lang": "nl",
+			"text": "De betrokkene heeft het recht te allen tijde op gronden die verband houden met zijn bijzondere situatie bezwaar te maken tegen de verwerking op basis van artikel 6, lid 1, onder d), e) en f), van persoonsgegevens, tenzij de voor de verwerking verantwoordelijke dwingende legitieme gronden voor de verwerking aantoont die zwaarder wegen dan de belangen of de grondrechten en fundamentele vrijheden van de betrokkene."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registrerade ska, av skäl som hänför sig till vederbörandes specifika situation, ha rätt att när som helst göra invändningar mot behandling av personuppgifter som grundar sig på artikel 6.1 d, e och f, om inte den registeransvarige visar på avgörande och berättigade skäl för behandlingen som väger tyngre än den registrerades intressen eller grundläggande fri- och rättigheter."
+		}
+	],
+	"children": [],
+	"title": "Article 19 – Paragraph 1"
+}

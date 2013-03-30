@@ -1,0 +1,102 @@
+{
+	"id": "a35p9",
+	"type": "paragraph",
+	"literal": "9",
+	"parent": "a35",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller or the processor shall communicate the name and contact details of the data protection officer to the supervisory authority and to the public."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche oder der Auftragsverarbeiter teilt der Aufsichtsbehörde und der Öffentlichkeit den Namen und die Kontaktdaten des Datenschutzbeauftragten mit."
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement ou le sous-traitant communiquent le nom et les coordonnées du délégué à la protection des données à l’autorité de contrôle et au public."
+		},
+		{
+			"lang": "es",
+			"text": "El responsable o el encargado del tratamiento comunicarán el nombre y los datos de contacto del delegado de protección de datos a la autoridad de control y al público."
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento ou o subcontratante comunica o nome e os contactos do delegado para a proteção de dados à autoridade de controlo e ao público."
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento o l’incaricato del trattamento comunica il nome e le coordinate di contatto del responsabile della protezione dei dati all’autorità di controllo e al pubblico."
+		},
+		{
+			"lang": "ga",
+			"text": "Cuirfidh an rialaitheoir nó an próiseálaí ainm agus sonraí teagmhála an oifigigh cosanta sonraí in iúl don údarás maoirseachta agus don phobal."
+		},
+		{
+			"lang": "cs",
+			"text": "Správce nebo zpracovatel oznámí jméno a kontaktní údaje inspektora ochrany údajů orgánu dozoru a veřejnosti."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige eller registerføreren meddeler navnet på og kontaktoplysningerne for den databeskyttelsesansvarlige til tilsynsmyndigheden og offentligheden."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutava töötleja ja volitatud töötleja teevad andmekaitseametniku nime ja kontaktandmed teatavaks järelevalveasutusele ja üldsusele."
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας ή ο εκτελών την επεξεργασία κοινοποιούν το όνομα και τα στοιχεία επικοινωνίας του υπευθύνου προστασίας δεδομένων στην αρχή ελέγχου και στο κοινό."
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът или обработващият лични данни съобщава името и координатите за връзка на длъжностното лице по защита на данните на надзорния орган и на обществеността."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő vagy -feldolgozó közli az adatvédelmi tisztviselő nevét és elérhetőségét a felügyelő hatósággal és a nyilvánossággal."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur jew il-proċessur għandu jikkomunika l-isem u d-dettalji ta’ kuntatt tal-uffiċjal tal-protezzjoni tad-dejta lill-awtorità ta’ superviżjoni u lill-pubbliku."
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinis vai apstrādātājs paziņo datu aizsardzības inspektora vārdu un kontaktinformāciju uzraudzības iestādei un sabiedrībai."
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul sau persoana împuternicită de către operator comunică autorității de supraveghere și publicului numele și datele de contact ale responsabilului cu protecția datelor."
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ alebo sprostredkovateľ oznámia meno a kontaktné údaje úradníka pre ochranu údajov dozornému orgánu a verejnosti."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec ali obdelovalec sporoči ime in kontaktne podatke uradne osebe za varstvo podatkov nadzornemu organu in javnosti."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän tai henkilötietojen käsittelijän on ilmoitettava tietosuojavastaavan nimi ja yhteystiedot valvontaviranomaiselle ja yleisölle."
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator lub podmiot przetwarzający informują organ nadzorczy oraz opinię publiczną o imieniu i nazwisku oraz danych kontaktowych inspektora ochrony danych."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas arba duomenų tvarkytojas pateikia duomenų apsaugos pareigūno vardą, pavardę ir duomenis ryšiams priežiūros institucijai ir paskelbia viešai."
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke of de verwerker deelt de toezichthoudende autoriteit en het publiek de naam en de contactgegevens van de functionaris voor gegevensbescherming mee."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige eller registerföraren ska informera tillsynsmyndigheten och allmänheten om uppgiftsskyddsombudets namn och kontaktuppgifter."
+		}
+	],
+	"children": [],
+	"title": "Article 35 – Paragraph 9"
+}

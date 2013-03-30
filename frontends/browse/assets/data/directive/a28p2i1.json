@@ -1,0 +1,102 @@
+{
+	"id": "a28p2i1",
+	"type": "point",
+	"literal": "a",
+	"parent": "a28p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the name and contact details of the controller, or any joint controller or processor, and of the representative, if any;"
+		},
+		{
+			"lang": "de",
+			"text": "Name und Kontaktdaten des für die Verarbeitung Verantwortlichen (oder etwaiger gemeinsam für die Verarbeitung Verantwortlicher) oder des Auftragsverarbeiters sowie eines etwaigen Vertreters;"
+		},
+		{
+			"lang": "fr",
+			"text": "le nom et les coordonnées du responsable du traitement, ou de tout responsable conjoint du traitement ou de tout sous‑traitant, et du représentant, le cas échéant;"
+		},
+		{
+			"lang": "es",
+			"text": "el nombre y los datos de contacto del responsable del tratamiento, o de cualquier corresponsable o coencargado del tratamiento, y del representante, si lo hubiera;"
+		},
+		{
+			"lang": "pt",
+			"text": "Nome e contactos do responsável pelo tratamento, ou de qualquer responsável conjunto pelo tratamento ou subcontratante conjunto e, caso exista, do representante;"
+		},
+		{
+			"lang": "it",
+			"text": "nome e coordinate di contatto del responsabile del trattamento, o di ogni corresponsabile del trattamento o incaricato del trattamento, e dell’eventuale rappresentante del responsabile del trattamento;"
+		},
+		{
+			"lang": "ga",
+			"text": "ainm agus sonraí teagmhála an rialaitheora, nó ainm agus sonraí teagmhála aon chomhrialaitheora nó próiseálaí, agus ainm agus sonraí teagmhála an ionadaí, más ann dó;"
+		},
+		{
+			"lang": "cs",
+			"text": "jméno a kontaktní údaje správce nebo případného společného správce či zpracovatele a v patřičném případě zástupce;"
+		},
+		{
+			"lang": "da",
+			"text": "navn og kontaktoplysninger for den registeransvarlige eller den fælles register­ansvarlige og dennes eventuelle repræsentant"
+		},
+		{
+			"lang": "et",
+			"text": "vastutava töötleja, kaasvastutava töötleja, volitatud töötleja ning vajaduse korral esindaja nimi ja kontaktandmed;"
+		},
+		{
+			"lang": "el",
+			"text": "α) το όνομα και τα στοιχεία επικοινωνίας του υπευθύνου επεξεργασίας, ή οποιουδήποτε από κοινού υπευθύνου επεξεργασίας ή εκτελούντος την επεξεργασία, και του εκπροσώπου, εφόσον συντρέχει περίπτωση·"
+		},
+		{
+			"lang": "bg",
+			"text": "а) наименованието и координатите за връзка на администратора или на всеки съвместен администратор или обработващ лични данни, както и на представителя на администратора, ако има такъв;"
+		},
+		{
+			"lang": "hu",
+			"text": "az adatkezelő vagy a közös adatkezelő, illetve az adatfeldolgozó és – ha van ilyen – a képviselő neve és elérhetősége;"
+		},
+		{
+			"lang": "mt",
+			"text": "l-isem u d-dettalji ta’ kuntatt tal-kontrollur, jew kwalunkwe kontrollur konġunt jew proċessur, u tar-rappreżentant, jekk ikun hemm;"
+		},
+		{
+			"lang": "lv",
+			"text": "pārziņa vai kopīgo pārziņu un, ja tāds ir, arī pārstāvja nosaukumu un kontaktinformāciju;"
+		},
+		{
+			"lang": "ro",
+			"text": "numele și datele de contact ale operatorului, sau ale oricărui operator asociat sau ale oricărei persoane împuternicite de către operator, dacă este cazul;"
+		},
+		{
+			"lang": "sk",
+			"text": "meno a kontaktné údaje prevádzkovateľa alebo prípadného spoločného prevádzkovateľa alebo sprostredkovateľa a zástupcu, ak je ustanovený;"
+		},
+		{
+			"lang": "sl",
+			"text": "imenu upravljavca ali katerega koli skupnega upravljavca ali obdelovalca in predstavnika, če ta obstaja, in njihove kontaktne podatke;"
+		},
+		{
+			"lang": "fi",
+			"text": "rekisterinpitäjän tai yhteisen rekisterinpitäjän tai henkilötietojen käsittelijän sekä rekisterinpitäjän mahdollisen edustajan nimi ja yhteystiedot;"
+		},
+		{
+			"lang": "pl",
+			"text": "imienia i nazwiska/nazwy oraz danych kontaktowych administratora lub współadministratora albo podmiotu przetwarzającego oraz ewentualnego przedstawiciela;"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų valdytojo arba bet kurio bendro duomenų valdytojo arba duomenų tvarkytojo, taip pat atstovo, jei toks yra, vardas ir pavardė (pavadinimas) ir duomenys ryšiams;"
+		},
+		{
+			"lang": "nl",
+			"text": "de naam en de contactgegevens van de voor de verwerking verantwoordelijke of de eventuele gezamenlijk voor de verwerking verantwoordelijke of verwerker, en van de vertegenwoordiger, in voorkomend geval;"
+		},
+		{
+			"lang": "sv",
+			"text": "Namn och kontaktuppgifter för den registeransvarige, eller eventuella gemensamma registeransvariga eller registerförare, samt för den eventuella företrädaren."
+		}
+	],
+	"children": [],
+	"title": "Article 28 – Paragraph 2 – Point 1"
+}

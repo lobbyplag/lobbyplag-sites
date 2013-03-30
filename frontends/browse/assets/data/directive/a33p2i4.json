@@ -1,0 +1,102 @@
+{
+	"id": "a33p2i4",
+	"type": "point",
+	"literal": "d",
+	"parent": "a33p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "personal data in large scale filing systems on children, genetic data or biometric data;"
+		},
+		{
+			"lang": "de",
+			"text": "Verarbeitung personenbezogener Daten aus umfangreichen Dateien, die Daten über Kinder, genetische Daten oder biometrische Daten enthalten;"
+		},
+		{
+			"lang": "fr",
+			"text": "le traitement de données à caractère personnel dans des fichiers informatisés de grande ampleur concernant des enfants, ou le traitement de données génétiques ou biométriques;"
+		},
+		{
+			"lang": "es",
+			"text": "el tratamiento de datos personales en ficheros a gran escala relativos a niños, o el tratamiento de datos genéticos o biométricos;"
+		},
+		{
+			"lang": "pt",
+			"text": "Os dados pessoais em sistemas de arquivo de grande dimensão relativos a crianças, o tratamento de dados genéticos ou dados biométricos;"
+		},
+		{
+			"lang": "it",
+			"text": "il trattamento di dati personali in archivi su larga scala riguardanti minori, dati genetici o dati biometrici;"
+		},
+		{
+			"lang": "ga",
+			"text": "sonraí pearsanta i gcórais mhóra chomhdúcháin maidir le leanaí, sonraí géiniteacha nó sonraí bithmhéadracha;"
+		},
+		{
+			"lang": "cs",
+			"text": "se zpracováváním osobních údajů o dětech a genetických a biometrických údajů z objemných evidencí;"
+		},
+		{
+			"lang": "da",
+			"text": "personoplysninger i omfattende registre vedrørende børn, genetiske data eller biometriske data"
+		},
+		{
+			"lang": "et",
+			"text": "laste isikuandmete ning geneetiliste ja biomeetriliste isikuandmete töötlemine suurtes toimikusüsteemides;"
+		},
+		{
+			"lang": "el",
+			"text": "δ) επεξεργασία δεδομένων προσωπικού χαρακτήρα σε συστήματα αρχειοθέτησης μεγάλης κλίμακας, τα οποία περιέχουν δεδομένα για παιδιά, γενετικά δεδομένα ή βιομετρικά δεδομένα·"
+		},
+		{
+			"lang": "bg",
+			"text": "г) лични данни в широкомащабни регистри на лични данни с данни за деца, генетични данни или биометрични данни;"
+		},
+		{
+			"lang": "hu",
+			"text": "a gyermekekre, genetikus vagy biometrikus adatokra vonatkozó széleskörű nyilvántartási rendszerekben tárolt személyes adatok;"
+		},
+		{
+			"lang": "mt",
+			"text": "dejta personali f’sistemi ta’ arkivjar fuq skala kbira dwar tfal, dejta ġenetika jew dejta bijometrika;"
+		},
+		{
+			"lang": "lv",
+			"text": "plaša mēroga kartotēkas par bērnu personas datiem, ģenētiskajiem datiem vai biometriskajiem datiem;"
+		},
+		{
+			"lang": "ro",
+			"text": "procesarea datelor cu caracter personal în sistemele de evidență a datelor de mari dimensiuni privind minorii sau procesarea datelor biometrice sau genetice;"
+		},
+		{
+			"lang": "sk",
+			"text": "osobné údaje v rozsiahlych informačných systémoch týkajúcich sa detí, genetické údaje alebo biometrické údaje;"
+		},
+		{
+			"lang": "sl",
+			"text": "osebni podatki v obsežnih zbirkah, ki se nanašajo na otroke, genetske podatke ali biometrične podatke;"
+		},
+		{
+			"lang": "fi",
+			"text": "lapsia tai geneettisiä tai biometrisiä tietoja koskevien henkilötietojen käsittely suuren mittakaavan rekisteröintijärjestelmissä;"
+		},
+		{
+			"lang": "pl",
+			"text": "przetwarzanie danych osobowych w wielkoskalowych zbiorach danych dotyczących dzieci, danych genetycznych lub biometrycznych;"
+		},
+		{
+			"lang": "lt",
+			"text": "tvarkant vaikų asmens duomenis, genetinius duomenis ar biometrinius duomenis didelės apimties susistemintuose rinkiniuose;"
+		},
+		{
+			"lang": "nl",
+			"text": "de verwerking in grote bestanden van persoonsgegevens inzake kinderen en van genetische of biometrische gegevens;"
+		},
+		{
+			"lang": "sv",
+			"text": "Personuppgifter i storskaliga register om barn, genetiska uppgifter eller biometriska uppgifter."
+		}
+	],
+	"children": [],
+	"title": "Article 33 – Paragraph 2 – Point 4"
+}

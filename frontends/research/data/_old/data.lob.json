@@ -1,0 +1,216 @@
+{
+	"lobbyists": [
+		{
+			"id": "accis",
+			"title": "ACCIS",
+			"url": "http://www.accis.eu/"
+		},
+		{
+			"id": "amazon",
+			"title": "Amazon",
+			"url": "http://www.amazon.com/"
+		},
+		{
+			"id": "amcham",
+			"title": "American Chamber of Commerce",
+			"url": "http://www.amchameu.eu/"
+		},
+		{
+			"id": "bitkom",
+			"title": "BITKOM",
+			"url": "http://www.bitkom.org/"
+		},
+		{
+			"id": "bof",
+			"title": "Bits of Freedom",
+			"url": "https://www.bof.nl/"
+		},
+		{
+			"id": "digitaleurope",
+			"title": "DIGITALEUROPE",
+			"url": "http://www.digitaleurope.org/"
+		},
+		{
+			"id": "euroispa",
+			"title": "EuroISPA",
+			"url": "http://www.euroispa.org/"
+		},
+		{
+			"id": "ebf",
+			"title": "European Banking Federation",
+			"url": "http://www.ebf-fbe.eu/"
+		},
+		{
+			"id": "eurofinas",
+			"title": "eurofinas",
+			"url": "http://www.eurofinas.org/"
+		},
+		{
+			"id": "ebay",
+			"title": "eBay",
+			"url": "http://www.ebayinc.com/"
+		},
+		{
+			"id": "esba",
+			"title": "European Small Business Alliance",
+			"url": "http://www.esba-europe.org/"
+		},
+		{
+			"id": "facebook",
+			"title": "Facebook",
+			"url": "http://www.facebook.com/facebook"
+		},
+		{
+			"id": "fpf",
+			"title": "Future of Privacy Forum",
+			"url": "http://www.futureofprivacy.org/"
+		},
+		{
+			"id": "icc",
+			"title": "International Chamber of Commerce",
+			"url": "http://www.iccwbo.org/"
+		},
+		{
+			"id": "microsoft",
+			"title": "Microsoft",
+			"url": "http://www.microsoft.com/"
+		},
+		{
+			"id": "yahoo",
+			"title": "Yahoo",
+			"url": "http://www.yahoo-inc.com/"
+		},
+		{
+			"id": "unknown",
+			"title": "<em>Unknown</em>",
+			"url": "http://www.lobbyplag.eu/"
+		},
+		{
+			"id": "edri",
+			"title": "European Digital Rights",
+			"url": "http://www.edri.org/"
+		}
+	],
+	"sources": [
+		{
+			"id": 1,
+			"lobbyist": "amazon",
+			"url": "http://www.laquadrature.net/wiki/images/7/71/AMAZON-amendments.pdf"
+		},
+		{
+			"id": 2,
+			"lobbyist": "ebay",
+			"url": "https://dataskydd.net/wp-content/uploads/2013/01/eBay-recommendation-ahead-of-IMCO-vote.doc"
+		},
+		{
+			"id": 3,
+			"lobbyist": "amcham",
+			"url": "http://www.laquadrature.net/wiki/images/0/00/AmCham_EU_Proposed_Amendments_on_Data_Protection.pdf"
+		},
+		{
+			"id": 4,
+			"lobbyist": "euroispa",
+			"url": "http://www.laquadrature.net/wiki/images/a/a7/1212_EuroISPA_contribution.pdf"
+		},
+		{
+			"id": 5,
+			"lobbyist": "ebf",
+			"url": "http://www.laquadrature.net/wiki/images/2/26/D1391E-2012-EBF-Amendments-to-EC-Proposal-for-a-Regulation-on-Data-Protection-31.10.12.pdf"
+		},
+		{
+			"id": 6,
+			"lobbyist": "eurofinas",
+			"url": "https://dataskydd.net/wp-content/uploads/2013/01/Eurofinas-amendments-final.pdf"
+		},
+		{
+			"id": 7,
+			"lobbyist": "digitaleurope",
+			"url": "http://www.laquadrature.net/wiki/images/c/c4/DIGITALEUROPE_Amendments-to-Data-Protection-Regulation_final.pdf"
+		},
+		{
+			"id": 8,
+			"lobbyist": "ebay",
+			"url": "http://www.laquadrature.net/wiki/images/1/12/Position-paper_eBay-Inc_JURI-opinion-on-data-protection-regulation.pdf"
+		},
+		{
+			"id": 9,
+			"lobbyist": "accis",
+			"url": "https://dataskydd.net/wp-content/uploads/2013/01/ACCIS-DP-Amendments-Position-Paper_FINAL.pdf"
+		},
+		{
+			"id": 10,
+			"lobbyist": "bitkom",
+			"url": "http://lobbyplag.eu/data/papers/BITKOM%20Amendments.docx"
+		},
+		{
+			"id": 11,
+			"lobbyist": "bitkom",
+			"url": "http://lobbyplag.eu/data/papers/BITKOM%20Self%20regulation.docx"
+		},
+		{
+			"id": 12,
+			"lobbyist": "esba",
+			"url": "http://lobbyplag.eu/data/papers/ESBA%20-%20ACT%20Amendments.pdf"
+		},
+		{
+			"id": 13,
+			"lobbyist": "esba",
+			"url": "http://lobbyplag.eu/data/papers/ESBA%20-%20ACT%20Position%20Paper.pdf"
+		},
+		{
+			"id": 14,
+			"lobbyist": "facebook",
+			"url": "http://lobbyplag.eu/data/papers/Facebook.pdf"
+		},
+		{
+			"id": 15,
+			"lobbyist": "unknown",
+			"url": "http://lobbyplag.eu/data/papers/First%20Data.docx"
+		},
+		{
+			"id": 16,
+			"lobbyist": "fpf",
+			"url": "http://lobbyplag.eu/data/papers/Future%20of%20Privacy%20Forum%20White%20Paper%20on%20Consent.pdf"
+		},
+		{
+			"id": 17,
+			"lobbyist": "fpf",
+			"url": "http://lobbyplag.eu/data/papers/Future%20of%20Privacy%20Forum%20White%20Paper%20on%20De-Id.pdf"
+		},
+		{
+			"id": 18,
+			"lobbyist": "fpf",
+			"url": "http://lobbyplag.eu/data/papers/Future%20of%20Privacy%20Forum%20White%20Paper%20on%20Jurisdiction.pdf"
+		},
+		{
+			"id": 19,
+			"lobbyist": "icc",
+			"url": "http://lobbyplag.eu/data/papers/International%20Chamber%20of%20Commerce.pdf"
+		},
+		{
+			"id": 20,
+			"lobbyist": "microsoft",
+			"url": "http://lobbyplag.eu/data/papers/Microsoft.docx"
+		},
+		{
+			"id": 21,
+			"lobbyist": "yahoo",
+			"url": "http://lobbyplag.eu/data/papers/Yahoo%20on%20Pseudonymous%20Data.pdf"
+		},
+		{
+			"id": 22,
+			"lobbyist": "bof",
+			"url": "http://lobbyplag.eu/data/papers/Amendments%20DP%20Regulation%20Bits%20of%20Freedom.pdf"
+		},
+		{
+			"id": 23,
+			"lobbyist": "bof",
+			"url": "http://lobbyplag.eu/data/papers/COM-Rapporteur-Bits%20of%20Freedom.pdf"
+		},
+		{
+			"id": 24,
+			"lobbyist": "edri",
+			"url": "http://lobbyplag.eu/data/papers/EDRi%20Amendments.pdf"
+		}
+	]
+}

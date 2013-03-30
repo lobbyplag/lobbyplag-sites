@@ -1,0 +1,102 @@
+{
+	"id": "a31p3i1",
+	"type": "point",
+	"literal": "a",
+	"parent": "a31p3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "describe the nature of the personal data breach including the categories and number of data subjects concerned and the categories and number of data records concerned;"
+		},
+		{
+			"lang": "de",
+			"text": "eine Beschreibung der Art der Verletzung des Schutzes personenbezogener Daten mit Angabe der Kategorien und der Zahl der betroffenen Personen, der betroffenen Datenkategorien und der Zahl der betroffenen Datensätze;"
+		},
+		{
+			"lang": "fr",
+			"text": "décrire la nature de la violation de données à caractère personnel, y compris les catégories et le nombre de personnes concernées par la violation et les catégories et le nombre d’enregistrements de données concernés;"
+		},
+		{
+			"lang": "es",
+			"text": "describir la naturaleza de la violación de datos personales, en particular las categorías y el número de interesados afectados, y las categorías y el número de registros de datos de que se trate;"
+		},
+		{
+			"lang": "pt",
+			"text": "Descrever a natureza de violação dos dados pessoais, incluindo as categorias e o número de titulares de dados afetados, bem como as categorias e o número de registos de dados em causa;"
+		},
+		{
+			"lang": "it",
+			"text": "descrivere la natura della violazione dei dati personali, compresi le categorie e il numero di interessati in questione e le categorie e il numero di registrazioni dei dati in questione;"
+		},
+		{
+			"lang": "ga",
+			"text": "tabharfar tuairisc ar an gcineál sáraithe atá ann i ndáil le sonraí pearsanta, lena n‑áirítear catagóirí agus líon na ndaoine is ábhar do na sonraí lena mbaineann agus catagóirí agus líon na dtaifead sonraí lena mbaineann;"
+		},
+		{
+			"lang": "cs",
+			"text": "popsána povaha daného případu narušení bezpečnosti osobních údajů, včetně kategorií a počtu dotčených subjektů údajů a kategorií a množství dotčených záznamů;"
+		},
+		{
+			"lang": "da",
+			"text": "beskrive karakteren af bruddet på persondatasikkerheden, herunder kategorierne og antallet af berørte registrerede samt kategorierne og antallet af berørte registreringer"
+		},
+		{
+			"lang": "et",
+			"text": "kirjeldada isikuandmetega seotud rikkumise laadi ning nimetada asjaomaste andmesubjektide kategooriad ja arv ning isikuandmete liigid ja arv;"
+		},
+		{
+			"lang": "el",
+			"text": "α) να περιγράφει τη φύση της παραβίασης δεδομένων προσωπικού χαρακτήρα, συμπεριλαμβανομένων των κατηγοριών και του αριθμού των ενδιαφερόμενων προσώπων στα οποία αναφέρονται τα δεδομένα, των κατηγοριών και του πλήθους των σχετικών αρχείων δεδομένων·"
+		},
+		{
+			"lang": "bg",
+			"text": "а) описание на естеството на нарушението на сигурността на личните данни, включително категориите и броя на засегнатите субекти на данни и категориите и количеството на засегнатите записи от данни;"
+		},
+		{
+			"lang": "hu",
+			"text": "a személyes adatok megsértésének ismertetése, beleértve az érintettek kategóriáit és számát, valamint az érintett adatok kategóriáit és számát;"
+		},
+		{
+			"lang": "mt",
+			"text": "tiddeskrivi n-natura tal-ksur tad-dejta personali inklużi l-kategoriji tas-suġġetti tad-dejta kkonċernati u l-kategoriji u n-numru ta’ rekords tad-dejta kkonċernati;"
+		},
+		{
+			"lang": "lv",
+			"text": "apraksta personas datu aizsardzības pārkāpuma būtību, tostarp skarto datu subjektu kategorijas un skaitu un skarto datu ierakstu kategorijas un skaitu;"
+		},
+		{
+			"lang": "ro",
+			"text": "să descrie caracterul încălcării securității datelor cu caracter personal, inclusiv categoriile și numărul persoanelor vizate în cauză și categoriile și numărul de înregistrări de date în cauză;"
+		},
+		{
+			"lang": "sk",
+			"text": "opis charakteru porušenia ochrany osobných údajov vrátane kategórií a počtu dotknutých osôb a kategórií a počtu dotknutých údajových záznamov;"
+		},
+		{
+			"lang": "sl",
+			"text": "opis kršitve varnosti osebnih podatkov, vključno z vrstami in številom zadevnih posameznikov, na katere se nanašajo osebni podatki, ter vrstami in številom zadevnih evidenc podatkov;"
+		},
+		{
+			"lang": "fi",
+			"text": "kuvattava henkilötietojen tietoturvaloukkaus, mukaan lukien kyseessä olevien rekisteröityjen ryhmät ja lukumäärät sekä tietueiden ryhmät ja lukumäärät;"
+		},
+		{
+			"lang": "pl",
+			"text": "opisywać charakter naruszenia ochrony danych osobowych, w tym podawać kategorie i liczbę zainteresowanych podmiotów danych oraz kategorie i liczbę rekordów danych, których dotyczy naruszenie;"
+		},
+		{
+			"lang": "lt",
+			"text": "aprašytas asmens duomenų saugumo pažeidimo pobūdis, įskaitant atitinkamų duomenų subjektų kategorijas ir skaičių, taip pat atitinkamų duomenų įrašų kategorijas ir skaičių;"
+		},
+		{
+			"lang": "nl",
+			"text": "een omschrijving van de aard van de inbreuk in verband met persoonsgegevens, waaronder de betrokken categorieën en aantallen betrokkenen en categorieën en aantallen gegevensrecords;"
+		},
+		{
+			"lang": "sv",
+			"text": "beskriva personuppgiftsbrottets karaktär, inbegripet de kategorier av och antalet registrerade som berörs samt de kategorier av och antalet uppgiftsposter som berörs,"
+		}
+	],
+	"children": [],
+	"title": "Article 31 – Paragraph 3 – Point 1"
+}

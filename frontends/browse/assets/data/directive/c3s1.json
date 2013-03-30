@@ -1,0 +1,106 @@
+{
+	"id": "c3s1",
+	"type": "section",
+	"literal": "1",
+	"parent": "c3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "TRANSPARENCY AND MODALITIES"
+		},
+		{
+			"lang": "de",
+			"text": "TRANSPARENZ UND MODALITÄTEN"
+		},
+		{
+			"lang": "fr",
+			"text": "TRANSPARENCE ET MODALITÉS"
+		},
+		{
+			"lang": "es",
+			"text": "TRANSPARENCIA Y MODALIDADES"
+		},
+		{
+			"lang": "pt",
+			"text": "TRANSPARÊNCIA E MODALIDADES"
+		},
+		{
+			"lang": "it",
+			"text": "TRASPARENZA E MODALITÀ"
+		},
+		{
+			"lang": "ga",
+			"text": "TRÉDHEARCACHT AGUS RIALACHA MIONSONRAITHE"
+		},
+		{
+			"lang": "cs",
+			"text": "TRANSPARENTNOST A METODY"
+		},
+		{
+			"lang": "da",
+			"text": "GENNEMSIGTIGHED OG NÆRMERE REGLER"
+		},
+		{
+			"lang": "et",
+			"text": "LÄBIPAISTVUS JA SELLEGA SEOTUD ÜKSIKASJALIKUD EESKIRJAD"
+		},
+		{
+			"lang": "el",
+			"text": "ΔΙΑΦΑΝΕΙΑ ΚΑΙ ΤΡΟΠΟΙ ΑΣΚΗΣΗΣ ΤΩΝ ΔΙΚΑΙΩΜΑΤΩΝ"
+		},
+		{
+			"lang": "bg",
+			"text": "ПРОЗРАЧНОСТ И УСЛОВИЯ"
+		},
+		{
+			"lang": "hu",
+			"text": "ÁTLÁTHATÓSÁG ÉS SZABÁLYOZÁS"
+		},
+		{
+			"lang": "mt",
+			"text": "TRASPARENZA U MODALITAJIET"
+		},
+		{
+			"lang": "lv",
+			"text": "CAURSKATĀMĪBA UN IZMANTOŠANAS KĀRTĪBA"
+		},
+		{
+			"lang": "ro",
+			"text": "TRANSPARENȚĂ ȘI MODALITĂȚI"
+		},
+		{
+			"lang": "sk",
+			"text": "TRANSPARENTNOSŤ A METÓDY"
+		},
+		{
+			"lang": "sl",
+			"text": "PREGLEDNOST IN NAČINI"
+		},
+		{
+			"lang": "fi",
+			"text": "LÄPINÄKYVYYS JA SITÄ KOSKEVAT YKSITYISKOHTAISET SÄÄNNÖT"
+		},
+		{
+			"lang": "pl",
+			"text": "PRZEJRZYSTOŚĆ ORAZ TRYBY WYKONYWANIA PRAW"
+		},
+		{
+			"lang": "lt",
+			"text": "SKAIDRUMAS IR SĄLYGOS ‑{}‑"
+		},
+		{
+			"lang": "nl",
+			"text": "TRANSPARANTIE EN MODALITEITEN"
+		},
+		{
+			"lang": "sv",
+			"text": "INSYN OCH VILLKOR"
+		}
+	],
+	"children": [
+		"a11",
+		"a12",
+		"a13"
+	],
+	"title": "Chapter 3 – Section 1"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "a12p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a12",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller shall inform the data subject without delay and, at the latest within one month of receipt of the request, whether or not any action has been taken pursuant to Article 13 and Articles 15 to 19 and shall provide the requested information. This period may be prolonged for a further month, if several data subjects exercise their rights and their cooperation is necessary to a reasonable extent to prevent an unnecessary and disproportionate effort on the part of the controller. The information shall be given in writing. Where the data subject makes the request in electronic form, the information shall be provided in electronic form, unless otherwise requested by the data subject."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche kommt seiner Informationspflicht gegenüber der betroffenen Person umgehend nach und teilt ihr spätestens innerhalb eines Monats nach Eingang eines Antrags mit, ob eine Maßnahme nach Artikel 13 oder den Artikeln 15 bis 19 ergriffen wurde, und erteilt die erbetene Auskunft. Diese Frist kann um einen Monat verlängert werden, wenn mehrere betroffene Personen von ihren Rechten Gebrauch machen und ihre Zusammenarbeit bis zu einem vertretbaren Maß notwendig ist, um einen unnötigen und unverhältnismäßig hohen Aufwand seitens des für die Verarbeitung Verantwortlichen zu vermeiden. Die Unterrichtung hat schriftlich zu erfolgen. Stellt die betroffene Person den Antrag in elektronischer Form, ist sie auf elektronischem Weg zu unterrichten, sofern sie nichts anderes angibt."
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement informe la personne concernée sans tarder et, au plus tard, dans un délai d'un mois à compter de la réception de la demande, indépendamment de l'éventuelle adoption d'une mesure conformément aux articles 13, et 15 à 19 et fournit les informations demandées. Ce délai peut être prolongé d'un mois, si plusieurs personnes concernées exercent leurs droits et si leur coopération est suffisamment nécessaire pour empêcher un effort inutile et disproportionné de la part du responsable du traitement. Ces informations sont données par écrit. Lorsque la personne concernée en fait la demande sous forme électronique, les informations sont fournies sous forme électronique, à moins que la personne concernée ne demande qu'il en soit autrement."
+		},
+		{
+			"lang": "es",
+			"text": "El responsable del tratamiento informará sin demora al interesado y, a más tardar, en el plazo de un mes a partir de la recepción de la solicitud, de si se ha tomado alguna medida con arreglo a lo dispuesto en el artículo 13 y en los artículos 15 a 19 y facilitará la información solicitada. Este plazo podrá prorrogarse un mes, si varios interesados ejercen sus derechos y si su cooperación es necesaria, en una medida razonable, para impedir un esfuerzo innecesario y desproporcionado por parte del responsable del tratamiento. La información se facilitará por escrito. Cuando el interesado presente la solicitud por vía electrónica, la información se facilitará por vía electrónica, a menos que el interesado solicite que se proceda de otro modo."
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento deve informar o titular dos dados sem demora e, o mais tardar, no prazo de um mês a contar da data de receção do pedido, da eventual adoção de uma medida nos termos do artigo 13.º, e dos artigos 15.º a 19.º, bem como fornecer as informações solicitadas. Este prazo pode ser prorrogado mais um mês, caso vários titulares de dados exerçam os seus direitos e a sua cooperação seja necessária, numa medida razoável, para impedir um esforço injustificado e desproporcionado por parte do responsável pelo tratamento. As informações devem revestir a forma escrita. Se o titular dos dados apresentar o pedido por via eletrónica, a informação deve ser prestada por meios eletrónicos, salvo se solicitado de outra forma pela pessoa em causa."
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento informa l’interessato tempestivamente e al più tardi entro un mese dal ricevimento della richiesta, se è stata adottata un’azione ai sensi dell’articolo 13 e degli articoli da 15 a 19, e fornisce le informazioni richieste. Tale termine può essere prorogato di un ulteriore mese se più interessati esercitano i loro diritti e la loro cooperazione è necessaria in misura ragionevole per evitare un impiego di risorse inutile e sproporzionato al responsabile del trattamento. Queste informazioni sono confermate per iscritto. Se l’interessato presenta la richiesta in forma elettronica, le informazioni sono fornite in formato elettronico, salvo indicazione diversa dell’interessato."
+		},
+		{
+			"lang": "ga",
+			"text": "Cuirfidh an rialaitheoir an duine is ábhar do na sonraí ar an eolas faoi aon ghníomhaíocht a dhéantar de bhun Airteagal 13 agus Airteagail 15 go 19 agus déanfaidh sé sin gan mhoill agus ar a dhéanaí laistigh de mhí amhain ón iarraidh a fháil agus soláthróidh sé an fhaisnéis arna hiarraidh. Féadfar mí bhreise a chur leis an tréimhse sin má fheidhmíonn roinnt daoine is ábhar do na sonraí a gcearta agus má tá gá réasúnta le comhar na ndaoine sin chun iarracht neamhriachtanach dhíréireach ar thaobh an rialaitheora a chosc. Is i scríbhinn a thabharfar an fhaisnéis sin. I gcás ina ndéanann an duine is ábhar do na sonraí an iarraidh i bhfoirm leictreonach, cuirfear an fhaisnéis ar fáil i bhfoirm leictreonach, mura n‑iarrann an duine is ábhar do na sonraí a mhalairt."
+		},
+		{
+			"lang": "cs",
+			"text": "Správce neprodleně, nejpozději však do jednoho měsíce od přijetí žádosti, informuje subjekt údajů, zda byla přijata opatření podle článku 13 a článků 15 až 19, a poskytne požadované informace. Tato lhůta může být prodloužena o další měsíc, pokud svá práva vykonává několik subjektů údajů a jejich spolupráce je nezbytná v přiměřeném rozsahu k tomu, aby správce nemusel vyvíjet zbytečné a neúměrné úsilí. Tyto informace se poskytují písemně. Jestliže subjekt údajů podává žádost v elektronické podobě, poskytují se informace v elektronické podobě, pokud subjekt údajů nepožádá o jiný způsob."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige meddeler straks og senest en måned efter modtagelsen af anmodningen, om en handling er iværksat i henhold til artikel 13 samt artikel 15-19, og udleverer de ønskede oplysninger. Denne frist kan forlænges med endnu en måned, hvis flere registrerede udøver deres rettigheder, og deres samarbejde i rimeligt omfang sikrer, at en uberettiget og uforholdsmæssig indsats fra den registeransvarliges side undgås. Denne meddelelse gives skriftligt. Hvis den registrerede indgiver anmodningen elektronisk, gives meddelelsen elektronisk, medmindre den registrerede anmoder om andet."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja teavitab andmesubjekti viivitamata, kuid mitte hiljem kui ühe kuu jooksul pärast taotluse kättesaamist, artiklites 13 ja 15–19 sätestatud toimingute tegemisest ja esitab nõutud teabe. Seda tähtaega võib pikendada ühe kuu võrra, kui oma õigust kasutavad mitu andmesubjekti ja mõistlikus ulatuses on vajalik nendepoolne koostöö, et vältida vastutava töötleja jaoks ebavajalikke ja ebaproportsionaalseid jõupingutusi. Kõnealune teave esitatakse kirjalikult. Kui andmesubjekt esitab taotluse elektrooniliselt, esitatakse ka teave elektrooniliselt, kui andmesubjekt ei taotle teisiti."
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας ενημερώνει το πρόσωπο στο οποίο αναφέρονται τα δεδομένα χωρίς καθυστέρηση, και το αργότερο εντός ενός μηνός από την παραλαβή του αιτήματος, για το κατά πόσον έχει αναληφθεί οποιαδήποτε ενέργεια σύμφωνα με το άρθρο 13 και τα άρθρα 15 έως 19 και παρέχει τις πληροφορίες που ζητήθηκαν. Η προθεσμία αυτή μπορεί να παραταθεί για έναν ακόμη μήνα, εάν περισσότερα πρόσωπα στα οποία αναφέρονται τα δεδομένα ασκήσουν τα δικαιώματά τους και η συνεργασία τους είναι απαραίτητη σε εύλογο βαθμό για την αποφυγή αδικαιολόγητων και δυσανάλογων προσπαθειών εκ μέρους του υπευθύνου επεξεργασίας. Η ενημέρωση παρέχεται εγγράφως. Εάν το πρόσωπο στο οποίο αναφέρονται τα δεδομένα υποβάλλει το αίτημα σε ηλεκτρονική μορφή, η ενημέρωση παρέχεται σε ηλεκτρονική μορφή, εκτός εάν το πρόσωπο στο οποίο αναφέρονται τα δεδομένα ζητήσει κάτι διαφορετικό."
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът информира незабавно субекта на данни, най-късно в срок от един месец от получаването на искането, дали е предприето действие съгласно член 13 и членове 15—19 и предоставя поисканата информация. Този период може да бъде удължен с още един месец, ако няколко субекти на данни упражняват своите права и тяхното сътрудничество е необходимо в разумна степен, за да се предотвратят ненужни и непропорционално големи усилия от страна на администратора. Информацията се предоставя в писмена форма. Когато субектът на данни подава искане в електронна форма, информацията се предоставя в електронна форма, освен ако субектът на данни не е поискал друго."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő késedelem nélkül és legkésőbb a kérelem beérkezésétől számított egy hónapon belül tájékoztatja az érintettet arról, hogy történt-e a 13. cikk és a 15–19. cikk szerinti intézkedés, valamint szolgáltatja a kért információt. E határidő egy hónappal meghosszabbítható, ha több érintett gyakorolja jogait, és együttműködésük ésszerű mértékben szükséges az adatkezelő szükségtelen és aránytalan törekvésének megakadályozása szempontjából. Ezt a tájékoztatást írásban kell nyújtani. Amennyiben az érintett elektronikus formában nyújtotta be a kérelmet, az értesítést elektronikus formában kell közölni, kivéve, ha az érintett eltérően igényli."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur għandu jinforma lis-suġġett tad-dejta mingħajr dewmien u, sa mhux aktar minn xahar minn meta jirċievi t-talba, jekk ittieħdetx jew le xi azzjoni skont l-Artikoliu 13 u l-Artikoli 15 sa 19 u biex jipprovdi l-informazzjoni meħtieġa. Dan il-perjodu jista’ jittawwal b’xahar ieħor, jekk diversi suġġetti tad-dejta jeżerċitaw id-dritt tagħhom u l-kooperazzjoni tagħhom hija meħtieġa sa punt raġonevoli biex jiġi evitat sforz sproporzjonat u mhux meħtieġ min-naħa tal-kontrollur. Din l-informazzjoni għandha tingħata bil-miktub. Meta s-suġġett tad-dejta jagħmel it-talba f’forma elettronika, l-informazzjoni għandha tkun ipprovduta f’forma elettronika, sakemm ma jkunx mitlub mod ieħor mis-suġġett tad-dejta."
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinis nekavējoties un vēlākais viena mēneša laikā kopš pieprasījuma saņemšanas informē datu subjektu par to, vai ir veiktas darbības saskaņā ar 13. pantu un 15. – 19. pantu, un sniedz pieprasīto informāciju. Šo termiņu var pagarināt par mēnesi, ja vairāki datu subjekti izmanto savas tiesības un ir nepieciešama viņu sadarbība saprātīgā apmērā, lai novērstu nevajadzīgas un pārmērīgas pārziņa pūles. Informāciju sniedz rakstiski. Ja datu subjekts pieprasījumu iesniedz elektroniski, informāciju sniedz elektroniski, izņemot, ja datu subjekts pieprasa citādi."
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul informează persoana vizată fără întârziere și, cel târziu, în termen de o lună de la primirea cererii, dacă a fost luată vreo măsură în temeiul articolului 13 și al articolelor 15 - 19 și furnizează informațiile solicitate. Acest termen poate fi prelungit cu încă o lună, în cazul în care mai multe persoanele vizate își exercită drepturile și cooperarea acestora este necesară într-o măsură rezonabilă pentru a evita eforturi inutile și disproporționate din partea operatorului. Informațiile sunt furnizate în scris. În cazul în care persoana vizată introduce o cerere în format electronic, informațiile sunt furnizate în format electronic, cu excepția cazului în care persoana vizată solicită un alt format."
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ informuje dotknutú osobu bezodkladne a najneskôr do jedného mesiaca od prijatia žiadosti, či sa prijali nejaké opatrenia podľa článku 13 a článkov 15 až 19, a poskytne požadovanú informáciu. Túto lehotu možno predĺžiť o ďalší mesiac, ak svoje práva vykonáva niekoľko dotknutých osôb a ich spolupráca je nevyhnutná v primeranej miere tak, aby prevádzkovateľ nemusel vyvinúť zbytočné a neprimerané úsilie. Táto informácia sa vydáva písomne. Ak dotknutá osoba podala žiadosť v elektronickej podobe, uvedená informácia sa poskytne v elektronickej forme, pokiaľ dotknutá osoba nepožiadala o iný spôsob."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec posameznika, na katerega se nanašajo osebni podatki, nemudoma in najpozneje v enem mesecu po prejemu zahteve obvesti, ali je bil sprejet kakšen ukrep v skladu s členom 13 in členi 15 do 19, ter zagotovi zahtevane informacije. Ta rok se lahko podaljša za dodaten mesec, če pravice izvršuje več posameznikov, na katere se nanašajo osebni podatki, in je njihovo sodelovanje v razumni meri potrebno za preprečitev nepotrebnega in nesorazmernega napora s strani upravljavca. Informacije se predložijo v pisni obliki. Kadar posameznik, na katerega se nanašajo osebni podatki, zahtevo predloži v elektronski obliki, se informacije zagotovijo v elektronski obliki, razen če posameznik, na katerega se nanašajo osebni podatki, informacije zahteva v drugačni obliki."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän on ilmoitettava rekisteröidylle viipymättä ja viimeistään kuukauden kuluttua pyynnön esittämisestä, onko 13 artiklan ja 15–19 artiklan nojalla toteutettu toimenpiteitä, ja toimitettava pyydetyt tiedot. Tätä määräaikaa voidaan pidentää kuukaudella, jos useat rekisteröidyt käyttävät oikeuksiaan ja heidän on tehtävä kohtuullisessa määrin yhteistyötä, jotta voidaan välttää rekisterinpitäjän tarpeeton ja suhteeton rasittaminen. Tiedot on annettava kirjallisesti. Jos rekisteröity esittää pyynnön sähköisesti, tiedot on toimitettava sähköisesti, paitsi jos rekisteröity toisin pyytää."
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator informuje podmiot danych, niezwłocznie i najpóźniej w ciągu miesiąca od dnia otrzymania wniosku, o tym, czy zostaną podjęte jakieś działania zgodnie z art. 13 oraz art. 15-19 i udziela żądanych informacji. Okres ten można przedłużyć o miesiąc, jeśli wiele podmiotów danych wykonuje swoje prawa a ich współpraca jest w racjonalnym zakresie niezbędna, by zapobiec konieczności podejmowania przez administratora niepotrzebnych i nieproporcjonalnych wysiłków. Informacji udziela się na piśmie. Jeśli podmiot danych składa wniosek w formie elektronicznej, informacje także przekazywane są w formie elektronicznej, chyba że podmiot danych zażąda informacji w innej formie."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas nepagrįstai nedelsdamas, bet ne vėliau kaip per vieną mėnesį nuo prašymo gavimo, informuoja duomenų subjektą, ar imtasi priemonių pagal 13 straipsnį ir 15–19 straipsnius, ir pateikia prašomą informaciją. Šis terminas gali būti pratęstas dar vienu mėnesiu, jeigu savo teisėmis naudojasi keli duomenų subjektai ir jiems būtina bendradarbiauti, kiek to pagrįstai reikia, kad būtų išvengta bereikalingų ir neproporcingų duomenų valdytojo pastangų. Ši informacija pateikiama raštu. Jeigu duomenų subjektas prašymą pateikia elektroniniu būdu, informacija jam taip pat pateikiama elektroniniu būdu, išskyrus atvejus, kai duomenų subjektas paprašo ją pateikti kitu būdu."
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke informeert de betrokkene onverwijld en uiterlijk binnen een maand na ontvangst van het verzoek, of er al dan niet actie is ondernomen overeenkomstig artikel 13 en de artikelen 15 tot en met 19, en verstrekt de gevraagde informatie. Deze termijn kan met één maand worden verlengd wanneer verschillende betrokkenen hun rechten uitoefenen en hun samenwerking binnen redelijke grenzen noodzakelijk is om een onnodige en onevenredige inspanning van de voor de verwerking verantwoordelijke te vermijden. De informatie wordt schriftelijk verstrekt. Wanneer de betrokkene zijn verzoek in elektronische vorm indient, wordt de informatie elektronisch verstrekt, tenzij de betrokkene anderszins verzoekt."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige ska utan dröjsmål och senast en månad efter att ha mottagit begäran underrätta den registrerade om huruvida åtgärder har vidtagits i enlighet med artikel 13 och artiklarna 15–19 samt tillhandahålla den information som begärts. Denna period får förlängas med ytterligare en månad, om flera registrerade utövar sina rättigheter och deras samarbete i rimlig utsträckning är nödvändigt för att förhindra en onödig och oproportionell ansträngning från den registeransvariges sida. Information ska ges skriftligt. Om den registrerade gör begäran i elektronisk form ska informationen tillhandahållas i elektronisk form, om den registrerade inte begär något annat."
+		}
+	],
+	"children": [],
+	"title": "Article 12 – Paragraph 2"
+}

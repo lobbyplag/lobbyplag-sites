@@ -1,0 +1,102 @@
+{
+	"id": "r23",
+	"type": "recital",
+	"literal": "23",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The principles of protection should apply to any information concerning an identified or identifiable person. To determine whether a person is identifiable, account should be taken of all the means likely reasonably to be used either by the controller or by any other person to identify the individual. The principles of data protection should not apply to data rendered anonymous in such a way that the data subject is no longer identifiable."
+		},
+		{
+			"lang": "de",
+			"text": "Die Schutzprinzipien sollten für alle Informationen gelten, die sich auf eine bestimmte oder bestimmbare Person beziehen. Um festzustellen, ob eine Person bestimmbar ist, sind alle Mittel zu berücksichtigen, die von dem für die Verarbeitung Verantwortlichen oder einer anderen Person nach allgemeinem Ermessen aller Voraussicht nach zur Identifizierung der Person genutzt werden. Die Grundsätze des Datenschutzes sollten nicht für Daten gelten, die in einer Weise anonymisiert worden sind, dass die betroffene Person nicht mehr identifiziert werden kann."
+		},
+		{
+			"lang": "fr",
+			"text": "Il y a lieu d'appliquer les principes de protection à toute information concernant une personne identifiée ou identifiable. Pour déterminer si une personne est identifiable, il convient de considérer l'ensemble des moyens susceptibles d'être raisonnablement mis en œuvre, soit par le responsable du traitement, soit par une autre personne, pour identifier ladite personne. Il n'y a pas lieu d'appliquer les principes de protection aux données qui ont été rendues suffisamment anonymes pour que la personne concernée ne soit plus identifiable."
+		},
+		{
+			"lang": "es",
+			"text": "Los principios de protección deben aplicarse a toda información relativa a una persona identificada o identificable. Para determinar si una persona es identificable deben tenerse en cuenta todos los medios que razonablemente pudiera utilizar el responsable del tratamiento o cualquier otro individuo para identificar a dicha persona. Los principios de protección de datos no deben aplicarse a los datos convertidos en anónimos de forma que el interesado a quien se refieren ya no resulte identificable."
+		},
+		{
+			"lang": "pt",
+			"text": "Os princípios de proteção de dados devem aplicar-se a qualquer informação relativa a uma pessoa singular identificada ou identificável. Para determinar se uma pessoa é identificável, importa considerar o conjunto dos meios suscetíveis de serem razoavelmente utilizados, quer pelo responsável pelo tratamento quer por qualquer outra pessoa, para identificar a referida pessoa. Os princípios de proteção de dados não se aplicam a dados tornados de tal forma anónimos que o titular dos dados já não possa ser identificado."
+		},
+		{
+			"lang": "it",
+			"text": "È necessario applicare i principi di protezione a tutte le informazioni relative ad una persona identificata o identificabile. Per stabilire l’identificabilità di una persona, è opportuno considerare tutti i mezzi di cui può ragionevolmente avvalersi il responsabile del trattamento o un terzo per identificare detta persona. Non è necessario applicare i principi di protezione ai dati resi sufficientemente anonimi da impedire l’identificazione dell’interessato."
+		},
+		{
+			"lang": "ga",
+			"text": "Ba cheart feidhm a bheith ag na prionsabail chosanta maidir le haon fhaisnéis a bhaineann le duine aitheanta nó le duine inaitheanta. Chun a chinneadh an bhfuil duine inaitheanta nó nach bhfuil, ba cheart aird a thabhairt ar na modhanna go léir is dócha a úsáidfidh an rialaitheoir nó aon duine eile chun an duine aonair a shainaithint. Níor cheart feidhm a bheith ag na prionsabail um chosaint sonraí maidir le sonraí a dhéantar díthainmneach sa dóigh is nach bhfuil an duine is ábhar do na sonraí inaitheanta a thuilleadh."
+		},
+		{
+			"lang": "cs",
+			"text": "Zásady ochrany údajů by se měly uplatňovat na všechny informace týkající se identifikovaných nebo identifikovatelných osob. Při určování, zda je osoba identifikovatelná, by se mělo přihlédnout ke všem prostředkům, o nichž lze důvodně předpokládat, že je správce nebo jakákoli jiná osoba použijí pro identifikaci dané osoby. Zásady ochrany údajů by se neměly uplatňovat na údaje, které byly dostatečně anonymizovány tak, aby subjekt údajů již nebyl identifikovatelný."
+		},
+		{
+			"lang": "da",
+			"text": "Principperne om databeskyttelse bør gælde for alle former for oplysninger om en identificeret eller identificerbar person. For at afgøre, om en person er identificerbar, bør alle de hjælpemidler tages i betragtning, der med rimelighed kan tænkes bragt i anvendelse for at identificere den pågældende enten af den registeransvarlige eller af enhver anden person. Beskyttelsesprincipperne bør ikke gælde for oplysninger, som er gjort anonyme på en sådan måde, at den registrerede ikke længere kan identificeres."
+		},
+		{
+			"lang": "et",
+			"text": "Kaitsepõhimõtteid tuleks kohaldada tuvastatud või tuvastatavat isikut käsitleva igasuguse teabe suhtes. Isiku tuvastatavuse kindlakstegemisel tuleks arvesse võtta kõiki vahendeid, mida vastutav töötleja või keegi muu võib üksikisiku tuvastamiseks tõenäoliselt kasutada. Isikuandmete kaitse põhimõtteid ei tuleks kohaldada teabe suhtes, mis on muudetud anonüümseks selliselt, et andmesubjekti ei ole enam võimalik tuvastada."
+		},
+		{
+			"lang": "el",
+			"text": "Οι αρχές της προστασίας πρέπει να εφαρμόζονται σε κάθε πληροφορία η οποία αφορά πρόσωπο κατονομαζόμενο ή του οποίου η ταυτότητα μπορεί να εξακριβωθεί. Για τον καθορισμό του κατά πόσον η ταυτότητα ενός προσώπου μπορεί να εξακριβωθεί, πρέπει να λαμβάνονται υπόψη όλα τα μέσα τα οποία είναι εύλογα πιθανό να χρησιμοποιηθούν είτε από τον υπεύθυνο επεξεργασίας είτε από οποιοδήποτε άλλο πρόσωπο για την εξακρίβωση της ταυτότητας του φυσικού προσώπου. Οι αρχές της προστασίας των δεδομένων δεν πρέπει να εφαρμόζονται σε δεδομένα που ανωνυμοποιήθηκαν κατά τέτοιο τρόπο ώστε η ταυτότητα του προσώπου στο οποίο αναφέρονται τα δεδομένα να μην μπορεί πλέον να εξακριβωθεί."
+		},
+		{
+			"lang": "bg",
+			"text": "Принципите на защита на данните следва да се прилагат по отношение на всяка информация, която се отнася до идентифицирано лице или лице, което може да бъде идентифицирано. За да се определи дали може дадено лице може да бъде идентифицирано, следва да се вземат предвид всички средства, с които е вероятно да си послужи администраторът или което и да е друго лице за идентифицирането на даденото физическо лице. Принципите на защита на данните не следва да се прилагат по отношение на данни, които са анонимизирани по такъв начин, че субектът на данните да не може повече да бъде идентифициран."
+		},
+		{
+			"lang": "hu",
+			"text": "A védelem elveit minden azonosított vagy azonosítható személyre vonatkozó információ esetében alkalmazni kell. Annak meghatározására, hogy valamely személy azonosítható-e, minden olyan módszert figyelembe kell venni, amelyet az adatkezelő vagy más személy ésszerű módon felhasználhat az egyén azonosítására. A védelem elvei nem alkalmazhatók az olyan módon anonimmá tett adatokra, hogy az érintett a továbbiakban nem azonosítható."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-prinċipji tal-protezzjoni għandhom japplikaw għal kwalunkwe informazzjoni dwar persuna identifikata jew identifikabbli. Sabiex jiġi determinat jekk persuna hijiex identifikabbli, għandhom jitqiesu l-mezzi kollha li raġonevolment aktarx jintużaw mill-kontrollur jew minn kwalunkwe persuna oħra sabiex tidentifika lill-individwu. Il-prinċipji tal-protezzjoni tad-dejta ma għandhomx japplikaw għal dejta li tku saret anonima b’mod li s-suġġett tad-dejta ma jibqax identifikabbli."
+		},
+		{
+			"lang": "lv",
+			"text": "Aizsardzības principi būtu jāattiecina uz jebkādu informāciju par identificētu vai identificējamu personu. Lai noteiktu, vai persona ir identificējama, būtu jāņem vērā visi līdzekļi, ko pārzinis vai kāda cita persona pamatoti varētu izmantot, lai identificētu fizisku personu. Aizsardzības principus nebūtu jāpiemēro datiem, ko sniedz anonīmi — tā, ka datu subjekts vairs nav identificējams."
+		},
+		{
+			"lang": "ro",
+			"text": "Principiile protecției ar trebui să se aplice oricărei informații referitoare la o persoană identificată sau identificabilă. Pentru a se determina dacă o persoană este identificabilă, ar trebui să se ia în considerare toate mijloacele care pot fi utilizate în mod rezonabil fie de către operator, fie de către orice altă persoană în scopul identificării persoanei fizice respective. Principiile protecției datelor nu ar trebui să se aplice datelor anonimizate astfel încât persoana vizată să nu mai fie identificabilă."
+		},
+		{
+			"lang": "sk",
+			"text": "Zásady ochrany údajov by sa mali uplatňovať na všetky informácie týkajúce sa určenej alebo určiteľnej osoby. Na určenie toho, či je osoba určiteľná, by sa mali brať do úvahy všetky prostriedky, pri ktorých existuje primeraná pravdepodobnosť, že ich využije prevádzkovateľ alebo ľubovoľná iná osoba na identifikáciu príslušnej osoby. Zásady ochrany údajov by sa nemali uplatňovať na údaje, ktoré sú považované za anonymizované takým spôsobom, že dotknutá osoba už nie je určiteľná."
+		},
+		{
+			"lang": "sl",
+			"text": "Načela varstva bi se morala uporabljati za katere koli informacije v zvezi z določeno ali določljivo osebo. Za odločitev, ali je oseba določljiva, je treba upoštevati vsa sredstva, za katera se pričakuje, da jih bo za določitev posameznika uporabil bodisi upravljavec bodisi katera koli druga oseba. Načela varstva podatkov se ne bi smela uporabljati za podatke, ki so anonimizirani na tak način, da posameznik, na katerega se nanašajo osebni podatki, ni več določljiv."
+		},
+		{
+			"lang": "fi",
+			"text": "Tietosuojaperiaatteita olisi sovellettava kaikkiin tietoihin, jotka koskevat tunnistettua tai tunnistettavissa olevaa luonnollista henkilöä. Sen määrittämiseksi, onko luonnollinen henkilö tunnistettavissa, olisi otettava huomioon kaikki keinot, joita joko rekisterinpitäjä tai muu henkilö voi kohtuuden rajoissa käyttää mainitun henkilön tunnistamiseksi. Tietosuojaperiaatteita ei pitäisi soveltaa tietoihin, joiden tunnistettavuus on poistettu siten, ettei rekisteröidyn tunnistaminen ole enää mahdollista."
+		},
+		{
+			"lang": "pl",
+			"text": "Zasady ochrony należy stosować do wszelkich informacji dotyczących zidentyfikowanych lub możliwych do zidentyfikowania osób. Aby ustalić, czy można zidentyfikować daną osobę fizyczną, należy wziąć pod uwagę wszystkie sposoby, jakimi mogą posłużyć się administrator lub inna osoba w celu zidentyfikowania tej osoby. Zasady ochrony nie powinny być stosowane do danych zanonimizowanych w taki sposób, że podmiot danych nie może być już zidentyfikowany."
+		},
+		{
+			"lang": "lt",
+			"text": "apsaugos principai turėtų būti taikomi bet kokiai informacijai apie asmenį, kurio asmens tapatybė yra nustatyta arba gali būti nustatyta. Sprendžiant, ar galima nustatyti asmens tapatybę, reikėtų atsižvelgti į visas priemones, kurias asmens tapatybei nustatyti gali naudoti duomenų valdytojas ar bet kuris kitas asmuo. Apsaugos principai neturėtų būti taikomi duomenims, kurių anonimiškumas užtikrintas taip, kad duomenų subjekto tapatybė nebegali būti nustatyta;"
+		},
+		{
+			"lang": "nl",
+			"text": "De beschermingsbeginselen moeten voor elk gegeven betreffende een geïdentificeerde of identificeerbare persoon gelden. Om te bepalen of een persoon identificeerbaar is, dienen alle middelen in aanmerking te worden genomen waarvan redelijkerwijs te verwachten valt dat zij door de voor de verwerking verantwoordelijke, of door ieder ander worden gebruikt om de persoon te identificeren. De beschermingsbeginselen dienen niet van toepassing te zijn op gegevens die zodanig anoniem zijn gemaakt dat de persoon op wie die gegevens betrekking hebben, niet meer identificeerbaar is."
+		},
+		{
+			"lang": "sv",
+			"text": "Principerna för skyddet bör gälla all information som rör en identifierad eller identifierbar person. För att avgöra om en person är identifierbar bör man uppmärksamma alla hjälpmedel som, antingen av den registeransvarige eller av någon annan person, rimligen kan komma att använda för att identifiera vederbörande. Skyddsprinciperna bör inte gälla för uppgifter som gjorts anonyma på ett sådant sätt att den registrerade inte längre är identifierbar."
+		}
+	],
+	"children": [],
+	"title": "Recital 23"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "a4i8",
+	"type": "point",
+	"literal": "8",
+	"parent": "a4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "'the data subject's consent' means any freely given specific, informed and explicit indication of his or her wishes by which the data subject, either by a statement or by a clear affirmative action, signifies agreement to personal data relating to them being processed;"
+		},
+		{
+			"lang": "de",
+			"text": "&quot;Einwilligung der betroffenen Person&quot; jede ohne Zwang, für den konkreten Fall und in Kenntnis der Sachlage erfolgte explizite Willensbekundung in Form einer Erklärung oder einer sonstigen eindeutigen Handlung, mit der die betroffene Person zu verstehen gibt, dass sie mit der Verarbeitung der sie betreffenden personenbezogenen Daten einverstanden ist;"
+		},
+		{
+			"lang": "fr",
+			"text": "«consentement de la personne concernée»: toute manifestation de volonté, libre, spécifique, informée et explicite par laquelle la personne concernée accepte, par une déclaration ou par un acte positif univoque, que des données à caractère personnel la concernant fassent l'objet d'un traitement;"
+		},
+		{
+			"lang": "es",
+			"text": "«consentimiento del interesado»: toda manifestación de voluntad, libre, específica, informada y explícita, mediante la que el interesado acepta, ya sea mediante una declaración ya sea mediante una clara acción afirmativa, el tratamiento de datos personales que le conciernen;"
+		},
+		{
+			"lang": "pt",
+			"text": "«Consentimento do titular de dados», qualquer manifestação de vontade, livre, específica, informada e explícita, pela qual a pessoa em causa aceita, mediante uma declaração ou um ato positivo inequívoco, que os dados pessoais que lhe dizem respeito sejam objeto de tratamento;"
+		},
+		{
+			"lang": "it",
+			"text": "“consenso dell’interessato”: qualsiasi manifestazione di volontà libera, specifica, informata ed esplicita con la quale l’interessato accetta, mediante dichiarazione o azione positiva inequivocabile, che i dati personali che lo riguardano siano oggetto di trattamento;"
+		},
+		{
+			"lang": "ga",
+			"text": "ciallaíonn ‘toiliú an duine is ábhar do na sonraí’ aon chás ina gcuireann an duine is ábhar do na sonraí a thoil shonrach fheasach in iúl go sainráite faoi shaoirse, trí ráiteas nó trí ghníomhaíocht shoiléir dhearfach lena dtugann an duine sin le tuiscint go n‑aontaíonn sé le próiseáil sonraí pearsanta a bhaineann leis;"
+		},
+		{
+			"lang": "cs",
+			"text": "„souhlasem subjektu údajů“ jakýkoli svobodný, konkrétní, vědomý a výslovný projev vůle, kterým subjekt údajů dává buď v podobě prohlášení nebo jiného jednoznačného potvrzení své svolení ke zpracování svých osobních údajů;"
+		},
+		{
+			"lang": "da",
+			"text": "&quot;den registreredes samtykke&quot;: enhver frivillig, specifik, informeret og udtrykkelig viljestilkendegivelse baseret på en erklæring eller klar bekræftelse fra den registrerede, hvorved den registrerede indvilliger i, at personoplysninger om vedkommende gøres til genstand for behandling"
+		},
+		{
+			"lang": "et",
+			"text": "„andmesubjekti nõusolek” – vabatahtlik, konkreetne, teadlik ja selgelt väljendatud tahteavaldus, millega andmesubjekt kas avalduse vormis või nõusolekut väljendava tegevusega annab nõusoleku töödelda enda kohta käivaid isikuandmeid;"
+		},
+		{
+			"lang": "el",
+			"text": "«συγκατάθεση του προσώπου στο οποίο αναφέρονται τα δεδομένα»: κάθε δήλωση βουλήσεως, ελεύθερη, ειδική, ρητή και εν πλήρει επιγνώσει, με την οποία το πρόσωπο στο οποίο αναφέρονται τα δεδομένα δέχεται, με δήλωση ή με σαφή θετική ενέργεια, να αποτελέσουν αντικείμενο επεξεργασίας τα δεδομένα προσωπικού χαρακτήρα που το αφορούν·"
+		},
+		{
+			"lang": "bg",
+			"text": "„съгласие на субекта на данните“ означава всяко свободно изразено, конкретно, информирано и изрично указание за волята на субекта на данните посредством изявление или ясно потвърждаващо действие, което изразява съгласието му свързаните с него лични данни да бъдат обработени;"
+		},
+		{
+			"lang": "hu",
+			"text": "„az érintett hozzájárulása”: az érintett akaratának önkéntes, tájékozott és kifejezett kinyilvánítása nyilatkozat vagy egyértelmű megerősítő cselekedet alapján, amellyel az érintett beleegyezését adja az őt érintő személyes adatok feldolgozásához;"
+		},
+		{
+			"lang": "mt",
+			"text": "‘il-kunsens tas-suġġett tad-dejta’ tfisser indikazzjoni speċifika, infurmata u espliċita tax-xewqa tiegħu mogħtija liberament li biha s-suġġett tad-dejta, jew permezz ta’ dikjarazzjoni jew permezz ta’ azzjoni affermattiva ċara, jaqbel li jsir l-ipproċessar ta’ dejta personali dwaru;"
+		},
+		{
+			"lang": "lv",
+			"text": "&quot;datu subjekta piekrišana&quot; ir jebkura brīva, konkrēta, apzināta un nepārprotama norāde uz datu subjekta vēlmēm, ar kuru datu subjekts vai nu paziņojuma, vai skaidras apstiprinošas darbības veidā sniedz piekrišanu savu personas datu apstrādei;"
+		},
+		{
+			"lang": "ro",
+			"text": "„consimțământul persoanei vizate” înseamnă orice manifestare de voință, liberă, specifică, informată și explicită, prin care persoana vizată acceptă, printr-o declarație sau printr-o acțiune pozitivă fără echivoc, ca datele sale cu caracter personal să fie prelucrate;"
+		},
+		{
+			"lang": "sk",
+			"text": "„súhlas dotknutej osoby“ znamená akýkoľvek konkrétny, informovaný a výslovný prejav vôle danej osoby, ktorým dotknutá osoba buď formou vyhlásenia alebo iného jednoznačného potvrdzujúceho úkonu prejaví svoj súhlas so spracovaním svojich osobných údajov;"
+		},
+		{
+			"lang": "sl",
+			"text": "„privolitev posameznika, na katerega se nanašajo osebni podatki“, pomeni vsako prostovoljno dano posebno, informirano in izrecno izjavo volje posameznika, s katero posameznik, na katerega se nanašajo osebni podatki, z izjavo ali jasnim pritrdilnim dejanjem izrazi soglasje z obdelavo podatkov, ki se nanašajo nanj;"
+		},
+		{
+			"lang": "fi",
+			"text": "’rekisteröidyn suostumuksella’ mitä tahansa vapaaehtoista, yksilöityä, tietoista ja nimenomaista tahdonilmaisua, jolla rekisteröity hyväksyy henkilötietojensa käsittelyn joko antamalla suostumusta ilmaisevan lausuman tai toteuttamalla selkeästi suostumusta ilmaisevan toimen;"
+		},
+		{
+			"lang": "pl",
+			"text": "„zgoda podmiotu danych” oznacza dobrowolne, szczególne, świadome i wyraźne oświadczenie woli, przez które podmiot danych, w drodze oświadczenia lub wyraźnego działania potwierdzającego, wyraża zgodę na przetwarzanie dotyczących go danych osobowych;"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų subjekto sutikimas – savanoriškas konkretus ir aiškus tinkamai informuoto duomenų subjekto valios išreiškimas pareiškimu arba vienareikšmiais veiksmais, kuriais duomenų subjektas sutinka, kad būtų tvarkomi su juo susiję duomenys;"
+		},
+		{
+			"lang": "nl",
+			"text": "“toestemming van de betrokkene”: elke vrije, specifieke, op informatie berustende en uitdrukkelijke wilsuiting waarmee de betrokkene, door middel van hetzij een verklaring hetzij een ondubbelzinnige actieve handeling aanvaardt dat hem betreffende persoonsgegevens worden verwerkt;"
+		},
+		{
+			"lang": "sv",
+			"text": "den registrerades samtycke: varje slag av frivillig, specifik, informerad och uttrycklig viljeyttring, genom vilken den registrerade, antingen genom ett uttalande eller en entydig affirmativ handling godtar behandling av personuppgifter som rör honom eller henne."
+		}
+	],
+	"children": [],
+	"title": "Article 4 – Point 8"
+}

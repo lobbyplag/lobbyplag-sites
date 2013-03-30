@@ -1,0 +1,102 @@
+{
+	"id": "a23p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a23",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Having regard to the state of the art and the cost of implementation, the controller shall, both at the time of the determination of the means for processing and at the time of the processing itself, implement appropriate technical and organisational measures and procedures in such a way that the processing will meet the requirements of this Regulation and ensure the protection of the rights of the data subject."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche führt unter Berücksichtigung des Stands der Technik und der Implementierungskosten sowohl zum Zeitpunkt der Festlegung der Verarbeitungsmittel als auch zum Zeitpunkt der Verarbeitung technische und organisatorische Maßnahmen und Verfahren durch, durch die sichergestellt wird, dass die Verarbeitung den Anforderungen dieser Verordnung genügt und die Rechte der betroffenen Person gewahrt werden."
+		},
+		{
+			"lang": "fr",
+			"text": "Compte étant tenu des techniques les plus récentes et des coûts liés à leur mise en œuvre, le responsable du traitement applique, tant lors de la définition des moyens de traitement que lors du traitement proprement dit, les mesures et procédures techniques et organisationnelles appropriées de manière à ce que le traitement soit conforme aux prescriptions du présent règlement et garantisse la protection des droits de la personne concernée."
+		},
+		{
+			"lang": "es",
+			"text": "Habida cuenta de las técnicas existentes y de los costes asociados a su implementación, el responsable del tratamiento implementará, tanto en el momento de la determinación de los medios de tratamiento como en el del tratamiento propiamente dicho, medidas y procedimientos técnicos y organizativos apropiados, de manera que el tratamiento sea conforme con las disposiciones del presente Reglamento y garantice la protección de los derechos del interesado."
+		},
+		{
+			"lang": "pt",
+			"text": "Tendo em conta as técnicas mais recentes e os custos da sua aplicação, o responsável pelo tratamento aplica, tanto no momento de definição dos meios de tratamento como no momento do próprio tratamento, as medidas e os procedimentos técnicos e organizativos apropriados para que o tratamento seja conforme com os requisitos do presente regulamento e garanta a proteção dos direitos do titular dos dados."
+		},
+		{
+			"lang": "it",
+			"text": "Al momento di determinare i mezzi del trattamento e all’atto del trattamento stesso, il responsabile del trattamento, tenuto conto dell’evoluzione tecnica e dei costi di attuazione, mette in atto adeguate misure e procedure tecniche e organizzative in modo tale che il trattamento sia conforme al presente regolamento e assicuri la tutela dei diritti dell’interessato."
+		},
+		{
+			"lang": "ga",
+			"text": "Ag féachaint don úrscothacht agus do chostas an chur chun feidhme, déanfaidh an rialaitheoir, nuair a chinntear modh na próiseála agus nuair a dhéantar an phróiseáil féin, bearta agus nósanna imeachta iomchuí teicniúla agus eagraíochtúla a chur chun feidhme sa dóigh is go gcomhlíonfaidh an phróiseáil ceanglais an Rialacháin seo agus go gcosnófar cearta an duine is ábhar do na sonraí."
+		},
+		{
+			"lang": "cs",
+			"text": "S ohledem na stav techniky a náklady provedení přijme správce při určování prostředků zpracování i při samotném zpracovávání vhodná technická a organizační opatření a postupy tak, aby dané zpracování splňovalo požadavky tohoto nařízení a zaručovalo ochranu práv subjektu údajů."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige iværksætter under hensyntagen til det aktuelle tekniske niveau og omkostningerne i forbindelse med gennemførelsen, både når metoderne til behandling fastlægges, og når selve behandlingen foretages, passende tekniske og organisatoriske foranstaltninger og procedurer, så behandlingen opfylder denne forordnings krav og sikrer beskyttelsen af den registreredes rettigheder."
+		},
+		{
+			"lang": "et",
+			"text": "Võttes arvesse tehnika arengut ja juurutamise kulusid, võtab vastutav töötleja töötlemisvahendite valikul ja töötlemise käigus selliseid tehnilisi ja organisatsioonilisi meetmeid, millega tagatakse töötlemise vastavus käesoleva määruse nõuetele ja andmesubjekti õiguste kaitsmine."
+		},
+		{
+			"lang": "el",
+			"text": "Έχοντας υπόψη την κατάσταση της τεχνολογίας και το κόστος εφαρμογής, ο υπεύθυνος επεξεργασίας οφείλει, τόσο κατά τον καθορισμό των μέσων επεξεργασίας όσο και κατά την ίδια την επεξεργασία, να εφαρμόζει κατάλληλα τεχνικά και οργανωτικά μέτρα και διαδικασίες κατά τρόπο ώστε η επεξεργασία να πληροί τις απαιτήσεις του παρόντος κανονισμού και να διασφαλίζεται η προστασία των δικαιωμάτων του προσώπου στο οποίο αναφέρονται τα δεδομένα."
+		},
+		{
+			"lang": "bg",
+			"text": "Като взема предвид достиженията на техническия прогрес и разходите за тяхното внедряване, администраторът въвежда — както към момента на определянето на средствата за обработването на данни, така и към момента на самото обработване на данни — подходящи технически и организационни мерки и процедури, така че обработването да отговаря на изискванията на настоящия регламент и да гарантира защитата на правата на субекта на данни."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő – a technika állására és végrehajtás költségeire tekintettel – mind az adatfeldolgozás módjának meghatározása, mind a feldolgozás során megfelelő technikai és szervezési intézkedéseket hajt végre oly módon, hogy az adatfeldolgozás megfeleljen e rendelet követelményeinek, és biztosítsa az érintettek jogainak védelmét."
+		},
+		{
+			"lang": "mt",
+			"text": "Wara li jikkunsidra l-aħħar żviluppi u l-kost tal-implimentazzjoni, il-kontrollur għandu, kemm meta jiddetermina l-mezzi għall-ipproċessar u waqt l-ipproċessar innifsu, jimplimenta miżuri u proċeduri tekniċi u organizzattivi xierqa b’mod li l-ipproċessar jissodisfa r-rekwiżiti ta’ dan ir-Regolament u jiżgura l-protezzjoni tad-drittijiet tas-suġġett tad-dejta."
+		},
+		{
+			"lang": "lv",
+			"text": "Ņemot vērā jaunākās tehniskās iespējas un to ieviešanas izmaksas, pārzinis, nosakot apstrādes līdzekļus un pašas apstrādes laikā, īsteno piemērotus tehniskus un organizatoriskus pasākumus, lai apstrāde būtu saskaņā ar šīs regulas prasībām, un nodrošina datu subjektu tiesību aizsardzību."
+		},
+		{
+			"lang": "ro",
+			"text": "Având în vedere stadiul actual al tehnicii și costurile de implementare, operatorul pune în aplicare, atât în momentul stabilirii mijloacelor de prelucrare, cât și pe parcursul prelucrării propriu-zise, măsuri și proceduri tehnice și organizatorice corespunzătoare astfel încât prelucrarea să îndeplinească cerințele prezentului regulament și să asigure protecția drepturilor persoanei vizate."
+		},
+		{
+			"lang": "sk",
+			"text": "So zreteľom na najnovší stav techniky a náklady na jej zavedenie prevádzkovateľ v čase určenia prostriedkov na spracovanie, ako aj v čase samotného spracúvania uplatní zodpovedajúce technické a organizačné opatrenia a postupy tak, aby spracovanie spĺňalo požiadavky tohto nariadenia a zabezpečovalo ochranu práv dotknutej osoby."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec ob upoštevanju doseženega razvoja tehnologije in stroškov izvajanja v času določanja sredstev za obdelavo in v času same obdelave izvede ustrezne tehnične in organizacijske ukrepe in postopke na tak način, da obdelava ustreza zahtevam te uredbe in zagotavlja zaščito pravic posameznika, na katerega se nanašajo osebni podatki."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän on sekä käsittelykeinojen määrittämisen että itse käsittelyn yhteydessä toteutettava asianmukaiset tekniset ja organisatoriset toimenpiteet ja menettelyt uusin tekniikka ja toteuttamiskustannukset huomioon ottaen siten, että käsittely vastaa tämän asetuksen vaatimuksia ja takaa rekisteröidyn oikeuksien suojelun."
+		},
+		{
+			"lang": "pl",
+			"text": "Uwzględniając najnowsze osiągnięcia techniczne oraz koszty wdrożenia, administrator, zarówno w momencie ustalania środków niezbędnych do przetwarzania, jak i w momencie samego przetwarzania, wdraża odpowiednie środki i procedury techniczne i organizacyjne, tak by przetwarzanie odpowiadało wymogom niniejszego rozporządzenia oraz gwarantowało ochronę praw podmiotu danych."
+		},
+		{
+			"lang": "lt",
+			"text": "Atsižvelgdamas į naujausias technines galimybes ir įdiegimo sąnaudas, duomenų valdytojas, tiek nustatydamas duomenų tvarkymo būdus, tiek juos tvarkydamas, įdiegia tinkamas technines bei organizacines priemones ir nustato procedūras, kad duomenų tvarkymas atitiktų šio reglamento reikalavimus ir būtų užtikrinta duomenų subjekto teisių apsauga."
+		},
+		{
+			"lang": "nl",
+			"text": "Met inachtneming van de stand van de techniek en de uitvoeringskosten legt de voor de verwerking verantwoordelijke, zowel bij de vaststelling van de middelen voor de verwerking als bij de verwerking zelf, zodanig passende technische en organisatorische maatregelen en procedures ten uitvoer dat de verwerking aan de voorwaarden van deze verordening voldoet en de bescherming van de rechten van de betrokkene gewaarborgd is."
+		},
+		{
+			"lang": "sv",
+			"text": "Med beaktande av dagens tillgängliga teknik och genomförandekostnaden ska den registeransvarige, både vid tidpunkten för fastställandet av behandlingsmetoden och vid tidpunkten för själva behandlingen, genomföra lämpliga tekniska och organisatoriska åtgärder och förfaranden på ett sådant sätt att behandlingen uppfyller kraven i denna förordning och säkerställa skyddet av den registrerades rättigheter."
+		}
+	],
+	"children": [],
+	"title": "Article 23 – Paragraph 1"
+}

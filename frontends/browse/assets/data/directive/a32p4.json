@@ -1,0 +1,102 @@
+{
+	"id": "a32p4",
+	"type": "paragraph",
+	"literal": "4",
+	"parent": "a32",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Without prejudice to the controller's obligation to communicate the personal data breach to the data subject, if the controller has not already communicated the personal data breach to the data subject of the personal data breach, the supervisory authority, having considered the likely adverse effects of the breach, may require it to do so."
+		},
+		{
+			"lang": "de",
+			"text": "Unbeschadet der dem für die Verarbeitung Verantwortlichen obliegenden Pflicht, der betroffenen Person die Verletzung des Schutzes personenbezogener Daten mitzuteilen, kann die Aufsichtsbehörde, falls der für die Verarbeitung Verantwortliche die betroffene Person noch nicht in Kenntnis gesetzt hat, nach Prüfung der zu erwartenden negativen Auswirkungen der Verletzung den für die Verarbeitung Verantwortlichen auffordern, dies zu tun."
+		},
+		{
+			"lang": "fr",
+			"text": "Sans préjudice de l’obligation du responsable du traitement de communiquer à la personne concernée la violation de ses données à caractère personnel, si le responsable du traitement n'a pas déjà averti la personne concernée de la violation de ses données à caractère personnel, l'autorité de contrôle peut, après avoir examiné les effets potentiellement négatifs de cette violation, exiger du responsable du traitement qu'il s'exécute."
+		},
+		{
+			"lang": "es",
+			"text": "Sin perjuicio de la obligación del responsable del tratamiento de comunicar al interesado la violación de datos personales, si aquel no hubiera comunicado ya al interesado la violación de datos personales, la autoridad de control, una vez considerados los efectos negativos probables de la violación, podrá exigirle que lo haga."
+		},
+		{
+			"lang": "pt",
+			"text": "Sem prejuízo da obrigação que incumbe ao responsável pelo tratamento de comunicar ao titular dos dados a violação dos seus dados pessoais, se o primeiro não tiver já comunicado a violação de dados pessoais à pessoa em causa, a autoridade de controlo, atendendo aos efeitos negativos prováveis dessa violação, pode exigir que proceda a essa notificação."
+		},
+		{
+			"lang": "it",
+			"text": "Fatto salvo l’obbligo per il responsabile del trattamento di comunicare all’interessato la violazione dei dati personali, se il responsabile del trattamento non ha provveduto a comunicare all’interessato la violazione dei dati personali, l’autorità di controllo, considerate le presumibili ripercussioni negative della violazione, può obbligare il responsabile del trattamento a farlo."
+		},
+		{
+			"lang": "ga",
+			"text": "Gan dochar d’oibleagáid an rialaitheora sárú i ndáil le sonraí pearsanta a chur in iúl don duine is ábhar do na sonraí, mura bhfuil sé curtha in iúl cheana féin ag an rialaitheoir don duine is ábhar do na sonraí gur tharla sárú i ndáil le sonraí pearsanta, féadfaidh an t‑údarás maoirseachta a chur de cheangal ar an rialaitheoir é sin a dhéanamh, tar éis na héifeachtaí díobhálacha a d'fhéadfadh a bheith ag an sárú sin a chur san áireamh."
+		},
+		{
+			"lang": "cs",
+			"text": "Aniž by byla dotčena povinnost správce oznamovat narušení bezpečnosti osobních údajů dotčeným subjektům údajů, jestliže již správce narušení bezpečnosti osobních údajů dotčenému subjektu údajů neoznámil, takové oznámení od něho může po zvážení pravděpodobných nežádoucích účinků narušení požadovat orgán dozoru."
+		},
+		{
+			"lang": "da",
+			"text": "Uden at det berører den registeransvarliges forpligtelse til at underrette den registrerede, kan tilsynsmyndigheden i tilfælde, hvor den registeransvarlige ikke allerede har underrettet den registrerede om bruddet på persondatasikkerheden, og efter at have vurderet bruddets sandsynlige negative virkninger kræve, at den registeransvarlige gør dette."
+		},
+		{
+			"lang": "et",
+			"text": "Ilma et see piiraks vastutava töötleja kohustust teavitada andmesubjekti isikuandmetega seotud rikkumistest, võib järelevalveasutus pärast rikkumise võimalike kahjulike mõjude hindamist vastutavalt töötlejalt nõuda andmesubjekti teavitamist isikuandmetega seotud rikkumisest, kui vastutav töötleja ei ole rikkumisest ise veel teatanud."
+		},
+		{
+			"lang": "el",
+			"text": "Με την επιφύλαξη της υποχρέωσης του υπευθύνου επεξεργασίας να γνωστοποιεί την παραβίαση των δεδομένων προσωπικού χαρακτήρα στο πρόσωπο στο οποίο αναφέρονται τα δεδομένα, εάν ο υπεύθυνος επεξεργασίας δεν έχει ακόμη ειδοποιήσει το συγκεκριμένο πρόσωπο για την παραβίαση των δεδομένων του προσωπικού χαρακτήρα, η αρχή ελέγχου δύναται, αφού εξετάσει τις ενδεχόμενες δυσμενείς συνέπειες της παραβίασης, να απαιτήσει από τον υπεύθυνο επεξεργασίας να το πράξει."
+		},
+		{
+			"lang": "bg",
+			"text": "Без да се засяга задължението на администратора да съобщи на субекта на данните за нарушението на сигурността на личните данни, ако администраторът все още не е съобщил на засегнатия субект на данни за нарушението на сигурността на личните данни, надзорният орган може, след като отчете евентуалните неблагоприятни последици от нарушението, да изиска от администратора да извърши съобщаването."
+		},
+		{
+			"lang": "hu",
+			"text": "Amennyiben az adatkezelő az érintettet még nem értesítette a személyes adatok megsértéséről, a felügyelő hatóság – az adatkezelő azon kötelezettségének sérelme nélkül, hogy az érintettet a személyes adatok megsértéséről értesítse – az adatsértés esetleges hátrányos hatásait mérlegelve felszólíthatja ennek megtételére."
+		},
+		{
+			"lang": "mt",
+			"text": "Mingħajr preġudizzju għall-obbligu tal-kontrollur li jikkomunika l-ksur tad-dejta personali lis-suġġett tad-dejta, jekk il-kontrollur ma jkunx diġà kkomunika l-ksur tad-dejta personali lis-suġġett tad-dejta tal-ksur tad-dejta personali, l-awtorità ta’ superviżjoni, wara li tkun ikkunsidrat l-effetti avversi possibbli tal-ksur, titolbu jagħmel dan."
+		},
+		{
+			"lang": "lv",
+			"text": "Neskarot pārziņa pienākumu informēt datu subjektu par personas datu aizsardzības pārkāpumu, ja pārzinis vēl nav informējis datu subjektu par personas datu aizsardzības pārkāpumu, uzraudzības iestāde, apsvērusi pārkāpuma iespējamo nelabvēlīgo ietekmi, var pieprasīt pārzinim informēt datu subjektu."
+		},
+		{
+			"lang": "ro",
+			"text": "Fără a aduce atingere obligației operatorului de a comunica persoanei vizate încălcarea securității datelor cu caracter personal, în cazul în care operatorul nu a comunicat încă persoanei vizate că securitatea datelor sale cu caracter personal a fost încălcată, autoritatea de supraveghere poate, după analizarea posibilelor efecte negative ale încălcării, să îi solicite să facă acest lucru."
+		},
+		{
+			"lang": "sk",
+			"text": "Bez toho, aby bola dotknutá povinnosť prevádzkovateľa informovať dotknutú osobu o porušení ochrany osobných údajov, ak prevádzkovateľ ešte neinformoval dotknutú osobu, ktorej sa porušenie ochrany osobných údajov týka, dozorný orgán po zvážení možných nepriaznivých účinkov porušenia môže požadovať, aby tak urobil."
+		},
+		{
+			"lang": "sl",
+			"text": "Brez poseganja v obveznost upravljavca, da o kršitvi varnosti osebnih podatkov obvesti posameznika, na katerega se nanašajo osebni podatki, lahko v primeru, če upravljavec posameznika, na katerega se nanašajo osebni podatki, ni obvestil o kršitvi varnosti osebnih podatkov, to od njega zahteva nadzorni organ po proučitvi morebitnih škodljivih učinkov kršitve."
+		},
+		{
+			"lang": "fi",
+			"text": "Jos rekisterinpitäjä ei ole vielä ilmoittanut henkilötietojen tietoturvaloukkauksesta rekisteröidylle, valvontaviranomainen voi vaatia ilmoituksen tekemistä harkittuaan loukkauksen todennäköisiä haittavaikutuksia, sanotun kuitenkaan rajoittamatta rekisterinpitäjän velvollisuutta ilmoittaa tietoturvaloukkauksesta rekisteröidylle."
+		},
+		{
+			"lang": "pl",
+			"text": "Bez uszczerbku dla obowiązku administratora w zakresie zawiadomienia podmiotu danych o naruszeniu ochrony danych osobowych, jeśli administrator nie zawiadomił wcześniej podmiotu danych o naruszeniu ochrony danych osobowych, organ nadzorczy może tego od niego zażądać, jeśli stwierdzi możliwość wystąpienia niekorzystnych skutków naruszenia."
+		},
+		{
+			"lang": "lt",
+			"text": "Nepažeisdama duomenų valdytojo pareigos pranešti apie asmens duomenų saugumo pažeidimą duomenų subjektui, priežiūros institucija, išnagrinėjusi galimą neigiamą pažeidimo poveikį, gali reikalauti, kad duomenų valdytojas praneštų apie asmens duomenų saugumo pažeidimą su juo susijusiam duomenų subjektui, jei jis to dar nepadarė."
+		},
+		{
+			"lang": "nl",
+			"text": "Onverminderd de verplichting van de voor de verwerking verantwoordelijke om de inbreuk in verband met persoonsgegevens aan de betrokkene te melden, kan de toezichthoudende autoriteit, na de waarschijnlijkheid van negatieve gevolgen van de inbreuk te hebben overwogen, de voor de verwerking verantwoordelijk gelasten de inbreuk in verband met persoonsgegevens aan de betrokkene te melden wanneer deze laatste dat nog niet heeft gedaan."
+		},
+		{
+			"lang": "sv",
+			"text": "Utan att det påverkar den registeransvariges skyldighet att informera den registrerade om personuppgiftsbrottet, får tillsynsmyndigheten, om den registeransvarige inte redan har informerat den registrerade om personuppgiftsbrottet, efter att ha tagit hänsyn till de möjliga negativa effekterna av brottet, begära att den registeransvarige gör detta."
+		}
+	],
+	"children": [],
+	"title": "Article 32 – Paragraph 4"
+}

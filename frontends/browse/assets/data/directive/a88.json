@@ -1,0 +1,105 @@
+{
+	"id": "a88",
+	"type": "article",
+	"literal": "88",
+	"parent": "c11",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Repeal of Directive 95/46/EC"
+		},
+		{
+			"lang": "de",
+			"text": "Aufhebung der Richtlinie 95/46/EG"
+		},
+		{
+			"lang": "fr",
+			"text": "Abrogation de la directive 95/46/CE"
+		},
+		{
+			"lang": "es",
+			"text": "Derogación de la Directiva 95/46/CE"
+		},
+		{
+			"lang": "pt",
+			"text": "Revogação da Diretiva 95/46/CE"
+		},
+		{
+			"lang": "it",
+			"text": "Abrogazione della direttiva 95/46/CE"
+		},
+		{
+			"lang": "ga",
+			"text": "Treoir 95/46/CE a aisghairm"
+		},
+		{
+			"lang": "cs",
+			"text": "Zrušení směrnice 95/46/ES"
+		},
+		{
+			"lang": "da",
+			"text": "Ophævelse af direktiv 95/46/EF"
+		},
+		{
+			"lang": "et",
+			"text": "Direktiivi 95/46/EÜ kehtetuks tunnistamine"
+		},
+		{
+			"lang": "el",
+			"text": "Κατάργηση της οδηγίας 95/46/ΕΚ"
+		},
+		{
+			"lang": "bg",
+			"text": "Отмяна на Директива 95/46/ЕО"
+		},
+		{
+			"lang": "hu",
+			"text": "A 95/46/EK irányelv hatályon kívül helyezése"
+		},
+		{
+			"lang": "mt",
+			"text": "Revoka tad-Direttiva 95/46/KE"
+		},
+		{
+			"lang": "lv",
+			"text": "Direktīvas 95/46/EK atcelšana"
+		},
+		{
+			"lang": "ro",
+			"text": "Abrogarea Directivei 95/46/CE"
+		},
+		{
+			"lang": "sk",
+			"text": "Zrušenie smernice 95/46/ES"
+		},
+		{
+			"lang": "sl",
+			"text": "Razveljavitev Direktive 95/46/ES"
+		},
+		{
+			"lang": "fi",
+			"text": "Direktiivin 95/46/EY kumoaminen"
+		},
+		{
+			"lang": "pl",
+			"text": "Uchylenie dyrektywy 95/46/WE"
+		},
+		{
+			"lang": "lt",
+			"text": "Direktyvos 95/46/EB panaikinimas"
+		},
+		{
+			"lang": "nl",
+			"text": "Intrekking van Richtlijn 95/46/EG"
+		},
+		{
+			"lang": "sv",
+			"text": "Upphävande av direktiv 95/46/EG"
+		}
+	],
+	"children": [
+		"a88p1",
+		"a88p2"
+	],
+	"title": "Article 88"
+}

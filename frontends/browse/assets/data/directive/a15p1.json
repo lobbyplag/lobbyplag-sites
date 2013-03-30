@@ -1,0 +1,111 @@
+{
+	"id": "a15p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a15",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The data subject shall have the right to obtain from the controller at any time, on request, confirmation as to whether or not personal data relating to the data subject are being processed. Where such personal data are being processed, the controller shall provide the following information:"
+		},
+		{
+			"lang": "de",
+			"text": "Die betroffene Person hat das Recht, von dem für die Verarbeitung Verantwortlichen jederzeit eine Bestätigung darüber zu verlangen, ob sie betreffende personenbezogene Daten verarbeitet werden oder nicht. Werden personenbezogene Daten verarbeitet, teilt der für die Verarbeitung Verantwortliche Folgendes mit:"
+		},
+		{
+			"lang": "fr",
+			"text": "La personne concernée a le droit d'obtenir, à tout moment, à sa demande, auprès du responsable du traitement, confirmation que les données à caractère personnel la concernant sont ou ne sont pas traitées. Lorsque ces données à caractère personnel sont traitées, le responsable du traitement fournit les informations suivantes:"
+		},
+		{
+			"lang": "es",
+			"text": "Los interesados que lo soliciten tendrán derecho a obtener del responsable del tratamiento, en cualquier momento, confirmación de si se están tratando o no datos personales que les conciernen. En caso de que se confirme el tratamiento, el responsable facilitará la siguiente información:"
+		},
+		{
+			"lang": "pt",
+			"text": "O titular dos dados pode obter do responsável pelo tratamento, a qualquer momento e mediante pedido, confirmação de que os dados pessoais que lhe digam respeito são ou não objeto de tratamento. Sempre que esses dados forem objeto de tratamento, o responsável pelo tratamento deve fornecer as seguintes informações:"
+		},
+		{
+			"lang": "it",
+			"text": "L’interessato che ne faccia richiesta ha il diritto di ottenere in qualsiasi momento, dal responsabile del trattamento, la conferma che sia o meno in corso un trattamento di dati personali che lo riguardano. Se è in corso un trattamento, il responsabile del trattamento fornisce le seguenti informazioni:"
+		},
+		{
+			"lang": "ga",
+			"text": "Beidh sé de cheart ag an duine is ábhar do na sonraí daingniú a fháil ón rialaitheoir am ar bith cibé acu atá nó nach bhfuil sonraí pearsanta a bhaineann leis an duine sin á bpróiseáil. I gcás ina bhfuil na sonraí pearsanta sin á bpróiseáil, soláthróidh an rialaitheoir an fhaisnéis seo a leanas:"
+		},
+		{
+			"lang": "cs",
+			"text": "Subjekt údajů má právo získat od správce na požádání kdykoli potvrzení o tom, zda jsou osobní údaje, které se jej týkají, zpracovávány či nikoli. Pokud jsou tyto osobní údaje zpracovávány, správce poskytne následující informace:"
+		},
+		{
+			"lang": "da",
+			"text": "Den registrerede har til enhver tid ret til efter anmodning at få bekræftet fra den registeransvarlige, om personoplysninger vedrørende vedkommende behandles. Hvis sådanne personoplysninger behandles, fremlægger den registeransvarlige følgende oplysninger:"
+		},
+		{
+			"lang": "et",
+			"text": "Andmesubjektil on õigus igal ajal saada vastutavalt töötlejalt taotluse alusel kinnitus selle kohta, kas tema isikuandmeid töödeldakse või mitte. Juhul kui andmesubjekti isikuandmeid töödeldakse, esitab vastutav töötleja talle järgmise teabe:"
+		},
+		{
+			"lang": "el",
+			"text": "Το πρόσωπο στο οποίο αναφέρονται τα δεδομένα δικαιούται να εξασφαλίζει, ανά πάσα στιγμή, κατόπιν αιτήματος, από τον υπεύθυνο επεξεργασίας επιβεβαίωση σχετικά με το κατά πόσον διενεργείται επεξεργασία δεδομένων προσωπικού χαρακτήρα που το αφορούν. Εάν δεδομένα προσωπικού χαρακτήρα υποβάλλονται σε επεξεργασία, ο υπεύθυνος επεξεργασίας οφείλει να παρέχει τις ακόλουθες πληροφορίες:"
+		},
+		{
+			"lang": "bg",
+			"text": "Субектът на данни има право при поискване да получава по всяко време потвърждение от администратора дали се обработват лични данни, свързани с него. Когато се обработват такива лични данни, администраторът предоставя следната информация:"
+		},
+		{
+			"lang": "hu",
+			"text": "Az érintett erre irányuló kérelem benyújtásával jogosult az adatkezelőtől bármikor megerősítést kérni arra vonatkozóan, hogy személyes adatainak feldolgozása folyamatban van-e. Az ilyen személyes adatok feldolgozása esetén az adatkezelő az alábbiakról nyújt tájékoztatást:"
+		},
+		{
+			"lang": "mt",
+			"text": "Is-suġġett tad-dejta għandu jkollu d-dritt li jikseb mingħand il-kontrollur fi kwalunkwe ħin, fuq talba, il-konferma ta’ jekk dejta personali li tirrigwarda lis-suġġett tad-dejta hijiex qiegħda tiġi pproċessata jew le. Fejn dejta personali bħal din tkun qed tiġi pproċessata, il-kontrollur għandu jipprovdi l-informazzjoni li ġejja:"
+		},
+		{
+			"lang": "lv",
+			"text": "Datu subjektam jebkurā laikā ir tiesības pēc pieprasījuma saņemt no pārziņa apstiprinājumu par to, vai viņa personas dati tiek apstrādāti. Ja šādi personas dati tiek apstrādāti, pārzinis sniedz šādu informāciju:"
+		},
+		{
+			"lang": "ro",
+			"text": "Persoana vizată are dreptul de a obține din partea operatorului, în orice moment, la cerere, confirmarea faptului că datele sale cu caracter personal sunt sau nu prelucrate. În cazul în care aceste date cu caracter personal sunt prelucrate, operatorul furnizează următoarele informații:"
+		},
+		{
+			"lang": "sk",
+			"text": "Dotknutá osoba má právo dostať od prevádzkovateľa na požiadanie kedykoľvek potvrdenie o tom, či sa spracúvajú jej osobné údaje. Ak sa takéto osobné údaje spracúvajú, prevádzkovateľ poskytne informácie obsahujúce:"
+		},
+		{
+			"lang": "sl",
+			"text": "Posameznik, na katerega se nanašajo osebni podatki, lahko od upravljavca na zahtevo kadar koli pridobi potrditev, ali se v zvezi z njim obdelujejo osebni podatki ali ne. Če se taki osebni podatki obdelujejo, upravljavec zagotovi naslednje:"
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisteröidyllä on oikeus saada rekisterinpitäjältä pyynnöstä milloin tahansa vahvistus siitä, että häntä koskevia henkilötietoja käsitellään tai että niitä ei käsitellä. Jos henkilötietoja käsitellään, rekisterinpitäjän on annettava seuraavat tiedot:"
+		},
+		{
+			"lang": "pl",
+			"text": "Podmiot danych ma prawo do uzyskania od administratora, na wniosek złożony w dowolnym momencie, potwierdzenia, czy przetwarzane są dane osobowe odnoszące się do niego. W przypadku przetwarzania takich danych osobowych administrator przekazuje następujące informacje:"
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų subjektas turi teisę pateikęs prašymą bet kuriuo metu iš duomenų valdytojo gauti patvirtinimą, ar tvarkomi jo asmens duomenys. Jeigu tokie asmens duomenys tvarkomi, duomenų valdytojas pateikia informaciją apie:"
+		},
+		{
+			"lang": "nl",
+			"text": "De betrokkene heeft het recht om te allen tijde op verzoek uitsluitsel van de voor de verwerking verantwoordelijke te verkrijgen omtrent het al dan niet plaatsvinden van verwerkingen van hem betreffende gegevens. Wanneer verwerkingen van deze persoonsgegevens plaatsvinden, verstrekt de voor de verwerking verantwoordelijke de volgende informatie:"
+		},
+		{
+			"lang": "sv",
+			"text": "Den registrerade ska ha rätt att av den registeransvarige när som helst på begäran få bekräftelse på huruvida personuppgifter som rör den registrerade håller på att behandlas. Om sådana personuppgifter håller på att behandlas ska den registeransvarige tillhandahålla följande information:"
+		}
+	],
+	"children": [
+		"a15p1i1",
+		"a15p1i2",
+		"a15p1i3",
+		"a15p1i4",
+		"a15p1i5",
+		"a15p1i6",
+		"a15p1i7",
+		"a15p1i8"
+	],
+	"title": "Article 15 – Paragraph 1"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "r56",
+	"type": "recital",
+	"literal": "56",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "In cases where personal data might lawfully be processed to protect the vital interests of the data subject, or on grounds of public interest, official authority or the legitimate interests of a controller, any data subject should nevertheless be entitled to object to the processing of any data relating to them. The burden of proof should be on the controller to demonstrate that their legitimate interests may override the interests or the fundamental rights and freedoms of the data subject."
+		},
+		{
+			"lang": "de",
+			"text": "In Fällen, in denen die personenbezogenen Daten zum Schutz der lebenswichtigen Interessen der betroffenen Person oder im öffentlichen Interesse, in Ausübung hoheitlicher Gewalt oder aufgrund der berechtigten Interessen des für die Verarbeitung Verantwortlichen rechtmäßig verarbeitet werden dürfen, sollte jede betroffene Person trotzdem das Recht haben, Widerspruch gegen die Verarbeitung der sie betreffenden Daten einzulegen. Die Beweislast sollte bei dem für die Verarbeitung Verantwortlichen liegen, der darlegen muss, dass seine berechtigten Interessen Vorrang vor den Interessen oder Grundrechten und Grundfreiheiten der betroffenen Person haben."
+		},
+		{
+			"lang": "fr",
+			"text": "Dans les cas où des données à caractère personnel pourraient faire l'objet d'un traitement licite afin de protéger les intérêts vitaux de la personne concernée, ou pour un motif d'intérêt général, à l'exercice de l'autorité publique ou à la poursuite des intérêts légitimes du responsable du traitement, toute personne concernée devrait néanmoins avoir le droit de s’opposer au traitement de toute donnée la concernant. Il devrait incomber au responsable du traitement de prouver que ses intérêts légitimes prévalent sur les intérêts ou les libertés et droits fondamentaux de la personne concernée."
+		},
+		{
+			"lang": "es",
+			"text": "En los casos en que los datos personales puedan ser sometidos a tratamiento de forma lícita para proteger intereses vitales del interesado, o por motivos de interés público, de ejercicio del poder público o de los intereses legítimos del responsable del tratamiento, a cualquier interesado le debe asistir el derecho, sin embargo, de oponerse al tratamiento de cualquier dato que le concierna. En el responsable del tratamiento debe recaer la carga de demostrar que sus intereses legítimos pueden prevalecer sobre los intereses o los derechos y libertades fundamentales del interesado."
+		},
+		{
+			"lang": "pt",
+			"text": "No caso de um tratamento de dados pessoais lícito para proteção dos interesses vitais do titular dos dados, ou por motivos de interesse público, de exercício da autoridade pública ou de interesse legítimo de um responsável pelo tratamento, o titular dos dados tem, não obstante, o direito de se opor ao tratamento de quaisquer dados que lhe digam respeito. Recai sobre o responsável pelo tratamento o ónus de provar que os seus interesses legítimos prevalecem sobre os interesses ou direitos e liberdades fundamentais do titular dos dados."
+		},
+		{
+			"lang": "it",
+			"text": "Anche nei casi in cui i dati personali possano essere lecitamente trattati per proteggere interessi vitali dell’interessato, oppure per motivi di pubblico interesse, nell’esercizio di pubblici poteri o per il legittimo interesse di un responsabile del trattamento, l’interessato deve comunque avere il diritto di opporsi al trattamento dei dati che lo riguardano. È opportuno che incomba al responsabile del trattamento dimostrare che i suoi legittimi interessi possono prevalere sull’interesse o sui diritti e sulle libertà fondamentali dell’interessato."
+		},
+		{
+			"lang": "ga",
+			"text": "I gcás inar féidir sonraí pearsanta a phróiseáil go dleathach chun leasanna ríthábhachtacha an duine is ábhar do na sonraí a chosaint, nó ar mhaithe le leas an phobail, leas údaráis oifigiúil nó leasanna dlisteanacha rialaitheora, ba cheart go mbeadh aon duine is ábhar do na sonraí i dteideal agóid a dhéanamh i gcoinne phróiseáil aon sonraí a bhaineann leis. Ba cheart gur ar an rialaitheoir a bheadh an dualgas a léiriú go bhféadfadh a leasanna dlisteanacha leasanna nó cearta agus saoirsí bunúsacha an duine is ábhar do na sonraí a shárú."
+		},
+		{
+			"lang": "cs",
+			"text": "V případech, kdy by osobní údaje mohly být oprávněně zpracovávány z důvodu ochrany životně důležitých zájmů subjektu údajů, z důvodů veřejného zájmu, výkonu veřejné správy nebo oprávněných zájmů správce, měl by každý dotčený subjekt údajů přesto mít právo vznést námitku proti zpracování údajů, které se jej týkají. Důkazní břemeno, že jeho oprávněné zájmy mohou převažovat nad zájmy nebo základními právy a svobodami subjektu údajů, by měl nést správce."
+		},
+		{
+			"lang": "da",
+			"text": "Hvis behandlingen af personoplysninger kan udføres fuldt lovligt for at beskytte den registreredes vitale interesser eller af hensyn til samfundsmæssige interesser, af hensyn til offentlig myndighedsudøvelse eller i en registeransvarligs legitime interesse, bør en registreret have ret til at gøre indsigelse mod behandlingen af oplysninger om vedkommende selv. Det bør være den registeransvarlige, der beviser, at dennes legitime interesser har forrang for den registreredes interesser eller grundlæggende rettigheder og frihedsrettigheder."
+		},
+		{
+			"lang": "et",
+			"text": "Juhul kui isikuandmeid võib seaduslikult töödelda andmesubjekti eluliste huvide kaitsmiseks, ametiasutuse avalikes huvides või vastutava töötleja õiguspärastes huvides, on igal andmesubjektil ikkagi õigus teda käsitlevate andmete töötlemine vaidlustada. Tõendamiskohustus peaks lasuma vastutaval töötlejal, kes peaks tõendama, et tema õigustatud huvid kaaluvad üles andmesubjekti huvid või põhiõigused ja -vabadused."
+		},
+		{
+			"lang": "el",
+			"text": "Σε περιπτώσεις στις οποίες δεδομένα προσωπικού χαρακτήρα μπορούν να υποβληθούν νόμιμα σε επεξεργασία για την προστασία των ζωτικών συμφερόντων του προσώπου στο οποίο αναφέρονται ή για λόγους δημόσιου συμφέροντος, άσκησης δημόσιας εξουσίας, ή εξυπηρέτησης εννόμων συμφερόντων του υπευθύνου της επεξεργασίας, κάθε πρόσωπο στο οποίο αναφέρονται τα δεδομένα πρέπει να δικαιούται παρ’ όλα αυτά να αντιταχθεί στην επεξεργασία τυχόν δεδομένων που το αφορούν. Ο υπεύθυνος επεξεργασίας πρέπει να φέρει το βάρος απόδειξης ότι τα έννομα συμφέροντά του υπερισχύουν ενδεχομένως των συμφερόντων ή των θεμελιωδών δικαιωμάτων και ελευθεριών του προσώπου στο οποίο αναφέρονται τα δεδομένα."
+		},
+		{
+			"lang": "bg",
+			"text": "В случаите, когато личните данни биха могли да бъдат законно обработвани за защита на жизненоважните интереси на субекта на данните или по съображения, свързани с обществен интерес, с упражняването на официални правомощия или със законните интереси на администратора, всеки субект на данни следва, при все това, да има право на възражение срещу обработването на данни, свързани с него. Администраторът носи тежестта на доказване, че неговите законни интереси имат преимущество пред интересите или основните права и свободи на субекта на данни."
+		},
+		{
+			"lang": "hu",
+			"text": "Amennyiben a személyes adatokat jogszerűen dolgozhatják fel az érintett alapvető érdekeinek védelme érdekében vagy közérdekű, illetve hatósági indokok vagy az adatkezelő jogos érdekei alapján, ugyanakkor minden érintettnek jogot kell biztosítani a rá vonatkozó adatok feldolgozásának kifogásolására. Az adatkezelőre hárul annak bizonyítása, hogy az ő jogos érdeke elsőbbséget élvez az érintett alapvető jogaival és szabadságaival szemben."
+		},
+		{
+			"lang": "mt",
+			"text": "F’każijiet fejn id-dejta personali tista’ tkun ipproċessata legalment sabiex tipproteġi l-interessi vitali tas-suġġett tad-dejta, jew għal raġunijiet ta’ interess pubbliku, awtorità uffiċjali jew l-interessi leġittimi ta’ kontrollur, kwalunkwe suġġett tad-dejta għandu madankollu jkun intitolat joġġezzjona għall-ipproċessar ta’ kull dejta li tirrigwardah. L-oneru tal-prova għandu jkun f’idejn il-kontrollur li juri li l-interessi leġittimi tiegħu jistgħu jegħlbu l-interessi jew id-drittijiet u l-libertajiet fundamentali tas-suġġett tad-dejta."
+		},
+		{
+			"lang": "lv",
+			"text": "Gadījumos, kad personas datus var likumīgi apstrādāt, lai aizsargātu īpaši svarīgas datu subjekta intereses vai, pamatojoties uz sabiedrības interesēm, valsts varas īstenošanu vai pārziņa likumīgām interesēm, datu subjektam tomēr būtu jābūt tiesībām iebilst pret jebkādu uz viņu attiecināmu datu apstrādi. Pierādīšanas pienākums būtu jāuzliek pārzinim, proti, pierādīt, ka viņa likumīgās intereses ir svarīgākas par datu subjekta pamattiesībām un brīvībām."
+		},
+		{
+			"lang": "ro",
+			"text": "În cazurile în care datele cu caracter personal ar putea fi prelucrate în mod legal în scopul asigurării protecției intereselor vitale ale persoanei vizate sau din motive de interes public, de exercitare a autorității publice sau de urmărire a intereselor legitime ale unui operator, orice persoană vizată ar trebui, cu toate acestea, să aibă dreptul de a se opune prelucrării oricăror date care o privesc. Sarcina probei ar trebui să revină operatorului pentru a demonstra că interesele sale legitime pot prevala asupra intereselor sau a drepturilor și libertăților fundamentale ale persoanei vizate."
+		},
+		{
+			"lang": "sk",
+			"text": "V prípade, že by osobné údaje mohli byť zákonne spracované na ochranu životných záujmov dotknutej osoby alebo z dôvodu verejného záujmu, pri výkone úradnej moci alebo na základe oprávnených záujmov prevádzkovateľa, dotknutá osoba by mala mať aj v takom prípade právo namietať proti spracovaniu akýchkoľvek údajov, ktoré sa jej týkajú. Dôkazné bremeno by malo spočívať na prevádzkovateľovi a ten by mal preukázať oprávnené záujmy, ktoré môžu prevažovať nad záujmami alebo základnými právami a slobodami dotknutej osoby."
+		},
+		{
+			"lang": "sl",
+			"text": "V primerih, v katerih se lahko osebni podatki zakonito obdelujejo zaradi zaščite življenjskih interesov posameznika ali zaradi javnega interesa, izvajanja javne oblasti ali zaradi pravnih interesov upravljavca, bi moral imeti vsak posameznik, na katerega se nanašajo osebni podatki, pravico do ugovora glede obdelave vseh podatkov, ki so z njim povezani. Upravljavec bi moral dokazati, da njegovi pravni interesi prevladujejo nad interesi ali temeljnimi pravicami in svoboščinami posameznika, na katerega se nanašajo osebni podatki."
+		},
+		{
+			"lang": "fi",
+			"text": "Vaikka henkilötietoja voitaisiin käsitellä lainmukaisesti rekisteröidyn elintärkeiden etujen suojaamiseksi tai yleisen edun, julkisen vallan käytön tai rekisterinpitäjän oikeutetun edun vuoksi, rekisteröidyllä olisi kuitenkin oltava oikeus vastustaa tietojensa käsittelyä. Rekisterinpitäjän olisi osoitettava, että rekisterinpitäjän oikeutetut edut voivat syrjäyttää rekisteröidyn edut tai perusoikeudet ja ‑vapaudet."
+		},
+		{
+			"lang": "pl",
+			"text": "W przypadkach, w których dane osobowe mogłyby być przetwarzane zgodnie z prawem w celu ochrony żywotnych interesów podmiotu danych lub gdy jest to uzasadnione interesem publicznym, wykonywaniem władzy publicznej lub słusznymi interesami administratora, każdemu podmiotowi danych powinno jednak przysługiwać prawo wniesienia sprzeciwu wobec przetwarzania danych go dotyczących. Ciężar dowodu w zakresie wykazania, że słuszne interesy administratora mogą mieć charakter nadrzędny wobec interesów lub podstawowych praw i wolności podmiotu danych, spoczywa na administratorze."
+		},
+		{
+			"lang": "lt",
+			"text": "kai asmens duomenys gali būti teisėtai tvarkomi, kad būtų apsaugoti gyvybiniai duomenų subjekto interesai arba ginant viešąjį interesą, vykdant valdžios įgaliojimus ar užtikrinant teisėtus duomenų valdytojo interesus, kiekvienas duomenų subjektas vis tiek turėtų turėti teisę nesutikti su bet kokių jo duomenų tvarkymu. Pareiga įrodyti, kad teisėti duomenų valdytojo interesai viršesni už duomenų subjekto interesus arba pagrindines teises ir laisves, turėtų tekti duomenų valdytojui;"
+		},
+		{
+			"lang": "nl",
+			"text": "Wanneer persoonsgegevens rechtmatig kunnen worden verwerkt ter vrijwaring van een vitaal belang van de betrokkene, of op grond van een algemeen belang, overheidsgezag of een wettig belang van een voor de verwerking verantwoordelijke, dient een betrokkene niettemin bezwaar te kunnen maken tegen de verwerking van gegevens die op hem betrekking heeft. Het dient aan de voor de verwerking verantwoordelijke te zijn om te bewijzen dat zijn gerechtvaardigde belangen wellicht zwaarder wegen dan de grondrechten en fundamentele vrijheden van de betrokkene."
+		},
+		{
+			"lang": "sv",
+			"text": "I de fall när personuppgifter lagligen får behandlas för att skydda den registrerades grundläggande intressen eller på grund av samhälleliga intressen, myndighetsutövning eller en registeransvarigs berättigade intressen bör alla registrerade personer likväl ha rätt att göra invändningar mot behandling av alla uppgifter som rör dem. Den registeransvarige bör åläggas bevisbördan när det gäller att visa att deras berättigade intressen kan överskugga den registrerades intressen eller grundläggande rättigheter och friheter."
+		}
+	],
+	"children": [],
+	"title": "Recital 56"
+}

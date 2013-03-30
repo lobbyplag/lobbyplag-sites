@@ -1,0 +1,102 @@
+{
+	"id": "a38p1i7",
+	"type": "point",
+	"literal": "g",
+	"parent": "a38p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "mechanisms for monitoring and ensuring compliance with the code by the controllers adherent to it;"
+		},
+		{
+			"lang": "de",
+			"text": "Mechanismen zur Überwachung und zur Sicherstellung der Einhaltung der Verhaltensregeln durch die diesen unterliegenden für die Verarbeitung Verantwortlichen;"
+		},
+		{
+			"lang": "fr",
+			"text": "les mécanismes de suivi et visant à assurer le respect des dispositions du code par les responsables du traitement qui y adhèrent;"
+		},
+		{
+			"lang": "es",
+			"text": "los mecanismos para supervisar y garantizar el cumplimiento de las disposiciones del código por parte de los responsables del tratamiento que se hayan adherido a él;"
+		},
+		{
+			"lang": "pt",
+			"text": "Mecanismos de controlo e de garantia do respeito do código pelos responsáveis pelo tratamento que a ele adiram;"
+		},
+		{
+			"lang": "it",
+			"text": "i meccanismi per monitorare e garantire il rispetto del codice da parte dei responsabili del trattamento che vi aderiscono;"
+		},
+		{
+			"lang": "ga",
+			"text": "sásraí faireacháin agus sásraí chun a áirithiú go gcomhlíonann na rialaitheoirí a mbaineann sé leo an cód;"
+		},
+		{
+			"lang": "cs",
+			"text": "mechanismy sledující a zajišťující dodržování kodexu ze strany správců, kteří se k němu hlásí;"
+		},
+		{
+			"lang": "da",
+			"text": "mekanismer til at kontrollere og sikre, at kodeksen overholdes af de registeransvarlige, den gælder for"
+		},
+		{
+			"lang": "et",
+			"text": "vastutavate töötlejate järelevalve mehhanismid ja vastutavate töötlejate poolt toimimisjuhendi rakendamise tagamine;"
+		},
+		{
+			"lang": "el",
+			"text": "ζ) τους μηχανισμούς παρακολούθησης και διασφάλισης της συμμόρφωσης προς τον κώδικα από τους υπευθύνους επεξεργασίας που τον εφαρμόζουν·"
+		},
+		{
+			"lang": "bg",
+			"text": "ж) механизмите за наблюдение и гарантиране на спазването на кодекса от администраторите, ангажирани с него;"
+		},
+		{
+			"lang": "hu",
+			"text": "az adatkezelőre vonatkozó szabályzatokkal való összhang nyomon követésére és biztosítására irányuló mechanizmusok;"
+		},
+		{
+			"lang": "mt",
+			"text": "mekkaniżmi għall-monitoraġġ u l-iżgurar tal-konformità mal-kodiċi mill-kontrolluri marbuta miegħu;"
+		},
+		{
+			"lang": "lv",
+			"text": "mehānismiem, ar kuru palīdzību uzrauga un nodrošina, ka pārziņi, kas pievienojušies kodeksam, to ievēro;"
+		},
+		{
+			"lang": "ro",
+			"text": "mecanisme de monitorizare și de asigurare a conformității cu codul de către operatorii care aderă la cod;"
+		},
+		{
+			"lang": "sk",
+			"text": "mechanizmy na monitorovanie a zabezpečenie dodržiavania kódexu prevádzkovateľmi, ktorí mu podliehajú;"
+		},
+		{
+			"lang": "sl",
+			"text": "mehanizmi za spremljanje in zagotavljanje skladnosti s pravili s strani upravljavcev, za katere ta pravila veljajo;"
+		},
+		{
+			"lang": "fi",
+			"text": "mekanismit, joiden avulla seurataan ja varmistetaan, että rekisterinpitäjät noudattavat niitä koskevia käytännesääntöjä;"
+		},
+		{
+			"lang": "pl",
+			"text": "mechanizmów monitorowania i zapewnienia zgodności z kodeksem przez administratorów, którzy zobowiązali się do jego przestrzegania;"
+		},
+		{
+			"lang": "lt",
+			"text": "stebėjimo, ar duomenų valdytojai, kuriems taikomas kodeksas, jo laikosi, ir užtikrinimo, kad jo būtų laikomasi, mechanizmų;"
+		},
+		{
+			"lang": "nl",
+			"text": "mechanismen voor het toezicht op en de verzekering van de naleving van de code door de voor de verwerking verantwoordelijken die deze hebben onderschreven;"
+		},
+		{
+			"lang": "sv",
+			"text": "rutiner för att övervaka kodexen och se till att den iakttas av de registeransvariga som anslutit sig till den,"
+		}
+	],
+	"children": [],
+	"title": "Article 38 – Paragraph 1 – Point 7"
+}

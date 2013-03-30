@@ -1,0 +1,111 @@
+{
+	"id": "a14",
+	"type": "article",
+	"literal": "14",
+	"parent": "c3s2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Information to the data subject"
+		},
+		{
+			"lang": "de",
+			"text": "Information der betroffenen Person"
+		},
+		{
+			"lang": "fr",
+			"text": "Informations à fournir la personne concernée"
+		},
+		{
+			"lang": "es",
+			"text": "Información al interesado"
+		},
+		{
+			"lang": "pt",
+			"text": "Informação do titular dos dados"
+		},
+		{
+			"lang": "it",
+			"text": "Informazione dell’interessato"
+		},
+		{
+			"lang": "ga",
+			"text": "Faisnéis a thabhairt don duine is ábhar do na sonraí"
+		},
+		{
+			"lang": "cs",
+			"text": "Informování subjektu údajů"
+		},
+		{
+			"lang": "da",
+			"text": "Information til den registrerede"
+		},
+		{
+			"lang": "et",
+			"text": "Andmesubjekti teavitamine"
+		},
+		{
+			"lang": "el",
+			"text": "Ενημέρωση του προσώπου στο οποίο αναφέρονται τα δεδομένα"
+		},
+		{
+			"lang": "bg",
+			"text": "Информация за субекта на данни"
+		},
+		{
+			"lang": "hu",
+			"text": "Az érintett tájékoztatása"
+		},
+		{
+			"lang": "mt",
+			"text": "Informazzjoni lis-suġġett tad-dejta"
+		},
+		{
+			"lang": "lv",
+			"text": "Datu subjekta informēšana"
+		},
+		{
+			"lang": "ro",
+			"text": "Informații pentru persoana vizată"
+		},
+		{
+			"lang": "sk",
+			"text": "Informovanie dotknutej osoby"
+		},
+		{
+			"lang": "sl",
+			"text": "Informacije, ki se zagotovijo posamezniku, na katerega se nanašajo osebni podatki"
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisteröidylle ilmoittaminen"
+		},
+		{
+			"lang": "pl",
+			"text": "Informacje przekazywane podmiotowi danych"
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų subjektui teikiama informacija"
+		},
+		{
+			"lang": "nl",
+			"text": "Informatieverstrekking aan de betrokkene"
+		},
+		{
+			"lang": "sv",
+			"text": "Information till den registrerade"
+		}
+	],
+	"children": [
+		"a14p1",
+		"a14p2",
+		"a14p3",
+		"a14p4",
+		"a14p5",
+		"a14p6",
+		"a14p7",
+		"a14p8"
+	],
+	"title": "Article 14"
+}

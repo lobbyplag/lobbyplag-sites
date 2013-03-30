@@ -1,0 +1,102 @@
+{
+	"id": "a46p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a46",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Where in a Member State more than one supervisory authority are established, that Member State shall designate the supervisory authority which functions as a single contact point for the effective participation of those authorities in the European Data Protection Board and shall set out the mechanism to ensure compliance by the other authorities with the rules relating to the consistency mechanism referred to in Article 57."
+		},
+		{
+			"lang": "de",
+			"text": "Gibt es in einem Mitgliedstaat mehr als eine Aufsichtsbehörde, so bestimmt dieser Mitgliedstaat die Aufsichtsbehörde, die als zentrale Kontaktstelle für die wirksame Beteiligung dieser Behörden im Europäischen Datenschutzausschuss fungiert und führt ein Verfahren ein, mit dem sichergestellt wird, dass die anderen Behörden die Regeln für das Kohärenzverfahren nach Artikel 57 einhalten."
+		},
+		{
+			"lang": "fr",
+			"text": "Lorsqu'un État membre institue plusieurs autorités de contrôle, il désigne celle qui sert de point de contact unique permettant une participation efficace de ces autorités au comité européen de la protection des données, et définit le mécanisme permettant de s’assurer du respect, par les autres autorités, des règles relatives au mécanisme de contrôle de la cohérence prévu à l'article 57."
+		},
+		{
+			"lang": "es",
+			"text": "Cuando en un Estado miembro estén establecidas varias autoridades de control, dicho Estado miembro designará la autoridad de control que actuará como punto de contacto único, a fin de favorecer la participación efectiva de dichas autoridades en el Consejo Europeo de Protección de Datos, y establecerá un mecanismo para garantizar el cumplimiento por parte de las demás autoridades de las normas relativas al mecanismo de coherencia contemplado en el artículo 57."
+		},
+		{
+			"lang": "pt",
+			"text": "Sempre que um Estado-Membro institui várias autoridades de controlo, deve designar aquela que funciona como ponto de contacto único tendo em vista uma participação efetiva dessas autoridades no Comité Europeu para a Proteção de Dados, e estabelecer o mecanismo para assegurar o respeito, pelas outras autoridades, das regras relativas ao mecanismo de controlo da coerência referido no artigo 57.º."
+		},
+		{
+			"lang": "it",
+			"text": "Qualora in uno Stato membro siano istituite più autorità di controllo, detto Stato membro designa l’autorità di controllo che funge da punto di contatto unico per l’effettiva partecipazione di tali autorità al comitato europeo per la protezione dei dati e stabilisce il meccanismo in base al quale le altre autorità si conformano alle norme relative al meccanismo di coerenza di cui all’articolo 57."
+		},
+		{
+			"lang": "ga",
+			"text": "I gcás ina mbunaítear níos mó ná údarás maoirseachta amháin i mBallstát, ainmneoidh an Ballstát sin an t‑údarás maoirseachta atá le bheith ina phríomhphointe teagmhála maidir le rannpháirtíocht éifeachtach na n‑údarás sin sa Bhord Eorpach um Chosaint Sonraí agus leagfaidh sé sásra amach a áiritheoidh go gcomhlíonann na húdaráis eile na rialacha a bhaineann leis an sásra comhsheasmhachta dá dtagraítear in Airteagal 57."
+		},
+		{
+			"lang": "cs",
+			"text": "Pokud je v některém členském státě zřízen více než jeden orgán dozoru, daný členský stát jmenuje orgán dozoru, jenž bude fungovat jako jediné kontaktní místo pro účinnou účast těchto orgánů v Evropské radě pro ochranu údajů, a stanoví mechanismus, který zajistí, že budou ostatní orgány dodržovat pravidla týkající se mechanismu jednotnosti uvedeného v článku 57."
+		},
+		{
+			"lang": "da",
+			"text": "Hvis der er mere end én tilsynsmyndighed i en medlemsstat, udpeger den pågældende medlemsstat den tilsynsmyndighed, der fungerer som fælles kontaktpunkt for disse myndigheders effektive deltagelse i Det Europæiske Databeskyttelsesråd, og fastsætter bestemmelser, som sikrer, at de andre myndigheder overholder reglerne vedrørende den sammenhængsmekanisme, der er nævnt i artikel 57."
+		},
+		{
+			"lang": "et",
+			"text": "Kui liikmesriigis on rohkem kui üks järelevalveasutus, määrab liikmesriik nendest ühe järelevalveasutuse kontaktasutuseks, et kõik asutused saaksid tulemuslikult osaleda Euroopa Andmekaitsenõukogus, ja näeb ette mehhanismi, millega tagada, et teised asutused täidavad artiklis 57 osutatud järjepidevuse mehhanismiga seotud eeskirju."
+		},
+		{
+			"lang": "el",
+			"text": "Εάν σε ένα κράτος μέλος ιδρυθούν περισσότερες αρχές ελέγχου, το συγκεκριμένο κράτος μέλος ορίζει την αρχή ελέγχου η οποία λειτουργεί ως ενιαίο σημείο επικοινωνίας για την ουσιαστική συμμετοχή των εν λόγω αρχών στο Ευρωπαϊκό Συμβούλιο Προστασίας Δεδομένων και καθορίζει τον μηχανισμό που διασφαλίζει τη συμμόρφωση των λοιπών αρχών προς τους κανόνες που αφορούν τον μηχανισμό συνεκτικότητας ο οποίος αναφέρεται στο άρθρο 57."
+		},
+		{
+			"lang": "bg",
+			"text": "Когато в дадена държава-членка е създаден повече от един надзорен орган, тази държава-членка определя надзорния орган, който ще функционира като единно звено за контакт, за да се гарантира ефективното участие на тези органи в Европейския комитет по защита на данните, и определя механизма за осигуряване на спазването от другите органи на правилата, отнасящи се до механизма за съгласуваност, посочен в член 57."
+		},
+		{
+			"lang": "hu",
+			"text": "Amennyiben valamely tagállamban egynél több felügyelő hatóságot hoznak létre, ez a tagállam kijelöli azt a felügyelő hatóságot, amelyik az e hatóságok Európai Adatvédelmi Testületben való hatékony részvétele érdekében egyedüli kapcsolattartóként működik, és létrehozza azokat a mechanizmusokat, amelyek az 57. cikk szerinti egységességi mechanizmusra vonatkozó szabályokkal együtt biztosítják az összhangot a többi hatósággal."
+		},
+		{
+			"lang": "mt",
+			"text": "Meta fi Stat Membru jkunu stabbiliti aktar minn awtorità ta’ superviżjoni waħda, l-Istat Membru għandu jagħżel l-awtorità ta’ superviżjoni li tiffunzjona bħala punt ta’ kuntatt uniku għall-parteċipazzjoni effettiva ta’ dawk l-awtoritajiet fil-Bord Ewropew għall-Protezzjoni tad-Dejta u għandu jistabbilixxi l-mekkaniżmu sabiex jassigura l-konformità mill-awtoritajiet l-oħrajn mar-regoli relatati mal-mekkaniżmu ta’ konsistenza msemmi fl-Artikolu 57."
+		},
+		{
+			"lang": "lv",
+			"text": "Ja dalībvalstī ir vairāk nekā viena uzraudzības iestāde, šī dalībvalsts norīko to uzraudzības iestādi, kas darbojas kā vienotais kontaktpunkts efektīvai šo iestāžu dalībai Eiropas Datu aizsardzības kolēģijā, un izveido mehānismus, kas nodrošina, ka pārējās iestādes ievēro 57. panta noteikumus par konsekvences mehānismu."
+		},
+		{
+			"lang": "ro",
+			"text": "În cazul în care un stat membru instituie mai multe autorități de supraveghere, statul membru respectiv desemnează autoritatea de supraveghere care funcționează ca punct unic de contact pentru participarea efectivă a autorităților respective la Comitetul european pentru protecția datelor și instituie un mecanism de asigurare a respectării de către celelalte autorități a normelor privind mecanismul pentru asigurarea coerenței prevăzut la articolul 57."
+		},
+		{
+			"lang": "sk",
+			"text": "Ak je v členskom štáte určený viac než jeden dozorný orgán, tento členský štát určí na zabezpečenie efektívnej účasti týchto orgánov v Európskom výbore pre ochranu údajov príslušný orgán, ktorý pôsobí ako spoločné kontaktné miesto, a stanoví mechanizmus na zabezpečenie súladu zo strany ostatných orgánov s mechanizmom konzistentnosti uvedeným v článku 57."
+		},
+		{
+			"lang": "sl",
+			"text": "Če je v državi članici ustanovljen več kot en nadzorni organ, ta država članica določi nadzorni organ, ki deluje kot enotna kontaktna točka za učinkovito udeležbo navedenih organov v Evropskem odboru za varstvo podatkov, in določi mehanizem za zagotavljanje, da drugi organi upoštevajo pravila v zvezi z mehanizmom za skladnost iz člena 57."
+		},
+		{
+			"lang": "fi",
+			"text": "Jos jäsenvaltiossa on useampi kuin yksi valvontaviranomainen, jäsenvaltion on nimettävä valvontaviranomainen, joka toimii yhteyspisteenä viranomaisten osallistuessa Euroopan tietosuojaneuvostoon, ja perustettava mekanismi sen varmistamiseksi, että muut valvontaviranomaiset noudattavat 57 artiklassa tarkoitettuun yhdenmukaisuusmekanismiin liittyviä sääntöjä."
+		},
+		{
+			"lang": "pl",
+			"text": "W przypadku gdy w państwie członkowskim został ustanowiony więcej niż jeden organ nadzorczy, państwo członkowskie wskazuje organ nadzorczy, który działa jako pojedynczy punkt kontaktowy, co ma pozwolić na skuteczne uczestnictwo tych organów w Europejskiej Radzie Ochrony Danych, oraz ustala mechanizm zapewniający poszanowanie przez inne organy przepisów dotyczących mechanizmu zgodności, o którym mowa w art. 57."
+		},
+		{
+			"lang": "lt",
+			"text": "Jeigu valstybėje narėje įsteigtos kelios priežiūros institucijos, ta valstybė narė paskiria vieno bendro informacinio punkto funkciją atliekančią priežiūros instituciją, kad tos institucijos veiksmingai dalyvautų Europos duomenų apsaugos valdybos veikloje, ir nustato mechanizmus, kuriais užtikrina, kad kitos institucijos laikytųsi su 57 straipsnyje nurodytu nuoseklumo užtikrinimo mechanizmu susijusių taisyklių."
+		},
+		{
+			"lang": "nl",
+			"text": "Wanneer er in een lidstaat meer dan één toezichthoudende autoriteit is opgericht, wijst die lidstaat de toezichthoudende autoriteit aan die optreedt als enig contactpunt voor de effectieve deelname van die autoriteiten aan het Europees Comité voor gegevensbescherming en stelt hij de procedure vast om ervoor te zorgen dat de andere autoriteiten de regels in verband met de in artikel 57 bedoelde conformiteitstoetsing naleven."
+		},
+		{
+			"lang": "sv",
+			"text": "Om det finns fler än en tillsynsmyndighet i en medlemsstat ska medlemsstaten utse den tillsynsmyndighet som ska fungera som enda kontaktpunkt, så att myndigheten i fråga kan delta effektivt i Europeiska dataskyddsstyrelsens arbete; medlemsstaten ska också upprätta en rutin för att se till att övriga myndigheter följer reglerna för den mekanism för enhetlighet som avses i artikel 57."
+		}
+	],
+	"children": [],
+	"title": "Article 46 – Paragraph 2"
+}

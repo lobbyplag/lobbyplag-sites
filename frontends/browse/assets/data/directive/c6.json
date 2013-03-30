@@ -1,0 +1,105 @@
+{
+	"id": "c6",
+	"type": "chapter",
+	"literal": "VI",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "INDEPENDENT SUPERVISORY AUTHORITIES"
+		},
+		{
+			"lang": "de",
+			"text": "UNABHÄNGIGE AUFSICHTSBEHÖRDEN"
+		},
+		{
+			"lang": "fr",
+			"text": "AUTORITÉS DE CONTRÔLE INDÉPENDANTES"
+		},
+		{
+			"lang": "es",
+			"text": "AUTORIDADES DE CONTROL INDEPENDIENTES"
+		},
+		{
+			"lang": "pt",
+			"text": "AUTORIDADES DE CONTROLO INDEPENDENTES"
+		},
+		{
+			"lang": "it",
+			"text": "AUTORITÀ DI CONTROLLO INDIPENDENTI"
+		},
+		{
+			"lang": "ga",
+			"text": "ÚDARÁIS NEAMHSPLEÁCHA MHAOIRSEACHTA"
+		},
+		{
+			"lang": "cs",
+			"text": "NEZÁVISLÉ ORGÁNY DOZORU"
+		},
+		{
+			"lang": "da",
+			"text": "UAFHÆNGIGE TILSYNSMYNDIGHEDER"
+		},
+		{
+			"lang": "et",
+			"text": "SÕLTUMATUD JÄRELEVALVEASUTUSED"
+		},
+		{
+			"lang": "el",
+			"text": "ΑΝΕΞΑΡΤΗΤΕΣ ΑΡΧΕΣ ΕΛΕΓΧΟΥ"
+		},
+		{
+			"lang": "bg",
+			"text": "НЕЗАВИСИМИ НАДЗОРНИ ОРГАНИ"
+		},
+		{
+			"lang": "hu",
+			"text": "FÜGGETLEN FELÜGYELŐ HATÓSÁGOK"
+		},
+		{
+			"lang": "mt",
+			"text": "AWTORITAJIET TA’ SUPERVIŻJONI INDIPENDENTI"
+		},
+		{
+			"lang": "lv",
+			"text": "NEATKARĪGA UZRAUDZĪBAS IESTĀDE"
+		},
+		{
+			"lang": "ro",
+			"text": "AUTORITĂȚI DE SUPRAVEGHERE INDEPENDENTE"
+		},
+		{
+			"lang": "sk",
+			"text": "NEZÁVISLÉ DOZORNÉ ORGÁNY"
+		},
+		{
+			"lang": "sl",
+			"text": "NEODVISNI NADZORNI ORGANI"
+		},
+		{
+			"lang": "fi",
+			"text": "RIIPPUMATTOMAT VALVONTAVIRANOMAISET"
+		},
+		{
+			"lang": "pl",
+			"text": "NIEZALEŻNE ORGANY NADZORCZE"
+		},
+		{
+			"lang": "lt",
+			"text": "NEPRIKLAUSOMOS PRIEŽIŪROS INSTITUCIJOS"
+		},
+		{
+			"lang": "nl",
+			"text": "ONAFHANKELIJKE TOEZICHTHOUDENDE AUTORITEITEN"
+		},
+		{
+			"lang": "sv",
+			"text": "OBEROENDE TILLSYNSMYNDIGHETER"
+		}
+	],
+	"children": [
+		"c6s1",
+		"c6s2"
+	],
+	"title": "Chapter 6"
+}

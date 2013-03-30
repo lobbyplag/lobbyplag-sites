@@ -1,0 +1,104 @@
+{
+	"id": "a16",
+	"type": "article",
+	"literal": "16",
+	"parent": "c3s3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Right to rectification"
+		},
+		{
+			"lang": "de",
+			"text": "Recht auf Berichtigung"
+		},
+		{
+			"lang": "fr",
+			"text": "Droit de rectification"
+		},
+		{
+			"lang": "es",
+			"text": "Derecho de rectificación"
+		},
+		{
+			"lang": "pt",
+			"text": "Direito de retificação"
+		},
+		{
+			"lang": "it",
+			"text": "Diritto di rettifica"
+		},
+		{
+			"lang": "ga",
+			"text": "An ceart ceartúcháin"
+		},
+		{
+			"lang": "cs",
+			"text": "Právo na opravu"
+		},
+		{
+			"lang": "da",
+			"text": "Ret til berigtigelse"
+		},
+		{
+			"lang": "et",
+			"text": "Õigus andmeid parandada"
+		},
+		{
+			"lang": "el",
+			"text": "Δικαίωμα διόρθωσης"
+		},
+		{
+			"lang": "bg",
+			"text": "Право на коригиране"
+		},
+		{
+			"lang": "hu",
+			"text": "A helyesbítési jog"
+		},
+		{
+			"lang": "mt",
+			"text": "Dritt għal rettifika"
+		},
+		{
+			"lang": "lv",
+			"text": "Tiesības labot"
+		},
+		{
+			"lang": "ro",
+			"text": "Dreptul la rectificare"
+		},
+		{
+			"lang": "sk",
+			"text": "Právo na opravu"
+		},
+		{
+			"lang": "sl",
+			"text": "Pravica do popravka"
+		},
+		{
+			"lang": "fi",
+			"text": "Oikeus tietojen oikaisemiseen"
+		},
+		{
+			"lang": "pl",
+			"text": "Prawo do poprawienia"
+		},
+		{
+			"lang": "lt",
+			"text": "Teisė reikalauti ištaisyti duomenis"
+		},
+		{
+			"lang": "nl",
+			"text": "Recht van rectificatie"
+		},
+		{
+			"lang": "sv",
+			"text": "Rätt till rättelse"
+		}
+	],
+	"children": [
+		"a16t1"
+	],
+	"title": "Article 16"
+}

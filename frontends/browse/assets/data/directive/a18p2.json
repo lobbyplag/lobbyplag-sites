@@ -1,0 +1,102 @@
+{
+	"id": "a18p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a18",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Where the data subject has provided the personal data and the processing is based on consent or on a contract, the data subject shall have the right to transmit those personal data and any other information provided by the data subject and retained by an automated processing system, into another one, in an electronic format which is commonly used, without hindrance from the controller from whom the personal data are withdrawn."
+		},
+		{
+			"lang": "de",
+			"text": "Hat die betroffene Person die personenbezogenen Daten zur Verfügung gestellt und basiert die Verarbeitung auf einer Einwilligung oder einem Vertrag, hat die betroffene Person das Recht, diese personenbezogenen Daten sowie etwaige sonstige von ihr zur Verfügung gestellte Informationen, die in einem automatisierten Verarbeitungssystem gespeichert sind, in einem gängigen elektronischen Format in ein anderes System zu überführen, ohne dabei von dem für die Verarbeitung Verantwortlichen, dem die personenbezogenen Daten entzogen werden, behindert zu werden."
+		},
+		{
+			"lang": "fr",
+			"text": "Lorsque la personne concernée a fourni les données à caractère personnel et que le traitement est fondé sur le consentement ou sur un contrat, elle a le droit de transmettre ces données à caractère personnel et toutes autres informations qu'elle a fournies et qui sont conservées par un système de traitement automatisé à un autre système dans un format électronique qui est couramment utilisé, sans que le responsable du traitement auquel les données à caractère personnel sont retirées n'y fasse obstacle."
+		},
+		{
+			"lang": "es",
+			"text": "Cuando el interesado haya facilitado los datos personales y el tratamiento se base en el consentimiento o en un contrato, tendrá derecho a transmitir dichos datos personales y cualquier otra información que haya facilitado y que se conserve en un sistema de tratamiento automatizado a otro sistema en un formato electrónico comúnmente utilizado, sin impedimentos por parte del responsable del tratamiento de quien se retiren los datos personales."
+		},
+		{
+			"lang": "pt",
+			"text": "Se o titular dos dados tiver fornecido dados pessoais e o tratamento tiver por base o consentimento ou um contrato, a pessoa em causa tem o direito de transmitir esses dados pessoais e quaisquer outras informações que forneceu e que são conservadas por um sistema de tratamento automatizado, para outro sistema, sob um formato eletrónico de uso corrente, sem que o responsável pelo tratamento a quem os dados são retirados o possa impedir."
+		},
+		{
+			"lang": "it",
+			"text": "Se ha fornito i dati personali e il trattamento si basa sul consenso o su un contratto, l’interessato ha il diritto di trasmettere tali dati personali e ogni altra informazione fornita e conservata in un sistema di trattamento automatizzato a un altro sistema in un formato elettronico di uso comune, senza impedimenti da parte del responsabile del trattamento da cui sono richiamati i dati."
+		},
+		{
+			"lang": "ga",
+			"text": "I gcás inarb é an duine is ábhar do na sonraí a sholáthair na sonraí pearsanta agus ina bhfuil próiseáil na sonraí sin bunaithe ar thoiliú an duine sin nó ar chonradh, beidh sé de cheart ag an duine is ábhar do na sonraí na sonraí pearsanta sin agus aon fhaisnéis eile arna soláthar aige agus arna coinneáil ag córas próiseála uathoibrithe a aistriú go córas eile, i bhformáid leictreonach atá i ngnáthúsáid, gan an rialaitheoir óna bhfuil na sonraí pearsanta á dtarraingt siar ag cur baic leis sin."
+		},
+		{
+			"lang": "cs",
+			"text": "Pokud subjekt údajů poskytl osobní údaje a zpracování je založené na souhlasu nebo smlouvě, má subjekt údajů právo přenést tyto osobní údaje a jakékoli jiné informace jím poskytnuté a uchovávané v automatizovaném systému zpracování do jiného systému v běžně používaném elektronickém formátu, aniž by tomu správce, od něhož byly osobní údaje získány, bránil."
+		},
+		{
+			"lang": "da",
+			"text": "Hvis den registrerede har afgivet personoplysningerne, og behandlingen er baseret på samtykke eller en kontrakt, har den registreredes ret til at overføre disse personoplysninger og andre oplysninger, som den registrerede har afgivet, og som opbevares i et databehandlingssystem, til et andet system i et almindeligt anvendt elektronisk format uden hindring fra den registeransvarlige, som personoplysningerne flyttes fra."
+		},
+		{
+			"lang": "et",
+			"text": "Kui andmesubjekt on andnud oma isikuandmed ja neid töödeldakse nõusoleku või lepingu alusel, on tal õigus neid isikuandmeid ning mis tahes muud tema esitatud ja automatiseeritud andmetöötlussüsteemis üldkasutatavas elektroonilises vormingus säilitatavat teavet edastada teise sellisesse süsteemi, ilma et seda takistaks vastutav töötleja, kelle süsteemist andmed pärinevad."
+		},
+		{
+			"lang": "el",
+			"text": "Εάν το πρόσωπο στο οποίο αναφέρονται τα δεδομένα παρέσχε τα δεδομένα προσωπικού χαρακτήρα και η επεξεργασία βασίζεται σε συγκατάθεση ή σε σύμβαση, το πρόσωπο στο οποίο αναφέρονται τα δεδομένα δικαιούται να μεταφέρει τα εν λόγω δεδομένα προσωπικού χαρακτήρα και κάθε άλλη πληροφορία που παρέσχε το εν λόγω πρόσωπο -και που διατηρείται από αυτοματοποιημένο σύστημα επεξεργασίας- σε άλλο αυτοματοποιημένο σύστημα επεξεργασίας, σε ηλεκτρονικό μορφότυπο συνήθους χρήσης, χωρίς αντίρρηση από τον υπεύθυνο επεξεργασίας από τον οποίο αποσύρονται τα δεδομένα προσωπικού χαρακτήρα."
+		},
+		{
+			"lang": "bg",
+			"text": "Когато субектът на данните е предоставил личните данни и обработването се основава на съгласие или договор, субектът на данните има право да предава тези лични данни, както и друга информация, предоставена от него и запазена чрез система за автоматизирано обработване, на друга система, в широко използван електронен формат, без да бъде възпрепятстван от администратора, от когото са изтеглени личните данни."
+		},
+		{
+			"lang": "hu",
+			"text": "Amennyiben a személyes adatokat az érintett bocsátotta rendelkezésre, és a feldolgozás hozzájáruláson vagy szerződésen alapul, az érintett jogosult arra, hogy ezeket a személyes adatokat és az érintett által rendelkezésre bocsátott, automatizált feldolgozó rendszerben tárolt bármely egyéb információt széles körben használt elektronikus formátumban egy másik rendszerbe továbbítson, anélkül hogy akadályozná a személyes adatok visszavonásával érintett adatkezelőt."
+		},
+		{
+			"lang": "mt",
+			"text": "Meta s-suġġett tad-dejta jkun ipprovda d-dejta personali u l-ipproċessar ikun ibbażat fuq il-kunsens jew fuq kuntratt, is-suġġett tad-dejta għandu jkollu d-dritt li jittrasmetti dik id-dejta personali u kull informazzjoni oħra pprovduta mis-suġġett tad-dejta u miżmuma minn sistema ta’ pproċessar awtomatizzata, f’oħra, f’format elettroniku li jintuża normalment, mingħajr xkiel min-naħa tal-kontrollur li mingħandu tkun ġiet irtirata d-dejta personali."
+		},
+		{
+			"lang": "lv",
+			"text": "Ja datu subjekts ir sniedzis personas datus un apstrāde pamatojas uz piekrišanu vai līgumu, datu subjektam ir tiesības nosūtīt šos personas datus un jebkuru citu datu subjekta sniegto informāciju, kas glabājas automatizētas apstrādes sistēmā, uz citu automatizētas apstrādes sistēmu plaši izmantotā elektroniskā formātā, un pārzinim, no kura dati tiek izņemti, nav tiesību to aizkavēt."
+		},
+		{
+			"lang": "ro",
+			"text": "În cazul în care persoana vizată a furnizat datele cu caracter personal și prelucrarea se bazează pe consimțământul acesteia sau pe un contract, persoana vizată are dreptul de a transmite aceste date cu caracter personal, precum și orice altă informație furnizată de persoana vizată și păstrată de un sistem automatizat de prelucrare, într-un alt sistem, într-un format electronic care este utilizat în mod curent, fără ca operatorul de la care sunt retrase datele cu caracter personal să poată împiedica acest lucru."
+		},
+		{
+			"lang": "sk",
+			"text": "Ak dotknutá osoba poskytla osobné údaje a spracovanie sa vykonáva na základe súhlasu alebo na základe zmluvy, dotknutá osoba má právo preniesť tieto osobné údaje a akékoľvek iné informácie ňou poskytnuté a uchovávané v automatizovanom systéme spracovania do iného systému v elektronickom formáte, ktorý sa bežne používa, a to bez prekážok zo strany prevádzkovateľa, od ktorého sa osobné údaje presunuli."
+		},
+		{
+			"lang": "sl",
+			"text": "Kadar je posameznik, na katerega se nanašajo osebni podatki, zagotovil osebne podatke, obdelava pa poteka na podlagi privolitve ali pogodbe, ima ta posameznik pravico, da te osebne podatke in morebitne druge informacije, ki jih je zagotovil posameznik in shranil avtomatiziran sistem za obdelavo, v elektronski obliki v splošni rabi prenese v drug tak sistem, ne da bi ga pri tem oviral upravljavec, od katerega so osebni podatki pridobljeni."
+		},
+		{
+			"lang": "fi",
+			"text": "Kun rekisteröity on itse antanut henkilötiedot ja niiden käsittely perustuu suostumukseen tai sopimukseen, rekisteröidyllä on oikeus siirtää kyseiset henkilötiedot ja kaikki muut rekisteröidyn itsensä antamat, automatisoituun käsittelyjärjestelmään tallennetut tiedot toiseen järjestelmään, yleisesti käytetyssä sähköisessä muodossa, sen rekisterinpitäjän estämättä, jonka hallusta henkilötiedot poistetaan."
+		},
+		{
+			"lang": "pl",
+			"text": "Jeżeli podmiot danych przekazał dane osobowe a przetwarzanie opiera się na zgodzie lub umowie, podmiot danych ma prawo do przekazania tych danych osobowych i innych informacji przez siebie przekazanych i przechowywanych w systemie automatycznego przetwarzania danych, do innego systemu, w powszechnie używanym formacie elektronicznym, bez przeszkód ze strony administratora, z którego baz dane osobowe zostają wycofane."
+		},
+		{
+			"lang": "lt",
+			"text": "Jeigu duomenų subjektas pateikė asmens duomenis ir duomenų tvarkymas grindžiamas sutikimu arba sutartimi, duomenų subjektas turi teisę dažnai naudojamu elektroniniu formatu persiųsti tuos asmens duomenis ir bet kokią kitą informaciją, kurią jis pateikė ir kuri yra saugoma automatizuotoje duomenų tvarkymo sistemoje, į kitą automatizuotą duomenų tvarkymo sistemą, duomenų valdytojui, iš kurio tie asmens duomenys yra gauti, netrukdant."
+		},
+		{
+			"lang": "nl",
+			"text": "Wanneer de betrokkene persoonsgegevens heeft verstrekt en de verwerking daarvan plaatsvindt op basis van toestemming of een overeenkomst, heeft de betrokkene het recht om deze persoonsgegevens en alle andere informatie die hij heeft verstrekt en die door middel van een geautomatiseerd verwerkingssysteem wordt bewaard, in een algemeen gebruikt elektronisch formaat over te dragen naar een ander geautomatiseerd verwerkingssysteem, zonder daarbij door de voor de verwerking verantwoordelijke bij wie de persoonsgegevens zijn weggehaald, te worden belemmerd."
+		},
+		{
+			"lang": "sv",
+			"text": "Om den registrerade har tillhandahållit personuppgifterna och behandlingen grundar sig på samtycke eller ett avtal, ska den registrerade ha rätt att överföra dessa personuppgifter och eventuell övrig information som tillhandahållits av den registrerade och bevarats i ett system för automatisk behandling, till ett annat system, i ett elektroniskt format som är allmänt använt, utan att hindras av den registeransvarige från vilken personuppgifterna återkallas."
+		}
+	],
+	"children": [],
+	"title": "Article 18 – Paragraph 2"
+}

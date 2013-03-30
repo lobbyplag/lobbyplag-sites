@@ -1,0 +1,108 @@
+{
+	"id": "a20",
+	"type": "article",
+	"literal": "20",
+	"parent": "c3s4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Measures based on profiling"
+		},
+		{
+			"lang": "de",
+			"text": "Auf Profiling basierende Maßnahmen"
+		},
+		{
+			"lang": "fr",
+			"text": "Mesures fondées sur le profilage"
+		},
+		{
+			"lang": "es",
+			"text": "Medidas basadas en la elaboración de perfiles"
+		},
+		{
+			"lang": "pt",
+			"text": "Medidas baseadas na definição de perfis"
+		},
+		{
+			"lang": "it",
+			"text": "Misure basate sulla profilazione"
+		},
+		{
+			"lang": "ga",
+			"text": "Bearta atá bunaithe ar phróifíliú"
+		},
+		{
+			"lang": "cs",
+			"text": "Opatření založená na profilování"
+		},
+		{
+			"lang": "da",
+			"text": "Foranstaltninger baseret på profilering"
+		},
+		{
+			"lang": "et",
+			"text": "Profiilianalüüsil põhinevad meetmed"
+		},
+		{
+			"lang": "el",
+			"text": "Μέτρα βασισμένα σε κατάρτιση προφίλ"
+		},
+		{
+			"lang": "bg",
+			"text": "Мерки, основани на профилиране"
+		},
+		{
+			"lang": "hu",
+			"text": "Profilalkotáson alapuló intézkedések"
+		},
+		{
+			"lang": "mt",
+			"text": "Miżuri bbażati fuq it-tfassil ta’ profili"
+		},
+		{
+			"lang": "lv",
+			"text": "Pasākumi, kas balstās uz profilēšanu"
+		},
+		{
+			"lang": "ro",
+			"text": "Măsuri bazate pe crearea de profiluri"
+		},
+		{
+			"lang": "sk",
+			"text": "Opatrenia založené na profilovaní"
+		},
+		{
+			"lang": "sl",
+			"text": "Ukrepi na podlagi oblikovanja profilov"
+		},
+		{
+			"lang": "fi",
+			"text": "Profilointiin perustuvat toimenpiteet"
+		},
+		{
+			"lang": "pl",
+			"text": "Środki oparte na profilowaniu"
+		},
+		{
+			"lang": "lt",
+			"text": "Profiliavimu pagrįstos priemonės"
+		},
+		{
+			"lang": "nl",
+			"text": "Maatregelen op basis van profilering"
+		},
+		{
+			"lang": "sv",
+			"text": "Åtgärder på grundval av profilering"
+		}
+	],
+	"children": [
+		"a20p1",
+		"a20p2",
+		"a20p3",
+		"a20p4",
+		"a20p5"
+	],
+	"title": "Article 20"
+}

@@ -1,0 +1,106 @@
+{
+	"id": "a82",
+	"type": "article",
+	"literal": "82",
+	"parent": "c9",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Processing in the employment context"
+		},
+		{
+			"lang": "de",
+			"text": "Datenverarbeitung im Beschäftigungskontext"
+		},
+		{
+			"lang": "fr",
+			"text": "Traitements de données en matière d'emploi"
+		},
+		{
+			"lang": "es",
+			"text": "Tratamiento en el ámbito laboral"
+		},
+		{
+			"lang": "pt",
+			"text": "Tratamento de dados em matéria de emprego"
+		},
+		{
+			"lang": "it",
+			"text": "Trattamento dei dati nei rapporti di lavoro"
+		},
+		{
+			"lang": "ga",
+			"text": "Próiseáil ó thaobh na fostaíochta de"
+		},
+		{
+			"lang": "cs",
+			"text": "Zpracovávání v souvislosti se zaměstnáním"
+		},
+		{
+			"lang": "da",
+			"text": "Behandling i forbindelse med ansættelsesforhold"
+		},
+		{
+			"lang": "et",
+			"text": "Töötlemine töösuhte kontekstis"
+		},
+		{
+			"lang": "el",
+			"text": "Επεξεργασία στο πλαίσιο της απασχόλησης"
+		},
+		{
+			"lang": "bg",
+			"text": "Обработване на данни в контекста на трудово правоотношение"
+		},
+		{
+			"lang": "hu",
+			"text": "Foglalkoztatással összefüggő feldolgozás"
+		},
+		{
+			"lang": "mt",
+			"text": "Ipproċessar fil-kuntest tax-xogħol"
+		},
+		{
+			"lang": "lv",
+			"text": "Apstrāde saistībā ar nodarbinātību"
+		},
+		{
+			"lang": "ro",
+			"text": "Prelucrarea în contextul ocupării unui loc de muncă"
+		},
+		{
+			"lang": "sk",
+			"text": "Spracúvanie v súvislosti so zamestnaním"
+		},
+		{
+			"lang": "sl",
+			"text": "Obdelava v okviru zaposlitve"
+		},
+		{
+			"lang": "fi",
+			"text": "Henkilötietojen käsittely työsuhteen yhteydessä"
+		},
+		{
+			"lang": "pl",
+			"text": "Przetwarzanie w kontekście zatrudnienia"
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų tvarkymas su darbo santykiais susijusiais tikslais"
+		},
+		{
+			"lang": "nl",
+			"text": "Verwerking in het kader van de arbeidsverhouding"
+		},
+		{
+			"lang": "sv",
+			"text": "Behandling av personuppgifter i anställningsförhållanden"
+		}
+	],
+	"children": [
+		"a82p1",
+		"a82p2",
+		"a82p3"
+	],
+	"title": "Article 82"
+}

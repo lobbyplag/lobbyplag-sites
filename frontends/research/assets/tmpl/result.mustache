@@ -1,0 +1,65 @@
+<article id="result" class="result">
+	{{#result}}
+		<div class="row">
+			<div class="span6">
+				<h2>Lobby Papers</h2>
+				{{#lob}}
+					<section class="result">
+						<h3>{{lobbyist_title}}</h3>
+						<div class="diff-container">
+							<div class="diff-buttons btn-group">
+								<a class="btn btn-mini btn-inverse button-old" href="javascript:;">Regulation Draft</a>
+								<a class="btn btn-mini btn-primary button-all" href="javascript:;">Differences</a>
+								<a class="btn btn-mini btn-inverse button-new" href="javascript:;">Changed Version</a>
+							</div>
+							<div class="diff">{{{diff}}}</div>
+						</div>
+						<div class="source">
+							<div class="display-source">
+								<a href="{{lobbyist_url}}" class="lobbyist">{{lobbyist_title}}</a>
+								<a title="Download this document" class="badge badge-info" href="{{url}}#page={{page}}">Source</a>
+								<span class="badge badge-info">Page {{page}}</span></div>
+							<div class="clear"></div>
+						</div>
+					</section>
+				{{/lob}}
+				{{^lob}}
+					<section>
+						<h3>No result</h3>
+						<p>Nothing was found in lobby papers</p>
+					</section>
+				{{/lob}}
+			</div>
+			<div class="span6">
+				<h2>Amendments</h2>
+				{{#amd}}
+					<section class="result">
+						<h3>{{committee}} Amendment #{{amendment}}</h3>
+						<p class="location">{{location}}</p>
+						<div class="diff-container">
+							<div class="diff-buttons btn-group">
+								<a class="btn btn-mini btn-inverse button-old" href="javascript:;">Regulation Draft</a>
+								<a class="btn btn-mini btn-primary button-all" href="javascript:;">Differences</a>
+								<a class="btn btn-mini btn-inverse button-new" href="javascript:;">Changed Version</a>
+							</div>
+							<div class="diff">{{{diff}}}</div>
+						</div>
+						<p class="authors"><strong>Authors:</strong>{{#authors}} {{.}};{{/authors}}</p>
+					</section>
+				{{/amd}}
+				{{^amd}}
+					<section>
+						<h3>No result</h3>
+						<p>Nothing was found in amendments</p>
+					</section>
+				{{/amd}}
+			</div>
+		</div>
+	{{/result}}
+	{{^result}}
+		<section>
+			<h2>No result</h2>
+			<p>Nothing was found.</p>
+		</section>
+	{{/result}}
+</article>

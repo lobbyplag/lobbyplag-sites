@@ -1,0 +1,102 @@
+{
+	"id": "a83p2i1",
+	"type": "point",
+	"literal": "a",
+	"parent": "a83p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the data subject has given consent, subject to the conditions laid down in Article 7;"
+		},
+		{
+			"lang": "de",
+			"text": "die betroffene Person nach Maßgabe von Artikel 7 ihre Einwilligung erteilt hat,"
+		},
+		{
+			"lang": "fr",
+			"text": "la personne concernée a donné son consentement, sous réserve du respect des conditions énoncées à l'article 7;"
+		},
+		{
+			"lang": "es",
+			"text": "el interesado ha dado su consentimiento en las condiciones establecidas en el artículo 7;"
+		},
+		{
+			"lang": "pt",
+			"text": "O titular dos dados tiver dado o seu consentimento, sem prejuízo das condições estabelecidas no artigo 7.º;"
+		},
+		{
+			"lang": "it",
+			"text": "l’interessato ha espresso il proprio consenso, fatte salve le condizioni di cui all’articolo 7;"
+		},
+		{
+			"lang": "ga",
+			"text": "má tá toiliú tugtha ag an duine is ábhar do na sonraí, faoi réir na gcoinníollacha atá leagtha síos in Airteagal 7;"
+		},
+		{
+			"lang": "cs",
+			"text": "pokud subjekt údajů udělí souhlas za podmínek stanovených článkem 7;"
+		},
+		{
+			"lang": "da",
+			"text": "den registrerede har givet sit samtykke i overensstemmelse med betingelserne i artikel 7"
+		},
+		{
+			"lang": "et",
+			"text": "andmesubjekt on andnud nõusoleku vastavalt artiklis 7 sätestatud tingimustele;"
+		},
+		{
+			"lang": "el",
+			"text": "α) το πρόσωπο στο οποίο αναφέρονται τα δεδομένα παρέσχε τη συγκατάθεσή του, σύμφωνα με τις προϋποθέσεις που προβλέπονται στο άρθρο 7·"
+		},
+		{
+			"lang": "bg",
+			"text": "а) субектът на данните е дал своето съгласие, като са спазени условията, предвидени в член 7;"
+		},
+		{
+			"lang": "hu",
+			"text": "az érintett a 7. cikkben meghatározott feltételek szerint hozzájárult;"
+		},
+		{
+			"lang": "mt",
+			"text": "is-suġġett tad-dejta jkun ta l-kunsens, soġġett għall-kundizzjonijiet stabbiliti fl-Artikolu 7;"
+		},
+		{
+			"lang": "lv",
+			"text": "datu subjekts tam ir piekritis, ievērojot 7. pantā minētos nosacījumus;"
+		},
+		{
+			"lang": "ro",
+			"text": "persoana vizată și-a dat consimțământul, sub rezerva condițiilor prevăzute la articolul 7;"
+		},
+		{
+			"lang": "sk",
+			"text": "dotknutá osoba vyjadrila súhlas s výhradou podmienok ustanovených v článku 7;"
+		},
+		{
+			"lang": "sl",
+			"text": "posameznik, na katerega se nanašajo osebni podatki, dal privolitev v skladu s pogoji iz člena 7;"
+		},
+		{
+			"lang": "fi",
+			"text": "rekisteröity on antanut siihen suostumuksensa 7 artiklassa säädettyjen edellytysten mukaisesti;"
+		},
+		{
+			"lang": "pl",
+			"text": "podmiot danych udzielił zgody, z zastrzeżeniem warunków ustanowionych w art. 7;"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų subjektas davė sutikimą pagal 7 straipsnyje nustatytas sąlygas;"
+		},
+		{
+			"lang": "nl",
+			"text": "de betrokkene onder de in artikel 7 gestelde voorwaarden daarvoor toestemming heeft gegeven;"
+		},
+		{
+			"lang": "sv",
+			"text": "den registrerade har lämnat sitt samtycket till detta, med förbehåll för villkoren i artikel 7,"
+		}
+	],
+	"children": [],
+	"title": "Article 83 – Paragraph 2 – Point 1"
+}

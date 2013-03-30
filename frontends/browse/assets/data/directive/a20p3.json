@@ -1,0 +1,102 @@
+{
+	"id": "a20p3",
+	"type": "paragraph",
+	"literal": "3",
+	"parent": "a20",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Automated processing of personal data intended to evaluate certain personal aspects relating to a natural person shall not be based solely on the special categories of personal data referred to in Article 9."
+		},
+		{
+			"lang": "de",
+			"text": "Die automatisierte Verarbeitung personenbezogener Daten zum Zwecke der Auswertung bestimmter persönlicher Merkmale einer natürlichen Person darf sich nicht ausschließlich auf die in Artikel 9 genannten besonderen Kategorien personenbezogener Daten stützen."
+		},
+		{
+			"lang": "fr",
+			"text": "Le traitement automatisé de données à caractère personnel destiné à évaluer certains aspects personnels propres à une personne physique ne saurait être exclusivement fondé sur les catégories particulières de données à caractère personnel mentionnées à l’article 9."
+		},
+		{
+			"lang": "es",
+			"text": "El tratamiento automatizado de datos personales destinado a evaluar determinados aspectos personales propios de una persona física no se basará únicamente en las categorías especiales de datos personales contempladas en el artículo 9."
+		},
+		{
+			"lang": "pt",
+			"text": "O tratamento automatizado dos dados pessoais destinado a avaliar determinados aspetos pessoais próprios a uma pessoa singular não se deve basear exclusivamente nas categorias especiais de dados pessoais referidas no artigo 9.º."
+		},
+		{
+			"lang": "it",
+			"text": "Il trattamento automatizzato di dati personali destinato a valutare taluni aspetti della personalità dell’interessato non può basarsi unicamente sulle categorie particolari di dati personali di cui all’articolo 9."
+		},
+		{
+			"lang": "ga",
+			"text": "Aon phróiseáil uathoibrithe a dhéantar ar shonraí pearsanta chun measúnú a dhéanamh ar ghnéithe pearsanta áirithe a bhaineann le duine nádúrtha, ní bheidh an phróiseáil sin bunaithe go heisiach ar na catagóirí speisialta sonraí pearsanta dá dtagraítear in Airteagal 9."
+		},
+		{
+			"lang": "cs",
+			"text": "Automatické zpracování osobních údajů za účelem vyhodnocení určitých rysů osobnosti fyzické osoby se nesmí opírat pouze o zvláštní kategorie osobních údajů uvedené v článku 9."
+		},
+		{
+			"lang": "da",
+			"text": "Automatisk behandling af personoplysninger, der har til formål at vurdere bestemte personlige forhold vedrørende en fysisk person, må ikke alene baseres på de særlige kategorier af personoplysninger, der er nævnt i artikel 9."
+		},
+		{
+			"lang": "et",
+			"text": "Isikuandmete automaatne töötlemine füüsilise isiku isiklike aspektide hindamiseks ei põhine ainult artiklis 9 osutatud isikuandmete eriliikidel."
+		},
+		{
+			"lang": "el",
+			"text": "Η αυτοματοποιημένη επεξεργασία δεδομένων προσωπικού χαρακτήρα με σκοπό την αξιολόγηση ορισμένων προσωπικών πτυχών που αφορούν ένα φυσικό πρόσωπο δεν βασίζεται μόνον στις ειδικές κατηγορίες δεδομένων προσωπικού χαρακτήρα που αναφέρονται στο άρθρο 9."
+		},
+		{
+			"lang": "bg",
+			"text": "Автоматизираното обработване на лични данни с цел оценяване на определени лични аспекти, свързани с дадено физическо лице, не се основава единствено на специалните категории лични данни, посочени в член 9."
+		},
+		{
+			"lang": "hu",
+			"text": "A valamely természetes személlyel kapcsolatos egyes személyes szempontok értékelését célzó automatizált személyesadat-feldolgozás nem alapulhat kizárólag a személyes adatok 9. cikkben említett különleges kategóriáin."
+		},
+		{
+			"lang": "mt",
+			"text": "L-ipproċessar awtomatizzat ta’ dejta personali maħsub sabiex jevalwa ċerti aspetti personali relatati ma’ persuna fiżika ma għandux ikun ibbażat unikament fuq il-kategoriji speċjali ta’ dejta personali msemmija fl-Artikolu 9."
+		},
+		{
+			"lang": "lv",
+			"text": "Personas datu automatizētu apstrādi, kas paredzēta konkrētu ar viņu saistītu personisku aspektu izvērtēšanai, nebalsta tikai uz īpašu kategoriju personas datiem, kas minēti 9. pantā."
+		},
+		{
+			"lang": "ro",
+			"text": "Prelucrarea automată a datelor cu caracter personal menite să evalueze anumite aspecte personale referitoare la o persoană fizică nu se bazează exclusiv pe categoriile speciale de date cu caracter personal la care se face referire la articolul 9."
+		},
+		{
+			"lang": "sk",
+			"text": "Automatizované spracovanie osobných údajov na účely hodnotenia určitých osobných aspektov týkajúcich sa fyzickej osoby nesmie byť založené výlučne na osobitných kategóriách osobných údajov uvedených v článku 9."
+		},
+		{
+			"lang": "sl",
+			"text": "Samodejna obdelava osebnih podatkov za namene ocene nekaterih osebnih vidikov v zvezi s fizično osebo ne sme temeljiti zgolj na posebnih vrstah osebnih podatkov iz člena 9."
+		},
+		{
+			"lang": "fi",
+			"text": "Henkilötietojen automaattinen käsittely, jonka tarkoituksena on arvioida luonnollisen henkilön tiettyjä henkilökohtaisia ominaisuuksia, ei saa perustua pelkästään 9 artiklassa tarkoitettuihin erityisiin henkilötietojen ryhmiin."
+		},
+		{
+			"lang": "pl",
+			"text": "Automatyczne przetwarzanie danych osobowych, które ma służyć ocenie niektórych aspektów osobistych osoby fizycznej, nie opiera się jedynie na szczególnych kategoriach danych osobowych, o których mowa w art. 9."
+		},
+		{
+			"lang": "lt",
+			"text": "Automatizuotas asmens duomenų tvarkymas, siekiant įvertinti tam tikrus su fiziniu asmeniu susijusius asmeninius aspektus, negali būti grindžiamas tik 9 straipsnyje nurodytais ypatingų kategorijų asmens duomenimis."
+		},
+		{
+			"lang": "nl",
+			"text": "De geautomatiseerde gegevensverwerking die bestemd is om bepaalde aspecten van de persoonlijkheid van een natuurlijke persoon te beoordelen, wordt niet uitsluitend gebaseerd op de in artikel 9 bedoelde bijzondere categorieën persoonsgegevens."
+		},
+		{
+			"lang": "sv",
+			"text": "Automatisk behandling av personuppgifter i syfte att bedöma vissa personliga aspekter hos en fysisk person får inte enbart grunda sig på de särskilda kategorier av personuppgifter som avses i artikel 9."
+		}
+	],
+	"children": [],
+	"title": "Article 20 – Paragraph 3"
+}

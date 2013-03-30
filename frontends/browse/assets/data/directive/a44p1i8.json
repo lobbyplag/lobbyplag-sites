@@ -1,0 +1,102 @@
+{
+	"id": "a44p1i8",
+	"type": "point",
+	"literal": "h",
+	"parent": "a44p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the transfer is necessary for the purposes of the legitimate interests pursued by the controller or the processor, which cannot be qualified as frequent or massive, and where the controller or processor has assessed all the circumstances surrounding the data transfer operation or the set of data transfer operations and based on this assessment adduced appropriate safeguards with respect to the protection of personal data, where necessary."
+		},
+		{
+			"lang": "de",
+			"text": "die Übermittlung zur Verwirklichung des berechtigten Interesses, das von dem für die Verarbeitung Verantwortlichen oder vom Auftragsverarbeiter wahrgenommen wird, erforderlich ist und nicht als häufig oder massiv bezeichnet werden kann, und falls der für die Verarbeitung Verantwortliche oder der Auftragsverarbeiter alle Umstände beurteilt hat, die bei einer Datenübermittlung oder bei einer Kategorie von Datenübermittlungen eine Rolle spielen, und gegebenenfalls auf der Grundlage dieser Beurteilung geeignete Garantien zum Schutz personenbezogener Daten vorgesehen hat."
+		},
+		{
+			"lang": "fr",
+			"text": "le transfert soit nécessaire aux fins des intérêts légitimes poursuivis par le responsable du traitement ou le sous‑traitant, qu'il ne puisse pas être qualifié de fréquent ou de massif et que le responsable du traitement ou le sous‑traitant ait évalué toutes les circonstances relatives à un transfert ou à une catégorie de transferts de données et offert, sur la base de cette évaluation, des garanties appropriées au regard de la protection des données à caractère personnel, s'il y a lieu."
+		},
+		{
+			"lang": "es",
+			"text": "la transferencia sea necesaria para la satisfacción de los intereses legítimos del responsable o del encargado del tratamiento, que no puedan ser calificados de frecuentes ni de masivos, y el responsable o el encargado hayan evaluado todas las circunstancias que rodean la operación o la serie de operaciones de transferencia de datos y hayan ofrecido en su caso, sobre la base de dicha evaluación, garantías apropiadas con respecto a la protección de datos personales."
+		},
+		{
+			"lang": "pt",
+			"text": "A transferência for necessária para efeitos dos interesses legítimos do responsável pelo tratamento ou do subcontratante, que não seja qualificada como frequente ou maciça e que o responsável pelo tratamento ou o subcontratante tenha avaliado todas as circunstâncias relativas à operação de transferência de dados ou ao conjunto de operações de transferência de dados e, com base nessa avaliação, tiver apresentado garantias adequadas quanto à proteção de dados pessoais, se for caso disso."
+		},
+		{
+			"lang": "it",
+			"text": "il trasferimento sia necessario per il perseguimento dei legittimi interessi del responsabile del trattamento o dell’incaricato del trattamento, che non possano definirsi frequenti o ingenti, e qualora il responsabile del trattamento o l’incaricato del trattamento abbia valutato tutte le circostanze relative ad un trasferimento o ad un complesso di trasferimenti e sulla base di tale valutazione abbia offerto garanzie adeguate per la protezione dei dati personali, ove necessario."
+		},
+		{
+			"lang": "ga",
+			"text": "gur gá an t‑aistriú a dhéanamh ar mhaithe leis na leasanna dlisteanacha atá á saothrú ag an rialaitheoir nó ag an bpróiseálaí, ar aistriú é nach bhféadfaí a cháiliú mar aistriú rialta ná mar aistriú ollmhór, agus go bhfuil measúnú déanta ag an rialaitheoir nó ag an bpróiseálaí ar na himthosca ar fad a bhaineann leis an oibríocht aistrithe sonraí nó leis na hoibríochtaí aistrithe sonraí agus, bunaithe ar an measúnú sin, go bhfuil cosaintí iomchuí tugtha ar aird aige i ndáil le cosaint sonraí pearsanta, nuair is gá sin."
+		},
+		{
+			"lang": "cs",
+			"text": "předání je nezbytné pro účely oprávněných zájmů správce nebo zpracovatele, nelze je označit za časté nebo značného rozsahu a správce nebo zpracovatel posoudil všechny okolnosti daného předání údajů nebo dané řady předání údajů a na základě tohoto posouzení přijal v případě potřeby vhodné záruky pro ochranu osobních údajů."
+		},
+		{
+			"lang": "da",
+			"text": "videregivelsen er nødvendig af hensyn til den registeransvarliges eller registerførerens legitime interesser, der ikke kan betegnes som hyppige eller omfattende, og den registeransvarlige eller registerføreren har vurderet samtlige de forhold, der har indflydelse på en videregivelse eller en serie af videregivelser af oplysninger, og på grundlag af denne vurdering yder de fornødne garantier for beskyttelsen af personoplysninger."
+		},
+		{
+			"lang": "et",
+			"text": "edastamine on vajalik, et kaitsta vastutava töötleja või volitatud töötleja õigustatud huvi, mida esineb harva ja mis ei ole mahukas, ning siis kui vastutav töötleja või volitatud töötleja on hinnanud kõiki andmete edastamisega seotud asjaolusid ning sellele hinnangule tuginedes on seoses isikuandmete kaitsega vajaduse korral lisanud asjakohased kaitsemeetmed."
+		},
+		{
+			"lang": "el",
+			"text": "η) η διαβίβαση είναι απαραίτητη για τους σκοπούς των έννομων συμφερόντων που επιδιώκουν ο υπεύθυνος επεξεργασίας ή ο εκτελών την επεξεργασία, και δεν μπορεί να χαρακτηρισθεί συχνή ή μαζική, και ο υπεύθυνος επεξεργασίας ή ο εκτελών την επεξεργασία αξιολόγησαν όλες τις συνθήκες που περιβάλλουν την πράξη διαβίβασης δεδομένων ή τη σειρά πράξεων διαβίβασης δεδομένων και βάσει της αξιολόγησης αυτής παρέχουν κατάλληλες εγγυήσεις για την προστασία των δεδομένων προσωπικού χαρακτήρα, εφόσον απαιτείται."
+		},
+		{
+			"lang": "bg",
+			"text": "з) предаването е необходимо за целите на законните интереси, преследвани от администратора или от обработващия лични данни, и не може да бъде определено като често или масово, като администраторът или обработващият лични данни е оценил всички обстоятелства, свързани с операцията или съвкупността от операции по предаването на данни, и въз основа на тази оценка, когато е необходимо, е предоставил подходящи гаранции във връзка със защитата на личните данни."
+		},
+		{
+			"lang": "hu",
+			"text": "a továbbítás az adatkezelő vagy -feldolgozó jogos érdekében szükséges, amely nem minősíthető gyakorinak vagy tömegesnek, amennyiben az adatkezelő vagy -feldolgozó az adattovábbítás vagy az adattovábbítás-sorozat minden körülményét megvizsgálta, és e vizsgálat alapján szükség szerint megfelelő biztosítékokat hozott létre a személyes adatokra tekintettel."
+		},
+		{
+			"lang": "mt",
+			"text": "it-trasferiment ikun meħtieġ għall-finijiet tal-interessi leġittimi segwiti mill-kontrollur jew mill-proċessur, li ma jistax ikun ikkwalifikat bħala frekwenti jew enormi,u meta l-kontrollur jew il-proċessur evalwa ċ-ċirkostanzi kollha tal-operazzjoni ta’ trasferiment tad-dejta jew l-operazzjonijiet ta’ trasferiment tas-sett tad-dejta u abbażi ta’ din l-evalwazzjoni ppreżenta salvagwardji xierqa fir-rigward tal-protezzjoni tad-dejta personali, fejn meħtieġ."
+		},
+		{
+			"lang": "lv",
+			"text": "nosūtīšana ir nepieciešama, pamatojoties uz pārziņa vai apstrādātāja likumīgajām interesēm, ja to nevar kvalificēt kā biežu vai masveida un ja pārzinis vai apstrādātājs ir novērtējis visus apstākļus saistībā ar datu nosūtīšanas darbību vai vairākkārtējām datu nosūtīšanas darbībām un pamatojoties uz šo novērtējumu, ja nepieciešams, ir nodrošinājis atbilstošus personas datu aizsardzības pasākumus."
+		},
+		{
+			"lang": "ro",
+			"text": "transferul este necesar în scopul intereselor legitime urmărite de operator sau de persoana împuternicită de către operator, nu poate fi considerat frecvent sau voluminos, iar operatorul sau persoana împuternicită de către operator a evaluat toate circumstanțele aferente operațiunii de transfer de date sau seriei de operațiuni de transfer de date și în baza acestei evaluări a oferit garanții corespunzătoare în ceea ce privește protecția datelor cu caracter personal, în cazul în care acest lucru este necesar."
+		},
+		{
+			"lang": "sk",
+			"text": "prenos je nevyhnutný na účely oprávnených záujmov, ktoré sleduje prevádzkovateľ alebo sprostredkovateľ a ktoré nemožno kvalifikovať ako časté alebo hromadné, a prevádzkovateľ alebo sprostredkovateľ posúdili všetky okolnosti sprevádzajúce operáciu prenosu údajov alebo súbor operácií prenosu údajov a na základe tohto posúdenia uviedli v prípade potreby náležité záruky, pokiaľ ide o ochranu osobných údajov."
+		},
+		{
+			"lang": "sl",
+			"text": "je prenos potreben zaradi pravnih interesov, za katere si prizadeva upravljavec ali obdelovalec in ki jih ni mogoče šteti za pogoste ali množične, ter kadar je upravljavec ali obdelovalec ocenil vse okoliščine prenosa podatkov ali niza prenosov podatkov in na podlagi te ocene po potrebi predvidel ustrezne zaščitne ukrepe za varstvo osebnih podatkov."
+		},
+		{
+			"lang": "fi",
+			"text": "siirto on tarpeen sellaisten rekisterinpitäjän tai henkilötietojen käsittelijän oikeutettujen etujen toteuttamiseksi, joita ei voida pitää toistuvina tai laajamittaisina, kun rekisterinpitäjä tai henkilötietojen käsittelijä on arvioinut kaikkia tiettyyn tiedonsiirtoon tai siirtojen sarjaan liittyviä olosuhteita ja on tämän arvioinnin pohjalta tarvittaessa antanut henkilötietojen suojaa koskevat asianmukaiset takeet."
+		},
+		{
+			"lang": "pl",
+			"text": "przekazanie jest konieczne dla potrzeb wynikających ze słusznych interesów administratora lub podmiotu przetwarzającego, których nie można uznać za częste lub masowe i jeżeli administrator lub podmiot przetwarzający ocenili wszystkie okoliczności towarzyszące operacji przekazywania danych lub operacjom przekazywania danych i na podstawie tej oceny w razie potrzeby przewidzieli odpowiednie gwarancje w zakresie ochrony danych osobowych."
+		},
+		{
+			"lang": "lt",
+			"text": "perduoti duomenis būtina, kad duomenų valdytojas arba duomenų tvarkytojas galėtų siekti teisėtų interesų, jeigu toks perdavimas nėra dažnas arba masinis ir jeigu duomenų valdytojas arba duomenų tvarkytojas įvertino visas su duomenų perdavimo operacija arba duomenų perdavimo operacijų seka susijusias aplinkybes ir remdamasis tuo vertinimu prireikus nustatė su asmens duomenų apsauga susijusias tinkamas apsaugos priemones."
+		},
+		{
+			"lang": "nl",
+			"text": "de doorgifte noodzakelijk is voor de gerechtvaardigde belangen die door de voor de verwerking verantwoordelijke of de verwerker worden nagestreefd, en niet als frequent of massaal kan worden beschouwd, en de voor de verwerking verantwoordelijke of de verwerker alle omstandigheden in verband met de gegevensdoorgifte of de categorie gegevensdoorgiften heeft beoordeeld en, indien nodig, op basis van die beoordeling passende garanties biedt voor de bescherming van de persoonsgegevens."
+		},
+		{
+			"lang": "sv",
+			"text": "Överföringen är nödvändig för att tillgodose den registeransvariges eller registerförarens berättigade intressen, där överföringen inte kan anses vara ofta återkommande eller omfattande, och där den registeransvarige eller registerföraren har bedömt alla omständigheter kring en överföring eller en serie av överföringar av uppgifter och utifrån denna bedömning om så krävts vidtagit lämpliga åtgärder för att skydda personuppgifter."
+		}
+	],
+	"children": [],
+	"title": "Article 44 – Paragraph 1 – Point 8"
+}

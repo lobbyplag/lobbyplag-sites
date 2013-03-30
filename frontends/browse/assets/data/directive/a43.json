@@ -1,0 +1,107 @@
+{
+	"id": "a43",
+	"type": "article",
+	"literal": "43",
+	"parent": "c5",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Transfers by way of binding corporate rules"
+		},
+		{
+			"lang": "de",
+			"text": "Datenübermittlung auf der Grundlage verbindlicher unternehmensinterner Vorschriften"
+		},
+		{
+			"lang": "fr",
+			"text": "Transferts encadrés par des règles d'entreprise contraignantes"
+		},
+		{
+			"lang": "es",
+			"text": "Transferencias mediante normas corporativas vinculantes"
+		},
+		{
+			"lang": "pt",
+			"text": "Transferências mediante regras vinculativas para empresas"
+		},
+		{
+			"lang": "it",
+			"text": "Trasferimento in presenza di norme vincolanti d’impresa"
+		},
+		{
+			"lang": "ga",
+			"text": "Aistrithe trí bhíthin rialacha ceangailteacha corparáideacha"
+		},
+		{
+			"lang": "cs",
+			"text": "Předávání založené na závazných podnikových pravidlech"
+		},
+		{
+			"lang": "da",
+			"text": "Videregivelse ved anvendelse af bindende virksomhedsregler"
+		},
+		{
+			"lang": "et",
+			"text": "Edastamine siduvate ettevõtluseeskirjade alusel"
+		},
+		{
+			"lang": "el",
+			"text": "Διαβιβάσεις μέσω δεσμευτικών εταιρικών κανόνων"
+		},
+		{
+			"lang": "bg",
+			"text": "Предаване на данни чрез задължителни фирмени правила"
+		},
+		{
+			"lang": "hu",
+			"text": "Adattovábbítás kötelező erejű vállalati szabályok alapján"
+		},
+		{
+			"lang": "mt",
+			"text": "Trasferimenti permezz ta’ regoli korporattivi vinkolanti"
+		},
+		{
+			"lang": "lv",
+			"text": "Nosūtīšana, pamatojoties uz saistošiem uzņēmuma noteikumiem"
+		},
+		{
+			"lang": "ro",
+			"text": "Transferurile în baza regulilor corporatiste obligatorii"
+		},
+		{
+			"lang": "sk",
+			"text": "Prenosy na základe záväzných firemných pravidiel"
+		},
+		{
+			"lang": "sl",
+			"text": "Prenosi z zavezujočimi poslovnimi pravili"
+		},
+		{
+			"lang": "fi",
+			"text": "Siirto yritystä koskevien sitovien sääntöjen perusteella"
+		},
+		{
+			"lang": "pl",
+			"text": "Operacje przekazywania na podstawie wiążących reguł korporacyjnych"
+		},
+		{
+			"lang": "lt",
+			"text": "Perdavimas remiantis įmonei privalomomis taisyklėmis"
+		},
+		{
+			"lang": "nl",
+			"text": "Doorgiften op grond van bindende bedrijfsvoorschriften"
+		},
+		{
+			"lang": "sv",
+			"text": "Överföring med stöd av bindande företagsbestämmelser"
+		}
+	],
+	"children": [
+		"a43p1",
+		"a43p2",
+		"a43p3",
+		"a43p4"
+	],
+	"title": "Article 43"
+}

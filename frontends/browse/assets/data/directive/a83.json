@@ -1,0 +1,106 @@
+{
+	"id": "a83",
+	"type": "article",
+	"literal": "83",
+	"parent": "c9",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Processing for historical, statistical and scientific research purposes"
+		},
+		{
+			"lang": "de",
+			"text": "Datenverarbeitung zu historischen oder statistischen Zwecken sowie zum Zwecke der wissenschaftlichen Forschung"
+		},
+		{
+			"lang": "fr",
+			"text": "Traitements de données à des fins de recherche historique, statistique et scientifique"
+		},
+		{
+			"lang": "es",
+			"text": "Tratamiento para fines de investigación histórica, estadística o científica"
+		},
+		{
+			"lang": "pt",
+			"text": "Tratamento para fins de investigação histórica, estatística e científica"
+		},
+		{
+			"lang": "it",
+			"text": "Trattamento per finalità storiche, statistiche e di ricerca scientifica"
+		},
+		{
+			"lang": "ga",
+			"text": "Próiseáil chun críocha taighde stairiúil, staidrimh agus eolaíoch"
+		},
+		{
+			"lang": "cs",
+			"text": "Zpracovávání údajů pro účely historiografického, statistického a vědeckého výzkumu"
+		},
+		{
+			"lang": "da",
+			"text": "Behandling af personoplysninger til historiske, statistiske eller videnskabelige forskningsformål"
+		},
+		{
+			"lang": "et",
+			"text": "Töötlemine ajaloo- ja statistikauurimuste ning teadustöö eesmärgil"
+		},
+		{
+			"lang": "el",
+			"text": "Επεξεργασία για ιστορικούς και στατιστικούς σκοπούς και για σκοπούς επιστημονικής έρευνας"
+		},
+		{
+			"lang": "bg",
+			"text": "Обработване на данни за исторически, статистически и научноизследователски цели"
+		},
+		{
+			"lang": "hu",
+			"text": "Történelmi, statisztikai és tudományos kutatási célú feldolgozás"
+		},
+		{
+			"lang": "mt",
+			"text": "Ipproċessar għal għanijiet ta’ storja, statistika, u riċerka xjentifika"
+		},
+		{
+			"lang": "lv",
+			"text": "Apstrāde vēstures, statistikas un zinātniskās izpētes nolūkos"
+		},
+		{
+			"lang": "ro",
+			"text": "Prelucrarea în scopuri de cercetare istorică, statistică și științifică"
+		},
+		{
+			"lang": "sk",
+			"text": "Spracúvanie na historické, štatistické a vedeckovýskumné účely"
+		},
+		{
+			"lang": "sl",
+			"text": "Obdelava v zgodovinske, statistične in znanstvenoraziskovalne namene"
+		},
+		{
+			"lang": "fi",
+			"text": "Henkilötietojen käsittely historiantutkimusta taikka tilastollisia tai tieteellisiä tutkimustarkoituksia varten"
+		},
+		{
+			"lang": "pl",
+			"text": "Przetwarzanie do celów dokumentacji, statystyki i badań naukowych"
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų tvarkymas istoriniais, statistiniais ir mokslinių tyrimų tikslais"
+		},
+		{
+			"lang": "nl",
+			"text": "Verwerking voor historische, statistische en wetenschappelijke doeleinden"
+		},
+		{
+			"lang": "sv",
+			"text": "Behandling för historiska, statistiska och vetenskapliga forskningsändamål"
+		}
+	],
+	"children": [
+		"a83p1",
+		"a83p2",
+		"a83p3"
+	],
+	"title": "Article 83"
+}

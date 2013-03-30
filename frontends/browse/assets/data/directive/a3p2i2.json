@@ -1,0 +1,102 @@
+{
+	"id": "a3p2i2",
+	"type": "point",
+	"literal": "b",
+	"parent": "a3p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the monitoring of their behaviour."
+		},
+		{
+			"lang": "de",
+			"text": "der Beobachtung ihres Verhaltens dient."
+		},
+		{
+			"lang": "fr",
+			"text": "à l’observation de leur comportement."
+		},
+		{
+			"lang": "es",
+			"text": "el control de su conducta."
+		},
+		{
+			"lang": "pt",
+			"text": "O controlo do seu comportamento."
+		},
+		{
+			"lang": "it",
+			"text": "il controllo del loro comportamento."
+		},
+		{
+			"lang": "ga",
+			"text": "má bhaineann na gníomhaíochtaí próiseála le faireachán a dhéanamh ar iompar na ndaoine sin."
+		},
+		{
+			"lang": "cs",
+			"text": "se sledováním jejich chování."
+		},
+		{
+			"lang": "da",
+			"text": "overvågning af sådanne registreredes adfærd."
+		},
+		{
+			"lang": "et",
+			"text": "nende käitumise jälgimisega."
+		},
+		{
+			"lang": "el",
+			"text": "β) την παρακολούθηση της συμπεριφοράς τους."
+		},
+		{
+			"lang": "bg",
+			"text": "б) наблюдението на тяхното поведение."
+		},
+		{
+			"lang": "hu",
+			"text": "viselkedésük nyomon követéséhez kapcsolódnak."
+		},
+		{
+			"lang": "mt",
+			"text": "il-monitoraġġ tal-imġiba tagħhom."
+		},
+		{
+			"lang": "lv",
+			"text": "viņu uzvedības novērošanu."
+		},
+		{
+			"lang": "ro",
+			"text": "urmărirea comportamentului acestora."
+		},
+		{
+			"lang": "sk",
+			"text": "so sledovaním ich správania."
+		},
+		{
+			"lang": "sl",
+			"text": "spremljanjem njihovega vedenja."
+		},
+		{
+			"lang": "fi",
+			"text": "näiden rekisteröityjen käyttäytymisen seurantaan."
+		},
+		{
+			"lang": "pl",
+			"text": "monitorowaniem ich zachowania."
+		},
+		{
+			"lang": "lt",
+			"text": "jų elgesio stebėjimu."
+		},
+		{
+			"lang": "nl",
+			"text": "het observeren van hun gedrag."
+		},
+		{
+			"lang": "sv",
+			"text": "övervakning av deras beteende."
+		}
+	],
+	"children": [],
+	"title": "Article 3 – Paragraph 2 – Point 2"
+}

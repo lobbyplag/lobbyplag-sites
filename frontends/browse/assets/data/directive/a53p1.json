@@ -1,0 +1,113 @@
+{
+	"id": "a53p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a53",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Each supervisory authority shall have the power:"
+		},
+		{
+			"lang": "de",
+			"text": "Jede Aufsichtsbehörde ist befugt,"
+		},
+		{
+			"lang": "fr",
+			"text": "Chaque autorité de contrôle a le pouvoir:"
+		},
+		{
+			"lang": "es",
+			"text": "Cada autoridad de control estará facultada para:"
+		},
+		{
+			"lang": "pt",
+			"text": "Cada autoridade de controlo está habilitada a:"
+		},
+		{
+			"lang": "it",
+			"text": "Ogni autorità di controllo ha il potere di:"
+		},
+		{
+			"lang": "ga",
+			"text": "Beidh sé de chumhacht ag údarás maoirseachta na nithe seo a leanas a dhéanamh:"
+		},
+		{
+			"lang": "cs",
+			"text": "Každý orgán dozoru má pravomoc:"
+		},
+		{
+			"lang": "da",
+			"text": "Hver tilsynsmyndighed har beføjelse:"
+		},
+		{
+			"lang": "et",
+			"text": "Igal järelevalveasutusel on õigus:"
+		},
+		{
+			"lang": "el",
+			"text": "Κάθε αρχή ελέγχου έχει την εξουσία:"
+		},
+		{
+			"lang": "bg",
+			"text": "Всеки надзорен орган има правомощието:"
+		},
+		{
+			"lang": "hu",
+			"text": "Valamennyi felügyelő hatóság hatáskörrel rendelkezik arra, hogy:"
+		},
+		{
+			"lang": "mt",
+			"text": "Kull awtorità ta’ superviżjoni għandu jkollha s-setgħa:"
+		},
+		{
+			"lang": "lv",
+			"text": "Uzraudzības iestāde ir pilnvarota:"
+		},
+		{
+			"lang": "ro",
+			"text": "Fiecare autoritate de supraveghere este abilitată:"
+		},
+		{
+			"lang": "sk",
+			"text": "Každý dozorný orgán má právomoc:"
+		},
+		{
+			"lang": "sl",
+			"text": "Vsak nadzorni organ je pooblaščen, da:"
+		},
+		{
+			"lang": "fi",
+			"text": "Jokaisella valvontaviranomaisella on valtuudet:"
+		},
+		{
+			"lang": "pl",
+			"text": "Każdy organ nadzorczy jest uprawniony do:"
+		},
+		{
+			"lang": "lt",
+			"text": "Kiekviena priežiūros institucija įgaliojama:"
+		},
+		{
+			"lang": "nl",
+			"text": "Elk toezichthoudende autoriteit is bevoegd om:"
+		},
+		{
+			"lang": "sv",
+			"text": "Varje tillsynsmyndighet ska ha befogenhet att"
+		}
+	],
+	"children": [
+		"a53p1i1",
+		"a53p1i2",
+		"a53p1i3",
+		"a53p1i4",
+		"a53p1i5",
+		"a53p1i6",
+		"a53p1i7",
+		"a53p1i8",
+		"a53p1i9",
+		"a53p1i10"
+	],
+	"title": "Article 53 – Paragraph 1"
+}

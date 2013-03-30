@@ -1,0 +1,110 @@
+{
+	"id": "c7s2",
+	"type": "section",
+	"literal": "2",
+	"parent": "c7",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Consistency"
+		},
+		{
+			"lang": "de",
+			"text": "KOHÄRENZ"
+		},
+		{
+			"lang": "fr",
+			"text": "COHÉRENCE"
+		},
+		{
+			"lang": "es",
+			"text": "COHERENCIA"
+		},
+		{
+			"lang": "pt",
+			"text": "Coerência"
+		},
+		{
+			"lang": "it",
+			"text": "Coerenza"
+		},
+		{
+			"lang": "ga",
+			"text": "Comhsheasmhacht"
+		},
+		{
+			"lang": "cs",
+			"text": "JEDNOTNOST"
+		},
+		{
+			"lang": "da",
+			"text": "SAMMENHÆNG"
+		},
+		{
+			"lang": "et",
+			"text": "JÄRJEPIDEVUS"
+		},
+		{
+			"lang": "el",
+			"text": "ΣΥΝΕΚΤΙΚΟΤΗΤΑ"
+		},
+		{
+			"lang": "bg",
+			"text": "Съгласуваност"
+		},
+		{
+			"lang": "hu",
+			"text": "EGYSÉGESSÉG"
+		},
+		{
+			"lang": "mt",
+			"text": "konsistenza"
+		},
+		{
+			"lang": "lv",
+			"text": "Konsekvence"
+		},
+		{
+			"lang": "ro",
+			"text": "Coerență"
+		},
+		{
+			"lang": "sk",
+			"text": "KONZISTENTNOSŤ"
+		},
+		{
+			"lang": "sl",
+			"text": "Skladnost"
+		},
+		{
+			"lang": "fi",
+			"text": "Yhdenmukaisuus"
+		},
+		{
+			"lang": "pl",
+			"text": "zgodność"
+		},
+		{
+			"lang": "lt",
+			"text": "NUOSEKLUMAS"
+		},
+		{
+			"lang": "nl",
+			"text": "CONFORMITEIT"
+		},
+		{
+			"lang": "sv",
+			"text": "Enhetlighet"
+		}
+	],
+	"children": [
+		"a57",
+		"a58",
+		"a59",
+		"a60",
+		"a61",
+		"a62",
+		"a63"
+	],
+	"title": "Chapter 7 – Section 2"
+}

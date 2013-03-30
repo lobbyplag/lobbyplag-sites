@@ -1,0 +1,106 @@
+{
+	"id": "a46",
+	"type": "article",
+	"literal": "46",
+	"parent": "c6s1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Supervisory authority"
+		},
+		{
+			"lang": "de",
+			"text": "Aufsichtsbehörde"
+		},
+		{
+			"lang": "fr",
+			"text": "Autorité de contrôle"
+		},
+		{
+			"lang": "es",
+			"text": "Autoridad de control"
+		},
+		{
+			"lang": "pt",
+			"text": "Autoridade de controlo"
+		},
+		{
+			"lang": "it",
+			"text": "Autorità di controllo"
+		},
+		{
+			"lang": "ga",
+			"text": "Údarás maoirseachta"
+		},
+		{
+			"lang": "cs",
+			"text": "Orgán dozoru"
+		},
+		{
+			"lang": "da",
+			"text": "Tilsynsmyndighed"
+		},
+		{
+			"lang": "et",
+			"text": "Järelevalveasutus"
+		},
+		{
+			"lang": "el",
+			"text": "Αρχή ελέγχου"
+		},
+		{
+			"lang": "bg",
+			"text": "Надзорен орган"
+		},
+		{
+			"lang": "hu",
+			"text": "A felügyelő hatóság"
+		},
+		{
+			"lang": "mt",
+			"text": "Awtorità ta’ superviżjoni"
+		},
+		{
+			"lang": "lv",
+			"text": "Uzraudzības iestāde"
+		},
+		{
+			"lang": "ro",
+			"text": "Autoritatea de supraveghere"
+		},
+		{
+			"lang": "sk",
+			"text": "Dozorný orgán"
+		},
+		{
+			"lang": "sl",
+			"text": "Nadzorni organ"
+		},
+		{
+			"lang": "fi",
+			"text": "Valvontaviranomainen"
+		},
+		{
+			"lang": "pl",
+			"text": "Organ nadzorczy"
+		},
+		{
+			"lang": "lt",
+			"text": "Priežiūros institucija"
+		},
+		{
+			"lang": "nl",
+			"text": "Toezichthoudende autoriteit"
+		},
+		{
+			"lang": "sv",
+			"text": "Tillsynsmyndigheter"
+		}
+	],
+	"children": [
+		"a46p1",
+		"a46p2",
+		"a46p3"
+	],
+	"title": "Article 46"
+}

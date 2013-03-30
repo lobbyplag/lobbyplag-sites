@@ -1,0 +1,105 @@
+{
+	"id": "a79p3",
+	"type": "paragraph",
+	"literal": "3",
+	"parent": "a79",
+	"text": [
+		{
+			"lang": "en",
+			"text": "In case of a first and non-intentional non-compliance with this Regulation, a warning in writing may be given and no sanction imposed, where:"
+		},
+		{
+			"lang": "de",
+			"text": "Handelt es sich um einen ersten, unabsichtlichen Verstoß gegen diese Verordnung, kann anstatt einer Sanktion eine schriftliche Verwarnung erfolgen in Fällen, in denen"
+		},
+		{
+			"lang": "fr",
+			"text": "Lors du premier manquement non intentionnel au présent règlement, l'autorité de contrôle peut donner un avertissement par écrit mais n'impose aucune sanction:"
+		},
+		{
+			"lang": "es",
+			"text": "En el caso de un primer incumplimiento no deliberado del presente Reglamento, podrá enviarse una advertencia escrita y no se impondrá sanción alguna, si:"
+		},
+		{
+			"lang": "pt",
+			"text": "Em caso de uma primeira e não intencional inobservância do presente regulamento, pode ser emitida uma advertência por escrito não sendo aplicável qualquer sanção, sempre que:"
+		},
+		{
+			"lang": "it",
+			"text": "In caso di prima inosservanza non intenzionale del presente regolamento può essere inviato un avvertimento scritto, senza l’imposizione di sanzioni, qualora:"
+		},
+		{
+			"lang": "ga",
+			"text": "I gcás nach gcomhlíontar an Rialachán seo ach gurb é an chéad uair a tharla sé sin, agus nach d'aon ghnó a tharla sé, féadfar rabhadh i scríbhinn a thabhairt agus ní fhorchuirfear smachtbhanna, sna cásanna seo a leanas:"
+		},
+		{
+			"lang": "cs",
+			"text": "V případě, kdy dojde k nedodržení tohoto nařízení poprvé a neúmyslně, může být zasláno písemné upozornění a nemusí se uložit žádná sankce, pokud:"
+		},
+		{
+			"lang": "da",
+			"text": "I tilfælde af en første og uforsætlig manglende overholdelse af denne forordning kan der gives en skriftlig advarsel uden pålæggelse af sanktioner, hvis:"
+		},
+		{
+			"lang": "et",
+			"text": "Käesoleva määruse esimese ja tahtmatu rikkumise korral ei kohaldata karistusi, vaid esitatakse kirjalik hoiatus, kui:"
+		},
+		{
+			"lang": "el",
+			"text": "Σε περίπτωση πρώτης και άνευ δόλου παράβασης του παρόντος κανονισμού, μπορεί να παρασχεθεί έγγραφη προειδοποίηση και να μην επιβληθεί καμία κύρωση, εάν:"
+		},
+		{
+			"lang": "bg",
+			"text": "В случай на първо и непреднамерено неспазване на настоящия регламент може да се отправи писмено предупреждение и да не се налага санкция, когато:"
+		},
+		{
+			"lang": "hu",
+			"text": "Az e rendeletnek való első és nem szándékos meg nem felelés esetén írásbeli figyelmeztetést bocsátható ki és mellőzhető a szankció kiszabása, amennyiben:"
+		},
+		{
+			"lang": "mt",
+			"text": "Fil-każ ta l-ewwel nuqqas ta’ konformità mhux intenzjonali ma’ dan ir-Regolament, tista’ tingħata twissija bil-miktub iżda ma tista’ tiġi imposta ebda sanzjoni, fejn:"
+		},
+		{
+			"lang": "lv",
+			"text": "Ja šī regula pārkāpta pirmo reizi un netīši, var izteikt rakstisku brīdinājumu, nepiemērojot nekādu citu sodu, ja:"
+		},
+		{
+			"lang": "ro",
+			"text": "În cazul primei încălcări neintenționate a dispozițiilor prezentului regulament, se poate transmite o avertizare în scris, fără impunerea vreunei sancțiuni, atunci când:"
+		},
+		{
+			"lang": "sk",
+			"text": "V prípade prvého, neúmyselného nedodržania ustanovení tohto nariadenia sa vydá písomné upozornenie a sankcia sa neuloží, ak:"
+		},
+		{
+			"lang": "sl",
+			"text": "V primeru prve in nenamerne neskladnosti s to uredbo se lahko namesto sankcije izreče pisni opomin, kadar:"
+		},
+		{
+			"lang": "fi",
+			"text": "Kun kyseessä on ensimmäinen ja tahaton asetuksen rikkominen, voidaan antaa kirjallinen varoitus ja jättää seuraamus määräämättä, jos"
+		},
+		{
+			"lang": "pl",
+			"text": "W przypadku zaistnienia pierwszego przypadku nieumyślnego naruszenia niniejszego rozporządzeniem nie nakłada się sankcji, lecz udziela ostrzeżenia na piśmie, w przypadku gdy:"
+		},
+		{
+			"lang": "lt",
+			"text": "Jeigu šio reglamento nesilaikyta pirmą kartą ir netyčia, duodamas raštiškas įspėjimas ir sankcijos neskiriamos, jeigu:"
+		},
+		{
+			"lang": "nl",
+			"text": "Bij een eerste en niet‑opzettelijke niet‑naleving van deze verordening kan een schriftelijke waarschuwing worden gegeven zonder dat er een sanctie wordt opgelegd, wanneer:"
+		},
+		{
+			"lang": "sv",
+			"text": "Vid en första oavsiktlig underlåtenhet att följa denna förordning ska det vara möjligt att utfärda en skriftlig varning utan påföljd, om det rör sig om"
+		}
+	],
+	"children": [
+		"a79p3i1",
+		"a79p3i2"
+	],
+	"title": "Article 79 – Paragraph 3"
+}

@@ -1,0 +1,106 @@
+{
+	"id": "a2",
+	"type": "article",
+	"literal": "2",
+	"parent": "c1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Material scope"
+		},
+		{
+			"lang": "de",
+			"text": "Sachlicher Anwendungsbereich"
+		},
+		{
+			"lang": "fr",
+			"text": "Champ d'application matériel"
+		},
+		{
+			"lang": "es",
+			"text": "Ámbito de aplicación material"
+		},
+		{
+			"lang": "pt",
+			"text": "Âmbito de aplicação material"
+		},
+		{
+			"lang": "it",
+			"text": "Campo di applicazione materiale"
+		},
+		{
+			"lang": "ga",
+			"text": "Raon feidhme ábhartha"
+		},
+		{
+			"lang": "cs",
+			"text": "Věcná působnost"
+		},
+		{
+			"lang": "da",
+			"text": "Materielt anvendelsesområde"
+		},
+		{
+			"lang": "et",
+			"text": "Reguleerimisala"
+		},
+		{
+			"lang": "el",
+			"text": "Καθ’ ύλην πεδίο εφαρμογής"
+		},
+		{
+			"lang": "bg",
+			"text": "Материално приложно поле"
+		},
+		{
+			"lang": "hu",
+			"text": "Tárgyi hatály"
+		},
+		{
+			"lang": "mt",
+			"text": "Kamp ta’ applikazzjoni materjali"
+		},
+		{
+			"lang": "lv",
+			"text": "Materiālā piemērošanas joma"
+		},
+		{
+			"lang": "ro",
+			"text": "Domeniul material de aplicare"
+		},
+		{
+			"lang": "sk",
+			"text": "Vecná pôsobnosť"
+		},
+		{
+			"lang": "sl",
+			"text": "Stvarno področje uporabe"
+		},
+		{
+			"lang": "fi",
+			"text": "Aineellinen soveltamisala"
+		},
+		{
+			"lang": "pl",
+			"text": "Zakres materialny"
+		},
+		{
+			"lang": "lt",
+			"text": "Dalykinė taikymo sritis"
+		},
+		{
+			"lang": "nl",
+			"text": "Materiële werkingssfeer"
+		},
+		{
+			"lang": "sv",
+			"text": "Materiellt tillämpningsområde"
+		}
+	],
+	"children": [
+		"a2p1",
+		"a2p2",
+		"a2p3"
+	],
+	"title": "Article 2"
+}

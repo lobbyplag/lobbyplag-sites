@@ -1,0 +1,102 @@
+{
+	"id": "a17p8",
+	"type": "paragraph",
+	"literal": "8",
+	"parent": "a17",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Where the erasure is carried out, the controller shall not otherwise process such personal data."
+		},
+		{
+			"lang": "de",
+			"text": "Wird eine Löschung vorgenommen, darf der für die Verarbeitung Verantwortliche die personenbezogenen Daten nicht auf sonstige Weise verarbeiten."
+		},
+		{
+			"lang": "fr",
+			"text": "Lorsque l'effacement est effectué, le responsable du traitement ne procède à aucun autre traitement de ces données à caractère personnel."
+		},
+		{
+			"lang": "es",
+			"text": "Cuando se hayan suprimido datos, el responsable del tratamiento no someterá dichos datos personales a ninguna otra forma de tratamiento."
+		},
+		{
+			"lang": "pt",
+			"text": "Se o apagamento for efetuado, o responsável pelo tratamento não pode realizar qualquer outro tratamento dos dados pessoais em causa."
+		},
+		{
+			"lang": "it",
+			"text": "Quando provvede alla cancellazione, il responsabile del trattamento si astiene da altri trattamenti di tali dati personali."
+		},
+		{
+			"lang": "ga",
+			"text": "I gcás ina scriostar na sonraí, ní dhéanfaidh an rialaitheoir na sonraí pearsanta sin a phróiseáil ar bhealach eile."
+		},
+		{
+			"lang": "cs",
+			"text": "Pokud se provádí výmaz, správce nesmí tyto osobní údaje jinak zpracovávat."
+		},
+		{
+			"lang": "da",
+			"text": "Hvis personoplysninger slettes, foretager den registeransvarlige ikke senere behandling af disse oplysninger."
+		},
+		{
+			"lang": "et",
+			"text": "Juhul kui isikuandmed kustutatakse, ei töötle vastutav töötleja neid muul viisil."
+		},
+		{
+			"lang": "el",
+			"text": "Εάν η διαγραφή πραγματοποιηθεί, ο υπεύθυνος επεξεργασίας δεν επεξεργάζεται τα εν λόγω δεδομένα προσωπικού χαρακτήρα με κανέναν άλλον τρόπο."
+		},
+		{
+			"lang": "bg",
+			"text": "Когато се извършва заличаване на лични данни, администраторът не ги подлага на друг вид обработване."
+		},
+		{
+			"lang": "hu",
+			"text": "A törlést követően az adatkezelő a továbbiakban nem dolgozhat fel más módon ilyen személyes adatokat."
+		},
+		{
+			"lang": "mt",
+			"text": "Meta jsir it-tħassir, il-kontrollur ma għandux jipproċessa din id-dejta personali mod ieħor."
+		},
+		{
+			"lang": "lv",
+			"text": "Ja dati ir dzēsti, pārzinis šādus personas datus neapstrādā citā veidā."
+		},
+		{
+			"lang": "ro",
+			"text": "În cazul în care se efectuează ștergerea, operatorul nu prelucrează în niciun alt fel datele personale."
+		},
+		{
+			"lang": "sk",
+			"text": "Ak sa vykonáva výmaz, prevádzkovateľ nesmie spracovať dotknuté osobné údaje iným spôsobom."
+		},
+		{
+			"lang": "sl",
+			"text": "Kadar se opravi izbris, upravljavec takih osebnih podatkov ne obdeluje na druge načine."
+		},
+		{
+			"lang": "fi",
+			"text": "Jos henkilötiedot on poistettu, rekisterinpitäjä ei saa enää muutoin käsitellä kyseisiä henkilötietoja."
+		},
+		{
+			"lang": "pl",
+			"text": "W przypadku usunięcia danych, administrator nie przetwarza w inny sposób tych danych osobowych."
+		},
+		{
+			"lang": "lt",
+			"text": "Jei asmens duomenys ištrinami, duomenų valdytojas tokių asmens duomenų negali tvarkyti jokiais kitais būdais."
+		},
+		{
+			"lang": "nl",
+			"text": "Wanneer de persoonsgegevens worden gewist, verwerkt de voor de verwerking verantwoordelijke deze gegevens niet anderszins."
+		},
+		{
+			"lang": "sv",
+			"text": "Om raderingen genomförs ska den registeransvarige inte på annat sätt behandla sådana personuppgifter."
+		}
+	],
+	"children": [],
+	"title": "Article 17 – Paragraph 8"
+}

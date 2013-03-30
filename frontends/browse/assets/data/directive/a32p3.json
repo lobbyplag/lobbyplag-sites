@@ -1,0 +1,102 @@
+{
+	"id": "a32p3",
+	"type": "paragraph",
+	"literal": "3",
+	"parent": "a32",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The communication of a personal data breach to the data subject shall not be required if the controller demonstrates to the satisfaction of the supervisory authority that it has implemented appropriate technological protection measures, and that those measures were applied to the data concerned by the personal data breach. Such technological protection measures shall render the data unintelligible to any person who is not authorised to access it."
+		},
+		{
+			"lang": "de",
+			"text": "Die Benachrichtigung der betroffenen Person über die Verletzung des Schutzes personenbezogener Daten ist nicht erforderlich, wenn der für die Verarbeitung Verantwortliche zur Zufriedenheit der Aufsichtsbehörde nachweist, dass er geeignete technische Sicherheitsvorkehrungen getroffen hat und diese Vorkehrungen auf die von der Verletzung betroffenen personenbezogenen Daten angewandt wurden. Durch diese technischen Sicherheitsvorkehrungen sind die betreffenden Daten für alle Personen zu verschlüsseln, die nicht zum Zugriff auf die Daten befugt sind."
+		},
+		{
+			"lang": "fr",
+			"text": "La communication à la personne concernée d'une violation de ses données à caractère personnel n'est pas nécessaire si le responsable du traitement prouve, à la satisfaction de l’autorité de contrôle, qu'il a mis en œuvre les mesures de protection technologiques appropriées et que ces dernières ont été appliquées aux données concernées par ladite violation. De telles mesures de protection technologiques doivent rendre les données incompréhensibles à toute personne qui n'est pas autorisée à y avoir accès."
+		},
+		{
+			"lang": "es",
+			"text": "La comunicación de una violación de datos personales al interesado no será necesaria si el responsable del tratamiento demuestra, a satisfacción de la autoridad de control, que ha implementado medidas de protección tecnológica apropiadas y que estas medidas se han aplicado a los datos afectados por la violación. Dichas medidas de protección tecnológica deberán hacer ininteligibles los datos para cualquier persona que no esté autorizada a acceder a ellos."
+		},
+		{
+			"lang": "pt",
+			"text": "A comunicação de uma violação de dados pessoais ao seu titular não é exigida se o responsável pelo tratamento demonstrar cabalmente, a contento da autoridade de controlo, que tomou as medidas de proteção tecnológica adequadas e que estas foram aplicadas aos dados a que a violação diz respeito. Essas medidas de proteção tecnológica devem tornar os dados incompreensíveis para qualquer pessoa que não esteja autorizada a aceder a esses dados."
+		},
+		{
+			"lang": "it",
+			"text": "Non è richiesta la comunicazione di una violazione dei dati personali all’interessato se il responsabile del trattamento dimostra in modo convincente all’autorità di controllo che ha utilizzato le opportune misure tecnologiche di protezione e che tali misure erano state applicate ai dati violati. Tali misure tecnologiche di protezione devono rendere i dati incomprensibili a chiunque non sia autorizzato ad accedervi."
+		},
+		{
+			"lang": "ga",
+			"text": "Ní gá a chur in iúl don duine is ábhar do na sonraí gur tharla sárú má léiríonn an rialaitheoir chun sástacht an údaráis mhaoirseachta gur chuir sé bearta iomchuí teicneolaíocha cosanta chun feidhme agus gur cuireadh na bearta sin i bhfeidhm maidir leis na sonraí atá i gceist leis an sárú i ndáil le sonraí pearsanta. Ní bheidh aon duine nach bhfuil údaraithe rochtain a fháil ar na sonraí in ann iad a thuiscint mar gheall ar na bearta teicneolaíocha cosanta sin."
+		},
+		{
+			"lang": "cs",
+			"text": "Oznámení o narušení bezpečnosti osobních údajů dotčenému subjektu údajů není nutné, pokud správce ke spokojenosti orgánu dozoru prokáže, že zavedl náležitá technická ochranná opatření a že tato opatření byla použita u údajů, jejichž bezpečnost byla narušena. Tato technická ochranná opatření zajistí, že dotčené údaje nebudou srozumitelné pro nikoho, kdo není oprávněn k nim přistupovat."
+		},
+		{
+			"lang": "da",
+			"text": "Det er ikke nødvendigt at underrette den registrerede om et brud på persondata­sikkerheden, hvis tilsynsmyndigheden finder det godtgjort fra den registeransvarliges side, at denne har gennemført passende teknologiske beskyttelsesforanstaltninger, og at disse foranstaltninger er blevet anvendt på de data, som sikkerhedsbruddet vedrørte. Sådanne teknologiske beskyttelsesforanstaltninger skal gøre dataene uforståelige for alle, der ikke har lovlig adgang hertil."
+		},
+		{
+			"lang": "et",
+			"text": "Andmesubjekti ei pea teavitama isikuandmetega seotud rikkumisest, kui vastutav töötleja suudab järelevalveasutusele tõendada, et ta on rakendanud vajalikud tehnilised abinõud nende isikuandmete kaitsmiseks, mille suhtes rikkumine toime pandi. Selliste tehniliste kaitseabinõudega muudetakse andmed loetamatuks kõikidele juurdepääsuõiguseta isikutele."
+		},
+		{
+			"lang": "el",
+			"text": "Η γνωστοποίηση παραβίασης δεδομένων προσωπικού χαρακτήρα στο πρόσωπο στο οποίο αναφέρονται τα δεδομένα δεν απαιτείται εάν ο υπεύθυνος επεξεργασίας αποδεικνύει με τρόπο ικανοποιητικό για την αρχή ελέγχου ότι εφάρμοσε κατάλληλα τεχνολογικά μέτρα προστασίας και ότι τα εν λόγω μέτρα εφαρμόσθηκαν στα δεδομένα τα οποία αφορά η παραβίαση δεδομένων προσωπικού χαρακτήρα. Τα εν λόγω τεχνολογικά μέτρα προστασίας καθιστούν τα δεδομένα ακατανόητα σε οποιοδήποτε πρόσωπο δεν διαθέτει εξουσία πρόσβασης σε αυτά."
+		},
+		{
+			"lang": "bg",
+			"text": "Не се изисква съобщаване на субекта на данни за нарушение на сигурността на личните данни, ако администраторът е доказал в удовлетворителна степен пред надзорния орган, че е предприел подходящи технологични мерки за защита и че тези мерки са били приложени спрямо данните, засегнати от нарушението на сигурността на личните данни. Такива технологични мерки за защита правят данните неразбираеми за всяко лице, което няма разрешение за достъп до тях."
+		},
+		{
+			"lang": "hu",
+			"text": "A személyes adatok megsértéséről nem szükséges értesíteni az érintettet, ha az adatkezelő a felügyelő hatóság által elfogadott módon igazolja, hogy a megfelelő technológiai védelmi intézkedéseket végrehajtotta, és az említett intézkedéseket alkalmazták az adatok megsértésével érintett adatokra. E technológiai védelmi intézkedéseknek értelmezhetetlenné kell tenniük az adatokat a hozzáférési joggal nem rendelkező személyek számára."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-komunikazzjoni ta’ ksur ta’ dejta personali lis-suġġett tad-dejta ma għandhiex tkun meħtieġa jekk il-kontrollur juri għas-sodisfazzjon tal-awtorità ta’ superviżjoni li huwa jkun implimenta miżuri ta’ protezzjoni tekonoloġika xierqa, u li dawk il-miżuri ġew applikati għad-dejta kkonċernata mill-ksur tad-dejta personali. Dawn il-miżuri ta’ protezzjoni teknoloġika għandhom jagħmlu d-dejta ma tinftiehemx minn kwalunkwe persuna li ma tkunx awtorizzata biex taċċessaha."
+		},
+		{
+			"lang": "lv",
+			"text": "Datu subjekts nav jāinformē par personas datu aizsardzības pārkāpumu, ja pārzinis uzraudzības iestādei ir uzskatāmi pierādījis, ka tas ir īstenojis atbilstošus tehniskus aizsardzības pasākumus un šie pasākumi tikuši piemēroti datiem, ko skāris personas datu aizsardzības pārkāpums. Ar šādiem tehniskiem aizsardzības pasākumiem datus padara nesaprotamus personām, kurām nav pilnvaru piekļūt datiem."
+		},
+		{
+			"lang": "ro",
+			"text": "Informarea persoanei vizate cu privire la încălcarea securității datelor cu caracter personal a persoanei vizate nu este necesară în cazul în care operatorul demonstrează, într-un mod satisfăcător, autorității de supraveghere că a pus în aplicare măsuri tehnologice adecvate de protecție și că respectivele măsuri au fost aplicate în cazul datelor afectate de încălcarea securității datelor cu caracter personal. Astfel de măsuri tehnologice de protecție trebuie să asigure că datele devin neinteligibile persoanelor care nu sunt autorizate să le acceseze."
+		},
+		{
+			"lang": "sk",
+			"text": "Informovanie dotknutej osoby o porušení ochrany osobných údajov sa nevyžaduje, ak prevádzkovateľ preukáže k spokojnosti dozorného orgánu, že vykonal primerané technické ochranné opatrenia a že tieto opatrenia uplatnil na údaje, ktorých sa narušenie osobných údajov týka. Použitím takýchto opatrení technickej ochrany sa údaje stanú nečitateľnými pre všetky osoby, ktoré nemajú k nim povolený prístup."
+		},
+		{
+			"lang": "sl",
+			"text": "Posameznika, na katerega se nanašajo osebni podatki, o kršitvi varnosti osebnih podatkov ni treba obvestiti, če upravljavec nadzornemu organu zadovoljivo dokaže, da je izvedel ustrezne tehnološke zaščitne ukrepe in so bili ti ukrepi uporabljeni za osebne podatke, v zvezi s katerimi je bila kršena varnost. Zaradi takih tehnoloških zaščitnih ukrepov bi morali biti podatki nerazumljivi vsem, ki niso pooblaščeni za dostop do njih."
+		},
+		{
+			"lang": "fi",
+			"text": "Henkilötietojen tietoturvaloukkauksesta ei tarvitse ilmoittaa rekisteröidylle, jos rekisterinpitäjä osoittaa valvontaviranomaista tyydyttävällä tavalla, että se on toteuttanut asianmukaiset tekniset suojatoimenpiteet ja että kyseisiä toimenpiteitä on sovellettu tietoturvaloukkauksen kohteena oleviin henkilötietoihin. Tällaisten teknisten suojatoimenpiteiden avulla tiedot muutetaan sellaiseen muotoon, että ne eivät ole sellaisten henkilöiden ymmärrettävissä, joilla ei ole lupaa päästä tietoihin."
+		},
+		{
+			"lang": "pl",
+			"text": "Zawiadomienie podmiotu danych o naruszeniu ochrony danych osobowych nie jest wymagane, jeśli administrator wykaże, zgodnie z wymogami organu nadzorczego, że wdrożył odpowiednie technologiczne środki ochrony oraz że środki te zostały zastosowane do danych, których dotyczyło naruszenie ochrony danych osobowych. Tego rodzaju technologiczne środki ochrony sprawiają, że dane stają się nieczytelne dla każdego, kto nie jest uprawniony do dostępu do nich."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų subjektui apie asmens duomenų saugumo pažeidimą pranešti nebūtina, jeigu duomenų valdytojas priežiūros institucijai patikimai įrodo, kad įdiegė tinkamas technologines apsaugos priemones ir kad tos priemonės taikytos su asmens duomenų saugumo pažeidimu susijusiems duomenims. Tokiomis technologinėmis apsaugos priemonėmis užtikrinama, kad asmeniui, neturinčiam leidimo su duomenimis susipažinti, jie būtų nesuprantami."
+		},
+		{
+			"lang": "nl",
+			"text": "De melding van een inbreuk in verband met persoonsgegevens aan de betrokkene is niet vereist wanneer de voor de verwerking verantwoordelijke tot voldoening van de toezichthoudende autoriteit aantoont dat hij de passende technische beschermingsmaatregelen heeft genomen en dat deze maatregelen werden toegepast op de gegevens waarop de inbreuk in verband met persoonsgegevens betrekking heeft. Dergelijke technologische beschermingsmaatregelen maken de gegevens onbegrijpelijk voor eenieder die geen recht op toegang daartoe heeft."
+		},
+		{
+			"lang": "sv",
+			"text": "Det ska inte vara ett krav att informera den registrerade om personuppgiftsbrottet om den registeransvarige tillfredsställande visar för den behöriga myndigheten att den har genomfört lämpliga tekniska skyddsåtgärder och att dessa åtgärder tillämpats på de uppgifter som berördes av personuppgiftsbrottet. Sådana tekniska skyddsåtgärder ska göra uppgifterna oläsbara för alla personer som inte är behöriga att få tillgång till uppgifterna."
+		}
+	],
+	"children": [],
+	"title": "Article 32 – Paragraph 3"
+}

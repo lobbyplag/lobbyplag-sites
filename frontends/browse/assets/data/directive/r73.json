@@ -1,0 +1,102 @@
+{
+	"id": "r73",
+	"type": "recital",
+	"literal": "73",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Data protection impact assessments should be carried out by a public authority or public body if such an assessment has not already been made in the context of the adoption of the national law on which the performance of the tasks of the public authority or public body is based and which regulates the specific processing operation or set of operations in question."
+		},
+		{
+			"lang": "de",
+			"text": "Datenschutz-Folgeabschätzungen sollten von einer Behörde oder öffentlichen Einrichtung durchgeführt werden, sofern eine solche Folgenabschätzung nicht schon anlässlich des Erlasses des Gesetzes erfolgt ist, auf dessen Grundlage die Behörde oder Einrichtung ihre Aufgaben wahrnimmt und das den fraglichen Verarbeitungsvorgang oder die fraglichen Arten von Verarbeitungsvorgängen regelt."
+		},
+		{
+			"lang": "fr",
+			"text": "Une autorité ou un organisme publics ne devraient réaliser une analyse d'impact relative à la protection des données que si celle-ci n'a pas été faite au moment de l'adoption de la loi nationale régissant la mission de l'autorité ou de l'organisme publics concernés ainsi que l'opération ou l'ensemble d'opérations de traitement en question."
+		},
+		{
+			"lang": "es",
+			"text": "Las evaluaciones de impacto de la protección de datos deben ser llevadas a cabo por una autoridad o un organismo públicos si tales evaluaciones aún no se han realizado en el contexto de la adopción de la legislación nacional en la que se basa la realización de las tareas de la autoridad o el organismo públicos y que regula la operación o el conjunto de operaciones de tratamiento en cuestión."
+		},
+		{
+			"lang": "pt",
+			"text": "As avaliações de impacto sobre a proteção de dados devem ser realizadas por uma autoridade ou um organismo público se essa avaliação não tiver ainda sido realizada no contexto da adoção da legislação nacional que regula as atribuições da autoridade ou do organismo público, bem como a operação ou o conjunto de operações em questão."
+		},
+		{
+			"lang": "it",
+			"text": "È necessario che un’autorità pubblica o un ente pubblico procedano a una valutazione d’impatto sulla protezione dei dati se ciò non è già stato fatto in vista dell’adozione della legge nazionale che disciplina i compiti dell’autorità pubblica o dell’ente pubblico e lo specifico trattamento o insieme di trattamenti."
+		},
+		{
+			"lang": "ga",
+			"text": "Ba cheart d'údarás poiblí nó do chomhlacht poiblí measúnuithe tionchair a dhéanamh ar chosaint sonraí mura ndearnadh measúnú den sórt sin cheana nuair a glacadh an dlí náisiúnta ar a bhfuil comhlíonadh chúraimí an údaráis phoiblí nó an chomhlachta phoiblí bunaithe agus lena rialaítear an oibríocht próiseála shonrach sin nó an tacar oibríochtaí atá i gceist."
+		},
+		{
+			"lang": "cs",
+			"text": "Posouzení dopadu na ochranu údajů by měl vypracovat orgán veřejné moci nebo veřejný subjekt, pokud takové posouzení dopadů nebylo vypracováno již v souvislosti s přijetím vnitrostátního zákona, na jehož základě orgán veřejné moci nebo veřejný subjekt plní své úkoly a který upravuje dané specifické úkony nebo soubory úkonů spojené se zpracováním."
+		},
+		{
+			"lang": "da",
+			"text": "Konsekvensanalyser vedrørende databeskyttelse bør foretages af en offentlig myndighed eller et offentligt organ, hvis en sådan analyse ikke allerede er blevet foretaget i forbindelse med vedtagelsen af den nationale lovgivning, der udgør grundlaget for den offentlige myndigheds eller det offentlige organs udøvelse af opgaver, og som regulerer den pågældende specifikke behandling."
+		},
+		{
+			"lang": "et",
+			"text": "Kui isikuandmete kaitse alaseid mõjuhinnanguid ei ole koostatud juba selliste siseriiklike õigusaktide vastuvõtmisel, millele avaliku sektori asutuse või organi ülesannete täitmine tugineb ja millega reguleeritakse kõnealuseid konkreetseid töötlustoiminguid või nende kogumit, peaks avaliku sektori asutus või organ koostama sellise mõjuhinnangu."
+		},
+		{
+			"lang": "el",
+			"text": "Οι εκτιμήσεις επιπτώσεων σχετικά με την προστασία των δεδομένων πρέπει να διενεργούνται από δημόσια αρχή ή δημόσιο φορέα, εάν μια τέτοια εκτίμηση δεν έχει ήδη διενεργηθεί στο πλαίσιο της θέσπισης της εθνικής νομοθεσίας στην οποία βασίζεται η άσκηση των καθηκόντων της δημόσιας αρχής ή του δημόσιου φορέα και η οποία ρυθμίζει τη συγκεκριμένη πράξη επεξεργασίας ή σειρά πράξεων επεξεργασίας."
+		},
+		{
+			"lang": "bg",
+			"text": "Оценките за въздействието върху защитата на личните данни следва да се извършват от обществен орган или обществена структура, ако такава оценка вече не е направена в контекста на приемането на националния закон, на чието основание общественият орган или обществената структура изпълнява своите задачи и който урежда въпросната особена операция или набор от операции по обработване на данни."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatvédelmi hatásvizsgálatot hatóságnak vagy állami szervnek kell elvégeznie, amennyiben ilyen hatásvizsgálatra még nem került sor azon nemzeti jogszabály elfogadásával összefüggésben, amelyen a hatóság vagy állami szerv feladatainak elvégzése alapul, és amely szabályozza a szóban forgó sajátos feldolgozási műveletet vagy műveleteket."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-valutazzjonijiet tal-impatt tal-protezzjoni tad-dejta għandhom jitwettqu minn awtorità pubblika jew korp pubbliku jekk din il-valutazzjoni ma tkunx diġà ġiet ippreżentata fil-kuntest tal-adozzjoni tal-liġi nazzjonali li l-eżekuzzjoni tal-kompiti tal-awtorità pubblika jew tal-entità pubblika hija bbażata fuqhom u li tirregola l-operazzjoni ta’ pproċessar speċifiku jew sett ta’ operazzjonijiet in kwistjoni."
+		},
+		{
+			"lang": "lv",
+			"text": "Datu aizsardzības ietekmes novērtējumus būtu jāveic valsts iestādei vai valsts struktūrai, ja šāds novērtējums jau nav veikts, pieņemot likumu, uz kuru pamatojas valsts iestādes vai struktūras darbs un kas regulē attiecīgo konkrēto apstrādes darbību vai apstrādes darbību kopumu."
+		},
+		{
+			"lang": "ro",
+			"text": "Evaluările impactului asupra protecției datelor ar trebui efectuate de către o autoritate publică sau un organism public în cazul în care o astfel de evaluare nu a fost deja realizată în contextul adoptării legislației naționale pe care se bazează îndeplinirea sarcinilor autorității publice sau ale organismului public și care reglementează anumite operațiuni sau serii de operațiuni de prelucrare în cauză."
+		},
+		{
+			"lang": "sk",
+			"text": "Posúdenie vplyvu na ochranu údajov by mal vykonávať verejný orgán alebo verejný subjekt, ak takéto posúdenie nebolo vykonané už v súvislosti s prijímaním vnútroštátneho zákona, na ktorom je založené vykonávanie úloh verejného orgánu alebo verejného subjektu a ktorý reguluje osobitnú operáciu spracovania alebo súbor takýchto operácií."
+		},
+		{
+			"lang": "sl",
+			"text": "Ocene učinka o varstvu podatkov mora izvajati javni organ, če taka ocena še ni bila izvedena v okviru sprejetja nacionalne zakonodaje, na kateri temelji opravljanje nalog javnega organa in ki ureja zadevne posebne postopke obdelave ali nize postopkov."
+		},
+		{
+			"lang": "fi",
+			"text": "Viranomaisten tai julkishallinnon elinten olisi tehtävä tietosuojaa koskeva vaikutustenarviointi, ellei sellaista ole jo tehty, kun hyväksytään kansallista lainsäädäntöä, johon kyseisen viranomaisen tai julkishallinnon elimen tehtävien suorittaminen perustuu ja joka säätelee siihen liittyviä käsittelytoimia tai käsittelytoimien sarjoja."
+		},
+		{
+			"lang": "pl",
+			"text": "Ocenę skutków w zakresie ochrony danych powinien przeprowadzić organ publiczny lub podmiot publiczny, o ile takiej oceny nie dokonano do tej pory w kontekście przyjęcia przepisów prawa krajowego, na których opiera się wykonanie zadań organu publicznego lub podmiotu publicznego i które regulują szczególną operację przetwarzania lub zestaw omawianych operacji."
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų apsaugos poveikio įvertinimą turėtų atlikti valdžios institucija arba įstaiga, jei toks įvertinimas dar nebuvo atliktas priimant nacionalinį įstatymą, kurio pagrindu valdžios institucija ar įstaiga atlieka savo funkcijas ir kuriuo reglamentuojama konkreti duomenų tvarkymo operacija ar jų seka;"
+		},
+		{
+			"lang": "nl",
+			"text": "Privacyeffectbeoordelingen dienen te worden verricht door een overheidsinstantie of –lichaam, indien een dergelijke beoordeling niet al is uitgevoerd in het kader van de aanneming van de nationale wet waarop de vervulling van de taken van de overheidsinstantie of het overheidslichaam is gebaseerd en waarin de specifieke verwerking of reeks verwerkingen wordt geregeld."
+		},
+		{
+			"lang": "sv",
+			"text": "Konsekvensbedömningar avseende uppgiftsskydd bör göras av en myndighet eller ett offentligt organ om en sådan bedömning inte redan har gjorts i samband med antagandet av den nationella lagstiftning som utförandet av myndighetens eller det offentliga organets arbetsuppgifter bygger på, och som reglerar den aktuella specifika behandlingsåtgärden eller serien av åtgärder."
+		}
+	],
+	"children": [],
+	"title": "Recital 73"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "a6p4",
+	"type": "paragraph",
+	"literal": "4",
+	"parent": "a6",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Where the purpose of further processing is not compatible with the one for which the personal data have been collected, the processing must have a legal basis at least in one of the grounds referred to in points (a) to (e) of paragraph 1. This shall in particular apply to any change of terms and general conditions of a contract."
+		},
+		{
+			"lang": "de",
+			"text": "Ist der Zweck der Weiterverarbeitung mit dem Zweck, für den die personenbezogenen Daten erhoben wurden, nicht vereinbar, muss auf die Verarbeitung mindestens einer der in Absatz 1 Buchstaben a bis e genannten Gründe zutreffen. Dies gilt insbesondere bei Änderungen von Geschäfts- und allgemeinen Vertragsbedingungen."
+		},
+		{
+			"lang": "fr",
+			"text": "Lorsque la finalité du traitement ultérieur n'est pas compatible avec celle pour laquelle les données à caractère personnel ont été collectées le traitement doit trouver sa base juridique au moins dans l'un des motifs mentionnés au paragraphe 1, points a) à e). Ceci s'applique en particulier à toute modification des clauses et des conditions générales d'un contrat."
+		},
+		{
+			"lang": "es",
+			"text": "Cuando la finalidad del tratamiento posterior no sea compatible con aquella para la que se recogieron los datos personales, el tratamiento deberá tener base jurídica al menos en uno de los fundamentos mencionados en el apartado 1, letras a) a e). Esto se aplicará en especial a cualquier cambio que se introduzca en las condiciones generales de un contrato."
+		},
+		{
+			"lang": "pt",
+			"text": "Sempre que a finalidade do tratamento ulterior não for compatível com aquela para a qual os dados pessoais foram recolhidos, o tratamento deve ter como fundamento jurídico pelo menos um dos motivos referidos no n.º 1, alíneas a) a e). Tal é aplicável, em especial, a qualquer alteração das cláusulas e condições gerais de um contrato."
+		},
+		{
+			"lang": "it",
+			"text": "Se lo scopo dell’ulteriore trattamento non è compatibile con quello per il quale i dati personali sono stati raccolti, il trattamento deve avere come base giuridica almeno uno dei motivi di cui al paragrafo 1, lettere da a) ad e). Ciò si applica in particolare ad eventuali cambiamenti dei termini e delle condizioni generali del contratto."
+		},
+		{
+			"lang": "ga",
+			"text": "I gcás nach bhfuil an chríoch ar chuici a dhéanfar tuilleadh próiseála ag luí leis an gcríoch sin ar bailíodh na sonraí pearsanta chuici, ní mór bunús dlí a bheith ag an bpróiseáil bunaithe ar cheann de na forais dá dtagraítear i bpointí (a) go (e) de mhír 1 ar a laghad. Beidh feidhm aige sin go háirithe maidir le haon athrú ar théarmaí agus ar choinníollacha ginearálta conartha."
+		},
+		{
+			"lang": "cs",
+			"text": "Pokud účel dalšího zpracování není slučitelný s účelem, pro který byly osobní údaje shromážděny, musí být právním základem zpracování nejméně jeden z důvodů uvedený v odst. 1 písm. a) až e). Platí to zejména pro všechny změny specifických a obecných smluvních podmínek."
+		},
+		{
+			"lang": "da",
+			"text": "Hvis formålet med yderligere behandling ikke er foreneligt med det formål, hvortil personoplysningerne er indsamlet, skal behandlingen have sit retsgrundlag i mindst én af de grunde, der er anført i stk. 1, litra a)-e). Dette gælder navnlig for ændring af kontraktlige vilkår og betingelser."
+		},
+		{
+			"lang": "et",
+			"text": "Kui isikuandmete edasise töötlemise eesmärk erineb nende kogumise algsest eesmärgist, peab töötlemine põhinema vähemalt ühel lõike 1 punktides a–e osutatud õiguslikul alusel. See kehtib eelkõige lepingu- ja üldtingimuste muutmise suhtes."
+		},
+		{
+			"lang": "el",
+			"text": "Εάν ο σκοπός της περαιτέρω επεξεργασίας δεν είναι συμβατός με εκείνον για τον οποίο συλλέχθηκαν τα δεδομένα προσωπικού χαρακτήρα, η επεξεργασία πρέπει να βασίζεται τουλάχιστον σε έναν από τους λόγους που αναφέρονται στην παράγραφο 1 στοιχεία α) έως ε). Αυτό ισχύει ειδικότερα σε οποιαδήποτε αλλαγή όρων και γενικών προϋποθέσεων μιας σύμβασης."
+		},
+		{
+			"lang": "bg",
+			"text": "Когато целта на допълнителното обработване не е съвместима с тази, за която са били събрани личните данни, за обработването трябва да има поне едно от правните основания, посочени в параграф 1, букви а)―д). Това се отнася по-специално за всяка промяна на клаузите и общите условия на договор."
+		},
+		{
+			"lang": "hu",
+			"text": "Amennyiben a további feldolgozás célja nem egyeztethető össze a személyes adatok gyűjtésének céljával, a feldolgozás jogalapjának mindenképpen az (1) bekezdés a)‑e) pontja valamelyikének kell lennie. Ez különösen az általános szerződési feltételek módosítására alkalmazandó."
+		},
+		{
+			"lang": "mt",
+			"text": "Fejn l-għan tal-ipproċessar ulterjuri mhuwiex kompatibbli ma’ dak li għalih inġabret id-dejta personali, l-ipproċessar għandu jkollu bażi legali tal-inqas f’waħda mir-raġunijiet imsemmija fil-punti (a) sa (e) tal-paragrafu 1. Dan għandu japplika b’mod speċjali għal kwalunkwe bidla fit-termini u l-kundizzjonijiet ġenerali ta’ kuntratt."
+		},
+		{
+			"lang": "lv",
+			"text": "Ja turpmākas apstrādes nolūks nav savienojams ar to, kuram personas dati ir savākti, apstrāde likumīgi jāpamato ar vismaz vienu no 1. punkta a) līdz e) apakšpunktā minētajiem pamatiem. Tas jo īpaši attiecas uz jebkurām līguma noteikumu un vispārīgo nosacījumu izmaiņām."
+		},
+		{
+			"lang": "ro",
+			"text": "În cazul în care scopul prelucrării ulterioare nu este compatibil cu scopul pentru care au fost colectate datele cu caracter personal, prelucrarea trebuie să se bazeze pe un temei juridic care presupune cel puțin unul din considerentele menționate la alineatul (1) literele (a) - (e). Acest lucru se aplică în special oricărei schimbări a termenilor și condițiilor generale ale unui contract."
+		},
+		{
+			"lang": "sk",
+			"text": "V prípade, že ďalšie spracovanie nie je zlučiteľné s cieľom, na ktorý sa osobné údaje zhromaždili, spracovanie musí mať právny základ spočívajúci prinajmenšom v jednom z dôvodov uvedených v odseku 1 písm. a) až e). Týka sa to najmä akýchkoľvek zmien osobitných a všeobecných podmienok zmluvy."
+		},
+		{
+			"lang": "sl",
+			"text": "Če namen nadaljnje obdelave ni skladen z namenom, za katerega so bili osebni podatki zbrani, mora imeti obdelava pravno podlago v vsaj enem od razlogov iz točk (a) do (e) odstavka 1. To velja zlasti za vsako spremembo splošnih pogodbenih pogojev."
+		},
+		{
+			"lang": "fi",
+			"text": "Jos jatkokäsittelyn tarkoitus on ristiriidassa sen tarkoituksen kanssa, jota varten henkilötiedot on kerätty, käsittelyn oikeusperustana on oltava vähintään yksi 1 kohdan a–e alakohdassa tarkoitettu peruste. Tätä sovelletaan erityisesti sopimusmääräysten ja yleisten sopimusehtojen muuttamisen yhteydessä."
+		},
+		{
+			"lang": "pl",
+			"text": "Jeśli cel dalszego przetwarzania nie jest zgodny z celem, dla którego zebrano dane osobowe, przetwarzanie musi opierać się na co najmniej jednej z podstaw prawnych przewidzianych w ust. 1 lit. a)-e). Ma to w szczególności zastosowanie do każdej zmiany ogólnych warunków umowy."
+		},
+		{
+			"lang": "lt",
+			"text": "Kai tolesnio duomenų tvarkymo tikslas neatitinka tikslo, kuriuo buvo rinkti asmens duomenys, duomenų tvarkymas turi būti grindžiamas bent vienu iš 1 dalies a–e punktuose nurodytų teisinių pagrindų. Tai ypač taikytina bet kokiems sutarties nuostatų ir bendrųjų sutarties sudarymo sąlygų pakeitimams."
+		},
+		{
+			"lang": "nl",
+			"text": "Wanneer het doel van verdere verwerking niet verenigbaar is met het doel waarvoor de persoonsgegevens zijn verzameld, moet de verwerking minstens in een van de in lid 1, onder a) tot en met e), genoemde gronden een rechtsgrondslag hebben. Dit is met name van toepassing op iedere wijziging van de clausules en algemene voorwaarden van een overeenkomst."
+		},
+		{
+			"lang": "sv",
+			"text": "När ändamålet med ytterligare behandling inte är förenligt med det ändamål för vilket personuppgifterna har samlats in, måste behandlingen ha en rättslig grund i minst en av de grunder som anges i punkt 1 a–e. Detta ska särskilt gälla eventuella ändringar av förutsättningarna och de allmänna villkoren för ett avtal."
+		}
+	],
+	"children": [],
+	"title": "Article 6 – Paragraph 4"
+}

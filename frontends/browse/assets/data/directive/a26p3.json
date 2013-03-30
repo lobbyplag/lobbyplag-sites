@@ -1,0 +1,102 @@
+{
+	"id": "a26p3",
+	"type": "paragraph",
+	"literal": "3",
+	"parent": "a26",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller and the processor shall document in writing the controller's instructions and the processor's obligations referred to in paragraph 2."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche und der Auftragsverarbeiter dokumentieren die Anweisungen des für die Verarbeitung Verantwortlichen und die in Absatz 2 aufgeführten Pflichten des Auftragsverarbeiters."
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement et le sous‑traitant conservent une trace documentaire des instructions données par le responsable du traitement et des obligations du sous‑traitant énoncées au paragraphe 2."
+		},
+		{
+			"lang": "es",
+			"text": "El responsable y el encargado del tratamiento documentarán por escrito las instrucciones del responsable y las obligaciones del encargado contempladas en el apartado 2."
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento e o subcontratante conservam um documento escrito com as instruções do responsável pelo tratamento e as obrigações do subcontratante referidas no n.º 2."
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento e l’incaricato del trattamento documentano per iscritto le istruzioni del responsabile del trattamento e gli obblighi dell’incaricato del trattamento di cui al paragrafo 2."
+		},
+		{
+			"lang": "ga",
+			"text": "Déanfaidh an rialaitheoir agus an próiseálaí treoracha an rialaitheora agus oibleagáidí an phróiseálaí dá dtagraítear i mír 2 a dhoiciméadú i scríbhinn."
+		},
+		{
+			"lang": "cs",
+			"text": "Správce a zpracovatel písemně zdokumentují správcovy pokyny a zpracovatelovy povinnosti uvedené v odstavci 2."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige og registerføreren dokumenterer skriftligt den registeransvarliges instrukser og registerførerens forpligtelser, der er omhandlet stk. 2."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja ja volitatud töötleja kehtestavad kirjalikult vastutava töötleja juhised ja volitatud töötleja lõikes 2 osutatud kohustused."
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας και ο εκτελών την επεξεργασία τεκμηριώνουν εγγράφως τις εντολές του υπευθύνου επεξεργασίας και τις υποχρεώσεις του εκτελούντος την επεξεργασία οι οποίες αναφέρονται στην παράγραφο 2."
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът и обработващият лични данни документират в писмена форма указанията на администратора и задълженията на обработващия лични данни, посочени в параграф 2."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő és az adatfeldolgozó írásba foglalja az adatkezelő utasításait és az adatfeldolgozó (2) bekezdés szerinti kötelezettségeit."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur u l-proċessur għandhom jiddokumentaw bil-miktub l-istruzzjonijiet tal- kontrollur u l-obbligi tal-proċessur imsemmija fil-paragrafu 2."
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinis un apstrādātājs rakstveidā dokumentē pārziņa norādījumus un apstrādātāja pienākumus, kas minēti 2. punktā."
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul și persoana împuternicită de către operator păstrează o dovadă scrisă a instrucțiunilor prezentate de operator și a obligațiilor care îi revin persoanei împuternicite de către operator menționate la alineatul (2)."
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ a sprostredkovateľ dokumentujú pokyny prevádzkovateľa a povinnosti sprostredkovateľa uvedené v odseku 2 písomne."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec in obdelovalec pisno dokumentirata navodila upravljavca in obveznosti obdelovalca iz odstavka 2."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän ja henkilötietojen käsittelijän on tallennettava kirjallisesti 2 artiklassa tarkoitetut rekisterinpitäjän antamat ohjeet ja rekisterinpitäjän velvollisuudet."
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator i podmiot przetwarzający sporządzają pisemną dokumentację zaleceń administratora i obowiązków podmiotu przetwarzającego, o których mowa w ust. 2."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas ir duomenų tvarkytojas dokumentuoja duomenų valdytojo nurodymus ir 2 dalyje nurodytas duomenų tvarkytojo pareigas."
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke en de verwerker leggen de instructies van de voor de verwerking verantwoordelijke en de verplichtingen van de verwerker die in lid 2 zijn genoemd, vast in een document."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige och registerföraren ska skriftligen dokumentera den registeransvariges instruktioner och registerförarens skyldigheter enligt punkt 2."
+		}
+	],
+	"children": [],
+	"title": "Article 26 – Paragraph 3"
+}

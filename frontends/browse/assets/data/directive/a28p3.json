@@ -1,0 +1,102 @@
+{
+	"id": "a28p3",
+	"type": "paragraph",
+	"literal": "3",
+	"parent": "a28",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller and the processor and, if any, the controller's representative, shall make the documentation available, on request, to the supervisory authority."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche, der Auftragsverarbeiter sowie der etwaige Vertreter des für die Verarbeitung Verantwortlichen stellen die Dokumentation der Aufsichtsbehörde auf Anforderung zur Verfügung."
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement et le sous‑traitant ainsi que, le cas échéant, le représentant du responsable du traitement mettent la documentation à la disposition de l'autorité de contrôle, à la demande de celle‑ci."
+		},
+		{
+			"lang": "es",
+			"text": "El responsable y el encargado del tratamiento, así como el representante del responsable, si lo hubiera, pondrán la documentación a disposición de la autoridad de control, a solicitud de esta."
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento e o subcontratante, bem como, caso exista, o representante do responsável pelo tratamento, disponibilizam a documentação existente à autoridade de controlo, quando por esta solicitado."
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento, l’incaricato del trattamento e l’eventuale rappresentante del responsabile del trattamento mettono la documentazione a disposizione dell’autorità di controllo, su richiesta."
+		},
+		{
+			"lang": "ga",
+			"text": "Cuirfidh an rialaitheoir agus an próiseálaí agus, más ann dó, ionadaí an rialaitheora, doiciméadacht ar fáil don údarás maoirseachta, má iarrtar sin air."
+		},
+		{
+			"lang": "cs",
+			"text": "Správce a zpracovatel, a v patřičném případě zástupce správce, poskytnou tuto dokumentaci na požádání orgánu dozoru."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige og registerføreren samt den registeransvarliges eventuelle repræsentant stiller efter anmodning dokumentationen til rådighed for tilsynsmyndigheden."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja, volitatud töötleja ja vajaduse korral vastutava töötleja esindaja esitavad dokumendid taotluse alusel järelevalveasutusele."
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας και ο εκτελών την επεξεργασία και, εφόσον συντρέχει περίπτωση, ο εκπρόσωπος του υπευθύνου επεξεργασίας, θέτουν την τεκμηρίωση στη διάθεση της αρχής ελέγχου, κατόπιν αιτήματός της."
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът, обработващият лични данни и представителят на администратора, ако има такъв, предоставят при поискване тази документация на надзорния орган."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő és az adatfeldolgozó, valamint – ha van ilyen – az adatkezelő képviselője kérelemre a felügyelő hatóság rendelkezésére bocsátja a dokumentációt."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur u l-proċessur u, jekk ikun hemm, ir-rappreżentant tal-kontrollur, għandhom jagħmlu d-dokumentazzjoni disponibbli, fuq talba, għall-awtorità ta’ superviżjoni."
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinis un apstrādātājs un, ja tāds ir, arī pārziņa pārstāvis dara šo dokumentāciju pieejamu uzraudzības iestādei pēc tās pieprasījuma."
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul și persoana împuternicită de către operator și, dacă este cazul, reprezentantul operatorului, pune documentația la dispoziția autorității de supraveghere, la cererea acesteia."
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ, sprostredkovateľ a prípadný zástupca prevádzkovateľa na požiadanie sprístupnia dokumentáciu dozornému orgánu."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec, obdelovalec in predstavnik upravljavca, če obstaja, nadzornemu organu na zahtevo omogočijo dostop do dokumentacije."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän ja henkilötietojen käsittelijän sekä rekisterinpitäjän mahdollisen edustajan on pyydettäessä esitettävä asiakirjat valvontaviranomaiselle."
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator i podmiot przetwarzający oraz ewentualny przedstawiciel administratora udostępniają dokumentację organowi nadzorczemu na jego wniosek."
+		},
+		{
+			"lang": "lt",
+			"text": "Priežiūros institucijos prašymu duomenų valdytojas ir duomenų tvarkytojas, taip pat duomenų valdytojo atstovas, jei toks yra, pateikia jai dokumentus."
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke en de verwerker en, in voorkomend geval, de vertegenwoordiger van de voor de verwerking verantwoordelijke, stellen de toezichthoudende autoriteit de documenten op verzoek ter beschikking."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige och registerföraren samt den registeransvariges eventuella företrädare ska på begäran göra dokumentationen tillgänglig för tillsynsmyndigheten."
+		}
+	],
+	"children": [],
+	"title": "Article 28 – Paragraph 3"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "r41",
+	"type": "recital",
+	"literal": "41",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Personal data which are, by their nature, particularly sensitive and vulnerable in relation to fundamental rights or privacy, deserve specific protection. Such data should not be processed, unless the data subject gives his explicit consent. However, derogations from this prohibition should be explicitly provided for in respect of specific needs, in particular where the processing is carried out in the course of legitimate activities by certain associations or foundations the purpose of which is to permit the exercise of fundamental freedoms."
+		},
+		{
+			"lang": "de",
+			"text": "Personenbezogene Daten, die ihrem Wesen nach besonders sensibel und anfällig für eine Verletzung von Grundrechten oder der Privatsphäre sind, bedürfen eines besonderen Schutzes. Derartige Daten dürfen nicht ohne ausdrückliche Einwilligung der betroffenen Person verarbeitet werden. Ausnahmen von diesem Verbot sollten im Bedarfsfall jedoch ausdrücklich vorgesehen werden, insbesondere wenn die Verarbeitung im Rahmen rechtmäßiger Tätigkeiten bestimmter Vereinigungen oder Stiftungen vorgenommen wird, die sich für die Ausübung von Grundfreiheiten einsetzen."
+		},
+		{
+			"lang": "fr",
+			"text": "Les données à caractère personnel qui sont, par nature, particulièrement sensibles et vulnérables du point de vue des droits fondamentaux et de la vie privée méritent une protection spécifique. Ces données ne devraient pas faire l'objet d'un traitement, à moins que la personne concernée n'y consente expressément. Toutefois, des dérogations à cette interdiction devraient être expressément prévues pour tenir compte de besoins spécifiques, en particulier lorsque le traitement a lieu dans le cadre d'activités légitimes de certaines associations ou fondations ayant pour finalité de permettre l'exercice des libertés fondamentales."
+		},
+		{
+			"lang": "es",
+			"text": "Los datos de carácter personal que, por su naturaleza, sean especialmente sensibles y vulnerables en relación con los derechos fundamentales o la intimidad merecen una protección específica. Tales datos no deben ser tratados, a menos que el interesado dé su consentimiento expreso. No obstante, se deben establecer de forma explícita excepciones a esta prohibición en relación con necesidades específicas, en particular cuando el tratamiento sea realizado en el marco de actividades legítimas por determinadas asociaciones o fundaciones cuyo objetivo sea permitir el ejercicio de las libertades fundamentales."
+		},
+		{
+			"lang": "pt",
+			"text": "Os dados pessoais que sejam, devido à sua natureza, especialmente sensíveis e vulneráveis relativamente aos direitos fundamentais ou à privacidade, merecem uma proteção específica. Esses dados não devem ser objeto de tratamento, salvo se, para o efeito, o titular dos dados der o seu consentimento expresso. No entanto, devem ser expressamente previstas derrogações a esta proibição para ter em conta necessidades específicas, designadamente quando o tratamento for efetuado no exercício de atividades legítimas de certas associações ou fundações que tenham por finalidade permitir o exercício das liberdades fundamentais."
+		},
+		{
+			"lang": "it",
+			"text": "Meritano una specifica protezione i dati personali che, per loro natura, sono particolarmente sensibili e vulnerabili sotto il profilo dei diritti fondamentali o della vita privata. Tali dati non devono essere oggetto di trattamento, salvo esplicito consenso dell’interessato. Tuttavia occorre prevedere espressamente deroghe a questo divieto nei casi di necessità specifiche, segnatamente laddove il trattamento viene eseguito nel corso di legittime attività di talune associazioni o fondazioni il cui scopo sia permettere l’esercizio delle libertà fondamentali."
+		},
+		{
+			"lang": "ga",
+			"text": "Ní mór cosaint ar leith a thabhairt do shonraí pearsanta atá fíor‑íogair agus leochaileach maidir le cearta bunúsacha nó príobháideacht. Níor cheart sonraí den sórt sin a phróiseáil, ach amháin má thoilíonn an duine is ábhar do na sonraí leis sin go sainráite. Ba cheart foráil shainráite a dhéanamh maidir le maoluithe ar an gcosc sin mar fhreagairt ar shainriachtanais, áfach, go háirithe i gcás ina ndéanann comhlachais nó fondúireachtaí áirithe próiseáil agus iad i mbun gníomhaíochtaí dlisteanacha chun feidhmiú saoirsí bunúsacha a cheadú."
+		},
+		{
+			"lang": "cs",
+			"text": "Osobní údaje, které jsou ve své podstatě obzvláště citlivé a ohrožené z hlediska základních práv nebo soukromí, si zaslouží zvláštní ochranu. Tyto údaje by neměly být zpracovávány bez výslovného souhlasu subjektu údajů. Avšak měly by být jednoznačně stanoveny odchylky od tohoto zákazu, aby se vyhovělo zvláštním potřebám, zejména pokud je zpracování těchto údajů prováděno v průběhu legitimních činností některých sdružení či nadací, jejichž cílem je umožnit výkon základních svobod."
+		},
+		{
+			"lang": "da",
+			"text": "Personoplysninger, der i kraft af deres karakter er særligt følsomme i forbindelse med grundlæggende rettigheder eller beskyttelse af privatlivets fred, bør nyde særlig beskyttelse. Sådanne oplysninger bør ikke behandles, medmindre den registrerede giver sit udtrykkelige samtykke. Der bør dog udtrykkeligt gives mulighed for undtagelser fra dette forbud for at imødekomme visse behov, navnlig når behandlingen udføres i forbindelse med visse sammenslutningers eller stiftelsers legitime aktiviteter, hvis formål er at sikre udøvelsen af grundlæggende frihedsrettigheder."
+		},
+		{
+			"lang": "et",
+			"text": "Oma loomult põhiõiguste ja eraelu puutumatuse seisukohast eriti tundlikud ja haavatavad isikuandmed vajavad erilist kaitset. Neid andmeid ei tohiks töödelda, välja arvatud juhul, kui andmesubjekt annab oma selgesõnalise nõusoleku. Erivajaduste puhul tuleks aga selgesõnaliselt sätestada käesolevast keelust tehtavad erandid, eelkõige juhul, kui töötlemine toimub teatavate ühenduste või sihtasutuste seadusliku tegevuse käigus, mille eesmärk on võimaldada põhivabaduste kasutamist."
+		},
+		{
+			"lang": "el",
+			"text": "Τα δεδομένα προσωπικού χαρακτήρα τα οποία είναι εκ φύσεως ιδιαίτερα ευαίσθητα σε σχέση με τα θεμελιώδη δικαιώματα ή με την ιδιωτική ζωή χρήζουν ειδικής προστασίας. Τέτοια δικαιώματα δεν πρέπει να υποβάλλονται σε επεξεργασία, παρά μόνον με τη ρητή συγκατάθεση του προσώπου το οποίο αφορούν. Ωστόσο, πρέπει να προβλέπονται ρητώς παρεκκλίσεις από τη συγκεκριμένη απαγόρευση σε σχέση με ειδικές ανάγκες, ιδίως όταν η επεξεργασία διενεργείται στο πλαίσιο θεμιτών δραστηριοτήτων από ορισμένες οργανώσεις ή ιδρύματα σκοπός των οποίων είναι να επιτρέπουν την άσκηση θεμελιωδών ελευθεριών."
+		},
+		{
+			"lang": "bg",
+			"text": "На личните данни, които по своето естество са чувствителни и уязвими по отношение на основните права или правото на неприкосновеност на личния живот, се полага специална защита. Такива данни не трябва да се обработват, освен ако субектът на данните не даде изричното си съгласие за това. Дерогации от тази забрана следва обаче да бъдат изрично предвидени по отношение на специфични нужди, по-специално когато обработването се извършва в хода на законните дейности на някои сдружения или фондации, чиято цел е да се позволи упражняването на основните свободи."
+		},
+		{
+			"lang": "hu",
+			"text": "Az alapvető jogokkal és a magánélettel kapcsolatos, jellegüknél fogva különösen érzékeny és visszaélésre alkalmas személyes adatok különleges védelmet érdemelnek. Az ilyen adatok feldolgozása csak az érintett kifejezett hozzájárulásával végezhető. Az ilyen tilalomtól való eltérésről azonban különleges esetekre tekintettel kifejezetten rendelkezni kell, különösen amennyiben az adatfeldolgozást olyan egyesületek, illetve alapítványok végzik, amelyek célja – jogszerű tevékenységük keretében – az alapvető szabadságok gyakorlásának lehetővé tétele."
+		},
+		{
+			"lang": "mt",
+			"text": "Dejta personali li, min-natura tagħha, tkun partikolarment sensittiva u vulnerabbli fir-rigward ta’ drittijiet fundamentali jew privatezza, tixirqilha protezzjoni speċifika. Din id-dejta ma għandhiex tiġi pproċessata, sakemm is-suġġett tad-dejta ma jagħtix il-kunsens espliċitu tiegħu. Madankollu, għandhom jiġu pprovduti derogi minn din il-projbizzjoni b’mod espliċitu fir-rigward ta’ ħtiġijiet speċifiċi, b’mod partikolari fejn l-ipproċessar isir waqt attivitajiet leġittimi minn ċerti assoċjazzjonijiet jew fondazzjonijiet li l-għan tagħhom huwa li jippermettu l-eżerċizzju ta’ libertajiet fundamentali."
+		},
+		{
+			"lang": "lv",
+			"text": "Personas dati, kas pēc savas būtības ir īpaši sensitīvi un neaizsargāti saistībā ar pamattiesībām vai privātumu, ir īpaši jāaizsargā. Šādus datus nebūtu jāapstrādā, izņemot, ja datu subjekts tam nepārprotami piekrīt. Tomēr attiecībā uz īpašām vajadzībām būtu skaidri jāparedz atkāpes no šā aizlieguma, jo īpaši, ja apstrādi veic konkrētas asociācijas vai nodibinājumi savu likumīgo darbību ietvaros, kuru nolūks ir atļaut izmantot pamatbrīvības."
+		},
+		{
+			"lang": "ro",
+			"text": "Datele cu caracter personal care sunt, prin natura lor, deosebit de sensibile și de vulnerabile în ceea ce privește drepturile fundamentale sau viața privată, necesită o protecție specifică. Astfel de date nu ar trebui să fie prelucrate, cu excepția cazului în care persoana vizată își dă consimțământul explicit. Cu toate acestea, derogări de la interdicția respectivă ar trebui prevăzute în mod explicit în ceea ce privește nevoile specifice, în special atunci când prelucrarea este efectuată în cadrul activităților legitime de către anumite asociații sau fundații al căror scop este de a permite exercitarea libertăților fundamentale."
+		},
+		{
+			"lang": "sk",
+			"text": "Osobitnú ochranu je potrebné poskytnúť pri osobných údajoch, ktoré sú svojou povahou zvlášť citlivé a exponované v súvislosti so základnými právami alebo právom na súkromie. Takéto údaje by sa nemali spracúvať, pokým k tomu dotknutá osoba nedá výslovne súhlas. Mali by sa však stanoviť výslovné výnimky z tohto zákazu v súvislosti s osobitnými potrebami, najmä ak sa spracúvanie vykonáva v rámci legitímnych činností určitými združeniami alebo nadáciami, ktoré sa zasadzujú o základné slobody."
+		},
+		{
+			"lang": "sl",
+			"text": "Osebne podatke, ki so po svoji naravi še zlasti občutljivi in ranljivi glede temeljnih pravic ali zasebnosti, je treba še posebej varovati. Taki podatki se brez izrecne privolitve posameznika, na katerega se nanašajo osebni podatki, ne smejo obdelovati. Vendar morajo biti odstopanja od te prepovedi izrecno predvidena glede posebnih potreb, zlasti kadar se obdelava izvaja v okviru zakonitih dejavnosti nekaterih združenj ali ustanov, katerih namen je omogočati uveljavljanje temeljnih svoboščin."
+		},
+		{
+			"lang": "fi",
+			"text": "Henkilötietoja, jotka ovat perusoikeuksien tai yksityisyyden kannalta erityisen arkaluonteisia ja haavoittuvia, on suojeltava erityisen tarkasti. Tällaisia tietoja ei pitäisi käsitellä ilman rekisteröidyn nimenomaista suostumusta. Olisi kuitenkin nimenomaisesti säädettävä tätä kieltoa koskevista poikkeuksista erityisten tarpeiden vaatiessa etenkin, jos kyseisten tietojen käsittely suoritetaan tiettyjen yhdistysten tai säätiöiden sellaisen oikeutetun toiminnan yhteydessä, jonka tarkoituksena on mahdollistaa perusvapauksien toteutuminen."
+		},
+		{
+			"lang": "pl",
+			"text": "Dane osobowe, które z racji swego charakteru są szczególnie wrażliwe i narażone na ryzyko w kontekście podstawowych praw lub prywatność, zasługują na szczególną ochronę. Dane te nie powinny być przetwarzane, chyba że podmiot danych wyraźnie wyrazi na to zgodę. Należy jednak wyraźnie wskazać odstępstwa od tego zakazu ze względu na szczególne potrzeby, zwłaszcza wtedy gdy przetwarzanie danych odbywa się w ramach zgodnych z prawem działań niektórych zrzeszeń lub fundacji, których celem jest umożliwienie realizacji podstawowych wolności."
+		},
+		{
+			"lang": "lt",
+			"text": "reikia užtikrinti ypatingą asmens duomenų, visų pirma tų, kurie dėl savo pobūdžio yra neskelbtini ir dėl kurių gali būti pažeistos pagrindinės teisės arba privatumas, apsaugą; tokie duomenys neturėtų būti tvarkomi, nebent duomenų subjektas su tuo aiškiai sutiko. Tačiau būtinųjų poreikių atveju reikėtų aiškiai nustatyti šio draudimo išimtis, visų pirma, kai vykdydamos teisėtą veiklą duomenis tvarko tam tikros asociacijos ar fondai, kovojantys už pagrindinių laisvių įgyvendinimą;"
+		},
+		{
+			"lang": "nl",
+			"text": "Er dient ook van het verbod op de verwerking van categorieën gevoelige gegevens te kunnen worden afgeweken, indien de wet hierin voorziet en er passende waarborgen worden geboden ter bescherming van persoonsgegevens en andere grondrechten, op grond van een zwaarwegend algemeen belang en in het bijzonder voor gezondheidsdoeleinden, zoals volksgezondheid en sociale bescherming en het beheer van gezondheidsdiensten, met name om de kwaliteit en kostenefficiëntie te waarborgen van de procedures voor de afwikkeling van aanvragen voor uitkeringen en diensten in het kader van de ziektekostenverzekering of voor historisch, statistisch en wetenschappelijk onderzoek."
+		},
+		{
+			"lang": "sv",
+			"text": "Personuppgifter som till sin karaktär är särskilt känsliga och ömtåliga i förhållande till de grundläggande rättigheterna eller integriteten, förtjänar särskilt skydd. Sådana uppgifter bör inte behandlas, såvida inte den registrerade lämnar sitt uttryckliga samtycke. Undantag från detta förbud bör dock uttryckligen föreskrivas för att tillgodose specifika behov, främst när behandling inom ramen för legitima verksamheter utförs av vissa sammanslutningar eller stiftelser vars ändamål är att göra det möjlig att utöva grundläggande friheter."
+		}
+	],
+	"children": [],
+	"title": "Recital 41"
+}

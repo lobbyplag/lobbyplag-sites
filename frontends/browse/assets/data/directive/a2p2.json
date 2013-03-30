@@ -1,0 +1,108 @@
+{
+	"id": "a2p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "This Regulation does not apply to the processing of personal data:"
+		},
+		{
+			"lang": "de",
+			"text": "Diese Verordnung findet keine Anwendung auf die Verarbeitung personenbezogener Daten, die vorgenommen wird"
+		},
+		{
+			"lang": "fr",
+			"text": "Le présent règlement ne s’applique pas au traitement de données à caractère personnel:"
+		},
+		{
+			"lang": "es",
+			"text": "El presente Reglamento no se aplica al tratamiento de datos personales:"
+		},
+		{
+			"lang": "pt",
+			"text": "O presente regulamento não se aplica ao tratamento de dados pessoais:"
+		},
+		{
+			"lang": "it",
+			"text": "Le disposizioni del presente regolamento non si applicano ai trattamenti di dati personali:"
+		},
+		{
+			"lang": "ga",
+			"text": "Níl feidhm ag an Rialachán seo maidir le sonraí pearsanta a phróiseáil sna cásanna seo a leanas:"
+		},
+		{
+			"lang": "cs",
+			"text": "Toto nařízení se nevztahuje na zpracování osobních údajů:"
+		},
+		{
+			"lang": "da",
+			"text": "Denne forordning gælder ikke for behandling af personoplysninger:"
+		},
+		{
+			"lang": "et",
+			"text": "Käesolevat määrust ei kohaldata, kui:"
+		},
+		{
+			"lang": "el",
+			"text": "Ο παρών κανονισμός δεν εφαρμόζεται στην επεξεργασία δεδομένων προσωπικού χαρακτήρα:"
+		},
+		{
+			"lang": "bg",
+			"text": "Настоящият регламент не се прилага за обработването на лични данни:"
+		},
+		{
+			"lang": "hu",
+			"text": "E rendelet nem alkalmazandó az alábbi személyesadat-feldolgozásokra:"
+		},
+		{
+			"lang": "mt",
+			"text": "Dan ir-Regolament ma japplikax għall-ipproċessar ta’ dejta personali:"
+		},
+		{
+			"lang": "lv",
+			"text": "Šo regulu nepiemēro personas datu apstrādei:"
+		},
+		{
+			"lang": "ro",
+			"text": "Prezentul regulament nu se aplică prelucrării datelor cu caracter personal:"
+		},
+		{
+			"lang": "sk",
+			"text": "Toto nariadenie sa nevzťahuje na spracovanie osobných údajov:"
+		},
+		{
+			"lang": "sl",
+			"text": "Ta uredba se ne uporablja za obdelavo osebnih podatkov:"
+		},
+		{
+			"lang": "fi",
+			"text": "Tätä asetusta ei sovelleta henkilötietojen käsittelyyn,"
+		},
+		{
+			"lang": "pl",
+			"text": "Niniejsze rozporządzenie nie ma zastosowania do przetwarzania danych osobowych:"
+		},
+		{
+			"lang": "lt",
+			"text": "Šis reglamentas netaikomas asmens duomenų tvarkymui, kai:"
+		},
+		{
+			"lang": "nl",
+			"text": "Deze verordening is niet van toepassing op de verwerking van persoonsgegevens:"
+		},
+		{
+			"lang": "sv",
+			"text": "Förordningen ska inte tillämpas på behandling av personuppgifter"
+		}
+	],
+	"children": [
+		"a2p2i1",
+		"a2p2i2",
+		"a2p2i3",
+		"a2p2i4",
+		"a2p2i5"
+	],
+	"title": "Article 2 – Paragraph 2"
+}

@@ -1,0 +1,112 @@
+{
+	"id": "c7s3",
+	"type": "section",
+	"literal": "3",
+	"parent": "c7",
+	"text": [
+		{
+			"lang": "en",
+			"text": "European Data Protection Board"
+		},
+		{
+			"lang": "de",
+			"text": "EUROPÄISCHER DATENSCHUTZAUSSCHUSS"
+		},
+		{
+			"lang": "fr",
+			"text": "Comité européen de la protection des données"
+		},
+		{
+			"lang": "es",
+			"text": "CONSEJO EUROPEO DE PROTECCIÓN DE DATOS"
+		},
+		{
+			"lang": "pt",
+			"text": "Comité Europeu para a Proteção de Dados"
+		},
+		{
+			"lang": "it",
+			"text": "Comitato europeo per la protezione dei dati"
+		},
+		{
+			"lang": "ga",
+			"text": "Bord Eorpach um Chosaint Sonraí"
+		},
+		{
+			"lang": "cs",
+			"text": "EVROPSKÁ RADA PRO OCHRANU ÚDAJŮ"
+		},
+		{
+			"lang": "da",
+			"text": "DET EUROPÆISKE DATABESKYTTELSESRÅD"
+		},
+		{
+			"lang": "et",
+			"text": "EUROOPA ANDMEKAITSENÕUKOGU"
+		},
+		{
+			"lang": "el",
+			"text": "ΕΥΡΩΠΑΪΚο συμβουλιο ΠΡΟΣΤΑΣΙΑΣ ΔΕΔΟΜΕΝΩΝ"
+		},
+		{
+			"lang": "bg",
+			"text": "Европейски комитет по защита на данните"
+		},
+		{
+			"lang": "hu",
+			"text": "az Európai Adatvédelmi testület"
+		},
+		{
+			"lang": "mt",
+			"text": "Bord Ewropew għall-Protezzjoni tad-Dejta"
+		},
+		{
+			"lang": "lv",
+			"text": "Eiropas datu aizsardzības kolēģija"
+		},
+		{
+			"lang": "ro",
+			"text": "Comitetul european pentru protecția datelor"
+		},
+		{
+			"lang": "sk",
+			"text": "EURÓPSKY VÝBOR PRE OCHRANU ÚDAJOV"
+		},
+		{
+			"lang": "sl",
+			"text": "Evropski odbor za varstvo podatkov"
+		},
+		{
+			"lang": "fi",
+			"text": "Euroopan tietosuojaneuvosto"
+		},
+		{
+			"lang": "pl",
+			"text": "EUROPEJSKA RADA OCHRONY DANYCH"
+		},
+		{
+			"lang": "lt",
+			"text": "EUROPOS DUOMENŲ APSAUGOS VALDYBA"
+		},
+		{
+			"lang": "nl",
+			"text": "EUROPEES COMITÉ VOOR GEGEVENSBESCHERMING"
+		},
+		{
+			"lang": "sv",
+			"text": "Europeiska dataskyddsstyrelsen"
+		}
+	],
+	"children": [
+		"a64",
+		"a65",
+		"a66",
+		"a67",
+		"a68",
+		"a69",
+		"a70",
+		"a71",
+		"a72"
+	],
+	"title": "Chapter 7 – Section 3"
+}

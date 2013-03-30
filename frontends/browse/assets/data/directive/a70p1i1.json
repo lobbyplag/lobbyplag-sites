@@ -1,0 +1,102 @@
+{
+	"id": "a70p1i1",
+	"type": "point",
+	"literal": "a",
+	"parent": "a70p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "to convene the meetings of the European Data Protection Board and prepare its agenda;"
+		},
+		{
+			"lang": "de",
+			"text": "Einberufung der Sitzungen des Europäischen Datenschutzausschusses und Erstellung der Tagesordnungen;"
+		},
+		{
+			"lang": "fr",
+			"text": "de convoquer les réunions du comité européen de la protection des données et d'établir son ordre du jour;"
+		},
+		{
+			"lang": "es",
+			"text": "convocar las reuniones del Consejo Europeo de Protección de Datos y preparar su agenda;"
+		},
+		{
+			"lang": "pt",
+			"text": "Convocar as reuniões do Comité Europeu para a Proteção de Dados e preparar a respetiva ordem do dia;"
+		},
+		{
+			"lang": "it",
+			"text": "convocare le riunioni del comitato europeo per la protezione dei dati e stabilirne l’ordine del giorno;"
+		},
+		{
+			"lang": "ga",
+			"text": "cruinnithe an Bhoird Eorpaigh um Chosaint Sonraí a thionól agus an clár oibre a ullmhú;"
+		},
+		{
+			"lang": "cs",
+			"text": "svolává schůzky Evropské rady pro ochranu údajů a připravuje jejich program;"
+		},
+		{
+			"lang": "da",
+			"text": "at indkalde til møder i Det Europæiske Databeskyttelsesråd og udarbejde dagsordenen herfor"
+		},
+		{
+			"lang": "et",
+			"text": "kutsuda kokku Euroopa Andmekaitsenõukogu koosolek ja valmistada ette päevakord;"
+		},
+		{
+			"lang": "el",
+			"text": "α) να συγκαλεί τις συνεδριάσεις του Ευρωπαϊκού Συμβουλίου Προστασίας Δεδομένων και να καταρτίζει την ημερήσια διάταξή τους·"
+		},
+		{
+			"lang": "bg",
+			"text": "а) да свиква заседанията на Европейския комитет по защита на данните и да изготвя дневния ред;"
+		},
+		{
+			"lang": "hu",
+			"text": "az Európai Adatvédelmi Testület üléseinek vezetése és napirendjének előkészítése;"
+		},
+		{
+			"lang": "mt",
+			"text": "ilaqqa’ l-laqgħat tal-Bord Ewropew għall-Protezzjoni tad-Dejta u jħejji l-aġenda tiegħu;"
+		},
+		{
+			"lang": "lv",
+			"text": "sasaukt Eiropas Datu aizsardzības kolēģijas sanāksmes un sagatavot darba kārtību;"
+		},
+		{
+			"lang": "ro",
+			"text": "să convoace reuniunile Comitetului european pentru protecția datelor și să stabilească ordinea de zi;"
+		},
+		{
+			"lang": "sk",
+			"text": "zvoláva zasadnutia Európskeho výboru pre ochranu údajov a pripravuje ich program;"
+		},
+		{
+			"lang": "sl",
+			"text": "sklicevanje sestankov Evropskega odbora za varstvo podatkov in priprava dnevnega reda;"
+		},
+		{
+			"lang": "fi",
+			"text": "kutsua koolle Euroopan tietosuojaneuvoston kokoukset ja valmistella kokouksen asialista;"
+		},
+		{
+			"lang": "pl",
+			"text": "zwołuje posiedzenia Europejskiej Rady Ochrony Danych i sporządza ich porządek obrad;"
+		},
+		{
+			"lang": "lt",
+			"text": "šaukti Europos duomenų apsaugos valdybos posėdžius ir rengti jų darbotvarkę;"
+		},
+		{
+			"lang": "nl",
+			"text": "het samenroepen van de bijeenkomsten van het Europees Comité voor gegevensbescherming en het voorbereiden van de agenda daarvan;"
+		},
+		{
+			"lang": "sv",
+			"text": "sammankalla till Europeiska dataskyddsstyrelsens möten och planera dagordningen,"
+		}
+	],
+	"children": [],
+	"title": "Article 70 – Paragraph 1 – Point 1"
+}

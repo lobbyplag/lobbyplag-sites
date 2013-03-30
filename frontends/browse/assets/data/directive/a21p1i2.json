@@ -1,0 +1,102 @@
+{
+	"id": "a21p1i2",
+	"type": "point",
+	"literal": "b",
+	"parent": "a21p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the prevention, investigation, detection and prosecution of criminal offences;"
+		},
+		{
+			"lang": "de",
+			"text": "zur Verhütung, Aufdeckung, Untersuchung und Verfolgung von Straftaten"
+		},
+		{
+			"lang": "fr",
+			"text": "assurer la prévention et la détection d'infractions pénales, ainsi que les enquêtes et les poursuites en la matière;"
+		},
+		{
+			"lang": "es",
+			"text": "la prevención, la investigación, la detección y el enjuiciamiento de infracciones penales;"
+		},
+		{
+			"lang": "pt",
+			"text": "A prevenção, investigação, deteção e repressão de infrações penais;"
+		},
+		{
+			"lang": "it",
+			"text": "le attività volte a prevenire, indagare, accertare e perseguire reati;"
+		},
+		{
+			"lang": "ga",
+			"text": "chun a áirithiú go ndéantar cionta coiriúla a chosc, a imscrúdú, a bhrath nó a ionchúiseamh;"
+		},
+		{
+			"lang": "cs",
+			"text": "prevenci, vyšetřování, odhalování a stíhání trestných činů;"
+		},
+		{
+			"lang": "da",
+			"text": "forebyggelse, efterforskning, opdagelse og retsforfølgning i straffesager"
+		},
+		{
+			"lang": "et",
+			"text": "kuritegude ennetamine, uurimine, avastamine ja kuritegude eest vastutuselevõtmine;"
+		},
+		{
+			"lang": "el",
+			"text": "β) της πρόληψης, της διερεύνησης, της ανίχνευσης και της δίωξης ποινικών αδικημάτων·"
+		},
+		{
+			"lang": "bg",
+			"text": "б) предотвратяването, разследването, разкриването и наказателното преследване на престъпления;"
+		},
+		{
+			"lang": "hu",
+			"text": "bűncselekmények megelőzése, nyomozása, felderítése és büntetőeljárás lefolytatása;"
+		},
+		{
+			"lang": "mt",
+			"text": "il-prevenzjoni, l-investigazzjoni, is-sejbien u l-prosekuzzjoni ta’ reati kriminali."
+		},
+		{
+			"lang": "lv",
+			"text": "noziedzīgu nodarījumu novēršanu, izmeklēšanu, atklāšanu un saukšanu pie atbildības par tiem;"
+		},
+		{
+			"lang": "ro",
+			"text": "asigura prevenirea, cercetarea, depistarea și urmărirea în justiție a infracțiunilor;"
+		},
+		{
+			"lang": "sk",
+			"text": "predchádzanie trestným činom, ich vyšetrovanie, odhaľovanie a stíhanie;"
+		},
+		{
+			"lang": "sl",
+			"text": "za preprečevanje, preiskovanje, odkrivanje in pregon kaznivih dejanj;"
+		},
+		{
+			"lang": "fi",
+			"text": "rikosten torjuminen, tutkiminen, selvittäminen ja syytteeseenpano;"
+		},
+		{
+			"lang": "pl",
+			"text": "zapewnieniu zapobiegania przestępstwom, prowadzenia dochodzeń w ich sprawie, wykrywania ich lub ścigania;"
+		},
+		{
+			"lang": "lt",
+			"text": "nusikalstamų veikų prevenciją, tyrimą, nustatymą ir traukimą baudžiamojon atsakomybėn už jas;"
+		},
+		{
+			"lang": "nl",
+			"text": "de voorkoming, het onderzoek, de opsporing en de vervolging van strafbare feiten;"
+		},
+		{
+			"lang": "sv",
+			"text": "förebyggande, utredning, avslöjande och lagföring av brott,"
+		}
+	],
+	"children": [],
+	"title": "Article 21 – Paragraph 1 – Point 2"
+}

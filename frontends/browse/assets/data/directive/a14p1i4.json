@@ -1,0 +1,102 @@
+{
+	"id": "a14p1i4",
+	"type": "point",
+	"literal": "d",
+	"parent": "a14p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the existence of the right to request from the controller access to and rectification or erasure of the personal data concerning the data subject or to object to the processing of such personal data;"
+		},
+		{
+			"lang": "de",
+			"text": "das Bestehen eines Rechts auf Auskunft sowie Berichtigung oder Löschung der sie betreffenden personenbezogenen Daten durch den für die Verarbeitung Verantwortlichen beziehungsweise eines Widerspruchsrechts gegen die Verarbeitung dieser Daten,"
+		},
+		{
+			"lang": "fr",
+			"text": "l’existence du droit de demander au responsable du traitement l'accès aux données à caractère personnel relatives à la personne concernée, la rectification ou l'effacement de celles-ci, ou du droit de s'opposer au traitement de ces données;"
+		},
+		{
+			"lang": "es",
+			"text": "la existencia del derecho a solicitar al responsable del tratamiento el acceso a los datos personales relativos al interesado, y su rectificación o supresión, o a oponerse al tratamiento de dichos datos personales;"
+		},
+		{
+			"lang": "pt",
+			"text": "Existência do direito de solicitar ao responsável pelo tratamento o acesso aos dados pessoais que lhe digam respeito, e a sua retificação ou apagamento, ou de se opor ao seu tratamento;"
+		},
+		{
+			"lang": "it",
+			"text": "l’esistenza del diritto dell’interessato di chiedere al responsabile del trattamento l’accesso ai dati e la rettifica o la cancellazione dei dati personali che lo riguardano o di opporsi al loro trattamento;"
+		},
+		{
+			"lang": "ga",
+			"text": "más ann don cheart rochtain ar shonraí pearsanta an duine is ábhar do na sonraí agus ceartú nó scriosadh na sonraí sin a iarraidh ar an rialaitheoir, nó más ann don cheart agóid a dhéanamh i gcoinne próiseála na sonraí pearsanta sin;"
+		},
+		{
+			"lang": "cs",
+			"text": "existenci práva požadovat od správce přístup k osobním údajům týkajícím se subjektu údajů, jejich opravu nebo výmaz nebo vznést námitku proti zpracování těchto osobních údajů;"
+		},
+		{
+			"lang": "da",
+			"text": "retten til at anmode den registeransvarlige om indsigt i og berigtigelse eller sletning af personoplysninger vedrørende den registrerede eller gøre indsigelse mod behandlingen af sådanne personoplysninger"
+		},
+		{
+			"lang": "et",
+			"text": "andmesubjekti õigus taotleda vastutavalt töötlejalt juurdepääsu oma isikuandmetele ning nende parandamist või kustutamist ning vaidlustada oma isikuandmete töötlemist;"
+		},
+		{
+			"lang": "el",
+			"text": "δ) την ύπαρξη δικαιώματος υποβολής αιτήματος στον υπεύθυνο επεξεργασίας για πρόσβαση στα δεδομένα προσωπικού χαρακτήρα και διόρθωση ή διαγραφή των δεδομένων προσωπικού χαρακτήρα που αφορούν το εν λόγω πρόσωπο ή αντίταξης στην επεξεργασία των εν λόγω δεδομένων προσωπικού χαρακτήρα·"
+		},
+		{
+			"lang": "bg",
+			"text": "г) съществуването на право да се изиска от администратора достъп до личните данни, свързани със субекта на данните, както и тяхното коригиране или заличаване, или да се изрази възражение срещу обработването на такива лични данни;"
+		},
+		{
+			"lang": "hu",
+			"text": "azon jog megléte, hogy az érintett kérelmezheti az adatkezelőtől a rá vonatkozó személyes adatokba való betekintést, azok helyesbítését vagy törlését, vagy kifogásolhatja az ilyen személyes adatok feldolgozását;"
+		},
+		{
+			"lang": "mt",
+			"text": "l-eżistenza tad-dritt li wieħed jitlob mingħand il-kontrollur l-aċċess għal u r-rettifika jew it-tħassir tad-dejta personali li tirrigwarda lis-suġġett tad-dejta jew li joġġezzjona kontra l-ipproċessar ta’ din id-dejta personali;"
+		},
+		{
+			"lang": "lv",
+			"text": "tiesības pieprasīt no pārziņa piekļuvi datu subjekta personas datiem un to labošanu vai dzēšanu un tiesības iebilst pret šādu personas datu apstrādi;"
+		},
+		{
+			"lang": "ro",
+			"text": "existența dreptului de a solicita operatorului accesul la datele cu caracter personal referitoare la persoana vizată, precum și rectificarea sau ștergerea acestora, sau a dreptului de a se opune prelucrării acestor date cu caracter personal;"
+		},
+		{
+			"lang": "sk",
+			"text": "právo požadovať od prevádzkovateľa prístup k osobným údajom týkajúcim sa dotknutej osoby a právo na ich opravu alebo výmaz, alebo na vznesenie námietky proti spracovaniu týchto osobných údajov;"
+		},
+		{
+			"lang": "sl",
+			"text": "informacije o obstoju pravice, da se od upravljavca zahtevajo dostop do osebnih podatkov in popravek ali izbris osebnih podatkov v zvezi s posameznikom, na katerega se nanašajo osebni podatki, ali pravice do ugovora obdelavi osebnih podatkov;"
+		},
+		{
+			"lang": "fi",
+			"text": "rekisteröidyn oikeus pyytää häntä itseään koskevia henkilötietoja rekisterinpitäjältä sekä oikeus pyytää kyseisten tietojen oikaisemista tai poistamista tai vastustaa niiden käsittelyä;"
+		},
+		{
+			"lang": "pl",
+			"text": "istnienie prawa do wystąpienia do administratora o uzyskanie wglądu do danych, poprawienie ich lub usunięcie danych osobowych odnoszących się do podmiotu danych lub prawo wniesienia sprzeciwu wobec przetwarzania tych danych osobowych;"
+		},
+		{
+			"lang": "lt",
+			"text": "galiojančią duomenų subjekto teisę prašyti, kad duomenų valdytojas leistų susipažinti su asmens duomenimis, ir juos ištaisytų arba ištrintų, arba teisę nesutikti, kad tokie asmens duomenys būtų tvarkomi;"
+		},
+		{
+			"lang": "nl",
+			"text": "het bestaan van het recht om van de voor de verwerking verantwoordelijke toegang tot en rectificatie of wissen van de persoonsgegevens betreffende de betrokkene te verlangen of om tegen de verwerking van dergelijke persoonsgegevens bezwaar te maken;"
+		},
+		{
+			"lang": "sv",
+			"text": "Förekomsten av rättigheten att av den registeransvarige begära tillgång till och rättelse eller radering av de personuppgifter som rör den registrerade eller att invända mot behandlingen av sådana personuppgifter."
+		}
+	],
+	"children": [],
+	"title": "Article 14 – Paragraph 1 – Point 4"
+}

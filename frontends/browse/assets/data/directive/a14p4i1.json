@@ -1,0 +1,102 @@
+{
+	"id": "a14p4i1",
+	"type": "point",
+	"literal": "a",
+	"parent": "a14p4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "at the time when the personal data are obtained from the data subject; or"
+		},
+		{
+			"lang": "de",
+			"text": "zum Zeitpunkt der Erhebung der personenbezogenen Daten bei der betroffenen Person oder"
+		},
+		{
+			"lang": "fr",
+			"text": "au moment où les données à caractère personnel sont recueillies auprès de la personne concernée, ou"
+		},
+		{
+			"lang": "es",
+			"text": "en el momento en que los datos personales se obtengan del interesado; o"
+		},
+		{
+			"lang": "pt",
+			"text": "No momento da recolha dos dados pessoais junto do titular de dados; ou"
+		},
+		{
+			"lang": "it",
+			"text": "al momento in cui i dati personali sono ottenuti dall’interessato, oppure"
+		},
+		{
+			"lang": "ga",
+			"text": "tráth a fhaightear na sonraí pearsanta ón duine is ábhar do na sonraí; nó"
+		},
+		{
+			"lang": "cs",
+			"text": "v době, kdy se osobní údaje získávají od subjektu údajů nebo"
+		},
+		{
+			"lang": "da",
+			"text": "på det tidspunkt, hvor personoplysningerne indhentes fra den registrerede, eller"
+		},
+		{
+			"lang": "et",
+			"text": "andmesubjektilt andmete saamise ajal või"
+		},
+		{
+			"lang": "el",
+			"text": "α) κατά τη λήψη των δεδομένων προσωπικού χαρακτήρα από το πρόσωπο στο οποίο αναφέρονται τα δεδομένα· ή"
+		},
+		{
+			"lang": "bg",
+			"text": "а) в момента на получаване на личните данни от субекта на данните; или"
+		},
+		{
+			"lang": "hu",
+			"text": "amikor a személyes adatot az érintettől beszerzi, vagy"
+		},
+		{
+			"lang": "mt",
+			"text": "fil-ħin meta tinkiseb id-dejta personali mingħand is-suġġett tad-dejta; jew"
+		},
+		{
+			"lang": "lv",
+			"text": "personas datu vākšanas laikā, ja tos saņem no datu subjekta; vai"
+		},
+		{
+			"lang": "ro",
+			"text": "în momentul în care datele cu caracter personal sunt colectate de la persoana vizată sau"
+		},
+		{
+			"lang": "sk",
+			"text": "v čase, keď sa tieto osobné údaje získavajú od dotknutej osoby, alebo"
+		},
+		{
+			"lang": "sl",
+			"text": "ob pridobitvi osebnih podatkov od posameznika, na katerega se nanašajo osebni podatki; ali"
+		},
+		{
+			"lang": "fi",
+			"text": "silloin kun rekisteröidyltä saadaan henkilötietoja; tai"
+		},
+		{
+			"lang": "pl",
+			"text": "w momencie uzyskania danych osobowych od podmiotu danych; lub"
+		},
+		{
+			"lang": "lt",
+			"text": "tuo metu, kai iš duomenų subjekto gaunami asmens duomenys, arba"
+		},
+		{
+			"lang": "nl",
+			"text": "op het tijdstip waarop de persoonsgegevens van de betrokkene worden verkregen; of"
+		},
+		{
+			"lang": "sv",
+			"text": "vid den tidpunkt när personuppgifterna erhålls från den registrerade, eller,"
+		}
+	],
+	"children": [],
+	"title": "Article 14 – Paragraph 4 – Point 1"
+}

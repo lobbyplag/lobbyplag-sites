@@ -1,0 +1,108 @@
+{
+	"id": "a62p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a62",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The Commission may adopt implementing acts for:"
+		},
+		{
+			"lang": "de",
+			"text": "Die Kommission kann zu folgenden Zwecken Durchführungsrechtsakte erlassen:"
+		},
+		{
+			"lang": "fr",
+			"text": "La Commission peut adopter des actes d'exécution pour:"
+		},
+		{
+			"lang": "es",
+			"text": "La Comisión podrá adoptar actos de ejecución para:"
+		},
+		{
+			"lang": "pt",
+			"text": "A Comissão pode adotar atos de execução para:"
+		},
+		{
+			"lang": "it",
+			"text": "La Commissione può adottare atti di esecuzione per:"
+		},
+		{
+			"lang": "ga",
+			"text": "Glacfaidh an Coimisiún gníomhartha cur chun feidhme maidir leis na nithe seo a leanas:"
+		},
+		{
+			"lang": "cs",
+			"text": "Komise může přijímat prováděcí akty za účelem:"
+		},
+		{
+			"lang": "da",
+			"text": "Kommissionen kan vedtage gennemførelsesretsakter med henblik på:"
+		},
+		{
+			"lang": "et",
+			"text": "Komisjon võib vastu võtta rakendusaktid, et teha järgmist:"
+		},
+		{
+			"lang": "el",
+			"text": "Η Επιτροπή μπορεί να εκδίδει εκτελεστικές πράξεις προκειμένου:"
+		},
+		{
+			"lang": "bg",
+			"text": "Комисията може да приеме актове за изпълнение:"
+		},
+		{
+			"lang": "hu",
+			"text": "A Bizottság végrehajtási aktusokat fogad el:"
+		},
+		{
+			"lang": "mt",
+			"text": "Il-Kummissjoni tista’ tadotta atti ta’ implimentazzjoni sabiex:"
+		},
+		{
+			"lang": "lv",
+			"text": "Komisija var pieņemt īstenošanas aktus:"
+		},
+		{
+			"lang": "ro",
+			"text": "Comisia poate adopta acte de punere în aplicare pentru:"
+		},
+		{
+			"lang": "sk",
+			"text": "Komisia môže prijať vykonávacie akty s cieľom:"
+		},
+		{
+			"lang": "sl",
+			"text": "Komisija lahko sprejme izvedbene akte, s katerimi:"
+		},
+		{
+			"lang": "fi",
+			"text": "Komissio antaa täytäntöönpanosäädöksiä, joissa"
+		},
+		{
+			"lang": "pl",
+			"text": "Komisja może przyjmować akty wykonawcze, aby:"
+		},
+		{
+			"lang": "lt",
+			"text": "Komisija gali priimti įgyvendinimo aktus, siekdama:"
+		},
+		{
+			"lang": "nl",
+			"text": "De Commissie kan uitvoeringshandelingen vaststellen om:"
+		},
+		{
+			"lang": "sv",
+			"text": "Kommissionen får anta genomförandeakter i syfte att"
+		}
+	],
+	"children": [
+		"a62p1i1",
+		"a62p1i2",
+		"a62p1i3",
+		"a62p1i4",
+		"a62p1t1"
+	],
+	"title": "Article 62 – Paragraph 1"
+}

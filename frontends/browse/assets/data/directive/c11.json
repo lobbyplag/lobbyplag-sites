@@ -1,0 +1,107 @@
+{
+	"id": "c11",
+	"type": "chapter",
+	"literal": "XI",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "FINAL PROVISIONS"
+		},
+		{
+			"lang": "de",
+			"text": "SCHLUSSBESTIMMUNGEN"
+		},
+		{
+			"lang": "fr",
+			"text": "DISPOSITIONS FINALES"
+		},
+		{
+			"lang": "es",
+			"text": "DISPOSICIONES FINALES"
+		},
+		{
+			"lang": "pt",
+			"text": "DISPOSIÇÕES FINAIS"
+		},
+		{
+			"lang": "it",
+			"text": "DISPOSIZIONI FINALI"
+		},
+		{
+			"lang": "ga",
+			"text": "FORÁLACHA CRÍOCHNAITHEACHA"
+		},
+		{
+			"lang": "cs",
+			"text": "ZÁVĚREČNÁ USTANOVENÍ"
+		},
+		{
+			"lang": "da",
+			"text": "AFSLUTTENDE BESTEMMELSER"
+		},
+		{
+			"lang": "et",
+			"text": "LÕPPSÄTTED"
+		},
+		{
+			"lang": "el",
+			"text": "ΤΕΛΙΚΕΣ ΔΙΑΤΑΞΕΙΣ"
+		},
+		{
+			"lang": "bg",
+			"text": "ЗАКЛЮЧИТЕЛНИ РАЗПОРЕДБИ"
+		},
+		{
+			"lang": "hu",
+			"text": "ZÁRÓ RENDELKEZÉSEK"
+		},
+		{
+			"lang": "mt",
+			"text": "DISPOŻIZZJONIJIET FINALI"
+		},
+		{
+			"lang": "lv",
+			"text": "NOBEIGUMA NOTEIKUMI"
+		},
+		{
+			"lang": "ro",
+			"text": "DISPOZIȚII FINALE"
+		},
+		{
+			"lang": "sk",
+			"text": "ZÁVEREČNÉ USTANOVENIA"
+		},
+		{
+			"lang": "sl",
+			"text": "KONČNE DOLOČBE"
+		},
+		{
+			"lang": "fi",
+			"text": "LOPPUSÄÄNNÖKSET"
+		},
+		{
+			"lang": "pl",
+			"text": "PRZEPISY KOŃCOWE"
+		},
+		{
+			"lang": "lt",
+			"text": "BAIGIAMOSIOS NUOSTATOS"
+		},
+		{
+			"lang": "nl",
+			"text": "SLOTBEPALINGEN"
+		},
+		{
+			"lang": "sv",
+			"text": "SLUTBESTÄMMELSER"
+		}
+	],
+	"children": [
+		"a88",
+		"a89",
+		"a90",
+		"a91"
+	],
+	"title": "Chapter 11"
+}

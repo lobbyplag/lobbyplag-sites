@@ -1,0 +1,104 @@
+{
+	"id": "a27",
+	"type": "article",
+	"literal": "27",
+	"parent": "c4s1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Processing under the authority of the controller and processor"
+		},
+		{
+			"lang": "de",
+			"text": "Verarbeitung unter der Aufsicht des für die Verarbeitung Verantwortlichen und des Auftragsverarbeiters"
+		},
+		{
+			"lang": "fr",
+			"text": "Traitement effectué sous l'autorité du responsable du traitement et du sous‑traitant"
+		},
+		{
+			"lang": "es",
+			"text": "Tratamiento bajo la autoridad del responsable y del encargado del tratamiento"
+		},
+		{
+			"lang": "pt",
+			"text": "Tratamento sob a autoridade do responsável pelo tratamento e do subcontratante"
+		},
+		{
+			"lang": "it",
+			"text": "Trattamento sotto l’autorità del responsabile del trattamento e dell’incaricato del trattamento"
+		},
+		{
+			"lang": "ga",
+			"text": "Próiseáil faoi údarás an rialaitheora agus an phróiseálaí"
+		},
+		{
+			"lang": "cs",
+			"text": "Zpracovávání z pověření správce a zpracovatele"
+		},
+		{
+			"lang": "da",
+			"text": "Behandling, der udføres under den registeransvarlige eller registerføreren"
+		},
+		{
+			"lang": "et",
+			"text": "Töötlemine vastutava töötleja ja volitatud töötleja volituse alusel"
+		},
+		{
+			"lang": "el",
+			"text": "Επεξεργασία υπό την εποπτεία του υπευθύνου της επεξεργασίας και του εκτελούντος την επεξεργασία"
+		},
+		{
+			"lang": "bg",
+			"text": "Обработване под ръководството на администратора и обработващия лични данни"
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő és az adatfeldolgozó felügyelete mellett végzett feldolgozás"
+		},
+		{
+			"lang": "mt",
+			"text": "Ipproċessar bl-awtorità tal-kontrollur u l-proċessur"
+		},
+		{
+			"lang": "lv",
+			"text": "Apstrāde pārziņa un apstrādātāja pakļautībā"
+		},
+		{
+			"lang": "ro",
+			"text": "Desfășurarea activității de prelucrare sub autoritatea operatorului și a persoanei împuternicite de către operator"
+		},
+		{
+			"lang": "sk",
+			"text": "Spracovanie na základe právomoci prevádzkovateľa a sprostredkovateľa"
+		},
+		{
+			"lang": "sl",
+			"text": "Obdelava pod vodstvom upravljavca in obdelovalca"
+		},
+		{
+			"lang": "fi",
+			"text": "Tietojenkäsittely rekisterinpitäjän ja henkilötietojen käsittelijän alaisuudessa"
+		},
+		{
+			"lang": "pl",
+			"text": "Przetwarzanie z upoważnienia administratora i podmiotu przetwarzającego"
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojui ir duomenų tvarkytojui pavaldžių asmenų atliekamas duomenų tvarkymas"
+		},
+		{
+			"lang": "nl",
+			"text": "Verwerking onder gezag van de voor de verwerking verantwoordelijke en de verwerker"
+		},
+		{
+			"lang": "sv",
+			"text": "Behandling under den registeransvariges och registerförarens överinseende"
+		}
+	],
+	"children": [
+		"a27t1"
+	],
+	"title": "Article 27"
+}

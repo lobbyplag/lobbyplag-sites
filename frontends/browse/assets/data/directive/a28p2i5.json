@@ -1,0 +1,102 @@
+{
+	"id": "a28p2i5",
+	"type": "point",
+	"literal": "e",
+	"parent": "a28p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the recipients or categories of recipients of the personal data, including the controllers to whom personal data are disclosed for the legitimate interest pursued by them;"
+		},
+		{
+			"lang": "de",
+			"text": "die Empfänger oder Kategorien von Empfängern der personenbezogenen Daten einschließlich der für die Verarbeitung Verantwortlichen, denen personenbezogene Daten aus dem von diesen verfolgtem legitimen Interesse mitgeteilt werden;"
+		},
+		{
+			"lang": "fr",
+			"text": "les destinataires ou les catégories de destinataires des données à caractère personnel, y compris les responsables du traitement auxquels les données à caractère personnel sont communiquées aux fins de l'intérêt légitime qu'ils poursuivent;"
+		},
+		{
+			"lang": "es",
+			"text": "los destinatarios o las categorías de destinatarios de los datos personales, incluidos los responsables del tratamiento a quienes se comuniquen datos personales por el interés legítimo que persiguen;"
+		},
+		{
+			"lang": "pt",
+			"text": "Destinatários ou categorias de destinatários dos dados pessoais, incluindo os responsáveis pelo tratamento a quem são comunicados esses dados pessoais para efeitos dos interesses legítimos que prosseguem;"
+		},
+		{
+			"lang": "it",
+			"text": "indicazione dei destinatari o delle categorie di destinatari dei dati personali, compresi i responsabili del trattamento cui sono comunicati i dati personali ai fini del perseguimento dei loro legittimi interessi;"
+		},
+		{
+			"lang": "ga",
+			"text": "faighteoirí na sonraí pearsanta nó catagóirí na bhfaighteoirí, lena n‑áirítear na rialaitheoirí a nochtar sonraí pearsanta dóibh chun an leasa dhlisteanaigh atá á shaothrú acu;"
+		},
+		{
+			"lang": "cs",
+			"text": "informace o příjemcích nebo kategoriích příjemců daných osobních údajů, včetně správců, kterým se osobní údaje sdělují s ohledem na jejich oprávněné zájmy;"
+		},
+		{
+			"lang": "da",
+			"text": "modtagerne eller kategorierne af modtagere af personoplysningerne, herunder registeransvarlige, som personoplysninger videregives til som led i de legitime interesser, de forfølger"
+		},
+		{
+			"lang": "et",
+			"text": "andmete vastuvõtja või vastuvõtjate kategooria, sealhulgas vastutavad töötlejad, kellele isikuandmed avalikustatakse vastavalt nende õigustatud huvile;"
+		},
+		{
+			"lang": "el",
+			"text": "ε) τους αποδέκτες ή τις κατηγορίες αποδεκτών των δεδομένων προσωπικού χαρακτήρα, συμπεριλαμβανομένων των υπευθύνων επεξεργασίας στους οποίους κοινοποιούνται δεδομένα προσωπικού χαρακτήρα για τα έννομα συμφέροντα τα οποία επιδιώκουν·"
+		},
+		{
+			"lang": "bg",
+			"text": "д) получателите или категориите получатели на личните данни, включително администраторите, на които се разкриват лични данни поради преследвания от тях законен интерес;"
+		},
+		{
+			"lang": "hu",
+			"text": "a személyes adatok címzettjei vagy címzetti kategóriái, beleértve a jogos érdekre hivatkozással a személyes adatokat megszerző adatkezelőket;"
+		},
+		{
+			"lang": "mt",
+			"text": "ir-riċevituri jew ikategoriji ta’ riċevituri tad-dejta personali, inklużi l-kontrolluri li lilhom tiġi żvelata dejta personali għall-interess leġittimu segwit minnhom;"
+		},
+		{
+			"lang": "lv",
+			"text": "personas datu saņēmējus vai saņēmēju kategorijas, ietverot pārziņus, kuriem personas dati ir izpausti, pamatojoties uz to likumīgajām interesēm;"
+		},
+		{
+			"lang": "ro",
+			"text": "destinatarii sau categoriile de destinatari ai datelor cu caracter personal, inclusiv operatorii cărora le sunt comunicate datele cu caracter personal în interesul legitim pe care îl urmăresc;"
+		},
+		{
+			"lang": "sk",
+			"text": "príjemcov alebo kategórie príjemcov osobných údajov vrátane prevádzkovateľov, ktorým sa osobné údaje sprístupňujú na účely oprávnených záujmov, ktoré sledujú;"
+		},
+		{
+			"lang": "sl",
+			"text": "prejemnikih ali vrstah prejemnikov osebnih podatkov, vključno z upravljavci, ki se jim osebni podatki razkrijejo zaradi pravnih interesov, za katere si prizadevajo;"
+		},
+		{
+			"lang": "fi",
+			"text": "henkilötietojen vastaanottajat tai vastaanottajien ryhmät, mukaan lukien ne rekisterinpitäjät, joille henkilötietoja luovutetaan niiden oikeutettujen etujen vuoksi;"
+		},
+		{
+			"lang": "pl",
+			"text": "odbiorców lub kategorii odbiorców danych osobowych, w tym administratorów, którym ujawniane są dane osobowe na potrzeby realizacji słusznych interesów będących ich celem;"
+		},
+		{
+			"lang": "lt",
+			"text": "asmens duomenų gavėjai ar jų kategorijos, įskaitant duomenų valdytojus, kuriems asmens duomenys atskleidžiami atsižvelgiant į teisėtą jų interesą;"
+		},
+		{
+			"lang": "nl",
+			"text": "de ontvangers of categorieën ontvangers van persoonsgegevens, met inbegrip van de voor de verwerking verantwoordelijken aan wie de persoonsgegevens zijn verstrekt met het oog op de door hen nagestreefde gerechtvaardigde belangen;"
+		},
+		{
+			"lang": "sv",
+			"text": "Mottagarna eller de kategorier av mottagare som ska ta del av personuppgifterna, inbegripet de registeransvariga till vilka personuppgifter lämnas ut för deras berättigade intressen."
+		}
+	],
+	"children": [],
+	"title": "Article 28 – Paragraph 2 – Point 5"
+}

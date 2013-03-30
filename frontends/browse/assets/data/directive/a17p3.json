@@ -1,0 +1,108 @@
+{
+	"id": "a17p3",
+	"type": "paragraph",
+	"literal": "3",
+	"parent": "a17",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller shall carry out the erasure without delay, except to the extent that the retention of the personal data is necessary:"
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche sorgt für eine umgehende Löschung der personenbezogenen Daten, soweit deren Speicherung nicht erforderlich ist"
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement procède à l'effacement sans délai, sauf lorsque la conservation des données à caractère personnel est nécessaire:"
+		},
+		{
+			"lang": "es",
+			"text": "El responsable del tratamiento procederá a la supresión sin demora, salvo en la medida en que la conservación de los datos personales sea necesaria:"
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento deve efetuar o apagamento sem demora, salvo quando a conservação dos dados seja necessária:"
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento provvede senza ritardo alla cancellazione, a meno che conservare i dati personali non sia necessario:"
+		},
+		{
+			"lang": "ga",
+			"text": "Scriosfaidh an rialaitheoir na sonraí gan mhoill, seachas nuair is gá na sonraí pearsanta a choinneáil ar na cúiseanna seo a leanas:"
+		},
+		{
+			"lang": "cs",
+			"text": "Správce provede výmaz neprodleně, s výjimkou případů, kdy je uchovávání osobních údajů nezbytné:"
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige foretager omgående sletningen, medmindre det er nødvendigt at bevare personoplysningerne:"
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja peab isikuandmed viivitamatult kustutama, välja arvatud sellised andmed, mida tuleb säilitada:"
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας εκτελεί τη διαγραφή χωρίς καθυστέρηση, εκτός εάν η διατήρηση των δεδομένων προσωπικού χαρακτήρα είναι απαραίτητη:"
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът извършва заличаването незабавно дотолкова, доколкото съхранението на лични данни е необходимо:"
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő késedelem nélkül elvégzi a törlést, kivéve, amennyiben a személyes adat megőrzése az alábbi okokból szükséges:"
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur għandu jagħmel dan it-tħassir mingħajr dewmien, ħlief sakemm iż-żamma tad-dejta personali tkun meħtieġa:"
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinis nekavējoties dzēš datus, izņemot, ja personas datu saglabāšana ir nepieciešama:"
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul efectuează ștergerea fără întârziere, cu excepția cazului în care păstrarea datelor cu caracter personal este necesară:"
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ vykoná vymazanie bezodkladne s výnimkou prípadu, keď uchovanie osobných údajov je potrebné:"
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec izvede izbris nemudoma, razen če je hramba osebnih podatkov potrebna:"
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän on poistettava henkilötiedot viipymättä, paitsi jos niiden säilyttäminen on tarpeen"
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator niezwłocznie usuwa dane, z wyjątkiem w zakresie, w jakim zatrzymanie danych osobowych jest niezbędne:"
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas nedelsdamas ištrina asmens duomenis, išskyrus atvejus, kai asmens duomenis būtina išsaugoti:"
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke gaat onverwijld tot het wissen over, zij het niet voor zover het nodig is de persoonsgegevens te bewaren:"
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige ska genomföra raderingen utan dröjsmål, utom i den utsträckning som det är nödvändigt att bevara personuppgifterna av följande skäl:"
+		}
+	],
+	"children": [
+		"a17p3i1",
+		"a17p3i2",
+		"a17p3i3",
+		"a17p3i4",
+		"a17p3i5"
+	],
+	"title": "Article 17 – Paragraph 3"
+}

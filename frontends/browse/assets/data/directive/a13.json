@@ -1,0 +1,104 @@
+{
+	"id": "a13",
+	"type": "article",
+	"literal": "13",
+	"parent": "c3s1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Rights in relation to recipients"
+		},
+		{
+			"lang": "de",
+			"text": "Rechte gegenüber Empfängern"
+		},
+		{
+			"lang": "fr",
+			"text": "Droits à l'égard des destinataires"
+		},
+		{
+			"lang": "es",
+			"text": "Derechos en relación con los destinatarios"
+		},
+		{
+			"lang": "pt",
+			"text": "Direitos relativos aos destinatários"
+		},
+		{
+			"lang": "it",
+			"text": "Diritti relativi ai destinatari"
+		},
+		{
+			"lang": "ga",
+			"text": "Cearta i ndáil le faighteoirí sonraí"
+		},
+		{
+			"lang": "cs",
+			"text": "Práva ve vztahu k příjemcům"
+		},
+		{
+			"lang": "da",
+			"text": "Rettigheder i forbindelse med modtagere"
+		},
+		{
+			"lang": "et",
+			"text": "Õigused vastuvõtjate ees"
+		},
+		{
+			"lang": "el",
+			"text": "Δικαιώματα σε σχέση με αποδέκτες"
+		},
+		{
+			"lang": "bg",
+			"text": "Права по отношение на получателите"
+		},
+		{
+			"lang": "hu",
+			"text": "A címzettekhez kapcsolódó jogok"
+		},
+		{
+			"lang": "mt",
+			"text": "Drittijiet relatati mar-riċevituri"
+		},
+		{
+			"lang": "lv",
+			"text": "Saņēmēju tiesības"
+		},
+		{
+			"lang": "ro",
+			"text": "Drepturi referitoare la destinatari"
+		},
+		{
+			"lang": "sk",
+			"text": "Práva vo vzťahu k príjemcom"
+		},
+		{
+			"lang": "sl",
+			"text": "Pravice v zvezi s prejemniki"
+		},
+		{
+			"lang": "fi",
+			"text": "Tietojen vastaanottajien oikeudet"
+		},
+		{
+			"lang": "pl",
+			"text": "Prawa odbiorców"
+		},
+		{
+			"lang": "lt",
+			"text": "Teisės duomenų gavėjų atžvilgiu"
+		},
+		{
+			"lang": "nl",
+			"text": "Rechten met betrekking tot ontvangers"
+		},
+		{
+			"lang": "sv",
+			"text": "Rättigheter i fråga om mottagare"
+		}
+	],
+	"children": [
+		"a13t1"
+	],
+	"title": "Article 13"
+}

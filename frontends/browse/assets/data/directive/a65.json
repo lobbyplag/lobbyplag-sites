@@ -1,0 +1,105 @@
+{
+	"id": "a65",
+	"type": "article",
+	"literal": "65",
+	"parent": "c7s3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Independence"
+		},
+		{
+			"lang": "de",
+			"text": "Unabhängigkeit"
+		},
+		{
+			"lang": "fr",
+			"text": "Indépendance"
+		},
+		{
+			"lang": "es",
+			"text": "Independencia"
+		},
+		{
+			"lang": "pt",
+			"text": "Independência"
+		},
+		{
+			"lang": "it",
+			"text": "Indipendenza"
+		},
+		{
+			"lang": "ga",
+			"text": "Neamhspleáchas"
+		},
+		{
+			"lang": "cs",
+			"text": "Nezávislost"
+		},
+		{
+			"lang": "da",
+			"text": "Uafhængighed"
+		},
+		{
+			"lang": "et",
+			"text": "Sõltumatus"
+		},
+		{
+			"lang": "el",
+			"text": "Ανεξαρτησία"
+		},
+		{
+			"lang": "bg",
+			"text": "Независимост"
+		},
+		{
+			"lang": "hu",
+			"text": "Függetlenség"
+		},
+		{
+			"lang": "mt",
+			"text": "Indipendenza"
+		},
+		{
+			"lang": "lv",
+			"text": "Neatkarība"
+		},
+		{
+			"lang": "ro",
+			"text": "Independență"
+		},
+		{
+			"lang": "sk",
+			"text": "Nezávislosť"
+		},
+		{
+			"lang": "sl",
+			"text": "Neodvisnost"
+		},
+		{
+			"lang": "fi",
+			"text": "Riippumattomuus"
+		},
+		{
+			"lang": "pl",
+			"text": "Niezależność"
+		},
+		{
+			"lang": "lt",
+			"text": "Nepriklausomumas"
+		},
+		{
+			"lang": "nl",
+			"text": "Onafhankelijkheid"
+		},
+		{
+			"lang": "sv",
+			"text": "Oberoende"
+		}
+	],
+	"children": [
+		"a65p1",
+		"a65p2"
+	],
+	"title": "Article 65"
+}

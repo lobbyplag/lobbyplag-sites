@@ -1,0 +1,102 @@
+{
+	"id": "a34p6",
+	"type": "paragraph",
+	"literal": "6",
+	"parent": "a34",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller or processor shall provide the supervisory authority with the data protection impact assessment provided for in Article 33 and, on request, with any other information to allow the supervisory authority to make an assessment of the compliance of the processing and in particular of the risks for the protection of personal data of the data subject and of the related safeguards."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche oder der Auftragsverarbeiter legt der Aufsichtsbehörde die Datenschutz-Folgenabschätzung nach Artikel 33 vor und übermittelt ihr auf Aufforderung alle sonstigen Informationen, die sie benötigt, um die Ordnungsgemäßheit der Verarbeitung sowie insbesondere die in Bezug auf den Schutz der personenbezogenen Daten der betroffenen Person bestehenden Risiken und die diesbezüglichen Sicherheitsgarantien bewerten zu können."
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement ou le sous‑traitant fournissent à l'autorité de contrôle l'analyse d'impact relative à la protection des données prévue à l’article 33 et, sur demande, toute autre information afin de permettre à l'autorité de contrôle d'apprécier la conformité du traitement et, en particulier, les risques pour la protection des données à caractère personnel de la personne concernée et les garanties qui s'y rapportent."
+		},
+		{
+			"lang": "es",
+			"text": "El responsable o el encargado del tratamiento facilitarán a la autoridad de control la evaluación de impacto relativa a la protección de datos prevista en el artículo 33 y, previa solicitud, cualquier información adicional que permita a la autoridad de control evaluar la conformidad del tratamiento y, en particular, los riesgos para la protección de los datos personales del interesado y las garantías correspondientes."
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento ou o subcontratante fornece à autoridade de controlo a avaliação de impacto sobre a proteção de dados prevista no artigo 33.º e, quando solicitado, qualquer outra informação que permita à autoridade de controlo avaliar a conformidade do tratamento e, nomeadamente, os riscos para a proteção dos dados pessoais do titular dos dados e as respetivas garantias."
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento o l’incaricato del trattamento trasmette all’autorità di controllo la valutazione d’impatto sulla protezione dei dati di cui all’articolo 33 e, se richiesta, ogni altra informazione al fine di consentire all’autorità di controllo di effettuare una valutazione della conformità del trattamento, in particolare dei rischi per la protezione dei dati personali dell’interessato e delle relative garanzie."
+		},
+		{
+			"lang": "ga",
+			"text": "Déanfaidh an rialaitheoir nó an próiseálaí an measúnú tionchair ar chosaint sonraí dá dtagraítear in Airteagal 33 a thabhairt don údarás maoirseachta agus, arna iarraidh sin, tabharfaidh sé aon fhaisnéis eile don údarás maoirseachta a chuirfidh ar chumas an údaráis measúnú a dhéanamh i dtaobh an gcomhlíonann an phróiseáil an Rialachán seo agus go háirithe maidir leis na rioscaí do chosaint sonraí pearsanta an duine is ábhar do na sonraí agus maidir leis na cosaintí gaolmhara."
+		},
+		{
+			"lang": "cs",
+			"text": "Správce nebo zpracovatel poskytnou orgánu dozoru posouzení dopadu na ochranu údajů uvedené v článku 33 a na požádání jakékoliv další informace, jež orgánu dozoru umožní posoudit soulad zpracování s tímto nařízením a zejména pak posoudit rizika z hlediska ochrany osobních údajů pro subjekty údajů a související záruky."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige eller registerføreren indgiver den i artikel 33 omhandlede konsekvensanalyse vedrørende databeskyttelse til tilsynsmyndigheden og efter anmodning andre oplysninger, der sætter tilsynsmyndigheden i stand til at vurdere behandlingens overensstemmelse og navnlig risiciene for beskyttelsen af registreredes personoplysninger og tilknyttede garantier."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja või volitatud töötleja esitab järelevalveasutustele isikuandmete kaitsele avaldatava mõju hinnangu, nagu sätestatud artiklis 33, ja taotluse korral ka muu teabe, mille alusel järelevalveasutus saab hinnata, kas töötlemine, eelkõige andmesubjekti isikuandmete kaitset ohustavate tegurite suhtes võetavad meetmed ja pakutavad kaitsemeetmed vastavad käesolevale määrusele."
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας ή ο εκτελών την επεξεργασία παρέχουν στην αρχή ελέγχου την εκτίμηση επιπτώσεων σχετικά με την προστασία των δεδομένων η οποία προβλέπεται στο άρθρο 33 και, κατόπιν αιτήματος, οποιαδήποτε άλλη πληροφορία η οποία επιτρέπει στην αρχή ελέγχου να αξιολογήσει τη συμμόρφωση της επεξεργασίας και, ιδίως, τους κινδύνους για την προστασία των δεδομένων προσωπικού χαρακτήρα του προσώπου στο οποίο αυτά αναφέρονται και τις σχετικές εγγυήσεις."
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът или обработващият лични данни предоставя на надзорния орган оценката на въздействието върху защитата на данните, предвидена в член 33, и при поискване всякаква друга информация, която позволява на надзорния орган да извърши оценка на съответствието на обработването, и по-специално на рисковете за защитата на личните данни на субекта на данни и на съответните гаранции."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő vagy -feldolgozó a felügyelő hatóság rendelkezésére bocsátja a 33. cikk által előírt adatvédelmi hatásvizsgálatot, valamint – kérelemre – az összes olyan egyéb információt, amely lehetővé teszi a felügyelő hatóság számára az adatfeldolgozás, valamint elsősorban az érintett személyes adatainak védelméhez fűződő kockázatok és a kapcsolódó biztosítékok közötti összhang vizsgálatát."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur jew proċessur għandu jipprovdi lill-awtorità ta’ superviżjoni l-valutazzjoni tal-impatt tal-protezzjoni tad-dejta pprovduta fl-Artikolu 33 u, fuq talba, flimkien ma’ kwalunkwe informazzjoni oħra li tippermetti lill-awtorità ta’ superviżjoni tivvaluta l-konformità tal-ipproċessar u b’mod partikolari r-riskji għall-protezzjoni tad-dejta personali tas-suġġett tad-dejta u s-salvagwardji relatati."
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinis vai apstrādātājs iesniedz uzraudzības iestādei 33. pantā minēto datu aizsardzības ietekmes novērtējumu un pēc pieprasījuma jebkuru citu informāciju, kas ļauj uzraudzības iestādei izvērtēt apstrādes atbilstību un jo īpaši datu subjekta personas datu aizsardzības apdraudējumu un attiecīgos aizsardzības pasākumus."
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul sau persoana împuternicită de către operator furnizează autorității de supraveghere evaluarea impactului privind protecția datelor prevăzută la articolul 33 și, la cerere, orice altă informație care permite autorității de supraveghere să facă o evaluare a conformității prelucrării și în special a riscurilor în privința protecției datelor cu caracter personal ale persoanei vizate și a garanțiilor aferente."
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ alebo sprostredkovateľ poskytnú dozornému orgánu na ochranu údajov posúdenie vplyvu uvedené v článku 33 a na požiadanie poskytnú akékoľvek iné informácie, ktoré dozornému orgánu umožnia posúdiť súlad spracovania s týmto nariadením a najmä riziká z hľadiska ochrany osobných údajov dotknutej osoby a súvisiace záruky."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec ali obdelovalec nadzornemu organu predloži oceno učinka o varstvu podatkov iz člena 33, na zahtevo pa tudi druge informacije, ki bodo nadzornemu organu omogočile, da oceni skladnost obdelave in zlasti tveganja za varstvo osebnih podatkov posameznika, na katerega se nanašajo osebni podatki, ter s tem povezane zaščitne ukrepe."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän tai henkilötietojen käsittelijän on toimitettava valvontaviranomaiselle 33 artiklassa tarkoitettu tietosuojaa koskeva vaikutustenarviointi ja pyynnöstä muut tarvittavat tiedot, joiden avulla valvontaviranomainen voi arvioida, ovatko käsittelytoimet tämän asetuksen mukaisia, ja arvioida erityisesti riskejä rekisteröidyn henkilötietojen suojan kannalta ja tähän liittyviä takeita."
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator lub podmiot przetwarzający przekazują organowi nadzorczemu ocenę skutków w zakresie ochrony danych, o której mowa w art. 33 oraz, na żądanie, wszelkie inne informacje mogące umożliwić organowi nadzorczemu ocenę zgodności przetwarzania, w szczególności ryzyk dla ochrony danych osobowych podmiotu danych oraz powiązanych gwarancji."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas arba duomenų tvarkytojas pateikia priežiūros institucijai 33 straipsnyje nurodytą duomenų apsaugos poveikio vertinimą ir priežiūros institucijos prašymu bet kokią kitą informaciją, kuria remdamasi ji galėtų įvertinti, ar duomenų tvarkymas atitinka šį reglamentą, o visų pirma riziką duomenų subjekto asmens duomenų apsaugai ir susijusias apsaugos priemones."
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke of de verwerker verstrekt de toezichthoudende autoriteit de in artikel 33 bedoelde privacyeffectbeoordeling en, op verzoek, alle andere informatie op grond waarvan de toezichthoudende autoriteit de conformiteit van de verwerking en met name de risico’s voor de bescherming van de persoonsgegevens van de betrokkene en de betrokken waarborgen kan beoordelen."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige eller registerföraren ska till tillsynsmyndigheten lämna den konsekvensbedömning avseende uppgiftsskydd som avses i artikel 33 och, på begäran, eventuell övrig information som gör att tillsynsmyndigheten kan göra en bedömning av behandlingens överensstämmelse och särskilt av riskerna för skyddet av den registrerades personuppgifter och av därmed sammanhängande skyddåtgärder."
+		}
+	],
+	"children": [],
+	"title": "Article 34 – Paragraph 6"
+}

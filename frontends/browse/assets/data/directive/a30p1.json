@@ -1,0 +1,102 @@
+{
+	"id": "a30p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a30",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller and the processor shall implement appropriate technical and organisational measures to ensure a level of security appropriate to the risks represented by the processing and the nature of the personal data to be protected, having regard to the state of the art and the costs of their implementation."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche und der Auftragsverarbeiter treffen unter Berücksichtigung des Stands der Technik und der Implementierungskosten technische und organisatorische Maßnahmen, die geeignet sind, ein Schutzniveau zu gewährleisten, das den von der Verarbeitung ausgehenden Risiken und der Art der zu schützenden personenbezogenen Daten angemessen ist."
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement et le sous‑traitant mettent en œuvre les mesures techniques et organisationnelles appropriées afin de garantir, compte étant tenu des techniques les plus récentes et des coûts liés à leur mise en œuvre, un niveau de sécurité adapté aux risques présentés par le traitement et à la nature des données à caractère personnel à protéger."
+		},
+		{
+			"lang": "es",
+			"text": "El responsable y el encargado del tratamiento implementarán medidas técnicas y organizativas apropiadas para garantizar un nivel de seguridad adecuado en relación con los riesgos que entrañe el tratamiento y la naturaleza de los datos personales que deban protegerse, habida cuenta de las técnicas existentes y de los costes asociados a su implementación."
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento e o subcontratante aplicam as medidas técnicas e organizativas necessárias para assegurar um nível de segurança adaptado aos riscos que o tratamento representa e à natureza dos dados pessoais a proteger, atendendo às técnicas mais recentes e aos custos resultantes da sua aplicação."
+		},
+		{
+			"lang": "it",
+			"text": "Tenuto conto dell’evoluzione tecnica e dei costi di attuazione, il responsabile del trattamento e l’incaricato del trattamento mettono in atto misure tecniche e organizzative adeguate per garantire un livello di sicurezza appropriato, in relazione ai rischi che il trattamento comporta e alla natura dei dati personali da proteggere."
+		},
+		{
+			"lang": "ga",
+			"text": "Cuirfidh an rialaitheoir agus an próiseálaí bearta iomchuí teicniúla agus eagraíochtúla chun feidhme chun leibhéal slándála a áirithiú is iomchuí do na rioscaí a bhaineann leis an bpróiseáil agus do chineál na sonraí pearsanta atá le cosaint, ag féachaint don úrscothacht agus do na costais a bhaineann le cur chun feidhme na mbeart sin."
+		},
+		{
+			"lang": "cs",
+			"text": "S ohledem na stav techniky a náklady provedení přijmou správce a zpracovatel vhodná technická a organizační opatření, aby zajistili úroveň bezpečnosti, která bude odpovídat rizikům vyplývajícím ze zpracování a z povahy osobních údajů, jež mají být chráněny."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige og registerføreren træffer under hensyntagen til det aktuelle tekniske niveau og omkostningerne i forbindelse med gennemførelsen passende tekniske og organisatoriske foranstaltninger for at tilvejebringe et tilstrækkeligt sikkerhedsniveau i forhold til de risici, behandlingen af personoplysninger indebærer, og karakteren af de personoplysninger, der skal beskyttes."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja ja volitatud töötleja võtavad vajalikke tehnilisi ja organisatsioonilisi meetmeid, et tagada töötlemisest ja kaitstavate andmete laadist tulenevatele ohtudele vastav turvalisus, võttes arvesse tehnika taset ja selliste meetmete rakendamise kulusid."
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας και ο εκτελών την επεξεργασία εφαρμόζουν κατάλληλα τεχνικά και οργανωτικά μέτρα ώστε να διασφαλίσουν επίπεδο προστασίας κατάλληλο προς τους κινδύνους που αντιπροσωπεύει η επεξεργασία και η φύση των δεδομένων προσωπικού χαρακτήρα που πρέπει να προστατευθούν, λαμβάνοντας υπόψη την κατάσταση της τεχνολογίας και το κόστος της εφαρμογής τους."
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът и обработващият лични данни въвеждат подходящи технически и организационни мерки, за да гарантират ниво на сигурност, което отговаря на свързаните с обработването рискове и естеството на подлежащите на защита лични данни, като вземат предвид достиженията на техническия прогрес и разходите за тяхното внедряване."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő és az adatfeldolgozó, a technika állására és a végrehajtás költségeire tekintettel, végrehajtja a megfelelő technikai és szervezési intézkedéseket az adatfeldolgozás kockázatainak és a védendő személyes adatok jellegének megfelelő védelmi szint biztosítása érdekében."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur u l-proċessur għandhom jimplimentaw miżuri tekniċi u organizzattivi xierqa sabiex jiżguraw livell ta’ sigurtà xieraq għar-riskji rrappreżentati mill-ipproċessar u n-natura tad-dejta personali li trid tiġi protetta, waqt li jitqiesu l-aħħar żviluppi u l-kost tal-implimentazzjoni tagħhom."
+		},
+		{
+			"lang": "lv",
+			"text": "Ņemot vērā jaunākās tehniskās iespējas un to ieviešanas izmaksas, pārzinis un apstrādātājs īsteno atbilstīgus tehniskus un organizatoriskus pasākumus, lai nodrošinātu tādu drošības līmeni, kas atbilst ar apstrādi saistītajam riskam un aizsargājamo personas datu īpatnībām."
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul și persoana împuternicită de către operator pun în aplicare măsuri tehnice și organizatorice adecvate pentru a asigura un nivel de securitate, în concordanță cu riscurile pe care le presupune prelucrarea și cu caracterul datelor cu caracter personal care trebuie protejate, având în vedere stadiul actual al tehnologiei și costurile punerii lor în aplicare."
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ a sprostredkovateľ uplatnia primerané technické a organizačné opatrenia, aby zaistili úroveň bezpečnosti primeranú rizikám, ktoré predstavuje spracovanie a povaha osobných údajov, ktoré sa majú chrániť, so zreteľom na najnovší stav techniky a náklady na zavedenie týchto opatrení."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec in obdelovalec izvedeta ustrezne tehnične in organizacijske ukrepe za zagotovitev ravni varnosti, ustrezne tveganjem, ki jih pomenita obdelava in narava osebnih podatkov, ki jih je treba varovati, pri čemer se upoštevajo doseženi razvoj tehnologije in stroški za njihovo izvajanje."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän ja henkilötietojen käsittelijän on toteutettava asianmukaiset tekniset ja organisatoriset toimenpiteet varmistaakseen käsittelyn ja suojattavien henkilötietojen luonteeseen liittyviin riskeihin nähden asianmukainen turvallisuustaso, ottaen huomioon uusin tekniikka ja toimenpiteiden toteuttamiskustannukset."
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator i podmiot przetwarzający wdrażają odpowiednie środki techniczne i organizacyjne, by zapewnić poziom bezpieczeństwa stosowny do ryzyk związanych z przetwarzaniem oraz charakterem danych osobowych, które należy chronić, uwzględniając najnowsze osiągnięcia techniczne oraz koszty ich wdrożenia."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas ir duomenų tvarkytojas įdiegia tinkamas technines ir organizacines priemones, kad užtikrintų duomenų tvarkymo riziką ir saugotinų asmens duomenų pobūdį atitinkantį saugumo lygį, atsižvelgdami į naujausias technines galimybes ir tų priemonių įdiegimo sąnaudas."
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke en de verwerker treffen passende technische en organisatorische maatregelen om een gelet op de risico’s die de verwerking en de aard van de te beschermen persoonsgegevens met zich meebrengen, passend beveiligingsniveau te waarborgen, waarbij rekening wordt gehouden met de stand van de techniek en met de kosten van uitvoering van de maatregelen."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige och registerföraren ska vidta lämpliga tekniska och organisatoriska åtgärder för att säkerställa en lämplig säkerhetsnivå med tanke på de risker som behandlingen medför och karaktären hos de personuppgifter som ska skyddas, med hänsyn till dagens tillgängliga teknik och kostnaderna för att vidta åtgärderna."
+		}
+	],
+	"children": [],
+	"title": "Article 30 – Paragraph 1"
+}

@@ -1,0 +1,105 @@
+{
+	"id": "a70p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a70",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The chair shall have the following tasks:"
+		},
+		{
+			"lang": "de",
+			"text": "Der Vorsitzende hat folgende Aufgaben:"
+		},
+		{
+			"lang": "fr",
+			"text": "Le président a pour mission:"
+		},
+		{
+			"lang": "es",
+			"text": "El presidente desempeñará las siguientes funciones:"
+		},
+		{
+			"lang": "pt",
+			"text": "O presidente tem as seguintes funções:"
+		},
+		{
+			"lang": "it",
+			"text": "Il presidente ha il compito di:"
+		},
+		{
+			"lang": "ga",
+			"text": "Beidh na cúraimí seo a leanas ar an gcathaoirleach:"
+		},
+		{
+			"lang": "cs",
+			"text": "Předseda plní následující úkoly:"
+		},
+		{
+			"lang": "da",
+			"text": "Formanden har følgende opgaver:"
+		},
+		{
+			"lang": "et",
+			"text": "Eesistujal on järgmised ülesanded:"
+		},
+		{
+			"lang": "el",
+			"text": "Τα καθήκοντα του προέδρου είναι τα ακόλουθα:"
+		},
+		{
+			"lang": "bg",
+			"text": "Председателят има следните задачи:"
+		},
+		{
+			"lang": "hu",
+			"text": "Az elnök feladatai a következők:"
+		},
+		{
+			"lang": "mt",
+			"text": "Il-president għandu jkollu l-kompiti li ġejjin:"
+		},
+		{
+			"lang": "lv",
+			"text": "Priekšsēdētājam ir šādi uzdevumi:"
+		},
+		{
+			"lang": "ro",
+			"text": "Președintele are următoarele sarcini:"
+		},
+		{
+			"lang": "sk",
+			"text": "Predseda má tieto úlohy:"
+		},
+		{
+			"lang": "sl",
+			"text": "Naloge predsednika so:"
+		},
+		{
+			"lang": "fi",
+			"text": "Puheenjohtajalla on seuraavat tehtävät:"
+		},
+		{
+			"lang": "pl",
+			"text": "Przewodniczący ma następujące zadania:"
+		},
+		{
+			"lang": "lt",
+			"text": "Pirmininko užduotys:"
+		},
+		{
+			"lang": "nl",
+			"text": "De voorzitter heeft de volgende taken:"
+		},
+		{
+			"lang": "sv",
+			"text": "Ordföranden ska ha i uppgift att"
+		}
+	],
+	"children": [
+		"a70p1i1",
+		"a70p1i2"
+	],
+	"title": "Article 70 – Paragraph 1"
+}

@@ -1,0 +1,105 @@
+{
+	"id": "a11",
+	"type": "article",
+	"literal": "11",
+	"parent": "c3s1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Transparent information and communication"
+		},
+		{
+			"lang": "de",
+			"text": "Transparente Information und Kommunikation"
+		},
+		{
+			"lang": "fr",
+			"text": "Transparence des informations et des communications"
+		},
+		{
+			"lang": "es",
+			"text": "Transparencia de la información y la comunicación"
+		},
+		{
+			"lang": "pt",
+			"text": "Transparência das informações e das comunicações"
+		},
+		{
+			"lang": "it",
+			"text": "Informazioni e comunicazioni trasparenti"
+		},
+		{
+			"lang": "ga",
+			"text": "Faisnéis agus cumarsáid thrédhearcach"
+		},
+		{
+			"lang": "cs",
+			"text": "Transparentní informace a komunikace"
+		},
+		{
+			"lang": "da",
+			"text": "Gennemsigtige oplysninger og meddelelser"
+		},
+		{
+			"lang": "et",
+			"text": "Läbipaistev teave ja teabevahetus"
+		},
+		{
+			"lang": "el",
+			"text": "Διαφανής ενημέρωση και κοινοποίηση"
+		},
+		{
+			"lang": "bg",
+			"text": "Прозрачна информация и комуникация"
+		},
+		{
+			"lang": "hu",
+			"text": "Átlátható tájékoztatás és kommunikáció"
+		},
+		{
+			"lang": "mt",
+			"text": "Informazzjoni u komunikazzjoni trasparenti"
+		},
+		{
+			"lang": "lv",
+			"text": "Caurskatāma informācija un saziņa"
+		},
+		{
+			"lang": "ro",
+			"text": "Transparența informațiilor și a comunicărilor"
+		},
+		{
+			"lang": "sk",
+			"text": "Transparentnosť informácií a komunikácie"
+		},
+		{
+			"lang": "sl",
+			"text": "Pregledne informacije in sporočila"
+		},
+		{
+			"lang": "fi",
+			"text": "Läpinäkyvä tiedottaminen ja viestintä"
+		},
+		{
+			"lang": "pl",
+			"text": "Przejrzysta informacja i komunikacja"
+		},
+		{
+			"lang": "lt",
+			"text": "Skaidrus informavimas ir pranešimas"
+		},
+		{
+			"lang": "nl",
+			"text": "Transparante informatieverstrekking en communicatie"
+		},
+		{
+			"lang": "sv",
+			"text": "Klar och tydlig information och kommunikation"
+		}
+	],
+	"children": [
+		"a11p1",
+		"a11p2"
+	],
+	"title": "Article 11"
+}

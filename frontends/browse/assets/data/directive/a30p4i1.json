@@ -1,0 +1,102 @@
+{
+	"id": "a30p4i1",
+	"type": "point",
+	"literal": "a",
+	"parent": "a30p4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "prevent any unauthorised access to personal data;"
+		},
+		{
+			"lang": "de",
+			"text": "jedweden unbefugten Zugriff auf personenbezogene Daten zu verhindern;"
+		},
+		{
+			"lang": "fr",
+			"text": "d’empêcher tout accès non autorisé à des données à caractère personnel;"
+		},
+		{
+			"lang": "es",
+			"text": "impedir cualquier acceso no autorizado a datos personales;"
+		},
+		{
+			"lang": "pt",
+			"text": "Impedir o acesso de pessoas não autorizadas aos dados pessoais;"
+		},
+		{
+			"lang": "it",
+			"text": "impedire l’accesso non autorizzato ai dati personali;"
+		},
+		{
+			"lang": "ga",
+			"text": "chun aon rochtain neamhúdaraithe ar shonraí pearsanta a chosc;"
+		},
+		{
+			"lang": "cs",
+			"text": "předešla nedovolenému přístupu k osobním údajům;"
+		},
+		{
+			"lang": "da",
+			"text": "at forhindre ubeføjet adgang til personoplysninger"
+		},
+		{
+			"lang": "et",
+			"text": "vältida loata juurdepääsu isikuandmetele;"
+		},
+		{
+			"lang": "el",
+			"text": "α) την αποφυγή κάθε μη εξουσιοδοτημένης πρόσβασης σε δεδομένα προσωπικού χαρακτήρα·"
+		},
+		{
+			"lang": "bg",
+			"text": "а) да се предотврати всякакъв неразрешен достъп до личните данни;"
+		},
+		{
+			"lang": "hu",
+			"text": "a személyes adatokhoz való jogosulatlan hozzáférés megelőzése;"
+		},
+		{
+			"lang": "mt",
+			"text": "tipprevjeni kull aċċess mhux awtorizzat għal dejta personali;"
+		},
+		{
+			"lang": "lv",
+			"text": "novērstu neatļautu piekļuvi personas datiem;"
+		},
+		{
+			"lang": "ro",
+			"text": "preveni accesul neautorizat la date cu caracter personal;"
+		},
+		{
+			"lang": "sk",
+			"text": "zabrániť akémukoľvek neoprávnenému prístupu k osobným údajom;"
+		},
+		{
+			"lang": "sl",
+			"text": "prepreči morebiten nepooblaščen dostop do osebnih podatkov;"
+		},
+		{
+			"lang": "fi",
+			"text": "henkilötietojen luvattoman saannin estämiseksi;"
+		},
+		{
+			"lang": "pl",
+			"text": "zapobiegania wszelkiemu nieuprawnionemu dostępowi do danych osobowych;"
+		},
+		{
+			"lang": "lt",
+			"text": "užkirsti kelią neleistinam susipažinimui su asmens duomenimis;"
+		},
+		{
+			"lang": "nl",
+			"text": "ongeoorloofde toegang tot persoonsgegevens te voorkomen;"
+		},
+		{
+			"lang": "sv",
+			"text": "förhindra obehörig åtkomst till personuppgifter,"
+		}
+	],
+	"children": [],
+	"title": "Article 30 – Paragraph 4 – Point 1"
+}

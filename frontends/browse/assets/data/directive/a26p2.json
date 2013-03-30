@@ -1,0 +1,111 @@
+{
+	"id": "a26p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a26",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The carrying out of processing by a processor shall be governed by a contract or other legal act binding the processor to the controller and stipulating in particular that the processor shall:"
+		},
+		{
+			"lang": "de",
+			"text": "Die Durchführung einer Verarbeitung durch einen Auftragsverarbeiter erfolgt auf der Grundlage eines Vertrags oder Rechtsakts, durch den der Auftragsverarbeiter an den für die Verarbeitung Verantwortlichen gebunden ist und in dem insbesondere vorgesehen ist, dass der Auftragsverarbeiter"
+		},
+		{
+			"lang": "fr",
+			"text": "La réalisation de traitements en sous‑traitance est régie par un contrat ou un autre acte juridique qui lie le sous‑traitant au responsable du traitement et qui prévoit notamment que le sous‑traitant:"
+		},
+		{
+			"lang": "es",
+			"text": "La realización del tratamiento por un encargado se regirá por un contrato u otro acto jurídico que vincule al encargado del tratamiento con el responsable del tratamiento y que disponga, en particular, que el encargado del tratamiento:"
+		},
+		{
+			"lang": "pt",
+			"text": "A realização de operações de tratamento em subcontratação deve ser regulada por um contrato ou outro ato jurídico que vincule o subcontratante ao responsável pelo tratamento e que preveja, designadamente, que o subcontratante:"
+		},
+		{
+			"lang": "it",
+			"text": "L’esecuzione dei trattamenti su commissione è disciplinata da un contratto o altro atto giuridico che vincoli l’incaricato del trattamento al responsabile del trattamento e che preveda segnatamente che l’incaricato del trattamento:"
+		},
+		{
+			"lang": "ga",
+			"text": "Déanfar próiseáil ag próiseálaí a rialú le conradh nó le gníomh reachtach éigin eile lena gceanglaítear an próiseálaí nó an rialaitheoir agus lena sonrófar go háirithe go ndéanfaidh an próiseálaí an méid seo a leanas:"
+		},
+		{
+			"lang": "cs",
+			"text": "Zpracování údajů zpracovatelem je upraveno smlouvou nebo jiným právním aktem, který zavazuje zpracovatele vůči správci a který stanoví zejména, že zpracovatel:"
+		},
+		{
+			"lang": "da",
+			"text": "Behandling ved en registerfører foretages i henhold til en kontrakt eller et andet retligt bindende dokument mellem registerføreren og den registeransvarlige, hvori det navnlig fastsættes, at registerføreren:"
+		},
+		{
+			"lang": "et",
+			"text": "Volitatud töötleja töötleb andmeid volitatud töötlejat ja vastutavat töötlejat omavahel siduva lepingu või muu õigusakti alusel, milles on eelkõige sätestatud, et volitatud töötleja:"
+		},
+		{
+			"lang": "el",
+			"text": "Η εκτέλεση της επεξεργασίας από εκτελούντα την επεξεργασία διέπεται από σύμβαση ή άλλη δικαιοπραξία η οποία συνδέει τον εκτελούντα την επεξεργασία με τον υπεύθυνο επεξεργασίας, προβλέπει δε ειδικότερα ότι ο εκτελών την επεξεργασία:"
+		},
+		{
+			"lang": "bg",
+			"text": "Извършването на обработване от страна на обработващ лични данни се урежда с договор или друг правен акт, който обвързва обработващия лични данни с администратора и постановява, по-специално, че обработващият лични данни:"
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatfeldolgozó által történő adatfeldolgozást olyan szerződésnek vagy más jogi aktusnak kell szabályoznia, amely az adatfeldolgozót az adatkezelővel szemben köti, és amely az adatfeldolgozó vonatkozásában különösen megköveteli, hogy az:"
+		},
+		{
+			"lang": "mt",
+			"text": "It-twettiq tal-ipproċessar minn proċessur għandu jkun regolat minn kuntratt jew att legali ieħor li jorbot lill-proċessur mal-kontrollur u li jistipula b’mod partikolari li l-proċessur għandu:"
+		},
+		{
+			"lang": "lv",
+			"text": "Apstrādi, ko veic apstrādātājs, reglamentē ar līgumu vai citu tiesību aktu, kas saista apstrādātāju un pārzini, un tajā jo īpaši paredz, ka apstrādātājs:"
+		},
+		{
+			"lang": "ro",
+			"text": "Modul în care o persoană împuternicită de către operator efectuează prelucrarea este reglementată printr-un contract sau printr-un alt act juridic care obligă persoana împuternicită de către operator în raport cu operatorul și care prevede, în special, că persoana împuternicită de către operator:"
+		},
+		{
+			"lang": "sk",
+			"text": "Vykonanie spracovania sprostredkovateľom sa musí riadiť zmluvou alebo iným právnym aktom, ktorý zaväzuje sprostredkovateľa voči prevádzkovateľovi a najmä stanovuje, že sprostredkovateľ:"
+		},
+		{
+			"lang": "sl",
+			"text": "Izvajanje obdelave s strani obdelovalca ureja pogodba ali pravni akt, ki določa obveznosti obdelovalca do upravljavca, predvsem da obdelovalec:"
+		},
+		{
+			"lang": "fi",
+			"text": "Henkilötietojen käsittelijän suorittamaa käsittelyä on säänneltävä sopimuksella tai muulla oikeudellisella asiakirjalla, joka sitoo käsittelijän rekisterinpitäjään ja jossa erityisesti säädetään, että henkilötietojen käsittelijä"
+		},
+		{
+			"lang": "pl",
+			"text": "Przetwarzanie przez podmiot przetwarzający jest regulowane umową lub innym aktem prawnym wiążącym podmiot przetwarzający z administratorem i stanowiącym w szczególności, że podmiot przetwarzający:"
+		},
+		{
+			"lang": "lt",
+			"text": "Kaip duomenų tvarkytojas tvarko duomenis, reglamentuojama sutartimi arba teisės aktu, kuriais nustatomi duomenų tvarkytojo įsipareigojimai duomenų valdytojui ir kuriuose visų pirma nurodoma, kad duomenų tvarkytojas:"
+		},
+		{
+			"lang": "nl",
+			"text": "De uitvoering van verwerkingen door een verwerker wordt geregeld in een overeenkomst of door een andere rechtshandeling die de verwerker ten opzichte van de voor de verwerking verantwoordelijke bindt en waarin met name wordt bepaald dat de verwerker:"
+		},
+		{
+			"lang": "sv",
+			"text": "När uppgifter behandlas av en registerförare ska hanteringen regleras genom ett avtal eller genom en annan rättsligt bindande handling mellan registerföraren och den registeransvarige och i handlingen ska det särskilt föreskrivas att registerföraren"
+		}
+	],
+	"children": [
+		"a26p2i1",
+		"a26p2i2",
+		"a26p2i3",
+		"a26p2i4",
+		"a26p2i5",
+		"a26p2i6",
+		"a26p2i7",
+		"a26p2i8"
+	],
+	"title": "Article 26 – Paragraph 2"
+}

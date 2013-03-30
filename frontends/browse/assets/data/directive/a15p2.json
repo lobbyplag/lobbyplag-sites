@@ -1,0 +1,102 @@
+{
+	"id": "a15p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a15",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The data subject shall have the right to obtain from the controller communication of the personal data undergoing processing. Where the data subject makes the request in electronic form, the information shall be provided in electronic form, unless otherwise requested by the data subject."
+		},
+		{
+			"lang": "de",
+			"text": "Die betroffene Person hat Anspruch darauf, dass ihr von dem für die Verarbeitung Verantwortlichen mitgeteilt wird, welche personenbezogenen Daten verarbeitet werden. Stellt die betroffene Person den Antrag in elektronischer Form, ist sie auf elektronischem Weg zu unterrichten, sofern sie nichts anderes angibt."
+		},
+		{
+			"lang": "fr",
+			"text": "La personne concernée a le droit d'obtenir du responsable du traitement la communication des données à caractère personnel en cours de traitement. Lorsque la personne concernée en fait la demande sous forme électronique, les informations sont fournies sous forme électronique, à moins que la personne concernée ne demande qu'il en soit autrement."
+		},
+		{
+			"lang": "es",
+			"text": "El interesado tendrá derecho a que el responsable del tratamiento le comunique los datos personales objeto de tratamiento. Cuando el interesado haga la solicitud en formato electrónico, la información se facilitará en ese mismo formato, a menos que el interesado solicite que se proceda de otro modo."
+		},
+		{
+			"lang": "pt",
+			"text": "O titular dos dados tem o direito de obter do responsável pelo tratamento a comunicação dos dados pessoais em fase de tratamento. Sempre que o titular dos direitos apresentar o pedido por via eletrónica, a informação deve ser fornecida por meios eletrónicos, salvo se solicitado de outra forma pela pessoa em causa."
+		},
+		{
+			"lang": "it",
+			"text": "L’interessato ha il diritto di ottenere dal responsabile del trattamento la comunicazione dei dati personali oggetto del trattamento. Se l’interessato presenta la richiesta in forma elettronica, le informazioni sono fornite in formato elettronico, salvo indicazione diversa dell’interessato."
+		},
+		{
+			"lang": "ga",
+			"text": "Beidh sé de cheart ag an duine is ábhar do na sonraí go gcuirfidh an rialaitheoir scéal chuige faoi na sonraí pearsanta atá á bpróiseáil. I gcás ina ndéanann an duine is ábhar do na sonraí an iarraidh i bhfoirm leictreonach, cuirfear an fhaisnéis ar fáil i bhfoirm leictreonach, mura n‑iarrann an duine is ábhar do na sonraí a mhalairt."
+		},
+		{
+			"lang": "cs",
+			"text": "Subjekt údajů má právo získat od správce informace o osobních údajích, které jsou zpracovávány. Jestliže subjekt údajů podává žádost v elektronické podobě, poskytují se informace v elektronické podobě, pokud subjekt údajů nepožádá o jiný způsob."
+		},
+		{
+			"lang": "da",
+			"text": "Den registrerede har ret til fra den registeransvarlige at modtage underretning om de personoplysninger, der er genstand for behandling. Hvis den registrerede indgiver anmodningen elektronisk, gives meddelelsen elektronisk, medmindre den registrerede anmoder om andet."
+		},
+		{
+			"lang": "et",
+			"text": "Andmesubjektil on õigus saada vastutavalt töötlejalt teada, milliseid isikuandmeid töödeldakse. Kui andmesubjekt esitab taotluse elektrooniliselt, esitatakse ka teave elektrooniliselt, kui andmesubjekt ei taotle teisiti."
+		},
+		{
+			"lang": "el",
+			"text": "Το πρόσωπο στο οποίο αναφέρονται τα δεδομένα δικαιούται να εξασφαλίζει από τον υπεύθυνο επεξεργασίας τη γνωστοποίηση των δεδομένων προσωπικού χαρακτήρα που υποβάλλονται σε επεξεργασία. Εάν το πρόσωπο στο οποίο αναφέρονται τα δεδομένα υποβάλλει το αίτημα σε ηλεκτρονική μορφή, οι πληροφορίες παρέχονται σε ηλεκτρονική μορφή, εκτός εάν το πρόσωπο στο οποίο αναφέρονται τα δεδομένα ζητήσει κάτι διαφορετικό."
+		},
+		{
+			"lang": "bg",
+			"text": "Субектът на данните има право да получи от администратора съобщение за личните данни, които са в процес на обработване. Когато субектът на данните подава искането в електронна форма, информацията се предоставя в електронна форма, освен ако субектът на данните не е поискал друго."
+		},
+		{
+			"lang": "hu",
+			"text": "Az érintettnek joga van az adatkezelőtől a feldolgozás alatt álló személyes adatok közlését kérni. Amennyiben az érintett a kérést elektronikus formában terjeszti elő, az információt elektronikus formában kell megadni, kivéve, ha az érintett eltérően igényli."
+		},
+		{
+			"lang": "mt",
+			"text": "Is-suġġett tad-dejta għandu jkollu d-dritt li jikseb mingħand il-kontrollur, komunikazzjoni tad-dejta personali li tkun qiegħda tiġi pproċessata. Meta s-suġġett tad-dejta jagħmel it-talba f’forma elettronika, l-informazzjoni għandha tiġi pprovduta f’forma elettronika, sakemm ma jkunx mitlub mod ieħor mis-suġġett tad-dejta."
+		},
+		{
+			"lang": "lv",
+			"text": "Datu subjektam ir tiesības saņemt no pārziņa paziņojumu par apstrādē esošajiem personas datiem. Ja datu subjekts pieprasījumu iesniedz elektroniski, informāciju sniedz elektroniski, izņemot, ja datu subjekts pieprasa savādāk."
+		},
+		{
+			"lang": "ro",
+			"text": "Persoana vizată are dreptul de a obține din partea operatorului comunicarea datelor cu caracter personal care sunt în curs de prelucrare. În cazul în care persoana vizată introduce o cerere în format electronic, informațiile sunt furnizate în format electronic, cu excepția cazului în care persoana vizată solicită un alt format."
+		},
+		{
+			"lang": "sk",
+			"text": "Dotknutá osoba má právo získať od prevádzkovateľa informáciu o osobných údajoch, ktoré sa spracúvajú. Ak dotknutá osoba podala žiadosť v elektronickej podobe, uvedená informácia sa poskytne v elektronickej forme, pokiaľ dotknutá osoba nepožiadala o iný spôsob."
+		},
+		{
+			"lang": "sl",
+			"text": "Posameznik, na katerega se nanašajo osebni podatki, ima pravico od upravljavca pridobiti sporočilo o osebnih podatkih, ki se obdelujejo. Kadar posameznik, na katerega se nanašajo osebni podatki, zahtevo predloži v elektronski obliki, se informacije zagotovijo v elektronski obliki, razen če posameznik, na katerega se nanašajo osebni podatki, informacije zahteva v drugačni obliki."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisteröidyllä on oikeus saada rekisterinpitäjältä käsiteltävänä olevat henkilötiedot. Jos rekisteröity esittää pyynnön sähköisesti, tiedot on toimitettava sähköisesti, paitsi jos rekisteröity toisin pyytää."
+		},
+		{
+			"lang": "pl",
+			"text": "Podmiot danych ma prawo do uzyskania od administratora informacji na temat danych osobowych podlegających przetwarzaniu. Jeśli podmiot danych składa wniosek w formie elektronicznej, informacje także przekazywane są w formie elektronicznej, chyba że podmiot danych zażąda informacji w innej formie."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų subjektas turi teisę iš duomenų valdytojo gauti informaciją, kokie asmens duomenys yra tvarkomi. Jeigu duomenų subjektas prašymą pateikia elektroniniu būdu, informacija jam taip pat pateikiama elektroniniu būdu, išskyrus atvejus, kai duomenų subjektas paprašo ją pateikti kitu būdu."
+		},
+		{
+			"lang": "nl",
+			"text": "De betrokkene heeft er recht op dat de voor de verwerking verantwoordelijke hem meedeelt van welke persoonsgegevens verwerking plaatsvindt. Wanneer de betrokkene zijn verzoek in elektronische vorm indient, wordt de informatie elektronisch verstrekt, tenzij de betrokkene anderszins verzoekt."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registrerade ska ha rätt att av den registeransvarige erhålla information om de personuppgifter som håller på att behandlas. Om den registrerade gör begäran i elektronisk form ska informationen tillhandahållas i elektronisk form, om den registrerade inte begär något annat."
+		}
+	],
+	"children": [],
+	"title": "Article 15 – Paragraph 2"
+}

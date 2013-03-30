@@ -1,0 +1,102 @@
+{
+	"id": "a75p3",
+	"type": "paragraph",
+	"literal": "3",
+	"parent": "a75",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Where proceedings are pending in the consistency mechanism referred to in Article 58, which concern the same measure, decision or practice, a court may suspend the proceedings brought before it, except where the urgency of the matter for the protection of the data subject's rights does not allow to wait for the outcome of the procedure in the consistency mechanism."
+		},
+		{
+			"lang": "de",
+			"text": "Ist dieselbe Maßnahme, Entscheidung oder Vorgehensweise Gegenstand des Kohärenzverfahrens gemäß Artikel 58, kann das Gericht das Verfahren, mit dem es befasst wurde, aussetzen, es sei denn, es ist aufgrund der Dringlichkeit des Schutzes der Rechte der betroffenen Person nicht möglich, den Ausgang des Kohärenzverfahrens abzuwarten."
+		},
+		{
+			"lang": "fr",
+			"text": "Lorsqu'une procédure qui concerne la même mesure, décision ou pratique est en cours dans le cadre du mécanisme de contrôle de la cohérence prévu à l’article 58, une juridiction peut surseoir à statuer dans le litige dont elle est saisie, sauf si l'urgence de l'affaire pour la protection des droits de la personne concernée ne permet pas d'attendre l'issue de la procédure en cours dans le cadre du mécanisme de contrôle de la cohérence."
+		},
+		{
+			"lang": "es",
+			"text": "Cuando estuviere pendiente ante el mecanismo de coherencia contemplado en el artículo 58 un procedimiento referido a la misma medida, decisión o práctica, un órgano jurisdiccional podrá suspender el procedimiento incoado, salvo cuando la urgencia del asunto de que se trate para la protección de los derechos del interesado no permita esperar al resultado del procedimiento del mecanismo de coherencia."
+		},
+		{
+			"lang": "pt",
+			"text": "Sempre que estiver a decorrer um procedimento no quadro do mecanismo de controlo da coerência, previsto no artigo 58.º, que diga respeito à mesma medida, decisão ou prática, um tribunal pode suspender a instância, salvo se a urgência da matéria para a proteção dos direitos do titular dos dados não permitir aguardar pelo resultado do procedimento em curso no quadro do mecanismo de controlo da coerência."
+		},
+		{
+			"lang": "it",
+			"text": "Qualora nell’ambito del meccanismo di coerenza di cui all’articolo 58 sia in corso un procedimento riguardante la stessa misura, decisione o pratica, l’autorità giurisdizionale può sospendere il procedimento di cui è stata investita, salvo qualora l’urgenza del caso per la protezione dei diritti dell’interessato non permetta di aspettare l’esito del procedimento nell’ambito del meccanismo di coerenza."
+		},
+		{
+			"lang": "ga",
+			"text": "I gcás ina bhfuil imeachtaí ar feitheamh sa sásra comhsheasmhachta dá dtagraítear in Airteagal 58, ar imeachtaí iad a bhaineann leis an mbeart, an cinneadh nó an cleachtas céanna, féadfaidh cúirt na himeachtaí arna dtabhairt os a comhair a chur ar fionraí, ach amháin i gcás nach gceadaíonn práinne na ceiste maidir le cearta an duine is ábhar do na sonraí a chosaint go bhféadfaí fanacht ar thoradh na himeachta sa sásra comhsheasmhachta."
+		},
+		{
+			"lang": "cs",
+			"text": "Jestliže probíhá řízení v mechanismu jednotnosti podle článku 58, které se týká téhož opatření, rozhodnutí nebo praxe, může soud řízení, jež u něho bylo zahájeno, odročit, s výjimkou případů, kdy naléhavost ochrany práv subjektů údajů nedovoluje čekat na výsledky, ke kterým se dospěje v mechanismu jednotnosti."
+		},
+		{
+			"lang": "da",
+			"text": "Hvis en sag vedrørende samme foranstaltning, afgørelse eller praksis er under overvejelse i den sammenhængsmekanisme, der er omhandlet i artikel 58, kan en domstol udsætte den verserende sag, medmindre påtrængende hensyn til beskyttelsen af den registreredes personoplysninger betyder, at der ikke er tid til at vente på resultatet af proceduren i sammenhængsmekanismen."
+		},
+		{
+			"lang": "et",
+			"text": "Kui sama meedet, otsust või praktikat käsitlev menetlus on pooleli seoses artiklis 58 osutatud järjepidevuse mehhanismiga, võib kohus menetluse peatada, välja arvatud juhul, kui andmesubjekti õiguste kaitset käsitleva küsimuse kiireloomulisus ei võimalda ära oodata järjepidevuse mehhanismi menetluse tulemust."
+		},
+		{
+			"lang": "el",
+			"text": "Εάν εκκρεμεί διαδικασία στο πλαίσιο του μηχανισμού συνεκτικότητας που αναφέρεται στο άρθρο 58, η οποία αφορά το ίδιο μέτρο, την ίδια απόφαση ή την ίδια πρακτική, το δικαστήριο μπορεί να αναστείλει τη διαδικασία που κινήθηκε ενώπιόν του, εκτός εάν ο επείγων χαρακτήρας της υπόθεσης για την προστασία των δικαιωμάτων του προσώπου στο οποίο αναφέρονται τα δεδομένα δεν επιτρέπει την αναμονή της έκβασης της διαδικασίας στο πλαίσιο του μηχανισμού συνεκτικότητας."
+		},
+		{
+			"lang": "bg",
+			"text": "Когато производства, които се отнасят за една и съща мярка, решение или практика, са в ход в рамките на механизма за съгласуваност, посочен в член 58, даден съд може временно да преустанови производствата, заведени пред него, освен когато спешността на въпроса за защитата на правата на субекта на данните не позволява да се изчака резултатът от процедурата в рамките на механизма за съгласуваност."
+		},
+		{
+			"lang": "hu",
+			"text": "Amennyiben az eljárások az ugyanazon intézkedésre, határozatra vagy gyakorlatra vonatkozó, az 58. cikkben hivatkozott egységességi mechanizmus érelmében felfüggesztésre kerültek, a bíróság felfüggesztheti az előtte folyamatban lévő eljárást, kivéve ha az érintett jogai védelmének sürgőssége nem teszi lehetővé az egységességi mechanizmus szerinti eljárás eredményének megvárását."
+		},
+		{
+			"lang": "mt",
+			"text": "Meta jkun hemm proċeduri pendenti fil-mekkaniżmu ta’ konsistenza msemmi fl-Artikolu 56, li jirrigwardaw l-istess miżura, deċiżjoni jew prattika, qorti tista’ tissospendi l-proċeduri miġjuba quddiemha, ħlief meta l-urġenza tal-kwistjoni għall-protezzjoni tad-drittijiet tas-suġġett tad-dejta ma tippermettix li wieħed jistenna l-eżitu tal-proċedura fil-mekkaniżmu ta’ konsistenza."
+		},
+		{
+			"lang": "lv",
+			"text": "Ja jautājums saistībā ar to pašu pasākumu, lēmumu vai rīcību ir iesniegts izskatīšanai konsekvences mehānismā, kas minēts 58. pantā, tiesa var apturēt tiesvedību, izņemot, ja jautājums ir steidzams datu subjekta tiesību aizsardzībai un neļauj gaidīt konsekvences mehānisma procedūras rezultātus."
+		},
+		{
+			"lang": "ro",
+			"text": "În cazul în care o acțiune care se referă la aceeași măsură, decizie sau practică este în curs în cadrul mecanismului pentru asigurarea coerenței menționat la articolul 58, o instanță poate suspenda acțiunile care i-au fost înaintate, cu excepția cazurilor în care caracterul urgent al chestiunii privind protecția drepturilor persoanei vizate nu îi permite să aștepte rezultatul acțiunii în cadrul mecanismului pentru asigurarea coerenței."
+		},
+		{
+			"lang": "sk",
+			"text": "Ak prebiehajú konania v rámci mechanizmu konzistentnosti podľa článku 58, ktoré sa týkajú rovnakej záležitosti, rozhodnutia alebo postupu, súd môže pozastaviť konanie, vo veci ktorého mu bol podaný návrh, s výnimkou prípadu, že naliehavosť záležitosti z hľadiska ochrany práv dotknutej osoby neumožňuje čakať na výsledok konania v rámci mechanizmu konzistentnosti."
+		},
+		{
+			"lang": "sl",
+			"text": "Če se postopki glede istega ukrepa, odločitve ali prakse obravnavajo v mehanizmu za skladnost iz člena 58, lahko sodišče svoj postopek ustavi, razen kadar nujnost zadeve za varstvo pravic posameznika, na katerega se nanašajo osebni podatki, ne dovoljuje čakanja na izid postopka v mehanizmu za skladnost."
+		},
+		{
+			"lang": "fi",
+			"text": "Jos 58 artiklassa tarkoitetussa yhdenmukaisuusmekanismissa on vireillä menettely, joka koskee samaa toimenpidettä, päätöstä tai käytännettä, tuomioistuin voi keskeyttää sille esitetyn kanteen käsittelyn, paitsi jos rekisteröidyn oikeuksien suojelu edellyttää kiireellistä käsittelyä eikä ole mahdollista odottaa yhdenmukaisuusmekanismissa vireillä olevan menettelyn tulosta."
+		},
+		{
+			"lang": "pl",
+			"text": "W przypadku gdy postępowanie toczy się w ramach mechanizmu zgodności, o którym mowa w art. 58, a dotyczy tego samego środka, decyzji lub praktyki, sąd może zawiesić postępowanie, które się przed nim toczy, chyba że pilny charakter sprawy dotyczącej ochrony praw podmiotu danych nie pozwala oczekiwać na wynik postępowania w ramach mechanizmu zgodności."
+		},
+		{
+			"lang": "lt",
+			"text": "Jeigu byla dėl tos pačios priemonės, sprendimo arba praktikos nagrinėjama pagal 58 straipsnyje nurodytą nuoseklumo užtikrinimo mechanizmą, teismas gali sustabdyti jame iškeltos bylos nagrinėjimą, išskyrus tuos atvejus, kai klausimą būtina skubiai išnagrinėti, kad būtų apsaugotos duomenų subjekto teisės, ir todėl negalima laukti, kol paaiškės nuoseklumo užtikrinimo mechanizmo procedūros rezultatai."
+		},
+		{
+			"lang": "nl",
+			"text": "Wanneer dezelfde maatregel, hetzelfde besluit of dezelfde praktijk het voorwerp uitmaakt van de in artikel 58 bedoelde conformiteitstoetsing, kan een gerechtelijke instantie het voor haar aanhangige geding schorsen, tenzij het op grond van spoedeisendheid voor de bescherming van de rechten van betrokkene niet mogelijk is om te wachten op het resultaat van de conformiteitstoetsing."
+		},
+		{
+			"lang": "sv",
+			"text": "Om förfaranden angående samma åtgärd, beslut eller praxis har inletts inom ramen för den mekanism för enhetlighet som avses i artikel 58, får den berörda domstolen vilandeförklara målet, såvida inte skyddet av den registrerades rättigheter är så brådskande att det inte finns tid att invänta resultatet av förfarandet inom ramen för mekanismen för enhetlighet."
+		}
+	],
+	"children": [],
+	"title": "Article 75 – Paragraph 3"
+}

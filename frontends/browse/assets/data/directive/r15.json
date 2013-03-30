@@ -1,0 +1,102 @@
+{
+	"id": "r15",
+	"type": "recital",
+	"literal": "15",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "This Regulation should not apply to processing of personal data by a natural person, which are exclusively personal or domestic, such as correspondence and the holding of addresses, and without any gainful interest and thus without any connection with a professional or commercial activity. The exemption should also not apply to controllers or processors which provide the means for processing personal data for such personal or domestic activities."
+		},
+		{
+			"lang": "de",
+			"text": "Die Verordnung sollte nicht für die von einer natürlichen Person vorgenommene Verarbeitung von personenbezogenen Daten rein persönlicher oder familiärer Natur zu nichtgewerblichen Zwecken und somit ohne Bezug zu einer beruflichen oder wirtschaftlichen Tätigkeit gelten, wie zum Beispiel das Führen eines Schriftverkehrs oder von Anschriftenverzeichnissen. Ebenfalls nicht ausgenommen werden sollten für die Verarbeitung Verantwortliche oder Auftragsverarbeiter, die die Instrumente für die Verarbeitung personenbezogener Daten für solche persönlichen oder familiären Tätigkeiten bereitstellen."
+		},
+		{
+			"lang": "fr",
+			"text": "Le présent règlement ne devrait pas s'appliquer aux traitements de données à caractère personnel effectués par une personne physique, par exemple un échange de correspondance ou la tenue d'un carnet d'adresses, qui sont exclusivement personnels ou domestiques et sans but lucratif, donc sans lien aucun avec une activité professionnelle ou commerciale. Elle ne devrait pas valoir non plus pour les responsables du traitement de données ou leurs sous‑traitants qui fournissent les moyens de traiter des données à caractère personnel pour de telles activités personnelles ou domestiques."
+		},
+		{
+			"lang": "es",
+			"text": "El presente Reglamento no debe aplicarse al tratamiento por una persona física de datos de carácter personal que sean exclusivamente personales o domésticos, como la correspondencia y la llevanza de un repertorio de direcciones, sin ningún interés lucrativo y, por tanto, sin conexión alguna con una actividad profesional o comercial. La exención tampoco debe aplicarse a los responsables o encargados del tratamiento que proporcionen los medios para tratar los datos personales relacionados con tales actividades personales o domésticas."
+		},
+		{
+			"lang": "pt",
+			"text": "O presente regulamento não é aplicável ao tratamento de dados pessoais efetuado por uma pessoa singular no exercício de atividades exclusivamente pessoais ou domésticas como, por exemplo, trocar correspondência e manter listas de endereços, sem qualquer fim lucrativo e, portanto, sem qualquer ligação com uma atividade profissional ou comercial. Tal isenção também não deve ser aplicável aos responsáveis pelo tratamento de dados e a subcontratantes que forneçam os meios para o tratamento de dados pessoais dessas atividades pessoais ou domésticas."
+		},
+		{
+			"lang": "it",
+			"text": "Il presente regolamento non deve applicarsi al trattamento di dati personali effettuato da una persona fisica nell’ambito di attività esclusivamente personali o domestiche, quali la corrispondenza e gli indirizzari, e senza scopo di lucro, vale a dire senza alcuna connessione con un’attività commerciale o professionale. Tale deroga non deve valere per i responsabili del trattamento o gli incaricati del trattamento che forniscono i mezzi per trattare dati personali nell’ambito di tali attività personali o domestiche."
+		},
+		{
+			"lang": "ga",
+			"text": "Níor cheart feidhm a bheith ag an Rialachán seo maidir le próiseáil sonraí pearsanta ag duine nádúrtha, ar sonraí iad atá á bpróiseáil chun críocha pearsanta nó chun críocha tís amháin, amhail comhfhreagras agus coinneáil seoltaí, agus ar próiseáil í nach bhfuil aon leas sochrach ag baint léi agus mar sin nach bhfuil aon bhaint aici le gníomhaíocht ghairmiúil ná le gníomhaíocht tráchtála. Níor cheart feidhm a bheith ag an eisceacht sin ach oiread maidir le rialaitheoirí nó próiseálaithe a sholáthraíonn an modh chun sonraí pearsanta a phróiseáil le haghaidh gníomhaíochtaí pearsanta nó tís den sórt sin."
+		},
+		{
+			"lang": "cs",
+			"text": "Toto nařízení by se nemělo uplatňovat na zpracování osobních údajů fyzickou osobou, které má výlučně osobní či domácí povahu, jako je korespondence a vedení adresářů, které se neprovádí za účelem zisku, a tedy bez jakékoli souvislosti s profesní nebo obchodní činností. Obdobně by se výjimka neměla vztahovat na správce nebo zpracovatele, kteří pro tyto osobní či domácí činnosti poskytují prostředky pro zpracování osobních údajů."
+		},
+		{
+			"lang": "da",
+			"text": "Denne forordning bør ikke gælde for en fysisk persons behandling af oplysninger som led i rent personlige eller familiemæssige aktiviteter, som f.eks. korrespondance og udarbejdelse af en adressefortegnelse, som ikke er led i lønnet arbejde og dermed ikke har forbindelse til erhvervsmæssige eller kommercielle aktiviteter. Undtagelsen bør heller ikke gælde for registeransvarlige eller registerførere, som tilvejebringer midlerne til behandling af personoplysninger til sådanne personlige eller familie­mæssige aktiviteter."
+		},
+		{
+			"lang": "et",
+			"text": "Käesolevat määrust ei tuleks kohaldata isikuandmete töötlemise suhtes füüsilise isiku poolt üksnes isiklikel või kodustel eesmärkidel, näiteks kirjavahetus ja aadresside loetelu ning ilma tulutoova eesmärgita ning väljaspool ametialast ja äritegevust. Erandit ei tuleks kohaldada vastutavate töötlejate ega volitatud töötlejate suhtes, kes pakuvad isikuandmete isiklikel või kodustel eesmärkidel töötlemise vahendeid."
+		},
+		{
+			"lang": "el",
+			"text": "Ο παρών κανονισμός δεν πρέπει να εφαρμόζεται στην επεξεργασία δεδομένων προσωπικού χαρακτήρα από φυσικό πρόσωπο, τα οποία δεδομένα είναι αποκλειστικά προσωπικά ή οικιακά, όπως η αλληλογραφία και η τήρηση διευθύνσεων, και χωρίς κανένα κερδοσκοπικό συμφέρον και, επομένως, χωρίς καμία σύνδεση με επαγγελματική ή εμπορική δραστηριότητα. Η εξαίρεση δεν πρέπει να εφαρμόζεται ούτε σε υπευθύνους επεξεργασίας ή εκτελούντες την επεξεργασία οι οποίοι παρέχουν τα μέσα για την επεξεργασία δεδομένων προσωπικού χαρακτήρα για τέτοιες προσωπικές ή οικιακές δραστηριότητες."
+		},
+		{
+			"lang": "bg",
+			"text": "Регламентът следва да не се прилага също така спрямо обработването на лични данни от физическо лице, когато тези данни са с изцяло личен или домашен характер, като например воденето на кореспонденция и поддържането на адресни указатели, и когато това обработване се извършва без никакви възмездни цели и следователно без никаква връзка с професионална или търговска дейност. Изключението не следва да се прилага също така за администратори или обработващи лични данни, които осигуряват средствата за обработване на лични данни за такива лични или домашни дейности."
+		},
+		{
+			"lang": "hu",
+			"text": "A rendelet nem alkalmazandó továbbá a természetes személyek által végzett adatfeldolgozásra, amennyiben azt kizárólag személyes vagy házi használatra, például levelezés vagy címjegyzékek vezetése során végzik, és amely nélkülöz minden haszonszerzési célt, és nem kapcsolódik kereskedelmi vagy szakmai tevékenységhez. A kivétel nem alkalmazandó továbbá azokra az adatkezelőkre vagy -feldolgozókra, akik ilyen személyes vagy házi használatra szolgáló személyesadat-feldolgozáshoz biztosítanak eszközöket."
+		},
+		{
+			"lang": "mt",
+			"text": "Dan ir-Regolament m’għandux japplika għall-ipproċessar ta-dejta personali minn persuna fiżika, li hija esklussivament personali jew domestika, bħall-korrispondenza u l-pussess ta’ indirizzi, u mingħajr l-ebda interess bi qligħ u b’hekk mingħajr l-ebda rabta ma’ attività professjonali jew kummerċjali. L-eżenzjoni m’għandhiex tapplika wkoll għal kontrolluri u proċessuri li jipprovdu l-mezzi għall-ipproċessar tad-dejta personali għal dawn l-attivitajiet domestiċi jew personali."
+		},
+		{
+			"lang": "lv",
+			"text": "Šī regula nebūtu jāpiemēro fiziskas personas īstenotai personas datu apstrādei, ja šie dati ir tikai personiska vai sadzīviska rakstura, kā piemēram, korespondence un adrešu saraksti, un apstrādei nav nekāda peļņas gūšanas nolūka, un tā nekādi nav saistīta ar profesionālu vai komerciālu darbību. Izņēmums nebūtu jāpiemēro arī pārziņiem vai apstrādātājiem, kas nodrošina personas datu apstrādes līdzekļus šādām personiska vai sadzīviska rakstura darbībām."
+		},
+		{
+			"lang": "ro",
+			"text": "Prezentul regulament nu ar trebui să se aplice prelucrării datelor cu caracter personal de către o persoană fizică, care sunt exclusiv personale sau casnice, cum ar fi corespondența și repertoriul de adrese, fără niciun scop lucrativ și, prin urmare, fără nicio legătură cu o activitate profesională sau comercială. Exceptarea ar trebui, de asemenea, să nu aplice operatorilor sau persoanelor împuternicite de către operatori care furnizează mijloacele de prelucrare a datelor cu caracter personal pentru astfel de activități personale sau casnice."
+		},
+		{
+			"lang": "sk",
+			"text": "Toto nariadenie by sa nemalo uplatňovať na spracovávanie osobných údajov fyzickou osobou, ktoré je výlučne osobnej či súkromnej povahy, ako je korešpondencia a uchovávanie adries, a ktoré je bez akéhokoľvek zárobkového motívu, a teda nesúvisí so žiadnou profesionálnou alebo komerčnou činnosťou. Výnimka by sa mala uplatňovať aj na prevádzkovateľov a sprostredkovateľov, ktorí poskytujú prostriedky pre spracovávanie osobných údajov na takéto osobné či súkromné činnosti."
+		},
+		{
+			"lang": "sl",
+			"text": "Ta uredba se ne bi smela uporabljati za obdelavo osebnih podatkov s strani fizične osebe, ki so izključno osebni ali domači, kot sta korespondenca in seznam naslovov, in brez pridobitnega interesa ter s tem brez kakršne koli povezave s poklicno ali komercialno dejavnostjo. Ta izjema se prav tako ne bi smela uporabljati za upravljavce ali obdelovalce, ki zagotavljajo sredstva za obdelavo osebnih podatkov za take osebne ali domače dejavnosti."
+		},
+		{
+			"lang": "fi",
+			"text": "Tätä asetusta ei pitäisi soveltaa luonnollisen henkilön suorittamaan, yksinomaan henkilökohtaisen tai kotitaloutta koskevaan henkilötietojen käsittelyyn, kuten kirjeenvaihtoon tai osoitteiston pitämiseen, johon ei liity mitään ansaitsemistarkoitusta ja joka ei ole sidoksissa mihinkään ammatilliseen tai kaupalliseen toimintaan. Tämä vapautus ei koske sellaisia rekisterinpitäjiä tai henkilötietojen käsittelijöitä, jotka tarjoavat keinot tällaiseen henkilökohtaiseen tai kotitaloutta koskevaan henkilötietojen käsittelyyn."
+		},
+		{
+			"lang": "pl",
+			"text": "Niniejsze rozporządzenie nie powinno mieć zastosowania do przetwarzania przez osobę fizyczną danych osobowych o charakterze wyłącznie osobistym lub domowym, takich jak korespondencja i przechowywanie adresów, które są przetwarzane w celach niezarobkowych, zatem bez związku z działalnością zawodową lub handlową. Wyjątek ten nie powinien mieć także zastosowania do administratorów lub podmiotów przetwarzających, którzy zapewniają środki na przetwarzanie danych osobowych w celach osobistych lub domowych."
+		},
+		{
+			"lang": "lt",
+			"text": "šis reglamentas neturėtų būti taikomas tais atvejais, kai asmens duomenis fizinis asmuo tvarko išimtinai asmeniniais arba šeiminiais tikslais, pavyzdžiui, korespondencijai ir adresų saugojimui, ir nesiekdamas pelno, t. y. nesusiedamas su profesine ar komercine veikla. Išimtis neturėtų būti taikoma duomenų valdytojams ar tvarkytojams, kurie tokiai su asmeniniais ar šeiminiais tikslais susijusiai veiklai teikia asmens duomenų tvarkymo priemones;"
+		},
+		{
+			"lang": "nl",
+			"text": "Deze verordening dient niet van toepassing te zijn op de verwerking van persoonsgegevens van louter persoonlijke of huishoudelijke aard, zoals correspondentie of adressenbestanden, door een natuurlijke persoon, wanneer deze verwerking zonder commercieel belang wordt verricht en dus geen enkel verband houdt met een beroeps- of handelsactiviteit. De uitzondering dient evenmin te gelden voor de voor de verwerking verantwoordelijken en de verwerkers die de middelen verschaffen voor de verwerking van persoonsgegevens voor dergelijke persoonlijke of huishoudelijke activiteiten."
+		},
+		{
+			"lang": "sv",
+			"text": "Denna förordning bör inte vara tillämplig på fysiska personers behandling av personuppgifter, som är helt personliga eller privata, t.ex. korrespondens och adressförteckningar, och som helt saknar vinstintresse och därmed också koppling till yrkes- eller affärsmässig verksamhet. Undantaget bör heller inte vara tillämpligt på registeransvariga eller registerförare som tillhandahåller utrustning för behandling av personuppgifter får sådana personliga eller privata verksamheter."
+		}
+	],
+	"children": [],
+	"title": "Recital 15"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "a4i2",
+	"type": "point",
+	"literal": "2",
+	"parent": "a4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "'personal data' means any information relating to a data subject;"
+		},
+		{
+			"lang": "de",
+			"text": "„personenbezogene Daten&quot; alle Informationen, die sich auf eine betroffene Person beziehen;"
+		},
+		{
+			"lang": "fr",
+			"text": "«données à caractère personnel»: toute information se rapportant à une personne concernée;"
+		},
+		{
+			"lang": "es",
+			"text": "«datos personales»: toda información relativa a un interesado;"
+		},
+		{
+			"lang": "pt",
+			"text": "«Dados pessoais», qualquer informação relativa a um titular de dados;"
+		},
+		{
+			"lang": "it",
+			"text": "“dati personali”: qualsiasi informazione concernente l’interessato;"
+		},
+		{
+			"lang": "ga",
+			"text": "ciallaíonn ‘sonraí pearsanta’ aon fhaisnéis a bhaineann le duine is ábhar do shonraí;"
+		},
+		{
+			"lang": "cs",
+			"text": "„osobními údaji“ veškeré informace o subjektu údajů;"
+		},
+		{
+			"lang": "da",
+			"text": "&quot;personoplysninger&quot;: enhver form for information om en registreret"
+		},
+		{
+			"lang": "et",
+			"text": "„isikuandmed” – igasugune teave andmesubjekti kohta;"
+		},
+		{
+			"lang": "el",
+			"text": "«δεδομένα προσωπικού χαρακτήρα»: κάθε πληροφορία η οποία αναφέρεται σε συγκεκριμένο φυσικό πρόσωπο·"
+		},
+		{
+			"lang": "bg",
+			"text": "„лични данни“ означава всяка информация, свързана с даден субект на данни;"
+		},
+		{
+			"lang": "hu",
+			"text": "„személyes adat”: az érintettre vonatkozó bármely információ;"
+		},
+		{
+			"lang": "mt",
+			"text": "‘dejta personali’ tfisser kull informazzjoni li jkollha x’taqsam ma’ suġġett tad-dejta;"
+		},
+		{
+			"lang": "lv",
+			"text": "&quot;personas dati&quot; ir jebkāda informācija, kas attiecas uz datu subjektu;"
+		},
+		{
+			"lang": "ro",
+			"text": "„date cu caracter personal” înseamnă orice informație privind o persoană vizată;"
+		},
+		{
+			"lang": "sk",
+			"text": "„osobné údaje“ sú akékoľvek informácie, ktoré sa týkajú dotknutej osoby;"
+		},
+		{
+			"lang": "sl",
+			"text": "„osebni podatki“ pomenijo vsako informacijo v zvezi s posameznikom, na katerega se nanašajo osebni podatki;"
+		},
+		{
+			"lang": "fi",
+			"text": "’henkilötiedoilla’ kaikkia rekisteröityä koskevia tietoja;"
+		},
+		{
+			"lang": "pl",
+			"text": "„dane osobowe” oznaczają wszelkie informacje dotyczące podmiotu danych;"
+		},
+		{
+			"lang": "lt",
+			"text": "asmens duomenys – bet kokia informacija apie duomenų subjektą;"
+		},
+		{
+			"lang": "nl",
+			"text": "“persoonsgegevens”: iedere informatie betreffende een betrokkene;"
+		},
+		{
+			"lang": "sv",
+			"text": "personuppgifter: varje upplysning som avser den registrerade."
+		}
+	],
+	"children": [],
+	"title": "Article 4 – Point 2"
+}

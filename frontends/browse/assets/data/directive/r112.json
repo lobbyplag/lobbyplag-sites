@@ -1,0 +1,102 @@
+{
+	"id": "r112",
+	"type": "recital",
+	"literal": "112",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Any body, organisation or association which aims to protects the rights and interests of data subjects in relation to the protection of their data and is constituted according to the law of a Member State should have the right to lodge a complaint with a supervisory authority or exercise the right to a judicial remedy on behalf of data subjects, or to lodge, independently of a data subject's complaint, an own complaint where it considers that a personal data breach has occurred."
+		},
+		{
+			"lang": "de",
+			"text": "Einrichtungen, Organisationen oder Verbände, die sich den Schutz der Rechte und Interessen der betroffenen Personen im Bereich des Datenschutzes zum Ziel gesetzt haben und die nach dem Recht eines Mitgliedstaats gegründet sind, sollten das Recht haben, im Namen der betroffenen Person Beschwerde bei einer Aufsichtsbehörde oder einen gerichtlichen Rechtsbehelf einzulegen oder unabhängig von der Beschwerde einer betroffenen Person eine eigene Beschwerde zu erheben, wenn ihrer Ansicht nach der Schutz personenbezogener Daten verletzt wurde."
+		},
+		{
+			"lang": "fr",
+			"text": "Tout organisme, organisation ou association qui œuvre à la protection des droits et intérêts des personnes concernées dans le domaine de la protection des données et qui est constitué(e) conformément au droit d’un État membre devrait avoir le droit d'introduire une réclamation auprès d'une autorité de contrôle ou d'exercer le droit de recours au nom de personnes concernées, ou d'introduire une réclamation en son propre nom, indépendamment de celle d'une personne concernée, dans les cas où l'organisme, l'organisation ou l'association considère qu'une violation de données à caractère personnel a été commise."
+		},
+		{
+			"lang": "es",
+			"text": "Toda entidad, organización o asociación que tenga por objeto proteger los derechos e intereses de los interesados en relación con la protección de sus datos y esté constituida con arreglo a la legislación de un Estado miembro debe tener derecho a presentar una reclamación ante la autoridad de control o ejercer el derecho de recurso judicial, en nombre de los interesados, o a presentar, independientemente de la reclamación de un interesado, su propia reclamación, cuando considere que se ha producido una violación de los datos personales."
+		},
+		{
+			"lang": "pt",
+			"text": "Qualquer organismo, organização ou associação que vise proteger os direitos e interesses dos titulares de dados no que respeita à proteção dos seus dados, e seja constituído ao abrigo do direito de um Estado-Membro, deve poder apresentar uma queixa junto de uma autoridade de controlo ou exercer o direito de ação judicial em nome das pessoas em causa, ou apresentar, independentemente da queixa apresentada pela pessoa em causa, uma queixa em seu próprio nome, sempre que considere ter ocorrido uma violação de dados pessoais."
+		},
+		{
+			"lang": "it",
+			"text": "L’organismo, l’organizzazione o associazione che intenda tutelare i diritti e gli interessi degli interessati in relazione alla protezione dei dati personali e sia istituito o istituita a norma della legislazione di uno Stato membro deve avere il diritto di proporre reclamo a un’autorità di controllo di qualunque Stato membro o esercitare il diritto a un ricorso giurisdizionale per conto degli interessati, o di proporre un proprio reclamo indipendente dall’azione dell’interessato, se ritiene che sussista violazione dei dati personali."
+		},
+		{
+			"lang": "ga",
+			"text": "Aon chomhlacht, eagraíocht nó comhlachas atá comhdhéanta de réir dlí Ballstáit agus a bhfuil sé d'aidhm aige cearta agus leasanna daoine is ábhar do shonraí a chosaint i réimse na cosanta sonraí, ba cheart go mbeadh sé de cheart aige gearán a dhéanamh le húdarás maoirseachta nó an ceart chun leighis bhreithiúnaigh a fheidhmiú thar ceann daoine is ábhar do shonraí, nó ba cheart an ceart a bheith aige gearán a dhéanamh ar a shon féin, go neamhspleách ar ghearán an duine is ábhar do na sonraí, i gcás ina measann sé gur tharla sárú i ndáil le sonraí pearsanta."
+		},
+		{
+			"lang": "cs",
+			"text": "Veškeré subjekty, organizace nebo sdružení, jejichž cílem je chránit práva a zájmy subjektů údajů v souvislosti s ochranou jejich osobních údajů a jež byly řádně zřízeny podle práva některého členského státu, by měly mít právo vznést jménem subjektů údajů stížnost k orgánu dozoru nebo uplatnit právo na soudní opravný prostředek, nebo nezávisle na stížnosti subjektu údajů podat vlastní stížnost, jestliže se domnívají, že došlo k narušení bezpečnosti osobních údajů."
+		},
+		{
+			"lang": "da",
+			"text": "Alle organer, organisationer eller sammenslutninger, der har til formål at beskytte registreredes rettigheder og interesser i forbindelse med beskyttelsen af deres personoplysninger, og som er etableret i overensstemmelse med en medlemsstats lovgivning, bør have ret til at indgive en klage til en tilsynsmyndighed eller udøve retten til domstolsprøvelse på vegne af registrerede eller til uafhængigt af en registrerets klage på egne vegne at indgive en klage, hvis de vurderer, at et brud på persondatasikkerheden har fundet sted."
+		},
+		{
+			"lang": "et",
+			"text": "Mis tahes asutusel, organisatsioonil või ühingul, mille eesmärk on kaitsta andmesubjektide andmete kaitsega seonduvaid õigusi ja huve ja mis on loodud liikmesriigi õigusakti alusel, peaks olema õigus esitada järelevalveasutusele kaebus või kasutada õigust õiguskaitsevahendile andmesubjektide nimel või esitada andmesubjekti kaebusest sõltumatult oma kaebus, kui ta leiab, et on toimunud isikuandmetega seotud rikkumine."
+		},
+		{
+			"lang": "el",
+			"text": "Κάθε φορέας, οργανισμός ή οργάνωση που στοχεύει στην προστασία των δικαιωμάτων και των συμφερόντων προσώπων στα οποία αναφέρονται δεδομένα σε σχέση με την προστασία των δεδομένων τους και έχει συσταθεί σύμφωνα με το δίκαιο κράτους μέλους πρέπει να δικαιούται να υποβάλλει καταγγελία σε αρχή ελέγχου ή να ασκεί το δικαίωμα δικαστικής προσφυγής για λογαριασμό προσώπων στα οποία αναφέρονται δεδομένα ή να υποβάλλει ίδια καταγγελία, ανεξάρτητα από την καταγγελία προσώπου στο οποίο αναφέρονται τα δεδομένα, εάν θεωρεί ότι υπάρχει παραβίαση δεδομένων προσωπικού χαρακτήρα."
+		},
+		{
+			"lang": "bg",
+			"text": "Всяка структура, организация или сдружение, учредено съгласно правото на държава-членка и чиято цел е да защитава правата и интересите на субектите на данни по отношение на защитата на техните данни, следва да има право да подава жалби до надзорен орган или да упражнява правото на средства за съдебна защита от името на субектите на данни или да подава жалби от свое име, независимо от жалбата на даден субект на данни, когато счита, че е извършено нарушение на сигурността на личните данни."
+		},
+		{
+			"lang": "hu",
+			"text": "Az érintetteknek az adataik védelmével kapcsolatos jogait és érdekeit védeni hivatott, a tagállami jognak megfelelően létrehozott valamennyi szervnek, szervezetnek vagy egyesületnek joga van az érintettek nevében panaszt emelni a felügyelő hatósággal szemben vagy bírósági jogorvoslatot igénybe venni, illetve az érintett panaszától függetlenül eljárva saját panaszt emelni, ha álláspontja szerint személyes adatokat sértettek meg."
+		},
+		{
+			"lang": "mt",
+			"text": "Kwalunkwe korp, organizzazzjoni jew assoċjazzjoni li jkollha l-għan li tipproteġi d-drittijiet u l-interessi ta’ suġġetti tad-dejta fir-rigward tal-protezzjoni tad-dejta tagħhom u li tkun kostitwita skont il-liġi ta’ Stat Membru għandu jkollha d-dritt li tressaq ilment quddiem awtorità ta’ superviżjoni jew teżerċita d-dritt għal rimedju ġudizzjarju f’isem is-suġġetti tad-dejta, jew li tressaq, indipendentement mill-ilment ta’ suġġett tad-dejta, ilment hi stess meta tqis li kien hemm xi ksur ta’ dejta personali."
+		},
+		{
+			"lang": "lv",
+			"text": "Jebkurai vienībai, organizācijai vai asociācijai, kuras mērķis ir datu subjekta tiesību un interešu aizsardzība attiecībā uz viņu datu aizsardzību un kas ir izveidota saskaņā ar dalībvalsts tiesībām, būtu jābūt tiesībām iesniegt sūdzību uzraudzības iestādē vai tiesībām iesniegt prasību tiesā datu subjekta vārdā vai iesniegt savu sūdzību neatkarīgi no datu subjekta sūdzības, ja tā uzskata, ka ir noticis personas datu aizsardzības pārkāpums."
+		},
+		{
+			"lang": "ro",
+			"text": "Orice organism, organizație sau asociație care are drept obiectiv asigurarea protecției drepturilor și intereselor persoanelor vizate în ceea ce privește protecția datelor acestora și este constituit(ă) în conformitate cu legislația unui stat membru ar trebui să aibă dreptul de a depune o plângere la o autoritate de supraveghere sau să exercite dreptul la o cale de atac în numele persoanelor vizate sau să depună, independent de plângerea înaintată de o persoană vizată, o plângere în nume propriu în cazul în care consideră că a avut loc o încălcare a securității datelor cu caracter personal."
+		},
+		{
+			"lang": "sk",
+			"text": "Všetky orgány, organizácie či združenia, ktorých cieľom je ochrana práv a záujmov dotknutých osôb súvisiaca s ochranou ich údajov a ktoré sú zriadené podľa právnych predpisov niektorého členského štátu, by mali mať možnosť podať sťažnosť u dozorného orgánu alebo využiť právo na súdny opravný prostriedok v mene dotknutých osôb, alebo nezávisle od sťažnosti niektorej dotknutej osoby podať vlastnú sťažnosť v prípade, že usúdia, že došlo k porušeniu ochrany osobných údajov."
+		},
+		{
+			"lang": "sl",
+			"text": "Vsak organ, organizacija ali združenje, katerega namen je varstvo pravic in interesov posameznikov, na katere se nanašajo osebni podatki, v zvezi z varstvom njihovih podatkov in ki je ustanovljen v skladu z nacionalno zakonodajo države članice, bi moral imeti pravico do vložitve pritožbe pri nadzornem organu ali uveljavitve pravice do pravnega sredstva v sodnem postopku v imenu posameznikov, na katere se nanašajo osebni podatki, ali do vložitve lastne pritožbe, neodvisno od pritožbe posameznika, na katerega se nanašajo osebni podatki, če meni, da je prišlo do kršitve varnosti osebnih podatkov."
+		},
+		{
+			"lang": "fi",
+			"text": "Millä tahansa jäsenvaltion lainsäädännön mukaisesti perustetulla elimellä, järjestöllä tai yhdistyksellä, jonka tarkoituksena on suojella henkilötietojen suojaamiseen liittyviä rekisteröidyn oikeuksia ja etuja, olisi oltava oikeus tehdä valitus valvontaviranomaiselle tai soveltaa oikeussuojakeinoja rekisteröidyn puolesta, tai jos kyseessä on henkilötietojen tietoturvaloukkaus, tehdä oma valitus rekisteröidyn valituksesta riippumatta."
+		},
+		{
+			"lang": "pl",
+			"text": "Każdy organ, organizacja lub zrzeszenie, które ma na celu ochronę praw i interesów podmiotów danych w zakresie ochrony ich danych i które zostało utworzone zgodnie z prawem państwa członkowskiego, powinno mieć prawo do złożenia skargi do organu nadzorczego lub wykonania prawa do sądowego środka ochrony prawnej w imieniu podmiotów danych, lub też złożenia, niezależnie od skargi podmiotu danych, własnej skargi, jeśli uzna, iż doszło do naruszenia ochrony danych osobowych."
+		},
+		{
+			"lang": "lt",
+			"text": "bet kokia įstaiga, organizacija ar asociacija, kuri siekia apsaugoti duomenų subjektų teises ir interesus, susijusius su jų duomenų apsauga, ir kuri įsteigta pagal valstybės narės teisę, turėtų turėti teisę pateikti skundą priežiūros institucijai arba pasinaudoti teisminėmis teisių gynimo priemonėmis duomenų subjektų vardu, jeigu jų yra tinkamai įgaliota, arba pati pateikti skundą duomenų subjektui skundo nepateikus, jeigu mano, kad buvo pažeistas asmens duomenų saugumas;"
+		},
+		{
+			"lang": "nl",
+			"text": "Alle organen, organisaties of verenigingen die de bescherming van de rechten en belangen van betrokkenen in verband met de bescherming van hun persoonsgegevens tot doel hebben en die volgens het recht van een lidstaat zijn opgericht, dienen het recht te hebben om een klacht in te dienen bij een toezichthoudende autoriteit of namens betrokkenen door wie zij naar behoren zijn gemachtigd het recht op beroep in rechte uit te oefenen, en om onafhankelijk van een klacht van een betrokkene zelf een klacht in te dienen indien zij menen dat zich een inbreuk op persoonsgegevens heeft voorgedaan."
+		},
+		{
+			"lang": "sv",
+			"text": "Alla organ, organisationer eller sammanslutningar som syftar till att skydda registrerades rättigheter vad gäller personuppgifter och som inrättats i enlighet med lagstiftningen i en medlemsstat bör ha rätt att klaga hos en tillsynsmyndighet eller på de registrerades vägnar utöva rätten till domstolsprövning, eller att oberoende av en registrerad persons klagomål själv klaga när de anser att ett personuppgiftsbrott har skett."
+		}
+	],
+	"children": [],
+	"title": "Recital 112"
+}

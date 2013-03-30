@@ -1,0 +1,102 @@
+{
+	"id": "r79",
+	"type": "recital",
+	"literal": "79",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "This Regulation is without prejudice to international agreements concluded between the Union and third countries regulating the transfer of personal data including appropriate safeguards for the data subjects."
+		},
+		{
+			"lang": "de",
+			"text": "Internationale Abkommen zwischen der Union und Drittländern über die Übermittlung von personenbezogenen Daten einschließlich geeigneter Garantien für die betroffenen Personen werden von dieser Verordnung nicht berührt."
+		},
+		{
+			"lang": "fr",
+			"text": "Le présent règlement ne remet pas en cause les accords internationaux conclus entre l'Union et les pays tiers en vue de réglementer le transfert des données à caractère personnel, y compris les garanties appropriées au bénéfice des personnes concernées."
+		},
+		{
+			"lang": "es",
+			"text": "El presente Reglamento se entiende sin perjuicio de los acuerdos internacionales celebrados entre la Unión y terceros países que regulen la transferencia de datos personales, incluidas las oportunas garantías para los interesados."
+		},
+		{
+			"lang": "pt",
+			"text": "O presente regulamento não prejudica os acordos internacionais concluídos entre a União Europeia e países terceiros que regulem a transferência de dados pessoais, incluindo as garantias adequadas em benefício dos titulares de dados."
+		},
+		{
+			"lang": "it",
+			"text": "Il presente regolamento lascia impregiudicate le disposizioni degli accordi internazionali conclusi tra l’Unione e i paesi terzi che disciplinano il trasferimento di dati personali, comprese adeguate garanzie per gli interessati."
+		},
+		{
+			"lang": "ga",
+			"text": "Tá an Rialachán seo gan dochar do chomhaontuithe idirnáisiúnta arna dtabhairt i gcrích idir an tAontas agus tríú tíortha a rialaíonn aistriú sonraí pearsanta, lena n‑áirítear cosaintí iomchuí do na daoine is ábhar do na sonraí."
+		},
+		{
+			"lang": "cs",
+			"text": "Tímto nařízením nejsou dotčeny mezinárodní dohody uzavřené mezi Unií a třetími zeměmi o předávání osobních údajů včetně vhodných záruk pro subjekty údajů."
+		},
+		{
+			"lang": "da",
+			"text": "Denne forordning berører ikke internationale aftaler indgået mellem Unionen og tredjelande om videregivelse af personoplysninger, herunder de fornødne garantier for registrerede."
+		},
+		{
+			"lang": "et",
+			"text": "Käesolev määrus ei piira ELi ja kolmandate riikide vahel sõlmitud selliste rahvusvaheliste lepingute kohaldamist, millega reguleeritakse isikuandmete edastamist, sealhulgas asjakohaseid andmesubjektide kaitsmise meetmeid."
+		},
+		{
+			"lang": "el",
+			"text": "Ο παρών κανονισμός δεν θίγει τις διεθνείς συμφωνίες που έχουν συναφθεί μεταξύ της Ένωσης και τρίτων χωρών οι οποίες ρυθμίζουν τη διαβίβαση δεδομένων προσωπικού χαρακτήρα και περιλαμβάνουν κατάλληλες εγγυήσεις για τα πρόσωπα στα οποία αναφέρονται τα δεδομένα."
+		},
+		{
+			"lang": "bg",
+			"text": "Настоящият регламент не засяга разпоредбите на международните споразумения, сключени между Съюза и трети държави, с които се урежда предаването на лични данни, включително подходящите гаранции за субектите на данни."
+		},
+		{
+			"lang": "hu",
+			"text": "E rendelet nem sérti az Unió és harmadik országok között kötött, a személyes adatok továbbításáról – beleértve az érintetteknek szolgáltatott megfelelő biztosítékokat is – szóló nemzetközi megállapodásokat."
+		},
+		{
+			"lang": "mt",
+			"text": "Dan ir-Regolament huwa mingħajr preġudizzju għal ftehimiet internazzjonali konklużi bejn l-Unjoni u pajjiżi terzi li jirregolaw it-trasferiment ta’ dejta personali inklużi s-salvagwardji xierqa għas-suġġetti tad-dejta."
+		},
+		{
+			"lang": "lv",
+			"text": "Šī regula neskar starptautiskos nolīgumus, kas noslēgti starp Savienību un trešām valstīm par personas datu nosūtīšanu un atbilstošiem aizsardzības pasākumiem datu subjektiem."
+		},
+		{
+			"lang": "ro",
+			"text": "Prezentul regulament nu aduce atingere acordurilor internaționale încheiate între Uniune și țări terțe în vederea reglementării transferului de date cu caracter personal, inclusiv garanții corespunzătoare pentru persoanele vizate."
+		},
+		{
+			"lang": "sk",
+			"text": "Toto nariadenie sa nedotýka medzinárodných dohôd uzatvorených medzi Úniou a tretími krajinami, ktoré upravujú prenos osobných údajov a poskytujú náležité záruky pre dotknuté osoby."
+		},
+		{
+			"lang": "sl",
+			"text": "Ta uredba ne posega v mednarodne sporazume, ki so sklenjeni med Unijo in tretjimi državami ter urejajo prenos osebnih podatkov, vključno z ustreznimi zaščitnimi ukrepi za posameznike, na katere se nanašajo osebni podatki."
+		},
+		{
+			"lang": "fi",
+			"text": "Tämä asetus ei vaikuta unionin ja kolmansien maiden välillä tehtyihin kansainvälisiin sopimuksiin, jotka koskevat henkilötietojen siirtoa, rekisteröidyille annettavat asianmukaiset takeet mukaan lukien."
+		},
+		{
+			"lang": "pl",
+			"text": "Niniejsze rozporządzenie nie narusza postanowień umów międzynarodowych zawartych między Unią a państwami trzecimi, regulujących przekazywanie danych osobowych, przewidujących odpowiednie gwarancje dla podmiotów danych."
+		},
+		{
+			"lang": "lt",
+			"text": "šis reglamentas nedaro poveikio Sąjungos ir trečiųjų šalių sudarytiems tarptautiniams susitarimams, kuriais reglamentuojamas asmens duomenų perdavimas, įskaitant tinkamas duomenų subjektų apsaugos priemones;"
+		},
+		{
+			"lang": "nl",
+			"text": "Deze verordening doet geen afbreuk aan internationale overeenkomsten die de Unie en derde landen hebben gesloten om de doorgifte van persoonsgegevens te regelen en waarin passende waarborgen voor de betrokkenen zijn opgenomen."
+		},
+		{
+			"lang": "sv",
+			"text": "Denna förordning påverkar inte internationella avtal mellan unionen och tredjeländer som reglerar överföring av personuppgifter, däribland lämpliga skyddsåtgärder som gagnar de registrerade."
+		}
+	],
+	"children": [],
+	"title": "Recital 79"
+}

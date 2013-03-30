@@ -1,0 +1,102 @@
+{
+	"id": "a84p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a84",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Within the limits of this Regulation, Member States may adopt specific rules to set out the investigative powers by the supervisory authorities laid down in Article 53(2) in relation to controllers or processors that are subjects under national law or rules established by national competent bodies to an obligation of professional secrecy or other equivalent obligations of secrecy, where this is necessary and proportionate to reconcile the right of the protection of personal data with the obligation of secrecy. These rules shall only apply with regard to personal data which the controller or processor has received from or has obtained in an activity covered by this obligation of secrecy."
+		},
+		{
+			"lang": "de",
+			"text": "Die Mitgliedstaaten können in den Grenzen dieser Verordnung die Untersuchungsbefugnisse der Aufsichtsbehörden im Sinne des Artikels 53 Absatz 2 gegenüber den für die Verarbeitung Verantwortlichen oder den Auftragsverarbeitern, die nach einzelstaatlichem Recht oder nach von den zuständigen einzelstaatlichen Stellen erlassenen Regelungen dem Berufsgeheimnis oder einer gleichwertigen Geheimhaltungspflicht unterliegen, regeln, soweit dies notwendig und verhältnismäßig ist, um das Recht auf Schutz der personenbezogenen Daten mit der Pflicht zur Geheimhaltung in Einklang zu bringen. Diese Vorschriften gelten nur in Bezug auf personenbezogene Daten, die der für die Verarbeitung Verantwortliche oder der Auftragsverarbeiter bei einer Tätigkeit erlangt oder erhoben hat, die einer solchen Geheimhaltungspflicht unterliegt."
+		},
+		{
+			"lang": "fr",
+			"text": "Dans les limites du présent règlement, les États membres peuvent adopter des règles spéciales afin de définir les pouvoirs d'investigation des autorités de contrôle visés à l’article 53, paragraphe 2, en ce qui concerne les responsables du traitement ou les sous‑traitants qui sont soumis, en vertu du droit national ou de réglementations arrêtées par les autorités nationales compétentes, à une obligation de secret professionnel ou d'autres obligations de secret équivalentes, lorsque de telles règles sont nécessaires et proportionnées pour concilier le droit à la protection des données à caractère personnel et l'obligation de secret. Ces règles ne sont applicables qu’en ce qui concerne les données à caractère personnel que le responsable du traitement ou le sous‑traitant a reçues ou s'est procurées dans le cadre d'une activité couverte par ladite obligation de secret."
+		},
+		{
+			"lang": "es",
+			"text": "Dentro de los límites del presente Reglamento, los Estados miembros podrán adoptar normas específicas para establecer los poderes de investigación de las autoridades de control contempladas en el artículo 53, apartado 2, en relación con los responsables o encargados sujetos, con arreglo al Derecho nacional o las normas establecidas por los organismos nacionales competentes, a una obligación de secreto profesional u otras obligaciones equivalentes de confidencialidad, cuando ello sea necesario y proporcionado para conciliar el derecho a la protección de los datos personales con la obligación de confidencialidad. Estas normas solo se aplicarán a los datos personales que el responsable o el encargado hayan recibido u obtenido en una actividad cubierta por la citada obligación de confidencialidad."
+		},
+		{
+			"lang": "pt",
+			"text": "Nos limites do presente regulamento, os Estados-Membros podem adotar regras específicas para estabelecer os poderes de investigação das autoridades de controlo previstos no artigo 53.º, n.º 2, relativamente a responsáveis pelo tratamento ou a subcontratantes sujeitos, ao abrigo de legislação nacional ou de regras adotadas pelas autoridades nacionais competentes, a uma obrigação de sigilo profissional ou outras obrigações de sigilo equivalentes, sempre que estas se revelem necessárias e proporcionais para conciliar direito de proteção de dados pessoais com a obrigação de sigilo. Estas regras são aplicáveis apenas no que diz respeito aos dados pessoais recebidos pelo responsável pelo tratamento ou pelo subcontratante, ou que este tenha recolhido no âmbito de uma atividade abrangida por essa obrigação de sigilo."
+		},
+		{
+			"lang": "it",
+			"text": "Nei limiti del presente regolamento, gli Stati membri possono adottare norme specifiche per stabilire i poteri investigativi delle autorità di controllo di cui all’articolo 53, paragrafo 2, in relazione ai responsabili del trattamento o agli incaricati del trattamento che sono soggetti, ai sensi della legislazione nazionale o di norme stabilite dagli organismi nazionali competenti, al segreto professionale o a un obbligo di segreto equivalente, ove siano necessarie e proporzionate per conciliare il diritto alla protezione dei dati personali e l’obbligo di segretezza. Tali norme si applicano solo ai dati personali che il responsabile del trattamento o l’incaricato del trattamento ha ricevuto o ha ottenuto nel corso di un’attività protetta dal segreto professionale."
+		},
+		{
+			"lang": "ga",
+			"text": "Laistigh de theorainneacha an Rialacháin seo, féadfaidh na Ballstáit rialacha sonracha a ghlacadh chun cumhachtaí imscrúdaitheacha na n‑údarás maoirseachta arna leagan síos in Airteagal 53(2) a leagan amach maidir le rialaitheoirí agus próiseálaithe atá faoi réir oibleagáide rúndachta gairmiúla, nó oibleagáidí comhionanna rúndachta, faoin dlí náisiúnta nó faoi rialacha náisiúnta arna bhunú nó arna mbunú ag comhlachtaí náisiúnta inniúla, más gá agus más comhréireach sin chun réiteach a dhéanamh idir an ceart chun sonraí pearsanta a chosaint agus an oibleagáid rúndachta. Ní bheidh feidhm ag na rialacha sin ach maidir le sonraí pearsanta arna bhfáil ag an rialaitheoir nó ag an bpróiseálaí ó ghníomhaíocht arna cumhdach leis an oibleagáid rúndachta seo."
+		},
+		{
+			"lang": "cs",
+			"text": "Je-li to nutné a přiměřené pro soulad práva na ochranu osobních údajů s povinností mlčenlivosti, členské státy mohou v mezích tohoto nařízení přijmout zvláštní pravidla, kterými určí vyšetřovací pravomoci orgánů dozoru uvedené v čl. 53 odst. 2 ve vztahu ke správcům nebo zpracovatelům, již podle vnitrostátního práva nebo pravidel stanovených příslušnými vnitrostátními orgány podléhají povinnosti zachovávat profesní tajemství nebo jiným rovnocenným povinnostem mlčenlivosti. Tato pravidla platí pouze ve vztahu k osobních údajům, které správce nebo zpracovatel obdržel nebo získal při činnosti podléhající povinnosti mlčenlivosti."
+		},
+		{
+			"lang": "da",
+			"text": "Under overholdelse af denne forordning kan medlemsstaterne vedtage specifikke regler om tilsynsmyndighedernes undersøgelsesbeføjelser i henhold til artikel 53, stk. 2, vedrørende registeransvarlige og registerførere, der i henhold til national lovgivning eller regler fastlagt af nationale kompetente organer er underlagt faglig eller anden tilsvarende tavshedspligt, for så vidt dette er nødvendigt og rimeligt med henblik på at forene retten til beskyttelse af personoplysninger med en tavshedspligt. Disse regler gælder kun for personoplysninger, som den registeransvarlige eller registerføreren har modtaget eller indhentet under en aktivitet, der er underlagt denne tavshedspligt."
+		},
+		{
+			"lang": "et",
+			"text": "Käesoleva määruse piires võivad liikmesriigid vastu võtta erieeskirju, et kehtestada artikli 53 lõikes 2 sätestatud järelevalveasutuste uurimisvolitused seoses vastutavate töötlejate või volitatud töötlejatega, kellel on siseriiklike õigusaktide või pädevate asutuste kehtestatud eeskirjade alusel ametisaladuse hoidmise kohustus või muu samaväärne saladuse hoidmise kohustus, kui see on vajalik ja proportsionaalne, et ühildada isikuandmete kaitse õigust ja saladuse hoidmise kohustust. Neid eeskirju kohaldatakse üksnes nende isiklike andmete suhtes, mis vastutav töötleja või volitatud töötleja on saanud saladuse hoidmise kohustusega hõlmatud tegevuse käigus."
+		},
+		{
+			"lang": "el",
+			"text": "Εντός των ορίων του παρόντος κανονισμού, τα κράτη μέλη μπορούν να θεσπίζουν ειδικούς κανόνες για τον καθορισμό των εξουσιών έρευνας των αρχών ελέγχου, οι οποίες προβλέπονται στο άρθρο 53 παράγραφος 2, σε σχέση με υπευθύνους επεξεργασίας ή εκτελούντες την επεξεργασία οι οποίοι υπέχουν, βάσει του εθνικού δικαίου ή των κανόνων που θεσπίζονται από αρμόδιους εθνικούς φορείς, υποχρέωση επαγγελματικού απορρήτου ή άλλες αντίστοιχες υποχρεώσεις τήρησης απορρήτου, εάν αυτό είναι αναγκαίο και αναλογικό για τον συμβιβασμό του δικαιώματος στην προστασία των δεδομένων προσωπικού χαρακτήρα με την υποχρέωση απορρήτου. Οι εν λόγω κανόνες εφαρμόζονται μόνον σε σχέση με δεδομένα προσωπικού χαρακτήρα τα οποία ο υπεύθυνος επεξεργασίας ή ο εκτελών την επεξεργασία έλαβαν από ή εξασφάλισαν στο πλαίσιο δραστηριότητας η οποία καλύπτεται από την εν λόγω υποχρέωση απορρήτου."
+		},
+		{
+			"lang": "bg",
+			"text": "В рамките на настоящия регламент държавите-членки могат да приемат специални разпоредби, за да установят правомощията за разследване на надзорните органи, предвидени в член 53, параграф 2, по отношение на администраторите или обработващите лични данни, които по силата на националното право или на разпоредби, установени от компетентните национални органи, са обвързани със задължение за опазване на професионална тайна или с други равностойни задължения за опазване на тайна, когато това е необходимо и пропорционално за съгласуване на правото на защита на личните данни със задължението за опазване на тайна. Тези разпоредби се прилагат само по отношение на лични данни, които администраторът или обработващият лични данни е получил в хода на дейност, подлежаща на това задължение за опазване на тайна."
+		},
+		{
+			"lang": "hu",
+			"text": "E rendelet keretein belül a tagállamok különös szabályokat hozhatnak a felügyelő hatóságok 53. cikk (2) bekezdése szerinti vizsgálati jogkörének meghatározására a nemzeti jog vagy valamely illetékes nemzetközi szervezet szabályai értelmében szakmai titoktartás vagy más, ezzel azonos titoktartási kötelezettség hatálya alatt álló adatkezelők vagy -feldolgozók tekintetében, amennyiben azok a személyes adatok védelméhez való jog és a titoktartási kötelezettség közötti egyensúly biztosítása érdekében szükségesek és arányosak. E szabályokat csak azokra a személyes adatokra kell alkalmazni, amelyeket az adatkezelő vagy -feldolgozó e titoktartási kötelezettség keretében végzett tevékenysége során szerzett vagy kért."
+		},
+		{
+			"lang": "mt",
+			"text": "Fil-limiti ta’ dan ir-Regolament, l-Istati Membri jistgħu jadottaw regoli speċifiċi sabiex jistabbilixxu s-setgħat investigattivi mill-awtoritajiet ta’ superviżjoni stabbiliti fl-Artikolu 53(2) fir-rigward tal-kontrolluri jew il-proċessuri li huma soġġetti skont il-liġi nazzjonali jew ir-regoli stabbiliti minn korpi nazzjonali kompetenti għal obbligu ta’ segretezza professjonali jew obbligi ta’ segretezza oħrajn ekwivalenti, meta din tkun meħtieġa u proporzjonata għar-rikonċiljazzjoni tad-dritt tal-protezzjoni ta’ dejta personali mal-obbligu ta’ segretezza. Dawn ir-regoli għandhom japplikaw biss fir-rigward ta’ dejta personali li l-kontrollur jew il-proċessur ikun irċieva mingħand jew kiseb f’attività koperta minn dan l-obbligu ta’ segretezza."
+		},
+		{
+			"lang": "lv",
+			"text": "Ievērojot šajā regulā noteiktos ierobežojumus, dalībvalstis var pieņemt īpašus noteikumus, kas paredz uzraudzības iestāžu izmeklēšanas pilnvaras, kas minētas 53. panta 2. punktā, attiecībā uz pārziņiem vai apstrādātājiem, uz kuriem saskaņā ar valsts tiesību aktiem vai valsts kompetento iestāžu ieviestiem noteikumiem attiecas dienesta noslēpuma glabāšanas pienākums vai līdzvērtīgs pienākums ievērot slepenību, ja tas ir nepieciešami un samērīgi, lai panāktu līdzsvaru starp tiesībām uz personas datu aizsardzību un dienesta noslēpuma glabāšanas pienākumu. Šos noteikumus piemēro tikai tiem personas datiem, ko pārzinis vai apstrādātājs saņēmis vai ieguvis tādas darbības laikā, uz kuru attiecas dienesta noslēpuma glabāšanas pienākums."
+		},
+		{
+			"lang": "ro",
+			"text": "În limitele prezentului regulament, statele membre pot adopta norme specifice pentru a stabili competențele de investigare ale autorităților de supraveghere, prevăzute la articolul 53 alineatul (2) în legătură cu operatori sau cu persoane împuternicite de operatori care trebuie să respecte, în temeiul dreptului intern sau al normelor stabilite de autoritățile naționale competente, obligația de a păstra secretul profesional sau alte obligații echivalente de confidențialitate, în cazul în care acest lucru este necesar și proporțional pentru a stabili un echilibru între dreptul la protecția datelor cu caracter personal și obligația păstrării confidențialității. Aceste norme se aplică doar în ceea ce privește datele cu caracter personal pe care operatorul sau persoana împuternicită de operator le-a primit sau le-a obținut în contextul unei activități care intră sub incidența acestei obligații de păstrare a confidențialității."
+		},
+		{
+			"lang": "sk",
+			"text": "Členské štáty môžu v medziach tohto nariadenia prijať špecifické pravidlá stanovujúce vyšetrovacie právomoci dozorných orgánov uvedené v článku 53 ods. 2, pokiaľ ide o prevádzkovateľov alebo sprostredkovateľov, ktorí na základe vnútroštátneho práva alebo pravidiel stanovených príslušnými vnútroštátnymi orgánmi podliehajú povinnosti služobného tajomstva alebo inej rovnocennej povinnosti zachovávať mlčanlivosť, ak je to potrebné a primerané na zosúladenie práva na ochranu osobných údajov s povinnosťou zachovávať mlčanlivosť. Tieto pravidlá sa uplatňujú iba na osobné údaje, ktoré prevádzkovateľ alebo sprostredkovateľ dostali alebo získali pri činnosti, na ktorú sa vzťahuje táto povinnosť zachovávať mlčanlivosť."
+		},
+		{
+			"lang": "sl",
+			"text": "V mejah te uredbe lahko države članice sprejmejo posebna pravila, s katerimi določijo preiskovalna pooblastila nadzornih organov iz člena 53(2) v zvezi z upravljavci ali obdelovalci, za katere velja nacionalna zakonodaja ali pravila, ki jih določijo pristojni nacionalni organi glede obveznosti poklicne molčečnosti ali druge enakovredne obveznosti molčečnosti, kadar je to potrebno in sorazmerno zaradi uskladitve pravice do varstva osebnih podatkov z obveznostjo poklicne molčečnosti. Ta pravila veljajo samo glede osebnih podatkov, ki jih je upravljavec ali obdelovalec prejel ali pridobil v okviru dejavnosti, zajete v tej obveznosti molčečnosti."
+		},
+		{
+			"lang": "fi",
+			"text": "Jäsenvaltiot voivat tässä asetuksessa asetetuissa rajoissa antaa erityissääntöjä valvontaviranomaisten 53 artiklan 2 kohdassa säädetyistä tutkintavaltuuksista suhteessa rekisterinpitäjiin tai henkilötietojen käsittelijöihin, joita koskee kansalliseen lainsäädäntöön perustuva tai kansallisten toimivaltaisten elinten asettama salassapitovelvollisuus tai muu vastaava velvoite, jos tämä on tarpeen ja oikeasuhteista henkilötietojen suojan ja salassapitovelvollisuuden yhteensovittamiseksi. Näitä sääntöjä sovelletaan ainoastaan niihin henkilötietoihin, jotka rekisterinpitäjä tai henkilötietojen käsittelijä on vastaanottanut tai saanut tämän salassapitovelvollisuuden piiriin kuuluvan toiminnan yhteydessä."
+		},
+		{
+			"lang": "pl",
+			"text": "W granicach niniejszego rozporządzenia państwa członkowskie mogą przyjąć przepisy szczególne określające uprawnienia dochodzeniowe organów nadzorczych ustanowione w art. 53 ust. 2 w odniesieniu do administratorów i podmiotów przetwarzających, którzy podlegają obowiązkowi zachowania tajemnicy zawodowej lub innym równoważnym obowiązkom zachowania tajemnicy na podstawie prawa krajowego lub przepisów ustanowionych przez właściwe podmioty krajowe, w przypadku gdy jest to konieczne i proporcjonalne dla pogodzenia prawa do ochrony danych osobowych i obowiązku zachowania tajemnicy. Niniejsze przepisy stosuje się w odniesieniu do danych osobowych, które administrator lub podmiot przetwarzający otrzymał lub uzyskał w działaniu objętym obowiązkiem zachowania tajemnicy."
+		},
+		{
+			"lang": "lt",
+			"text": "Laikydamosi šio reglamento ribų, valstybės narės gali priimti specialias taisykles ir jomis išdėstyti 53 straipsnio 2 dalyje nustatytus priežiūros institucijų tyrimo įgaliojimus dėl duomenų valdytojų arba duomenų tvarkytojų, kuriems pagal nacionalinės teisės aktus arba nacionalinių kompetentingų įstaigų nustatytas taisykles taikoma pareiga saugoti profesinę paslaptį arba kitos lygiavertės pareigos saugoti paslaptį, jeigu tai būtina ir proporcinga, siekiant suderinti teisę į asmens duomenų apsaugą su pareiga saugoti paslaptį. Šios taisyklės taikomos tik asmens duomenims, kuriuos duomenų valdytojas arba duomenų tvarkytojas gavo arba įgijo vykdydamas veiklą, kuriai taikoma pareiga saugoti paslaptį."
+		},
+		{
+			"lang": "nl",
+			"text": "Binnen de grenzen van deze verordening kunnen de lidstaten specifieke voorschriften vaststellen voor de in artikel 53, lid 2, bedoelde onderzoeksbevoegdheden van de toezichthoudende autoriteiten in verband met voor de verwerking verantwoordelijken of verwerkers die onderworpen zijn aan het in de nationale wetgeving, of in de door nationale bevoegde instanties vastgestelde regelgeving, vastgelegde beroepsgeheim of een andere gelijkwaardige geheimhoudingsplicht, wanneer dit noodzakelijk en evenredig is om het recht op bescherming van persoonsgegevens te verzoenen met de geheimhoudingsplicht. Deze voorschriften zijn slechts van toepassing op persoonsgegevens die de voor de verwerking verantwoordelijke of de verwerker in het kader van een onder deze geheimhoudingsplicht vallende activiteit heeft ontvangen of verkregen."
+		},
+		{
+			"lang": "sv",
+			"text": "Inom ramen för denna förordning får medlemsstaterna anta särskilda bestämmelser för att fastställa tillsynsmyndigheternas undersökande befogenheter enligt artikel 53.2 gentemot registeransvariga eller registerförare som enligt nationell lag eller bestämmelser som fastställts av behöriga nationella organ omfattas av tystnadsplikt eller andra motsvarande former av förbud mot att lämna ut uppgifter, om det är nödvändigt och står i proportion till vad som behövs för att förena rätten till skydd för personuppgifter och tystnadsplikten. Dessa bestämmelser ska endast tillämpas med avseende på personuppgifter som den registeransvarige eller registerföraren har erhållit i samband med en verksamhet som omfattas av denna tystnadsplikt."
+		}
+	],
+	"children": [],
+	"title": "Article 84 – Paragraph 1"
+}

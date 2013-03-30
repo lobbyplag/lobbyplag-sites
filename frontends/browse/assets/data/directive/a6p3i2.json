@@ -1,0 +1,102 @@
+{
+	"id": "a6p3i2",
+	"type": "point",
+	"literal": "b",
+	"parent": "a6p3",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the law of the Member State to which the controller is subject."
+		},
+		{
+			"lang": "de",
+			"text": "Recht des Mitgliedstaats, dem der für die Verarbeitung Verantwortliche unterliegt."
+		},
+		{
+			"lang": "fr",
+			"text": "la législation de l'État membre à laquelle le responsable du traitement des données est soumis."
+		},
+		{
+			"lang": "es",
+			"text": "en la legislación del Estado miembro a la que esté sujeto el responsable del tratamiento."
+		},
+		{
+			"lang": "pt",
+			"text": "Pela legislação do Estado-Membro à qual o responsável pelo tratamento está sujeito."
+		},
+		{
+			"lang": "it",
+			"text": "dalla legislazione dello Stato membro cui è soggetto il responsabile del trattamento."
+		},
+		{
+			"lang": "ga",
+			"text": "i ndlí an Bhallstáit a bhfuil an rialaitheoir faoina réir."
+		},
+		{
+			"lang": "cs",
+			"text": "právem členského státu, kterému správce podléhá."
+		},
+		{
+			"lang": "da",
+			"text": "lovgivningen i den medlemsstat, som den registeransvarlige er underlagt."
+		},
+		{
+			"lang": "et",
+			"text": "vastutava töötleja asukohaliikmesriigi õigusega."
+		},
+		{
+			"lang": "el",
+			"text": "β) στη νομοθεσία του κράτους μέλους στο οποίο υπάγεται ο υπεύθυνος επεξεργασίας."
+		},
+		{
+			"lang": "bg",
+			"text": "б) правото на държавата-членка, което се прилага спрямо администратора."
+		},
+		{
+			"lang": "hu",
+			"text": "az adatkezelőre irányadó tagállami jogszabályban kell rendelkezni."
+		},
+		{
+			"lang": "mt",
+			"text": "fil-liġi tal-Istat Membru li għaliha huwa soġġett il-kontrollur."
+		},
+		{
+			"lang": "lv",
+			"text": "dalībvalsts tiesību aktos, kas piemērojami pārzinim."
+		},
+		{
+			"lang": "ro",
+			"text": "legislația statului membru care se aplică operatorului."
+		},
+		{
+			"lang": "sk",
+			"text": "právnymi predpismi členského štátu, ktorému podlieha prevádzkovateľ."
+		},
+		{
+			"lang": "sl",
+			"text": "zakonodaji države članice, ki se uporablja za upravljavca."
+		},
+		{
+			"lang": "fi",
+			"text": "sen jäsenvaltion laissa, jota sovelletaan rekisterinpitäjään."
+		},
+		{
+			"lang": "pl",
+			"text": "prawie państwa członkowskiego, któremu podlega administrator."
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų valdytojui taikytinos valstybės narės teisėje."
+		},
+		{
+			"lang": "nl",
+			"text": "de wetgeving van de lidstaat waaraan de voor de verwerking verantwoordelijke onderworpen is."
+		},
+		{
+			"lang": "sv",
+			"text": "lagstiftningen i den medlemsstat vars lagstiftning den registeransvarige lyder under."
+		}
+	],
+	"children": [],
+	"title": "Article 6 – Paragraph 3 – Point 2"
+}

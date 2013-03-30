@@ -1,0 +1,102 @@
+{
+	"id": "r84",
+	"type": "recital",
+	"literal": "84",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The possibility for the controller or processor to use standard data protection clauses adopted by the Commission or by a supervisory authority should neither prevent the possibility for controllers or processors to include the standard data protection clauses in a wider contract nor to add other clauses as long as they do not contradict, directly or indirectly, the standard contractual clauses adopted by the Commission or by a supervisory authority or prejudice the fundamental rights or freedoms of the data subjects."
+		},
+		{
+			"lang": "de",
+			"text": "Die dem für die Verarbeitung Verantwortlichen oder dem Auftragsverarbeiter offen stehende Möglichkeit, auf die von der Kommission oder einer Aufsichtsbehörde erlassenen Standard-Datenschutzklauseln zurückzugreifen, sollte den für die Verarbeitung Verantwortlichen oder den Auftragsverarbeiter keinesfalls daran hindern, die Standard-Datenschutzklauseln auch in umfangreicheren Verträgen zu verwenden oder ihnen weitere Klauseln hinzuzufügen, solange letztere weder mittelbar noch unmittelbar im Widerspruch zu den von der Kommission oder einer Aufsichtsbehörde erlassenen Standard-Datenschutzklauseln stehen oder die Grundrechte und Freiheiten der betroffenen Personen beschneiden."
+		},
+		{
+			"lang": "fr",
+			"text": "La possibilité qu'ont les responsables du traitement et les sous‑traitants de recourir aux clauses types de protection des données adoptées par la Commission ou par une autorité de contrôle ne devrait pas les empêcher d'inclure ces clauses dans un contrat plus large, ni d'y ajouter d’autres clauses, à condition que celles‑ci ne contredisent pas, directement ou indirectement, les clauses contractuelles types adoptées par la Commission ou par une autorité de contrôle et qu'elles ne portent pas atteinte aux libertés et droits fondamentaux des personnes concernées."
+		},
+		{
+			"lang": "es",
+			"text": "La posibilidad de que el responsable o el encargado del tratamiento utilicen cláusulas tipo de protección de datos adoptadas por la Comisión o una autoridad de control no debe impedir que los responsables o encargados del tratamiento incluyan las cláusulas tipo de protección de datos en un contrato más amplio o añadan otras cláusulas, siempre que no contradigan, directa o indirectamente, las cláusulas contractuales tipo adoptadas por la Comisión o por una autoridad de control o perjudiquen a los derechos o las libertades fundamentales de los interesados."
+		},
+		{
+			"lang": "pt",
+			"text": "A possibilidade de o responsável pelo tratamento ou o subcontratante utilizarem cláusulas‑tipo de proteção de dados adotadas pela Comissão ou por uma autoridade de controlo não os deve impedir de incluírem estas cláusulas num contrato mais abrangente, nem de acrescentarem outras cláusulas, desde que não sejam contraditórias, direta ou indiretamente, em relação às cláusulas contratuais‑tipo adotadas pela Comissão ou por uma autoridade de controlo, e sem prejuízo dos direitos ou liberdades fundamentais dos titulares de dados."
+		},
+		{
+			"lang": "it",
+			"text": "La possibilità che il responsabile del trattamento o l’incaricato del trattamento utilizzi clausole tipo di protezione dei dati adottate dalla Commissione o da un’autorità di controllo non deve precludere ai responsabili del trattamento o agli incaricati del trattamento la possibilità di includere tali clausole tipo in un contratto più ampio né di aggiungere altre clausole, purché non contraddicano, direttamente o indirettamente, le clausole contrattuali tipo adottate dalla Commissione o da un’autorità di controllo o ledano i diritti o le libertà fondamentali degli interessati."
+		},
+		{
+			"lang": "ga",
+			"text": "Cé go bhféadfaidh an rialaitheoir nó an próiseálaí úsáid a bhaint as clásail chaighdeánacha maidir le cosaint sonraí arna nglacadh ag an gCoimisiún nó ag údarás maoirseachta, níor cheart go gciallódh sin nach féidir le rialaitheoirí nó le próiseálaithe na clásail chaighdeánacha maidir le cosaint sonraí a áireamh i gconradh níos leithne ná nach féidir leo clásail eile a chur isteach fad nach mbeidh siad ar neamhréir, go díreach nó go hindíreach, leis na clásail chaighdeánacha chonarthacha arna nglacadh ag an gCoimisiún nó ag údarás maoirseachta agus fad nach ndéanfaidh siad dochar do chearta nó saoirsí bunúsacha na ndaoine is ábhar do na sonraí."
+		},
+		{
+			"lang": "cs",
+			"text": "Skutečnost, že správci a zpracovatelé mohou používat standardní doložky o ochraně údajů přijaté Komisí nebo orgánem dozoru, by neměla správcům a zpracovatelům bránit v tom, aby zahrnuli standardní doložky o ochraně údajů i do rozsáhlejších smluv nebo doplnili jiné doložky, pokud tyto nejsou v přímém či nepřímém rozporu se standardními smluvními doložkami přijatými Komisí nebo orgánem dozoru nebo pokud neomezují práva a svobody subjektů údajů."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarliges eller registerførerens mulighed for at bruge standard­bestemmelser om databeskyttelse vedtaget af Kommissionen eller af en tilsynsmyndighed, bør ikke udelukke muligheden for, at den registeransvarlige eller registerføreren medtager standardbestemmelser om databeskyttelse i en bredere kontrakt eller medtager andre bestemmelser, såfremt de hverken direkte eller indirekte er i strid med de standardkontraktbestemmelser, der er vedtaget af Kommissionen eller en tilsynsmyndighed, eller berører de registreredes grundlæggende rettigheder eller frihedsrettigheder."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutavale töötlejale ja volitatud töötlejale antud võimalus kasutada komisjoni või järelevalveasutuse vastu võetud standardseid isikuandmete kaitse klausleid ei tohiks välistada vastutava töötleja ja volitatud töötleja võimalust lisada standardsed isikuandmete kaitse klauslid põhjalikumasse lepingusse ega võimalust lisada muid sätteid, kui need ei lähe otseselt ega kaudselt vastuollu komisjoni või järelevalveasutuse vastu võetud standardsete isikuandmete kaitse klauslitega ega piira andmesubjektide põhiõigusi ja -vabadusi."
+		},
+		{
+			"lang": "el",
+			"text": "Η δυνατότητα του υπευθύνου επεξεργασίας ή του εκτελούντος την επεξεργασία να χρησιμοποιεί τυποποιημένες ρήτρες προστασίας των δεδομένων, οι οποίες εγκρίνονται από την Επιτροπή ή από αρχή ελέγχου, δεν πρέπει να εμποδίζει τη δυνατότητα των υπευθύνων επεξεργασίας ή των εκτελούντων την επεξεργασία να περιλαμβάνουν τις τυποποιημένες ρήτρες προστασίας των δεδομένων σε μια ευρύτερη σύμβαση ούτε να προσθέτουν άλλες ρήτρες εφόσον δεν αντιφάσκουν, άμεσα ή έμμεσα, προς τις τυποποιημένες συμβατικές ρήτρες που εγκρίνονται από την Επιτροπή ή από αρχή ελέγχου, ούτε θίγουν τα θεμελιώδη δικαιώματα ή τις ελευθερίες των προσώπων στα οποία αναφέρονται τα δεδομένα."
+		},
+		{
+			"lang": "bg",
+			"text": "Възможността администраторът или обработващият лични данни да използва стандартни клаузи за защита на данните, приети от Комисията или от надзорен орган, не следва да възпрепятства администраторите или обработващите лични данни да включат стандартни клаузи за защита на данните в договор с по-голям обхват, нито да добавят други клаузи, доколкото същите не противоречат пряко или косвено на стандартните договорни клаузи, приети от Комисията или от надзорен орган, нито засягат основните права или свободи на субектите на данни."
+		},
+		{
+			"lang": "hu",
+			"text": "Az a lehetőség, miszerint az adatkezelő vagy -feldolgozó alkalmazhatja a Bizottság vagy a felügyelő hatóság által elfogadott egységes adatvédelmi feltételeket, nem zárja ki sem azt, hogy az adatkezelő vagy -feldolgozó szélesebb körű szerződésben alkalmazza ezen egységes adatvédelmi feltételeket, sem a további feltételek hozzáadását, feltéve, hogy azok sem közvetlen, sem közvetett módon nem ellentétesek a Bizottság vagy a felügyelő hatóság által elfogadott egységes szerződési feltételekkel, és nem sértik az érintettek alapvető jogait és szabadságait."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-possibbiltà għall-kontrollur jew għall-proċessur li juża klawżoli standard ta’ protezzjoni tad-dejta adottati mill-Kummissjoni jew minn awtorità ta’ superviżjoni la għandha tipprevjeni l-possibbiltà għall-kontrolluri jew il-proċessuri li jinkludu l-klawżoli standard ta’ protezzjoni tad-dejta f’kuntratt usa’ u lanqas li jżidu klawżoli oħrajn sakemm ma jikkontradixxux, b’mod dirett jew indirett, il-klawżoli kuntrattwali standard adottati mill-Kummissjoni jew minn awtorità ta’ superviżjoni jew jippreġudikaw id-drittijiet jew il-libertajiet fundamentali tas-suġġetti tad-dejta."
+		},
+		{
+			"lang": "lv",
+			"text": "Iespējai, ka pārzinis vai apstrādātājs var izmantot Komisijas vai uzraudzības iestādes pieņemtos tipveida datu aizsardzības noteikumus, nebūtu jāizslēdz, ka pārzinis vai apstrādātājs var iekļaut tipveida datu aizsardzības noteikumus plašākā līgumā vai pievienot citus noteikumus, ja vien tie tieši vai netieši nav pretrunā ar Komisijas vai uzraudzības iestādes pieņemtajiem tipveida datu aizsardzības noteikumiem vai neierobežo datu subjekta pamattiesības un brīvības."
+		},
+		{
+			"lang": "ro",
+			"text": "Posibilitatea ca operatorul sau persoana împuternicită de către operator să utilizeze clauze standard în materie de protecție a datelor adoptate de către Comisie sau de către o autoritate de supraveghere nu ar trebui să împiedice operatorii sau persoanele împuternicite de către aceștia să includă clauze standard în materie de protecție a datelor într-un contract mai amplu și nici să adauge alte clauze, atât timp acestea cât nu contravin, direct sau indirect, clauzelor contractuale standard adoptate de către Comisie sau de către o autoritate de supraveghere sau nu prejudiciază drepturile sau libertățile fundamentale ale persoanelor vizate."
+		},
+		{
+			"lang": "sk",
+			"text": "Možnosť pre prevádzkovateľa alebo sprostredkovateľa uplatniť štandardné ustanovenia o ochrane údajov prijaté Komisiou alebo dozorným orgánom by prevádzkovateľom ani sprostredkovateľom nemali brániť v tom, aby zahrnuli štandardné doložky o ochrane údajov do širšej zmluvy alebo k nim pridali ďalšie ustanovenia, pokiaľ nie sú priamo alebo nepriamo kontradiktórne vo vzťahu k štandardným zmluvným doložkám prijatým Komisiou alebo dozorným orgánom alebo pokiaľ sa nedotýkajú základných práv a slobôd dotknutých osôb."
+		},
+		{
+			"lang": "sl",
+			"text": "Možnost, ki jo ima upravljavec ali obdelovalec glede uporabe standardnih določil Komisije ali nadzornega organa o varstvu podatkov, upravljavcu ali obdelovalcu ne bi smela preprečiti, da standardne določbe o varstvu podatkov vključi v obsežnejšo pogodbo ali doda druge določbe, če le-te neposredno ali posredno ne nasprotujejo standardnim določilom Komisije ali nadzornega organa o varstvu podatkov ali posegajo v temeljne pravice ali svoboščine posameznikov, na katere se nanašajo osebni podatki."
+		},
+		{
+			"lang": "fi",
+			"text": "Se, että rekisterinpitäjä tai henkilötietojen käsittelijä voi käyttää joko komission tai valvontaviranomaisen hyväksymiä tietosuojaa koskevia vakiolausekkeita, ei saisi estää rekisterinpitäjää tai henkilötietojen käsittelijää sisällyttämästä tietosuojaa koskevia vakiolausekkeita laajempiin sopimuksiin tai lisäämästä muita lausekkeita, kunhan ne eivät ole suoraan tai epäsuorasti ristiriidassa komission tai valvontaviranomaisen hyväksymien vakiosopimuslausekkeiden kanssa tai vaikuta rekisteröidyn perusoikeuksiin tai -vapauksiin."
+		},
+		{
+			"lang": "pl",
+			"text": "Możliwość korzystania przez administratora lub podmiot przetwarzający ze standardowych klauzul ochrony danych przyjętych przez Komisję lub organ nadzorczy nie powinna uniemożliwiać włączenia przez nich standardowych klauzul ochrony danych do szerszej umowy ani dodania innych klauzul, pod warunkiem że nie są one sprzeczne, bezpośrednio lub pośrednio, ze standardowymi klauzulami umownymi przyjętymi przez Komisję lub organ nadzorczy lub też nie naruszają podstawowych praw lub wolności podmiotów danych."
+		},
+		{
+			"lang": "lt",
+			"text": "galimybė duomenų valdytojui ar tvarkytojui remtis Komisijos ar priežiūros institucijos priimtomis standartinėmis duomenų apsaugos sąlygomis neturėtų užkirsti kelio duomenų valdytojams arba tvarkytojams standartines duomenų apsaugos sąlygas įtraukti į platesnes sutartis ar jas papildyti kitomis sąlygomis, jei jos tiesiogiai ar netiesiogiai neprieštarauja Komisijos ar priežiūros institucijos priimtoms standartinėms sutarčių sąlygoms ir nepažeidžia pagrindinių duomenų subjektų teisių ir laisvių;"
+		},
+		{
+			"lang": "nl",
+			"text": "Dat de voor de verwerking verantwoordelijke of verwerker kan gebruikmaken van modelbepalingen inzake gegevensbescherming die zijn vastgesteld door de Commissie of een toezichthoudende autoriteit, dient niet in te houden dat hij de modelbepalingen inzake gegevensbescherming niet in een bredere overeenkomst mag opnemen of geen andere bepalingen mag toevoegen, mits deze niet direct of indirect in tegenspraak zijn met de door de Commissie of een toezichthoudende autoriteit vastgestelde standaardcontractbepalingen en geen afbreuk doen aan de grondrechten of fundamentele vrijheden van de betrokkenen."
+		},
+		{
+			"lang": "sv",
+			"text": "Registeransvarigas eller registerförares möjlighet att använda standardiserade uppgiftsskyddsbestämmelser som antagits av kommissionen eller av en tillsynsmyndighet bör inte hindra att de infogar standardiserade uppgiftsskyddsbestämmelser i ett vidare avtal eller lägger till andra bestämmelser såvida dessa inte, direkt eller indirekt, står i strid mot standardavtalsklausuler som antagits av kommissionen eller av en tillsynsmyndighet eller påverkar de registrerades grundläggande rättigheter eller friheter."
+		}
+	],
+	"children": [],
+	"title": "Recital 84"
+}

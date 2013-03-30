@@ -1,0 +1,105 @@
+{
+	"id": "c4s3",
+	"type": "section",
+	"literal": "3",
+	"parent": "c4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "DATA PROTECTION IMPACT ASSESSMENT AND PRIOR AUTHORISATION"
+		},
+		{
+			"lang": "de",
+			"text": "DATENSCHUTZ-FOLGENABSCHÄTZUNG UND VORHERIGE GENEHMIGUNG"
+		},
+		{
+			"lang": "fr",
+			"text": "ANALYSE D'IMPACT RELATIVE À LA PROTECTION DES DONNÉES ET AUTORISATION PRÉALABLE"
+		},
+		{
+			"lang": "es",
+			"text": "EVALUACIÓN DE IMPACTO RELATIVA A LA PROTECCIÓN DE DATOS Y AUTORIZACIÓN PREVIA"
+		},
+		{
+			"lang": "pt",
+			"text": "AVALIAÇÃO DE IMPACTO SOBRE A PROTEÇÃO DE DADOS E AUTORIZAÇÃO PRÉVIA"
+		},
+		{
+			"lang": "it",
+			"text": "VALUTAZIONE D’IMPATTO SULLA PROTEZIONE DEI DATI E AUTORIZZAZIONE PREVENTIVA"
+		},
+		{
+			"lang": "ga",
+			"text": "MEASÚNÚ TIONCHAIR AR CHOSAINT SONRAÍ AGUS RÉAMHÚDARÚ"
+		},
+		{
+			"lang": "cs",
+			"text": "POSUZOVÁNÍ DOPADU NA OCHRANU ÚDAJŮ A PŘEDCHOZÍ POVOLENÍ"
+		},
+		{
+			"lang": "da",
+			"text": "KONSEKVENSANALYSE VEDRØRENDE DATABESKYTTELSE OG FORUDGÅENDE GODKENDELSE"
+		},
+		{
+			"lang": "et",
+			"text": "ISIKUANDMETE KAITSELE AVALDATAVA MÕJU HINNANG JA EELNEV LUBA"
+		},
+		{
+			"lang": "el",
+			"text": "ΕΚΤΙΜΗΣΗ ΕΠΙΠΤΩΣΕΩΝ ΣΧΕΤΙΚΑ ΜΕ ΤΗΝ ΠΡΟΣΤΑΣΙΑ ΔΕΔΟΜΕΝΩΝ ΚΑΙ ΠΡΟΗΓΟΥΜΕΝΗ ΕΓΚΡΙΣΗ"
+		},
+		{
+			"lang": "bg",
+			"text": "ОЦЕНКА НА ВЪЗДЕЙСТВИЕТО ВЪРХУ ЗАЩИТАТА НА ДАННИТЕ И ПРЕДВАРИТЕЛНО РАЗРЕШЕНИЕ"
+		},
+		{
+			"lang": "hu",
+			"text": "ADATVÉDELMI HATÁSVIZSGÁLAT ÉS ELŐZETES ENGEDÉLYEZÉS"
+		},
+		{
+			"lang": "mt",
+			"text": "VALUTAZZJONI TAL-IMPATT TAL-PROTEZZJONI TAD-DEJTA U AWTORIZZAZZJONI MINN QABEL"
+		},
+		{
+			"lang": "lv",
+			"text": "DATU AIZSARDZĪBAS IETEKMES NOVĒRTĒJUMS UN IEPRIEKŠĒJA ATĻAUJA"
+		},
+		{
+			"lang": "ro",
+			"text": "EVALUAREA IMPACTULUI PRIVIND PROTECȚIA DATELOR AUTORIZAȚIA PREALABILĂ"
+		},
+		{
+			"lang": "sk",
+			"text": "POSÚDENIE VPLYVU NA OCHRANU ÚDAJOV A POVOLENIE VOPRED"
+		},
+		{
+			"lang": "sl",
+			"text": "OCENA UČINKA O VARSTVU PODATKOV IN PREDHODNA ODOBRITEV"
+		},
+		{
+			"lang": "fi",
+			"text": "TIETOSUOJAA KOSKEVA VAIKUTUSTENARVIOINTI JA ENNAKKOHYVÄKSYNTÄ"
+		},
+		{
+			"lang": "pl",
+			"text": "OCENA SKUTKÓW W ZAKRESIE OCHRONY DANYCH I UPRZEDNIE ZEZWOLENIE"
+		},
+		{
+			"lang": "lt",
+			"text": "DUOMENŲ APSAUGOS VERTINIMAS IR IŠANSKTINIS LEIDIMAS"
+		},
+		{
+			"lang": "nl",
+			"text": "PRIVACYEFFECTBEOORDELING EN VOORAFGAANDE TOESTEMMING"
+		},
+		{
+			"lang": "sv",
+			"text": "KONSEKVENSBEDÖMNING AVSEENDE UPPGIFTSSKYDD OCH FÖRHANDSTILLSTÅND"
+		}
+	],
+	"children": [
+		"a33",
+		"a34"
+	],
+	"title": "Chapter 4 – Section 3"
+}

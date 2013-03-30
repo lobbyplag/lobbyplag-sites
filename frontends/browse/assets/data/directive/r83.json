@@ -1,0 +1,102 @@
+{
+	"id": "r83",
+	"type": "recital",
+	"literal": "83",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "In the absence of an adequacy decision, the controller or processor should take measures to compensate for the lack of data protection in a third country by way of appropriate safeguards for the data subject. Such appropriate safeguards may consist of making use of binding corporate rules, standard data protection clauses adopted by the Commission, standard data protection clauses adopted by a supervisory authority or contractual clauses authorised by a supervisory authority, or other suitable and proportionate measures justified in the light of all the circumstances surrounding a data transfer operation or set of data transfer operations and where authorised by a supervisory authority."
+		},
+		{
+			"lang": "de",
+			"text": "Bei Fehlen eines Angemessenheitsbeschlusses sollte der für die Verarbeitung Verantwortliche oder der Auftragsverarbeiter als Ausgleich für den in einem Drittland bestehenden Mangel an Datenschutz geeignete Garantien für den Schutz der betroffenen Person vorsehen. Diese Garantien können darin bestehen, dass auf verbindliche unternehmensinterne Datenschutzvorschriften, von der Kommission oder von einer Aufsichtsbehörde angenommene Standarddatenschutzklauseln, von einer Aufsichtsbehörde genehmigte Vertragsklauseln oder auf sonstige geeignete, angemessene, aufgrund der Umstände einer Datenübermittlung oder einer Kategorie von Datenübermittlungen gerechtfertigte und von einer Aufsichtsbehörde gebilligte Maßnahmen zurückgegriffen wird."
+		},
+		{
+			"lang": "fr",
+			"text": "En l’absence de décision constatant le caractère adéquat du niveau de protection, le responsable du traitement ou le sous‑traitant devrait prendre des mesures pour compenser l'insuffisance de la protection des données dans le pays tiers par des garanties appropriées en faveur de la personne concernée. Ces garanties peuvent consister à recourir à des règles d'entreprise contraignantes, des clauses types de protection des données adoptées par la Commission, des clauses types de protection des données adoptées par une autorité de contrôle ou des clauses contractuelles autorisées par celle-ci, ou d'autres mesures adaptées et proportionnées qui se justifient au regard des circonstances qui entourent une opération ou une série d'opérations de transfert de données, et dans les cas autorisés par une autorité de contrôle."
+		},
+		{
+			"lang": "es",
+			"text": "En ausencia de una decisión por la que se constata el carácter adecuado de la protección de los datos, el responsable o el encargado del tratamiento deben tomar medidas para compensar la falta de protección de datos en un tercer país mediante las garantías apropiadas para el interesado. Tales garantías apropiadas pueden consistir en hacer uso de normas corporativas vinculantes, cláusulas tipo de protección de datos adoptadas por la Comisión, cláusulas tipo de protección de datos adoptadas por una autoridad de control o cláusulas contractuales autorizadas por una autoridad de control u otras medidas adecuadas y proporcionadas que se justifiquen a la luz de todas las circunstancias que rodean la operación de transferencia de datos o las operaciones de transferencia de conjuntos de datos y siempre que las autorice una autoridad de control."
+		},
+		{
+			"lang": "pt",
+			"text": "Na falta de uma decisão sobre o nível de proteção adequado, o responsável pelo tratamento ou o subcontratante deve adotar as medidas necessárias para colmatar a insuficiência da proteção de dados no país terceiro através de garantias adequadas a favor do titular de dados. Essas medidas adequadas podem consistir na utilização de regras vinculativas para empresas, cláusulas-tipo de proteção de dados adotadas pelas Comissão, cláusulas-tipo de proteção de dados adotadas por uma autoridade de controlo, ou cláusulas contratuais autorizadas por esta autoridade, ou outras medidas adequadas e proporcionais justificáveis pelas circunstâncias inerentes a uma operação ou a um conjunto de operações de transferência de dados, e sempre que autorizadas por uma autoridade de controlo."
+		},
+		{
+			"lang": "it",
+			"text": "In mancanza di una decisione di adeguatezza, il responsabile del trattamento o l’incaricato del trattamento deve provvedere a compensare la carenza di protezione dei dati in un paese terzo con adeguate garanzie a tutela dell’interessato. Tali adeguate garanzie possono consistere nell’applicazione di norme vincolanti d’impresa, clausole di protezione dei dati adottate dalla Commissione, clausole tipo di protezione dei dati adottate da un’autorità di controllo o clausole contrattuali autorizzate da un’autorità di controllo, o altre opportune misure proporzionate e giustificate alla luce di tutte le circostanze relative ad un trasferimento o ad un insieme di trasferimenti di dati e nei casi autorizzati da un’autorità di controllo."
+		},
+		{
+			"lang": "ga",
+			"text": "In éagmais cinnidh maidir le cosaint leordhóthanach, ba cheart don rialaitheoir nó don phróiseálaí bearta a dhéanamh chun an easpa cosanta i dtríú tír a chúiteamh trí chosaintí iomchuí a chur i bhfeidhm don duine is ábhar do na sonraí. Féadfar a áireamh sna cosaintí iomchuí sin úsáid rialacha ceangailteacha corparáideacha, clásail chaighdeánacha maidir le cosaint sonraí arna nglacadh ag an gCoimisiún, clásail chaighdeánacha maidir le cosaint sonraí arna nglacadh ag údarás maoirseachta nó clásail chonarthacha arna n‑údarú ag údarás maoirseachta, nó aon bhearta iomchuí comhréireacha eile a bhfuil údar leo i bhfianaise na n‑imthosca uile a bhaineann le hoibríocht aistrithe sonraí nó le tacar oibríochtaí aistrithe sonraí, má tá na bearta sin údaraithe ag údarás maoirseachta."
+		},
+		{
+			"lang": "cs",
+			"text": "V případě absence rozhodnutí o přiměřenosti by správce nebo zpracovatel měl k odstranění nedostatků v oblasti ochrany údajů ve třetí zemí přijmout vhodné záruky pro ochranu subjektu údajů. Tyto vhodné záruky mohou spočívat ve využívání závazných podnikových pravidel, standardních doložek o ochraně údajů přijatých Komisí, standardních doložek o ochraně údajů přijatých orgánem dozoru nebo smluvních doložek schválených orgánem dozoru nebo jiných vhodných a přiměřených opatření opodstatněných na základě všech okolností spojených s předáváním údajů nebo řady údajů, které byly schváleny orgánem dozoru."
+		},
+		{
+			"lang": "da",
+			"text": "Hvis der ikke er vedtaget en afgørelse om tilstrækkeligheden af beskyttelsesniveauet, bør den registeransvarlige eller registerføreren iværksætte foranstaltninger, som kan kompensere for den manglende beskyttelse i tredjelandet, i form af de fornødne garantier for den registrerede. Sådanne fornødne garantier kan bestå af anvendelse af bindende virksomhedsregler, standardbestemmelser om databeskyttelse vedtaget af Kommissionen, standardbestemmelser om databeskyttelse vedtaget af en tilsyns­myndighed eller kontraktbestemmelser godkendt af en tilsynsmyndighed eller andre passende og forholdsmæssige foranstaltninger, der er begrundet af omstændighederne ved en videregivelse af personoplysninger eller en serie af videregivelser af personoplysninger, og som er godkendt af en tilsynsmyndighed."
+		},
+		{
+			"lang": "et",
+			"text": "Kaitse piisavust käsitleva otsuse puudumise korral peaks vastutav töötleja või volitatud töötleja võtma meetmed, et tasakaalustada kolmanda riigi isikuandmete kaitse puudulik tase asjakohaste andmesubjekti kaitsmise meetmetega. Sellised asjakohased kaitsemeetmed võivad hõlmata järgneva kasutamist: siduvad ettevõtluseeskirjad, komisjoni vastu võetud standardsed isikuandmete kaitse klauslid, järelevalveasutuse vastu võetud standardsed isikuandmete kaitse klauslid, järelevalveasutuse heaks kiidetud lepingusätted ning muud kohased ja proportsionaalsed meetmed, mis on põhjendatud andmete edastamise toimingu(te) kõigi asjaoludega ja mille järelevalveasutus on heaks kiitnud."
+		},
+		{
+			"lang": "el",
+			"text": "Απουσία απόφασης περί επάρκειας της προστασίας, ο υπεύθυνος επεξεργασίας ή ο εκτελών την επεξεργασία πρέπει να λάβουν μέτρα για να αντισταθμίσουν την έλλειψη προστασίας των δεδομένων σε μια τρίτη χώρα μέσω κατάλληλων εγγυήσεων για το πρόσωπο στο οποίο αναφέρονται τα δεδομένα. Οι κατάλληλες εγγυήσεις μπορεί να συνίστανται στη χρήση δεσμευτικών εταιρικών κανόνων, τυποποιημένων ρητρών προστασίας των δεδομένων που θεσπίζονται από την Επιτροπή, τυποποιημένων ρητρών προστασίας των δεδομένων που θεσπίζονται από αρχή ελέγχου ή συμβατικών ρητρών που εγκρίνονται από αρχή ελέγχου ή άλλων κατάλληλων και αναλογικών μέτρων τα οποία δικαιολογούνται υπό το πρίσμα όλων των συνθηκών που περιβάλλουν την πράξη διαβίβασης δεδομένων ή σειρά πράξεων διαβίβασης δεδομένων και εγκρίνονται από αρχή ελέγχου."
+		},
+		{
+			"lang": "bg",
+			"text": "При липсата на решение относно адекватността администраторът или обработващият лични данни следва да предприеме мерки, за да компенсира липсата на защита в дадена трета държава чрез подходящи гаранции за субекта на данните. Такива подходящи гаранции може да се състоят от използването на задължителни фирмени правила, стандартни клаузи за защита на данните, приети от Комисията, стандартни клаузи за защита на данните, приети от надзорния орган или договорни клаузи, разрешени от надзорния орган, или други уместни и пропорционални мерки, оправдани с оглед на всички обстоятелства около дадена операция по предаване на данни или даден набор от операции по предаване на данни и когато са разрешени от надзорен орган."
+		},
+		{
+			"lang": "hu",
+			"text": "Megfelelőségi határozat hiányában az adatkezelő vagy -feldolgozó intézkedéseket hoz a védelem harmadik országban fellépő hiányosságainak ellensúlyozására, az érintett számára megfelelő biztosítékok rendelkezésre bocsátása útján. Ezek a megfelelő biztosítékok magukban foglalják a kötelező erejű vállalati szabályok, a Bizottság által elfogadott egységes adatvédelmi feltételek, a felügyelő hatóság által elfogadott egységes adatvédelmi feltételek vagy a felügyelő hatóság által engedélyezett szerződési feltételek vagy olyan egyéb megfelelő és arányos intézkedések alkalmazását, amelyek az adattovábbítási művelet vagy az adattovábbítási műveletek csoportjának összes körülménye fényében igazolhatók, amennyiben a felügyelő hatóság engedélyezi."
+		},
+		{
+			"lang": "mt",
+			"text": "Fin-nuqqas ta’ deċiżjoni ta’ adegwatezza, il-kontrollur jew il-proċessur għandu jieħu miżuri sabiex jikkumpensa għan-nuqqas ta’ protezzjoni tad-dejta f’pajjiż terz permezz ta’ salvagwardji xierqa għas-suġġett tad-dejta. Dawn is-salvagwardji xierqa jistgħu jikkonsistu mill-użu ta’ regoli korporattivi vinkolanti, klawżoli tal-protezzjoni tad-dejta standard adottati mill-Kummissjoni, klawżoli ta’ protezzjoni tad-dejta standard adottati minn awtorità ta’ superviżjoni jew klawżoli kuntrattwali awtorizzati minn awtorità ta’ superviżjoni, jew miżuri xierqa u proporzjonati oħra ġġustifikati fid-dawl taċ-ċirkostanzi kollha madwar operazzjoni tat-trasferiment tad-dejta jew sett ta’ operazzjonijiet ta’ trasferiment tad-dejta u meta awtorizzati minn awtorità ta’ superviżjoni."
+		},
+		{
+			"lang": "lv",
+			"text": "Kamēr lēmums par aizsardzības līmeņa pietiekamību nav pieņemts, pārzinim vai apstrādātājam būtu jāveic pasākumi, kas kompensētu datu aizsardzības trūkumus trešā valstī, veicot atbilstošus datu subjekta aizsardzības pasākumus. Šādi atbilstoši aizsardzības pasākumi varētu nozīmēt, ka tiek izmantoti saistošie uzņēmuma noteikumi, Komisijas pieņemtie tipveida datu aizsardzības noteikumi, uzraudzības iestādes pieņemtie tipveida datu aizsardzības noteikumi vai uzraudzības iestādes apstiprināti līguma noteikumi, vai citi piemēroti un samērīgi pasākumi, kuru izmantošanu attaisno datu nosūtīšanas darbības apstākļi vai datu nosūtīšanas darbību kopuma apstākļi un ja to ir atļāvusi uzraudzības iestāde."
+		},
+		{
+			"lang": "ro",
+			"text": "În absența unei decizii privind caracterul adecvat al protecției, operatorul sau persoana împuternicită de către operator ar trebui să adopte măsuri pentru a compensa lipsa protecției datelor într-o țară terță prin intermediul unor garanții corespunzătoare pentru persoana vizată. Astfel de garanții corespunzătoare pot consta în utilizarea regulilor corporatiste obligatorii, a clauzelor standard de protecție a datelor adoptate de către Comisie, a clauzelor standard în materie de protecție a datelor adoptate de către o autoritate de supraveghere sau a clauzelor contractuale autorizate de o autoritate de supraveghere sau a altor măsuri adecvate și proporționale care sunt justificate având în vedere toate circumstanțele aferente unei operațiuni de transfer de date sau unui set de operațiuni de transfer de date și în cazurile autorizate de o autoritate de supraveghere."
+		},
+		{
+			"lang": "sk",
+			"text": "Pri absencii rozhodnutia o primeranosti by prevádzkovateľ a sprostredkovateľ mali prijať opatrenia na kompenzáciu za nedostatočnú ochranu údajov v tretej krajine prostredníctvom náležitých záruk pre dotknutú osobu. Takéto náležité záruky môžu spočívať v uplatnení záväzných firemných pravidiel, štandardných ustanovení o ochrane údajov prijatých Komisiou, štandardných ustanovení o ochrane údajov prijatých dozorným orgánom, alebo iných vhodných a primeraných opatrení opodstatnených všetkými okolnosťami operácie prenosu údajov alebo súboru operácií prenosu údajov a povolených dozorným orgánom."
+		},
+		{
+			"lang": "sl",
+			"text": "Če sklep o ustreznosti ni sprejet, bi moral upravljavec ali obdelovalec sprejeti ukrepe, ki bodo pomanjkanje varstva podatkov v tretji državi nadomestili z ustreznimi zaščitnimi ukrepi za posameznika, na katerega se nanašajo osebni podatki. Taki ustrezni zaščitni ukrepi so lahko sestavljeni iz uporabe zavezujočih poslovnih pravil, standardnih določil Komisije o varstvu podatkov, standardnih določil nadzornega organa o varstvu podatkov ali pogodbenih določil, ki jih je odobril nadzorni organ, ali drugih ustreznih in sorazmernih ukrepov, ki so ob upoštevanju vseh okoliščin postopka za prenos podatkov ali niza postopkov za prenos podatkov upravičeni in jih odobri nadzorni organ."
+		},
+		{
+			"lang": "fi",
+			"text": "Jos tietosuojan riittävyyttä koskevaa päätöstä ei ole tehty, rekisterinpitäjän tai henkilötietojen käsittelijän olisi toteutettava toimenpiteitä, joiden avulla rekisteröidylle voidaan antaa asianmukaiset takeet kolmannen maan puutteellisen tietosuojan kompensoimiseksi. Nämä asianmukaiset takeet voivat tarkoittaa, että sovelletaan yritystä koskevia sitovia sääntöjä, komission tai valvontaviranomaisen hyväksymiä tietosuojaa koskevia vakiolausekkeita tai valvontaviranomaisen hyväksymiä sopimuslausekkeita, tai muita soveltuvia ja oikeasuhteisia toimenpiteitä, jotka ovat perusteltuja tiedonsiirtoon tai tiedonsiirtojen sarjaan liittyvien seikkojen perusteella, edellyttäen että valvontaviranomainen hyväksyy ne."
+		},
+		{
+			"lang": "pl",
+			"text": "W braku decyzji stwierdzającej odpowiedni poziom ochrony administrator lub podmiot przetwarzający powinni podjąć środki mające na celu zrekompensowanie braku ochrony w państwie trzecim poprzez zaoferowanie podmiotowi danych odpowiednich gwarancji. Takie odpowiednie gwarancje mogą polegać na skorzystaniu z wiążących reguł korporacyjnych, standardowych klauzul ochrony danych przyjętych przez Komisję, standardowych klauzul ochrony danych przyjętych przez organ nadzorczy, klauzul umownych dopuszczonych przez organ nadzorczy lub innych właściwych i proporcjonalnych środków uzasadnionych w świetle wszystkich okoliczności związanych z jedną operacją przekazania danych lub zestawem takich operacji przekazania, o ile zezwoli na to organ nadzorczy."
+		},
+		{
+			"lang": "lt",
+			"text": "jei sprendimas dėl tinkamumo nepriimtas, duomenų valdytojas arba tvarkytojas turėtų duomenų subjektams numatyti tinkamas apsaugos priemones nepakankamai duomenų apsaugai trečiojoje šalyje kompensuoti. Tokios apsaugos priemonės galėtų būti rėmimasis įmonei privalomomis taisyklėmis, Komisijos priimtomis standartinėmis duomenų apsaugos sąlygomis, priežiūros institucijos priimtomis standartinėmis duomenų apsaugos sąlygomis, priežiūros institucijos patvirtintomis sutarties sąlygomis ar kitomis tinkamomis ir proporcingomis priemonėmis, pateisinamomis atsižvelgiant į visas duomenų perdavimo operacijos ar operacijų sekos aplinkybes ir patvirtintomis priežiūros institucijos;"
+		},
+		{
+			"lang": "nl",
+			"text": "Indien er geen besluit is genomen waarbij een beschermingsniveau passend wordt verklaard, dient de voor de verwerking verantwoordelijke of de verwerker maatregelen te nemen om het ontoereikende niveau van gegevensbescherming in een derde land te verhelpen door middel van passende waarborgen voor de betrokkenen. Dergelijke passende maatregelen kunnen erin bestaan gebruik te maken van bindende bedrijfsvoorschriften, modelbepalingen inzake gegevensbescherming die zijn vastgesteld door de Commissie, modelbepalingen inzake gegevensbescherming die zijn vastgesteld door een toezichthoudende autoriteit of contractbepalingen die zijn goedgekeurd door een toezichthoudende autoriteit, of andere geschikte en evenredige maatregelen die gerechtvaardigd zijn in het licht van alle omstandigheden van een gegevensbewerking of een reeks van gegevensbewerkingen en die zijn goedgekeurd door een toezichthoudende autoriteit."
+		},
+		{
+			"lang": "sv",
+			"text": "Saknas beslut om adekvat skyddsnivå bör den registeransvarige eller registerföraren vidta åtgärder för att kompensera för det bristande uppgiftsskyddet i ett tredjeland med hjälp av lämpliga skyddsåtgärder för den registrerade. Sådana lämpliga skyddsåtgärder kan bestå i tillämpning av bindande företagsbestämmelser, standardbestämmelser om uppgiftsskydd som antagits av kommissionen, standardbestämmelser om uppgiftsskydd som antagits av en tillsynsmyndighet, avtalsbestämmelser som godkänts av en tillsynsmyndighet eller andra passande och proportionella åtgärder som kan vara motiverade med hänsyn till alla omständigheterna kring en uppgiftsöverföring eller en serie av uppgiftsöverföringar och som har godkänts av en tillsynsmyndighet."
+		}
+	],
+	"children": [],
+	"title": "Recital 83"
+}

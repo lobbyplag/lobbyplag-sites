@@ -1,0 +1,102 @@
+{
+	"id": "r62",
+	"type": "recital",
+	"literal": "62",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The protection of the rights and freedoms of data subjects as well as the responsibility and liability of controllers and processor, also in relation to the monitoring by and measures of supervisory authorities, requires a clear attribution of the responsibilities under this Regulation, including where a controller determines the purposes, conditions and means of the processing jointly with other controllers or where a processing operation is carried out on behalf of a controller."
+		},
+		{
+			"lang": "de",
+			"text": "Zum Schutz der Rechte und Freiheiten der betroffenen Personen sowie zur Klärung der Verantwortung und der Haftung der für die Verarbeitung Verantwortlichen und des Auftragsverarbeiters bedarf es – auch mit Blick auf die Überwachungs- und sonstigen Maßnahmen von Aufsichtsbehörden – einer klaren Zuteilung der Verantwortlichkeiten durch diese Verordnung, insbesondere für Fälle, in denen ein für die Verarbeitung Verantwortlicher die Verarbeitungszwecke, -bedingungen und ‑mittel gemeinsam mit anderen für die Verarbeitung Verantwortlichen festlegt oder ein Verarbeitungsvorgang im Auftrag eines für die Verarbeitung Verantwortlichen durchgeführt wird."
+		},
+		{
+			"lang": "fr",
+			"text": "La protection des droits et libertés des personnes concernées, de même que la responsabilité des responsables du traitement et de leurs sous-traitants, y compris dans le cadre de la surveillance exercée par les autorités de contrôle et des mesures prises par elles, exige une répartition claire des responsabilités au titre du présent règlement, notamment dans le cas où le responsable du traitement détermine les finalités, les conditions et les moyens du traitement conjointement avec d'autres responsables, ou lorsqu'un traitement est effectué pour le compte d'un responsable du traitement."
+		},
+		{
+			"lang": "es",
+			"text": "La protección de los derechos y libertades de los interesados, así como la responsabilidad de los responsables y del encargado del tratamiento, también en relación con la supervisión de las autoridades de control y las medidas adoptadas por ellas, requiere una atribución clara de las responsabilidades con arreglo al presente Reglamento, incluidos los casos en que un responsable determine los fines, condiciones y medios del tratamiento de forma conjunta con otros responsables del tratamiento o cuando el tratamiento se efectúe por cuenta de un responsable."
+		},
+		{
+			"lang": "pt",
+			"text": "A proteção dos direitos e liberdades dos titulares de dados, bem como a responsabilidade dos responsáveis pelo tratamento e dos subcontratantes, incluindo no que diz respeito à supervisão e às medidas adotadas pelas autoridades de controlo, exige uma clara repartição das responsabilidades nos termos do presente regulamento, nomeadamente quando o responsável pelo tratamento determina as finalidades, as condições e os meios do tratamento conjuntamente com outros responsáveis, ou quando uma operação de tratamento de dados é efetuada por conta de um responsável pelo tratamento."
+		},
+		{
+			"lang": "it",
+			"text": "La protezione dei diritti e delle libertà dell’interessato così come le responsabilità del responsabile del trattamento e dell’incaricato del trattamento, anche in relazione al monitoraggio e alle misure delle autorità di controllo, esigono una chiara attribuzione delle responsabilità ai sensi del presente regolamento, compresi i casi in cui un responsabile del trattamento stabilisca le finalità, le condizioni e i mezzi del trattamento congiuntamente con altri responsabili del trattamento o quando l’operazione viene eseguita per conto del responsabile del trattamento."
+		},
+		{
+			"lang": "ga",
+			"text": "I ngeall ar chosaint ceart agus saoirsí daoine is ábhar do shonraí agus freagracht agus dliteanas rialaitheoirí agus próiseálaithe, agus a mhéid a bhaineann le faireachán agus bearta arna ndéanamh ag údaráis mhaoirseachta, ní mór na freagrachtaí faoin Rialachán seo a shannadh go soiléir, lena n‑áirítear i gcás ina gcinneann rialaitheoir críocha, coinníollacha agus modhanna na próiseála i gcomhpháirt le rialaitheoirí eile nó i gcás ina ndéantar an phróiseáil thar ceann rialaitheora."
+		},
+		{
+			"lang": "cs",
+			"text": "Pro ochranu práv a svobod subjektů údajů, jakož i z hlediska odpovědnosti správců a zpracovatele je třeba také s ohledem na sledování ze strany orgánů dozoru a jejich opatření jasně vymezit odpovědnosti podle tohoto nařízení, včetně případů, kdy správce určuje účely, podmínky a prostředky zpracování společně s jinými správci nebo kdy je zpracovávání prováděno jménem správce."
+		},
+		{
+			"lang": "da",
+			"text": "Beskyttelsen af registreredes rettigheder og frihedsrettigheder samt registeransvarliges og registerføreres ansvar, også i forbindelse med tilsynsmyndighedernes kontrol og foranstaltninger, kræver en klar fordeling af ansvarsområderne under denne forordning, herunder når en registeransvarlig fastlægger formålene med, betingelserne for og metoderne til behandlingen sammen med andre registeransvarlige, eller når en behandling foretages på vegne af en registeransvarlig."
+		},
+		{
+			"lang": "et",
+			"text": "Andmesubjektide õiguste ja vabaduste kaitse ning vastutavate töötlejate ja volitatud töötlejate vastutus muu hulgas järelevalveasutuste teostatava kontrolli ja võetavate meetmete korral nõuab vastutusvaldkondade selget jaotamist käesolevas määruses, seda ka juhul kui vastutav töötleja määrab kindlaks isikuandmete töötlemise eesmärgid, tingimused ja vahendid koos teiste vastutavate töötlejatega või kui töötlemistoimingut teostatakse vastutava töötleja nimel."
+		},
+		{
+			"lang": "el",
+			"text": "Η προστασία των δικαιωμάτων και των ελευθεριών των προσώπων στα οποία αναφέρονται τα δεδομένα, καθώς και η ευθύνη και η υποχρέωση αποζημίωσης των υπευθύνων επεξεργασίας και των εκτελούντων την επεξεργασία, επίσης σε σχέση με την παρακολούθηση από τις αρχές ελέγχου και τα μέτρα αρχών ελέγχου, προϋποθέτει σαφή κατανομή των αρμοδιοτήτων βάσει του παρόντος κανονισμού, συμπεριλαμβανομένης της περίπτωσης κατά την οποία ένας υπεύθυνος επεξεργασίας καθορίζει τους σκοπούς, τις προϋποθέσεις και τα μέσα της επεξεργασίας από κοινού με άλλους υπευθύνους επεξεργασίας ή όταν μια πράξη επεξεργασίας διενεργείται για λογαριασμό ενός υπευθύνου επεξεργασίας."
+		},
+		{
+			"lang": "bg",
+			"text": "Защитата на правата и свободите на субектите на данни, както и отговорността и задълженията на администраторите и обработващите лични данни, а също и по отношение на наблюдението и мерките от страна на надзорните органи, изискват ясно определяне на отговорностите съгласно настоящия регламент, включително когато администраторът определя целите, условията и средствата на обработването съвместно с други администратори или когато дадена операция по обработване се извършва от името на даден администратор."
+		},
+		{
+			"lang": "hu",
+			"text": "Az érintettek jogainak és szabadságainak védelme mellett az adatkezelők és -feldolgozók feladata és felelőssége a felügyelő hatóságok ellenőrzése és intézkedései tekintetében is megköveteli az e rendelet szerinti feladatok egyértelmű hozzárendelhetőségét, ideértve azt az esetet is, amikor az adatkezelő más adatkezelőkkel közösen határozza meg az adatfeldolgozás céljait, feltételeit és eszközeit, vagy amikor egy adatkezelő nevében végeznek adatfeldolgozási műveletet."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-protezzjoni tad-drittijiet u l-libertajiet tas-suġġetti tad-dejta kif ukoll ir-responsabbiltà tal-kontrolluri u l-proċessuri, ukoll fir-rigward tas-sorveljanza minn u l-miżuri ta’ awtoritajiet ta’ superviżjoni, titlob attribuzzjoni ċara tar-responsabbiltajiet taħt dan ir-Regolament, inkluż fejn kontrollur jistabbilixxi l-objettivi, il-kundizzjonijiet u l-mezzi tal-ipproċessar flimkien ma’ kontrolluri oħra jew meta operazzjoni ta’ pproċessar titwettaq f’isem kontrollur"
+		},
+		{
+			"lang": "lv",
+			"text": "Datu subjekta tiesību un brīvību aizsardzība un pārziņa un apstrādātāja pienākumi un atbildība, arī saistībā ar uzraudzības iestāžu uzraudzību un īstenotajiem pasākumiem, prasa skaidri sadalīt pienākumus saskaņā ar šo regulu, tostarp arī tajos gadījumos, kad pārzinis apstrādes nolūkus, nosacījumus un līdzekļus nosaka kopā ar citiem pārziņiem vai gadījumos, kad apstrādes darbības tiek veiktas pārziņa vārdā."
+		},
+		{
+			"lang": "ro",
+			"text": "Protecția drepturilor și libertăților persoanelor vizate, precum și responsabilitatea și răspunderea operatorilor și a persoanei împuternicite de către operator, în ceea ce privește, de asemenea, monitorizarea de către autoritățile de supraveghere și măsurile adoptate de acestea, necesită o atribuire clară a responsabilităților în temeiul prezentului regulament, inclusiv în cazul în care un operator stabilește scopurile, condițiile și mijloacele prelucrării împreună cu alți operatori sau în cazul în care o operațiune de prelucrare este efectuată în numele unui operator."
+		},
+		{
+			"lang": "sk",
+			"text": "Ochrana práv a slobôd dotknutých osôb, ako aj zodpovednosť a povinnosť prevádzkovateľov a sprostredkovateľa, a to aj v súvislosti s monitorovaním zo strany dozorných orgánov a ich opatreniami, si vyžaduje jasné priradenie zodpovednosti podľa tohto nariadenia vrátane prípadov, v ktorých prevádzkovateľ určuje účely, podmienky a prostriedky spracovania spoločne s inými prevádzkovateľmi alebo v prípadoch, v ktorých sa operácia spracovania vykonáva v mene prevádzkovateľa."
+		},
+		{
+			"lang": "sl",
+			"text": "Varstvo pravic in svoboščin posameznikov, na katere se nanašajo osebni podatki, pa tudi pristojnost in odgovornost upravljavca in obdelovalca, tudi v povezavi s spremljanjem in ukrepi nadzornih organov, zahtevajo jasno razdelitev odgovornosti na podlagi te uredbe, tudi kadar upravljavec namene, pogoje in sredstva obdelave določi skupaj z drugimi upravljavci ali kadar je postopek obdelave izveden v imenu upravljavca."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisteröidyn oikeuksien ja vapauksien suojelu sekä rekisterinpitäjien ja henkilötietojen käsittelijöiden vastuu esimerkiksi valvontaviranomaisten suorittaman seurannan ja niiden toteuttamien toimenpiteiden yhteydessä edellyttää, että tässä asetuksessa säädetyt vastuualueet jaetaan selkeästi, myös silloin kun rekisterinpitäjä määrittää käsittelyn tarkoitukset, edellytykset ja keinot yhdessä muiden rekisterinpitäjien kanssa tai kun käsittely suoritetaan rekisterinpitäjän puolesta."
+		},
+		{
+			"lang": "pl",
+			"text": "Ochrona praw i wolności podmiotów danych, a także zobowiązania i odpowiedzialność administratorów i podmiotów przetwarzających, także w odniesieniu do monitorowania przez organy nadzorcze i środków przez nie stosowanych, wymaga dokonania w niniejszym rozporządzeniu jasnego przydziału obowiązków, w tym w przypadku gdy administrator określa cele, warunki i sposoby przetwarzania wspólnie z innymi administratorami oraz gdy operacja przetwarzania jest dokonywana w imieniu administratora."
+		},
+		{
+			"lang": "lt",
+			"text": "siekiant užtikrinti duomenų subjektų teises ir laisves ir nustatyti duomenų valdytojų ir duomenų tvarkytojų atsakomybę, šiame reglamente reikia aiškiai paskirstyti atsakomybę – taip pat ir priežiūros institucijų stebėjimo ir priemonių atžvilgiu – be kita ko, tais atvejais, kai duomenų valdytojas kartu su kitais duomenų valdytojais nustato duomenų tvarkymo tikslus, sąlygas ir būdus arba kai duomenų tvarkymo operacija atlikta duomenų valdytojo pavedimu;"
+		},
+		{
+			"lang": "nl",
+			"text": "Het is voor de bescherming van de rechten en vrijheden van betrokkenen en de verantwoordelijkheid en aansprakelijkheid van voor de verwerking verantwoordelijken en verwerkers noodzakelijk, onder meer wat het toezicht door en de maatregelen van de toezichthoudende autoriteiten betreft, dat de bij deze verordening vastgestelde verantwoordelijkheden op duidelijke wijze worden toegekend, ook wanneer de voor de verwerking verantwoordelijke de doeleinden, voorwaarden en middelen voor de verwerking samen met andere voor de verwerking verantwoordelijken vaststelt, of wanneer een verwerking wordt uitgevoerd namens een voor de verwerking verantwoordelijke."
+		},
+		{
+			"lang": "sv",
+			"text": "Skyddet av de registrerades rättigheter och friheter samt de registeransvarigas och registerförarna ansvar, också i förhållande till tillsynsmyndigheternas övervakning och åtgärder, kräver ett tydligt fastställande av vem som bär ansvaret enligt denna förordning, bl.a. när registeransvariga bestämmer ändamål, villkor och medel för en behandling gemensamt tillsammans med andra registeransvariga eller när en behandling utförs på en registeransvarigs vägnar."
+		}
+	],
+	"children": [],
+	"title": "Recital 62"
+}

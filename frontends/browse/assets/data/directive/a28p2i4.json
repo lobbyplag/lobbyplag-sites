@@ -1,0 +1,102 @@
+{
+	"id": "a28p2i4",
+	"type": "point",
+	"literal": "d",
+	"parent": "a28p2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "a description of categories of data subjects and of the categories of personal data relating to them;"
+		},
+		{
+			"lang": "de",
+			"text": "eine Beschreibung der Kategorien von betroffenen Personen und der Kategorien der sich auf diese beziehenden personenbezogenen Daten;"
+		},
+		{
+			"lang": "fr",
+			"text": "une description des catégories de personnes concernées et des catégories de données à caractère personnel s'y rapportant;"
+		},
+		{
+			"lang": "es",
+			"text": "una descripción de las categorías de interesados y de las categorías de datos personales que les conciernen;"
+		},
+		{
+			"lang": "pt",
+			"text": "Descrição das categorias de titulares de dados e das categorias de dados pessoais que lhes digam respeito;"
+		},
+		{
+			"lang": "it",
+			"text": "descrizione delle categorie di interessati e delle pertinenti categorie di dati personali;"
+		},
+		{
+			"lang": "ga",
+			"text": "tuairisc ar na catagóirí daoine is ábhar do shonraí agus ar na catagóirí sonraí pearsanta a bhaineann leo;"
+		},
+		{
+			"lang": "cs",
+			"text": "popis kategorií subjektů údajů a kategorií osobních údajů, které se na ně vztahují;"
+		},
+		{
+			"lang": "da",
+			"text": "en beskrivelse af kategorierne af registrerede og de kategorier af personoplysninger, der vedrører dem"
+		},
+		{
+			"lang": "et",
+			"text": "andmesubjektide kategooria ja nendega seotud isikuandmete liik;"
+		},
+		{
+			"lang": "el",
+			"text": "δ) περιγραφή των κατηγοριών προσώπων στα οποία αναφέρονται τα δεδομένα και των κατηγοριών δεδομένων προσωπικού χαρακτήρα που τα αφορούν·"
+		},
+		{
+			"lang": "bg",
+			"text": "г) описание на категориите субекти на данни и на свързаните с тях категории лични данни;"
+		},
+		{
+			"lang": "hu",
+			"text": "az érintettek kategóriáinak, valamint a rájuk vonatkozó személyes adatok kategóriáinak ismertetése;"
+		},
+		{
+			"lang": "mt",
+			"text": "deskrizzjoni ta’ kategoriji ta’ suġġetti tad-dejta u ta’ kategoriji ta’ dejta personali li tirrigwardahom;"
+		},
+		{
+			"lang": "lv",
+			"text": "datu subjektu kategoriju aprakstu un ar tiem saistīto personas datu kategoriju aprakstu;"
+		},
+		{
+			"lang": "ro",
+			"text": "o descriere a categoriilor de persoane vizate și a categoriilor de date cu caracter personal care le privesc;"
+		},
+		{
+			"lang": "sk",
+			"text": "opis kategórií dotknutých osôb a kategórií osobných údajov, ktoré sa ich týkajú;"
+		},
+		{
+			"lang": "sl",
+			"text": "opisu vrst posameznikov, na katere se nanašajo osebni podatki, in vrst osebnih podatkov v zvezi z njimi;"
+		},
+		{
+			"lang": "fi",
+			"text": "kuvaus rekisteröityjen ryhmistä ja niihin liittyvistä tietoryhmistä;"
+		},
+		{
+			"lang": "pl",
+			"text": "opisu kategorii podmiotów danych oraz kategorii danych osobowych odnoszących się do nich;"
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų subjektų kategorijų ir duomenų subjektų asmens duomenų kategorijų aprašymas;"
+		},
+		{
+			"lang": "nl",
+			"text": "een beschrijving van de categorieën betrokkenen en van de categorieën hen betreffende persoonsgegevens;"
+		},
+		{
+			"lang": "sv",
+			"text": "En beskrivning av de kategorier av registrerade som berörs och av de kategorier av personuppgifter som hänför sig till dem."
+		}
+	],
+	"children": [],
+	"title": "Article 28 – Paragraph 2 – Point 4"
+}

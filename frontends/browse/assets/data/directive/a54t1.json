@@ -1,0 +1,102 @@
+{
+	"id": "a54t1",
+	"type": "introduction",
+	"literal": null,
+	"parent": "a54",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Each supervisory authority must draw up an annual report on its activities. The report shall be presented to the national parliament and shall be made be available to the public, the Commission and the European Data Protection Board."
+		},
+		{
+			"lang": "de",
+			"text": "Jede Aufsichtsbehörde erstellt einen Jahresbericht über ihre Tätigkeit. Der Bericht wird dem nationalen Parlament vorgelegt und der Öffentlichkeit, der Kommission und dem Europäischen Datenschutzausschuss zugänglich gemacht."
+		},
+		{
+			"lang": "fr",
+			"text": "Chaque autorité de contrôle doit établir un rapport annuel sur son activité. Le rapport est présenté au parlement national; il est rendu public et mis à la disposition de la Commission et du comité européen de la protection des données."
+		},
+		{
+			"lang": "es",
+			"text": "Cada autoridad de control deberá elaborar un informe anual sobre sus actividades. El informe será presentado al parlamento nacional y se pondrá a disposición del público, de la Comisión y del Consejo Europeo de Protección de Datos."
+		},
+		{
+			"lang": "pt",
+			"text": "Cada autoridade de controlo elabora um relatório anual de atividades. O relatório é apresentado ao parlamento nacional e tornado público e disponibilizado à Comissão e ao Comité Europeu para a Proteção de Dados."
+		},
+		{
+			"lang": "it",
+			"text": "Ogni autorità di controllo elabora una relazione annuale sulla propria attività. La relazione è trasmessa al parlamento nazionale ed è messa a disposizione del pubblico, della Commissione e del comitato europeo per la protezione dei dati."
+		},
+		{
+			"lang": "ga",
+			"text": "Ní mór do gach údarás maoirseachta tuarascáil bhliantúil a tharraingt suas ar a chuid gníomhaíochtaí. Tíolacfar an tuarascáil chuig an bparlaimint náisiúnta agus cuirfear ar fáil í don phobal, don Choimisiún agus don Bhord Eorpach um Chosaint Sonraí."
+		},
+		{
+			"lang": "cs",
+			"text": "Každý orgán dozoru musí každý rok vypracovat zprávu o své činnosti. Zpráva se předkládá vnitrostátnímu parlamentu a poskytuje se k dispozici veřejnosti, Komisi a Evropské radě pro ochranu údajů."
+		},
+		{
+			"lang": "da",
+			"text": "Hver tilsynsmyndighed udarbejder en årlig rapport om sin virksomhed. Rapporten forelægges det nationale parlament og stilles til rådighed for offentligheden, Kommissionen og Det Europæiske Databeskyttelsesråd."
+		},
+		{
+			"lang": "et",
+			"text": "Iga järelevalveasutus peab koostama oma tegevuse kohta aastaaruande. Aruanne esitatakse riigi parlamendile ning tehakse kättesaadavaks avalikkusele, komisjonile ja Euroopa Andmekaitsenõukogule."
+		},
+		{
+			"lang": "el",
+			"text": "Κάθε αρχή ελέγχου οφείλει να εκπονεί ετήσια έκθεση για τις δραστηριότητές της. Η έκθεση υποβάλλεται στο εθνικό κοινοβούλιο και καθίσταται διαθέσιμη στο κοινό, στην Επιτροπή και στο Ευρωπαϊκό Συμβούλιο Προστασίας Δεδομένων."
+		},
+		{
+			"lang": "bg",
+			"text": "Всеки надзорен орган трябва да изготвя годишен доклад за своята дейност. Докладът се представя на националния парламент и се предоставя на разположение на обществеността, Комисията и Европейския комитет по защита на данните."
+		},
+		{
+			"lang": "hu",
+			"text": "Valamennyi felügyelő hatóságnak éves jelentést kell készítenie a tevékenységéről. A jelentést a nemzeti parlamentnek kell benyújtani és elérhetővé kell tenni a nyilvánosság, a Bizottság és az Európai Adatvédelmi Testület számára."
+		},
+		{
+			"lang": "mt",
+			"text": "Kull awtorità ta’ superviżjoni għandha tfassal rapport annwali dwar l-attivitajiet tagħha. Ir-rapport għandu jkun ippreżentat lill-parlament nazzjonali u għandu jkun magħmul disponibbli għall-pubbliku, għall-Kummissjoni u għall-Bord Ewropew għall-Protezzjoni tad-Dejta."
+		},
+		{
+			"lang": "lv",
+			"text": "Uzraudzības iestāde sagatavo ikgadēju ziņojumu par savu darbību. Ziņojumu iesniedz valsts parlamentam un dara pieejamu sabiedrībai, Komisijai un Eiropas Datu aizsardzības kolēģijai."
+		},
+		{
+			"lang": "ro",
+			"text": "Fiecare autoritate de supraveghere trebuie să întocmească un raport anual cu privire la activitățile sale. Raportul trebuie să fie prezentat parlamentului național și se pune la dispoziția publicului, Comisiei și Comitetului european pentru protecția datelor."
+		},
+		{
+			"lang": "sk",
+			"text": "Každý kontrolný orgán musí vypracovať výročnú správu o svojej činnosti. Správa sa predkladá národnému parlamentu a sprístupní sa verejnosti, Komisii a Európskemu výboru pre ochranu údajov."
+		},
+		{
+			"lang": "sl",
+			"text": "Vsak nadzorni organ pripravi letno poročilo o svojih dejavnostih. Poročilo se predloži nacionalnemu parlamentu ter da na voljo javnosti, Komisiji in Evropskemu odboru za varstvo podatkov."
+		},
+		{
+			"lang": "fi",
+			"text": "Jokaisen valvontaviranomaisen on laadittava vuosittain toimintakertomus. Kertomus esitetään kansalliselle parlamentille ja toimitetaan yleisön, komission ja Euroopan tietosuojaneuvoston saataville."
+		},
+		{
+			"lang": "pl",
+			"text": "Każdy organ nadzorczy musi sporządzać roczne sprawozdanie ze swojej działalności. Sprawozdanie jest przedstawione parlamentowi narodowemu i jest udostępniane opinii publicznej, Komisji oraz Europejskiej Radzie Ochrony Danych."
+		},
+		{
+			"lang": "lt",
+			"text": "Kiekviena priežiūros institucija privalo parengti metinę savo veiklos ataskaitą. Ataskaita teikiama nacionaliniam parlamentui ir skelbiama viešai, taip pat teikiama Komisijai ir Europos duomenų apsaugos valdybai."
+		},
+		{
+			"lang": "nl",
+			"text": "Elke toezichthoudende autoriteit stelt jaarlijks een verslag over haar activiteiten op. Het verslag wordt ingediend bij het nationale parlement, ter beschikking gesteld van de Commissie en het Europees Comité voor gegevensbescherming, en openbaar gemaakt."
+		},
+		{
+			"lang": "sv",
+			"text": "Varje tillsynsmyndighet ska lägga fram en årlig verksamhetsrapport. Rapporten ska läggas fram inför det nationella parlamentet och göras tillgänglig för allmänheten samt för kommissionen och Europeiska dataskyddsstyrelsen."
+		}
+	],
+	"children": [],
+	"title": "Article 54 – Text 1"
+}

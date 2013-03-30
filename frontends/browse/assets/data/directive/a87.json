@@ -1,0 +1,106 @@
+{
+	"id": "a87",
+	"type": "article",
+	"literal": "87",
+	"parent": "c10",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Committee procedure"
+		},
+		{
+			"lang": "de",
+			"text": "Ausschussverfahren"
+		},
+		{
+			"lang": "fr",
+			"text": "Procédure de comité"
+		},
+		{
+			"lang": "es",
+			"text": "Procedimiento de Comité"
+		},
+		{
+			"lang": "pt",
+			"text": "Procedimento de comité"
+		},
+		{
+			"lang": "it",
+			"text": "Procedura di comitato"
+		},
+		{
+			"lang": "ga",
+			"text": "Nós imeachta coiste"
+		},
+		{
+			"lang": "cs",
+			"text": "Postup projednávání ve výboru"
+		},
+		{
+			"lang": "da",
+			"text": "Udvalgsprocedure"
+		},
+		{
+			"lang": "et",
+			"text": "Komiteemenetlus"
+		},
+		{
+			"lang": "el",
+			"text": "Διαδικασία επιτροπής"
+		},
+		{
+			"lang": "bg",
+			"text": "Процедура на комитет"
+		},
+		{
+			"lang": "hu",
+			"text": "A bizottsági eljárás"
+		},
+		{
+			"lang": "mt",
+			"text": "Proċedura ta’ kumitat"
+		},
+		{
+			"lang": "lv",
+			"text": "Komiteju procedūra"
+		},
+		{
+			"lang": "ro",
+			"text": "Procedura comitetului"
+		},
+		{
+			"lang": "sk",
+			"text": "Postup výboru"
+		},
+		{
+			"lang": "sl",
+			"text": "Postopek v odboru"
+		},
+		{
+			"lang": "fi",
+			"text": "Komiteamenettely"
+		},
+		{
+			"lang": "pl",
+			"text": "Procedura komitetowa"
+		},
+		{
+			"lang": "lt",
+			"text": "Komiteto procedūra"
+		},
+		{
+			"lang": "nl",
+			"text": "Comitéprocedure"
+		},
+		{
+			"lang": "sv",
+			"text": "Kommittéförfarande"
+		}
+	],
+	"children": [
+		"a87p1",
+		"a87p2",
+		"a87p3"
+	],
+	"title": "Article 87"
+}

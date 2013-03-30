@@ -1,0 +1,102 @@
+{
+	"id": "a32p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a32",
+	"text": [
+		{
+			"lang": "en",
+			"text": "When the personal data breach is likely to adversely affect the protection of the personal data or privacy of the data subject, the controller shall, after the notification referred to in Article 31, communicate the personal data breach to the data subject without undue delay."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche benachrichtigt im Anschluss an die Meldung nach Artikel 31 die betroffene Person ohne unangemessene Verzögerung von der Verletzung des Schutzes personenbezogener Daten, wenn die Wahrscheinlichkeit besteht, dass der Schutz der personenbezogenen Daten oder der Privatsphäre der betroffenen Person durch eine festgestellte Verletzung des Schutzes personenbezogener Daten beeinträchtigt wird."
+		},
+		{
+			"lang": "fr",
+			"text": "Lorsque la violation de données à caractère personnel est susceptible de porter atteinte à la protection des données à caractère personnel ou à la vie privée de la personne concernée, le responsable du traitement, après avoir procédé à la notification prévue à l'article 31, communique la violation sans retard indu à la personne concernée."
+		},
+		{
+			"lang": "es",
+			"text": "Cuando sea probable que la violación de datos personales afecte negativamente a la protección de los datos personales o a la privacidad del interesado, el responsable del tratamiento, después de haber procedido a la notificación contemplada en el artículo 31, comunicará al interesado, sin demora injustificada, la violación de datos personales."
+		},
+		{
+			"lang": "pt",
+			"text": "Sempre que a violação de dados pessoais for suscetível de afetar negativamente a proteção dos dados pessoais ou a privacidade do titular dos dados, o responsável pelo tratamento, após a notificação a que se refere o artigo 31.º, comunica a violação de dados pessoais à pessoa em causa sem demora injustificada."
+		},
+		{
+			"lang": "it",
+			"text": "Quando la violazione dei dati personali rischia di pregiudicare i dati personali o di attentare alla vita privata dell’interessato, il responsabile del trattamento, dopo aver provveduto alla notificazione di cui all’articolo 31, comunica la violazione all’interessato senza ingiustificato ritardo."
+		},
+		{
+			"lang": "ga",
+			"text": "Nuair is cosúil go mbeidh drochthionchar ag sárú i ndáil le sonraí pearsanta ar chosaint na sonraí pearsanta nó ar phríobháideacht an duine is ábhar do na sonraí, cuirfidh an rialaitheoir an sárú sin in iúl don duine is ábhar do na sonraí gan moill mhíchuí, tar éis an fógra dá dtagraítear in Airteagal 31 a thabhairt."
+		},
+		{
+			"lang": "cs",
+			"text": "Jestliže je pravděpodobné, že narušení bezpečnosti osobních údajů se nepříznivě dotkne ochrany osobních údajů nebo soukromí subjektu údajů, správce po ohlášení uvedeném v článku 31 oznámí případ narušení bez zbytečného odkladu dotčenému subjektu údajů."
+		},
+		{
+			"lang": "da",
+			"text": "Når bruddet på persondatasikkerheden kan forventes at krænke beskyttelsen af personoplysninger eller privatlivets fred for en registreret, underretter den registeransvarlige i tillæg til den i artikel 31 omhandlede anmeldelse uden unødig forsinkelse den registrerede om bruddet på persondatasikkerheden."
+		},
+		{
+			"lang": "et",
+			"text": "Kui isikuandmetega seotud rikkumine võib rikkuda andmesubjekti isikuandmete ja tema eraelu kaitset, teavitab vastutav töötleja pärast artiklis 31 osutatud teavitamist sellest põhjendamatu viivituseta ka andmesubjekti."
+		},
+		{
+			"lang": "el",
+			"text": "Όταν η παραβίαση δεδομένων προσωπικού χαρακτήρα είναι πιθανόν να επηρεάσει δυσμενώς την προστασία των δεδομένων προσωπικού χαρακτήρα ή την ιδιωτική ζωή του προσώπου στο οποίο αναφέρονται τα δεδομένα, ο υπεύθυνος επεξεργασίας οφείλει, μετά την κοινοποίηση που αναφέρεται στο άρθρο 31, να γνωστοποιεί την παραβίαση των δεδομένων προσωπικού χαρακτήρα στο πρόσωπο στο οποίο αναφέρονται τα δεδομένα αμελλητί."
+		},
+		{
+			"lang": "bg",
+			"text": "Когато нарушението на сигурността на личните данни има вероятност да повлияе неблагоприятно на защитата на личните данни или на неприкосновеността на личния живот на субекта на данните, администраторът, след като подаде уведомлението по член 31, съобщава на субекта на данните за нарушението на сигурността на личните данни без излишно забавяне."
+		},
+		{
+			"lang": "hu",
+			"text": "Amennyiben a személyes adatok megsértése várhatóan hátrányosan érinti az érintett személyes adatainak vagy magánéletének védelmét, az adatkezelő a 31. cikk szerinti értesítést követően indokolatlan késedelem nélkül tájékoztatja az érintettet a személyes adatok megsértéséről."
+		},
+		{
+			"lang": "mt",
+			"text": "Meta l-ksur tad-dejta personali aktarx li jaffettwa ħażin lill-protezzjoni tad-dejta personali jew lill-privatezza tas-suġġett tad-dejta, il-kontrollur għandu, wara n-notifika msemmija fl-Artikolu 31, jikkomunika l-ksur tad-dejta personali lis-suġġett tad-dejta mingħajr dewmien bla bżonn."
+		},
+		{
+			"lang": "lv",
+			"text": "Ja personas datu aizsardzības pārkāpums var nelabvēlīgi ietekmēt datu subjekta personas datu vai privātuma aizsardzību, pārzinis pēc tam, kad ir paziņojis par pārkāpumu saskaņā ar 31. pantu, bez nepamatotas kavēšanās informē datu subjektu par personas datu aizsardzības pārkāpumu ."
+		},
+		{
+			"lang": "ro",
+			"text": "Atunci când încălcarea securității datelor cu caracter personal pune în pericol protecția datelor cu caracter personal și a vieții private a persoanei vizate, operatorul, după notificarea prevăzută la articolul 31, informează persoana vizată, fără întârzieri nejustificate, cu privire la încălcarea securității datelor cu caracter personal."
+		},
+		{
+			"lang": "sk",
+			"text": "Ak je pravdepodobné, že porušenie ochrany osobných údajov bude mať nepriaznivý vplyv na ochranu osobných údajov a súkromie dotknutej osoby, prevádzkovateľ musí okrem oznámenia uvedeného v článku 31 informovať o porušení ochrany osobných údajov aj dotknutú osobu bez zbytočného odkladu."
+		},
+		{
+			"lang": "sl",
+			"text": "Če je verjetno, da kršitev varnosti osebnih podatkov škodljivo vpliva na varstvo osebnih podatkov ali zasebnost posameznika, na katerega se nanašajo osebni podatki, upravljavec po predložitvi obvestila iz člena 31 posamezniku, na katerega se nanašajo osebni podatki, nemudoma pošlje sporočilo o kršitvi varnosti osebnih podatkov."
+		},
+		{
+			"lang": "fi",
+			"text": "Kun henkilötietojen tietoturvaloukkauksella on todennäköisiä haittavaikutuksia rekisteröidyn henkilötietojen suojalle tai yksityisyydelle, rekisterinpitäjän on 31 artiklassa tarkoitetun ilmoituksen jälkeen ilmoitettava tietoturvaloukkauksesta myös rekisteröidylle ilman aiheetonta viivytystä."
+		},
+		{
+			"lang": "pl",
+			"text": "Gdy istnieje prawdopodobieństwo, że naruszenie ochrony danych osobowych może niekorzystnie wpłynąć na ochronę danych osobowych lub prywatność podmiotu danych, administrator, po dokonaniu zgłoszenia, o którym mowa w art. 31, bez nieuzasadnionej zwłoki informuje podmiot danych o naruszeniu ochrony danych osobowych."
+		},
+		{
+			"lang": "lt",
+			"text": "Kai asmens duomenų saugumo pažeidimas gali turėti neigiamo poveikio asmens duomenų apsaugai ar duomenų subjekto privatumui, duomenų valdytojas, po to, kai pateikia 31 straipsnyje nurodytą pranešimą, nepagrįstai nedelsdamas apie pažeidimą praneša duomenų subjektui."
+		},
+		{
+			"lang": "nl",
+			"text": "Wanneer de inbreuk in verband met persoonsgegevens waarschijnlijk negatieve gevolgen voor de bescherming van de persoonsgegevens of de privacy van de betrokkene heeft, deelt de voor de verwerking verantwoordelijke na de in artikel 31 bedoelde melding, de betrokkene de inbreuk in verband met persoonsgegevens zonder onnodige vertraging mee."
+		},
+		{
+			"lang": "sv",
+			"text": "Om personuppgiftsbrottet sannolikt har en negativ inverkan på skyddet av den registrerades personuppgifter eller integritet ska den registeransvarige, efter den anmälan som avses i artikel 31, utan onödigt dröjsmål informera den registrerade om personuppgiftsbrottet."
+		}
+	],
+	"children": [],
+	"title": "Article 32 – Paragraph 1"
+}

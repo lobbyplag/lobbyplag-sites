@@ -1,0 +1,102 @@
+{
+	"id": "r16",
+	"type": "recital",
+	"literal": "16",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The protection of individuals with regard to the processing of personal data by competent authorities for the purposes of prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and the free movement of such data, is subject of a specific legal instrument at Union level. Therefore, this Regulation should not apply to the processing activities for those purposes. However, data processed by public authorities under this Regulation when used for the purposes of prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties should be governed by the more specific legal instrument at Union level (Directive XX/YYY)."
+		},
+		{
+			"lang": "de",
+			"text": "Der Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, die der Verhütung, Aufdeckung, Untersuchung oder Verfolgung von Straftaten oder Vollstreckung strafrechtlicher Sanktionen durch die zuständigen Behörden dienen, sowie der freie Verkehr solcher Daten sind in einem eigenen EU-Rechtsinstrument geregelt. Deshalb sollte diese Verordnung auf Verarbeitungstätigkeiten dieser Art keine Anwendung finden. Personenbezogene Daten, die von Behörden nach dieser Verordnung verarbeitet werden, sollten jedoch, wenn sie zum Zwecke der Verhütung, Aufdeckung, Untersuchung oder strafrechtlichen Verfolgung von Straftaten oder der Vollstreckung von Strafurteilen verwendet werden, dem spezifischeren EU-Instrument (Richtlinie XX/YYYY) unterliegen."
+		},
+		{
+			"lang": "fr",
+			"text": "La protection des personnes physiques à l’égard du traitement des données à caractère personnel par les autorités compétentes à des fins de prévention et de détection des infractions pénales, d’enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales, et la libre circulation de ces données font l’objet d’un instrument juridique spécifique au niveau de l'Union. Le présent règlement ne devrait donc pas s'appliquer aux activités de traitement effectuées à ces fins. Toutefois, le traitement de données à ces fins par des autorités publiques devrait être régi par cet instrument juridique plus spécifique au niveau de l'Union (à savoir la directive XX/YYY)."
+		},
+		{
+			"lang": "es",
+			"text": "La protección de las personas físicas en lo que respecta al tratamiento de datos de carácter personal por parte de las autoridades competentes a efectos de la prevención, investigación, detección o enjuiciamiento de infracciones penales o la ejecución de sanciones penales, y la libre circulación de estos datos, son objeto de un instrumento jurídico específico a nivel de la Unión. Por lo tanto, el presente Reglamento no debe aplicarse a las actividades de tratamiento destinadas a esos fines. No obstante, los datos sometidos a tratamiento por las autoridades públicas en aplicación del presente Reglamento a efectos de la prevención, investigación, detección y enjuiciamiento de infracciones penales o la ejecución de sanciones penales, deben regirse por el instrumento jurídico más específico a nivel de la Unión (Directiva XX/YYY)."
+		},
+		{
+			"lang": "pt",
+			"text": "A proteção das pessoas singulares em matéria de tratamento de dados pessoais pelas autoridades competentes para efeitos de prevenção, investigação, deteção e repressão de infrações penais ou de execução de sanções penais, e a livre circulação desses dados, são objeto de um instrumento jurídico específico a nível da União. Por essa razão, o presente regulamento não é aplicável às atividades de tratamento para esses efeitos. Todavia, o tratamento de dados pessoais pelas autoridades competentes ao abrigo do presente regulamento para os referidos efeitos deve ser regulado por esse instrumento jurídico mais específico a nível da União (Diretiva XX/YYY)."
+		},
+		{
+			"lang": "it",
+			"text": "La tutela delle persone fisiche con riguardo al trattamento dei dati personali da parte delle autorità competenti a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, e la libera circolazione di tali dati sono oggetto di uno specifico strumento giuridico a livello di Unione. Il presente regolamento non si applica pertanto ai trattamenti effettuati per queste finalità. I dati trattati dalle autorità pubbliche in forza del presente regolamento per queste finalità dovranno invece essere disciplinati dal più specifico strumento giuridico a livello di Unione (direttiva XX/YYY)."
+		},
+		{
+			"lang": "ga",
+			"text": "Maidir le cosaint daoine aonair i ndáil le próiseáil sonraí pearsanta arna déanamh ag údaráis inniúla chun cionta coiriúla a chosc, a imscrúdú, a bhrath nó a ionchúiseamh nó chun pionóis choiriúla a fhorchur, tá an chosaint sin agus saorshreabhadh sonraí pearsanta faoi réir ionstraime dlí ar leith ar leibhéal an Aontais. Dá bhrí sin, níor cheart feidhm a bheith ag an Rialachán seo maidir le gníomhaíochtaí próiseála a dhéantar chuige sin. Mar sin féin, aon phróiseáil sonraí a dhéanann údaráis phoiblí faoin Rialachán seo chun cionta coiriúla a chosc, a imscrúdú, a bhrath nó a ionchúiseamh nó chun pionóis choiriúla a fhorchur, ba cheart an phróiseáil sin a rialú leis an ionstraim dlí sin is sonraí ar leibhéal an Aontais (is é sin Treoir XX/YYY)."
+		},
+		{
+			"lang": "cs",
+			"text": "Ochrana fyzických osob v souvislosti se zpracováváním osobních údajů příslušnými orgány za účelem prevence, vyšetřování, odhalování či stíhání trestných činů nebo výkonu trestů a o volném pohybu těchto údajů je upravena vlastním právním nástrojem na úrovni Unie. Proto by se toto nařízení nemělo uplatňovat při zpracovávání údajů za těmito účely. Na údaje zpracovávané orgány veřejné moci podle tohoto nařízení, pokud jsou používány za účelem prevence, vyšetřování, odhalování či stíhání trestných činů nebo výkonu trestů, by se však měl vztahovat konkrétnější právní nástroj na úrovni Unie (směrnice XX/YYY)."
+		},
+		{
+			"lang": "da",
+			"text": "Beskyttelsen af fysiske personer i forbindelse med de kompetente myndigheders behandling af personoplysninger med henblik på at forebygge, efterforske, opdage eller retsforfølge straffelovsovertrædelser eller fuldbyrde strafferetlige sanktioner og fri udveksling af sådanne oplysninger er genstand for en specifik retsakt på EU-plan. Denne forordning bør derfor ikke gælde for behandlingsaktiviteter med sådanne formål. Offentlige myndigheders behandling af personoplysninger i henhold til denne forordning bør imidlertid være genstand for et mere specifikt retligt instrument på EU-plan (direktiv XX/YYY), når behandlingen af personoplysninger sker med henblik på at forebygge, efterforske, opdage eller retsforfølge straffelovsovertrædelser eller fuldbyrde strafferetlige sanktioner."
+		},
+		{
+			"lang": "et",
+			"text": "Üksikisikute kaitset isikuandmete töötlemisel pädevate asutuste poolt seoses kuritegude tõkestamise, uurimise, avastamise ja nende eest vastutusele võtmisega ning kriminaalkaristuste täitmisele pööramisega ning selliste andmete vaba liikumist käsitletakse eraldiseisvas ELi tasandi õigusaktis. Seetõttu ei tuleks käesolevat määrust kohaldada nimetatud eesmärkidel teostatavate töötlemistoimingute suhtes. Avaliku sektori asutuste poolt käesoleva määruse alusel töödeldavaid andmeid, kui neid kasutatakse seoses kuritegude tõkestamise, uurimise, avastamise ja nende eest vastutusele võtmisega ning kriminaalkaristuste täitmisele pööramisega, reguleeritakse konkreetsema ELi tasandi õigusaktiga (direktiiv XX/YYYY)."
+		},
+		{
+			"lang": "el",
+			"text": "Η προστασία των φυσικών προσώπων έναντι της επεξεργασίας δεδομένων προσωπικού χαρακτήρα από αρμόδιες αρχές για τον σκοπό της πρόληψης, της διερεύνησης, της ανίχνευσης ή της δίωξης ποινικών αδικημάτων ή της εκτέλεσης ποινικών κυρώσεων, και η ελεύθερη κυκλοφορία των δεδομένων αυτών, αποτελεί αντικείμενο συγκεκριμένης νομικής πράξης σε επίπεδο Ένωσης. Επομένως, ο παρών κανονισμός δεν πρέπει να εφαρμόζεται σε δραστηριότητες επεξεργασίας για τους σκοπούς αυτούς. Ωστόσο, τα δεδομένα που υποβάλλονται σε επεξεργασία από δημόσιες αρχές βάσει του παρόντος κανονισμού, όταν χρησιμοποιούνται για τον σκοπό της πρόληψης, της διερεύνησης, της ανίχνευσης ή της δίωξης ποινικών αδικημάτων ή της εκτέλεσης ποινικών κυρώσεων, πρέπει να ρυθμίζονται από την ειδικότερη νομική πράξη σε επίπεδο Ένωσης (οδηγία XX/YYY)."
+		},
+		{
+			"lang": "bg",
+			"text": "Защитата на физическите лица във връзка с обработването на лични данни от компетентните органи за целите на предотвратяването, разследването, разкриването или наказателното преследване на престъпления или изпълнението на наказателни санкции и свободното движение на такива данни са предмет на специален правен инструмент на равнището на Съюза. Следователно настоящият регламент не следва да се прилага спрямо дейностите по обработване на лични данни за такива цели. Обработването на данни от стана на публичните органи по силата на настоящия регламент обаче следва да бъде уредено с по-специфичен правен инструмент на равнището на Съюза (Директива ХХ/YYYY), когато данните се използват за предотвратяването, разследването, разкриването или наказателното преследване на престъпления или изпълнението на наказателни санкции."
+		},
+		{
+			"lang": "hu",
+			"text": "A személyes adatok felelős hatóságok általi, bűncselekmények megelőzése, nyomozása, felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása céljából történő feldolgozása vonatkozásában az egyének védelme és az ilyen adatok szabad áramlása uniós szintű különös jogi eszköz tárgya. A rendelet ennek értelmében nem alkalmazandó az e célok érdekében végzett feldolgozási tevékenységekre. Ugyanakkor a hatóságok által a jelen rendelet alapján végzett adatfeldolgozást, amennyiben azokat bűncselekmények megelőzése, nyomozása, felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása céljára használják fel, uniós szinten külön jogi aktus (XX/YYY irányelv) szabályozza."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-protezzjoni ta’ individwi fir-rigward tal-ipproċessar tad-dejta personali minn awtoritajiet kompetenti għall-finijiet ta’ prevenzjoni, investigazzjoni, sejbien jew prosekuzzjoni ta’ reati kriminali jew l-eżekuzzjoni ta’ pieni kriminali, u l-moviment liberu ta’ din id-dejta, hija soġġetta ta’ strument legali speċifiku fil-livell tal-Unjoni. Għalhekk, dan ir-Regolament m’għandux japplika għall-attivitajiet ta’ pproċessar għal dawk il-finijiet. Madanakollu, d-dejta proċessata mill-awtoritajiet pubbliċi taħt dan ir-Regolament meta tintuża għall-finijiet ta’ prevenzjoni, investigazzjoni, detezzjoni jew prosekuzzjoni ta’ reati kriminali jew l-eżekuzzjoni ta’ pieni kriminali għandha tkun gvernata mill-istrument legali aktar speċifiku fil-livell tal-Unjoni (id-Direttiva XX/YYY)."
+		},
+		{
+			"lang": "lv",
+			"text": "Fizisku personu aizsardzība attiecībā uz personas datu apstrādi, ko veic kompetentas iestādes, lai novērstu, izmeklētu, atklātu noziedzīgus nodarījumus, sauktu pie atbildības par tiem vai izpildītu kriminālsodus, un par šādu datu brīvu apriti ir cita speciāla Savienības līmeņa tiesību akta priekšmets. Tāpēc šī regula nebūtu jāpiemēro apstrādes darbībām, kas veiktas minētajos nolūkos. Taču datu apstrādi, ko saskaņā ar šo regulu veic valsts iestādes, ja to izmanto noziedzīgu nodarījumu novēršanai, izmeklēšanai un atklāšanai, lai sauktu pie atbildības par tiem vai izpildītu kriminālsodus, būtu jāregulē speciālam Savienības līmeņa tiesību aktam (Direktīva XX/YYY)."
+		},
+		{
+			"lang": "ro",
+			"text": "Protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal de către autoritățile competente în scopul prevenirii, identificării, investigării sau urmăririi penale a infracțiunilor sau al executării pedepselor și libera circulație a acestor date fac obiectul unui instrument juridic specific la nivelul Uniunii. Prin urmare, prezentul regulament nu ar trebui să se aplice activităților de prelucrare în aceste scopuri. Cu toate acestea, datele prelucrate de către autoritățile publice în temeiul prezentului regulament, în cazul în care sunt utilizate în scopul prevenirii, identificării, investigării sau urmăririi penale a infracțiunilor sau al executării pedepselor ar trebui să fie reglementate de un instrument juridic mai specific la nivelul Uniunii (Directiva XX/YYY)."
+		},
+		{
+			"lang": "sk",
+			"text": "Ochrana fyzických osôb pri spracúvaní osobných údajov príslušnými orgánmi na účely predchádzania trestným činom, ich vyšetrovania, odhaľovania alebo stíhania alebo na účely výkonu trestných sankcií a voľný pohyb takýchto údajov podlieha pôsobnosti osobitného právneho nástroja na úrovni Únie. Toto nariadenie by sa teda nemalo uplatňovať pri spracovávaní na takéto účely. Na údaje spracované verejnými orgánmi podľa tohto nariadenia, ak sa používajú na účely predchádzania trestným činom, ich vyšetrovania, odhaľovania alebo stíhania alebo na výkon trestov, by sa mal vzťahovať špecifickejší právny nástroj na úrovni Únie (smernica XX/YYY)."
+		},
+		{
+			"lang": "sl",
+			"text": "Za varstvo posameznikov pri obdelavi osebnih podatkov s strani pristojnih organov za namene preprečevanja, preiskovanja, odkrivanja ali pregona kaznivih dejanj ali izvrševanja kazenskih sankcij in prosti pretok takih podatkov se uporablja posebni pravni akt na ravni Unije. Zato se ta uredba ne bi smela uporabljati za dejavnosti obdelave v te namene. Vendar mora obdelavo osebnih podatkov s strani javnih organov na podlagi te uredbe, kadar se uporablja za namene preprečevanja, preiskovanja, odkrivanja ali pregona kaznivih dejanj ali izvrševanja kazenskih sankcij, urejati bolj poseben pravni akt na ravni Unije (Direktiva XX/YYY)."
+		},
+		{
+			"lang": "fi",
+			"text": "Yksilöiden suojelusta toimivaltaisten viranomaisten käsitellessä henkilötietoja rikosten torjumista, tutkimista, selvittämistä ja syytteeseenpanoa tai rikosoikeudellisten seuraamusten täytäntöönpanoa varten sekä näiden tietojen vapaasta liikkuvuudesta on annettu erillinen säädös unionin tasolla. Sen vuoksi tätä asetusta ei pitäisi soveltaa näitä tarkoituksia varten tehtävään henkilötietojen käsittelyyn. Kun viranomaiset käsittelevät tämän asetuksen soveltamisalaan kuuluvia henkilötietoja rikosten torjumista, tutkimista, selvittämistä ja syytteeseenpanoa tai rikosoikeudellisten seuraamusten täytäntöönpanoa varten, olisi sen sijaan sovellettava unionin tasolla annettua erityissäädöstä (direktiivi XX/YYY)."
+		},
+		{
+			"lang": "pl",
+			"text": "Ochrona osób fizycznych w związku z przetwarzaniem danych osobowych przez właściwe organy w celu zapobiegania przestępstwom, ich ścigania, wykrywania lub karania albo w celu wykonywania kar kryminalnych oraz swobodnym przepływem takich danych podlegają szczególnemu instrumentowi prawnemu na szczeblu Unii. Z tego względu niniejsze rozporządzenie nie powinno mieć zastosowania do przetwarzania do wyżej wspomnianych celów. Jednak dane przetwarzane przez organy publiczne na mocy niniejszego rozporządzenia, wykorzystywane w celu zapobiegania przestępstwom, ich ścigania, wykrywania lub karania albo w celu wykonywania kar kryminalnych, powinny podlegać bardziej szczegółowemu instrumentowi prawnemu na szczeblu Unii (dyrektywa XX/YYY)."
+		},
+		{
+			"lang": "lt",
+			"text": "fizinių asmenų apsauga kompetentingoms institucijoms tvarkant asmens duomenis nusikalstamų veikų prevencijos, tyrimo, nustatymo ar traukimo baudžiamojon atsakomybėn už jas arba baudžiamųjų sankcijų vykdymo tikslais ir laisvas tokių duomenų judėjimas reglamentuojami specialiu Sąjungos teisės aktu. Todėl šis reglamentas neturėtų būti taikomas duomenų tvarkymui tokiais tikslais. Tačiau kai asmens duomenys, kuriuos valdžios institucijos tvarko pagal šį reglamentą, naudojami nusikalstamų veikų prevencijos, tyrimo, nustatymo ar traukimo baudžiamojon atsakomybėn už jas arba baudžiamųjų sankcijų vykdymo tikslais, jų tvarkymas turėtų būti reglamentuojamas kitu specialiu Sąjungos teisės aktu (Direktyva XX/YYY);"
+		},
+		{
+			"lang": "nl",
+			"text": "De bescherming van personen in verband met de verwerking van persoonsgegevens door bevoegde autoriteiten met het oog op de voorkoming, het onderzoek, de opsporing en de vervolging van strafbare feiten of de tenuitvoerlegging van straffen, en betreffende het vrije verkeer van die gegevens is aan een specifiek EU-rechtsinstrument onderworpen. Deze verordening dient derhalve niet van toepassing te zijn op de met die doeleinden verrichte verwerkingsactiviteiten. Het gebruik van overeenkomstig deze verordening door de openbare autoriteiten verwerkte gegevens met het oog op de voorkoming, het onderzoek, de opsporing of de vervolging van strafbare feiten of de tenuitvoerlegging van strafrechtelijke sancties dient echter te worden geregeld bij het meer specifieke EU-rechtsinstrument (Richtlijn XX/YYYY)."
+		},
+		{
+			"lang": "sv",
+			"text": "Skyddet av enskilda personer när det gäller behöriga myndigheters behandling av personuppgifter i syfte att förebygga, utreda, avslöja eller lagföra brott eller verkställa straffrättsliga påföljder, samt fri rörlighet för sådana uppgifter, säkerställs på unionsnivå av ett särskilt rättsinstrument. Av denna anledning bör denna förordning inte vara tillämplig på behandling som sker för dessa ändamål. Uppgifter som av myndigheter behandlats enligt denna förordning för att användas i syfte att förebygga, utreda, avslöja eller lagföra brott eller verkställa straffrättsliga påföljder bör dock regleras genom ett mer specifikt rättsligt instrument på unionsnivå (direktiv XX/YYY)."
+		}
+	],
+	"children": [],
+	"title": "Recital 16"
+}

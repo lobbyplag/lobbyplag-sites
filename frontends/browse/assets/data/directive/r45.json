@@ -1,0 +1,102 @@
+{
+	"id": "r45",
+	"type": "recital",
+	"literal": "45",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "If the data processed by a controller do not permit the controller to identify a natural person, the data controller should not be obliged to acquire additional information in order to identify the data subject for the sole purpose of complying with any provision of this Regulation. In case of a request for access, the controller should be entitled to ask the data subject for further information to enable the data controller to locate the personal data which that person seeks."
+		},
+		{
+			"lang": "de",
+			"text": "Kann der für die Verarbeitung Verantwortliche anhand der von ihm verarbeiteten Daten eine natürliche Person nicht bestimmen, sollte er nicht verpflichtet sein, zur bloßen Einhaltung einer Vorschrift dieser Verordnung zusätzliche Daten einzuholen, um die betroffene Person zu bestimmen. Macht die betroffene Person von ihrem Auskunftsrecht Gebrauch, sollte der für die Verarbeitung Verantwortliche das Recht haben, bei der betroffenen Person weitere Informationen einzuholen, die ihn in die Lage versetzen, die von der betreffenden Person gesuchten personenbezogenen Daten zu lokalisieren."
+		},
+		{
+			"lang": "fr",
+			"text": "Si les données qu’il traite ne lui permettent pas d'identifier une personne physique, le responsable du traitement ne devrait pas être tenu d'obtenir des informations supplémentaires pour identifier la personne concernée à la seule fin de respecter une disposition du présent règlement. Dans le cas d’une demande d’accès, il devrait être autorisé à demander d'autres informations à la personne concernée, afin d'être en mesure de localiser les données personnelles que cette personne recherche."
+		},
+		{
+			"lang": "es",
+			"text": "Si los datos sometidos a tratamiento no le permiten identificar a una persona física, el responsable no debe estar obligado a recabar información adicional para identificar al interesado con la única finalidad de cumplir lo dispuesto en el presente Reglamento. En caso de que se solicite el acceso, el responsable del tratamiento debe estar facultado para solicitar al interesado información adicional que le permita localizar los datos de carácter personal que esa persona busca."
+		},
+		{
+			"lang": "pt",
+			"text": "Se os dados tratados pelo responsável pelo tratamento não lhe permitirem identificar uma pessoa singular, aquele não deve ser obrigado a obter informações suplementares para identificar o titular dos dados com a única finalidade de respeitar uma disposição do presente regulamento. No caso de um pedido de acesso, o responsável pelo tratamento de dados deve ter a faculdade de solicitar ao titular dos dados informações adicionais que permitam localizar os dados pessoais procurados por essa pessoa."
+		},
+		{
+			"lang": "it",
+			"text": "Se i dati che tratta non gli consentono di identificare una persona fisica, il responsabile del trattamento non deve essere obbligato ad acquisire ulteriori informazioni per identificare l’interessato al solo fine di rispettare una disposizione del presente regolamento. Quando riceve una richiesta di accesso, il responsabile del trattamento deve poter chiedere all’interessato ulteriori informazioni per poter localizzare i dati personali richiesti."
+		},
+		{
+			"lang": "ga",
+			"text": "Murar féidir leis an rialaitheoir duine nádúrtha a shainaithint ó na sonraí a phróiseáil sé, níor cheart go mbeadh sé d’oibleagáid ar an rialaitheoir faisnéis bhreise a fháil chun an duine is ábhar do na sonraí a shainaithint díreach chun foráil de chuid an Rialacháin seo a chomhlíonadh. I gcás iarrata ar rochtain, ba cheart go mbeadh an rialaitheoir i dteideal tuilleadh faisnéise a iarraidh ar an duine is ábhar do na sonraí le go mbeidh sé ábalta na sonraí pearsanta a aimsiú atá á lorg ag an duine sin."
+		},
+		{
+			"lang": "cs",
+			"text": "Pokud údaje zpracovávané správcem nedovolují správci identifikovat fyzickou osobu, není správce povinen získat dodatečné informace pro zjištění totožnosti subjektu údajů výlučně za účelem dosažení souladu s některým ustanovením tohoto nařízení. V případě žádosti o přístup by správce měl být oprávněn požádat subjekt údajů o další informace, jež by správci údajů umožnily lokalizovat osobní údaje, které daná osoba hledá."
+		},
+		{
+			"lang": "da",
+			"text": "Hvis de oplysninger, der behandles af en registeransvarlig, ikke sætter den registeransvarlige i stand til at identificere en fysisk person, bør den registeransvarlige ikke være forpligtet til at indhente yderligere oplysninger for at identificere den registrerede udelukkende med det formål at overholde bestemmelserne i denne forordning. I tilfælde af en anmodning om indsigt bør den registeransvarlige være berettiget til at anmode den registrerede om yderligere oplysninger, således at den registeransvarlig kan finde de personoplysninger, som den pågældende efterspørger"
+		},
+		{
+			"lang": "et",
+			"text": "Juhul kui vastutav töötleja töötleb selliseid andmeid, mille alusel ei saa füüsilisi isikuid tuvastada, ei tohiks ta olla kohustatud hankima lisateavet ainult käesoleva määruse järgimiseks. Juurdepääsutaotluse korral on vastutaval töötlejal õigus küsida andmesubjektilt lisateavet, mis võimaldaks vastutaval töötlejal leida isikuandmed, mida see isik otsib."
+		},
+		{
+			"lang": "el",
+			"text": "Εάν τα δεδομένα τα οποία επεξεργάζεται ένας υπεύθυνος επεξεργασίας δεν επιτρέπουν στον υπεύθυνο επεξεργασίας να αναγνωρίσει την ταυτότητα ενός φυσικού προσώπου, ο υπεύθυνος επεξεργασίας δεν πρέπει να υποχρεούται να εξασφαλίζει πρόσθετες πληροφορίες προκειμένου να αναγνωρίσει την ταυτότητα του προσώπου στο οποίο αναφέρονται τα δεδομένα με μοναδικό σκοπό τη συμμόρφωσή του προς οποιαδήποτε διάταξη του παρόντος κανονισμού. Σε περίπτωση αιτήματος πρόσβασης, ο υπεύθυνος επεξεργασίας πρέπει να δικαιούται να ζητεί από το πρόσωπο στο οποίο αναφέρονται τα δεδομένα περισσότερες πληροφορίες οι οποίες θα του επιτρέψουν να εντοπίσει τα δεδομένα προσωπικού χαρακτήρα που ζητεί το εν λόγω πρόσωπο."
+		},
+		{
+			"lang": "bg",
+			"text": "Ако обработваните от администратора данни не му позволяват да идентифицира дадено физическо лице, администраторът на данни не следва да е задължен да придобива допълнителна информация, за да идентифицира субекта на данните единствено с цел спазване на някоя от разпоредбите на настоящия регламент. В случай на искане за достъп администраторът следва да има право да поиска от субекта на данни повече информация, която да му позволи да намери личните данни, които лицето търси."
+		},
+		{
+			"lang": "hu",
+			"text": "Amennyiben az adatkezelő által feldolgozott adatok nem teszik lehetővé az adatkezelő számára, hogy azonosítson egy természetes személyt, akkor az adatkezelő nem köteles további információkat szerezni az érintett azonosítása érdekében, kizárólag abból a célból, hogy megfeleljen e rendelet bármely rendelkezésének. Hozzáférés iránti kérelem esetén az adatkezelő jogosult az érintettől további adatokat kérni annak érdekében, hogy az adatkezelő azonosíthassa azokat a személyes adatokat, amelyeket az érintett igényel."
+		},
+		{
+			"lang": "mt",
+			"text": "Jekk id-dejta pproċessata minn kontrollur ma tippermettix l-identifikazzjoni ta’ persuna fiżika, il-kontrollur tad-dejta m’għandux ikun obbligat li jikseb informazzjoni addizzjonali sabiex jidentifika s-suġġett tad-dejta għall-għan waħdieni li jikkonforma ma’ xi dispożizzjoni ta’ dan ir-Regolament. Fil-każ ta’ talba għall-access, il-kontrollur għandu jkun intitolat li jitlob aktar informazzjoni mingħand is-suġġett biex b’hekk ikun jista’ jsib id-dejta personali li dik il-persuna qiegħda tfittex."
+		},
+		{
+			"lang": "lv",
+			"text": "Ja pārziņa apstrādātie dati neļauj pārzinim identificēt fizisku personu, datu pārzinim nebūtu jāuzliek pienākums iegūt papildu informāciju, lai identificētu datu subjektu, ja ieguves vienīgais nolūks ir kāda šīs regulas noteikuma ievērošana. Ja ir izteikts pieprasījums piekļūt datiem, datu pārzinim būtu jāpiešķir tiesības prasīt datu subjektam papildu informāciju, kas ļautu datu pārzinim noteikt personas datus, kurus šī persona meklē."
+		},
+		{
+			"lang": "ro",
+			"text": "Dacă datele prelucrate de către un operator nu îi permit acestuia să identifice o persoană fizică, operatorul de date nu ar trebui să aibă obligația de a obține informații suplimentare în vederea identificării persoanei vizate, cu unicul scop de a respecta una dintre dispozițiile prezentului regulament. În cazul unei cereri de acces, operatorul ar trebui să aibă dreptul de a solicita persoanei vizate mai multe informații pentru a putea să localizeze datele cu caracter personal pe care le caută persoana respectivă."
+		},
+		{
+			"lang": "sk",
+			"text": "Ak údaje spracúvané prevádzkovateľom nedovoľujú prevádzkovateľovi identifikovať fyzickú osobu, prevádzkovateľ nie je povinný získať dodatočné informácie na identifikovanie dotknutej osoby výlučne na to, aby dosiahol súlad s niektorým ustanovením tohto nariadenia. V prípade žiadosti o prístup k údajom má mať prevádzkovateľ právo žiadať dotknutú osobu o ďalšie informácie, ktoré mu umožnia lokalizovať osobné údaje, ktoré táto osoba hľadá."
+		},
+		{
+			"lang": "sl",
+			"text": "Če podatki, ki jih upravljavec obdeluje, upravljavcu ne omogočajo identifikacije fizične osebe, upravljavec podatkov ne bi smel biti zavezan k pridobivanju dodatnih informacij, da bi ugotovil istovetnost posameznika, na katerega se nanašajo osebni podatki, samo zaradi skladnosti s katero koli določbo te uredbe. V primeru zahteve po dostopu bi moral upravljavec imeti pravico, da od posameznika, na katerega se nanašajo osebni podatki, zahteva dodatne informacije, ki bodo upravljavcu podatkov omogočile, da najde osebne podatke, ki jih ta oseba išče."
+		},
+		{
+			"lang": "fi",
+			"text": "Jos rekisterinpitäjä ei pysty tunnistamaan luonnollista henkilöä käsiteltävien tietojen perusteella, rekisterinpitäjää ei pitäisi velvoittaa hankkimaan lisätietoja rekisteröidyn tunnistamista varten, jos tämä olisi tarpeen vain jotta voitaisiin noudattaa jotakin tämän asetuksen säännöstä. Kun rekisteröity on esittänyt tiedonsaantipyynnön, rekisterinpitäjällä olisi oltava oikeus pyytää rekisteröidyltä lisätietoja, joiden avulla rekisterinpitäjä voi löytää tämän pyytämät henkilötiedot."
+		},
+		{
+			"lang": "pl",
+			"text": "Jeśli dane przetwarzane przez administratora nie pozwalają mu na zidentyfikowanie osoby fizycznej, nie ma on obowiązku uzyskania dodatkowych informacji w celu identyfikacji podmiotu danych wyłącznie ze względu na konieczność przestrzegania przepisu niniejszego rozporządzenia. W przypadku wniosku o dostęp, administrator powinien być upoważniony do zwracania się do podmiotu danych o udzielenie dalszych informacji, które umożliwią mu znalezienie danych osobowych, o które zwraca się wnioskodawca"
+		},
+		{
+			"lang": "lt",
+			"text": "jeigu duomenų valdytojas pagal tvarkomus duomenis negali nustatyti fizinio asmens tapatybės, jis neturėtų būti įpareigojamas gauti papildomos informacijos duomenų subjektui nustatyti vien tam, kam būtų laikomasi kurios nors šio reglamento nuostatos. Kai pateikiamas prašymas susipažinti su duomenimis, duomenų valdytojas turėtų turėti teisę pareikalauti iš duomenų subjekto papildomos informacijos, kuri jam padėtų rasti prašomus asmens duomenis;"
+		},
+		{
+			"lang": "nl",
+			"text": "Overeenkomstig het transparantiebeginsel moet informatie die bestemd is voor het publiek of de betrokkene eenvoudig toegankelijk en begrijpelijk zijn en moet duidelijke en eenvoudige taal worden gebruikt. Dit geldt in het bijzonder voor onlineadvertenties en andere situaties waarin het door zowel het grote aantal spelers als de technologische complexiteit van de praktijk voor een individu moeilijk is te weten en te begrijpen of, door wie en met welk doel zijn persoonsgegevens worden verzameld. Aangezien kinderen specifieke bescherming verdienen, dient wanneer de verwerking specifiek betrekking heeft op een kind, de informatie en communicatie in zulke duidelijke en eenvoudige taal te worden gesteld dat het kind deze gemakkelijk kan begrijpen."
+		},
+		{
+			"lang": "sv",
+			"text": "Om de uppgifter som behandlas av registeransvariga inte innebär att de kan identifiera fysiska personer bör de registeransvariga inte vara tvungna att skaffa ytterligare information för att kunna identifiera den registrerade, om ändamålet endast är att följa någon av bestämmelserna i denna förordning. Om en registeransvarig mottar en begäran om tillgång bör denne ha rätt att be den begärande registrerade personen om ytterligare information för att kunna lokalisera de personuppgifter som denne söker."
+		}
+	],
+	"children": [],
+	"title": "Recital 45"
+}

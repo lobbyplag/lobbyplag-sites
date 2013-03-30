@@ -1,0 +1,102 @@
+{
+	"id": "a35p7",
+	"type": "paragraph",
+	"literal": "7",
+	"parent": "a35",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller or the processor shall designate a data protection officer for a period of at least two years. The data protection officer may be reappointed for further terms. During their term of office, the data protection officer may only be dismissed, if the data protection officer no longer fulfils the conditions required for the performance of their duties."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche oder der Auftragsverarbeiter benennt einen Datenschutzbeauftragten für einen Zeitraum von mindestens zwei Jahren. Der Datenschutzbeauftragte kann für weitere Amtszeiten wiederernannt werden. Während seiner Amtszeit kann der Datenschutzbeauftragte seines Postens nur enthoben werden, wenn er die Voraussetzungen für die Erfüllung seiner Pflichten nicht mehr erfüllt."
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement ou le sous-traitant désignent un délégué à la protection des données pour une durée minimale de deux ans. Le mandat du délégué à la protection des données est reconductible. Durant son mandat, le délégué à la protection des données ne peut être démis de ses fonctions que s'il ne remplit plus les conditions requises pour l'exercice de celles-ci."
+		},
+		{
+			"lang": "es",
+			"text": "El responsable o el encargado del tratamiento designarán un delegado de protección de datos para un mandato mínimo de dos años. El delegado de protección de datos podrá ser nombrado para nuevos mandatos. Durante su mandato, el delegado de protección de datos solo podrá ser destituido si deja de cumplir las condiciones requeridas para el ejercicio de sus funciones."
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento ou o subcontratante designam um delegado para a proteção de dados pelo período mínimo de dois anos. O mandato do delegado para a proteção de dados pode ser renovado. No decurso do seu mandato, o delegado para a proteção de dados apenas pode ser exonerado se tiver deixado de cumprir as condições exigidas para o exercício das suas funções."
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento o l’incaricato del trattamento designa un responsabile della protezione dei dati per un periodo di almeno due anni. Il mandato del responsabile della protezione dei dati è rinnovabile. Durante il mandato può essere destituito solo se non soddisfa più le condizioni richieste per l’esercizio delle sue funzioni."
+		},
+		{
+			"lang": "ga",
+			"text": "Ceapfaidh an rialaitheoir agus an próiseálaí oifigeach cosanta sonraí i gcomhair tréimhse nach lú ná dhá bhliain. Féadfar téarma an oifigigh cosanta sonraí a athnuachan. Ní fhéadfar oifigeach cosanta sonraí a bhriseadh as a phost le linn a théarma oifige ach amháin mura bhfuil na coinníollacha is gá chun a dhualgais a chomhlíonadh á gcomhlíonadh aige a thuilleadh."
+		},
+		{
+			"lang": "cs",
+			"text": "Správce nebo zpracovatel jmenují inspektora ochrany údajů na minimální období dvou let. Inspektor ochrany údajů může být opětovně jmenován na další funkční období. Během funkčního období může být inspektor ochrany údajů odvolán z funkce pouze tehdy, pokud přestal splňovat podmínky požadované pro výkon jeho povinností."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige og registerføreren udpeger en databeskyttelsesansvarlig for en periode på mindst to år. Den databeskyttelsesansvarlige kan genudnævnes til yderligere perioder. I sin embedsperiode kan den databeskyttelsesansvarlige kun afskediges, hvis vedkommende ikke længere opfylder betingelserne for at varetage hvervet."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutava töötleja ja volitatud töötleja määravad andmekaitseametniku vähemalt kaheaastaseks ametiajaks. Andmekaitseametniku võib ametisse tagasi nimetada. Andmekaitseametniku võib tema ametiaja jooksul ametist kõrvaldada ainult juhul, kui ta enam ei vasta kohustuste täitmiseks esitatavatele tingimustele."
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας ή ο εκτελών την επεξεργασία ορίζουν υπεύθυνο προστασίας των δεδομένων για διάστημα τουλάχιστον δύο ετών. Ο υπεύθυνος προστασίας δεδομένων μπορεί να διορισθεί εκ νέου για περαιτέρω θητείες. Κατά τη διάρκεια της θητείας του, ο υπεύθυνος προστασίας δεδομένων μπορεί να απομακρυνθεί από τη θέση του μόνον εάν δεν πληροί πλέον τις προϋποθέσεις που απαιτούνται για την άσκηση των καθηκόντων του."
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът или обработващият лични данни назначава длъжностно лице по защита на данните за срок от най-малко две години. Длъжностното лице по защита на данните може да се преназначава за следващи мандати. По време на мандата си длъжностното лице по защита на данните може да бъде освободено от тази длъжност, ако престане да отговаря на необходимите условия за изпълнението на своите задължения."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő vagy -feldolgozó az adatvédelmi tisztviselőt legalább 2 éves időtartamra jelöli ki. Az adatvédelmi tisztviselő további időtartamra ismételten kijelölhető. Az adatvédelmi tisztviselőt hivatali ideje alatt csak akkor lehet felmenteni, ha már nem felel meg a feladatai ellátásához szükséges feltételeknek."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur jew il-proċessur għandhom jaħtru uffiċjal tal-protezzjoni tad-dejta għal perjodu ta’ mill-inqas sentejn. L-uffiċjal tal-protezzjoni tad-dejta jista’ jerġa’ jinħatar għal aktar mandati. Waqt il-mandat tiegħu, l-uffiċjal tal-protezzjoni tad-dejta, l-uffiċjal tal-protezzjoni tad-dejta jista’ jitneħħa biss mill-kariga, jekk huwa ma jissodisfax aktar il-kundizzjonijiet meħtieġa għall-qadi ta’ dmirijietu."
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinis vai apstrādātājs ieceļ datu aizsardzības inspektoru uz vismaz divu gadu termiņu. Datu aizsardzības inspektoru var atkārtoti iecelt uz turpmākiem termiņiem. Datu aizsardzības inspektoru pirms pilnvaru termiņa beigām var atcelt tikai tad, ja datu aizsardzības inspektors vairs neatbilst savu uzdevumu izpildes nosacījumiem."
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul sau persoana împuternicită de către operator desemnează un responsabil cu protecția datelor pentru o perioadă de cel puțin doi ani. Mandatul responsabilului cu protecția datelor poate fi reînnoit. Pe durata mandatului, responsabilul cu protecția datelor poate fi demis doar dacă responsabilul cu protecția datelor nu mai îndeplinește condițiile cerute pentru exercitarea atribuțiilor sale."
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ alebo sprostredkovateľ určia úradníka pre ochranu údajov na obdobie najmenej dvoch rokov. Úradníka pre ochranu údajov možno opätovne poveriť touto funkciou na ďalšie obdobia. Počas funkčného obdobia možno úradníka pre ochranu údajov odvolať iba vtedy, ak prestal spĺňať podmienky požadované na výkon svojich služobných povinností."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec ali obdelovalec uradno osebo za varstvo podatkov imenuje za obdobje vsaj dveh let. Uradna oseba za varstvo podatkov se lahko ponovno imenuje za nadaljnja obdobja. Med mandatom je lahko uradna oseba za varstvo podatkov razrešena samo, če več ne izpolnjuje pogojev, zahtevanih za opravljanje njegovih nalog."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän tai henkilötietojen käsittelijän on nimitettävä tietosuojavastaava vähintään kahden vuoden ajaksi. Tietosuojavastaava voidaan nimittää tehtäväänsä uudelleen. Tietosuojavastaava voidaan erottaa toimestaan vain jos hän ei enää täytä tehtäviensä suorittamisen edellyttämiä vaatimuksia."
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator lub podmiot przetwarzający wyznaczają inspektora ochrony danych na okres co najmniej dwóch lat. Inspektor ochrony danych może być powoływany na kolejne kadencje. Inspektora ochrony danych można odwołać w czasie trwania kadencji jedynie wtedy, gdy przestał spełniać warunki niezbędne do pełnienia przez niego obowiązków."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas arba duomenų tvarkytojas paskiria duomenų apsaugos pareigūną mažiausiai dvejiems metams. Duomenų apsaugos pareigūno kadencija gali būti atnaujinama. Kadencijos laikotarpiu duomenų apsaugos pareigūnas gali būti atleidžiamas iš pareigų tik jei nebeatitinka jo pareigoms keliamų reikalavimų."
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke of de verwerker wijst een functionaris voor gegevensbescherming aan voor een periode van tenminste twee jaar. De functionaris voor gegevensbescherming kan worden herbenoemd. Tijdens zijn ambtstermijn kan de functionaris voor gegevensbescherming alleen worden ontslagen wanneer hij niet langer voldoet aan de voorwaarden voor de uitvoering van zijn taken."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige och registerföraren ska utnämna ett uppgiftsskyddsombud för en period på minst två år. Uppgiftsskyddsombudet får utnämnas för ytterligare perioder. Uppgiftsskyddsombudet får under sin mandatperiod endast avsättas om uppgiftsskyddsombudet inte längre uppfyller de villkor som krävs för fullgörandet av sitt uppdrag."
+		}
+	],
+	"children": [],
+	"title": "Article 35 – Paragraph 7"
+}

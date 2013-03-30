@@ -1,0 +1,102 @@
+{
+	"id": "a14p4i2",
+	"type": "point",
+	"literal": "b",
+	"parent": "a14p4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "where the personal data are not collected from the data subject, at the time of the recording or within a reasonable period after the collection, having regard to the specific circumstances in which the data are collected or otherwise processed, or, if a disclosure to another recipient is envisaged, and at the latest when the data are first disclosed."
+		},
+		{
+			"lang": "de",
+			"text": "falls die personenbezogenen Daten nicht bei der betroffenen Person erhoben werden, zum Zeitpunkt ihrer Erfassung oder innerhalb einer angemessenen Frist nach ihrer Erhebung, die den besonderen Umständen, unter denen die Daten erhoben oder auf sonstige Weise verarbeitet wurden, Rechnung trägt, oder, falls die Weitergabe an einen Empfänger beabsichtigt ist, spätestens zum Zeitpunkt der ersten Weitergabe."
+		},
+		{
+			"lang": "fr",
+			"text": "lorsque les données à caractère personnel ne sont pas collectées auprès de la personne concernée, au moment de l’enregistrement ou dans un délai raisonnable après la collecte, eu égard aux circonstances particulières dans lesquelles les données sont collectées ou traitées, ou si la communication à un autre destinataire est envisagée, et au plus tard au moment où les données sont communiquées pour la première fois."
+		},
+		{
+			"lang": "es",
+			"text": "cuando los datos personales no se recojan del interesado, en el momento del registro o en un plazo razonable después de la recogida, habida cuenta de las circunstancias específicas en que se obtengan o se sometan a tratamiento de otro modo, o, si se prevé una comunicación a otro destinatario, y a más tardar en el momento en que los datos se comuniquen por primera vez."
+		},
+		{
+			"lang": "pt",
+			"text": "Sempre que os dados não forem recolhidos junto do titular de dados, no momento do seu registo ou num prazo razoável após a recolha dos dados, tendo em conta as circunstâncias específicas em que foram recolhidos ou de outra forma tratados ou, se estiver prevista a divulgação dos dados a outro destinatário, o mais tardar aquando da primeira divulgação desses dados."
+		},
+		{
+			"lang": "it",
+			"text": "quando i dati personali non sono raccolti direttamente presso l’interessato, al momento della registrazione o entro un termine ragionevole dopo la raccolta, in considerazione delle specifiche circostanze in cui i dati vengono raccolti o altrimenti trattati, o, se si prevede la divulgazione dei dati a un altro destinatario, al più tardi al momento della prima comunicazione dei medesimi."
+		},
+		{
+			"lang": "ga",
+			"text": "i gcás nach mbailítear na sonraí pearsanta ón duine is ábhar do na sonraí, tráth an taifeadta nó laistigh de thréimhse réasúnta tar éis bhailiú na sonraí, ag féachaint do na himthosca sonracha ina mbailítear iad nó ina ndéantar iad a phróiseáil ar bhealach eile nó, má tá sé beartaithe na sonraí a nochtadh d'fhaighteoir eile, ar a dhéanaí nuair a nochtar na sonraí den chéad uair."
+		},
+		{
+			"lang": "cs",
+			"text": "pokud se osobní údaje nezískávají od subjektu údajů, v době jejich zaznamenání nebo v rozumné lhůtě po jejich shromáždění s ohledem na zvláštní okolnosti, za kterých se údaje shromažďují nebo jinak zpracovávají, nebo pokud se uvažuje o jejich zpřístupnění dalšímu příjemci pak nejpozději tehdy, kdy se údaje zpřístupňují poprvé."
+		},
+		{
+			"lang": "da",
+			"text": "såfremt personoplysningerne ikke indsamles fra den registrerede, på tidspunktet for registreringen eller inden for et rimeligt tidsrum efter indsamlingen afhængigt af de konkrete omstændigheder for indsamlingen eller behandlingen af oplysningerne, eller, hvis videregivelse til en anden modtager forventes, senest når oplysningerne første gange videregives."
+		},
+		{
+			"lang": "et",
+			"text": "kui isikuandmed ei ole kogutud andmesubjektilt, siis andmete salvestamise ajal või mõistliku aja jooksul pärast nende kogumist, võttes arvesse andmete kogumise või muul viisil töötlemise konkreetset olukorda ning seda, kas andmeid kavatsetakse avaldada mõnele teisele vastuvõtjale, kuid hiljemalt andmete esmakordse avalikustamise ajal."
+		},
+		{
+			"lang": "el",
+			"text": "β) εάν τα δεδομένα προσωπικού χαρακτήρα δεν χορηγούνται από το πρόσωπο στο οποίο αναφέρονται, κατά την καταχώριση ή εντός εύλογης προθεσμίας από τη συλλογή, λαμβάνοντας υπόψη τις ειδικές συνθήκες υπό τις οποίες τα δεδομένα συλλέγονται ή υποβάλλονται άλλως πως σε επεξεργασία, ή, εάν προβλέπεται γνωστοποίηση σε άλλον αποδέκτη, το αργότερο όταν τα δεδομένα γνωστοποιούνται για πρώτη φορά."
+		},
+		{
+			"lang": "bg",
+			"text": "б) когато личните данни не се събират от субекта на данните, в момента на тяхното записване или в разумен срок след събирането им, като се отчитат конкретните обстоятелства, при които данните са събрани или обработени по друг начин, или, когато се предвижда те да бъдат разкрити пред друг получател — не по-късно от датата, на която данните се разкриват за първи път."
+		},
+		{
+			"lang": "hu",
+			"text": "ha a személyes adatot nem az érintettől szerezte be, a rögzítés időpontjában, vagy az adatgyűjtés vagy -feldolgozás különös körülményeire tekintettel az adatgyűjtést követő ésszerű időtartamon belül, illetve, ha az adatokat más címzetthez kívánják továbbítani, legkésőbb az adatok első közlésekor."
+		},
+		{
+			"lang": "mt",
+			"text": "meta d-dejta personali ma tinġabarx mingħand is-suġġett tad-dejta, meta ssir ir-reġistrazzjoni jew fi żmien perjodu raġonevoli wara l-ġbir, wara li jiġu kkunsidrati ċ-ċirkostanzi speċifiċi li fihom inġabret id-dejta jew ġiet ipproċessata mod ieħor, jew, jekk hemm il-ħsieb ta’ xi żvelar lil xi riċevitur ieħor, u sa mhux aktar tard minn meta d-dejta tiġi żvelata għall-ewwel darba."
+		},
+		{
+			"lang": "lv",
+			"text": "ja personas datus neiegūst no datu subjekta – reģistrēšanas laikā vai saprātīgā termiņā pēc iegūšanas, ņemot vērā konkrētos apstākļus, kādos dati iegūti vai citādi apstrādāti, vai, ja ir paredzēta izpaušana citam saņēmējam, un vēlākais, kad dati tiek pirmo reizi izpausti."
+		},
+		{
+			"lang": "ro",
+			"text": "în cazul în care datele cu caracter personal nu sunt colectate de la persoana vizată, în momentul înregistrării acestora sau într-un termen rezonabil după colectare, ținând seama de circumstanțele specifice în care datele respective sunt colectate sau prelucrate în alt mod sau dacă se preconizează comunicarea acestora către un alt destinatar, și cel târziu în momentul în care datele sunt comunicate pentru prima dată."
+		},
+		{
+			"lang": "sk",
+			"text": "ak osobné údaje neboli získané od dotknutej osoby, potom v čase ich zaznamenania alebo v rámci primeraného obdobia po ich zhromaždení so zreteľom na osobitné okolnosti, za ktorých sa údaje zhromažďujú alebo inak spracúvajú, alebo ak sa uvažuje o ich sprístupnení ďalšiemu príjemcovi, a najneskôr vtedy, keď sa údaje sprístupňujú po prvý raz."
+		},
+		{
+			"lang": "sl",
+			"text": "kadar se osebni podatki ne zberejo od posameznika, na katerega se nanašajo osebni podatki, med beleženjem ali v primernem roku po zbiranju ali, če je predvideno razkritje drugemu prejemniku, najpozneje takrat, ko so podatki prvič razkriti, ob upoštevanju posebnih okoliščin, v katerih se podatki zbirajo ali kako drugače obdelajo."
+		},
+		{
+			"lang": "fi",
+			"text": "jos henkilötietoja ei kerätä rekisteröidyltä, silloin kun tietoja tallennetaan tai kohtuullisen ajan kuluttua tietojen keräämisestä, ottaen huomioon tietojen keräämiseen tai käsittelyyn liittyvät erityiset olosuhteet, tai, jos tietoja on tarkoitus luovuttaa toiselle vastaanottajalle, viimeistään silloin kun tietoja luovutetaan ensimmäisen kerran."
+		},
+		{
+			"lang": "pl",
+			"text": "jeżeli dane osobowe nie są zbierane od podmiotu danych, w momencie ich rejestrowania lub w rozsądnym terminie po zebraniu danych, uwzględniając szczególne okoliczności, w których dane są zbierane lub przetwarzane w inny sposób lub jeśli przewiduje się ujawnienie innemu odbiorcy, najpóźniej w momencie pierwszego ujawnienia danych."
+		},
+		{
+			"lang": "lt",
+			"text": "jeigu asmens duomenys renkami ne iš duomenų subjekto – tuo metu, kai asmens duomenys įrašomi, arba per pagrįstą laikotarpį po jų surinkimo, atsižvelgiant į konkrečias duomenų rinkimo ar kitokio tvarkymo aplinkybes, arba – jeigu ketinama duomenis atskleisti kitam duomenų gavėjui – ne vėliau kaip atskleidžiant duomenis pirmą kartą."
+		},
+		{
+			"lang": "nl",
+			"text": "wanneer de persoonsgegevens niet bij de betrokkene worden verzameld, op het tijdstip van vastlegging of binnen een redelijke termijn na de verzameling, met inachtneming van de specifieke omstandigheden waaronder de gegevens worden verzameld of anderszins verwerkt, of, wanneer verstrekking van de gegevens aan een andere ontvanger wordt overwogen, uiterlijk op het moment van de eerste verstrekking van de gegevens."
+		},
+		{
+			"lang": "sv",
+			"text": "om personuppgifterna inte samlas in från den registrerade, vid tidpunkten för registreringen eller inom en rimlig period efter insamlingen, med hänsyn tagen till de särskilda omständigheter under vilka uppgifterna samlas in eller på annat sätt behandlas, eller, om det planeras att lämna ut uppgifterna till en annan mottagare, och senast när uppgifterna lämnas ut för första gången."
+		}
+	],
+	"children": [],
+	"title": "Article 14 – Paragraph 4 – Point 2"
+}

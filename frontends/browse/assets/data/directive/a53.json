@@ -1,0 +1,107 @@
+{
+	"id": "a53",
+	"type": "article",
+	"literal": "53",
+	"parent": "c6s2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Powers"
+		},
+		{
+			"lang": "de",
+			"text": "Befugnisse"
+		},
+		{
+			"lang": "fr",
+			"text": "Pouvoirs"
+		},
+		{
+			"lang": "es",
+			"text": "Poderes"
+		},
+		{
+			"lang": "pt",
+			"text": "Poderes"
+		},
+		{
+			"lang": "it",
+			"text": "Poteri"
+		},
+		{
+			"lang": "ga",
+			"text": "Cumhachtaí"
+		},
+		{
+			"lang": "cs",
+			"text": "Pravomoci"
+		},
+		{
+			"lang": "da",
+			"text": "Beføjelser"
+		},
+		{
+			"lang": "et",
+			"text": "Volitused"
+		},
+		{
+			"lang": "el",
+			"text": "Εξουσίες"
+		},
+		{
+			"lang": "bg",
+			"text": "Правомощия"
+		},
+		{
+			"lang": "hu",
+			"text": "Hatáskörök"
+		},
+		{
+			"lang": "mt",
+			"text": "Setgħat"
+		},
+		{
+			"lang": "lv",
+			"text": "Pilnvaras"
+		},
+		{
+			"lang": "ro",
+			"text": "Funcții"
+		},
+		{
+			"lang": "sk",
+			"text": "Právomoci"
+		},
+		{
+			"lang": "sl",
+			"text": "Pooblastila"
+		},
+		{
+			"lang": "fi",
+			"text": "Valtuudet"
+		},
+		{
+			"lang": "pl",
+			"text": "Uprawnienia"
+		},
+		{
+			"lang": "lt",
+			"text": "Įgaliojimai"
+		},
+		{
+			"lang": "nl",
+			"text": "Bevoegdheden"
+		},
+		{
+			"lang": "sv",
+			"text": "Befogenheter"
+		}
+	],
+	"children": [
+		"a53p1",
+		"a53p2",
+		"a53p3",
+		"a53p4"
+	],
+	"title": "Article 53"
+}

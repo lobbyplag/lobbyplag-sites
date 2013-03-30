@@ -1,0 +1,102 @@
+{
+	"id": "r101",
+	"type": "recital",
+	"literal": "101",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Each supervisory authority should hear complaints lodged by any data subject and should investigate the matter. The investigation following a complaint should be carried out, subject to judicial review, to the extent that is appropriate in the specific case. The supervisory authority should inform the data subject of the progress and the outcome of the complaint within a reasonable period. If the case requires further investigation or coordination with another supervisory authority, intermediate information should be given to the data subject."
+		},
+		{
+			"lang": "de",
+			"text": "Jede Aufsichtsbehörde sollte Beschwerden von betroffenen Personen entgegennehmen und die Angelegenheit untersuchen. Die auf eine Beschwerde folgende Untersuchung sollte vorbehaltlich gerichtlicher Überprüfung so weit gehen, wie dies im Einzelfall angemessen ist. Die Aufsichtsbehörde sollte die betroffene Person innerhalb eines angemessenen Zeitraums über den Fortgang und die Ergebnisse der Beschwerde unterrichten. Sollten weitere Untersuchungen oder die Abstimmung mit einer anderen Aufsichtsbehörde vonnöten sein, sollte die betroffene Person auch hierüber informiert werden."
+		},
+		{
+			"lang": "fr",
+			"text": "Chaque autorité devrait recevoir les réclamations des personnes concernées et examiner les affaires en question. L’enquête faisant suite à une réclamation devrait être menée, sous contrôle juridictionnel, dans la mesure appropriée requise par l'affaire. L'autorité de contrôle devrait informer la personne concernée de l'état d'avancement et du résultat de la réclamation dans un délai raisonnable. Si l'affaire requiert un complément d'enquête ou une coordination avec une autre autorité de contrôle, des informations intermédiaires devraient être fournies à la personne concernée."
+		},
+		{
+			"lang": "es",
+			"text": "Cada autoridad de control debe oír las reclamaciones presentadas por cualquier interesado y debe investigar el asunto. La investigación a raíz de una reclamación debe llevarse a cabo, bajo control jurisdiccional, en la medida en que sea adecuada en el caso específico. La autoridad de control debe informar al interesado de la evolución y el resultado de la reclamación en un plazo razonable. Si el caso requiere una mayor investigación o coordinación con otra autoridad de control, se debe facilitar información intermedia al interesado."
+		},
+		{
+			"lang": "pt",
+			"text": "Cada autoridade de controlo deve receber as queixas apresentadas por qualquer titular de dados e investigar a matéria. A investigação decorrente de uma queixa deve ser realizada, sujeita a revisão judicial, na medida adequada ao caso específico. A autoridade de controlo deve informar a pessoa em causa da evolução e do resultado da queixa num prazo razoável. Se o caso exigir maior investigação ou a coordenação com outra autoridade de controlo, devem ser comunicadas informações intermédias ao titular dos dados."
+		},
+		{
+			"lang": "it",
+			"text": "È necessario che ciascuna autorità di controllo tratti i reclami proposti da qualsiasi interessato e svolga le relative indagini; che a seguito di reclamo vada condotta un’indagine, soggetta a controllo giurisdizionale, nella misura in cui ciò sia opportuno nella fattispecie; che l’autorità di controllo informi gli interessati dei progressi e dei risultati del ricorso entro un termine ragionevole. Se il caso richiede un’ulteriore indagine o il coordinamento con un’altra autorità di controllo, l’interessato deve ricevere informazioni interlocutorie."
+		},
+		{
+			"lang": "ga",
+			"text": "Ba cheart do gach údarás maoirseachta éisteacht le gearáin arna ndéanamh ag aon duine is ábhar do shonraí agus ba cheart dó an scéal a imscrúdú. Ar ghearán a fháil, ba cheart imscrúdú a dhéanamh, faoi réir athbhreithniú breithiúnach, a mhéid is iomchuí sa chás sonrach sin. Ba cheart don údarás maoirseachta an duine is ábhar do na sonraí a chur ar an eolas faoi aon dul chun cinn a dhéantar maidir leis an ngearán agus faoi thoradh an imscrúdaithe laistigh de thréimhse réasúnta. Más gá tuilleadh imscrúdaithe a dhéanamh nó dul i gcomhar le húdarás maoirseachta eile ba cheart faisnéis a thabhairt don duine is ábhar do na sonraí idir an dá linn."
+		},
+		{
+			"lang": "cs",
+			"text": "Každý orgán dozoru by se měl zabývat stížnostmi podanými kterýmkoli subjektem údajů a záležitost prošetřit. Šetření, které následuje po podání stížnosti, by mělo být s výhradou soudního přezkumu provedeno v rozsahu, jenž je v daném případě přiměřený. Orgán dozoru by měl subjekt údajů v rozumné lhůtě informovat o vývoji a výsledku stížnosti. Subjekt údajů by měl být průběžně informován v případě, kdy je zapotřebí další šetření nebo koordinace s jiným orgánem dozoru."
+		},
+		{
+			"lang": "da",
+			"text": "Hver tilsynsmyndighed bør behandle klager, der indgives af registrerede, og undersøge sagen. Undersøgelsen af en klage bør gennemføres med forbehold af domstols­prøvelse, i det omfang det er relevant i det konkrete tilfælde. Tilsynsmyndig­heden bør underrette den registrerede om gennemførelsen og resultatet af klagen inden for en rimelig frist. Hvis sagen kræver yderligere undersøgelse eller koordinering med en anden tilsynsmyndighed, bør den registrerede underrettes herom."
+		},
+		{
+			"lang": "et",
+			"text": "Iga järelevalveasutus peaks võtma vastu andmesubjekti esitatud kaebuse ja küsimust uurima. Kaebuse esitamisele järgnev uurimine peaks toimuma ulatuses, mis on konkreetse juhtumi puhul vajalik, ning selle tulemus peaks olema võimalik kohtulikult läbi vaadata. Järelevalveasutus peaks teavitama andmesubjekti kaebuse menetlemise käigust ja tulemusest mõistliku aja jooksul. Kui juhtum vajab täiendavat uurimist või kooskõlastamist mõne teise järelevalveasutusega, tuleks sellest teatada andmesubjektile."
+		},
+		{
+			"lang": "el",
+			"text": "Κάθε αρχή ελέγχου πρέπει να εξετάζει τις καταγγελίες που υποβάλλονται από οποιοδήποτε πρόσωπο στο οποίο αναφέρονται τα δεδομένα και πρέπει να διερευνά την υπόθεση. Η διερεύνηση σε συνέχεια καταγγελίας πρέπει να διενεργείται, με την επιφύλαξη δικαστικού ελέγχου, στον βαθμό που ενδείκνυται για τη συγκεκριμένη περίπτωση. Η αρχή ελέγχου οφείλει να ενημερώνει το πρόσωπο στο οποίο αναφέρονται τα δεδομένα για την πρόοδο και την έκβαση της καταγγελίας εντός εύλογου χρονικού διαστήματος. Εάν η υπόθεση απαιτεί περαιτέρω διερεύνηση ή συντονισμό με άλλη αρχή ελέγχου, πρέπει να παρέχεται ενδιάμεση ενημέρωση στο πρόσωπο στο οποίο αναφέρονται τα δεδομένα."
+		},
+		{
+			"lang": "bg",
+			"text": "Всеки надзорен орган следва да разглежда жалбите, подадени от субект на данни, и да извършва разследване по въпроса. Разследването въз основа на жалби следва да се извършва под съдебен контрол и в целесъобразна за конкретния случай степен. Надзорният орган следва да информира субекта на данните за напредъка и резултата от жалбата в разумен срок. Ако случаят изисква допълнително разследване или координиране с друг надзорен орган, на субекта на данните следва да бъде предоставена междинна информация."
+		},
+		{
+			"lang": "hu",
+			"text": "Mindegyik felügyelő hatóságnak be kell fogadnia az összes érintett panaszát, és ki kell vizsgálnia az ügyet. A panaszt követő – bírósági felülvizsgálat alá tartozó – vizsgálatot a konkrét esethez szükséges mértékben kell lefolytatni. A felügyelő hatóságnak ésszerű határidőn belül tájékoztatnia kell az érintettet a panaszhoz fűződő fejleményekről és eredményekről. Amennyiben az ügy további vizsgálatot vagy egy másik felügyelő hatósággal való együttműködést tesz szükségessé, az érintett számára időközben tájékoztatást kell nyújtani."
+		},
+		{
+			"lang": "mt",
+			"text": "Kull awtorità ta’ superviżjoni għandha tisma’ l-ilmenti mressqa minn kwalunkwe suġġett tad-dejta u għandha tinvestiga l-każ. L-investigazzjoni wara lment għandha titwettaq, soġġetta għal reviżjoni ġudizzjarja, safejn ikun xieraq fil-każ speċifiku. L-awtorità ta’ superviżjoni għandha tinforma lis-suġġett tad-dejta dwar il-progress u l-eżitu tal-ilment fi żmien raġonevoli. Jekk il-każ ikun jeħtieġ aktar investigazzjoni jew koordinazzjoni ma’ awtorità ta’ superviżjoni oħra, għandha tingħata informazzjoni intermedja lis-suġġett tad-dejta."
+		},
+		{
+			"lang": "lv",
+			"text": "Katrai uzraudzības iestādei būtu jābūt tiesīgai uzklausīt jebkura datu subjekta sūdzību un izmeklēt to. Uz sūdzības pamata sākta izmeklēšana būtu jāveic tādā apjomā, kāds ir nepieciešams konkrētajā lietā, pakļaujot to tiesas kontrolei. Uzraudzības iestādei saprātīgā termiņā būtu jāinformē datu subjekts par sūdzības virzību un iznākumu. Ja lietā ir nepieciešama papildus izmeklēšana vai koordinācija ar citu uzraudzības iestādi, datu subjektam būtu jāsniedz starpposma informācija."
+		},
+		{
+			"lang": "ro",
+			"text": "Fiecare autoritate de supraveghere ar trebui să răspundă plângerilor depuse de orice persoană vizată și ar trebui să investigheze cazul. Investigația în urma unei plângeri ar trebui să fie efectuată, sub control judiciar, în măsura în care este necesar, în funcție de caz. Autoritatea de supraveghere ar trebui să informeze persoana vizată cu privire la evoluția și soluționarea plângerii într-un termen rezonabil. În eventualitatea în care cazul necesită o investigare suplimentară sau coordonarea cu o altă autoritate de supraveghere, ar trebui să se furnizeze informații intermediare persoanei vizate."
+		},
+		{
+			"lang": "sk",
+			"text": "Každý dozorný orgán by mal prejednať sťažnosti podané ktoroukoľvek dotknutou osobou a vyšetriť predmetnú záležitosť. Vyšetrovanie na základe sťažnosti by sa malo vykonávať, s výhradou preskúmania veci súdom, v rozsahu primeranom pre konkrétny prípad. Dozorný orgán by mal informovať dotknutú osobu o pokroku pri vybavovaní sťažnosti a o výsledku sťažnosti v rámci primeranej lehoty. Ak si predmetná záležitosť vyžaduje ďalšie vyšetrovanie alebo koordináciu s iným dozorným orgánom, dotknutej osobe by sa mala poskytnúť priebežná informácia."
+		},
+		{
+			"lang": "sl",
+			"text": "Vsak nadzorni organ bi moral obravnavati pritožbe, ki jih vloži kateri koli posameznik, na katerega se nanašajo osebni podatki, in preiskati zadevo. Preiskavo na podlagi pritožbe bi bilo treba izvesti v obsegu, ki je v posamezni zadevi ustrezen, saj je lahko odločba nadzornega organa predmet sodne presoje. Nadzorni organ bi moral posameznika, na katerega se nanašajo osebni podatki, v primernem roku obvestiti o stanju zadeve in odločitvi o pritožbi. Če mora nadzorni organ zadevo podrobneje proučiti ali se uskladiti z drugim nadzornim organom, bi bilo treba posamezniku, na katerega se nanašajo osebni podatki, posredovati informacije o stanju zadeve med postopkom."
+		},
+		{
+			"lang": "fi",
+			"text": "Kaikkien valvontaviranomaisten olisi käsiteltävä rekisteröityjen tekemiä valituksia ja tutkittava asia. Valitus olisi tutkittava siinä määrin kuin kussakin tapauksessa on asianmukaista, ja ratkaisu olisi voitava saattaa tuomioistuimen käsiteltäväksi. Valvontaviranomaisen olisi ilmoitettava rekisteröidylle valituksen käsittelyn etenemisestä ja sen ratkaisusta kohtuullisen ajan kuluessa. Jos asiassa tarvitaan lisätutkimuksia tai koordinointia toisen valvontaviranomaisen kanssa, tästä olisi ilmoitettava rekisteröidylle."
+		},
+		{
+			"lang": "pl",
+			"text": "Każdy organ nadzorczy powinien rozpatrywać skargi złożone przez podmiot danych oraz przeprowadzić stosowne dochodzenie. Dochodzenie na podstawie skargi powinno być prowadzone, z zastrzeżeniem kontroli sądowej, w zakresie odpowiednim do konkretnej sprawy. Organ nadzorczy powinien poinformować podmiot danych o postępach i wyniku skargi w rozsądnym terminie. Jeśli dana sprawa wymaga prowadzenia dalszego dochodzenia lub koordynacji z innym organem nadzorczym, podmiot danych powinien być o tym poinformowany."
+		},
+		{
+			"lang": "lt",
+			"text": "kiekviena priežiūros institucija turėtų nagrinėti skundus, kuriuos pateikė bet kuris duomenų subjektas, ir juos tirti. Tyrimas gavus skundą turėtų būti vykdomas, paliekant galimybę jį peržiūrėti teismine tvarka, tiek, kiek tai tikslinga konkrečiu atveju. Priežiūros institucija per pagrįstą laikotarpį turėtų informuoti duomenų subjektą apie skundo tyrimo eigą ir rezultatą. Jeigu reikia papildo tyrimo arba jį koordinuoti su kita priežiūros institucija, duomenų subjektas taip pat turėtų būti apie tai informuojamas;"
+		},
+		{
+			"lang": "nl",
+			"text": "Iedere toezichthoudende autoriteit dient kennis te nemen van klachten die door een betrokkene zijn ingediend en de zaak te onderzoeken. Het onderzoek dat naar aanleiding van een klacht wordt uitgevoerd, heeft een voor het specifieke geval passende reikwijdte en kan worden onderworpen aan rechterlijke toetsing. De toezichthoudende autoriteit dient de betrokkene binnen een redelijke termijn in kennis te stellen van de voortgang en het resultaat van de klacht. Indien de zaak verder onderzoek of coördinatie met een andere toezichthoudende autoriteit vereist, dient de betrokkene tussentijdse informatie te worden verstrekt."
+		},
+		{
+			"lang": "sv",
+			"text": "Tillsynsmyndigheterna bör ta emot klagomål som lämnas in av registrerade och utreda ärendena i fråga. Utredningen av ett klagomål bör, med förbehåll för eventuell domstolsprövning, ske i den utsträckning som är lämplig i det enskilda fallet. Tillsynsmyndigheten bör i rimlig tid informera den registrerade om hur arbetet med klagomålet fortskrider och vad resultatet blir. Om ärendet fordrar ytterligare utredning eller samordning med en annan tillsynsmyndighet bör den registrerade underrättas även om detta."
+		}
+	],
+	"children": [],
+	"title": "Recital 101"
+}

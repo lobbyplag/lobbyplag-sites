@@ -1,0 +1,102 @@
+{
+	"id": "r64",
+	"type": "recital",
+	"literal": "64",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "In order to determine whether a controller is only occasionally offering goods and services to data subjects residing in the Union, it should be ascertained whether it is apparent from the controller's overall activities that the offering of goods and services to such data subjects is ancillary to those main activities."
+		},
+		{
+			"lang": "de",
+			"text": "Zur Klärung der Frage, ob ein für die Verarbeitung Verantwortlicher in der Union ansässigen betroffenen Personen nur gelegentlich Waren und Dienstleistungen anbietet, sollte jeweils geprüft werden, ob aus dem allgemeinen Tätigkeitsprofil des für die Verarbeitung Verantwortlichen ersichtlich ist, dass das Anbieten der betreffenden Waren und Dienstleistungen lediglich eine zusätzlich zu seinen Haupttätigkeiten hinzukommende Tätigkeit darstellt."
+		},
+		{
+			"lang": "fr",
+			"text": "Afin de déterminer si un responsable des données n'offre qu'occasionnellement des biens et des services à des personnes concernées résidant dans l'Union, il y aurait lieu de vérifier s'il ressort de l'ensemble de ses activités que l'offre de biens et de services à ces personnes concernées est accessoire à ses activités principales."
+		},
+		{
+			"lang": "es",
+			"text": "Para determinar si un responsable del tratamiento solo ofrece ocasionalmente bienes y servicios a interesados residentes en la Unión, debe comprobarse si de las actividades generales del responsable se desprende que la oferta de bienes y servicios a dichos interesados es accesoria a esas actividades principales."
+		},
+		{
+			"lang": "pt",
+			"text": "A fim de determinar se o responsável pelo tratamento oferece bens e serviços apenas a título esporádico aos titulares de dados que residam na União, deve ser verificado se resulta do conjunto das suas atividades que a oferta de bens e serviços a essas pessoas é acessória às suas atividades principais."
+		},
+		{
+			"lang": "it",
+			"text": "Per determinare se un responsabile del trattamento offre solo occasionalmente beni e servizi agli interessati residenti nell’Unione, occorre verificare se dalle sue attività complessive risulta che l’offerta di beni o servizi agli interessati sia solo accessoria rispetto alle attività principali."
+		},
+		{
+			"lang": "ga",
+			"text": "Chun a chinneadh an ea nach bhfuil rialaitheoir ag cur earraí agus seirbhísí ar fáil ach ar uairibh do dhaoine is ábhar do shonraí atá ina gcónaí san Aontas, ba cheart a dhéanamh amach an bhfuil sé soiléir ó ghníomhaíochtaí foriomlána an rialaitheora go bhfuil cur ar fáil earraí agus seirbhísí do na daoine sin is ábhar do na sonraí coimhdeach leis na príomhghníomhaíochtaí sin."
+		},
+		{
+			"lang": "cs",
+			"text": "Aby bylo stanoveno, zda správce nabízí zboží a služby subjektu údajů, který má bydliště v Unii, jen příležitostně, mělo by být zjištěno, zda je z celkových činností správce patrné, že nabízení zboží a služeb těmto subjektům údajů představuje pouze doplňující činnost k jeho hlavním činnostem."
+		},
+		{
+			"lang": "da",
+			"text": "For at afgøre, om en registeransvarlig kun lejlighedsvis udbyder varer eller tjenester til registrerede med bopæl i Unionen, bør det kontrolleres, om det fremgår af den registeransvarliges overordnede aktiviteter, at udbuddet af varer eller tjenester til sådanne registrerede er en aktivitet i tilknytning til hovedaktiviteterne."
+		},
+		{
+			"lang": "et",
+			"text": "Selleks et määrata kindlaks, kas vastutav töötleja pakub ELis elavatele andmesubjektidele kaupu ja teenuseid ainult juhuti, tuleks kontrollida, kas vastutava töötleja kogu tegevuse põhjal on ilmne, et sellistele andmesubjektidele kaupade ja teenuste pakkumine on tema kõrvaltegevus."
+		},
+		{
+			"lang": "el",
+			"text": "Για τον καθορισμό του κατά πόσον ένας υπεύθυνος επεξεργασίας προσφέρει μόνον περιστασιακά αγαθά και υπηρεσίες σε πρόσωπα στα οποία αναφέρονται τα δεδομένα τα οποία διαμένουν στην Ένωση, πρέπει να εξακριβώνεται κατά πόσον είναι εμφανές από τις συνολικές δραστηριότητες του υπευθύνου επεξεργασίας ότι η προσφορά αγαθών και υπηρεσιών στα εν λόγω πρόσωπα στα οποία αναφέρονται τα δεδομένα είναι παρεπόμενη δραστηριότητα στις βασικές αυτές δραστηριότητες."
+		},
+		{
+			"lang": "bg",
+			"text": "С цел да се определи дали даден администратор предоставя само понякога стоки и услуги на субекти на данни с местоживеене в Съюза следва да се установи дали от цялостната дейност на администратора личи, че предлагането на стоки и услуги на такива субекти на данни е вторична дейност спрямо основните му дейности."
+		},
+		{
+			"lang": "hu",
+			"text": "Annak megállapítása érdekében, hogy az adatkezelő csupán alkalmi jelleggel kínál-e termékeket és szolgáltatásokat az Unióban lakóhellyel rendelkező érintetteknek, azt kell megvizsgálni, hogy az adatkezelő tevékenységeinek összességéből kitűnik-e az, hogy a termékek és szolgáltatások ilyen érintettek számára történő nyújtása kiegészítő jelleggel bír-e a fő tevékenységekhez képest."
+		},
+		{
+			"lang": "mt",
+			"text": "Sabiex jiġi ddeterminat jekk kontrollur ikunx qiegħed joffri prodotti jew servizzi okkażjonalment biss lil dawn is-suġġetti tad-dejta li jgħixu fl-Unjoni, għandu jiġi vverifikat jekk jirriżultax mill-attivitajiet ġenerali tal-kontrollur li l-offerta ta’ prodotti u servizzi lil dawn is-suġġetti hijiex anċillari għal dawk l-attivitajiet prinċipali."
+		},
+		{
+			"lang": "lv",
+			"text": "Lai noteiktu, vai pārzinis tikai palaikam piedāvā preces un pakalpojumus datu subjektiem, kuru dzīvesvieta ir Savienībā, būtu jāpārliecinās, vai no pārziņa vispārīgās darbības acīmredzami izriet, ka preču un pakalpojumu piedāvāšana šādiem datu subjektiem ir tikai palīgdarbība salīdzinājumā ar galveno darbību."
+		},
+		{
+			"lang": "ro",
+			"text": "Pentru a se stabili dacă un operator oferă doar ocazional bunuri și servicii persoanelor vizate care își au reședința în Uniune, ar trebui să se analizeze dacă din ansamblul activităților desfășurate de către operator rezultă că oferirea de bunuri și servicii unor astfel de persoane vizate este auxiliară activităților principale respective."
+		},
+		{
+			"lang": "sk",
+			"text": "Aby bolo možné určiť, či prevádzkovateľ ponúka tovar a služby dotknutým osobám s bydliskom v Únii iba príležitostne, je potrebné uistiť sa, či je z celkovej činnosti prevádzkovateľa zjavné, že ponuka tovaru a služieb takýmto dotknutým osobám je vedľajšou činnosťou vykonávanou popri jeho hlavnej činnosti."
+		},
+		{
+			"lang": "sl",
+			"text": "Za ugotovitev, ali upravljavec posameznikom, na katere se nanašajo osebni podatki, blago in storitve nudi samo občasno, bi bilo treba preveriti, ali je iz splošnih dejavnosti upravljavca razvidno, da je nudenje blaga in storitev takim posameznikom samo njegova postranska dejavnost."
+		},
+		{
+			"lang": "fi",
+			"text": "Sen määrittämiseksi, tarjoaako rekisterinpitäjä tavaroita ja palveluja unionissa asuville rekisteröidyille vain satunnaisesti, olisi varmistettava, ilmeneekö rekisterinpitäjän yleisestä toiminnasta, että tavaroiden ja palvelujen tarjoaminen näille rekisteröidyille on sen pääasiallisten toimintojen aputoiminto."
+		},
+		{
+			"lang": "pl",
+			"text": "By stwierdzić, czy administrator jedynie okazjonalnie oferuje towary i usługi podmiotom danych mającym miejsce zamieszkania w Unii, należy się upewnić, czy z całości działalności administratora wynika, że oferowanie towarów i usług tym osobom, stanowi działalność dodatkową do działalności głównej."
+		},
+		{
+			"lang": "lt",
+			"text": "siekiant nustatyti, ar duomenų valdytojas prekes ir paslaugas Sąjungoje gyvenantiems duomenų subjektams siūlo tik retkarčiais, reikėtų įvertinti, ar iš visos duomenų valdytojo veiklos matyti, kad prekių ir paslaugų siūlymas tokiems duomenų subjektams tik papildo pagrindinę jo veiklą;"
+		},
+		{
+			"lang": "nl",
+			"text": "Om uit te maken of een voor de verwerking verantwoordelijke slechts incidenteel goederen en diensten aanbiedt aan betrokkenen die in de Unie wonen, dient te worden vastgesteld of uit de algemene activiteiten van de voor de verwerking verantwoordelijke duidelijk blijkt dat het aanbieden van goederen en diensten aan dergelijke betrokkenen slechts een nevenactiviteit is."
+		},
+		{
+			"lang": "sv",
+			"text": "För att avgöra om registeransvariga endast undantagsvis erbjuder varor och tjänster till registrerade som bor inom unionen bör det utrönas om det är uppenbart med anledning av den registeransvariges övergripande verksamheter att erbjudandet av varor och tjänster till dessa registrerade personer är sidoverksamhet till huvudverksamheten."
+		}
+	],
+	"children": [],
+	"title": "Recital 64"
+}

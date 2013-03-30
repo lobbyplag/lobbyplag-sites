@@ -1,0 +1,105 @@
+{
+	"id": "a91",
+	"type": "article",
+	"literal": "91",
+	"parent": "c11",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Entry into force and application"
+		},
+		{
+			"lang": "de",
+			"text": "Inkrafttreten und Anwendung"
+		},
+		{
+			"lang": "fr",
+			"text": "Entrée en vigueur et application"
+		},
+		{
+			"lang": "es",
+			"text": "Entrada en vigor y aplicación"
+		},
+		{
+			"lang": "pt",
+			"text": "Entrada em vigor e aplicação"
+		},
+		{
+			"lang": "it",
+			"text": "Entrata in vigore e applicazione"
+		},
+		{
+			"lang": "ga",
+			"text": "Teacht i bhfeidhm agus cur i bhfeidhm"
+		},
+		{
+			"lang": "cs",
+			"text": "Vstup v platnost a použitelnost"
+		},
+		{
+			"lang": "da",
+			"text": "Ikrafttræden og anvendelse"
+		},
+		{
+			"lang": "et",
+			"text": "Jõustumine ja kohaldamine"
+		},
+		{
+			"lang": "el",
+			"text": "Έναρξη ισχύος και εφαρμογή"
+		},
+		{
+			"lang": "bg",
+			"text": "Влизане в сила и прилагане"
+		},
+		{
+			"lang": "hu",
+			"text": "Hatálybalépés és alkalmazás"
+		},
+		{
+			"lang": "mt",
+			"text": "Dħul fis-seħħ u applikazzjoni"
+		},
+		{
+			"lang": "lv",
+			"text": "Spēkā stāšanās un piemērošana"
+		},
+		{
+			"lang": "ro",
+			"text": "Intrarea în vigoare și aplicarea"
+		},
+		{
+			"lang": "sk",
+			"text": "Nadobudnutie účinnosti a uplatňovanie"
+		},
+		{
+			"lang": "sl",
+			"text": "Začetek veljavnosti in uporaba"
+		},
+		{
+			"lang": "fi",
+			"text": "Voimaantulo ja soveltaminen"
+		},
+		{
+			"lang": "pl",
+			"text": "Wejście w życie i stosowanie"
+		},
+		{
+			"lang": "lt",
+			"text": "Įsigaliojimas ir taikymas"
+		},
+		{
+			"lang": "nl",
+			"text": "Inwerkingtreding en toepassing"
+		},
+		{
+			"lang": "sv",
+			"text": "Ikraftträdande och tillämpning"
+		}
+	],
+	"children": [
+		"a91p1",
+		"a91p2"
+	],
+	"title": "Article 91"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "a58p6",
+	"type": "paragraph",
+	"literal": "6",
+	"parent": "a58",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The chair of the European Data Protection Board shall immediately electronically inform the members of the European Data Protection Board and the Commission of any relevant information which has been communicated to it, using a standardised format. The chair of the European Data Protection Board shall provide translations of relevant information, where necessary."
+		},
+		{
+			"lang": "de",
+			"text": "Der Vorsitz des Europäischen Datenschutzausschusses unterrichtet unverzüglich auf elektronischem Wege unter Verwendung eines standardisierten Formats die Mitglieder des Datenschutzausschusses und die Kommission über zweckdienliche Informationen, die ihm zugegangen sind. Soweit erforderlich stellt der Vorsitz des Europäischen Datenschutzausschusses Übersetzungen der zweckdienlichen Informationen zur Verfügung."
+		},
+		{
+			"lang": "fr",
+			"text": "Le président du comité européen de la protection des données transmet sans délai aux membres du comité européen de la protection des données et à la Commission toutes les informations utiles qui lui ont été communiquées, par voie électronique et au moyen d'un formulaire type. Le président du comité européen de la protection des données fournit, si nécessaire, des traductions des informations utiles."
+		},
+		{
+			"lang": "es",
+			"text": "El presidente del Consejo Europeo de Protección de Datos informará inmediatamente por vía electrónica a los miembros del Consejo Europeo de Protección de Datos y a la Comisión de cualquier información útil que le haya sido comunicada, utilizando un formato normalizado. El presidente del Consejo Europeo de Protección de Datos facilitará, de ser sea necesario, traducciones de la información útil."
+		},
+		{
+			"lang": "pt",
+			"text": "O presidente do Comité Europeu para a Proteção de Dados informa de imediato por via eletrónica, utilizando um formato normalizado, os membros deste comité e a Comissão sobre quaisquer informações pertinentes que lhe tenham sido comunicadas. O presidente do Comité Europeu para a Proteção de Dados deve comunicar, se necessário, traduções das informações pertinentes."
+		},
+		{
+			"lang": "it",
+			"text": "Il presidente del comitato europeo per la protezione dei dati informa immediatamente per via elettronica, con modulo standard, i membri del comitato europeo per la protezione dei dati e la Commissione di tutte le informazioni utili che gli sono state comunicate. Se necessario, fornisce una traduzione delle informazioni."
+		},
+		{
+			"lang": "ga",
+			"text": "Déanfaidh cathaoirleach an Bhoird Eorpaigh um Chosaint Sonraí comhaltaí an Bhoird Eorpaigh um Chosaint Sonraí agus an Coimisiún a chur ar an eolas go leictreonach faoin bhfaisnéis ábhartha arna cur in iúl dó, agus bainfear úsáid as formáid chaighdeánaithe chuige sin. Soláthróidh cathaoirleach an Bhoird Eorpaigh um Chosaint Sonraí aistriúcháin ar an bhfaisnéis ábhartha, nuair is gá."
+		},
+		{
+			"lang": "cs",
+			"text": "Předseda Evropské rady pro ochranu údajů bez prodlení, elektronicky a za použití standardního formátu sděluje členům Evropské rady pro ochranu údajů a Komisi veškeré relevantní informace, které mu byly oznámeny. Je-li to nutné, poskytuje předseda Evropské rady pro ochranu údajů relevantní informace v překladech."
+		},
+		{
+			"lang": "da",
+			"text": "Formanden for Det Europæiske Databeskyttelsesråd underretter straks elektronisk medlemmerne af Det Europæiske Databeskyttelsesråd og Kommissionen om alle relevante oplysninger, han har modtaget, i et standardformat. Formanden for Det Europæiske Databeskyttelsesråd sørger efter behov for oversættelse af de relevante oplysninger."
+		},
+		{
+			"lang": "et",
+			"text": "Euroopa Andmekaitsenõukogu eesistuja teavitab viivitamata elektrooniliselt Euroopa Andmekaitsenõukogu liikmeid ja komisjoni talle edastatud asjakohasest teabest, kasutades selleks tüüpvormi. Euroopa Andmekaitsenõukogu eesistuja korraldab vajaduse korral asjaomase teabe tõlkimise."
+		},
+		{
+			"lang": "el",
+			"text": "Ο πρόεδρος του Ευρωπαϊκού Συμβουλίου Προστασίας Δεδομένων ενημερώνει πάραυτα με ηλεκτρονικό τρόπο τα μέλη του Ευρωπαϊκού Συμβουλίου Προστασίας Δεδομένων και την Επιτροπή για κάθε σχετική πληροφορία που του κοινοποιείται, χρησιμοποιώντας τυποποιημένο μορφότυπο. Ο πρόεδρος του Ευρωπαϊκού Συμβουλίου Προστασίας Δεδομένων παρέχει μεταφράσεις των σχετικών πληροφοριών, εφόσον απαιτείται."
+		},
+		{
+			"lang": "bg",
+			"text": "Председателят на Европейския комитет по защита на данните незабавно информира по електронен път членовете на Европейския комитет по защита на данните и Комисията за всяка значима информация, която му е била съобщена, като използва стандартизиран формат. Председателят на Европейския комитет по защита на данните предоставя превод на значимата информация, когато това е необходимо."
+		},
+		{
+			"lang": "hu",
+			"text": "Az Európai Adatvédelmi Testület elnöke elektronikus úton, egységes formanyomtatvány segítségével azonnal értesíti az Európai Adatvédelmi Testület tagjait és a Bizottságot a beérkezett vonatkozó információkról. Az Európai Adatvédelmi Testület elnöke szükség esetén gondoskodik a vonatkozó információk fordításáról."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-president tal-Bord Ewropew għall-Protezzjoni tad-Dejta għandu jinforma minnufih b’mod elettroniku lill-membri tal-Bord Ewropew għall-Protezzjoni tad-Dejta u lill-Kummissjoni rigward kwalunkwe informazzjoni rilevanti li tkun ġiet ikkomunikata lilu, permezz ta’ format standardizzat. Il-president tal-Bord Ewropew għall-Protezzjoni tad-Dejta għandu jipprovdi t-traduzzjonijiet tal-informazzjoni rilevanti, fejn ikun meħtieġ."
+		},
+		{
+			"lang": "lv",
+			"text": "Eiropas Datu aizsardzības kolēģijas priekšsēdētājs, izmantojot standarta formātu, nekavējoties elektroniski informē Eiropas Datu aizsardzības kolēģijas locekļus un Komisiju par visu attiecīgo informāciju, kas paziņota kolēģijai. Ja nepieciešams, Eiropas Datu aizsardzības kolēģijas priekšsēdētājs nodrošina attiecīgās informācijas tulkojumu."
+		},
+		{
+			"lang": "ro",
+			"text": "Președintele Comitetului european pentru protecția datelor informează fără întârziere pe cale electronică membrii Comitetului european pentru protecția datelor și Comisia cu privire la orice informație relevantă care i-a fost comunicată, utilizând un formular standard. Președintele Comitetului european pentru protecția datelor furnizează traduceri ale informațiilor relevante, dacă este necesar."
+		},
+		{
+			"lang": "sk",
+			"text": "Predseda Európskeho výboru pre ochranu údajov ihneď elektronicky informuje členov Európskeho výboru pre ochranu údajov a Komisiu o všetkých relevantných informáciách, ktoré mu boli oznámené, pričom používa štandardizovaný formát. Predseda Európskeho výboru pre ochranu údajov poskytne v prípade potreby preklady relevantných informácií."
+		},
+		{
+			"lang": "sl",
+			"text": "Predsednik Evropskega odbora za varstvo podatkov člane Evropskega odbora za varstvo podatkov in Komisijo v standardizirani elektronski obliki nemudoma obvesti o vseh relevantnih informacijah, ki jih je prejel. Predsednik Evropskega odbora za varstvo podatkov po potrebi zagotovi prevode relevantnih informacij."
+		},
+		{
+			"lang": "fi",
+			"text": "Euroopan tietosuojaneuvoston puheenjohtajan on ilmoitettava Euroopan tietosuojaneuvoston jäsenille ja komissiolle välittömästi sähköisesti kaikista sille toimitetuista asiaa koskevista tiedoista vakiolomaketta käyttäen. Euroopan tietosuojaneuvoston puheenjohtaja toimittaa tarvittaessa myös käännöksen näistä tiedoista."
+		},
+		{
+			"lang": "pl",
+			"text": "Przewodniczący Europejskiej Rady Ochrony Danych przekazuje niezwłocznie drogą elektroniczną stosowne informacje, które zostały mu przekazane, przy zastosowaniu standardowego formatu, członkom Europejskiej Rady Ochrony Danych i Komisji. Przewodniczący Europejskiej Rady Ochrony Danych zapewnia tłumaczenie stosownych informacji, jeżeli jest to konieczne."
+		},
+		{
+			"lang": "lt",
+			"text": "Europos duomenų apsaugos valdybos pirmininkas elektroniniu būdu pateikia Europos duomenų apsaugos valdybos nariams ir Komisijai bet kokią reikšmingą informaciją, kuri jam buvo pateikta, naudodamasis standartizuota forma. Europos duomenų apsaugos valdybos pirmininkas prireikus pateikia reikšmingos informacijos vertimą."
+		},
+		{
+			"lang": "nl",
+			"text": "De voorzitter van het Europees Comité voor gegevensbescherming stelt de leden van het Europees Comité voor gegevensbescherming en de Commissie onmiddellijk elektronisch door middel van een standaardformulier in kennis van alle relevante informatie die het comité heeft ontvangen. De voorzitter van het Europees Comité voor gegevensbescherming verstrekt indien nodig vertalingen van relevante informatie."
+		},
+		{
+			"lang": "sv",
+			"text": "Europeiska dataskyddsstyrelsens ordförande ska i ett standardiserat elektroniskt format omedelbart upplysa dess ledamöter samt kommissionen om all relevant information som meddelats styrelsen. Där så krävs ska Europeiska dataskyddsstyrelsens ordförande se till att relevant information översätts."
+		}
+	],
+	"children": [],
+	"title": "Article 58 – Paragraph 6"
+}

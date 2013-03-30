@@ -1,0 +1,107 @@
+{
+	"id": "a7",
+	"type": "article",
+	"literal": "7",
+	"parent": "c2",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Conditions for consent"
+		},
+		{
+			"lang": "de",
+			"text": "Einwilligung"
+		},
+		{
+			"lang": "fr",
+			"text": "Conditions de consentement"
+		},
+		{
+			"lang": "es",
+			"text": "Condiciones para el consentimiento"
+		},
+		{
+			"lang": "pt",
+			"text": "Condições para o consentimento"
+		},
+		{
+			"lang": "it",
+			"text": "Condizioni per il consenso"
+		},
+		{
+			"lang": "ga",
+			"text": "Coinníollacha maidir le toiliú"
+		},
+		{
+			"lang": "cs",
+			"text": "Podmínky vyjádření souhlasu"
+		},
+		{
+			"lang": "da",
+			"text": "Betingelser for samtykke"
+		},
+		{
+			"lang": "et",
+			"text": "Nõusoleku andmise tingimused"
+		},
+		{
+			"lang": "el",
+			"text": "Προϋποθέσεις συγκατάθεσης"
+		},
+		{
+			"lang": "bg",
+			"text": "Условия за съгласие"
+		},
+		{
+			"lang": "hu",
+			"text": "A hozzájárulás feltételei"
+		},
+		{
+			"lang": "mt",
+			"text": "Kundizzjonijiet għall-kunsens"
+		},
+		{
+			"lang": "lv",
+			"text": "Nosacījumi piekrišanai"
+		},
+		{
+			"lang": "ro",
+			"text": "Condiții privind consimțământul"
+		},
+		{
+			"lang": "sk",
+			"text": "Podmienky vyjadrenia súhlasu"
+		},
+		{
+			"lang": "sl",
+			"text": "Pogoji za privolitev"
+		},
+		{
+			"lang": "fi",
+			"text": "Suostumuksen edellytykset"
+		},
+		{
+			"lang": "pl",
+			"text": "Warunki udzielenia zgody"
+		},
+		{
+			"lang": "lt",
+			"text": "Sutikimo sąlygos"
+		},
+		{
+			"lang": "nl",
+			"text": "Voorwaarden voor toestemming"
+		},
+		{
+			"lang": "sv",
+			"text": "Villkor för samtycke"
+		}
+	],
+	"children": [
+		"a7p1",
+		"a7p2",
+		"a7p3",
+		"a7p4"
+	],
+	"title": "Article 7"
+}

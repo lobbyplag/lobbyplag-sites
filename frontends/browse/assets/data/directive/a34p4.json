@@ -1,0 +1,102 @@
+{
+	"id": "a34p4",
+	"type": "paragraph",
+	"literal": "4",
+	"parent": "a34",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The supervisory authority shall establish and make public a list of the processing operations which are subject to prior consultation pursuant to point (b) of paragraph 2. The supervisory authority shall communicate those lists to the European Data Protection Board."
+		},
+		{
+			"lang": "de",
+			"text": "Die Aufsichtsbehörde erstellt eine Liste der Verarbeitungsvorgänge, die Gegenstand der vorherigen Zurateziehung nach Absatz 2 Buchstabe b sind, und veröffentlicht diese. Die Aufsichtsbehörde übermittelt derartige Listen an den Europäischen Datenschutzausschuss."
+		},
+		{
+			"lang": "fr",
+			"text": "L'autorité de contrôle établit et publie une liste des traitements devant faire l’objet d’une consultation préalable au titre du paragraphe 2, point b). L'autorité de contrôle communique cette liste au comité européen de la protection des données."
+		},
+		{
+			"lang": "es",
+			"text": "La autoridad de control establecerá y publicará una lista de las operaciones de tratamiento que deben ser objeto de una consulta previa de conformidad con lo dispuesto en el apartado 2, letra b). La autoridad de control comunicará estas listas al Consejo Europeo de Protección de Datos."
+		},
+		{
+			"lang": "pt",
+			"text": "A autoridade de controlo deve elaborar e tornar pública uma lista das operações de tratamento sujeitas a consulta prévia nos termos do n.º 2, alínea b). A autoridade de controlo comunica essa lista aos responsáveis pelo tratamento e ao Comité Europeu para a Proteção de Dados."
+		},
+		{
+			"lang": "it",
+			"text": "L’autorità di controllo redige e rende pubblico un elenco dei trattamenti soggetti a consultazione preventiva ai sensi del paragrafo 2, lettera b). L’autorità di controllo comunica tali elenchi al comitato europeo per la protezione dei dati."
+		},
+		{
+			"lang": "ga",
+			"text": "Bunóidh an t‑údarás maoirseachta liosta de na hoibríochtaí próiseála atá faoi réir réamhchomhairliúcháin de bhun phointe (b) de mhír 2 agus poibleoidh sé an liosta sin. Cuirfidh an t‑údarás maoirseachta na liostaí sin in iúl don Bhord Eorpach um Chosaint Sonraí."
+		},
+		{
+			"lang": "cs",
+			"text": "Orgán dozoru sepíše a zveřejní seznam zpracování, na která se vztahuje předchozí konzultace podle odst. 2 písm. b). Tyto seznamy sdělí orgán dozoru Evropské radě pro ochranu údajů."
+		},
+		{
+			"lang": "da",
+			"text": "Tilsynsmyndigheden fastsætter og offentliggør en liste over de former for behandling, som er underlagt krav om forudgående høring i henhold til stk. 2, litra b). Tilsynsmyndigheden indgiver disse lister til Det Europæiske Databeskyttelsesråd."
+		},
+		{
+			"lang": "et",
+			"text": "Järelevalveasutus koostab ja avalikustab loetelu töötlemistoimingutest, mille suhtes kohaldatakse lõike 2 punktis b sätestatud eelnevat konsulteerimist. Järelevalveasutus edastab loetelud Euroopa Andmekaitsenõukogule."
+		},
+		{
+			"lang": "el",
+			"text": "Η αρχή ελέγχου καταρτίζει και δημοσιοποιεί κατάλογο των πράξεων επεξεργασίας οι οποίες υπόκεινται σε προηγούμενη διαβούλευση δυνάμει της παραγράφου 2 στοιχείο β). Η αρχή ελέγχου κοινοποιεί τους εν λόγω καταλόγους στο Ευρωπαϊκό Συμβούλιο Προστασίας Δεδομένων."
+		},
+		{
+			"lang": "bg",
+			"text": "Надзорният орган създава и оповестява публично списък на операциите по обработване, за които се провежда предварителна консултация съгласно параграф 2, буква б). Надзорният орган съобщава тези списъци на Европейския комитет по защита на данните."
+		},
+		{
+			"lang": "hu",
+			"text": "A felügyelő hatóság megállapítja és nyilvánosságra hozza a (2) bekezdés b) pontja szerinti előzetes konzultáció tárgyát képező adatfeldolgozási műveletek jegyzékét. A felügyelő hatóság az említett jegyzéket közli az Európai Adatvédelmi Testülettel is."
+		},
+		{
+			"lang": "mt",
+			"text": "L-awtorità ta’ superviżjoni għandha tistabbilixxi u tippubblika lista tal-operazzjonijiet ta’ pproċessar li huma soġġetti għal konsultazzjoni minn qabel skont il-punt (b) tal-paragrafu 2. L-awtorità ta’ superviżjoni għandha tikkomunika dawn il-listi lill-Bord Ewropew għall-Protezzjoni tad-Dejta."
+		},
+		{
+			"lang": "lv",
+			"text": "Uzraudzības iestāde izstrādā un publicē sarakstu ar apstrādes darbībām, kurām piemērojama iepriekšēja apspriešanās saskaņā ar 2. punkta b) apakšpunktu. Uzraudzības iestāde paziņo šādus sarakstus Eiropas Datu uzraudzības kolēģijai."
+		},
+		{
+			"lang": "ro",
+			"text": "Autoritatea de supraveghere întocmește și publică o listă de operațiuni de prelucrare care sunt supuse consultării prealabile în conformitate cu alineatul (2) litera (b). Autoritatea de supraveghere comunică aceste liste Comitetului european pentru protecția datelor."
+		},
+		{
+			"lang": "sk",
+			"text": "Dozorný orgán vypracuje a zverejní zoznam operácií spracovania, ktoré podliehajú povinnosti konzultácie vopred podľa odseku 2 písm. b). Dozorný orgán oznámi tieto zoznamy Európskemu výboru pre ochranu údajov."
+		},
+		{
+			"lang": "sl",
+			"text": "Nadzorni organ določi in javno objavi seznam postopkov obdelave, za katere je treba opraviti predhodno posvetovanje v skladu s točko (b) odstavka 2. Nadzorni organ te sezname posreduje Evropskemu odboru za varstvo podatkov."
+		},
+		{
+			"lang": "fi",
+			"text": "Valvontaviranomaisen on laadittava ja julkaistava luettelo käsittelytoimista, joiden yhteydessä vaaditaan 2 kohdan b alakohdassa tarkoitettu ennakkokuuleminen. Valvontaviranomaisen on toimitettava tällaiset luettelot Euroopan tietosuojaneuvostolle."
+		},
+		{
+			"lang": "pl",
+			"text": "Organ nadzorczy ustanawia i udostępnia publicznie wykaz operacji przetwarzania, w przypadku których wymagana jest uprzednia konsultacja na mocy ust. 2 lit. b). Organ nadzorczy przekazuje następnie takie wykazy Europejskiej Radzie Ochrony Danych."
+		},
+		{
+			"lang": "lt",
+			"text": "Priežiūros institucija nustato duomenų tvarkymo operacijas, dėl kurių reikia iš anksto konsultuotis pagal 2 dalies b punktą, ir viešai jas paskelbia. Priežiūros institucija šiuos sąrašus pateikia Europos duomenų apsaugos valdybai."
+		},
+		{
+			"lang": "nl",
+			"text": "De toezichthoudende autoriteit stelt een lijst op van verwerkingen waarover uit hoofde van lid 2, onder b), voorafgaande raadpleging moet plaatsvinden en publiceert deze. De toezichthoudende autoriteit deelt deze lijsten mee aan het Europees Comité voor gegevensbescherming."
+		},
+		{
+			"lang": "sv",
+			"text": "Tillsynsmyndigheten ska inrätta och offentliggöra en förteckning över den behandling som omfattas av förhandssamråd enligt punkt 2 b. Tillsynsmyndigheten ska översända dessa förteckningar till Europeiska dataskyddsstyrelsen."
+		}
+	],
+	"children": [],
+	"title": "Article 34 – Paragraph 4"
+}

@@ -1,0 +1,102 @@
+{
+	"id": "a14p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a14",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Where the personal data are collected from the data subject, the controller shall inform the data subject, in addition to the information referred to in paragraph 1, whether the provision of personal data is obligatory or voluntary, as well as the possible consequences of failure to provide such data."
+		},
+		{
+			"lang": "de",
+			"text": "Werden die personenbezogenen Daten bei der betroffenen Person erhoben, teilt der für die Verarbeitung Verantwortliche dieser Person neben den in Absatz 1 genannten Informationen außerdem mit, ob die Bereitstellung der Daten obligatorisch oder fakultativ ist und welche mögliche Folgen die Verweigerung der Daten hätte."
+		},
+		{
+			"lang": "fr",
+			"text": "Lorsque les données à caractère personnel sont collectées auprès de la personne concernée, le responsable du traitement fournit à cette dernière, outre les informations mentionnées au paragraphe 1, des informations sur le caractère obligatoire ou facultatif de la fourniture des données à caractère personnel, ainsi que sur les conséquences éventuelles de la non-fourniture de ces données."
+		},
+		{
+			"lang": "es",
+			"text": "Cuando los datos personales se recojan del interesado, el responsable del tratamiento le comunicará, además de la información contemplada en el apartado 1, si el suministro de datos personales es obligatorio o voluntario, así como las posibles consecuencias de que no se faciliten tales datos."
+		},
+		{
+			"lang": "pt",
+			"text": "Sempre que os dados pessoais tiverem sido recolhidos junto do titular de dados, o responsável pelo tratamento deve informá-lo, para além da informação referida no n.º 1, do caráter obrigatório ou facultativo de fornecer os dados pessoais, bem como das eventuais consequências de não fornecer esses dados."
+		},
+		{
+			"lang": "it",
+			"text": "Quando i dati personali sono raccolti direttamente presso l’interessato, il responsabile del trattamento lo informa, in aggiunta a quanto disposto al paragrafo 1, dell’obbligatorietà o meno della comunicazione dei dati personali e delle possibili conseguenze di una mancata comunicazione."
+		},
+		{
+			"lang": "ga",
+			"text": "I gcás ina bhfuil na sonraí pearsanta á mbailiú ón duine is ábhar do na sonraí, tabharfaidh an rialaitheoir faisnéis don duine is ábhar do na sonraí, i dteannta na faisnéise dá dtagraítear i mír 1, más gá dó sonraí pearsanta a sholáthar nó má tá rogha aige, agus cuirfidh sé é ar an eolas faoi na hiarmhairtí a d’fhéadfadh a bheith ann i gcás nach soláthraítear na sonraí sin."
+		},
+		{
+			"lang": "cs",
+			"text": "Pokud se osobní údaje získávají od subjektu údajů, správce kromě informací uvedených v odstavci 1 poskytne subjektu údajů rovněž informace o tom, zda je poskytování osobních údajů povinné nebo dobrovolné, jakož i o možných důsledcích neposkytnutí těchto údajů."
+		},
+		{
+			"lang": "da",
+			"text": "Hvis personoplysningerne indsamles fra den registrerede, meddeler den register­ansvarlige i tillæg til de i stk. 1 omhandlede oplysninger den registrerede, hvorvidt indgivelsen af personoplysninger er obligatorisk eller frivillig, og de mulige konsekvenser, hvis sådanne oplysninger ikke indgives."
+		},
+		{
+			"lang": "et",
+			"text": "Juhul kui isikuandmed kogutakse andmesubjektilt, teatab vastutav töötleja talle lisaks lõikes 1 osutatud teabele, kas isikuandmete esitamine on kohustuslik või vabatahtlik, ning andmete esitamata jätmise võimalikud tagajärjed."
+		},
+		{
+			"lang": "el",
+			"text": "Εάν τα δεδομένα προσωπικού χαρακτήρα χορηγούνται από το πρόσωπο στο οποίο αναφέρονται, ο υπεύθυνος επεξεργασίας ενημερώνει το συγκεκριμένο πρόσωπο, πέραν των πληροφοριών που αναφέρονται στην παράγραφο 1, για το κατά πόσον η χορήγηση δεδομένων προσωπικού χαρακτήρα είναι υποχρεωτική ή εθελοντική, καθώς και για τις ενδεχόμενες συνέπειες της μη χορήγησης τέτοιων δεδομένων."
+		},
+		{
+			"lang": "bg",
+			"text": "Когато личните данни се събират от субекта на данните, администраторът го информира, в допълнение към информацията, посочена в параграф 1, дали предоставянето на лични данни е задължително или доброволно, както и за възможните последици, ако такива данни не бъдат предоставени."
+		},
+		{
+			"lang": "hu",
+			"text": "Amennyiben az adatokat az érintettől gyűjti, az adatkezelőnek az (1) bekezdés szerinti tájékoztatás mellett tájékoztatnia kell továbbá az érintettet a személyes adatok rendelkezésre bocsátásának kötelező vagy önkéntes jellegéről, valamint az adatszolgáltatás elmaradásának esetleges következményeiről."
+		},
+		{
+			"lang": "mt",
+			"text": "Fejn d-dejta personali tinġabar mis-suġġett tad-dejta, il-kontrollur għandu jinforma lis-suġġett tad-dejta, flimkien mal-informazzjoni msemmija fil-paragrafu 1, dwar jekk l-għoti tad-dejta personali jkunx obbligatorju jew volontarju, kif ukoll il-konsegwenzi possibbli jekk ma tingħatax dik id-dejta."
+		},
+		{
+			"lang": "lv",
+			"text": "Ja personas datus iegūst no datu subjekta, papildus informācijai, kas minēta 1. punktā, pārzinis informē datu subjektu par to, vai personas datu sniegšana ir obligāta vai brīvprātīga, kā arī par iespējamām sekām, ja šādi dati netiks sniegti."
+		},
+		{
+			"lang": "ro",
+			"text": "În cazul în care datele cu caracter personal sunt colectate de la persoana vizată, operatorul transmite persoanei vizate, în plus față de informațiile menționate la alineatul (1), informații cu privire la caracterul obligatoriu sau voluntar al furnizării datelor cu caracter personal, precum și la eventualele consecințe ale refuzului de a furniza aceste date."
+		},
+		{
+			"lang": "sk",
+			"text": "Ak sa osobné údaje získavajú od dotknutej osoby, prevádzkovateľ okrem informácií uvedených v odseku 1 informuje dotknutú osobu aj o tom, či poskytovanie osobných údajov je povinné alebo dobrovoľné, ako aj o možných dôsledkoch neposkytnutia týchto údajov."
+		},
+		{
+			"lang": "sl",
+			"text": "Če se osebni podatki zbirajo od posameznika, na katerega se nanašajo osebni podatki, upravljavec posameznika, na katerega se nanašajo osebni podatki, poleg informacij iz odstavka 1 obvesti o tem, ali je zagotovitev osebnih podatkov obvezna ali prostovoljna in o možnih posledicah, če se taki podatki ne zagotovijo."
+		},
+		{
+			"lang": "fi",
+			"text": "Jos henkilötietoja kerätään rekisteröidyltä, rekisterinpitäjän on ilmoitettava rekisteröidylle 1 kohdassa tarkoitettujen tietojen lisäksi, onko henkilötietojen antaminen pakollista vai vapaaehtoista, sekä tietojen antamatta jättämisen mahdolliset seuraukset."
+		},
+		{
+			"lang": "pl",
+			"text": "W przypadku zbierania danych osobowych od podmiotu danych, administrator, poza przekazaniem informacji, o których mowa w ust. 1, informuje podmiot danych o tym, czy przekazanie danych osobowych jest obowiązkowe czy dobrowolne, a także o ewentualnych skutkach nieprzekazania tych danych."
+		},
+		{
+			"lang": "lt",
+			"text": "Kai asmens duomenys renkami iš duomenų subjekto, duomenų valdytojas, be 1 dalyje nurodytos informacijos, duomenų subjektui praneša ir apie tai, ar asmens duomenys turi būti teikiami privaloma tvarka ar savanoriškai, taip pat nurodo galimas tokių duomenų nepateikimo pasekmes."
+		},
+		{
+			"lang": "nl",
+			"text": "Wanneer de persoonsgegevens bij de betrokkene worden verzameld, deelt de voor de verwerking verantwoordelijke de betrokkene, naast de in lid 1 genoemde informatie, mee of de verstrekking van persoonsgegevens verplicht is dan wel op basis van vrijwilligheid geschiedt en wat de mogelijke gevolgen zijn wanneer wordt nagelaten deze gegevens te verstrekken."
+		},
+		{
+			"lang": "sv",
+			"text": "Om personuppgifterna samlas in från den registrerade ska den registeransvarige, utöver den information som anges i punkt 1, till den registrerade också lämna information om huruvida tillhandahållandet av personuppgifter är obligatoriskt eller frivilligt, samt om de möjliga följderna om sådana uppgifter inte lämnas."
+		}
+	],
+	"children": [],
+	"title": "Article 14 – Paragraph 2"
+}

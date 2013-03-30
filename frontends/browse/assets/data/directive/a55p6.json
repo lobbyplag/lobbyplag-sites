@@ -1,0 +1,102 @@
+{
+	"id": "a55p6",
+	"type": "paragraph",
+	"literal": "6",
+	"parent": "a55",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Supervisory authorities shall supply the information requested by other supervisory authorities by electronic means and within the shortest possible period of time, using a standardised format."
+		},
+		{
+			"lang": "de",
+			"text": "Die Aufsichtsbehörden übermitteln die Informationen, um die von einer anderen Aufsichtsbehörde ersucht wurde, auf elektronischem Wege und so schnell wie möglich unter Verwendung eines standardisierten Formats."
+		},
+		{
+			"lang": "fr",
+			"text": "Les autorités de contrôle communiquent, par des moyens électroniques et dans les plus brefs délais, au moyen d'un formulaire type, les informations demandées par d'autres autorités de contrôle."
+		},
+		{
+			"lang": "es",
+			"text": "Las autoridades de control facilitarán la información solicitada por otras autoridades de control por vía electrónica y en el plazo más breve posible, utilizando un formato normalizado."
+		},
+		{
+			"lang": "pt",
+			"text": "As autoridades de controlo devem fornecer as informações solicitadas por outras autoridades de controlo através de meios eletrónicos, e dentro do prazo mais curto possível, mediante a utilização de um formato normalizado."
+		},
+		{
+			"lang": "it",
+			"text": "Le autorità di controllo forniscono al più presto e per via elettronica, con modulo standard, le informazioni richieste da altre autorità di controllo."
+		},
+		{
+			"lang": "ga",
+			"text": "Soláthróidh údaráis mhaoirseachta an fhaisnéis a iarrann údaráis mhaoirseachta eile trí mhodhanna leictreonacha agus déanfar sin laistigh den tréimhse is giorra is féidir, ag úsáid formáid chaighdeánaithe."
+		},
+		{
+			"lang": "cs",
+			"text": "Informace, které po nich jiné orgány dozoru požadují, poskytují orgány dozoru elektronicky, v co nejkratší možné době a za použití standardního formátu."
+		},
+		{
+			"lang": "da",
+			"text": "Tilsynsmyndighederne fremsender hurtigst muligt elektronisk de oplysninger, som andre tilsynsmyndigheder anmoder om, i et standardformat."
+		},
+		{
+			"lang": "et",
+			"text": "Järelevalveasutused esitavad teiste järelevalveasutuste taotletud teabe elektrooniliste sidevahendite abil ja võimalikult kiiresti, kasutades selleks tüüpvormi."
+		},
+		{
+			"lang": "el",
+			"text": "Οι αρχές ελέγχου παρέχουν τις πληροφορίες που ζητούνται από άλλες αρχές ελέγχου με ηλεκτρονικά μέσα και εντός της συντομότερης δυνατής προθεσμίας, χρησιμοποιώντας έναν τυποποιημένο μορφότυπο."
+		},
+		{
+			"lang": "bg",
+			"text": "Надзорните органи предоставят информацията, поискана от други надзорни органи, чрез електронни средства и във възможно най-кратък срок, като използват стандартизиран формат."
+		},
+		{
+			"lang": "hu",
+			"text": "A felügyelő hatóságok elektronikus úton, a lehető legrövidebb időn belül, egységes formanyomtatvány használatával bocsátják rendelkezésre a más felügyelő hatóságok által kért információt."
+		},
+		{
+			"lang": "mt",
+			"text": "L-awtoritajiet ta’ superviżjoni għandhom jipprovdu l-informazzjoni mitluba minn awtoritajiet ta’ superviżjoni oħrajn b’mezzi elettroniċi u fl-iqsar perjodu ta’ żmien possibbli, permezz ta’ format standardizzat."
+		},
+		{
+			"lang": "lv",
+			"text": "Uzraudzības iestāde sniedz otras uzraudzības iestādes pieprasīto informāciju elektroniskā veidā un visīsākajā iespējamā termiņā, izmantojot standartizētu formātu."
+		},
+		{
+			"lang": "ro",
+			"text": "Autoritățile de supraveghere furnizează informațiile solicitate de către alte autorități de supraveghere prin mijloace electronice și în cel mai scurt timp, utilizând un formular standard."
+		},
+		{
+			"lang": "sk",
+			"text": "Dozorné orgány poskytnú informácie požadované inými dozornými orgánmi elektronickými prostriedkami a v čo najkratšom možnom čase, pričom používajú štandardizovaný formát."
+		},
+		{
+			"lang": "sl",
+			"text": "Nadzorni organi informacije, za katere je zaprosil drug nadzorni organ, posredujejo z elektronskimi sredstvi, v najkrajšem možnem času in v standardizirani obliki."
+		},
+		{
+			"lang": "fi",
+			"text": "Valvontaviranomaisten on toimitettava muiden valvontaviranomaisten pyytämät tiedot sähköisessä muodossa ja mahdollisimman nopeasti, vakiolomaketta käyttäen."
+		},
+		{
+			"lang": "pl",
+			"text": "Organy nadzorcze przekazują informacje, których dotyczył wniosek innych organów nadzorczych, w drodze elektronicznej i w najkrótszym możliwym terminie, przy użyciu standardowego formatu."
+		},
+		{
+			"lang": "lt",
+			"text": "Priežiūros institucijos teikia kitų priežiūros institucijų prašomą informaciją elektroniniu būdu per kuo trumpesnį laiką, naudodamosi standartizuotomis formomis."
+		},
+		{
+			"lang": "nl",
+			"text": "De toezichthoudende autoriteiten delen de door andere toezichthoudende autoriteiten gevraagde informatie elektronisch en binnen de kortst mogelijke termijn mee met gebruikmaking van een standaardformulier."
+		},
+		{
+			"lang": "sv",
+			"text": "Varje tillsynsmyndighet ska överföra den information som begärts av andra tillsynsmyndigheter på elektronisk väg, i standardiserat format och med minsta möjliga dröjsmål."
+		}
+	],
+	"children": [],
+	"title": "Article 55 – Paragraph 6"
+}

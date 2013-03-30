@@ -1,0 +1,102 @@
+{
+	"id": "a79p6i7",
+	"type": "point",
+	"literal": "g",
+	"parent": "a79p6",
+	"text": [
+		{
+			"lang": "en",
+			"text": "processes or instructs the processing of personal data in violation of the obligations in relation to processing on behalf of a controller pursuant to Articles 26 and 27;"
+		},
+		{
+			"lang": "de",
+			"text": "unter Verstoß gegen die mit der Datenverarbeitung im Namen eines für die Verarbeitung Verantwortlichen verbundenen Pflichten gemäß den Artikeln 26 und 27 personenbezogene Daten verarbeitet oder deren Verarbeitung anordnet;"
+		},
+		{
+			"lang": "fr",
+			"text": "traite des données à caractère personnel ou donne l'instruction d'en effectuer le traitement en violation des obligations, énoncées aux articles 26 et 27, en matière de traitement réalisé pour le compte d'un responsable du traitement;"
+		},
+		{
+			"lang": "es",
+			"text": "trate o instruya el tratamiento de datos personales incumpliendo las obligaciones relativas al tratamiento por cuenta de un responsable del tratamiento contempladas en los artículos 26 y 27;"
+		},
+		{
+			"lang": "pt",
+			"text": "Efetue ou dê instruções para o tratamento de dados pessoais em violação das obrigações relacionadas com o tratamento por conta de um responsável, nos termos dos artigos 26.º e 27.º;"
+		},
+		{
+			"lang": "it",
+			"text": "tratta o dà istruzione di trattare dati personali in violazione degli obblighi relativi al trattamento per conto di un responsabile del trattamento di cui agli articoli 26 e 27;"
+		},
+		{
+			"lang": "ga",
+			"text": "aon duine a phróiseálann nó a stiúrann próiseáil sonraí pearsanta de shárú ar na hoibleagáidí i ndáil le próiseáil ar son rialaitheora de bhun Airteagal 26 agus Airteagal 27;"
+		},
+		{
+			"lang": "cs",
+			"text": "zpracovává osobní údaje a poruší při tom povinnosti týkající se zpracovávání jménem správce podle článků 26 a 27 nebo k takovému zpracovávání dá pokyn;"
+		},
+		{
+			"lang": "da",
+			"text": "behandler eller giver instrukser om behandling af personoplysninger i strid med forpligtelserne vedrørende behandling på vegne af en registeransvarlig i henhold til artikel 26 og 27"
+		},
+		{
+			"lang": "et",
+			"text": "töötleb isikuandmeid või annab korralduse nende töötlemiseks, rikkudes kohustusi, mis on seotud vastutava töötleja nimel tehtavate töötlemistoimingutega vastavalt artiklitele 26 ja 27;"
+		},
+		{
+			"lang": "el",
+			"text": "ζ) επεξεργάζεται ή δίνει εντολή για την επεξεργασία δεδομένων προσωπικού χαρακτήρα κατά παράβαση των υποχρεώσεων που αφορούν την επεξεργασία για λογαριασμό υπευθύνου επεξεργασίας δυνάμει των άρθρων 26 και 27·"
+		},
+		{
+			"lang": "bg",
+			"text": "ж) обработва или разпорежда обработването на лични данни в нарушение на задълженията по отношение на обработването от името на администратор съгласно членове 26 и 27;"
+		},
+		{
+			"lang": "hu",
+			"text": "a 26. és a 27. cikk szerint az adatkezelő nevében végzett feldolgozáshoz kapcsolódó kötelezettségek megsértésével dolgozza fel a személyes adatokat vagy irányítja azok feldolgozását;"
+		},
+		{
+			"lang": "mt",
+			"text": "jipproċessa jew jagħti struzzjonijiet għall-ipproċessar ta’ dejta personali bi ksur tal-obbligi relatati mal-ipproċessar f’isem kontrollur skont l-Artikoli 26 u 27;"
+		},
+		{
+			"lang": "lv",
+			"text": "personas datus apstrādā vai izdod norādījumu apstrādāt personas datus, pārkāpjot pienākumus saistībā ar apstrādi pārziņa vārdā saskaņā ar 26. un 27. pantu"
+		},
+		{
+			"lang": "ro",
+			"text": "prelucrează date cu caracter personal sau dă instrucțiuni de prelucrare a datelor cu caracter personal încălcând obligațiile privind prelucrarea în numele unui operator în temeiul articolelor 26 și 27;"
+		},
+		{
+			"lang": "sk",
+			"text": "spracúva alebo nariaďuje spracovanie osobných údajov v rozpore s povinnosťami týkajúcimi sa spracovania v mene prevádzkovateľa podľa článkov 26 a 27;"
+		},
+		{
+			"lang": "sl",
+			"text": "obdeluje ali da navodilo za obdelavo osebnih podatkov in pri tem krši obveznosti v zvezi z obdelavo v imenu upravljavca v skladu s členoma 26 in 27;"
+		},
+		{
+			"lang": "fi",
+			"text": "käsittelee henkilötietoja tai antaa ohjeita henkilötietojen käsittelemiseksi niiden velvoitteiden vastaisesti, jotka koskevat rekisterinpitäjän lukuun suoritettavaa henkilötietojen käsittelyä 26 ja 27 artiklan mukaisesti;"
+		},
+		{
+			"lang": "pl",
+			"text": "przetwarza lub wydaje polecenie przetwarzania danych osobowych, z naruszeniem obowiązków odnoszących się do przetwarzania w imieniu administratora na mocy art. 26 i 27;"
+		},
+		{
+			"lang": "lt",
+			"text": "tvarko asmens duomenis arba nurodo juos tvarkyti, nesilaikydamas pareigų dėl duomenų tvarkymo duomenų valdytojo pavedimu pagal 26 ir 27 straipsnius;"
+		},
+		{
+			"lang": "nl",
+			"text": "persoonsgegevens verwerkt, of opdracht tot de verwerking van persoonsgegevens geeft, in strijd met de verplichtingen inzake verwerking namens een voor de verwerking verantwoordelijke overeenkomstig de artikelen 26 en 27;"
+		},
+		{
+			"lang": "sv",
+			"text": "behandlar eller ger instruktioner för behandlingen av personuppgifter på ett sätt som strider mot skyldigheterna i samband med behandling för en registeransvarigs räkning i enlighet med artiklarna 26 och 27,"
+		}
+	],
+	"children": [],
+	"title": "Article 79 – Paragraph 6 – Point 7"
+}

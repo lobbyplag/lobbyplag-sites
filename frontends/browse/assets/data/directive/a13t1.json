@@ -1,0 +1,102 @@
+{
+	"id": "a13t1",
+	"type": "introduction",
+	"literal": null,
+	"parent": "a13",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller shall communicate any rectification or erasure carried out in accordance with Articles 16 and 17 to each recipient to whom the data have been disclosed, unless this proves impossible or involves a disproportionate effort."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche teilt allen Empfängern, an die Daten weitergegeben wurden, jede Berichtigung oder Löschung, die aufgrund von Artikel 16 beziehungsweise 17 vorgenommen wird, mit, es sei denn, dies erweist sich als unmöglich oder ist mit einem unverhältnismäßigen Aufwand verbunden."
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement communique à chaque destinataire à qui les données ont été transmises toute rectification ou effacement effectué conformément aux articles 16 et 17, à moins qu'une telle communication se révèle impossible ou suppose un effort disproportionné."
+		},
+		{
+			"lang": "es",
+			"text": "El responsable del tratamiento comunicará cualquier rectificación o supresión llevada a cabo con arreglo a los artículos 16 y 17 a cada uno de los destinatarios a los que se hayan comunicado los datos, salvo que ello sea imposible o exija un esfuerzo desproporcionado."
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento comunica a cada destinatário a quem tenham sido transmitidos os dados qualquer retificação ou apagamento efetuado em conformidade com os artigos 16.º e 17.º, salvo se tal comunicação se revelar impossível ou implicar um esforço desproporcionado."
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento comunica a ciascuno dei destinatari cui sono stati trasmessi i dati, le eventuali rettifiche o cancellazioni effettuate conformemente alle disposizioni degli articoli 16 e 17, salvo che ciò si riveli impossibile o implichi risorse sproporzionate."
+		},
+		{
+			"lang": "ga",
+			"text": "Cuirfidh an rialaitheoir in iúl do gach faighteoir ar nochtadh na sonraí dóibh má ceartaíodh nó má scriosadh aon sonraí i gcomhréir le hAirteagal 16 agus le hAirteagal 17, ach amháin má tá sé dodhéanta é sin a dhéanamh nó má tá iarracht dhíréireach ag baint leis."
+		},
+		{
+			"lang": "cs",
+			"text": "Správce oznamuje jednotlivým příjemcům, jimž byly údaje zpřístupněny, všechny opravy nebo výmazy provedené v souladu s články 16 a 17 s výjimkou případů, kdy to není možné nebo to vyžaduje nepřiměřené úsilí."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige meddeler enhver berigtigelse eller sletning, der er udført i henhold til artikel 16 og 17, til hver modtager, som oplysningerne er videregivet til, medmindre dette viser sig umuligt eller er uforholdsmæssigt vanskeligt."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja edastab teabe andmete parandamise ja kustutamise kohta vastavalt artiklitele 16 ja 17 kõigile vastuvõtjatele, kellele andmed on avaldatud, välja arvatud juhul, kui see on võimatu või kui see nõuab ülemääraseid jõupingutusi."
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας κοινοποιεί κάθε διόρθωση ή διαγραφή η οποία διενεργείται σύμφωνα με τα άρθρα 16 και 17 σε κάθε αποδέκτη στον οποίο γνωστοποιήθηκαν τα δεδομένα, εκτός εάν αυτό αποδεικνύεται ανέφικτο ή εάν συνεπάγεται δυσανάλογη προσπάθεια."
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът съобщава всяко извършено в съответствие с членове 16 и 17 коригиране или заличаване на всеки получател, на когото данните са били разкрити, освен ако това е невъзможно или изисква непропорционално големи усилия."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő minden olyan címzettet tájékoztat a 16. és 17. cikk értelmében végzett valamennyi törlésről vagy zárolásról, akivel/amellyel az adatot közölték, kivéve, ha ez lehetetlennek bizonyul, vagy aránytalanul nagy erőfeszítést igényel."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur għandu jikkomunika kull rettifika jew tħassir li jkun sar skont l-Artikolu 16 jew 17 lil kull riċevitur li lilu tkun ġiet żvelata d-dejtasakemm din ma tkunx possibbli jew meta tkun tinvolvi sforz sproporzjonat."
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinis paziņo jebkuru labojumu vai dzēšanu, kas veikta saskaņā ar 16. un 17. pantu, katram saņēmējam, kuram ir izpausti dati, izņemot, ja tas nav iespējams vai ja tas ir saistīts ar nesamērīgām pūlēm."
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul comunică fiecărui destinatar căruia i-au fost dezvăluite datele orice rectificare sau ștergere efectuată în conformitate cu articolele 16 și 17, cu excepția cazului în care acest lucru se dovedește imposibil sau presupune un efort disproporționat."
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ oznámi každému príjemcovi, ktorému boli údaje sprístupnené, všetky prípady opravy alebo výmazu uskutočnené v súlade s článkami 16 a 17, pokiaľ sa to neukáže ako nemožné alebo pokiaľ si to nevyžaduje neprimerané úsilie."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec vsakemu prejemniku, ki so mu podatki posredovani, sporoči morebitne popravke ali izbrise v skladu s členoma 16 in 17, razen če se to izkaže za nemogoče ali če vključuje nesorazmeren napor."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän on ilmoitettava kaikenlaisista 16 ja 17 artiklan mukaisesti tehdyistä oikaisuista tai poistoista jokaiselle vastaanottajalle, jolle tietoja on luovutettu, paitsi jos tämä osoittautuu mahdottomaksi tai vaatii kohtuutonta vaivaa."
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator informuje o wszelkich operacjach poprawienia lub usunięcia dokonanych zgodnie z art. 16 i art. 17 każdego odbiorcę, któremu ujawniono dane, chyba że okaże się to niemożliwe lub będzie wymagać niewspółmiernie dużego wysiłku."
+		},
+		{
+			"lang": "lt",
+			"text": "Kiekvienam duomenų gavėjui, kuriam buvo atskleisti duomenys, duomenų valdytojas praneša apie bet kokį duomenų ištaisymą arba ištrynimą pagal 16 ir 17 straipsnius, nebent tai padaryti būtų neįmanoma arba pareikalautų neproporcingų pastangų."
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke stelt iedere ontvanger aan wie gegevens zijn verstrekt op de hoogte van elke overeenkomstig de artikelen 16 en 17 uitgevoerde rectificatie of elk wissen van gegevens, tenzij dit onmogelijk blijkt of onevenredig veel inspanning vergt."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige ska underrätta varje mottagare till vilken uppgifterna har lämnats ut om eventuella rättelser eller raderingar som utförts i enlighet med artiklarna 16 och 17, om inte detta visar sig vara omöjligt eller inbegripa en oproportionell ansträngning."
+		}
+	],
+	"children": [],
+	"title": "Article 13 – Text 1"
+}

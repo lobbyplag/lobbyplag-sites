@@ -1,0 +1,102 @@
+{
+	"id": "a17p4i4",
+	"type": "point",
+	"literal": "d",
+	"parent": "a17p4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the data subject requests to transmit the personal data into another automated processing system in accordance with Article 18(2)."
+		},
+		{
+			"lang": "de",
+			"text": "die betroffene Person gemäß Artikel 18 Absatz 2 die Übertragung der personenbezogenen Daten auf ein anderes automatisiertes Verarbeitungssystem fordert."
+		},
+		{
+			"lang": "fr",
+			"text": "lorsque la personne concernée demande le transfert des données à caractère personnel à un autre système de traitement automatisé, conformément à l'article 18, paragraphe 2."
+		},
+		{
+			"lang": "es",
+			"text": "el interesado solicite la transmisión de los datos personales a otro sistema de tratamiento automatizado de conformidad con lo dispuesto en el artículo 18, apartado 2."
+		},
+		{
+			"lang": "pt",
+			"text": "O titular dos dados solicitar a transmissão dos dados pessoais para outro sistema de tratamento automatizado, nos termos do artigo 18.º, n.º 2."
+		},
+		{
+			"lang": "it",
+			"text": "quando l’interessato chiede di trasmettere i dati personali a un altro sistema di trattamento automatizzato, in conformità dell’articolo 18, paragrafo 2."
+		},
+		{
+			"lang": "ga",
+			"text": "i gcás ina n‑iarrann an duine is ábhar do na sonraí na sonraí pearsanta a aistriú go córas próiseála uathoibrithe eile i gcomhréir le hAirteagal 18(2)."
+		},
+		{
+			"lang": "cs",
+			"text": "subjekt údajů požaduje v souladu s čl. 18 odst. 2 přenos osobních údajů do jiného automatizovaného systému zpracování."
+		},
+		{
+			"lang": "da",
+			"text": "den registrerede anmoder om, at personoplysninger overføres til et andet automatisk databehandlingssystem i overensstemmelse med artikel 18, stk. 2."
+		},
+		{
+			"lang": "et",
+			"text": "andmesubjekt taotleb oma isikuandmete edastamist teise automatiseeritud töötlemise süsteemi vastavalt artikli 18 lõikele 2."
+		},
+		{
+			"lang": "el",
+			"text": "δ) το πρόσωπο στο οποίο αναφέρονται τα δεδομένα ζητεί τη μεταφορά των δεδομένων προσωπικού χαρακτήρα σε άλλο αυτοματοποιημένο σύστημα επεξεργασίας σύμφωνα με το άρθρο 18 παράγραφος 2."
+		},
+		{
+			"lang": "bg",
+			"text": "г) субектът на данните предявява искане за предаване на личните данни на друга система за автоматизирано обработване в съответствие с член 18, параграф 2."
+		},
+		{
+			"lang": "hu",
+			"text": "az érintett a 18. cikk (2) bekezdése értelmében kéri a személyes adatok más automatizált feldolgozó rendszerbe történő továbbítását."
+		},
+		{
+			"lang": "mt",
+			"text": "is-suġġett tad-dejta jitlob li jittrasmetti d-dejta personali f’sistema ta’ pproċessar awtomatizzata oħra skont l-Artikolu 18(2)."
+		},
+		{
+			"lang": "lv",
+			"text": "datu subjekts pieprasa nosūtīt personas datus citai automatizētai apstrādes sistēmai saskaņā ar 18. panta 2. punktu."
+		},
+		{
+			"lang": "ro",
+			"text": "persoana vizată solicită transferul datelor cu caracter personal în alt sistem de prelucrare automată a datelor, în conformitate cu articolul 18 alineatul (2)."
+		},
+		{
+			"lang": "sk",
+			"text": "dotknutá osoba žiada o prenos osobných údajov do iného automatizovaného systému spracovania v súlade s článkom 18 ods. 2."
+		},
+		{
+			"lang": "sl",
+			"text": "posameznik, na katerega se nanašajo osebni podatki, zahteva prenos osebnih podatkov v drug sistem za samodejno obdelavo v skladu s členom 18(2)."
+		},
+		{
+			"lang": "fi",
+			"text": "rekisteröity haluaa siirtää henkilötietonsa toiseen automatisoituun käsittelyjärjestelmään 18 artiklan 2 kohdan mukaisesti."
+		},
+		{
+			"lang": "pl",
+			"text": "podmiot danych wnioskuje o przekazanie danych osobowych do innego automatycznego systemu przetwarzania zgodnie z art. 18 ust. 2."
+		},
+		{
+			"lang": "lt",
+			"text": "duomenų subjektas prašo persiųsti asmens duomenis į kitą automatizuotą duomenų tvarkymo sistemą pagal 18 straipsnio 2 dalį."
+		},
+		{
+			"lang": "nl",
+			"text": "de betrokkene verzoekt om doorgifte van de persoonsgegevens naar een ander geautomatiseerd verwerkingssysteem overeenkomstig artikel 18, lid 2."
+		},
+		{
+			"lang": "sv",
+			"text": "den registrerade begär att personuppgifterna ska överföras till ett annat system för automatisk behandling enligt artikel 18.2."
+		}
+	],
+	"children": [],
+	"title": "Article 17 – Paragraph 4 – Point 4"
+}

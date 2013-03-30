@@ -1,0 +1,106 @@
+{
+	"id": "a36",
+	"type": "article",
+	"literal": "36",
+	"parent": "c4s4",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Position of the data protection officer"
+		},
+		{
+			"lang": "de",
+			"text": "Stellung des Datenschutzbeauftragten"
+		},
+		{
+			"lang": "fr",
+			"text": "Fonction du délégué à la protection des données"
+		},
+		{
+			"lang": "es",
+			"text": "Función de delegado de protección de datos"
+		},
+		{
+			"lang": "pt",
+			"text": "Função do delegado para a proteção de dados"
+		},
+		{
+			"lang": "it",
+			"text": "Posizione del responsabile della protezione dei dati"
+		},
+		{
+			"lang": "ga",
+			"text": "Post an oifigigh cosanta sonraí"
+		},
+		{
+			"lang": "cs",
+			"text": "Postavení inspektora ochrany údajů"
+		},
+		{
+			"lang": "da",
+			"text": "Den databeskyttelsesansvarliges stilling"
+		},
+		{
+			"lang": "et",
+			"text": "Andmekaitseametniku ametiseisund"
+		},
+		{
+			"lang": "el",
+			"text": "Θέση του υπευθύνου προστασίας δεδομένων"
+		},
+		{
+			"lang": "bg",
+			"text": "Длъжност на длъжностното лице по защита на данните"
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatvédelmi tisztviselő jogállása"
+		},
+		{
+			"lang": "mt",
+			"text": "Pożizzjoni tal-uffiċjal tal-protezzjoni tad-dejta"
+		},
+		{
+			"lang": "lv",
+			"text": "Datu aizsardzības inspektora statuss"
+		},
+		{
+			"lang": "ro",
+			"text": "Funcția responsabilului cu protecția datelor"
+		},
+		{
+			"lang": "sk",
+			"text": "Postavenie úradníka pre ochranu údajov"
+		},
+		{
+			"lang": "sl",
+			"text": "Položaj uradne osebe za varstvo podatkov"
+		},
+		{
+			"lang": "fi",
+			"text": "Tietosuojavastaavan asema"
+		},
+		{
+			"lang": "pl",
+			"text": "Status inspektora ochrony danych"
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų apsaugos pareigūno statusas"
+		},
+		{
+			"lang": "nl",
+			"text": "Positie van de functionaris voor gegevensbescherming"
+		},
+		{
+			"lang": "sv",
+			"text": "Uppgiftsskyddsombudets ställning"
+		}
+	],
+	"children": [
+		"a36p1",
+		"a36p2",
+		"a36p3"
+	],
+	"title": "Article 36"
+}

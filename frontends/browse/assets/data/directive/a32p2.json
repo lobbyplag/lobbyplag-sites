@@ -1,0 +1,102 @@
+{
+	"id": "a32p2",
+	"type": "paragraph",
+	"literal": "2",
+	"parent": "a32",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The communication to the data subject referred to in paragraph 1 shall describe the nature of the personal data breach and contain at least the information and the recommendations provided for in points (b) and (c) of Article 31(3)."
+		},
+		{
+			"lang": "de",
+			"text": "Die in Absatz 1 genannte Benachrichtigung der betroffenen Person umfasst mindestens die in Artikel 31 Absatz 3 Buchstaben b und c genannten Informationen und Empfehlungen."
+		},
+		{
+			"lang": "fr",
+			"text": "La communication à la personne concernée prévue au paragraphe 1 décrit la nature de la violation des données à caractère personnel et contient au moins les informations et recommandations prévues à l’article 31, paragraphe 3, points b) et c)."
+		},
+		{
+			"lang": "es",
+			"text": "La comunicación al interesado contemplada en el apartado 1 describirá la naturaleza de la violación de datos personales y contendrá, al menos, la información y las recomendaciones previstas el artículo 31, apartado 3, letras b) y c)."
+		},
+		{
+			"lang": "pt",
+			"text": "A comunicação ao titular dos dados referida no n.º 1 deve descrever a natureza da violação dos dados pessoais e incluir, pelo menos, as informações e recomendações previstas no artigo 31.º, n.º 3, alíneas b) e c)."
+		},
+		{
+			"lang": "it",
+			"text": "La comunicazione all’interessato di cui al paragrafo 1 descrive la natura della violazione dei dati personali e contiene almeno le informazioni e le raccomandazioni di cui all’articolo 31, paragrafo 3, lettere b) e c)."
+		},
+		{
+			"lang": "ga",
+			"text": "Nuair a chuirtear in iúl don duine is ábhar do na sonraí gur tharla sárú, mar a thagraítear i mír 1, tabharfar tuairisc ar chineál an tsáraithe i ndáil le sonraí pearsanta agus tabharfar ar a laghad an fhaisnéis agus na moltaí dá bhforáiltear i bpointí (b) agus (c) d'Airteagal 31(3)."
+		},
+		{
+			"lang": "cs",
+			"text": "V oznámení subjektu údajů podle odstavce 1 se popíše povaha narušení bezpečnosti osobních údajů a uvedou se v něm přinejmenším informace a doporučení podle čl. 31 odst. 3 písm. b) a c) ."
+		},
+		{
+			"lang": "da",
+			"text": "Underretningen til den registrerede i henhold til stk. 1 skal omfatte karakteren af bruddet på persondatasikkerheden og indeholde mindst de oplysninger og anbefalinger, der er omhandlet i artikel 31, stk. 3, litra b) og c)."
+		},
+		{
+			"lang": "et",
+			"text": "Andmesubjektile lõike 1 kohaselt esitatud teates kirjeldatakse isikuandmetega seotud rikkumise laadi ning esitatakse vähemalt artikli 31 lõike 3 punktides b ja c nimetatud teave ja soovitused."
+		},
+		{
+			"lang": "el",
+			"text": "Η γνωστοποίηση στο πρόσωπο στο οποίο αναφέρονται τα δεδομένα, η οποία αναφέρεται στην παράγραφο 1, περιγράφει τη φύση της παραβίασης δεδομένων προσωπικού χαρακτήρα και περιέχει τουλάχιστον τις πληροφορίες και τις συστάσεις που προβλέπονται στο άρθρο 31 παράγραφος 3 στοιχεία β) και γ)."
+		},
+		{
+			"lang": "bg",
+			"text": "В съобщението до субекта на данните, посочено в параграф 1, се описва естеството на нарушението на сигурността на личните данни и се съдържат най-малко информацията и препоръките, предвидени член 31, параграф 3, букви б) и в)."
+		},
+		{
+			"lang": "hu",
+			"text": "Az érintett (1) bekezdés szerinti értesítésének ismertetnie kell a személyes adat megsértésének jellegét, és tartalmaznia kell legalább a 31. cikk (3) bekezdésének b) és c) pontjában előírt tájékoztatást és javaslatokat."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-komunikazzjoni lis-suġġett tad-dejta msemmija fil-paragrafu 1 għandha tiddeskrivi n-natura tal-ksur tad-dejta personali u tinkludi mill-inqas l-informazzjoni u r-rakkomandazzjonijiet previsti fil-punti (b) u (c) tal-Artikolu 31(3)."
+		},
+		{
+			"lang": "lv",
+			"text": "Paziņojumā datu subjektam, kas minēts 1. punktā, apraksta personas datu aizsardzības pārkāpuma būtību un ietver vismaz 31. panta 3. punkta b) un c) apakšpunktā minēto informāciju un ieteikumus."
+		},
+		{
+			"lang": "ro",
+			"text": "Informarea persoanei vizate prevăzută la alineatul (1) cuprinde o descriere a caracterului încălcării securității datelor cu caracter personal și conține cel puțin informațiile și recomandările prevăzute la articolul 31 alineatul (3) literele (b) și (c)."
+		},
+		{
+			"lang": "sk",
+			"text": "Informácia pre dotknutú osobu uvedená v odseku 1 má obsahovať opis charakteru porušenia ochrany osobných údajov a prinajmenšom informácie a odporúčania uvedené v článku 31 ods. 3 písm. b) a c)."
+		},
+		{
+			"lang": "sl",
+			"text": "Sporočilo posamezniku, na katerega se nanašajo osebni podatki, iz odstavka 1 opisuje kršitev varnosti osebnih podatkov ter vsebuje vsaj informacije in priporočila iz točk (b) in (c) člena 31(3)."
+		},
+		{
+			"lang": "fi",
+			"text": "Edellä 1 kohdassa tarkoitetussa rekisteröidylle annettavassa ilmoituksessa on kuvattava henkilötietojen tietoturvaloukkauksen luonne ja annettava ainakin 31 artiklan 3 kohdan b ja c alakohdassa tarkoitetut tiedot ja suositukset."
+		},
+		{
+			"lang": "pl",
+			"text": "Zawiadomienie przekazane podmiotowi danych, o którym mowa w ust. 1, opisuje charakter naruszenia ochrony danych osobowych i zawiera przynajmniej informacje i zalecenia, o których mowa w art. 31 ust. 3 lit. b) i c)."
+		},
+		{
+			"lang": "lt",
+			"text": "1 dalyje nurodytame pranešime duomenų subjektui aprašomas asmens duomenų saugumo pažeidimo pobūdis ir pateikiama bent 31 straipsnio 3 dalies b ir c punktuose nurodyta informacija ir rekomendacijos."
+		},
+		{
+			"lang": "nl",
+			"text": "De in lid 1 bedoelde mededeling aan de betrokkene bevat een omschrijving van de aard van de inbreuk in verband met persoonsgegevens en ten minste de in artikel 31, lid 3, onder b) en c), voorgeschreven informatie en aanbevelingen."
+		},
+		{
+			"lang": "sv",
+			"text": "Den information till den registrerade som avses i punkt 1 ska innehålla en beskrivning av personuppgiftsbrottets karaktär och åtminstone de upplysningar och de rekommendationer som anges i artikel 31.3 b och c."
+		}
+	],
+	"children": [],
+	"title": "Article 32 – Paragraph 2"
+}

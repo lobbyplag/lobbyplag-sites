@@ -1,0 +1,102 @@
+{
+	"id": "r48",
+	"type": "recital",
+	"literal": "48",
+	"parent": "_",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The principles of fair and transparent processing require that the data subject should be informed in particular of the existence of the processing operation and its purposes, how long the data will be stored, on the existence of the right of access, rectification or erasure and on the right to lodge a complaint. Where the data are collected from the data subject, the data subject should also be informed whether they are obliged to provide the data and of the consequences, in cases they do not provide such data."
+		},
+		{
+			"lang": "de",
+			"text": "Die Grundsätze von Treu und Glauben und Transparenz bei der Verarbeitung setzen voraus, dass die betroffene Person insbesondere über die Existenz des Verarbeitungsvorgangs und seine Zwecke, die Speicherfrist, das Recht auf Auskunft sowie das Recht auf Berichtigung und Löschung der Daten und das Beschwerderecht informiert wird. Werden die Daten bei der betroffenen Person erhoben, sollte dieser darüber hinaus mitgeteilt werden, ob sie verpflichtet ist, die Daten bereitzustellen, und welche Folgen eine Zurückhaltung der Daten nach sich ziehen würde."
+		},
+		{
+			"lang": "fr",
+			"text": "Le principe de traitement loyal et transparent exige que la personne concernée soit informée, en particulier, de l'existence du traitement et de ses finalités, de la durée pendant laquelle les données seront conservées, de l’existence d’un droit d’accès, de rectification ou d’effacement, ainsi que de son droit d'introduire une réclamation. Lorsque les données sont collectées auprès de la personne concernée, il importe que celle‑ci sache également si elle est obligée de fournir ces informations et à quelles conséquences elle s'expose si elle ne les fournit pas."
+		},
+		{
+			"lang": "es",
+			"text": "Los principios de tratamiento leal y transparente exigen que el interesado sea informado, entre otras cosas, de la existencia de la operación de tratamiento y sus fines, del plazo de conservación de los datos, de la existencia del derecho de acceso, rectificación o supresión y del derecho a presentar una reclamación. Cuando los datos se obtengan de los interesados, estos también deben ser informados de si están obligados a facilitarlos y de las consecuencias en caso de que no lo hicieran."
+		},
+		{
+			"lang": "pt",
+			"text": "Os princípios de tratamento leal e transparente exigem que o titular de dados seja informado, em especial, da existência da operação de tratamento de dados e das suas finalidades, do período de conservação dos dados, da existência do direito de acesso, da retificação ou de apagamento, bem como do direito de apresentar uma queixa. Sempre que os dados forem recolhidos junto do titular dos dados, este deve ser também informado da obrigatoriedade de fornecer esses dados e das respetivas consequências caso não os faculte."
+		},
+		{
+			"lang": "it",
+			"text": "I principi di trattamento equo e trasparente implicano che l’interessato sia informato in particolare dell’esistenza del trattamento e delle sue finalità, del periodo di conservazione dei dati, del diritto di accesso, rettifica o cancellazione e del diritto di proporre reclamo. In caso di dati raccolti direttamente presso l’interessato, questi deve inoltre essere informato dell’eventuale obbligo di fornire i propri dati e delle conseguenze a cui va incontro se si rifiuta di fornirli."
+		},
+		{
+			"lang": "ga",
+			"text": "Ceanglaítear leis na prionsabail maidir le próiseáil chothrom thrédhearcach gur cheart an duine is ábhar do na sonraí a chur ar an eolas go háirithe faoin bpróiseáil atá á déanamh agus faoi chríocha na próiseála sin, faoi fhad tréimhse stórála na sonraí agus faoin gceart rochtana, faoin gceart ceartúcháin nó scriosta agus faoin gceart gearán a dhéanamh. I gcás ina mbailítear na sonraí ón duine is ábhar do na sonraí, ba cheart an duine is ábhar do na sonraí a chur ar an eolas freisin má tá sé d'oibleagáid air na sonraí a sholáthar agus é a chur ar an eolas faoi na hiarmhairtí atá ann mura soláthraíonn sé na sonraí sin."
+		},
+		{
+			"lang": "cs",
+			"text": "Podle zásad korektního a transparentního zpracování by subjekt údajů měl být informován především o probíhajícím zpracování údajů a jeho účelech, o tom, jak dlouho budou údaje uchovávány, o svém právu na přístup, opravu nebo výmaz a právu podat stížnost. Pokud jsou údaje získávány od subjektu údajů, měl by subjekt údajů být rovněž informován, zda je povinen údaje poskytnout, a o důsledcích v případě, že tyto údaje neposkytne."
+		},
+		{
+			"lang": "da",
+			"text": "Principperne om en loyal og gennemsigtig behandling kræver, at den registrerede informeres om navnlig behandlingens eksistens og dens formål, hvor længe oplysningerne opbevares, retten til indsigt, berigtigelse eller sletning og retten til at indgive klage. Hvis oplysningerne indsamles fra den registrerede, bør den registrerede også oplyses om, hvorvidt han er forpligtet til at afgive sådanne oplysninger, og om konsekvenserne, hvis han ikke afgiver sådanne oplysninger."
+		},
+		{
+			"lang": "et",
+			"text": "Õiglase ja läbipaistva töötlemise põhimõte nõuab, et andmesubjekti tuleks teavitada eelkõige töötlemistoimingu tegemisest ja selle eesmärkidest ning andmete säilitamise tähtajast, nendega tutvumise, nende muutmise ja kustutamise nõudmise ning kaebuse esitamise õigusest. Kui andmeid kogutakse andmesubjektilt, tuleks teda teavitada ka sellest, kas ta on kohustatud andmeid esitama, ja andmete esitamata jätmise tagajärgedest."
+		},
+		{
+			"lang": "el",
+			"text": "Οι αρχές της θεμιτής και διαφανούς επεξεργασίας απαιτούν να ενημερώνεται το πρόσωπο στο οποίο αναφέρονται τα δεδομένα ειδικότερα για την ύπαρξη της πράξης επεξεργασίας και τους σκοπούς της, για τη διάρκεια αποθήκευσης των δεδομένων, για την ύπαρξη δικαιώματος πρόσβασης, διόρθωσης ή διαγραφής και για το δικαίωμα υποβολής καταγγελίας. Εάν τα δεδομένα συλλέγονται από το πρόσωπο στο οποίο αναφέρονται, το εν λόγω πρόσωπο πρέπει να ενημερώνεται επίσης για το κατά πόσον υποχρεούται να παράσχει τα δεδομένα και για τις συνέπειες της μη παροχής των εν λόγω δεδομένων."
+		},
+		{
+			"lang": "bg",
+			"text": "Принципите на добросъвестно и прозрачно обработване изискват субектът на данни да бъде информиран, по-специално за наличието на операция по обработване и нейната цел, продължителността на съхранение на данните, наличието на право на достъп, коригиране или заличаване и на правото да се подават жалби. Когато от субекта на данни се събират данни, той следва да бъде информиран и относно това дали е задължен да предостави данните и относно последствията, ако не предостави тези данни."
+		},
+		{
+			"lang": "hu",
+			"text": "A tisztességes és átlátható adatfeldolgozás elve megköveteli az érintett tájékoztatását az adatfeldolgozási művelet megtörténtéről és céljáról, az adatok tárolásának időtartamáról, a hozzáférési, helyesbítési és törlési jog fennállásáról, valamint a panaszemelési jogról. Amennyiben az adatokat az érintett személytől gyűjtik be, az érintettet tájékoztatni kell arról, hogy köteles-e az adatszolgáltatásra, valamint hogy ezen adatszolgáltatás megtagadása milyen következményekkel jár."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-prinċipji ta’ pproċessar ġust u trasparenti jitolbu li s-suġġett tad-dejta għandu jkun informat b’mod partikolari bl-eżistenza tal-operazzjoni ta’ pproċessar u l-objettivi tagħha, iż-żmien kemm se ddum maħżuna d-dejta, dwar l-eżistenza tad-dritt ta’ aċċess, rettifika jew tħassir u dwar id-dritt li jressqu lment. Fejn id-dejta tinġabar mis-suġġett tad-dejta, is-suġġett tad-dejta għandu jkun informat ukoll jekk humiex obbligati li jipprovdu d-dejta u dwar il-konsegwenzi, f’każijiet li ma jipprovdux dik id-dejta."
+		},
+		{
+			"lang": "lv",
+			"text": "Godprātīgas un caurskatāmas apstrādes principi nozīmē, ka datu subjektam būtu jābūt informētam jo īpaši par apstrādes darbībām un to nolūkiem, cik ilgi datus glabās, par piekļuves, labošanas vai dzēšanas tiesībām un par tiesībām iesniegt sūdzību. Ja datus vāc no datu subjekta, datu subjekts būtu jāinformē, vai viņam ir pienākums sniegt datus un kāds būs sekas, ja viņš šos datus nesniegs."
+		},
+		{
+			"lang": "ro",
+			"text": "Conform principiilor prelucrării echitabile și transparente, persoana vizată ar trebui să fie informată, în special, cu privire la existența unei operațiuni de prelucrare și la scopurile acesteia, durata stocării datelor, existența dreptului de acces, rectificare sau ștergere a datelor și dreptul de a înainta o plângere. Atunci când datele sunt colectate de la persoana vizată, aceasta ar trebui, de asemenea, să fie informată dacă are obligația de a furniza datele și care sunt consecințele în cazul unui refuz."
+		},
+		{
+			"lang": "sk",
+			"text": "Zásady spravodlivého a transparentného spracúvania vyžadujú, aby dotknutá osoba bola informovaná najmä o existencii operácie spracovania a je účeloch, o tom, ako dlho budú údaje uchované, o existencii práva na prístup, opravu a výmaz a o práve namietať. Ak sa údaje zhromažďujú od dotknutej osoby, dotknutá osoba by mala byť informovaná aj o tom, či je povinná údaje poskytnúť, a o následkoch v prípade, že tieto údaje neposkytne."
+		},
+		{
+			"lang": "sl",
+			"text": "Načeli poštene in pregledne obdelave zahtevata, da je treba posameznika, na katerega se nanašajo osebni podatki, obvestiti zlasti o obstoju postopka obdelave in njegovih namenih, o času trajanja shranjevanja podatkov, o obstoju pravice do dostopa, popravka ali izbrisa in o pravici do vložitve pritožbe. Kadar se podatki zberejo od posameznika, na katerega se nanašajo osebni podatki, ga je treba obvestiti tudi o tem, ali je dolžan predložiti podatke, in o posledicah, če takih podatkov ne predloži."
+		},
+		{
+			"lang": "fi",
+			"text": "Asianmukaisen ja läpinäkyvän käsittelyn periaatteiden mukaisesti rekisteröidylle olisi ilmoitettava erityisesti henkilötietojen käsittelystä ja sen tarkoituksista, tietojen säilytysajasta, tiedonsaantioikeudesta, oikeudesta oikaista ja poistaa tiedot sekä valitusoikeudesta. Jos tietoja kerätään rekisteröidyltä, tälle olisi lisäksi ilmoitettava, onko hänen pakko toimittaa tiedot, sekä kieltäytymisen seurauksista."
+		},
+		{
+			"lang": "pl",
+			"text": "Zasady rzetelnego i przejrzystego przetwarzania wymagają, by podmiot danych był informowany w szczególności o prowadzeniu operacji przetwarzania i jej celach, okresie przechowywania danych, przysługującym mu prawie dostępu, poprawienia lub usunięcia danych oraz prawie do złożenia skargi. W przypadku konieczności uzyskania danych od podmiotu danych, należy go także poinformować o tym, że ma on obowiązek przekazać dane oraz o konsekwencjach braku przekazania takich danych"
+		},
+		{
+			"lang": "lt",
+			"text": "pagal sąžiningo ir skaidraus duomenų tvarkymo principus duomenų subjektui turėtų būti pranešta visų pirma apie vykdomą duomenų tvarkymo operaciją ir jos tikslus, kaip ilgai bus saugomi duomenys, apie teisę susipažinti su duomenimis, reikalauti juos ištaisyti ar ištrinti ir apie teisę pateikti skundą. Kai duomenys renkami iš duomenų subjekto, duomenų subjektas taip pat turėtų būti informuotas, ar jis privalo pateikti duomenis, taip pat apie tokių duomenų nepateikimo pasekmes;"
+		},
+		{
+			"lang": "nl",
+			"text": "De informatie over de verwerking van persoonsgegevens betreffende de betrokkene dient hem te worden meegedeeld bij het verzamelen van de gegevens of, indien de gegevens niet bij de betrokkene zijn verkregen, binnen redelijke tijd, naargelang de specifieke omstandigheden. Wanneer de gegevens rechtmatig kunnen worden verstrekt aan een andere ontvanger, dient de betrokkene te worden meegedeeld wanneer de gegevens voor het eerst aan de ontvanger worden verstrekt."
+		},
+		{
+			"lang": "sv",
+			"text": "Principerna om rättvis och öppen behandling fordrar att den registrerade informeras särskilt om att behandling sker och syftet med den, hur länge uppgifterna kommer att lagras, rätten att få tillgång till dem, rätta eller radera dem samt rätten att lämna in klagomål. När uppgifterna samlas in från de registrerade bör dessa även informeras om huruvida de är skyldiga att lämna uppgifterna, och om konsekvenserna i det fall de inte lämnar dem."
+		}
+	],
+	"children": [],
+	"title": "Recital 48"
+}

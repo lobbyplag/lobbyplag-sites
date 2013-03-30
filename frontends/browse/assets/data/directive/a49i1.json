@@ -1,0 +1,102 @@
+{
+	"id": "a49i1",
+	"type": "point",
+	"literal": "a",
+	"parent": "a49",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the establishment and status of the supervisory authority;"
+		},
+		{
+			"lang": "de",
+			"text": "die Errichtung der Aufsichtsbehörde und ihre Stellung,"
+		},
+		{
+			"lang": "fr",
+			"text": "l'établissement et le statut d’indépendance de l’autorité de contrôle;"
+		},
+		{
+			"lang": "es",
+			"text": "el establecimiento y el estatuto de la autoridad de control;"
+		},
+		{
+			"lang": "pt",
+			"text": "A constituição e o estatuto da autoridade de controlo;"
+		},
+		{
+			"lang": "it",
+			"text": "l’istituzione e lo status dell’autorità di controllo;"
+		},
+		{
+			"lang": "ga",
+			"text": "bunú agus stádas an údaráis mhaoirseachta;"
+		},
+		{
+			"lang": "cs",
+			"text": "zřízení orgánu dozoru a jeho postavení;"
+		},
+		{
+			"lang": "da",
+			"text": "tilsynsmyndighedens oprettelse og status"
+		},
+		{
+			"lang": "et",
+			"text": "järelevalveasutuse loomine ja staatus;"
+		},
+		{
+			"lang": "el",
+			"text": "α) τη σύσταση και το καθεστώς της αρχής ελέγχου·"
+		},
+		{
+			"lang": "bg",
+			"text": "а) създаването и статута на надзорния орган;"
+		},
+		{
+			"lang": "hu",
+			"text": "a felügyelő hatóság létrehozása és jogállása;"
+		},
+		{
+			"lang": "mt",
+			"text": "it-twaqqifu l-istatus tal-awtorità ta’ superviżjoni;"
+		},
+		{
+			"lang": "lv",
+			"text": "uzraudzības iestādes izveidi un statusu;"
+		},
+		{
+			"lang": "ro",
+			"text": "instituirea și statutul autorității de supraveghere;"
+		},
+		{
+			"lang": "sk",
+			"text": "zriadenie dozorného orgánu a jeho postavenie;"
+		},
+		{
+			"lang": "sl",
+			"text": "ustanovitev in status nadzornega organa;"
+		},
+		{
+			"lang": "fi",
+			"text": "valvontaviranomaisen perustamisesta ja asemasta;"
+		},
+		{
+			"lang": "pl",
+			"text": "ustanowienia i statusu organu nadzorczego;"
+		},
+		{
+			"lang": "lt",
+			"text": "priežiūros institucijos įsteigimą ir statusą;"
+		},
+		{
+			"lang": "nl",
+			"text": "de oprichting en het statuut van de toezichthoudende autoriteit;"
+		},
+		{
+			"lang": "sv",
+			"text": "Att en tillsynsmyndighet ska inrättas och vilken ställning denna myndighet ska ha."
+		}
+	],
+	"children": [],
+	"title": "Article 49 – Point 1"
+}

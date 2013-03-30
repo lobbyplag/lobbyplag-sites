@@ -1,0 +1,102 @@
+{
+	"id": "a38p1i3",
+	"type": "point",
+	"literal": "c",
+	"parent": "a38p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "the information of the public and of data subjects;"
+		},
+		{
+			"lang": "de",
+			"text": "Unterrichtung der Öffentlichkeit und der betroffenen Personen;"
+		},
+		{
+			"lang": "fr",
+			"text": "l'information du public et des personnes concernées;"
+		},
+		{
+			"lang": "es",
+			"text": "la información del público y de los interesados;"
+		},
+		{
+			"lang": "pt",
+			"text": "Informação do público e dos titulares de dados;"
+		},
+		{
+			"lang": "it",
+			"text": "l’informazione del pubblico e dell’interessato;"
+		},
+		{
+			"lang": "ga",
+			"text": "an pobal agus daoine is ábhar do shonraí a chur ar an eolas;"
+		},
+		{
+			"lang": "cs",
+			"text": "informovanost veřejnosti a subjektů údajů;"
+		},
+		{
+			"lang": "da",
+			"text": "information til offentligheden og registrerede"
+		},
+		{
+			"lang": "et",
+			"text": "üldsuse ja andmesubjektide teavitamine;"
+		},
+		{
+			"lang": "el",
+			"text": "γ) την ενημέρωση του κοινού και των προσώπων στα οποία αναφέρονται τα δεδομένα·"
+		},
+		{
+			"lang": "bg",
+			"text": "в) информирането на обществеността и на субектите на данни;"
+		},
+		{
+			"lang": "hu",
+			"text": "a nyilvánosság és az érintettek tájékoztatása;"
+		},
+		{
+			"lang": "mt",
+			"text": "l-informazzjoni tal-pubbliku u tas-suġġetti tad-dejta;"
+		},
+		{
+			"lang": "lv",
+			"text": "sabiedrības un datu subjektu informēšanu;"
+		},
+		{
+			"lang": "ro",
+			"text": "informarea publicului și a persoanelor vizate;"
+		},
+		{
+			"lang": "sk",
+			"text": "informovanie verejnosti a dotknutých osôb;"
+		},
+		{
+			"lang": "sl",
+			"text": "obveščanjem javnosti in posameznikov, na katere se nanašajo osebni podatki;"
+		},
+		{
+			"lang": "fi",
+			"text": "yleisölle ja rekisteröidyille tarkoitettu tiedotus;"
+		},
+		{
+			"lang": "pl",
+			"text": "informowania opinii publicznej i podmiotów danych;"
+		},
+		{
+			"lang": "lt",
+			"text": "informacijos teikimo visuomenei ir duomenų subjektams;"
+		},
+		{
+			"lang": "nl",
+			"text": "het informeren van het publiek en de betrokkenen:"
+		},
+		{
+			"lang": "sv",
+			"text": "information till allmänheten och de registrerade,"
+		}
+	],
+	"children": [],
+	"title": "Article 38 – Paragraph 1 – Point 3"
+}

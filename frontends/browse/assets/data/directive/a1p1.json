@@ -1,0 +1,102 @@
+{
+	"id": "a1p1",
+	"type": "paragraph",
+	"literal": "1",
+	"parent": "a1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "This Regulation lays down rules relating to the protection of individuals with regard to the processing of personal data and rules relating to the free movement of personal data."
+		},
+		{
+			"lang": "de",
+			"text": "Diese Verordnung enthält Vorschriften zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten und zum freien Verkehr solcher Daten."
+		},
+		{
+			"lang": "fr",
+			"text": "Le présent règlement établit des règles relatives à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et des règles relatives à la libre circulation de ces données."
+		},
+		{
+			"lang": "es",
+			"text": "El presente Reglamento establece las normas relativas a la protección de las personas físicas en lo que respecta al tratamiento de los datos personales y las normas relativas a la libre circulación de tales datos."
+		},
+		{
+			"lang": "pt",
+			"text": "O presente regulamento estabelece as regras relativas à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados."
+		},
+		{
+			"lang": "it",
+			"text": "Il presente regolamento stabilisce norme relative alla protezione delle persone fisiche con riguardo al trattamento dei dati di carattere personale e norme relative alla libera circolazione di tali dati."
+		},
+		{
+			"lang": "ga",
+			"text": "Sa Rialachán seo leagtar síos rialacha maidir le daoine aonair a chosaint i ndáil le sonraí pearsanta a phróiseáil agus rialacha maidir le saorghluaiseacht sonraí den sórt sin."
+		},
+		{
+			"lang": "cs",
+			"text": "Tímto nařízením se stanoví pravidla týkající se ochrany fyzických osob v souvislosti se zpracováváním osobních údajů a pravidla týkající se volného pohybu osobních údajů."
+		},
+		{
+			"lang": "da",
+			"text": "I denne forordning fastsættes regler om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og regler om fri udveksling af personoplysninger."
+		},
+		{
+			"lang": "et",
+			"text": "Käesolevas määruses sätestatakse eeskirjad, mis käsitlevad üksikisikute kaitset isikuandmete töötlemisel ja isikuandmete vaba liikumist."
+		},
+		{
+			"lang": "el",
+			"text": "Ο παρών κανονισμός θεσπίζει κανόνες που αφορούν την προστασία των φυσικών προσώπων έναντι της επεξεργασίας δεδομένων προσωπικού χαρακτήρα και κανόνες που αφορούν την ελεύθερη κυκλοφορία αυτών των δεδομένων."
+		},
+		{
+			"lang": "bg",
+			"text": "С настоящия регламент се определят правилата по отношение на защитата на физическите лица във връзка с обработването на лични данни, както и правилата по отношение на свободното движение на лични данни."
+		},
+		{
+			"lang": "hu",
+			"text": "Ez a rendelet a személyes adatok feldolgozása vonatkozásában az egyének védelméről és a személyes adatok szabad áramlásáról szóló szabályokat állapítja meg."
+		},
+		{
+			"lang": "mt",
+			"text": "Dan ir-Regolament jistabbilixxi r-regoli li għandhom x’jaqsmu mal-protezzjoni tal-individwi fir-rigward tal-ipproċessar tad-dejta personali u regoli relatati mal-moviment liberu tad-dejta personali."
+		},
+		{
+			"lang": "lv",
+			"text": "Šī regula paredz noteikumus fizisku personu aizsardzībai attiecībā uz personas datu apstrādi un noteikumus personas datu brīvai apritei."
+		},
+		{
+			"lang": "ro",
+			"text": "Prezentul regulament stabilește normele referitoare la protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal, precum și normele referitoare la libera circulație a datelor cu caracter personal."
+		},
+		{
+			"lang": "sk",
+			"text": "Týmto nariadením sa stanovujú pravidlá ochrany fyzických osôb pri spracúvaní osobných údajov a pravidlá týkajúce sa voľného pohybu osobných údajov."
+		},
+		{
+			"lang": "sl",
+			"text": "Ta uredba določa pravila o varstvu posameznikov pri obdelavi osebnih podatkov in pravila o prostem pretoku osebnih podatkov."
+		},
+		{
+			"lang": "fi",
+			"text": "Tällä asetuksella vahvistetaan säännöt yksilöiden suojelulle henkilötietojen käsittelyssä sekä säännöt, jotka koskevat näiden tietojen vapaata liikkuvuutta."
+		},
+		{
+			"lang": "pl",
+			"text": "Niniejsze rozporządzenie ustanawia przepisy dotyczące ochrony osób fizycznych w zakresie przetwarzania danych osobowych oraz przepisy dotyczące swobodnego przepływu danych osobowych."
+		},
+		{
+			"lang": "lt",
+			"text": "Šiuo reglamentu nustatomos fizinių asmenų apsaugos tvarkant asmens duomenis ir laisvo asmens duomenų judėjimo taisyklės."
+		},
+		{
+			"lang": "nl",
+			"text": "Bij deze verordening worden bepalingen vastgesteld betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens."
+		},
+		{
+			"lang": "sv",
+			"text": "I denna förordning fastställs bestämmelser om skydd för enskilda personer med avseende på behandlingen av personuppgifter och om den fria rörligheten för personuppgifter."
+		}
+	],
+	"children": [],
+	"title": "Article 1 – Paragraph 1"
+}

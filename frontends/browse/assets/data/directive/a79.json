@@ -1,0 +1,110 @@
+{
+	"id": "a79",
+	"type": "article",
+	"literal": "79",
+	"parent": "c8",
+	"text": [
+		{
+			"lang": "en",
+			"text": "Administrative sanctions"
+		},
+		{
+			"lang": "de",
+			"text": "Verwaltungsrechtliche Sanktionen"
+		},
+		{
+			"lang": "fr",
+			"text": "Sanctions administratives"
+		},
+		{
+			"lang": "es",
+			"text": "Sanciones administrativas"
+		},
+		{
+			"lang": "pt",
+			"text": "Sanções administrativas"
+		},
+		{
+			"lang": "it",
+			"text": "Sanzioni amministrative"
+		},
+		{
+			"lang": "ga",
+			"text": "Smachtbhannaí riaracháin"
+		},
+		{
+			"lang": "cs",
+			"text": "Správní sankce"
+		},
+		{
+			"lang": "da",
+			"text": "Administrative sanktioner"
+		},
+		{
+			"lang": "et",
+			"text": "Halduskaristused"
+		},
+		{
+			"lang": "el",
+			"text": "Διοικητικές κυρώσεις"
+		},
+		{
+			"lang": "bg",
+			"text": "Административни санкции"
+		},
+		{
+			"lang": "hu",
+			"text": "Közigazgatási szankciók"
+		},
+		{
+			"lang": "mt",
+			"text": "Sanzjonijiet amministrattivi"
+		},
+		{
+			"lang": "lv",
+			"text": "Administratīvie sodi"
+		},
+		{
+			"lang": "ro",
+			"text": "Sancțiuni administrative"
+		},
+		{
+			"lang": "sk",
+			"text": "Správne sankcie"
+		},
+		{
+			"lang": "sl",
+			"text": "Upravne sankcije"
+		},
+		{
+			"lang": "fi",
+			"text": "Hallinnolliset seuraamukset"
+		},
+		{
+			"lang": "pl",
+			"text": "Sankcje administracyjne"
+		},
+		{
+			"lang": "lt",
+			"text": "Administracinės sankcijos"
+		},
+		{
+			"lang": "nl",
+			"text": "Administratieve sancties"
+		},
+		{
+			"lang": "sv",
+			"text": "Administrativa sanktioner"
+		}
+	],
+	"children": [
+		"a79p1",
+		"a79p2",
+		"a79p3",
+		"a79p4",
+		"a79p5",
+		"a79p6",
+		"a79p7"
+	],
+	"title": "Article 79"
+}

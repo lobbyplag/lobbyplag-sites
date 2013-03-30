@@ -1,0 +1,102 @@
+{
+	"id": "a6p1i6",
+	"type": "point",
+	"literal": "f",
+	"parent": "a6p1",
+	"text": [
+		{
+			"lang": "en",
+			"text": "processing is necessary for the purposes of the legitimate interests pursued by a controller, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child. This shall not apply to processing carried out by public authorities in the performance of their tasks."
+		},
+		{
+			"lang": "de",
+			"text": "Die Verarbeitung ist zur Wahrung der berechtigten Interessen des für die Verarbeitung Verantwortlichen erforderlich, sofern nicht die Interessen oder Grundrechte und Grundfreiheiten der betroffenen Person, die den Schutz personenbezogener Daten erfordern, überwiegen, insbesondere dann, wenn es sich bei der betroffenen Person um ein Kind handelt. Dieser gilt nicht für die von Behörden in Erfüllung ihrer Aufgaben vorgenommene Verarbeitung."
+		},
+		{
+			"lang": "fr",
+			"text": "le traitement est nécessaire aux fins des intérêts légitimes poursuivis par un responsable du traitement, à moins que ne prévalent les intérêts ou les libertés et droits fondamentaux de la personne concernée, qui exigent une protection des données à caractère personnel, notamment lorsque la personne concernée est un enfant. Ces considérations ne s'appliquent pas au traitement effectué par les autorités publiques dans l'exécution de leurs missions."
+		},
+		{
+			"lang": "es",
+			"text": "el tratamiento es necesario para la satisfacción del interés legítimo perseguido por el responsable del tratamiento, siempre que no prevalezca el interés o los derechos y libertades fundamentales del interesado que requieran protección de los datos personales, en particular, cuando el interesado sea un niño. Ello no será de aplicación al tratamiento realizado por las autoridades públicas en el ejercicio de sus funciones."
+		},
+		{
+			"lang": "pt",
+			"text": "O tratamento for necessário para prosseguir interesses legítimos do responsável pelo tratamento, desde que não prevaleçam os interesses relacionados com os direitos e liberdades fundamentais do titular dos dados que exijam uma proteção de dados pessoais, em especial se a pessoa em causa for uma criança. Tal não se aplica ao tratamento de dados efetuado por autoridades públicas no exercício das suas funções."
+		},
+		{
+			"lang": "it",
+			"text": "il trattamento è necessario per il perseguimento del legittimo interesse del responsabile del trattamento, a condizione che non prevalgano gli interessi o i diritti e le libertà fondamentali dell’interessato che richiedono la protezione dei dati personali, in particolare se l’interessato è un minore. Ciò non si applica al trattamento di dati effettuato dalle autorità pubbliche nell’esercizio dei loro compiti."
+		},
+		{
+			"lang": "ga",
+			"text": "is gá an phróiseáil a dhéanamh chun críocha na leasanna dlisteanacha atá á saothrú ag an rialaitheoir, seachas má sháraíonn leasanna nó cearta agus saoirsí bunúsacha an duine is ábhar do na sonraí, lena gceanglaítear sonraí pearsanta a chosaint, na leasanna dlisteanacha sin, go háirithe más leanbh é an duine is ábhar do na sonraí. Ní bheidh feidhm aige sin maidir le próiseáil a dhéanann údaráis phoiblí i gcomhlíonadh a gcúraimí dóibh."
+		},
+		{
+			"lang": "cs",
+			"text": "zpracování je nezbytné pro uskutečnění oprávněných zájmů správce za podmínky, že tyto zájmy nepřevažují nad zájmem nebo základními právy a svobodami subjektu údajů vyžadujícími ochranu osobních údajů, zejména pokud je subjektem údajů dítě. To se netýká zpracování prováděného orgány veřejné moci při plnění jejich úkolů."
+		},
+		{
+			"lang": "da",
+			"text": "behandlingen er nødvendig, for at den registeransvarlige kan forfølge en legitim interesse, medmindre den registreredes interesser eller grundlæggende rettigheder og frihedsrettigheder går forud herfor, navnlig hvis den registrerede er et barn. Dette gælder ikke for den behandling, som offentlige myndigheder foretager som led i udførelsen af deres opgaver."
+		},
+		{
+			"lang": "et",
+			"text": "töötlemine on vajalik vastutava töötleja õigustatud huvi korral, välja arvatud juhul, kui sellise huvi kaaluvad üles andmesubjekti, eriti lapse huvid, põhiõigused ja vabadused, mille nimel tuleb kaitsta isikuandmeid. Seda tingimust ei kohaldata, kui andmeid töötleb avaliku sektori asutus oma ülesannete täitmiseks."
+		},
+		{
+			"lang": "el",
+			"text": "στ) η επεξεργασία είναι απαραίτητη για την επίτευξη του έννομου συμφέροντος που επιδιώκει ο υπεύθυνος της επεξεργασίας, υπό τον όρο ότι δεν προέχουν το συμφέρον ή τα θεμελιώδη δικαιώματα και οι ελευθερίες του προσώπου στο οποίο αναφέρονται τα δεδομένα που χρήζουν προστασίας, ιδίως εάν το πρόσωπο στο οποίο αναφέρονται τα δεδομένα είναι παιδί. Αυτό δεν εφαρμόζεται στην επεξεργασία που διενεργείται από δημόσιες αρχές κατά την άσκηση των καθηκόντων τους."
+		},
+		{
+			"lang": "bg",
+			"text": "е) обработването е необходимо за целите на законните интереси на администратора, освен когато пред такива интереси преимущество имат интересите или основните права и свободи на субекта на данните, които изискват защита на личните данни, по-специално когато субектът на данните е дете. Това не се прилага за обработването на данни, което се извършва от публични органи при изпълнението на техните задачи."
+		},
+		{
+			"lang": "hu",
+			"text": "az adatfeldolgozás az adatkezelő jogszerű érdekének érvényesítéséhez szükséges, kivéve, ha ezen érdekekkel szemben elsőbbséget élveznek az érintett olyan érdekei vagy alapvető jogai és szabadságai, amelyek személyes adatok védelmét teszik szükségessé, különösen, ha az érintett gyermek. Ez nem alkalmazható a hatóságok által feladataik ellátása során végzett feldolgozásra."
+		},
+		{
+			"lang": "mt",
+			"text": "l-ipproċessar huwa meħtieġ għall-għanijiet tal-interessi leġittimi segwiti minn kontrollur, ħlief meta dawn l-interessi huma megħluba mill-interessi jew id-drittijiet u l-libertajiet fundamentali tas-suġġett tad-dejta li jeħtieġu l-protezzjoni tad-dejta personali, b’mod partikolari meta s-suġġett tad-dejta ijkun minorenni.Dan m’għandux japplika għall-ipproċessar li jsir minn awtoritajiet pubbliċi fit-twettiq tal-kompiti tagħhom."
+		},
+		{
+			"lang": "lv",
+			"text": "apstrāde ir vajadzīga pārziņa likumīgo interešu ievērošanai, izņemot, ja datu subjekta intereses vai pamattiesības un brīvības, kurām nepieciešama aizsardzība, ir svarīgākas, jo īpaši, ja datu subjekts ir bērns. To nepiemēro apstrādei, ko veic valsts iestāde, pildot savus uzdevumus."
+		},
+		{
+			"lang": "ro",
+			"text": "prelucrarea este necesară în scopul intereselor legitime urmărite de operator, cu excepția cazului în care prevalează interesele sau drepturile și libertățile fundamentale ale persoanei vizate, care necesită protejarea datelor cu caracter personal, în special atunci când persoana vizată este un minor. Acest lucru nu se aplică în cazul prelucrării efectuate de către autoritățile publice în îndeplinirea misiunii lor."
+		},
+		{
+			"lang": "sk",
+			"text": "spracovanie je nevyhnutné na účely oprávnených záujmov, ktoré sleduje prevádzkovateľ, s výnimkou prípadov, keď nad takýmito záujmami prevažujú záujmy alebo základné práva a slobody dotknutej osoby, ktoré potrebujú ochranu, najmä ak dotknutou osobu je dieťa. Toto sa nevzťahuje na spracovanie vykonávané verejnými orgánmi pri výkone ich úloh."
+		},
+		{
+			"lang": "sl",
+			"text": "obdelava je potrebna zaradi pravnih interesov, za katere si prizadeva upravljavec, razen kadar nad takimi interesi prevladajo temeljne pravice in svoboščine posameznika, na katerega se nanašajo osebni podatki, ki zahtevajo varstvo osebnih podatkov, zlasti kadar je posameznik, na katerega se nanašajo osebni podatki, otrok. To ne velja za obdelavo s strani javnih organov pri opravljanju njihovih nalog."
+		},
+		{
+			"lang": "fi",
+			"text": "käsittely on tarpeen rekisterinpitäjän oikeutetun edun toteuttamiseksi, paitsi milloin tämän edun syrjäyttävät henkilötietojen suojaa tarvitsevat rekisteröidyn edut tai perusoikeudet ja ‑vapaudet, erityisesti jos rekisteröity on lapsi. Tätä ei sovelleta tietojenkäsittelyyn, jota viranomaiset suorittavat tehtäviensä yhteydessä."
+		},
+		{
+			"lang": "pl",
+			"text": "przetwarzanie jest konieczne dla celów wynikających ze słusznych interesów realizowanych przez administratora, z wyjątkiem sytuacji, kiedy nadrzędny charakter ma interes podstawowych praw i wolności podmiotu danych, które wymagają ochrony danych osobowych, w szczególności gdy podmiotem danych jest dziecko. Przepisu tego nie stosuje się do przetwarzania realizowanego przez organy publiczne w wykonaniu ich zadań."
+		},
+		{
+			"lang": "lt",
+			"text": "tvarkyti duomenis reikia siekiant teisėtų duomenų valdytojo interesų, išskyrus, kai duomenų subjekto interesai arba pagrindinės teisės ir laisvės, kuriems turi būti taikoma asmens duomenų apsauga, už juos viršesni, ypač kai duomenų subjektas yra vaikas. Tai netaikoma duomenų tvarkymui, kurį valdžios institucijos atlieka vykdydamos savo funkcijas."
+		},
+		{
+			"lang": "nl",
+			"text": "de verwerking is noodzakelijk is voor de behartiging van de gerechtvaardigde belangen van de voor de verwerking verantwoordelijke, mits het belang of de grondrechten en fundamentele vrijheden van de betrokkene die tot bescherming van persoonsgegevens noodzaken, niet boven dat belang prevaleren, met name wanneer de betrokkene een kind is. Dit is niet van toepassing op de verwerking door overheidsinstanties in het kader van de uitoefening van hun taken."
+		},
+		{
+			"lang": "sv",
+			"text": "Behandlingen är nödvändig för ändamål som rör den registeransvariges berättigade intressen, utom när sådana intressen uppvägs av den registrerades intressen eller dennes grundläggande fri- och rättigheter som kräver skydd av personuppgifter, särskilt när den registrerade är ett barn. Detta ska inte gälla för behandling som utförs av myndigheter i deras myndighetsutövning."
+		}
+	],
+	"children": [],
+	"title": "Article 6 – Paragraph 1 – Point 6"
+}

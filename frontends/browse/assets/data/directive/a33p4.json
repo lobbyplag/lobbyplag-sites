@@ -1,0 +1,102 @@
+{
+	"id": "a33p4",
+	"type": "paragraph",
+	"literal": "4",
+	"parent": "a33",
+	"text": [
+		{
+			"lang": "en",
+			"text": "The controller shall seek the views of data subjects or their representatives on the intended processing, without prejudice to the protection of commercial or public interests or the security of the processing operations."
+		},
+		{
+			"lang": "de",
+			"text": "Der für die Verarbeitung Verantwortliche holt die Meinung der betroffenen Personen oder ihrer Vertreter zu der beabsichtigten Verarbeitung unbeschadet des Schutzes gewerblicher oder öffentlicher Interessen oder der Sicherheit der Verarbeitungsvorgänge ein."
+		},
+		{
+			"lang": "fr",
+			"text": "Le responsable du traitement demande l'avis des personnes concernées ou de leurs représentants au sujet du traitement prévu, sans préjudice de la protection des intérêts généraux ou commerciaux ni de la sécurité des traitements."
+		},
+		{
+			"lang": "es",
+			"text": "El responsable del tratamiento recabará la opinión de los interesados o de sus representantes en relación con el tratamiento previsto, sin perjuicio de la protección de intereses públicos o comerciales o de la seguridad de las operaciones de tratamiento."
+		},
+		{
+			"lang": "pt",
+			"text": "O responsável pelo tratamento solicita a opinião dos titulares de dados ou dos seus representantes sobre o tratamento previsto, sem prejuízo da proteção dos interesses comerciais ou públicos ou da segurança das operações de tratamento de dados."
+		},
+		{
+			"lang": "it",
+			"text": "Il responsabile del trattamento raccoglie le osservazioni degli interessati o dei loro rappresentanti sul trattamento previsto, fatta salva la tutela degli interessi commerciali o pubblici o la sicurezza del trattamento."
+		},
+		{
+			"lang": "ga",
+			"text": "Iarrfaidh an rialaitheoir ar dhaoine is ábhar do shonraí nó ar a n‑ionadaithe a dtuairimí a thabhairt maidir leis an bpróiseáil atá beartaithe, gan dochar do chosaint leasanna tráchtála nó poiblí ná do shlándáil na n‑oibríochtaí próiseála."
+		},
+		{
+			"lang": "cs",
+			"text": "Správce zjistí, jak se k zamýšlenému zpracování staví subjekty údajů nebo jejich zástupci, aniž by byla dotčena ochrana obchodních či veřejných zájmů nebo bezpečnost zpracování."
+		},
+		{
+			"lang": "da",
+			"text": "Den registeransvarlige indhenter udtalelser fra registrerede eller deres repræsentanter vedrørende den planlagte behandling, uden at det berører beskyttelsen af kommercielle eller samfundsmæssige interesser eller behandlingens sikkerhed."
+		},
+		{
+			"lang": "et",
+			"text": "Vastutav töötleja küsib andmesubjektide või nende esindajate seisukohti kavandatud töötlemise kohta, ilma et see piiraks kaubandus- või avalike huvide kaitset ja töötlemistoimingute turvalisust."
+		},
+		{
+			"lang": "el",
+			"text": "Ο υπεύθυνος επεξεργασίας ζητεί τη γνώμη των προσώπων στα οποία αναφέρονται τα δεδομένα ή των εκπροσώπων τους για τη σχεδιαζόμενη επεξεργασία, με την επιφύλαξη της προστασίας εμπορικών ή δημόσιων συμφερόντων ή της ασφάλειας των πράξεων επεξεργασίας."
+		},
+		{
+			"lang": "bg",
+			"text": "Администраторът се обръща към субектите на данните или техните представители за становище относно планираното обработване, без да се засяга защитата на търговските или обществените интереси или сигурността на операциите по обработване."
+		},
+		{
+			"lang": "hu",
+			"text": "Az adatkezelő a kereskedelmi érdekek vagy a közérdek védelme vagy a feldolgozási műveletek biztonságának sérelme nélkül kikéri az érintettek vagy képviselőik véleményét a tervezett adatfeldolgozásról."
+		},
+		{
+			"lang": "mt",
+			"text": "Il-kontrollur għandu jfittex l-opinjoni tas-suġġetti tad-dejta jew tar-rappreżentanti tagħhom dwar l-ipproċessar maħsub, mingħajr preġudizzju għall-protezzjoni ta’ interessi kummerċjali jew pubbliċi jew għas-sigurtà tal-operazzjonijiet ta’ pproċessar."
+		},
+		{
+			"lang": "lv",
+			"text": "Pārzinis pieprasa datu subjektu vai viņu pārstāvju viedokli par plānoto apstrādi, neskarot komerciālu vai sabiedrisku interešu aizsardzību vai apstrādes darbību drošību."
+		},
+		{
+			"lang": "ro",
+			"text": "Operatorul solicită avizul persoanelor vizate sau al reprezentanților acestora privind prelucrarea prevăzută, fără a aduce atingere protecției intereselor comerciale sau publice ori securității operațiunilor de prelucrare."
+		},
+		{
+			"lang": "sk",
+			"text": "Prevádzkovateľ sa usiluje získať názory dotknutých osôb alebo ich zástupcov na zamýšľané spracovanie bez toho, aby bola dotknutá ochrana komerčných alebo verejných záujmov, alebo bezpečnosť operácií spracovania."
+		},
+		{
+			"lang": "sl",
+			"text": "Upravljavec glede predvidene obdelave zaprosi za mnenje posameznikov, na katere se nanašajo osebni podatki, ali njihovih predstavnikov, brez poseganja v zaščito komercialnega ali javnega interesa ali varnost postopkov obdelave."
+		},
+		{
+			"lang": "fi",
+			"text": "Rekisterinpitäjän on pyydettävä rekisteröityjen tai näiden edustajien näkemyksiä suunnitelluista käsittelytoimista, ilman että tämä saa vaikuttaa kaupallisten tai yleisten etujen suojeluun tai käsittelytoimien turvallisuuteen."
+		},
+		{
+			"lang": "pl",
+			"text": "Administrator zwraca się o opinie do podmiotów danych lub ich przedstawicieli w zakresie planowanego przetwarzania, bez uszczerbku dla ochrony handlowych lub publicznych interesów lub bezpieczeństwa operacji przetwarzania."
+		},
+		{
+			"lang": "lt",
+			"text": "Duomenų valdytojas siekia išsiaiškinti, kokia duomenų subjektų ar jų atstovų nuomonė apie numatytą duomenų tvarkymą, nepažeisdamas komercinių ar viešųjų interesų apsaugos arba duomenų tvarkymo operacijų saugumo reikalavimų."
+		},
+		{
+			"lang": "nl",
+			"text": "De voor de verwerking verantwoordelijke neemt de opmerkingen van betrokkenen en hun vertegenwoordigers over de voorgenomen verwerking in ontvangst, zonder inbreuk te maken op de bescherming van commerciële of algemene belangen of de beveiliging van de verwerkingen."
+		},
+		{
+			"lang": "sv",
+			"text": "Den registeransvarige ska inhämta synpunkter från de registrerade och deras företrädare om den avsedda behandlingen, utan att det påverkar skyddet av kommersiella eller allmänna intressen eller behandlingens säkerhet."
+		}
+	],
+	"children": [],
+	"title": "Article 33 – Paragraph 4"
+}
