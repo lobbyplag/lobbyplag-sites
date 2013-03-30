@@ -31,7 +31,7 @@ var argv = require("optimist")
 var config = require(path.resolve(__dirname, '../../config.js'));
 
 var _directive = JSON.parse(fs.readFileSync(path.resolve(config.datadir, 'directive.json')));
-var _amendments = JSON.parse(fs.readFileSync(path.resolve(config.datadir, 'amendments.json'))).amendments;
+var _amendments = JSON.parse(fs.readFileSync(path.resolve(config.datadir, 'amendments.json')));
 var _proposals = JSON.parse(fs.readFileSync(path.resolve(config.datadir, 'proposals.json')));
 
 var _mep = JSON.parse(fs.readFileSync(path.resolve(config.datadir, 'mep.json')));
@@ -44,7 +44,7 @@ var _list = [];
 var _data = {};
 
 _amendments.forEach(function(_amd, _idx){
-	_amd.patterns.forEach(function(_pat){
+	_amd.relations.forEach(function(_pat){
 		if (!(_pat in _patterns)) _patterns[_pat] = [];
 		_patterns[_pat].push({
 			"type": "a", "uid": _idx
@@ -195,28 +195,30 @@ _list.forEach(function(_item, _idx){
 		});
 	}
 	
-	/* refine meps */
 	
 	_item.amendments.forEach(function(_amendment){
+
+		/* refine amendment meps */
 		var _authors = [];
-		_amendment.authors.forEach(function(_author){
-			_author = _author.replace(/\s+/, ' ');
-			if (!(_author in _mep)) {
-				if (!(_author in _mep_aliases)) {
-					console.error('ERR!'.inverse.red.bold, _author, _amendment.authors);
-					process.exit(1);
-				}
-				_mep[_author] = _mep[_mep_aliases[_author]];
+		_amendment.author_ids.forEach(function(_author_id){
+			if (!(_author_id in _mep)) {
+				console.error('ERR!'.inverse.red.bold, _author_id, _amendment.authors);
+				process.exit(1);
 			}
 			_authors.push({
-				"name": _mep[_author].name,
-				"country": _mep[_author].country,
-				"country_long": _countries[_mep[_author].country],
-				"group": _mep_groups[_mep[_author].group].short,
-				"group_long": _mep_groups[_mep[_author].group].long
+				"name": _mep[_author_id].name,
+				"country": _mep[_author_id].country,
+				"country_long": _countries[_mep[_author_id].country],
+				"group": _mep_groups[_mep[_author_id].group].short,
+				"group_long": _mep_groups[_mep[_author_id].group].long
 			});
 		});
 		_amendment.authors = _authors;
+		
+		/* put the diff of the first text element to the amendment root, 
+			since mustache cannot iterate arrays well */
+		_amendment.diff = _amendment.text[0].diff;
+
 	});
 	
 	/* statistics */
