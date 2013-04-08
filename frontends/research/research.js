@@ -1,18 +1,20 @@
 #!/usr/bin/env node
 
-/* get confog */
-var config = require('./config');
-
 var fs = require('fs');
+var path = require('path');
 var http = require('http');
 var express = require('express');
 var mustache = require('mustache');
 var colors = require('colors');
 var querystring = require('querystring');
-var plaque = require(__dirname+"/lib/plaque");
+var plaque = require(path.resolve(__dirname, "lib/plaque"));
 
-var tmpl_index = fs.readFileSync(__dirname+"/assets/tmpl/index.mustache").toString();
-var tmpl_result = fs.readFileSync(__dirname+"/assets/tmpl/result.mustache").toString();
+/* get confog */
+var config = require(path.resolve(__dirname, 'config.js'));
+
+/* get templates */
+var tmpl_index = fs.readFileSync(__dirname+"/tmpl/index.mustache").toString();
+var tmpl_result = fs.readFileSync(__dirname+"/tmpl/result.mustache").toString();
 
 var index_parse = function(data, q) {
 
@@ -27,7 +29,7 @@ var index_parse = function(data, q) {
 
 var app = express();
 
-app.use("/assets", express.static(__dirname + '/assets'));
+app.use("/assets", express.static(path.resolve(__dirname, '../assets')));
 
 app.get('/search', function(req, res){
 
