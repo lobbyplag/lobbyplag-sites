@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 
 /* get confog */
-var config = require('./config');
+var path = require('path');
+var config = require(path.resolve(__dirname, './config.js'));
 
 var fs = require('fs');
 var express = require('express');
@@ -13,14 +14,14 @@ locale.Locale["default"] = config.locale_default;
 
 /* read templates */
 var tmpl = {
-	index: fs.readFileSync(__dirname+"/assets/tmpl/index.mustache").toString(),
-	directive: fs.readFileSync(__dirname+"/assets/tmpl/directive.mustache").toString(),
-	mep: fs.readFileSync(__dirname+"/assets/tmpl/mep.mustache").toString(),
-	indicator: fs.readFileSync(__dirname+"/assets/tmpl/indicator.mustache").toString(),
-	list: fs.readFileSync(__dirname+"/assets/tmpl/list.mustache").toString()
+	index: fs.readFileSync(__dirname+"/tmpl/index.mustache").toString(),
+	directive: fs.readFileSync(__dirname+"/tmpl/directive.mustache").toString(),
+	mep: fs.readFileSync(__dirname+"/tmpl/mep.mustache").toString(),
+	indicator: fs.readFileSync(__dirname+"/tmpl/indicator.mustache").toString(),
+	list: fs.readFileSync(__dirname+"/tmpl/list.mustache").toString()
 }
 
-var data = JSON.parse(fs.readFileSync(__dirname+"/assets/data/compiled.json").toString());
+var data = JSON.parse(fs.readFileSync(__dirname+"/data/compiled.json").toString());
 
 /* handle uncaught exception, just in case */
 process.on('uncaughtException', function (err) {
@@ -30,7 +31,7 @@ process.on('uncaughtException', function (err) {
 var app = express();
 
 app.configure(function(){
-	app.use("/assets", express.static(__dirname + '/assets'));
+	app.use("/assets", express.static(__dirname + '../assets'));
 	app.use(locale(config.locales));
 });
 
