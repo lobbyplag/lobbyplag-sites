@@ -31,7 +31,7 @@ process.on('uncaughtException', function (err) {
 var app = express();
 
 app.configure(function(){
-	app.use("/assets", express.static(__dirname + '../assets'));
+	app.use("/assets", express.static(__dirname + '/../assets'));
 	app.use(locale(config.locales));
 });
 
