@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>LobbyPlag ➔ Crowdsource</title>
+		<meta charset="utf-8" />
+		<!--[if lt IE 9]><script src="/assets/js/html5shiv.min.js" type="text/javascript"></script><![endif]-->
+		<meta property="og:title" content="LobbyPlag: Browse Laws">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="http://browse.lobbyplag.eu/">
+		<meta property="og:image" content="http://www.lobbyplag.eu/assets/img/lobbyplag-comparison.jpg">
+		<link href="/assets/fonts/gentium-basic/gentium-book-basic.css" rel="stylesheet" type="text/css">
+		<link href="/assets/fonts/source-code-pro/source-code-pro.css" rel="stylesheet" type="text/css">
+		<link href="/assets/fonts/source-sans-pro/source-sans-pro.css" rel="stylesheet" type="text/css">
+		<link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+		<link href="/assets/css/common.css" rel="stylesheet" type="text/css">
+		<link href="/assets/css/crowd.css" rel="stylesheet" type="text/css">
+		<script src="/assets/js/jquery-1.9.1.min.js" type="text/javascript"></script>
+		<script src="/assets/js/bootstrap.min.js" type="text/javascript"></script>
+		<script src="/assets/js/crowd.js" type="text/javascript"></script>
+	</head>
+	<body>
+		{{> header}}
+		<div id="main-container">
+			<div id="main" role="main">
+				{{#check}}
+					<h1>Crowdcheck</h1>
+					<p class="lead">You can help us finding more plags.</p>
+					<p>
+						We are automatically comparing EU Committee Amendments and Lobby Proposals for similarities, so we can find
+						out which Lobby Organisations had influence on the legislative process. However, we don't rely on software 
+						alone and want you to help us with our conclusion. Here is a random comparison which is likely to contain 
+						similarities. 
+					</p>
+					<form action="submit" method="post">
+						<input type="hidden" name="plag-uid" value="{{uid}}" />
+						{{#diffs}}
+						<div class="row">
+							<div class="span6">
+								<div class="diff-container">
+									<div class="diff">
+										{{{amendment}}}
+									</div>
+								</div>
+							</div>
+							<div class="span6">
+								<div class="diff-container">
+									<div class="diff">
+										{{{proposal}}}
+									</div>
+								</div>
+							</div>
+						</div>
+						{{/diffs}}
+						<div>
+							<p>
+								Are the highlighted parts of there texts completely or partially equal or very similar?
+							</p>
+							<input type="submit" id="submit-yes" name="submit-yes" class="btn btn-large btn-success" value="Yes" />
+							<input type="submit" id="submit-no" name="submit-no" class="btn btn-large btn-danger" value="No" />
+							<input type="submit" id="submit-unclear" name="submit-unclear" class="btn btn-large btn-default" value="I'm not sure" />
+						</div>
+					</form>
+				{{/check}}
+			</div>
+		</div>
+		{{> footer}}
+	</body>
+</html>
