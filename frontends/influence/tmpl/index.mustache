@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>LobbyPlag ➔ Influence</title>
+		<meta charset="utf-8" />
+		<!--[if lt IE 9]><script src="/assets/js/html5shiv.min.js" type="text/javascript"></script><![endif]-->
+		<meta property="og:title" content="LobbyPlag: You pass the laws – we have the footprints">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="http://www.lobbyplag.eu/">
+		<meta property="og:image" content="http://www.lobbyplag.eu/assets/img/lobbyplag-comparison.jpg">
+		<link href="/assets/fonts/gentium-basic/gentium-book-basic.css" rel="stylesheet" type="text/css">
+		<link href="/assets/fonts/source-code-pro/source-code-pro.css" rel="stylesheet" type="text/css">
+		<link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+		<link href="/assets/css/common.css" rel="stylesheet" type="text/css">
+		<link href="/assets/css/influence.css" rel="stylesheet" type="text/css">
+		<script src="/assets/js/jquery-1.9.1.min.js" type="text/javascript"></script>
+		<script src="/assets/js/bootstrap.min.js" type="text/javascript"></script>
+		<script src="/assets/js/influence.js" type="text/javascript"></script>
+		
+	</head>
+	<body>
+		{{>header}}
+		<div id="main-container">
+			<div id="main" role="main">
+				<!--
+				<section>
+					<article>
+						<h1>Influence</h1>
+						<p class="lead">
+							Blafasel
+						</p>
+					</article>
+				</section>
+				-->
+				{{#plag}}
+				<section>
+					<article>
+						{{#data}}
+						<h1>Comparison</h1>
+						<div class="display-box">
+							<a href="/browse/{{location}}">{{location_title}}</a>
+						</div>
+						<table class="table">
+							<thead>
+								<tr>
+									<th>Lobby Proposal</th>
+									<th>Committee Amendment</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									{{#proposal}}
+									<td>
+										<div class="diff-container">
+											<div class="diff-buttons btn-group">
+												<a href="javascript:;" class="btn btn-mini btn-inverse button-old">Regulation Draft</a>
+												<a href="javascript:;" class="btn btn-mini btn-primary button-all">Differences</a>
+												<a href="javascript:;" class="btn btn-mini btn-inverse button-new">Changed Version</a>
+											</div>
+											<div class="diff">
+												{{{diff}}}
+											</div>
+										</div>
+									</td>
+									{{/proposal}}
+									{{#amendment}}
+									<td>
+										<div class="diff-container">
+											<div class="diff-buttons btn-group">
+												<a href="javascript:;" class="btn btn-mini btn-inverse button-old">Regulation Draft</a>
+												<a href="javascript:;" class="btn btn-mini btn-primary button-all">Differences</a>
+												<a href="javascript:;" class="btn btn-mini btn-inverse button-new">Changed Version</a>
+											</div>
+											{{#text}}
+											<div class="diff">
+												{{{diff}}}
+											</div>
+											{{/text}}
+										</div>
+									</td>
+									{{/amendment}}
+								</tr>
+								<tr>
+									{{#proposal}}
+									{{#document}}
+									<td>
+										<div class="display-box">
+											{{#lobbyist_data}}
+											<a class="lobbyist" href="{{url}}">{{title}}</a>
+											{{/lobbyist_data}}
+											<a href="{{document_url}}{{filename}}#page={{page}}" class="badge badge-info" title="Download">Source</a>
+											<span class="badge badge-info">Page {{page}}</span>
+										</div>
+									</td>
+									{{/document}}
+									{{/proposal}}
+									{{#amendment}}
+									<td>
+										<div class="display-box">
+											<strong class="upper">{{committee}}</strong> #{{number}}
+										</div>
+										{{#author_data}}
+											<div class="display-box">
+												{{author_name}}
+												<span class="label label-warning upper" title="{{country_title}}">{{country}}</span>
+												<span class="label label-info" title="{{group_title_long}}">{{group_title}}</span>
+												{{#lqdn}}<a href="{{lqdn}}" class="label label-info"><abbr title="Le Quadrature du Net Political Memory">LQDN</abbr></a>{{/lqdn}}
+												{{#agw}}<a href="{{agw}}" class="label label-info"><abbr title="Abgeordnetenwatch">AGW</abbr></a>{{/agw}}
+											</div>
+										{{/author_data}}
+									</td>
+									{{/amendment}}
+								</tr>
+							</tbody>
+						</table>
+						{{/data}}
+					</article>
+				</section>
+				{{/plag}}
+				{{#list}}
+				<section>
+					<article>
+						<h2>Comparison of Amendments ans Lobby Proposals</h2>
+						<table class="table">
+							<thead>
+								<tr>
+									<th>Location</th>
+									<th>Amendments</th>
+									<th>Authors</th>
+									<th>Lobby Proposals</th>
+									<th></th>
+								</tr>
+							</thead>
+							<tbody>
+								{{#plags}}
+								<tr>
+									{{#data}}
+									{{#proposal}}
+									<td>
+										<div class="display-box">
+											<a href="/browse/{{location}}">{{location_title}}</a>
+										</div>
+									</td>
+									{{/proposal}}
+									{{#amendment}}
+										<td>
+											<div class="display-box">
+												<strong class="upper">{{committee}}</strong> #{{number}}
+											</div>
+										</td>
+										<td>
+											{{#author_data}}
+												<div class="display-box">
+													{{author_name}}
+													<span class="label label-warning upper" title="{{country_title}}">{{country}}</span>
+													<span class="label label-info" title="{{group_title_long}}">{{group_title}}</span>
+													<!--
+													{{#lqdn}}<a href="{{lqdn}}" class="label label-info"><abbr title="Le Quadrature du Net Political Memory">LQDN</abbr></a>{{/lqdn}}
+													{{#agw}}<a href="{{agw}}" class="label label-info"><abbr title="Abgeordnetenwatch">AGW</abbr></a>{{/agw}}
+													-->
+												</div>
+											{{/author_data}}
+										</td>
+									{{/amendment}}
+									{{#proposal}}
+									<td>
+										<div class="display-box">
+											{{lobbyist_title}} <span class="label">Page {{page}}</span>
+										</div>
+									</td>
+									<td>
+										<div class="btn-group btn-group-vertical">
+											<a href="/browse/{{location}}" class="btn btn-small btn-default"><i class="icon-search"></i> Browse</a>
+											<a href="{{baseurl}}/plag/{{plag_uid}}" class="btn btn-small btn-default"><i class="icon-random"></i> Compare</a>
+											{{#document}}
+											<a href="{{document_url}}{{filename}}#page={{page}}" style="white-space: nowrap;" class="btn btn-default btn-small" title="Download this Document"><i class="icon-download"></i> Download</a>
+											{{/document}}
+										</div>
+									</td>
+									{{/proposal}}
+									{{/data}}
+								</tr>
+								{{/plags}}
+							</tbody>
+						</table>
+					</article>
+				</section>
+				{{/list}}
+			</div>
+		</div>
+		{{>footer}}
+	</body>
+</html>
