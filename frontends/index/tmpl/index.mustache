@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>LobbyPlag</title>
+		<meta charset="utf-8" />
+		<!--[if lt IE 9]><script src="/assets/js/html5shiv.min.js" type="text/javascript"></script><![endif]-->
+		<meta property="og:title" content="LobbyPlag: You pass the laws – we have the footprints">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="http://www.lobbyplag.eu/">
+		<meta property="og:image" content="http://www.lobbyplag.eu/assets/img/lobbyplag-comparison.jpg">
+		<link href="/assets/fonts/gentium-basic/gentium-book-basic.css" rel="stylesheet" type="text/css">
+		<link href="/assets/fonts/source-code-pro/source-code-pro.css" rel="stylesheet" type="text/css">
+		<link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+		<link href="/assets/css/common.css" rel="stylesheet" type="text/css">
+		<link href="/assets/css/index.css" rel="stylesheet" type="text/css">
+		<script src="/assets/js/jquery-1.9.1.min.js" type="text/javascript"></script>
+		<script src="/assets/js/bootstrap.min.js" type="text/javascript"></script>
+		<script src="/assets/js/index.js" type="text/javascript"></script>
+		
+	</head>
+	<body>
+		{{>header}}
+		<nav id="subnav" class="navbar navbar-inverse">
+			<ul class="nav pull-right">
+				<li{{#active_welcome}} class="active"{{/active_welcome}}><a href="/">Welcome</a></li>
+				<li{{#active_sources}} class="active"{{/active_sources}}><a href="/sources">Data Sources</a></li>
+				<!-- li{{#active_get_involved}} class="active"{{/active_get_involved}}><a href="/get-involved">Get involved!</a></li -->
+				<li{{#active_support_us}} class="active"{{/active_support_us}}><a href="/support-us">Support us</a></li>
+			</ul>
+		</nav>
+		<div id="main-container">
+			<div id="main" role="main">
+				{{#welcome}}
+				<section id="sec-welcome">
+					<article>
+						<h1>Transparency for the EU</h1>
+						<p class="lead">
+							Currently the European Parliament is about to adopt a new <em>General Data Protection Regulation</em> (<abbr title="General Data Protection Regulation">GDPR</abbr>).
+							Over 3000 amendments were submitted in the comittees involved with the regulation, hundreds of pages in proposals by lobby organisations had their impact on this highly volatile process. 
+							LobbyPlag aims to make this whole process transparent and comprehensible. You can compare the lobbyists requests and the committee members proposals and learn which impact the changes would have on the protection of your data.
+						</p>
+					</article>
+					<div class="row">
+						<div class="span-10">
+							<article>
+								<h2>Where to look?</h2>
+								<ul>
+									<li>Compare committee proposals and lobby demands with <a href="/browse">LobbyPlag influence</a></li>
+									<li>Search in lobby proposals and EU Committee amendments with <a href="/reseach">LobbyPlag research</a></li>
+									<li>Examine the regulation draft with <a href="/browse">LobbyPlag browse</a></li>
+									<li>Take a look at the lobby papers on <a href="/browse">LobbyPlag docs</a></li>
+								</ul>
+							</article>
+						</div>
+						<div class="span-2">
+							<article>
+								<p>
+									<a href="http://www.grimme-institut.de/html/index.php?id=1666#c10792" title="Grimme Online Award Nominees: Richard Gutjahr für Persönliche Leistung (German)"><img src="/assets/img/grimme.png" alt="Grimme Online Award: Irgendwie so ein bisschen mit-nominiert 2013" title="Grimme Online Award: Irgendwie so ein bisschen mit-nominiert 2013" /></a>
+								</p>
+							</article>
+						</div>
+					</div>
+				</section>
+				{{/welcome}}
+				{{#sources}}
+				<section id="sec-sources">
+					<h2>Sources</h2>
+					<article>
+						<h3>Open Data</h3>
+						<p>
+							All Data compiled by LobbyPlag <a href="https://github.com/lobbyplag/lobbyplag-data">is available via Github</a>.
+						</p>
+					</article>
+					<article>
+						<h3>Original Research</h3>
+						<p>
+							The original research on lobby influence in EU Committees was conducted by <a href="http://www.europe-v-facebook.org/" rel="follow">Europe versus Facebook</a>.
+						</p>
+					</article>
+					<article>
+						<h3>Lobby proposals</h3>
+						<p>
+							The lobby papers were provided by
+						</p>
+						<ul>
+							<li><a href="http://www.laquadrature.net/" rel="follow">Le Quadrature du Net</a>: <a href="http://www.laquadrature.net/wiki/Lobbies_on_dataprotection">Lobbies on dataprotection</a></li>
+							<li><a href="https://dataskydd.net/" rel="follow">Dataskyddsförordningen</a>: <a href="https://dataskydd.net/lobbydokument-i-parlamentet-om-dataskydd/">Lobbydokument i parlamentet om dataskydd</a></li>
+							<li>Anonymous donations.</li>
+						</ul>
+						<p>
+							Information compiled from these documents is available for <a href="data/2012-0011-cod.lobby.json">Download in <abbr title="JavaScript Object Notation">JSON</abbr> format</a>.
+						</p>
+					</article>
+					<article>
+						<h3>Amendments dossier</h3>
+						<p>
+							The amendments dossier with changes proposed by committee members was provided by
+						</p>
+						<ul>
+							<li><a href="http://parltrack.euwiki.org/">Parltrack</a>: <a href="http://parltrack.euwiki.org/dossier/2012/0011%28COD%29">2012/0011(COD) Amendments	Dossier</a></li>
+						</ul>
+						<p>
+							Information compiled from this source is available for <a href="data/2012-0011-cod.amendments.json">Download in <abbr title="JavaScript Object Notation">JSON</abbr> format</a>.
+						</p>
+					</article>
+					<article>
+						<h3>Directive</h3>
+						<p>
+							The <abbr title="General Data Protection Regulation">GDPR</abbr> directive was imported from <a href="http://eur-lex.europa.eu/">EUR-Lex</a> with <a href="https://github.com/lobbyplag/eurlex-js">eurlex.js</a>.
+						</p>
+					</article>
+					<article>
+						<h3>Acknowledgement</h3>
+						<p>
+							LobbyPlag is made by <a href="http://www.opendatacity.de/">OpenDataCity</a>
+						</p>
+						<p>
+							Project Coordination: <strong>Marco Maas</strong> <a class="badge badge-info" href="https://twitter.com/themaastrix">@themaastrix</a>
+						</p>
+						<p>
+							Engine Room: <strong>Sebastian Vollnhals</strong> <a class="badge badge-info" href="https://twitter.com/yetzt">@yetzt</a>
+						</p>
+						<p>
+							Helping Hands: <strong>Lorenz Matzat</strong> <a class="badge badge-info" href="https://twitter.com/lorz">@lorz</a> and <strong>Martin Virtel</strong> <a class="badge badge-info" href="https://twitter.com/mvtango">@mvtango</a>
+						</p>
+						<p>
+							With tons of counsel by <strong>Richard Gutjahr</strong> <a class="badge badge-info" href="https://twitter.com/gutjahr">@gutjahr</a> and <strong>Max Schrems</strong> <a class="badge badge-info" href="https://twitter.com/europevfacebook">@europevfacebook</a>
+						</p>
+					</article>
+					<article>
+						<h3>Why the name LobbyPlag?</h3>
+						<p>The name derives from the German websites <a href="http://de.guttenplag.wikia.com/wiki/GuttenPlag_Wiki">GuttenPlag-Wiki</a> and <a href="http://de.vroniplag.wikia.com/wiki/Home">VroniPlag-Wiki</a> - sites that were created by volunteers who analysed the dissertations of politicians and showed their degree of deception.</p>
+					</article>
+				</section>
+				{{/sources}}
+				{{#get_involved}}
+				<section id="sec-get-involved">
+					
+				</section>
+				{{/get_involved}}
+				{{#support_us}}
+				<section id="sec-support-us">
+					<article>
+						<h1>Support us!</h1>
+						<p class="lead">
+							LobbyPlag is independent and we need to keep it that way. You can help us with your donation:
+						</p>
+						<div class="row">
+							<div class="span4 donation-box">
+								<h3>Flattr</h3>
+								<p>
+									<a href="http://flattr.com/thing/1177087/Lobbyplag"><img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" /></a>
+								</p>
+							</div>
+							<div class="span4 donation-box">
+								<h3>Bitcoin</h3>
+								<p>
+									<code>1BqcBucdcmknTPdYXwAnQYJ5SScYfLgznp</code>
+								</p>
+							</div>
+							<div class="span4 donation-box">
+								<h3>PayPal</h3>
+								<p>
+									<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=MJ7QP9LNUDBD4" class="btn btn-mini btn-primary">Donate with PayPal</a>
+								</p>
+							</div>
+						</div>
+					</article>
+					<article id="hall-of-fame" class="hall-of-fame">
+						<h2>Hall of Fame</h2>
+						<p>
+							We received 7929 EUR in donations with <a href="https://krautreporter.de/lobbyplag">our crowdfunding campaign</a>.
+							We say thanks to all our supporters, especially: 
+						</p>
+						<ul class="clearfix">
+							<li><span class="label label-success">1000 EUR</span> nugg.ad AG</li>
+							<li><span class="label label-success">75 EUR</span> Thomas von Sarnowski</li>
+							<li><span class="label label-success">60 EUR</span> Matthias Helfrich</li>
+							<li><span class="label label-success">50 EUR</span> Alexander Svensson</li>
+							<li><span class="label label-success">50 EUR</span> Andreas Schumann</li>
+							<li><span class="label label-success">50 EUR</span> Arne Neumann</li>
+							<li><span class="label label-success">50 EUR</span> Bernhard Lermann</li>
+							<li><span class="label label-success">50 EUR</span> Christian Wehrmann</li>
+							<li><span class="label label-success">50 EUR</span> Daniel Brinkers</li>
+							<li><span class="label label-success">50 EUR</span> Daniel Schultz</li>
+							<li><span class="label label-success">50 EUR</span> Edlef Stabenau</li>
+							<li><span class="label label-success">50 EUR</span> Fabian</li>
+							<li><span class="label label-success">50 EUR</span> Florian Schwinn</li>
+							<li><span class="label label-success">50 EUR</span> Friedrich Lehmkühler</li>
+							<li><span class="label label-success">50 EUR</span> Georg Konjovic</li>
+							<li><span class="label label-success">50 EUR</span> Gerhard May</li>
+							<li><span class="label label-success">50 EUR</span> Heiko</li>
+							<li><span class="label label-success">50 EUR</span> Helmut Fuchs</li>
+							<li><span class="label label-success">50 EUR</span> Holger Richter</li>
+							<li><span class="label label-success">50 EUR</span> Joachim Kessel</li>
+							<li><span class="label label-success">50 EUR</span> Jonas Fiege</li>
+							<li><span class="label label-success">50 EUR</span> Lennart Huizing</li>
+							<li><span class="label label-success">50 EUR</span> Martin Theisen</li>
+							<li><span class="label label-success">50 EUR</span> Martin Wind</li>
+							<li><span class="label label-success">50 EUR</span> Peter Knaub</li>
+							<li><span class="label label-success">50 EUR</span> Philipp Wanning</li>
+							<li><span class="label label-success">50 EUR</span> Siegfried Hirsch</li>
+							<li><span class="label label-success">50 EUR</span> Sylke Gruhnwald</li>
+							<li><span class="label label-success">50 EUR</span> Thomas</li>
+							<li><span class="label label-success">50 EUR</span> Udo Gesinger</li>
+							<li><span class="label label-success">50 EUR</span> Zoller</li>
+						</ul>
+						<p><small>If you have donated more than 50 EUR (or 0.5 BTC) and want to appear in our hall of fame, <a href="mailto:hall-of-fame@lobbyplag.eu">drop us a note</a>.</small></p>
+					</article>
+				</section>
+				{{/support_us}}
+			</div>
+		</div>
+		{{>footer}}
+	</body>
+</html>
