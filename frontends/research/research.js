@@ -13,18 +13,22 @@ var plaque = require(path.resolve(__dirname, "lib/plaque"));
 var config = require(path.resolve(__dirname, 'config.js'));
 
 /* get templates */
-var tmpl_index = fs.readFileSync(__dirname+"/tmpl/index.mustache").toString();
-var tmpl_result = fs.readFileSync(__dirname+"/tmpl/result.mustache").toString();
+var tmpl = {
+	index: fs.readFileSync(__dirname+"/tmpl/index.mustache").toString(),
+	result: fs.readFileSync(__dirname+"/tmpl/result.mustache").toString(),
+	header: fs.readFileSync(__dirname+"/../assets/tmpl/header.mustache").toString(),
+	footer: fs.readFileSync(__dirname+"/../assets/tmpl/footer.mustache").toString()
+};
 
 var index_parse = function(data, q) {
-
-	console.log(q);
-
-	return mustache.render(tmpl_index, {
-		"content": mustache.render(tmpl_result, data),
+	return mustache.render(tmpl.index, {
+		"active_research": true,
+		"content": mustache.render(tmpl.result, data),
 		"q": q
+	},{
+		"header": tmpl.header,
+		"footer": tmpl.footer
 	});
-	
 };
 
 var app = express();
@@ -33,7 +37,7 @@ app.use("/assets", express.static(path.resolve(__dirname, '../assets')));
 
 app.get('/search', function(req, res){
 
-	res.setHeader('Content-Type', 'text-html; charset=utf-8');
+	res.setHeader('Content-Type', 'text/html; charset=utf-8');
 	res.setHeader('Expires', 'Mon, 26 Jul 1997 05:00:00 GMT');
 	res.setHeader('Cache-Control', 'no-cache, must-revalidate');
 
@@ -126,6 +130,17 @@ app.get('/api', function(req, res){
 	
 	res.end();
 
+});
+
+app.get('/', function(req, res){
+	res.setHeader('Content-Type', 'text/html; charset=utf-8');
+	res.send(mustache.render(tmpl.index, {
+		"active_research": true,
+	},{
+		"header": tmpl.header,
+		"footer": tmpl.footer
+	}));
+	res.end();
 });
 
 app.get('*', function(req, res){
