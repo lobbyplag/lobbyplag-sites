@@ -38,7 +38,7 @@
 						{{#data}}
 						<h1>Comparison</h1>
 						<div class="display-box">
-							<a href="/browse/{{location}}">{{location_title}}</a>
+							<a href="/browse/show/{{location}}">{{location_title}}</a>
 						</div>
 						<table class="table">
 							<thead>
@@ -138,7 +138,7 @@
 									{{#proposal}}
 									<td>
 										<div class="display-box">
-											<a href="/browse/{{location}}">{{location_title}}</a>
+											<a href="/browse/show/{{location}}">{{location_title}}</a>
 										</div>
 									</td>
 									{{/proposal}}
@@ -170,7 +170,7 @@
 									</td>
 									<td>
 										<div class="btn-group btn-group-vertical">
-											<a href="/browse/{{location}}" class="btn btn-small btn-default"><i class="icon-search"></i> Browse</a>
+											<a href="/browse/show/{{location}}" class="btn btn-small btn-default"><i class="icon-search"></i> Browse</a>
 											<a href="{{baseurl}}/plag/{{plag_uid}}" class="btn btn-small btn-default"><i class="icon-random"></i> Compare</a>
 											{{#document}}
 											<a href="{{document_url}}{{filename}}#page={{page}}" style="white-space: nowrap;" class="btn btn-default btn-small" title="Download this Document"><i class="icon-download"></i> Download</a>
