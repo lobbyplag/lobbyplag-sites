@@ -18,7 +18,9 @@ var tmpl = {
 	directive: fs.readFileSync(__dirname+"/tmpl/directive.mustache").toString(),
 	mep: fs.readFileSync(__dirname+"/tmpl/mep.mustache").toString(),
 	indicator: fs.readFileSync(__dirname+"/tmpl/indicator.mustache").toString(),
-	list: fs.readFileSync(__dirname+"/tmpl/list.mustache").toString()
+	list: fs.readFileSync(__dirname+"/tmpl/list.mustache").toString(),
+	header: fs.readFileSync(__dirname+"/../assets/tmpl/header.mustache").toString(),
+	footer: fs.readFileSync(__dirname+"/../assets/tmpl/footer.mustache").toString(),
 }
 
 var data = JSON.parse(fs.readFileSync(__dirname+"/data/compiled.json").toString());
@@ -37,17 +39,21 @@ app.configure(function(){
 
 /* show listing */
 app.get('/', function(req, res){
-	res.setHeader('Content-Type', 'text-html; charset=utf-8');
-	res.send(mustache.render(tmpl.index, {},{
+	res.setHeader('Content-Type', 'text/html; charset=utf-8');
+	res.send(mustache.render(tmpl.index, {
+		"active_browse": true
+	},{
 		"main": tmpl.list,
-		"indicator": tmpl.indicator
+		"indicator": tmpl.indicator,
+		"header": tmpl.header,
+		"footer": tmpl.footer
 	}));
 	res.end();
 });
 
 /* display directive */
 app.get('/show/:directive', function(req, res){	
-	res.setHeader('Content-Type', 'text-html; charset=utf-8');
+	res.setHeader('Content-Type', 'text/html; charset=utf-8');
 	
 	if (!(req.params.directive in data)) {
 		res.redirect(301, '/');
@@ -56,11 +62,14 @@ app.get('/show/:directive', function(req, res){
 	}
 	
 	res.send(mustache.render(tmpl.index, {
+		"active_browse": true,
 		"directive": data[req.params.directive]
 	},{
 		"main": tmpl.directive,
 		"indicator": tmpl.indicator,
-		"mep": tmpl.mep
+		"mep": tmpl.mep,
+		"header": tmpl.header,
+		"footer": tmpl.footer
 	}));
 	res.end();
 });
