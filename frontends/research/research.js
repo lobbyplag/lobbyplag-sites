@@ -132,7 +132,7 @@ app.get(config.prefix+'/api', function(req, res){
 
 });
 
-app.get(config.prefix+'/', function(req, res){
+app.get(config.prefix, function(req, res){
 	res.setHeader('Content-Type', 'text/html; charset=utf-8');
 	res.send(mustache.render(tmpl.index, {
 		"active_research": true,

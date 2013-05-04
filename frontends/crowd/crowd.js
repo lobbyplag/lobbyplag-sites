@@ -73,7 +73,7 @@ app.configure(function(){
 });
 
 /* get random plag */
-app.get(config.prefix+'/', function(req, res){
+app.get(config.prefix, function(req, res){
 	res.setHeader('Content-Type', 'text/html; charset=utf-8');
 	res.send(mustache.render(tmpl.index, {
 		"check": get_plag()
