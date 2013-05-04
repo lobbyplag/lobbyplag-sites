@@ -12,7 +12,7 @@ $(document).ready(function(){
 		return false;
 	});
 	
-	$.get('assets/tmpl/result.mustache', function(data){
+	$.get('/assets/tmpl/result.mustache', function(data){
 		tmpl['result'] = data;
 	},'html');
 	
@@ -30,7 +30,7 @@ $(window).resize(function(){
 });
 
 var perform_search = function(data) {
-	$.getJSON('http://research.lobbyplag.eu/api', data, function(result){
+	$.getJSON('http://lobbyplag.eu/research/api', data, function(result){
 		console.log(result);
 		$('#main').html(Mustache.render(tmpl.result, result));
 		apply_buttons();
