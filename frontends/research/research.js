@@ -35,7 +35,7 @@ var app = express();
 
 app.use("/assets", express.static(path.resolve(__dirname, '../assets')));
 
-app.get('/search', function(req, res){
+app.get(config.prefix+'/search', function(req, res){
 
 	res.setHeader('Content-Type', 'text/html; charset=utf-8');
 	res.setHeader('Expires', 'Mon, 26 Jul 1997 05:00:00 GMT');
@@ -84,7 +84,7 @@ app.get('/search', function(req, res){
 	
 });
 
-app.get('/api', function(req, res){
+app.get(config.prefix+'/api', function(req, res){
 
 	res.setHeader('Content-Type', 'application/json; charset=utf-8');
 	res.setHeader('Expires', 'Mon, 26 Jul 1997 05:00:00 GMT');
@@ -132,7 +132,7 @@ app.get('/api', function(req, res){
 
 });
 
-app.get('/', function(req, res){
+app.get(config.prefix+'/', function(req, res){
 	res.setHeader('Content-Type', 'text/html; charset=utf-8');
 	res.send(mustache.render(tmpl.index, {
 		"active_research": true,

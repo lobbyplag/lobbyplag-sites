@@ -73,7 +73,7 @@ app.configure(function(){
 });
 
 /* get random plag */
-app.get('/', function(req, res){
+app.get(config.prefix+'/', function(req, res){
 	res.setHeader('Content-Type', 'text/html; charset=utf-8');
 	res.send(mustache.render(tmpl.index, {
 		"check": get_plag()
@@ -85,12 +85,12 @@ app.get('/', function(req, res){
 });
 
 /* get random plag */
-app.get('/submit', function(req, res){
+app.get(config.prefix+'/submit', function(req, res){
 	res.redirect(config.baseurl+'/');
 	res.end();
 });
 
-app.post('/submit', function(req, res){
+app.post(config.prefix+'/submit', function(req, res){
 //	console.log(req.body);
 	if (req.body['plag-uid'] in _plag_index) {
 		var _plag_idx = _plag_index[req.body['plag-uid']];
@@ -109,7 +109,7 @@ app.post('/submit', function(req, res){
 });
 
 /* get random plag */
-app.get('/test', function(req, res){
+app.get(config.prefix+'/test', function(req, res){
 	res.setHeader('Content-Type', 'text/plain; charset=utf-8');
 	res.send(JSON.stringify(get_plag(),null,'\t'));
 	res.end();

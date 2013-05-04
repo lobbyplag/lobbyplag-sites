@@ -38,7 +38,7 @@ app.configure(function(){
 });
 
 /* show listing */
-app.get('/', function(req, res){
+app.get(config.prefix+'/', function(req, res){
 	res.setHeader('Content-Type', 'text/html; charset=utf-8');
 	res.send(mustache.render(tmpl.index, {
 		"active_browse": true
@@ -52,7 +52,7 @@ app.get('/', function(req, res){
 });
 
 /* display directive */
-app.get('/show/:directive', function(req, res){	
+app.get(config.prefix+'/show/:directive', function(req, res){	
 	res.setHeader('Content-Type', 'text/html; charset=utf-8');
 	
 	if (!(req.params.directive in data)) {
