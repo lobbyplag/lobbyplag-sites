@@ -83,10 +83,11 @@ initAmendments();
 /* get classified */
 var classified = [];
 var classified_by_ids = {};
+var classify_filename = path.resolve(__dirname, config.datadir, "classified.json");
 
 if (fs.exists(function (exists) {
 	if (exists) {
-		classified = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, "classified.json")).toString());
+		classified = JSON.parse(fs.readFileSync(classify_filename).toString());
 		classified.forEach(function (_classi) {
 			classified_by_ids[_classi.uid] = _classi;
 		});
