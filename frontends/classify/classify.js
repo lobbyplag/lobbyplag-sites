@@ -118,8 +118,7 @@ var app = express();
 app.configure(function () {
 	app.use("/assets", express.static(path.resolve(__dirname, '../assets')));
 	app.use(express.favicon(__dirname + '../assets/img/favicon.ico'));
-	app.use(express.compress());
-	app.use(express.logger('dev'));
+//	app.use(express.logger('dev'));
 	app.use(express.bodyParser());
 });
 
