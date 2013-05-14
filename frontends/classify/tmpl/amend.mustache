@@ -1,0 +1,9 @@
+{{#amend}}
+	<h2>Amendment <strong class="upper">{{committee}}</strong> #{{number}}</h2>
+	<div class="diff">{{{diff}}}</div>
+	<br/>
+	<div class="authors clearfix">{{#authors}}{{>mep}}{{/authors}}</div>
+	<br/>
+	Directive<br/>
+	{{#laws}}{{>law}}{{/laws}}
+{{/amend}}

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>LobbyPlag ➔ Classify</title>
+	<meta charset="utf-8"/>
+	<!--[if lt IE 9]>
+	<script src="/assets/js/html5shiv.min.js" type="text/javascript"></script><![endif]-->
+	<meta property="og:title" content="LobbyPlag: Classify">
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="http://classify.lobbyplag.eu">
+	<meta property="og:image" content="http://www.lobbyplag.eu/assets/img/lobbyplag-comparison.jpg">
+	<link rel="shortcut icon" href="/assets/img/favicon.ico?v=1"/>
+	<link href="/assets/fonts/gentium-basic/gentium-book-basic.css" rel="stylesheet" type="text/css">
+	<link href="/assets/fonts/source-code-pro/source-code-pro.css" rel="stylesheet" type="text/css">
+	<link href="/assets/fonts/source-sans-pro/source-sans-pro.css" rel="stylesheet" type="text/css">
+	<link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+	<link href="/assets/css/common.css" rel="stylesheet" type="text/css">
+	<link href="/assets/css/classify.css" rel="stylesheet" type="text/css">
+	<link href="/assets/js/chosen/chosen.css" rel="stylesheet" type="text/css">
+	<script src="/assets/js/jquery-1.9.1.min.js" type="text/javascript"></script>
+	<script src="/assets/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/assets/js/chosen/chosen.jquery.min.js" type="text/javascript"></script>
+	<script src="/assets/js/classify.js" type="text/javascript"></script>
+</head>
+<body>
+	{{> header}}
+<div id="main-container">
+	<div id="main" role="main">
+		<h1>Classify</h1>
+
+		<div class="row">
+			<div class="span12">
+				<div class="btn-group">
+					<a class="btn" id="btn_prev_unchecked" href="javascript:">&lt; Previous Unchecked</a>
+					<a class="btn" id="btn_prev" href="javascript:">&lt; Previous</a>
+					<a class="btn" id="btn_random" href="javascript:">Random</a>
+					<a class="btn" id="btn_next" href="javascript:">Next &gt;</a>
+					<a class="btn" id="btn_next_unchecked" href="javascript:">Next Unchecked &gt;</a>
+				</div>
+			</div>
+		</div>
+		<br/>
+
+		<div id="amend" class="row">
+			<div class="span6">
+				<div id="amendment" class="well classify-box">
+				</div>
+			</div>
+			<div class="span6">
+				<div class="well classify-box">
+					<form class="form-horizontal" action="{{& urlprefix}}/submit" method="post">
+						<input type="hidden" name="uid" value=""/>
+						<label class="radio">
+							<input type="radio" name="vote" value="good">
+							Good for Data Protection
+						</label>
+						<label class="radio">
+							<input type="radio" name="vote" value="neutral">
+							Neutral/Don't know
+						</label>
+						<label class="radio">
+							<input type="radio" name="vote" value="bad">
+							Bad for Data Protection
+						</label>
+					</form>
+					<label>
+						Tags
+					</label>
+					<select name="tags" data-placeholder="Choose Tags" style="width:100%;" multiple
+							id="tags-select"
+							class="chzn-select">
+						{{#tagcats}}{{>tgc}}{{/tagcats}}
+					</select>
+					<br/> <br/>
+					<a id="btn_submit" class="btn btn-large btn-success" href="javascript:">Save</a>
+					&nbsp
+					<span id="output" class="alert"></span>
+				</div>
+			</div>
+		</div>
+
+	</div>
+</div>
+	{{> footer}}
+</body>
+</html>
