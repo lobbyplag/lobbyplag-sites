@@ -85,7 +85,7 @@ var classified = [];
 var classified_by_ids = {};
 var classify_filename = path.resolve(__dirname, config.datadir, "classified.json");
 
-if (fs.exists(function (exists) {
+if (fs.exists(classify_filename, function (exists) {
 	if (exists) {
 		classified = JSON.parse(fs.readFileSync(classify_filename).toString());
 		classified.forEach(function (_classi) {
