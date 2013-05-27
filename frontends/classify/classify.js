@@ -12,26 +12,22 @@ var config = require(path.resolve(__dirname, './config.js'));
 /* read template */
 var tmpl = {
 	index: fs.readFileSync(path.resolve(__dirname, "tmpl/index.mustache")).toString(),
-	header: fs.readFileSync(path.resolve(__dirname, "../assets/tmpl/header.mustache")).toString(),
-	footer: fs.readFileSync(path.resolve(__dirname, "../assets/tmpl/footer.mustache")).toString(),
-	mep: fs.readFileSync(path.resolve(__dirname, "tmpl/mep.mustache")).toString(),
-	tgc: fs.readFileSync(path.resolve(__dirname, "tmpl/tgc.mustache")).toString(),
-	law: fs.readFileSync(path.resolve(__dirname, "tmpl/law.mustache")).toString(),
-	amend: fs.readFileSync(path.resolve(__dirname, "tmpl/amend.mustache")).toString()
+	tgc: fs.readFileSync(path.resolve(__dirname, "tmpl/tgc.mustache")).toString()
 };
 
-var tagcats = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'legacy/implications.json')));
+var tagcats = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, "categories.json")).toString());
 tagcats.forEach(function (cat) {
 	cat.name = cat.text.en.short;
+	cat.hint = cat.text.en.title;
 	cat.desc = cat.text.en.description;
 });
-tagcats.sort(function (a, b) {
-	if (a.name < b.name)
-		return -1;
-	if (a.name > b.name)
-		return 1;
-	return 0;
-});
+//tagcats.sort(function (a, b) {
+//	if (a.name < b.name)
+//		return -1;
+//	if (a.name > b.name)
+//		return 1;
+//	return 0;
+//});
 
 /* get amendments */
 var amendments = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, "amendments.json")).toString());
@@ -41,6 +37,10 @@ function initAmendments() {
 	var _mep = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'mep.json')));
 	var _mep_groups = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'groups.json')));
 	var _countries = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'countries.json')));
+
+	amendments = amendments.filter(function (amed) {
+		return amed.committee === 'libe';
+	});
 
 	amendments.sort(function (a, b) {
 		if (a.committee === b.committee) {
@@ -82,14 +82,15 @@ initAmendments();
 
 /* get classified */
 var classified = [];
-var classified_by_ids = {};
+var classified_by_users_and_ids = {};
 var classify_filename = path.resolve(__dirname, config.datadir, "classified.json");
 
 if (fs.exists(classify_filename, function (exists) {
 	if (exists) {
 		classified = JSON.parse(fs.readFileSync(classify_filename).toString());
 		classified.forEach(function (_classi) {
-			classified_by_ids[_classi.uid] = _classi;
+			classified_by_users_and_ids[_classi.user] = classified_by_users_and_ids[_classi.user] || {};
+			classified_by_users_and_ids[_classi.user][_classi.uid] = _classi;
 		});
 	}
 }));
@@ -119,20 +120,20 @@ var app = express();
 app.configure(function () {
 	app.use("/assets", express.static(path.resolve(__dirname, '../assets')));
 	app.use(express.favicon(__dirname + '../assets/img/favicon.ico'));
-//	app.use(express.logger('dev'));
+	app.use(express.logger('dev'));
 	app.use(express.bodyParser());
 });
 
-var get_random_unclassified = function () {
+var get_random_unclassified = function (user) {
 	var _unclassified = amendments.filter(function (_amend) {
-		return !classified_by_ids[_amend.uid];
+		return !classified_by_users_and_ids[user][_amend.uid];
 	});
 	if (_unclassified.length === 0) return -2;
 	var _amend = _unclassified[Math.floor(Math.random() * _unclassified.length)];
 	return getIndexOfAmendment(_amend.uid);
 };
 
-var parcelNavig = function (index) {
+var parcelNavig = function (index, user) {
 	var _navig = {};
 	if ((index >= 0) && (index < amendments.length))
 		_navig.id = amendments[index].uid;
@@ -145,7 +146,7 @@ var parcelNavig = function (index) {
 			if (!_navig.prev) {
 				_navig.prev = amendments[i].uid
 			}
-			if (!classified_by_ids[amendments[i].uid]) {
+			if ((classified_by_users_and_ids[user]) && (!classified_by_users_and_ids[user][amendments[i].uid])) {
 				_navig.prev_unchecked = amendments[i].uid;
 				break; //we're done
 			}
@@ -156,7 +157,7 @@ var parcelNavig = function (index) {
 			if (!_navig.next) {
 				_navig.next = amendments[i].uid
 			}
-			if (!classified_by_ids[amendments[i].uid]) {
+			if ((classified_by_users_and_ids[user]) && (!classified_by_users_and_ids[user][amendments[i].uid])) {
 				_navig.next_unchecked = amendments[i].uid;
 				break; //we're done
 			}
@@ -196,7 +197,7 @@ String.prototype.expand = function () {
 	}).replace(/^\|/, '').split(/\|/g).join(" – ");
 };
 
-var sendAmendment = function (res, index) {
+var sendAmendment = function (res, index, user) {
 	var _amend = amendments[index];
 	if (!_amend) {
 		res.json([]);
@@ -212,38 +213,29 @@ var sendAmendment = function (res, index) {
 	});
 
 	var _parcel = {};
-	_parcel.navig = parcelNavig(index);
-	_parcel.html = mustache.render(tmpl.amend, {
-			"amend": {
-				uid: _amend.uid,
-				committee: _amend.committee,
-				number: _amend.number,
-				authors: _amend.authors,
-				diff: _amend.text[0].diff,
-				laws: _laws
-			}
-		},
-		{
-			"mep": tmpl.mep,
-			"law": tmpl.law
-		}
-	);
-	_parcel.classified = classified_by_ids[_amend.uid];
+	_parcel.navig = parcelNavig(index, user);
+	_parcel.amend = _amend;
+	_parcel.user = user;
+	_parcel.laws = _laws;
+	if ((!classified_by_users_and_ids[user]) || (!classified_by_users_and_ids[user][_amend.uid])) {
+		_parcel.classified = {vote: 'fehlt'};
+	} else {
+		_parcel.classified = classified_by_users_and_ids[user][_amend.uid] || {vote: 'fehlt'};
+	}
 	res.json(_parcel);
 };
 
 /* get something to classify */
-app.get(config.prefix + '/amendment/:id', function (req, res) {
+app.get(config.prefix + '/amendment/:id/:user', function (req, res) {
 	var index;
-	if (req.params.id) {
+	if (req.params.id === 'start') {
+		index = 1;
+	} else if (req.params.id) {
 		index = getIndexOfAmendment(req.params.id);
 	}
-	index = index || get_random_unclassified();
-	sendAmendment(res, index);
-});
-
-app.get(config.prefix + '/amendment', function (req, res) {
-	sendAmendment(res, get_random_unclassified());
+	console.log(req.params);
+	index = index || get_random_unclassified(req.params.user);
+	sendAmendment(res, index, req.params.user);
 });
 
 app.get(config.prefix, function (req, res) {
@@ -252,35 +244,40 @@ app.get(config.prefix, function (req, res) {
 		urlprefix: config.prefix,
 		tagcats: tagcats
 	}, {
-		"tgc": tmpl.tgc,
-		"header": tmpl.header,
-		"footer": tmpl.footer
+		"tgc": tmpl.tgc
 	}));
 	res.end();
 });
 
 app.post(config.prefix + '/submit', function (req, res) {
-	res.setHeader('Content-Type', 'text/html; charset=utf-8');
+	console.log(req.body);
 	if ((!req.body.id) || (!amendments_by_ids[req.body.id] )) {
-		res.send('An transmission error occured, please reload the site');
+		res.json({error: 'An transmission error occured, please reload the site'});
 	} else if (!req.body.vote) {
-		res.send('Please choose a classification');
+		res.json({error: 'No classification'});
+	} else if (!req.body.user) {
+		res.json({error: 'Please specify a user'});
 	} else {
-		var _classified = classified_by_ids[req.body.id];
+		classified_by_users_and_ids[req.body.user] = classified_by_users_and_ids[req.body.user] || {};
+		var _classified = classified_by_users_and_ids[req.body.user][req.body.id];
 		if (!_classified) {
-			_classified = {uid: req.body.id};
-			classified_by_ids[req.body.id] = _classified;
+			_classified = {uid: req.body.id, user: req.body.user};
+			classified_by_users_and_ids[req.body.user][req.body.id] = _classified;
 			classified.push(_classified);
 		}
 		_classified.vote = req.body.vote;
-		_classified.tags = [];
-		if (req.body.tags) {
-			_classified.tags = req.body.tags;
+		_classified.topic = req.body.topic;
+		_classified.category = req.body.category;
+		_classified.comment = req.body.comment;
+		var index = getIndexOfAmendment(req.body.id);
+		var navig = parcelNavig(index, req.body.user);
+		if (navig.next) {
+			sendAmendment(res, getIndexOfAmendment(navig.next), req.body.user);
+		} else {
+			res.json({error: 'No more data'});
 		}
-		res.send('\\o/ Saved. Thank you!');
 		save_classified();
 	}
-	res.end();
 });
 
 app.get('*', function (req, res) {

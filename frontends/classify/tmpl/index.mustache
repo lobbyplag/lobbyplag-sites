@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>LobbyPlag ➔ Classify</title>
-	<meta charset="utf-8"/>
 	<!--[if lt IE 9]>
 	<script src="/assets/js/html5shiv.min.js" type="text/javascript"></script><![endif]-->
 	<meta property="og:title" content="LobbyPlag: Classify">
@@ -16,71 +16,101 @@
 	<link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 	<link href="/assets/css/common.css" rel="stylesheet" type="text/css">
 	<link href="/assets/css/classify.css" rel="stylesheet" type="text/css">
-	<link href="/assets/js/chosen/chosen.css" rel="stylesheet" type="text/css">
-	<script src="/assets/js/jquery-1.9.1.min.js" type="text/javascript"></script>
-	<script src="/assets/js/bootstrap.min.js" type="text/javascript"></script>
-	<script src="/assets/js/chosen/chosen.jquery.min.js" type="text/javascript"></script>
-	<script src="/assets/js/classify.js" type="text/javascript"></script>
+	<link href="/assets/js/chosen/chosen-up.css" rel="stylesheet" type="text/css">
 </head>
+
 <body>
-	{{> header}}
-<div id="main-container">
-	<div id="main" role="main">
-		<h1>Classify</h1>
 
-		<div class="row">
-			<div class="span12">
-				<div class="btn-group">
-					<a class="btn" id="btn_prev_unchecked" href="javascript:">&lt; Previous Unchecked</a>
-					<a class="btn" id="btn_prev" href="javascript:">&lt; Previous</a>
-					<a class="btn" id="btn_random" href="javascript:">Random</a>
-					<a class="btn" id="btn_next" href="javascript:">Next &gt;</a>
-					<a class="btn" id="btn_next_unchecked" href="javascript:">Next Unchecked &gt;</a>
-				</div>
-			</div>
-		</div>
-		<br/>
-
-		<div id="amend" class="row">
-			<div class="span6">
-				<div id="amendment" class="well classify-box">
-				</div>
-			</div>
-			<div class="span6">
-				<div class="well classify-box">
-					<form class="form-horizontal" action="{{& urlprefix}}/submit" method="post">
-						<input type="hidden" name="uid" value=""/>
-						<label class="radio">
-							<input type="radio" name="vote" value="good">
-							Good for Data Protection
-						</label>
-						<label class="radio">
-							<input type="radio" name="vote" value="neutral">
-							Neutral/Don't know
-						</label>
-						<label class="radio">
-							<input type="radio" name="vote" value="bad">
-							Bad for Data Protection
-						</label>
-					</form>
-					<label>
-						Tags
-					</label>
-					<select name="tags" data-placeholder="Choose Tags" style="width:100%;" multiple
-							id="tags-select"
-							class="chzn-select">
-						{{#tagcats}}{{>tgc}}{{/tagcats}}
-					</select>
-					<br/> <br/>
-					<a id="btn_submit" class="btn btn-large btn-success" href="javascript:">Save</a>
-					&nbsp
-					<span id="output" class="alert"></span>
-				</div>
-			</div>
-		</div>
-
+<div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-header">
+		<h3 id="myModalLabel">Bitte Kürzel eingeben</h3>
+	</div>
+	<div class="modal-body">
+		<input id="username" />
+	</div>
+	<div class="modal-footer">
+		<button data-dismiss="modal"  class="btn btn-primary">Kürzel verwenden</button>
 	</div>
 </div>
-	{{> footer}}
+
+<div class="container">
+	<div id="header" class="navbar navbar-fixed-top">
+		<div class="navbar-inner">
+			<div class="nav-collapse collapse">
+				<ul class="nav nav-top">
+					<li class="group">
+						<img src="/assets/img/logo.png" class="logo"/>
+					</li>
+					<li class="group span2">
+						<label for="change">Änderung</label>
+						<h4><strong class="upper" id="committee"></strong> #<span id="number"></span></h4>
+					</li>
+					<li class="group span2">
+						<label for="classified">Bewertung</label>
+						<h4 id="classified"></h4>
+					</li>
+					<li class="group span2">
+						<label for="user">Bearbeiter</label>
+						<h4 id="user"></h4>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="middlehead">
+		<h4 id="directive"></h4>
+	</div>
+	<div id="bottom" class="bottom">
+		<div class="left">
+			<span class="fmttext diff" id="oldtext"></span>
+		</div>
+		<div class="right">
+			<span class="fmttext diff" id="newtext"></span>
+		</div>
+	</div>
+	<div class="foot">
+		<div class="row footrow">
+			<div class="pull-left">
+				<a href="#" id="btn_prev" class="btn btn-navig">&lt; Zurück</a>
+			</div>
+			<div class="foottools">
+				<label>Änderung macht den Datenschutz</label>
+				<a href="#" id="btn_stronger" class="btn btn-primary">Stärker</a>
+				<a href="#" id="btn_weaker" class="btn btn-primary">Schwächer</a>
+				<a href="#" id="btn_neutral" class="btn btn-primary">Neutral</a>
+			</div>
+			<div class="pull-right">
+				<a href="#" id="btn_next" class="btn btn-navig">Weiter &gt;</a>
+			</div>
+		</div>
+		<div class="row footrow">
+			<div class="foottools">
+				<div class="span5">
+					<label for="topic">Thema</label>
+					<select data-placeholder="Thema" id="topic" name="topic"
+							class="combobox chzn-drop-up">
+						<option></option>
+						{{#tagcats}}{{>tgc}}{{/tagcats}}
+					</select>
+				</div>
+				<div class="span3">
+					<label for="category">Kategorie</label>
+					<input id="category" value="901"/>
+				</div>
+				<div class="span3">
+					<label for="comment">Kommentar</label>
+					<input id="comment" value="weil und darum"/>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript" src="/assets/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="/assets/js/chosen/chosen-up.jquery.js"></script>
+<script type="text/javascript" src="/assets/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/assets/js/shortcut.js"></script>
+<script type="text/javascript" src="/assets/js/classify.js"></script>
+
 </body>
 </html>

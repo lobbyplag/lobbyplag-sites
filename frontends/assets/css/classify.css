@@ -1,3 +1,195 @@
-.classify-box {
-	min-height: 230px;
+html, body {
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	color: #000;
+	background-color: #fff;
+	font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+html {
+	overflow: hidden;
+}
+
+.group {
+	padding-top: 12px;
+	padding-right: 4px;
+	padding-left: 4px;
+}
+
+.logo {
+	display: inline-block;
+	height: 50px;
+	width: 50px;
+}
+
+.combobox {
+	width: 100%;
+}
+
+.nav-top {
+	margin-left: 20px !important;
+}
+
+.head, .foot, .middle, .bottom, .middlehead {
+	position: absolute;
+	width: 98%;
+	left: 10px;
+}
+
+.btn-navig {
+	margin-top: 8px;
+	margin-left: 8px !important;
+}
+
+.bottom {
+	position: absolute;
+	left: 20px;
+	width: 97%;
+	top: 130px;
+	bottom: 128px;
+}
+
+.foot {
+	height: 128px;
+	bottom: 0;
+	text-align: center;
+}
+
+.middlehead {
+	top: 160px;
+	height: 34px;
+	margin-left: 8px;
+	vertical-align: top;
+}
+
+.middle {
+	top: 108px;
+	height: 50px;
+	margin-left: 8px;
+}
+
+.footrow {
+	margin-left: 0px !important;
+}
+
+.foottools {
+	display: inline-block;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 18px;
+	margin-top: 6px;
+}
+
+.votetools {
+}
+
+.popover {
+	border: 0 !important;
+}
+
+.popover-title {
+	border: 1px solid #C3D3DA;
+}
+
+.popover-content {
+	border: 1px solid #C3D3DA;
+	background-color: white;
+}
+
+.head {
+	height: 70px;
+	padding: 8px;
+	top: 0;
+}
+
+.border {
+	border: 1px solid #C3D3DA;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.fmttext {
+	padding: 8px;
+}
+
+.left {
+	width: 50%;
+	height: 100%;
+	display: inline-block;
+	border: 1px solid #C3D3DA;
+	vertical-align: top;
+	overflow-y: auto;
+}
+
+.right {
+	width: 49%;
+	height: 100%;
+	vertical-align: top;
+	border: 1px solid #C3D3DA;
+	display: inline-block;
+	overflow-y: auto;
+}
+
+.texttools {
+	height: 40px;
+	background-color: #ededed;
+}
+
+.textbuttons {
+	margin-top: 2px !important;
+	margin-right: 2px !important;
+}
+
+.texthead {
+	margin-top: 3px;
+	padding: 4px 8px 8px 8px;
+	float: left;
+}
+
+textarea {
+	padding: 8px 8px 8px 8px;
+	resize: none;
+	width: 100%;
+	min-width: 100%;
+	height: 100%;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.foot button {
+	margin: 8px;
+	float: left;
+}
+
+#status {
+	float: left;
+	margin: 8px;
+	display: none;
+	font-weight: bold;
+}
+
+#langs_chzn, #langs_chzn .chzn-single {
+	height: 26px !important;
+}
+
+#fetch-text {
+	margin-top: 2px;
+}
+
+.combocontainer {
+	margin-top: 2px;
+	float: left;
+	height: 28px !important;
+}
+
+.btn-custom {
+	height: 28px !important;
+	float: left;
+	margin-top: 0;
 }
