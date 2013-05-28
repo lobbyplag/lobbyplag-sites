@@ -143,21 +143,6 @@ html {
 	overflow-y: auto;
 }
 
-.texttools {
-	height: 40px;
-	background-color: #ededed;
-}
-
-.textbuttons {
-	margin-top: 2px !important;
-	margin-right: 2px !important;
-}
-
-.texthead {
-	margin-top: 3px;
-	padding: 4px 8px 8px 8px;
-	float: left;
-}
 
 textarea {
 	padding: 8px 8px 8px 8px;
@@ -175,25 +160,81 @@ textarea {
 	float: left;
 }
 
-#status {
-	float: left;
-	margin: 8px;
-	display: none;
-	font-weight: bold;
+.btn-green {
+	color: #FFFFFF;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+	background-color: #004500;
+	*background-color: #004500;
+	background-image: -moz-linear-gradient(top, #00FF00, #004500);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#00FF00), to(#004500));
+	background-image: -webkit-linear-gradient(top, #00FF00, #004500);
+	background-image: -o-linear-gradient(top, #00FF00, #004500);
+	background-image: linear-gradient(to bottom, #00FF00, #004500);
+	background-repeat: repeat-x;
+	border-color: #004500;
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00FF00', endColorstr='#004500', GradientType=0);
+	filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+}
+.btn-green:hover,
+.btn-green:active,
+.btn-green.active,
+.btn-green.disabled,
+.btn-green[disabled] {
+	color: #FFFFFF;
+	background-color: #004500;
+	*background-color: #003bb3;
 }
 
-#langs_chzn, #langs_chzn .chzn-single {
-	height: 26px !important;
+.btn-red {
+	color: #FFFFFF;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+	background-color: #572424;
+	*background-color: #572424;
+	background-image: -moz-linear-gradient(top, #FF0000, #572424);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#FF0000), to(#572424));
+	background-image: -webkit-linear-gradient(top, #FF0000, #572424);
+	background-image: -o-linear-gradient(top, #FF0000, #572424);
+	background-image: linear-gradient(to bottom, #FF0000, #572424);
+	background-repeat: repeat-x;
+	border-color: #572424;
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF0000', endColorstr='#572424', GradientType=0);
+	filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+}
+.btn-red:hover,
+.btn-red:active,
+.btn-red.active,
+.btn-red.disabled,
+.btn-red[disabled] {
+	color: #FFFFFF;
+	background-color: #572424;
+	*background-color: #003bb3;
 }
 
-.combocontainer {
-	margin-top: 2px;
-	float: left;
-	height: 28px !important;
-}
 
-.btn-custom {
-	height: 28px !important;
-	float: left;
-	margin-top: 0;
+.btn-gray {
+	color: #FFFFFF;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+	background-color: #474747;
+	*background-color: #474747;
+	background-image: -moz-linear-gradient(top, #808080, #474747);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#808080), to(#474747));
+	background-image: -webkit-linear-gradient(top, #808080, #474747);
+	background-image: -o-linear-gradient(top, #808080, #474747);
+	background-image: linear-gradient(to bottom, #808080, #474747);
+	background-repeat: repeat-x;
+	border-color: #474747;
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#808080', endColorstr='#474747', GradientType=0);
+	filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+}
+.btn-gray:hover,
+.btn-gray:active,
+.btn-gray.active,
+.btn-gray.disabled,
+.btn-gray[disabled] {
+	color: #FFFFFF;
+	background-color: #474747;
+	*background-color: #003bb3;
 }

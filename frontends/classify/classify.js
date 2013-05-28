@@ -126,6 +126,7 @@ function initAmendments() {
 		return 1;
 	});
 
+
 	amendments.forEach(function (_amend, idx) {
 		amendments_by_ids[_amend.uid] = _amend;
 		var _authors = [];
@@ -145,6 +146,7 @@ function initAmendments() {
 		_amend.authors = _authors;
 		amendments_index[_amend.uid] = idx + 1//avoid 0;
 	});
+	
 }
 
 initAmendments();
