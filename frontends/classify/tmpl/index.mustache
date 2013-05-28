@@ -81,16 +81,16 @@
 			</div>
 			<div class="span5">
 				<div>
+					<label for="category">Kategorie</label>
+					<input class="clearfix" type="text" data-provide="typeahead" id="category"/>
+				</div>
+				<div>
 					<label for="topic">Thema</label>
 					<select data-placeholder="Thema" id="topic" name="topic"
 							class="combobox chzn-drop-up">
 						<option></option>
 						{{#tagcats}}{{>tgc}}{{/tagcats}}
 					</select>
-				</div>
-				<div>
-					<label for="category">Kategorie</label>
-					<input type="text" id="category"/>
 				</div>
 			</div>
 			<div class="foottools">

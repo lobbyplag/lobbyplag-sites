@@ -51,6 +51,22 @@ var buildAuthors = function (authors) {
 	$('#authors').html(html);
 };
 
+$.fn.typeahead.Constructor.prototype.show =
+	function () {
+		var pos = $.extend({}, this.$element.position(), {
+			height: this.$element[0].offsetHeight
+		})
+		this.$menu
+			.insertAfter(this.$element)
+			.css({
+				top: pos.top - this.$menu.height() - 10, left: pos.left
+			})
+			.show()
+
+		this.shown = true
+		return this;
+	};
+
 var displayAmmendment = function (data) {
 	$('#oldtext').html(data.amend.text[0].old);
 	$('#newtext').html(data.amend.text[0].diff);
@@ -70,6 +86,9 @@ var displayAmmendment = function (data) {
 	$('#saveindicator').hide();
 	navig = data.navig || {};
 	buildAuthors(data.amend.authors);
+	if (data.cats) {
+		$('#category').typeahead({source: data.cats, items: 10});
+	}
 	$('#btn_next').toggleClass('disabled', (!navig.next));
 	$('#btn_prev').toggleClass('disabled', (!navig.prev));
 	$('#btn_next_unchecked').toggleClass('disabled', (!navig.next_unchecked));
@@ -225,8 +244,7 @@ $(document).ready(function () {
 	$('#category').keydown(showChanged);
 	$('#topic').change(showChanged);
 
-
-	$('#totallysecret').click(function() {
+	$('#totallysecret').click(function () {
 		$('#authors').toggle();
 	});
 

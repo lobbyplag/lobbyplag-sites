@@ -143,6 +143,13 @@ html {
 	overflow-y: auto;
 }
 
+.typeahead {
+	text-align: left;
+	font-style: normal;
+	font-size: 12px;
+	font-weight: normal;
+}
+
 textarea {
 	padding: 8px 8px 8px 8px;
 	resize: none;

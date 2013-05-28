@@ -99,6 +99,14 @@ tagcats.forEach(function (cat) {
 	cat.desc = cat.text.en.description;
 });
 
+/* cached cats */
+var cats_filename = path.resolve(__dirname, 'data', "cats.json");
+var cats = JSON.parse(fs.readFileSync(cats_filename).toString());
+
+var save_cats = function () {
+	fs.writeFileSync(cats_filename, JSON.stringify(cats, null, '\t'));
+};
+
 /* amendments */
 var amendments = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, "amendments.json")).toString());
 var amendments_index = {};
@@ -125,7 +133,6 @@ function initAmendments() {
 			return -1;
 		return 1;
 	});
-
 
 	amendments.forEach(function (_amend, idx) {
 		amendments_by_ids[_amend.uid] = _amend;
@@ -169,6 +176,10 @@ function initClassification() {
 }
 
 initClassification();
+
+var save_classified = function () {
+	fs.writeFileSync(classify_filename, JSON.stringify(classified, null, '\t'));
+};
 
 /* tools */
 
@@ -257,6 +268,7 @@ var sendAmendment = function (res, index, user) {
 	_parcel.amend = _amend;
 	_parcel.user = user;
 	_parcel.laws = _laws;
+	_parcel.cats = cats;
 
 	var _others = [];
 	for (var key in classified_by_users_and_ids) {
@@ -274,9 +286,6 @@ var sendAmendment = function (res, index, user) {
 	res.json(_parcel);
 };
 
-var save_classified = function () {
-	fs.writeFileSync(path.resolve(__dirname, config.datadir, "classified.json"), JSON.stringify(classified, null, '\t'));
-};
 
 var getIndexOfAmendment = function (id) {
 	return (amendments_index[id] || 0) - 1; //0 is avoided
@@ -394,9 +403,22 @@ app.post(config.prefix + '/submit', function (req, res) {
 		}
 		_classified.vote = req.body.vote;
 		_classified.topic = req.body.topic;
-		_classified.category = req.body.category;
+		_classified.category = req.body.category.trim();
 		_classified.comment = req.body.comment;
 		_classified.conflict = (req.body.conflict == "true");
+		if ((_classified.category) && (_classified.category.length > 0)) {
+			if (cats.indexOf(_classified.category) < 0) {
+				cats.push(_classified.category);
+				cats.sort(function (a, b) {
+					if (a < b)
+						return -1;
+					if (a > b)
+						return 1;
+					return 0;
+				});
+				save_cats();
+			}
+		}
 		var index = getIndexOfAmendment(req.body.id);
 		var navig = parcelNavig(index, req.body.user);
 		if (navig.next) {
