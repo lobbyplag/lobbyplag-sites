@@ -315,7 +315,7 @@ app.get(config.prefix, function (req, res) {
 	res.send(content);
 });
 
-app.get(config.prefix + '/rawdata.json', function (req, res) {
+app.get(config.prefix + '/rawdata', function (req, res) {
 	if (req.user) {
 		var result = classified.map(function (_entry) {
 			var _amend = amendments_by_ids[_entry.uid];
