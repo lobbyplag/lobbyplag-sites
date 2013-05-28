@@ -143,7 +143,6 @@ html {
 	overflow-y: auto;
 }
 
-
 textarea {
 	padding: 8px 8px 8px 8px;
 	resize: none;
@@ -158,6 +157,11 @@ textarea {
 .foot button {
 	margin: 8px;
 	float: left;
+}
+
+#authors {
+	padding-right: 18px;
+	display: none;
 }
 
 .btn-green {
@@ -176,6 +180,7 @@ textarea {
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00FF00', endColorstr='#004500', GradientType=0);
 	filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
 }
+
 .btn-green:hover,
 .btn-green:active,
 .btn-green.active,
@@ -202,6 +207,7 @@ textarea {
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF0000', endColorstr='#572424', GradientType=0);
 	filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
 }
+
 .btn-red:hover,
 .btn-red:active,
 .btn-red.active,
@@ -211,7 +217,6 @@ textarea {
 	background-color: #572424;
 	*background-color: #003bb3;
 }
-
 
 .btn-gray {
 	color: #FFFFFF;
@@ -229,6 +234,7 @@ textarea {
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#808080', endColorstr='#474747', GradientType=0);
 	filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
 }
+
 .btn-gray:hover,
 .btn-gray:active,
 .btn-gray.active,

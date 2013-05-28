@@ -34,6 +34,23 @@ var classifyAmmendment = function (vote) {
 	});
 };
 
+var buildAuthor = function (author) {
+	return '<div class="display-person">' + author.name +
+		' <span class="label label-info label-country" title="' + author.country_long + '">' +
+		author.country + '</span> <span class="label label-info label-group" title="' +
+		author.group_long + '">' +
+		author.group + '</span></div>';
+}
+
+var buildAuthors = function (authors) {
+	var html = "";
+	if (authors)
+		authors.forEach(function (author) {
+			html += buildAuthor(author);
+		});
+	$('#authors').html(html);
+};
+
 var displayAmmendment = function (data) {
 	$('#oldtext').html(data.amend.text[0].old);
 	$('#newtext').html(data.amend.text[0].diff);
@@ -52,8 +69,7 @@ var displayAmmendment = function (data) {
 	$('#topic').val(data.classified.topic).trigger('liszt:updated');
 	$('#saveindicator').hide();
 	navig = data.navig || {};
-
-
+	buildAuthors(data.amend.authors);
 	$('#btn_next').toggleClass('disabled', (!navig.next));
 	$('#btn_prev').toggleClass('disabled', (!navig.prev));
 	$('#btn_next_unchecked').toggleClass('disabled', (!navig.next_unchecked));
@@ -208,6 +224,18 @@ $(document).ready(function () {
 	$('#category').change(showChanged);
 	$('#category').keydown(showChanged);
 	$('#topic').change(showChanged);
+
+
+	$('#totallysecret').click(function() {
+		$('#authors').toggle();
+	});
+
+//	$('#directive').mouseenter(function() {
+//		$('#authors').show();
+//	});
+//	$('#directive').mouseout(function() {
+//		$('#authors').hide();
+//	});
 
 	$('#btn_stronger').click(function () {
 		classifyAmmendment('stronger');

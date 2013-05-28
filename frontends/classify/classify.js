@@ -72,16 +72,16 @@ passport.use(new LocalStrategy(
 var app = express();
 
 app.configure(function () {
-//	app.use(express.logger());
 	app.use(express.cookieParser());
 	app.use(express.bodyParser());
 	app.use(express.methodOverride());
 	app.use(express.session({ secret: 'keyboard cat is sad' }));
 	app.use(passport.initialize());
 	app.use(passport.session());
-	app.use(app.router);
 	app.use("/assets", express.static(path.resolve(__dirname, '../assets')));
 	app.use(express.favicon(__dirname + '../assets/img/favicon.ico'));
+	app.use(express.logger());
+	app.use(app.router);
 });
 
 /* read template */
