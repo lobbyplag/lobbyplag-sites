@@ -7,6 +7,8 @@ var path = require('path')
 
 var config = require(path.resolve(__dirname, './config.js'));
 
+/* login-users */
+
 var users = [
 	{ id: 1, username: 'lobbyplag', password: 'vorhalle' }
 ];
@@ -65,11 +67,12 @@ passport.use(new LocalStrategy(
 	}
 ));
 
+/* configure Express */
+
 var app = express();
 
-// configure Express
 app.configure(function () {
-	app.use(express.logger());
+//	app.use(express.logger());
 	app.use(express.cookieParser());
 	app.use(express.bodyParser());
 	app.use(express.methodOverride());
@@ -88,6 +91,7 @@ var tmpl = {
 	tgc: fs.readFileSync(path.resolve(__dirname, "tmpl/tgc.mustache")).toString()
 };
 
+/* categories */
 var tagcats = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, "categories.json")).toString());
 tagcats.forEach(function (cat) {
 	cat.name = cat.text.en.short;
@@ -95,10 +99,11 @@ tagcats.forEach(function (cat) {
 	cat.desc = cat.text.en.description;
 });
 
-/* get amendments */
+/* amendments */
 var amendments = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, "amendments.json")).toString());
 var amendments_index = {};
 var amendments_by_ids = {};
+
 function initAmendments() {
 	var _mep = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'mep.json')));
 	var _mep_groups = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'groups.json')));
@@ -112,7 +117,7 @@ function initAmendments() {
 		if (a.committee === b.committee) {
 			if (a.number < b.number)
 				return -1;
-			if (a.number < b.number)
+			if (a.number > b.number)
 				return 1;
 			return 0;
 		}
@@ -138,52 +143,51 @@ function initAmendments() {
 			}
 		});
 		_amend.authors = _authors;
-
-		amendments_index[_amend.uid] = idx;
-
+		amendments_index[_amend.uid] = idx + 1//avoid 0;
 	});
 }
 
 initAmendments();
 
-/* get classified */
+/* classified */
 var classified = [];
 var classified_by_users_and_ids = {};
 var classify_filename = path.resolve(__dirname, config.datadir, "classified.json");
 
-if (fs.exists(classify_filename, function (exists) {
-	if (exists) {
-		classified = JSON.parse(fs.readFileSync(classify_filename).toString());
-		classified.forEach(function (_classi) {
-			classified_by_users_and_ids[_classi.user] = classified_by_users_and_ids[_classi.user] || {};
-			classified_by_users_and_ids[_classi.user][_classi.uid] = _classi;
-		});
-	}
-}));
+function initClassification() {
+	if (fs.exists(classify_filename, function (exists) {
+		if (exists) {
+			classified = JSON.parse(fs.readFileSync(classify_filename).toString());
+			classified.forEach(function (_classi) {
+				classified_by_users_and_ids[_classi.user] = classified_by_users_and_ids[_classi.user] || {};
+				classified_by_users_and_ids[_classi.user][_classi.uid] = _classi;
+			});
+		}
+	}));
+}
 
-var get_random_unclassified = function (user) {
-	var _unclassified = amendments.filter(function (_amend) {
-		return !classified_by_users_and_ids[user][_amend.uid];
-	});
-	if (_unclassified.length === 0) return -2;
-	var _amend = _unclassified[Math.floor(Math.random() * _unclassified.length)];
-	return getIndexOfAmendment(_amend.uid);
-};
+initClassification();
+
+/* tools */
 
 var parcelNavig = function (index, user) {
 	var _navig = {};
+//	console.log('Parcel:Index: ' + index);
+//	if (index > 0)
+//		console.log('Parcel:num-1: ' + amendments[index - 1].number);
+//	console.log('Parcel:num: ' + amendments[index].number);
+//	console.log('Parcel:num+1: ' + amendments[index + 1].number);
+
 	if ((index >= 0) && (index < amendments.length))
 		_navig.id = amendments[index].uid;
 	if ((index > 0) && (index < amendments.length))
 		_navig.prev = amendments[index - 1].uid;
-	if ((index >= 0) && (index < amendments.length))
+	if ((index >= 0) && (index < amendments.length)) {
 		_navig.next = amendments[index + 1].uid;
+	}
 	if (index < amendments.length) {
 		for (var i = index - 1; i >= 0; i--) {
-			if (!_navig.prev) {
-				_navig.prev = amendments[i].uid
-			}
-			if ((classified_by_users_and_ids[user]) && (!classified_by_users_and_ids[user][amendments[i].uid])) {
+			if ((!classified_by_users_and_ids[user]) || (!classified_by_users_and_ids[user][amendments[i].uid])) {
 				_navig.prev_unchecked = amendments[i].uid;
 				break; //we're done
 			}
@@ -191,10 +195,7 @@ var parcelNavig = function (index, user) {
 	}
 	if (index >= 0) {
 		for (var i = index + 1; i < amendments.length; i++) {
-			if (!_navig.next) {
-				_navig.next = amendments[i].uid
-			}
-			if ((classified_by_users_and_ids[user]) && (!classified_by_users_and_ids[user][amendments[i].uid])) {
+			if ((!classified_by_users_and_ids[user]) || (!classified_by_users_and_ids[user][amendments[i].uid])) {
 				_navig.next_unchecked = amendments[i].uid;
 				break; //we're done
 			}
@@ -276,7 +277,7 @@ var save_classified = function () {
 };
 
 var getIndexOfAmendment = function (id) {
-	return amendments_index[id] || -1;
+	return (amendments_index[id] || 0) - 1; //0 is avoided
 };
 
 /* save data on sigint */
@@ -291,6 +292,7 @@ process.on('uncaughtException', function (err) {
 	console.log('Caught exception: ' + err);
 });
 
+/* index (or login) */
 app.get(config.prefix, function (req, res) {
 	var content = "";
 	if (req.user) {
@@ -315,25 +317,42 @@ app.get(config.prefix, function (req, res) {
 app.get(config.prefix + '/amendment/:id/:user', function (req, res) {
 	var index;
 	if (req.params.id === 'start') {
-		index = 1;
+		index = 0;
 	} else if (req.params.id) {
 		index = getIndexOfAmendment(req.params.id);
 	}
-	index = index || get_random_unclassified(req.params.user);
+	if (index < 0) {
+		res.json([]);
+		return;
+	}
 	sendAmendment(res, index, req.params.user);
 });
 
-app.post(config.prefix + '/login', passport.authenticate('local',
-	{ failureRedirect: config.prefix, failureFlash: false }), function (req, res) {
-	res.redirect(config.prefix);
+/* login reciever */
+app.post(config.prefix + '/login', function (req, res, next) {
+	passport.authenticate('local', function (err, user, info) {
+		if (err) {
+			return next(err)
+		}
+		if (!user) {
+			req.session.messages = [info.message];
+			return res.redirect(config.prefix + '/login')
+		}
+		req.logIn(user, function (err) {
+			if (err) {
+				return next(err);
+			}
+			return res.redirect(config.prefix);
+		});
+	})(req, res, next);
 });
 
+/* classification reciever */
 app.post(config.prefix + '/submit', function (req, res) {
 	if (!req.user) {
 		res.send(404);
 		return;
 	}
-	console.log(req.body);
 	if ((!req.body.id) || (!amendments_by_ids[req.body.id] )) {
 		res.json({error: 'An transmission error occured, please reload the site'});
 	} else if (!req.body.vote) {
@@ -364,27 +383,7 @@ app.post(config.prefix + '/submit', function (req, res) {
 	}
 });
 
-// POST /login
-// This is an alternative implementation that uses a custom callback to
-// achieve the same functionality.
-app.post(config.prefix + '/login', function (req, res, next) {
-	passport.authenticate('local', function (err, user, info) {
-		if (err) {
-			return next(err)
-		}
-		if (!user) {
-			req.session.messages = [info.message];
-			return res.redirect(config.prefix + '/login')
-		}
-		req.logIn(user, function (err) {
-			if (err) {
-				return next(err);
-			}
-			return res.redirect(config.prefix);
-		});
-	})(req, res, next);
-});
-
+/* logout */
 app.get(config.prefix + '/logout', function (req, res) {
 	req.logout();
 	res.redirect(config.prefix);

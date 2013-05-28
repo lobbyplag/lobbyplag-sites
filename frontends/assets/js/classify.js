@@ -52,6 +52,12 @@ var displayAmmendment = function (data) {
 	$('#topic').val(data.classified.topic).trigger('liszt:updated');
 	$('#saveindicator').hide();
 	navig = data.navig || {};
+
+
+	$('#btn_next').toggleClass('disabled', (!navig.next));
+	$('#btn_prev').toggleClass('disabled', (!navig.prev));
+	$('#btn_next_unchecked').toggleClass('disabled', (!navig.next_unchecked));
+	$('#btn_prev_unchecked').toggleClass('disabled', (!navig.prev_unchecked));
 };
 
 var getAmmendment = function (uid) {
@@ -221,12 +227,12 @@ $(document).ready(function () {
 	$('#btn_prev').click(function () {
 		getAmmendment(navig.prev);
 	});
-//	$('#btn_next_unchecked').click(function () {
-//		getAmmendment(navig.next_unchecked);
-//	});
-//	$('#btn_prev_unchecked').click(function () {
-//		getAmmendment(navig.prev_unchecked);
-//	});
+	$('#btn_next_unchecked').click(function () {
+		getAmmendment(navig.next_unchecked);
+	});
+	$('#btn_prev_unchecked').click(function () {
+		getAmmendment(navig.prev_unchecked);
+	});
 	setupKeyCommands();
 
 	$('#myModal').on('hidden', function () {
