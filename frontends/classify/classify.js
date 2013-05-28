@@ -146,7 +146,7 @@ function initAmendments() {
 		_amend.authors = _authors;
 		amendments_index[_amend.uid] = idx + 1//avoid 0;
 	});
-	
+
 }
 
 initAmendments();
@@ -313,6 +313,29 @@ app.get(config.prefix, function (req, res) {
 	}
 	res.setHeader('Content-Type', 'text/html; charset=utf-8');
 	res.send(content);
+});
+
+app.get(config.prefix + '/rawdata.json', function (req, res) {
+	if (req.user) {
+		var result = classified.map(function (_entry) {
+			var _amend = amendments_by_ids[_entry.uid];
+			var obj = {
+				user: _entry.user,
+				uid: _entry.uid,
+				nr: _amend.number,
+				committee: _amend.committee,
+				vote: _entry.vote,
+				comment: _entry.comment,
+				topic_id: _entry.topic,
+				category: _entry.category,
+				conflictcharta: _entry.conflict
+			};
+			return obj;
+		});
+		res.json(result);
+	} else {
+		res.send(404);
+	}
 });
 
 /* get something to classify */
