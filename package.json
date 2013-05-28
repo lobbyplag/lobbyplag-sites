@@ -9,7 +9,9 @@
 		"colors": ">= 0.6.0",
 		"natural": ">= 0.1.19",
 		"optimist": ">= 0.4.0",
-		"diff": ">= 1.0.4"
+		"diff": ">= 1.0.4",
+		"passport": ">= 0.1.16",
+		"passport-local": ">= 0.1.6"
 	},
 	"engines": {
 		"node": ">= 0.8.15"

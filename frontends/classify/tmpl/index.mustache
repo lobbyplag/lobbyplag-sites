@@ -26,10 +26,10 @@
 		<h3 id="myModalLabel">Bitte Kürzel eingeben</h3>
 	</div>
 	<div class="modal-body">
-		<input id="username" />
+		<input id="username"/>
 	</div>
 	<div class="modal-footer">
-		<button data-dismiss="modal"  class="btn btn-primary">Kürzel verwenden</button>
+		<button data-dismiss="modal" class="btn btn-primary">Kürzel verwenden</button>
 	</div>
 </div>
 
@@ -55,12 +55,13 @@
 					</li>
 				</ul>
 			</div>
+			<div id="saveindicator" class="pull-right">Ungespeicherte Änderungen</div>
 		</div>
 	</div>
-	<div class="middlehead">
+	<div id="middlehead">
 		<h4 id="directive"></h4>
 	</div>
-	<div id="bottom" class="bottom">
+	<div id="bottom">
 		<div class="left">
 			<span class="fmttext diff" id="oldtext"></span>
 		</div>
@@ -68,24 +69,17 @@
 			<span class="fmttext diff" id="newtext"></span>
 		</div>
 	</div>
-	<div class="foot">
-		<div class="row footrow">
+	<div id="foot">
+		<div id="footrow" class="row">
 			<div class="pull-left">
 				<a href="#" id="btn_prev" class="btn btn-navig">&lt; Zurück</a>
 			</div>
-			<div class="foottools">
-				<label>Änderung macht den Datenschutz</label>
-				<a href="#" id="btn_stronger" class="btn btn-primary">Stärker</a>
-				<a href="#" id="btn_weaker" class="btn btn-primary">Schwächer</a>
-				<a href="#" id="btn_neutral" class="btn btn-primary">Neutral</a>
+			<div class="span3">
+				<label for="comment">Kommentar</label>
+				<textarea id="comment" cols="40" rows="3"></textarea>
 			</div>
-			<div class="pull-right">
-				<a href="#" id="btn_next" class="btn btn-navig">Weiter &gt;</a>
-			</div>
-		</div>
-		<div class="row footrow">
-			<div class="foottools">
-				<div class="span5">
+			<div class="span5">
+				<div>
 					<label for="topic">Thema</label>
 					<select data-placeholder="Thema" id="topic" name="topic"
 							class="combobox chzn-drop-up">
@@ -93,14 +87,28 @@
 						{{#tagcats}}{{>tgc}}{{/tagcats}}
 					</select>
 				</div>
-				<div class="span3">
+				<div>
 					<label for="category">Kategorie</label>
-					<input id="category" value="901"/>
+					<input type="text" id="category"/>
 				</div>
-				<div class="span3">
-					<label for="comment">Kommentar</label>
-					<input id="comment" value="weil und darum"/>
+			</div>
+			<div class="foottools">
+				<div>
+					<label>Änderung macht den Datenschutz</label>
+					<a href="#" id="btn_stronger" class="btn btn-primary">Stärker</a>
+					<a href="#" id="btn_weaker" class="btn btn-primary">Schwächer</a>
+					<a href="#" id="btn_neutral" class="btn btn-primary">Neutral</a>
 				</div>
+				<br/>
+
+				<div>
+					<label class="checkbox">
+						<input type="checkbox" id="conflict"> potentieller Konflikt mit der Grundrechtecharta
+					</label>
+				</div>
+			</div>
+			<div class="pull-right">
+				<a href="#" id="btn_next" class="btn btn-navig">Weiter &gt;</a>
 			</div>
 		</div>
 	</div>

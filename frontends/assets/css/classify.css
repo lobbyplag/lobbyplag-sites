@@ -30,11 +30,28 @@ html {
 	width: 100%;
 }
 
+#saveindicator {
+	margin-top: 4px;
+	font-size: 10px;
+	background-color: #E9DC51;
+	border-color: #BCE8F1;
+	border-radius: 4px 4px 4px 4px;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+}
+
+#category {
+	width: 95%;
+}
+
+#footrow label {
+	margin-top: 4px;
+}
+
 .nav-top {
 	margin-left: 20px !important;
 }
 
-.head, .foot, .middle, .bottom, .middlehead {
+.head, #foot, #bottom, #middlehead {
 	position: absolute;
 	width: 98%;
 	left: 10px;
@@ -45,7 +62,7 @@ html {
 	margin-left: 8px !important;
 }
 
-.bottom {
+#bottom {
 	position: absolute;
 	left: 20px;
 	width: 97%;
@@ -53,26 +70,20 @@ html {
 	bottom: 128px;
 }
 
-.foot {
+#foot {
 	height: 128px;
 	bottom: 0;
 	text-align: center;
 }
 
-.middlehead {
+#middlehead {
 	top: 160px;
 	height: 34px;
 	margin-left: 8px;
 	vertical-align: top;
 }
 
-.middle {
-	top: 108px;
-	height: 50px;
-	margin-left: 8px;
-}
-
-.footrow {
+#footrow {
 	margin-left: 0px !important;
 }
 
@@ -82,9 +93,6 @@ html {
 	font-weight: normal;
 	line-height: 18px;
 	margin-top: 6px;
-}
-
-.votetools {
 }
 
 .popover {
@@ -118,7 +126,7 @@ html {
 }
 
 .left {
-	width: 50%;
+	width: 49%;
 	height: 100%;
 	display: inline-block;
 	border: 1px solid #C3D3DA;
@@ -176,10 +184,6 @@ textarea {
 
 #langs_chzn, #langs_chzn .chzn-single {
 	height: 26px !important;
-}
-
-#fetch-text {
-	margin-top: 2px;
 }
 
 .combocontainer {

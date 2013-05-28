@@ -1,17 +1,90 @@
-#!/usr/bin/env node
-
-/* get confog */
-var path = require('path');
-var fs = require('fs');
-var express = require('express');
-var mustache = require('mustache');
-var url = require('url');
+var path = require('path')
+	, fs = require('fs')
+	, mustache = require('mustache')
+	, express = require('express')
+	, passport = require('passport')
+	, LocalStrategy = require('passport-local').Strategy;
 
 var config = require(path.resolve(__dirname, './config.js'));
+
+var users = [
+	{ id: 1, username: 'lobbyplag', password: 'vorhalle' }
+];
+
+function findById(id, fn) {
+	var idx = id - 1;
+	if (users[idx]) {
+		fn(null, users[idx]);
+	} else {
+		fn(new Error('User ' + id + ' does not exist'));
+	}
+}
+
+function findByUsername(username, fn) {
+	for (var i = 0, len = users.length; i < len; i++) {
+		var user = users[i];
+		if (user.username === username) {
+			return fn(null, user);
+		}
+	}
+	return fn(null, null);
+}
+
+passport.serializeUser(function (user, done) {
+	done(null, user.id);
+});
+
+passport.deserializeUser(function (id, done) {
+	findById(id, function (err, user) {
+		done(err, user);
+	});
+});
+
+passport.use(new LocalStrategy(
+	function (username, password, done) {
+		// asynchronous verification, for effect...
+		process.nextTick(function () {
+
+			// Find the user by username. If there is no user with the given
+			// username, or the password is not correct, set the user to `false` to
+			// indicate failure and set a flash message. Otherwise, return the
+			// authenticated `user`.
+			findByUsername(username, function (err, user) {
+				if (err) {
+					return done(err);
+				}
+				if (!user) {
+					return done(null, false, { message: 'Unknown user ' + username });
+				}
+				if (user.password != password) {
+					return done(null, false, { message: 'Invalid password' });
+				}
+				return done(null, user);
+			})
+		});
+	}
+));
+
+var app = express();
+
+// configure Express
+app.configure(function () {
+	app.use(express.logger());
+	app.use(express.cookieParser());
+	app.use(express.bodyParser());
+	app.use(express.methodOverride());
+	app.use(express.session({ secret: 'keyboard cat is sad' }));
+	app.use(passport.initialize());
+	app.use(passport.session());
+	app.use(app.router);
+	app.use("/assets", express.static(path.resolve(__dirname, '../assets')));
+	app.use(express.favicon(__dirname + '../assets/img/favicon.ico'));
+});
 
 /* read template */
 var tmpl = {
 	index: fs.readFileSync(path.resolve(__dirname, "tmpl/index.mustache")).toString(),
+	login: fs.readFileSync(path.resolve(__dirname, "tmpl/user.mustache")).toString(),
 	tgc: fs.readFileSync(path.resolve(__dirname, "tmpl/tgc.mustache")).toString()
 };
 
@@ -21,13 +94,6 @@ tagcats.forEach(function (cat) {
 	cat.hint = cat.text.en.title;
 	cat.desc = cat.text.en.description;
 });
-//tagcats.sort(function (a, b) {
-//	if (a.name < b.name)
-//		return -1;
-//	if (a.name > b.name)
-//		return 1;
-//	return 0;
-//});
 
 /* get amendments */
 var amendments = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, "amendments.json")).toString());
@@ -94,35 +160,6 @@ if (fs.exists(classify_filename, function (exists) {
 		});
 	}
 }));
-
-var save_classified = function () {
-	fs.writeFileSync(path.resolve(__dirname, config.datadir, "classified.json"), JSON.stringify(classified, null, '\t'));
-};
-
-var getIndexOfAmendment = function (id) {
-	return amendments_index[id] || -1;
-};
-
-/* save data on sigint */
-process.on('SIGINT', function () {
-	console.log('Caught SIGINT');
-	save_classified();
-	process.exit();
-});
-
-/* handle uncaught exception, just in case */
-process.on('uncaughtException', function (err) {
-	console.log('Caught exception: ' + err);
-});
-
-var app = express();
-
-app.configure(function () {
-	app.use("/assets", express.static(path.resolve(__dirname, '../assets')));
-	app.use(express.favicon(__dirname + '../assets/img/favicon.ico'));
-	app.use(express.logger('dev'));
-	app.use(express.bodyParser());
-});
 
 var get_random_unclassified = function (user) {
 	var _unclassified = amendments.filter(function (_amend) {
@@ -217,6 +254,15 @@ var sendAmendment = function (res, index, user) {
 	_parcel.amend = _amend;
 	_parcel.user = user;
 	_parcel.laws = _laws;
+
+	var _others = [];
+	for (var key in classified_by_users_and_ids) {
+		if ((key !== user) && (classified_by_users_and_ids[key][_amend.uid])) {
+			_others.push(classified_by_users_and_ids[key][_amend.uid]);
+		}
+	}
+
+	_parcel.others = _others;
 	if ((!classified_by_users_and_ids[user]) || (!classified_by_users_and_ids[user][_amend.uid])) {
 		_parcel.classified = {vote: 'fehlt'};
 	} else {
@@ -224,6 +270,46 @@ var sendAmendment = function (res, index, user) {
 	}
 	res.json(_parcel);
 };
+
+var save_classified = function () {
+	fs.writeFileSync(path.resolve(__dirname, config.datadir, "classified.json"), JSON.stringify(classified, null, '\t'));
+};
+
+var getIndexOfAmendment = function (id) {
+	return amendments_index[id] || -1;
+};
+
+/* save data on sigint */
+process.on('SIGINT', function () {
+	console.log('Caught SIGINT');
+	save_classified();
+	process.exit();
+});
+
+/* handle uncaught exception, just in case */
+process.on('uncaughtException', function (err) {
+	console.log('Caught exception: ' + err);
+});
+
+app.get(config.prefix, function (req, res) {
+	var content = "";
+	if (req.user) {
+		content = mustache.render(tmpl.index, {
+			urlprefix: config.prefix,
+			tagcats: tagcats
+		}, {
+			"tgc": tmpl.tgc
+		});
+	} else {
+		content = mustache.render(tmpl.login, {
+			urlprefix: config.prefix
+		}, {
+			"tgc": tmpl.tgc
+		});
+	}
+	res.setHeader('Content-Type', 'text/html; charset=utf-8');
+	res.send(content);
+});
 
 /* get something to classify */
 app.get(config.prefix + '/amendment/:id/:user', function (req, res) {
@@ -233,23 +319,20 @@ app.get(config.prefix + '/amendment/:id/:user', function (req, res) {
 	} else if (req.params.id) {
 		index = getIndexOfAmendment(req.params.id);
 	}
-	console.log(req.params);
 	index = index || get_random_unclassified(req.params.user);
 	sendAmendment(res, index, req.params.user);
 });
 
-app.get(config.prefix, function (req, res) {
-	res.setHeader('Content-Type', 'text/html; charset=utf-8');
-	res.send(mustache.render(tmpl.index, {
-		urlprefix: config.prefix,
-		tagcats: tagcats
-	}, {
-		"tgc": tmpl.tgc
-	}));
-	res.end();
+app.post(config.prefix + '/login', passport.authenticate('local',
+	{ failureRedirect: config.prefix, failureFlash: false }), function (req, res) {
+	res.redirect(config.prefix);
 });
 
 app.post(config.prefix + '/submit', function (req, res) {
+	if (!req.user) {
+		res.send(404);
+		return;
+	}
 	console.log(req.body);
 	if ((!req.body.id) || (!amendments_by_ids[req.body.id] )) {
 		res.json({error: 'An transmission error occured, please reload the site'});
@@ -269,6 +352,7 @@ app.post(config.prefix + '/submit', function (req, res) {
 		_classified.topic = req.body.topic;
 		_classified.category = req.body.category;
 		_classified.comment = req.body.comment;
+		_classified.conflict = (req.body.conflict == "true");
 		var index = getIndexOfAmendment(req.body.id);
 		var navig = parcelNavig(index, req.body.user);
 		if (navig.next) {
@@ -280,12 +364,31 @@ app.post(config.prefix + '/submit', function (req, res) {
 	}
 });
 
-app.get('*', function (req, res) {
-	res.status(404);
-	res.send("meh.");
-	res.end();
+// POST /login
+// This is an alternative implementation that uses a custom callback to
+// achieve the same functionality.
+app.post(config.prefix + '/login', function (req, res, next) {
+	passport.authenticate('local', function (err, user, info) {
+		if (err) {
+			return next(err)
+		}
+		if (!user) {
+			req.session.messages = [info.message];
+			return res.redirect(config.prefix + '/login')
+		}
+		req.logIn(user, function (err) {
+			if (err) {
+				return next(err);
+			}
+			return res.redirect(config.prefix);
+		});
+	})(req, res, next);
+});
+
+app.get(config.prefix + '/logout', function (req, res) {
+	req.logout();
+	res.redirect(config.prefix);
 });
 
 app.listen(config.port, config.hostname);
-
 console.log('Listen ' + config.hostname + ':' + config.port);
