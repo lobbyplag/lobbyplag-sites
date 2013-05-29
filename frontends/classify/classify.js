@@ -90,9 +90,13 @@ var tmpl = {
 	login: fs.readFileSync(path.resolve(__dirname, "tmpl/user.mustache")).toString(),
 	tgc: fs.readFileSync(path.resolve(__dirname, "tmpl/tgc.mustache")).toString()
 };
+var cats_filename = path.resolve(__dirname, 'data', "cats.json");
+var classify_filename = path.resolve(__dirname, 'data', "classified.json");
+var tagcats_filename = path.resolve(__dirname, config.datadir, "categories.json");
+var amendments_filename = path.resolve(__dirname, config.datadir, "amendments.json");
 
 /* categories */
-var tagcats = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, "categories.json")).toString());
+var tagcats = JSON.parse(fs.readFileSync(tagcats_filename).toString());
 tagcats.forEach(function (cat) {
 	cat.name = cat.text.en.short;
 	cat.hint = cat.text.en.title;
@@ -100,17 +104,33 @@ tagcats.forEach(function (cat) {
 });
 
 /* cached cats */
-var cats_filename = path.resolve(__dirname, 'data', "cats.json");
-var cats = JSON.parse(fs.readFileSync(cats_filename).toString());
+var cats = [];
+
+function initCats() {
+	fs.exists(cats_filename, function (exists) {
+		if (exists) {
+			cats = JSON.parse(fs.readFileSync(cats_filename).toString());
+		}
+	});
+}
+initCats();
 
 var save_cats = function () {
 	fs.writeFileSync(cats_filename, JSON.stringify(cats, null, '\t'));
 };
 
 /* amendments */
-var amendments = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, "amendments.json")).toString());
+var amendments = JSON.parse(fs.readFileSync(amendments_filename).toString());
 var amendments_index = {};
 var amendments_by_ids = {};
+
+function amendmentsByNumber(number) {
+	for (var i = 0; i < amendments.length; i++) {
+		if (amendments[i].number === number)
+			return amendments[i];
+	}
+	return null;
+}
 
 function initAmendments() {
 	var _mep = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'mep.json')));
@@ -155,31 +175,77 @@ function initAmendments() {
 	});
 
 }
-
 initAmendments();
 
 /* classified */
 var classified = [];
 var classified_by_users_and_ids = {};
-var classify_filename = path.resolve(__dirname, config.datadir, "classified.json");
 
-function initClassification() {
-	if (fs.exists(classify_filename, function (exists) {
+function initClassification(cb) {
+	fs.exists(classify_filename, function (exists) {
 		if (exists) {
 			classified = JSON.parse(fs.readFileSync(classify_filename).toString());
 			classified.forEach(function (_classi) {
 				classified_by_users_and_ids[_classi.user] = classified_by_users_and_ids[_classi.user] || {};
 				classified_by_users_and_ids[_classi.user][_classi.uid] = _classi;
 			});
-		}
-	}));
+		} else
+			console.log('meh classified not found');
+		cb();
+	});
 }
-
-initClassification();
 
 var save_classified = function () {
 	fs.writeFileSync(classify_filename, JSON.stringify(classified, null, '\t'));
 };
+
+initClassification(function () {
+	//importEDRI();
+});
+
+function importEDRI() {
+	var opinions_filename = path.resolve(__dirname, 'data', "opinions.json");
+	var opinions = JSON.parse(fs.readFileSync(opinions_filename).toString());
+	var opinions = opinions.map(function (entry) {
+		if (entry.reaction === 'stonger')
+			entry.reaction = 'stronger';
+		if (!entry.text)
+			entry.text = '';
+		if (entry.text.indexOf('Comment: ') === 0)
+			entry.text = entry.text.split('Comment: ')[1];
+
+		if (!parseInt(entry.amendment))
+			console.log(entry)
+		else
+			entry.amendment = parseInt(entry.amendment);
+
+		var amend = amendmentsByNumber(entry.amendment);
+		if (!amend) {
+			console.log('data kernel panic, amendment ' + entry.amendment + ' not found');
+			amend = {uid: ''};
+		}
+
+		return {uid: amend.uid, user: "EDRI", vote: entry.reaction, topic: "", category: "", comment: entry.text, conflict: false };
+	});
+	classified_by_users_and_ids['EDRI'] = classified_by_users_and_ids['EDRI'] || {};
+	var importc = 0, noportc = 0;
+	opinions.forEach(function (entry) {
+		if (
+			(!entry.uid) ||
+				(['stronger', 'weaker', 'neutral'].indexOf(entry.vote) < 0)
+			) {
+			noportc++;
+//			console.log('nay');
+//			console.log(entry);
+		} else {
+			classified_by_users_and_ids['EDRI'][entry.uid] = entry;
+			classified.push(entry);
+			importc++;
+		}
+	});
+	console.log('Import: ' + importc + '  -  Rejected: ' + noportc);
+	save_classified();
+}
 
 /* tools */
 
