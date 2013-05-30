@@ -381,7 +381,6 @@ var sendAmendment = function (res, index, user) {
 
 var getIndexOfAmendmentByNumber = function (nr) {
 	for (var i = 0; i < amendments.length; i++) {
-		console.log(amendments[i].number);
 		if (amendments[i].number === nr) {
 			return i;
 		}

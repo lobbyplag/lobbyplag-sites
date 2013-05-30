@@ -82,7 +82,11 @@ var displayAmmendment = function (data) {
 	} else {
 		$('#conflict').removeAttr('checked');
 	}
-	$('#directive').text(data.laws[0].name);
+	if ((!data.laws) || (data.laws.length > 0)) {
+		$('#directive').text(data.laws[0].name);
+	} else {
+		$('#directive').text('unbekannt');
+	}
 	$('#topic').val(data.classified.topic).trigger('liszt:updated');
 	$('#saveindicator').hide();
 	navig = data.navig || {};
