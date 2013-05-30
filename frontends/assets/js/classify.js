@@ -71,6 +71,7 @@ var displayAmmendment = function (data) {
 	$('#oldtext').html(data.amend.text[0].old);
 	$('#newtext').html(data.amend.text[0].diff);
 	$('#user').text(data.user);
+	$('#total').text(data.unchecked + ' / ' + data.total);
 	$('#committee').text(data.amend.committee);
 	$('#number').text(data.amend.number);
 	$('#classified').text(data.classified.vote);

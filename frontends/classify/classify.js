@@ -336,6 +336,15 @@ var sendAmendment = function (res, index, user) {
 	_parcel.laws = _laws;
 	_parcel.cats = cats;
 
+	var donecount = 0;
+	if (classified_by_users_and_ids[user]) {
+		for (var key in classified_by_users_and_ids[user]) {
+			donecount++;
+		}
+	}
+	_parcel.unchecked = amendments.length - donecount;
+	_parcel.total = amendments.length;
+
 	var _others = [];
 	for (var key in classified_by_users_and_ids) {
 		if ((key !== user) && (classified_by_users_and_ids[key][_amend.uid])) {
@@ -409,12 +418,16 @@ app.get(config.prefix + '/rawdata', function (req, res) {
 		});
 		res.json(result);
 	} else {
-		res.send(404);
+		return res.redirect(config.prefix);
 	}
 });
 
 /* get something to classify */
 app.get(config.prefix + '/amendment/:id/:user', function (req, res) {
+	if (!req.user) {
+		res.send(404);
+		return;
+	}
 	var index;
 	if (req.params.id === 'start') {
 		index = 0;
@@ -436,7 +449,7 @@ app.post(config.prefix + '/login', function (req, res, next) {
 		}
 		if (!user) {
 			req.session.messages = [info.message];
-			return res.redirect(config.prefix + '/login')
+			return res.redirect(config.prefix)
 		}
 		req.logIn(user, function (err) {
 			if (err) {
