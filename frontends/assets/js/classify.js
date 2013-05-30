@@ -106,6 +106,16 @@ var getAmmendment = function (uid) {
 	});
 };
 
+var getAmmendmentNr = function (nr) {
+	$.get('/classify/amendment/nr/' + nr + '/' + user, {}, function (data) {
+		if (data.amend) {
+			displayAmmendment(data);
+		} else {
+			alert('no data');
+		}
+	});
+};
+
 var setupKeyCommands = function () {
 	shortcut.add("ctrl+left", function () {
 		$('#btn_prev').click();
@@ -233,10 +243,38 @@ var showChanged = function () {
 	$('#saveindicator').show();
 };
 
+var jumpToNrDialog = function () {
+	$("#jump_nr").val('');
+	$('#myModalJump').modal({keyboard: true, show: true});
+};
+
+var jumpToNr = function () {
+	var s = $("#jump_nr").val().trim();
+	if (s) {
+		if (isNaN(s)) {
+			alert('Not a Number');
+		} else {
+			getAmmendmentNr(s);
+		}
+	}
+};
+
 $(document).ready(function () {
 	$('#saveindicator').hide();
 	$('#topic').chosen({allow_single_deselect: true});
 	fix_heights();
+
+	$('#myModalJump').on('shown', function () {
+		$('#jump_nr').focus();
+	})
+	$('#btn_jump_dialog').click(jumpToNrDialog);
+	$('#jump_nr').keypress(function (e) {
+		if (e.which == 13) {
+			$('#myModalJump').modal('hide');
+			jumpToNr();
+		}
+	});
+	$('#btn_jump').click(jumpToNr);
 
 	$('#conflict').change(showChanged);
 	$('#comment').change(showChanged);

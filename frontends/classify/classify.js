@@ -154,7 +154,21 @@ function initAmendments() {
 		return 1;
 	});
 
+	var ranges = [];
+	var _start = 0;
+	var _last = 0;
+
 	amendments.forEach(function (_amend, idx) {
+		if (_start === 0)
+			_start = _amend.number;
+		if (_last + 1 !== _amend.number) {
+			ranges.push({from: _start, to: _last});
+			_start = _amend.number;
+			_last = _amend.number;
+		} else {
+			_last = _amend.number;
+		}
+
 		amendments_by_ids[_amend.uid] = _amend;
 		var _authors = [];
 		_amend.author_ids.forEach(function (_author_id) {
@@ -173,6 +187,10 @@ function initAmendments() {
 		_amend.authors = _authors;
 		amendments_index[_amend.uid] = idx + 1//avoid 0;
 	});
+	ranges.push({from: _start, to: _last});
+
+	console.log('available AMs:')
+	console.log(ranges);
 
 }
 initAmendments();
@@ -361,9 +379,18 @@ var sendAmendment = function (res, index, user) {
 	res.json(_parcel);
 };
 
+var getIndexOfAmendmentByNumber = function (nr) {
+	for (var i = 0; i < amendments.length; i++) {
+		console.log(amendments[i].number);
+		if (amendments[i].number === nr) {
+			return i;
+		}
+	}
+	return -1;
+};
 
 var getIndexOfAmendment = function (id) {
-	return (amendments_index[id] || 0) - 1; //0 is avoided
+	return (amendments_index[id] || 0) - 1; //0 is avoided in array
 };
 
 /* save data on sigint */
@@ -428,12 +455,31 @@ app.get(config.prefix + '/amendment/:id/:user', function (req, res) {
 		res.send(404);
 		return;
 	}
-	var index;
+	var index = -1;
 	if (req.params.id === 'start') {
 		index = 0;
 	} else if (req.params.id) {
 		index = getIndexOfAmendment(req.params.id);
 	}
+	if (index < 0) {
+		res.json([]);
+		return;
+	}
+	sendAmendment(res, index, req.params.user);
+});
+
+app.get(config.prefix + '/amendment/nr/:nr/:user', function (req, res) {
+	if (!req.user) {
+		res.send(404);
+		return;
+	}
+	var nr = req.params.nr;
+	if (isNaN(nr)) {
+		res.json([]);
+		return;
+	}
+	nr = parseInt(nr);
+	var index = getIndexOfAmendmentByNumber(nr);
 	if (index < 0) {
 		res.json([]);
 		return;

@@ -33,6 +33,19 @@
 	</div>
 </div>
 
+
+<div id="myModalJump" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalJumpLabel" aria-hidden="true">
+	<div class="modal-header">
+		<h3 id="myModalJumpLabel">Bitte Amendment Nummer eingeben</h3>
+	</div>
+	<div class="modal-body">
+		<input id="jump_nr"/>
+	</div>
+	<div class="modal-footer">
+		<button id="btn_jump" data-dismiss="modal" class="btn btn-primary">Springe</button>
+	</div>
+</div>
+
 <div class="container">
 	<div id="header" class="navbar navbar-fixed-top">
 		<div class="navbar-inner">
@@ -56,6 +69,9 @@
 					<li class="group span2">
 						<label for="total">Bewertet/Anzahl</label>
 						<h4 id="total"></h4>
+					</li>
+					<li class="group span2">
+						<button class="btn" id="btn_jump_dialog">Springe zu Amendment Nr#</button>
 					</li>
 				</ul>
 			</div>
