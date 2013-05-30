@@ -342,7 +342,7 @@ var sendAmendment = function (res, index, user) {
 			donecount++;
 		}
 	}
-	_parcel.unchecked = amendments.length - donecount;
+	_parcel.unchecked = donecount;
 	_parcel.total = amendments.length;
 
 	var _others = [];
