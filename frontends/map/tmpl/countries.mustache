@@ -1,6 +1,8 @@
 <nav id="subnav_map" class="navbar navbar-inverse">
 	<ul class="nav">
-		{{#countries}}{{>subnav_country}}{{/countries}}
+		<li class="active"><a href="/map/countries">All</a></li>
+		<li class="space"> </li>
+		{{#countries}}<li><a href="/map/countries/{{id}}">{{id}}</a></li>{{/countries}}
 	</ul>
 </nav>
 <div id="main-container">

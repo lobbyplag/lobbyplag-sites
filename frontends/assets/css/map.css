@@ -514,9 +514,10 @@ footer #social #social-twitter {
 }
 
 #subnav_map_small a {
-
+	padding-left: 4px !important;
+	padding-right: 4px !important;
+	text-transform: uppercase;
 	padding-top: 0px;
-	padding-bottom: 5px;
 	height: 20px;
 	line-height: 35px;
 	font-size: 16px;
