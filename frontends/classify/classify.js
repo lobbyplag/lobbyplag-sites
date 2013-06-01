@@ -277,10 +277,15 @@ var parcelNavig = function (index, user) {
 
 	if ((index >= 0) && (index < amendments.length))
 		_navig.id = amendments[index].uid;
-	if ((index > 0) && (index < amendments.length))
+	if ((index > 0) && (index < amendments.length)) {
 		_navig.prev = amendments[index - 1].uid;
-	if ((index >= 0) && (index < amendments.length)) {
+	} else {
+		_navig.prev = amendments[amendments.length - 1].uid;
+	}
+	if ((index >= 0) && (index + 1 < amendments.length )) {
 		_navig.next = amendments[index + 1].uid;
+	} else {
+		_navig.next = amendments[0].uid
 	}
 	if (index < amendments.length) {
 		for (var i = index - 1; i >= 0; i--) {
