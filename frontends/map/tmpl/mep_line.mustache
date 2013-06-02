@@ -1,0 +1,20 @@
+<div class="mep_line">
+	<div class="mep_image"></div>
+	<div class="mep_info">
+		<span class="spanmep_name">
+			{{name}}<br/>
+			<span class="label label-info label-country" title="{{country_obj.name}}">{{country_obj.id}}</span>
+			<span class="label label-info label-group" title="{{group_obj.long}}">{{group_obj.short}}</span>
+		</span>
+	</div>
+	<div class="mep_more">
+		<btn class="btn btn-small">More &gt;&gt;</btn>
+	</div>
+	<div class="mep_chart">
+		<div class="lobbyplag pie"
+			 data-lobbyplag='{"pro": {{votes.pro}}, "contra": {{votes.contra}}, "neutral": {{votes.neutral}}}'>
+			<span style="font-size: 10px; line-height: 8px">
+			P:{{votes.pro}} / C: {{votes.contra}} / N: {{votes.neutral}}
+			</span> </div>
+	</div>
+</div>

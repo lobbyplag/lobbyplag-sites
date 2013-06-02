@@ -1,8 +1,9 @@
 <nav id="subnav_map" class="navbar navbar-inverse">
 	<ul class="nav">
 		<li class="active"><a href="/map/countries">All</a></li>
-		<li class="space"> </li>
-		{{#countries}}<li><a href="/map/countries/{{id}}">{{id}}</a></li>{{/countries}}
+		<li class="space"></li>
+		{{#countries}}
+			<li><a href="/map/countries/{{id}}">{{id}}</a></li>{{/countries}}
 	</ul>
 </nav>
 <div id="main-container">
@@ -30,11 +31,11 @@
 		<div class="row">
 			<div class="span6 overview_box">
 				<h4>FLOP 10 - Europa</h4>
-				<section class="graphic_box"></section>
+				<div class="flop_box">{{#flops}}{{>mep_line}}{{/flops}}</div>
 			</div>
 			<div class="span6 overview_box">
 				<h4>TOP 10 - Europa</h4>
-				<section class="graphic_box"></section>
+				<div class="top_box">{{#tops}}{{>mep_line}}{{/tops}}</div>
 			</div>
 		</div>
 	</div>

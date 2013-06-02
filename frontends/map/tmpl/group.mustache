@@ -1,15 +1,15 @@
 <nav id="subnav_map" class="navbar navbar-inverse">
 	<ul class="nav">
-		{{#parties}}
-			<li{{#active}} class="active" {{/active}}><a href="/map/parties/{{id}}"> {{short}} </a></li>{{/parties}}
+		{{#groups}}
+			<li{{#active}} class="active" {{/active}}><a href="/map/groups/{{id}}"> {{short}} </a></li>{{/groups}}
 	</ul>
 </nav>
 <nav id="subnav_map_small" class="navbar navbar-inverse">
 	<ul class="nav">
-		<li{{^country}} class="active" {{/country}}><a href="/map/parties/{{id}}">All</a></li>
+		<li{{^country}} class="active" {{/country}}><a href="/map/groups/{{id}}">All</a></li>
 		<li class="space"></li>
 		{{#countries}}
-			<li{{#active}} class="active" {{/active}}><a href="/map/parties/{{party_id}}/{{id}}">{{id}}</a>
+			<li{{#active}} class="active" {{/active}}><a href="/map/groups/{{group_id}}/{{id}}">{{id}}</a>
 			</li>{{/countries}}
 	</ul>
 </nav>
@@ -17,7 +17,7 @@
 <div id="main" role="main">
 <div class="row">
 <div class="span12 overview_box">
-<h4>Overview {{party.short}} in {{^country}}Europe{{/country}}{{#country}}{{name}} [LOCALPARTYNAME]{{/country}}</h4>
+<h4>Overview {{group.short}} in {{^country}}Europe{{/country}}{{#country}}{{name}} [LOCALPARTYNAME]{{/country}}</h4>
 	<section class="graphic_box"></section>
 </div>
 </div>
@@ -37,12 +37,12 @@
 	</div>
 	<div class="row">
 		<div class="span6 overview_box">
-			<h4>FLOP 10 - {{party.short}}</h4>
-			<section class="graphic_box"></section>
+			<h4>FLOP 10 - {{group.short}}</h4>
+			<div class="flop_box">{{#flops}}{{>mep_line}}{{/flops}}</div>
 		</div>
 		<div class="span6 overview_box">
-			<h4>TOP 10 - {{party.short}}</h4>
-			<section class="graphic_box"></section>
+			<h4>TOP 10 - {{group.short}}</h4>
+			<div class="top_box">{{#tops}}{{>mep_line}}{{/tops}}</div>
 		</div>
 	</div>
 

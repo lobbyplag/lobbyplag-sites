@@ -440,7 +440,6 @@ footer #social #social-twitter {
 	height: 160px;
 }
 
-
 .info {
 	margin-top: 10px;
 	margin-bottom: 10px;
@@ -523,4 +522,52 @@ footer #social #social-twitter {
 	font-size: 16px;
 	color: #fff;
 
+}
+
+.label-country, .label-group {
+	text-transform: uppercase;
+}
+
+.mep_line {
+	border-top: 1px solid #d6ccc5;
+	height: 80px;
+	text-align: left;
+}
+
+.mep_info {
+	float: left;
+	max-width: 200px;
+	margin-top: 12px;
+}
+
+.spanmep_name {
+	font-size: 16px;
+}
+
+.mep_line div {
+	display: inline;
+}
+
+.mep_image {
+	float: left;
+	border: 1px solid red;
+	height: 50px;
+	width: 50px;
+	margin-left: 20px;
+	margin-top: 14px;
+}
+
+.mep_more {
+	float: right;
+	margin-right: 20px;
+	margin-top: 28px;
+}
+
+.mep_chart {
+	margin-top: 4px;
+	float: right;
+	border: 1px solid red;
+	height: 70px;
+	width: 70px;
+	margin-right: 20px;
 }
