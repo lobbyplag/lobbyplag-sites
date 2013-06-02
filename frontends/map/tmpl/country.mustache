@@ -16,7 +16,11 @@
 			{{/country}}
 			<div class="span{{^country}}6{{/country}}{{#country}}12{{/country}} info_box">
 				<h4>Overview {{^country}}Europe{{/country}}{{#country}}{{name}}{{/country}} </h4>
-
+				{{#country}}
+				<div class="overview_text_box f32">
+				<span class="flag {{id}}"></span>
+				</div>
+				{{/country}}
 				<div class="overview_text_box">
 					{{#overview}}
 						Amendments: {{total}}<br/>

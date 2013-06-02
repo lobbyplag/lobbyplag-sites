@@ -431,7 +431,7 @@ footer #social #social-twitter {
 
 /* map - custom */
 
-.info_box  {
+.info_box {
 	border: 1px solid #fcc;
 	text-align: center;
 }
@@ -511,7 +511,6 @@ footer #social #social-twitter {
 	border-top: 1px solid #a47e3c;
 
 }
-
 
 #subnav_map_search {
 
@@ -615,7 +614,7 @@ footer #social #social-twitter {
 	text-align: left;
 	height: 140px;
 	width: 260px;
-	top:0;
+	top: 0;
 	margin-bottom: 10px;
 }
 
@@ -625,6 +624,10 @@ footer #social #social-twitter {
 	height: 140px;
 	width: 140px;
 	margin-bottom: 10px;
+}
+
+.nav .space {
+	border-right: 1px solid red;
 }
 
 .mep_info_box {
