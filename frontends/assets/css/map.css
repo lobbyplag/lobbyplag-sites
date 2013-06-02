@@ -431,7 +431,7 @@ footer #social #social-twitter {
 
 /* map - custom */
 
-.overview_box {
+.info_box  {
 	border: 1px solid #fcc;
 	text-align: center;
 }
@@ -512,6 +512,19 @@ footer #social #social-twitter {
 
 }
 
+
+#subnav_map_search {
+
+	display: block;
+	position: relative;
+	height: 40px;
+	margin-bottom: 0px;
+	background-color: #c56d24;
+	padding-right: 60px;
+	border-top: 1px solid #a47e3c;
+
+}
+
 #subnav_map_small a {
 	padding-left: 4px !important;
 	padding-right: 4px !important;
@@ -570,4 +583,64 @@ footer #social #social-twitter {
 	height: 70px;
 	width: 70px;
 	margin-right: 20px;
+}
+
+.legend_strong, .legend_weak, .legend_neutral {
+	font-size: 14px;
+}
+
+.legend_strong {
+	color: #007402;
+}
+
+.legend_weak {
+	font-size: 14px;
+	color: #740f16;
+}
+
+.legend_neutral {
+	font-size: 14px;
+	color: #746f71;
+}
+
+.btn_email {
+	position: absolute;
+	bottom: 0;
+	display: block;
+}
+
+.overview_text_box {
+	position: relative;
+	display: inline-table;
+	text-align: left;
+	height: 140px;
+	width: 260px;
+	top:0;
+	margin-bottom: 10px;
+}
+
+.overview_chart {
+	display: inline-table;
+	border: 1px solid red;
+	height: 140px;
+	width: 140px;
+	margin-bottom: 10px;
+}
+
+.mep_info_box {
+	height: 160px;
+}
+
+.mep_info_text {
+	font-size: 14px;
+}
+
+.search_result_header {
+	margin-bottom: 8px;
+	border-bottom: 1px solid #d6ccc5;
+}
+
+.form-search input {
+	margin-left: 10px;
+	margin-top: 4px;
 }

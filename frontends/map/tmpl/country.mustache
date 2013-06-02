@@ -1,46 +1,74 @@
 <nav id="subnav_map" class="navbar navbar-inverse">
 	<ul class="nav">
-		<li><a href="/map/countries">All</a></li>
-		<li class="space"> </li>
+		<li{{^country}} class="active" {{/country}}><a href="/map/countries">All</a></li>
+		<li class="space"></li>
 		{{#countries}}
 			<li{{#active}} class="active" {{/active}}><a href="/map/countries/{{id}}">{{id}}</a></li>{{/countries}}
 	</ul>
 </nav>
 <div id="main-container">
 	<div id="main" role="main">
-		{{#country}}
-			<div class="row">
-				<div class="span12 overview_box">
-					<h4>Overview {{name}}</h4>
-					<section class="graphic_box"></section>
+		<div class="row">
+			{{^country}}
+				<div class="span6 info_box">
+					<h4>Overview Countries</h4>
+				</div>
+			{{/country}}
+			<div class="span{{^country}}6{{/country}}{{#country}}12{{/country}} info_box">
+				<h4>Overview {{^country}}Europe{{/country}}{{#country}}{{name}}{{/country}} </h4>
+
+				<div class="overview_text_box">
+					{{#overview}}
+						Amendments: {{total}}<br/>
+						<span class="legend_strong">...stronger: {{pro}}</span><br/>
+						<span class="legend_weak">...weaker: {{contra}}</span><br/>
+						<span class="legend_neutral">...neutral: {{neutral}}</span><br/>
+					{{/overview}}
+					<div class="btn_email">
+						<a class="btn btn-primary btn-small" href="#">Send E-Mail to all <span
+								class="label label-info label-group"
+								title="{{group.long}}">{{group.short}}</span>
+							MEPs</a>
+					</div>
+				</div>
+				<div class="overview_chart">
+					{{#overview}}
+						<div class="lobbyplag pie"
+							 data-lobbyplag='{"pro": {{pro}}, "contra": {{contra}}, "neutral": {{neutral}}}'>
+						<span style="font-size: 10px; line-height: 8px">P:{{pro}} / C: {{contra}}
+							/ N: {{neutral}}</span>
+						</div>
+					{{/overview}}
 				</div>
 			</div>
-			<div class="row">
-				<div class="span12">
-					<section class="info">
-						Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer
-						Erklärbärtext
-						Kurzer
-						Erklärbärtext Kurzer
-						Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer
-						Erklärbärtext
-						Kurzer
-						Erklärbärtext Kurzer Erklärbärtext
-						Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext
-					</section>
-				</div>
+		</div>
+		<div class="row">
+			<div class="span12">
+				<section class="info">
+					Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer
+					Erklärbärtext
+					Kurzer
+					Erklärbärtext Kurzer
+					Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer
+					Erklärbärtext
+					Kurzer
+					Erklärbärtext Kurzer Erklärbärtext
+					Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext
+				</section>
 			</div>
-			<div class="row">
-				<div class="span6 overview_box">
-					<h4>FLOP 10 - {{name}}</h4>
-					<div class="flop_box">{{#flops}}{{>mep_line}}{{/flops}}</div>
-				</div>
-				<div class="span6 overview_box">
-					<h4>TOP 10 - {{name}}</h4>
-					<div class="top_box">{{#tops}}{{>mep_line}}{{/tops}}</div>
-				</div>
+		</div>
+		<div class="row">
+			<div class="span6 info_box">
+				<h4>Top 10 for less Data Privacy in {{country.name}}</h4>
+
+				<div class="flop_box">{{#flops}}{{>mep_line}}{{/flops}}</div>
 			</div>
-		{{/country}}
+			<div class="span6 info_box">
+				<h4>Top 10 for more Data Privacy in {{country.name}}</h4>
+
+				<div class="top_box">{{#tops}}{{>mep_line}}{{/tops}}</div>
+			</div>
+		</div>
 	</div>
 </div>
 

@@ -1,4 +1,93 @@
+<nav id="subnav_map_search" class="navbar navbar-inverse">
+	<form class="form-search" action="/map/meps/" method="get">
+		<input name="q" type="text" placeholder="Search"
+			   data-source='{{typeahead}}'
+			   autocomplete="off"
+			   data-items="4" data-provide="typeahead" class="span3">
+		<button type="submit" class="btn">Search</button>
+	</form>
+</nav>
 <div id="main-container">
 	<div id="main" role="main">
+		<div class="row">
+			<div class="span12">
+
+			</div>
+		</div>
+		{{#message}}
+			<h2>{{message}}</h2>
+		{{/message}}
+		{{#meps_haschildren}}
+			<div class="row search_result_header">
+				<div class="span3">Name</div>
+				<div class="span2">Country</div>
+				<div class="span3">Party</div>
+				<div class="span4">Group</div>
+			</div>
+		{{/meps_haschildren}}
+		{{#meps}}
+			<div class="row">
+				<div class="span3">
+					<a href="/map/meps/?id={{id}}">{{name}}</a>
+				</div>
+				<div class="span2">
+					<span class="label label-info label-country" title="{{country_obj.name}}">{{country_obj.id}}</span>
+					{{country_obj.name}}
+				</div>
+				<div class="span3">
+					{{party}}
+				</div>
+				<div class="span4">
+					<span class="label label-info label-group"
+						  title="{{group_obj.long}} - {{party}}">{{group_obj.short}}</span>
+					{{group_obj.long}}
+				</div>
+			</div>
+		{{/meps}}
+		{{#mep}}
+			<div class="row">
+				<div class="span6 info_box">
+					<div class="mep_info_box">
+						<h4>{{name}}</h4>
+						<span class="label label-info label-country"
+							  title="{{country_obj.name}}">{{country_obj.id}}</span>
+					<span class="label label-info label-group"
+						  title="{{group_obj.long}}">{{group_obj.short}}</span><br/> <br/>
+
+						<div class="mep_info_text">
+							Country: {{country_obj.name}}<br/>
+							Group: {{group_obj.long}} ({{group_obj.short}})<br/>
+							Party: {{party}}
+						</div>
+					</div>
+				</div>
+				<div class="span6 info_box">
+					<h4>Overview {{name}}</h4>
+
+					<div class="overview_text_box">
+						{{#votes}}
+							Amendments: {{total}}<br/>
+							<span class="legend_strong">...stronger: {{pro}}</span><br/>
+							<span class="legend_weak">...weaker: {{contra}}</span><br/>
+							<span class="legend_neutral">...neutral: {{neutral}}</span><br/>
+						{{/votes}}
+						<div class="btn_email">
+							<a class="btn btn-primary btn-small" href="#">Send E-Mail</a>
+						</div>
+					</div>
+					<div class="overview_chart">
+						{{#votes}}
+							<div class="lobbyplag pie"
+								 data-lobbyplag='{"pro": {{pro}}, "contra": {{contra}}, "neutral": {{neutral}}}'>
+						<span style="font-size: 10px; line-height: 8px">P:{{pro}} / C: {{contra}}
+							/ N: {{neutral}}</span>
+							</div>
+						{{/votes}}
+
+					</div>
+				</div>
+			</div>
+		{{/mep}}
+
 	</div>
 </div>

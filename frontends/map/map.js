@@ -1,5 +1,6 @@
 var path = require('path')
 	, fs = require('fs')
+	, url = require('url')
 	, mustache = require('mustache')
 	, express = require('express');
 
@@ -15,7 +16,6 @@ Array.prototype.findByUID = function (id) {
 	return null;
 };
 
-
 Array.prototype.findByID = function (id) {
 	for (var i = 0; i < this.length; i++) {
 		if (this[i].id === id) {
@@ -25,15 +25,56 @@ Array.prototype.findByID = function (id) {
 	return null;
 };
 
-Array.prototype.filterByGroup = function (group_id) {
+Array.prototype.hasOneMepByCountry = function (country_id) {
+	for (var i = 0; i < this.length; i++) {
+		if (this[i].country === country_id) {
+			return true;
+		}
+	}
+	return false;
+};
+
+Array.prototype.filterMepsByGroup = function (group_id) {
 	return this.filter(function (mep) {
 		return mep.group === group_id;
 	});
 };
 
-Array.prototype.filterByCountry = function (country_id) {
+Array.prototype.filterMepsByCountry = function (country_id) {
 	return this.filter(function (mep) {
 		return mep.country === country_id;
+	});
+};
+
+Array.prototype.getClassifiedOverview = function () {
+	var result = {pro: 0, contra: 0, neutral: 0};
+	this.forEach(function (c) {
+		if (c.vote === "neutral")
+			result.neutral += 1;
+		else if (c.vote === "weaker")
+			result.contra += 1;
+		else if (c.vote === "stronger")
+			result.pro += 1;
+	});
+	result.total = result.pro + result.contra + result.neutral;
+	return result;
+};
+Array.prototype.filterClassifiedByGroup = function (group_id) {
+	return this.filter(function (c) {
+		for (var i = 0; i < c.meps.length; i++) {
+			if (c.meps[i].group === group_id)
+				return true;
+		}
+		return false;
+	});
+};
+Array.prototype.filterClassifiedByCountry = function (country_id) {
+	return this.filter(function (c) {
+		for (var i = 0; i < c.meps.length; i++) {
+			if (c.meps[i].country === country_id)
+				return true;
+		}
+		return false;
 	});
 };
 
@@ -56,6 +97,9 @@ var raw_amendments = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.d
 var classified_data = JSON.parse(fs.readFileSync(path.resolve(__dirname, './data', 'classified.json')));
 classified_data.forEach(function (c) {
 	c.amend = raw_amendments.findByUID(c.uid);
+});
+classified_data = classified_data.filter(function (c) {
+	return c.user === 'MS';
 });
 
 var raw_meps_data = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'mep.json')));
@@ -86,6 +130,7 @@ for (var key in raw_meps_data) {
 						_mep.votes.contra += 1;
 					else if (c.vote === "stronger")
 						_mep.votes.pro += 1;
+					_mep.votes.total = _mep.votes.pro + _mep.votes.contra + _mep.votes.neutral;
 				}
 			});
 		}
@@ -94,15 +139,24 @@ for (var key in raw_meps_data) {
 	meps.push(_mep);
 }
 
+classified_data.forEach(function (c) {
+	c.meps = meps.filter(function (mep) {
+		return c.amend.author_ids.indexOf(mep.id) >= 0;
+	});
+	if (c.meps.length === 0) {
+		console.log('Amendment without Authors ' + c.uid);
+	}
+});
+
 /* configure Express */
 
 var app = express();
 
 app.configure(function () {
-	app.use(express.logger('dev'));
 	app.use(express.bodyParser());
 	app.use("/assets", express.static(path.resolve(__dirname, '../assets')));
 	app.use(express.favicon(__dirname + '/../assets/img/favicon.ico'));
+	app.use(express.logger('dev'));
 });
 
 
@@ -113,7 +167,6 @@ var tmpl = {
 	footer: fs.readFileSync(__dirname + "/../assets/tmpl/footer.mustache").toString(),
 
 	overview: fs.readFileSync(path.resolve(__dirname, "tmpl/overview.mustache")).toString(),
-	countries: fs.readFileSync(path.resolve(__dirname, "tmpl/countries.mustache")).toString(),
 	country: fs.readFileSync(path.resolve(__dirname, "tmpl/country.mustache")).toString(),
 	topics: fs.readFileSync(path.resolve(__dirname, "tmpl/topics.mustache")).toString(),
 	meps: fs.readFileSync(path.resolve(__dirname, "tmpl/meps.mustache")).toString(),
@@ -134,6 +187,7 @@ var sendTemplate = function (req, res, template, data) {
 	}));
 	res.end();
 };
+
 
 Array.prototype.flops = function () {
 	this.sort(function (a, b) {
@@ -180,33 +234,38 @@ app.get(config.prefix + '/overview', function (req, res) {
 	})
 });
 app.get(config.prefix + '/countries', function (req, res) {
-	sendTemplate(req, res, tmpl.countries, {
+	sendTemplate(req, res, tmpl.country, {
 		"active_countries": true,
 		countries: countries,
 		tops: meps.tops(),
-		flops: meps.flops()
+		flops: meps.flops(),
+		overview: classified_data.getClassifiedOverview()
 	});
 });
 app.get(config.prefix + '/countries/:country', function (req, res) {
 	var _country = countries.findByID(req.params.country);
 	if (!_country) {
-		sendTemplate(req, res, tmpl.countries, {
+		sendTemplate(req, res, tmpl.country, {
 			"active_countries": true,
 			countries: countries,
 			tops: meps.tops(),
-			flops: meps.flops()
+			flops: meps.flops(),
+			overview: classified_data.getClassifiedOverview()
 		});
 	} else {
 		var _countries = countries.map(function (country) {
 			return {id: country.id, name: country.name, active: country.id === _country.id};
 		});
-		var _meps = meps.filterByCountry(_country.id);
+		var _meps = meps.filterMepsByCountry(_country.id);
+		var _overview = classified_data.filterClassifiedByCountry(_country.id);
+
 		sendTemplate(req, res, tmpl.country, {
 			"active_countries": true,
 			countries: _countries,
 			country: _country,
 			tops: _meps.tops(),
-			flops: _meps.flops()
+			flops: _meps.flops(),
+			overview: _overview.getClassifiedOverview()
 		})
 	}
 });
@@ -219,16 +278,18 @@ app.get(config.prefix + '/groups', function (req, res) {
 	var _countries = countries.map(function (country) {
 		return {id: country.id, name: country.name, group_id: _group.id};
 	});
-	var _meps = meps.filterByGroup(_group.id);
+	var _meps = meps.filterMepsByGroup(_group.id);
 	sendTemplate(req, res, tmpl.group, {
 		"active_groups": true,
 		group: _group,
 		groups: _groups,
 		countries: _countries,
 		tops: _meps.tops(),
-		flops: _meps.flops()
+		flops: _meps.flops(),
+		overview: classified_data.filterClassifiedByGroup(_group.id).getClassifiedOverview()
 	});
 });
+
 app.get(config.prefix + '/groups/:group', function (req, res) {
 	var _group = groups.findByID(req.params.group) || groups[0];
 	var _groups = groups.map(function (group) {
@@ -237,14 +298,18 @@ app.get(config.prefix + '/groups/:group', function (req, res) {
 	var _countries = countries.map(function (country) {
 		return {id: country.id, name: country.name, group_id: _group.id};
 	});
-	var _meps = meps.filterByGroup(_group.id);
+	var _meps = meps.filterMepsByGroup(_group.id);
+	_countries = _countries.filter(function (country) {
+		return (_meps.hasOneMepByCountry(country.id));
+	});
 	sendTemplate(req, res, tmpl.group, {
 		"active_groups": true,
 		group: _group,
 		groups: _groups,
 		countries: _countries,
 		tops: _meps.tops(),
-		flops: _meps.flops()
+		flops: _meps.flops(),
+		overview: classified_data.filterClassifiedByGroup(_group.id).getClassifiedOverview()
 	});
 });
 
@@ -257,9 +322,18 @@ app.get(config.prefix + '/groups/:group/:country', function (req, res) {
 	var _countries = countries.map(function (country) {
 		return {id: country.id, name: country.name, group_id: _group.id, active: ((_country) && (country.id === _country.id))};
 	});
-	var _meps = meps.filterByGroup(_group.id);
-	if (_country)
-		_meps = _meps.filterByCountry(_country.id);
+	var _meps = meps.filterMepsByGroup(_group.id);
+	_countries = _countries.filter(function (country) {
+		return (_meps.hasOneMepByCountry(country.id));
+	});
+	var _overview = classified_data.filterClassifiedByGroup(_group.id);
+	if (_country) {
+		_meps = _meps.filterMepsByCountry(_country.id);
+		_overview = _overview.filterClassifiedByCountry(_country.id);
+		var _local = _group.local[_country.id];
+		if (_local)
+			_local = '(' + _local.join(',') + ')';
+	}
 	sendTemplate(req, res, tmpl.group, {
 		"active_groups": true,
 		group: _group,
@@ -267,16 +341,56 @@ app.get(config.prefix + '/groups/:group/:country', function (req, res) {
 		country: _country,
 		countries: _countries,
 		tops: _meps.tops(),
-		flops: _meps.flops()
+		flops: _meps.flops(),
+		localparties: _local,
+		overview: _overview.getClassifiedOverview()
 	});
 });
+
+
+app.get(config.prefix + '/meps', function (req, res) {
+	var query = url.parse(req.url, true).query;
+	var _meps;
+	var _mep;
+	var _message;
+	if ((query.q) && (query.q.length > 0)) {
+		_meps = meps.filter(function (mep) {
+			return mep.name.indexOf(query.q) >= 0;
+		});
+		if (_meps.length === 1) {
+			_mep = _meps[0];
+			_meps = null;
+		} else {
+			_message = 'Found ' + _meps.length;
+		}
+	}
+	if ((query.id) && (query.id.length > 0)) {
+		var _mapi = meps.findByID(query.id);
+		if (_mapi) {
+			_message = null;
+			_meps = null;
+			_mep = _mapi;
+		}
+	}
+	var _typeahead = meps.map(function (mep) {
+		return mep.name;
+	});
+	sendTemplate(req, res, tmpl.meps, {
+		"active_meps": true,
+		meps: _meps,
+		meps_haschildren: ((_meps) && (_meps.length > 1)),
+		mep: _mep,
+		message: _message,
+		"typeahead": JSON.stringify(_typeahead)
+	});
+});
+
 
 app.get(config.prefix + '/topics', function (req, res) {
 	sendTemplate(req, res, tmpl.topics, {"active_topics": true})
 });
-app.get(config.prefix + '/meps', function (req, res) {
-	sendTemplate(req, res, tmpl.meps, {"active_meps": true})
-});
+
+
 app.get(config.prefix + '/mail', function (req, res) {
 	sendTemplate(req, res, tmpl.mail, {})
 });
