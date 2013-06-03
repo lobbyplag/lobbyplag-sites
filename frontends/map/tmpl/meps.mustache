@@ -9,11 +9,32 @@
 </nav>
 <div id="main-container">
 	<div id="main" role="main">
-		<div class="row">
-			<div class="span12">
-
-			</div>
-		</div>
+		{{^meps_haschildren}}
+			{{^mep}}
+				<div class="row">
+					<div class="span12">
+						Die EU-Abgeordneten (engl. Abkürzung „MEPs“) wurden nach nationalen Listen gewählt und vertreten
+						direkt die EU-Bürger. Die meisten Abgeordneten gehören zu einer nationalen Partei und haben sich
+						auf
+						EU-Ebene in Fraktionen zusammengeschlossen. EU-Abgeordnete sind jedoch viel freier als die
+						meisten
+						nationalen Abgeordneten: Sie stimmen frei ab und sind nicht an eine „Parteilinie“ gebunden. Es
+						gibt aber
+						auch einige unabhängige Abgeordnete. Die nächste Wahl für das EU-Parlament ist schon 2014.
+						Für die Datenschutzreform sind vor allem die Abgeordneten im zuständigen Innenausschuss des
+						Parlaments (Abkürzung: „LIBE-Ausschuss“) interessant. Sie verhandeln einen Vorschlag, der dann
+						dem ganzen
+						Parlament vorgelegt wird. Die Abgeordneten werden von Lobbyisten für und gegen Datenschutz
+						besucht. Die Abgeordneten
+						müssen sich nicht mit Lobbyisten treffen, der Umgang  mit Lobbyisten ist von einem Abgeordneten
+						zum anderen
+						sehr verschieden. In der EU gibt es keine zwingenden Regeln für Lobbyismus. Bei der
+						Datenschutzreform
+						soll es besonders intensives Lobbying der Industrie gegeben haben.
+					</div>
+				</div>
+			{{/mep}}
+		{{/meps_haschildren}}
 		{{#message}}
 			<h2>{{message}}</h2>
 		{{/message}}
@@ -50,7 +71,7 @@
 					<div class="mep_info_box f16">
 						<h4>{{name}}</h4>
 						<span title="{{country_obj.name}}" class="flag {{country_obj.id}}"></span>
-					<!--		<span class="label label-info label-country"  title="{{country_obj.name}}">{{country_obj.id}}</span>-->
+						<!--		<span class="label label-info label-country"  title="{{country_obj.name}}">{{country_obj.id}}</span>-->
 					<span class="label label-info label-group"
 						  title="{{group_obj.long}}">{{group_obj.short}}</span><br/> <br/>
 

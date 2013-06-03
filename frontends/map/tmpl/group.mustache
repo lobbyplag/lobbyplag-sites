@@ -17,14 +17,15 @@
 	<div id="main" role="main">
 		<div class="row">
 			{{^country}}
-			<div class="span6 info_box">
-				<h4>{{group.short}} in Europe</h4>
+				<div class="span6 info_box">
+					<h4>{{group.short}} in Europe</h4>
 
-			</div>
+				</div>
 			{{/country}}
 			<div class="span{{^country}}6{{/country}}{{#country}}12{{/country}} info_box">
 				<h4>Overview {{group.short}} in {{^country}}Europe{{/country}}{{#country}}{{name}}{{/country}}
 					{{localparties}}</h4>
+
 				<div class="overview_text_box">
 					{{#overview}}
 						Amendments: {{total}}<br/>
@@ -33,33 +34,36 @@
 						<span class="legend_neutral">...neutral: {{neutral}}</span><br/>
 					{{/overview}}
 					<div class="btn_email">
-					<a class="btn btn-primary btn-small" href="#">Send E-Mail to all <span class="label label-info label-group"
-																				 title="{{group.long}}">{{group.short}}</span>
-						MEPs</a>
+						<a class="btn btn-primary btn-small" href="#">Send E-Mail to all <span
+								class="label label-info label-group"
+								title="{{group.long}}">{{group.short}}</span>
+							MEPs</a>
 					</div>
 				</div>
 				<div class="overview_chart">
 					{{#overview}}
-					<div class="lobbyplag pie"
-						 data-lobbyplag='{"pro": {{pro}}, "contra": {{contra}}, "neutral": {{neutral}}}'>
+						<div class="lobbyplag pie"
+							 data-lobbyplag='{"pro": {{pro}}, "contra": {{contra}}, "neutral": {{neutral}}}'>
 						<span style="font-size: 10px; line-height: 8px">P:{{pro}} / C: {{contra}}
 							/ N: {{neutral}}</span>
-					</div>
-				{{/overview}}
+						</div>
+					{{/overview}}
 				</div>
 			</div>
 		</div>
 		<div class="row">
 			<div class="span12">
 				<section class="info">
-					Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer
-					Erklärbärtext
-					Kurzer
-					Erklärbärtext Kurzer
-					Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext
-					Kurzer
-					Erklärbärtext Kurzer Erklärbärtext
-					Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext
+					Im EU Parlament sind die nationalen Parteien in Fraktionen zusammengefasst. Nicht alle Fraktionen
+					haben Mitglieder aus allen Ländern. So gibt es in vielen Ländern z.B. keine liberale, grüne oder
+					linke Partei, da es entweder keine nationalen Parteien gibt, oder diese keine Sitze im
+					Europaparlament erhalten haben. Auch gibt es unabhängige Kandidaten die sich einer Fraktion
+					angeschlossen haben. Wer keiner Fraktion angehört gilt als „Fraktionslos“ (engl. Abkürzung „NI“) und
+					sitzt auf eigene Faust im EU Parlament.
+					Die Fraktionen im EU Parlament sind viel bunter als in den Mitgliedstaaten. Die EU-Abgeordneten
+					halten sich zwar oft an die „Parteilinie“, oft stimmen sie aber auch gegen die Linie der eigenen
+					Fraktion. Obwohl die Fraktionen kein einheitlicher Block sind kann man doch gewisse Tendenzen bei
+					den verschiedenen Fraktionen feststellen.
 				</section>
 			</div>
 		</div>

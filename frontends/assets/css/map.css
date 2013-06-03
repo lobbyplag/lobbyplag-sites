@@ -444,6 +444,7 @@ footer #social #social-twitter {
 	margin-top: 10px;
 	margin-bottom: 10px;
 	font-size: 14px;
+	text-align: justify;
 }
 
 #subnav_placeholder {
@@ -455,6 +456,7 @@ footer #social #social-twitter {
 	display: block;
 	position: relative;
 	height: 40px;
+	max-height: 40px;
 	margin-bottom: 0px;
 	background-color: #BB6622;
 	padding-right: 60px;
@@ -475,6 +477,7 @@ footer #social #social-twitter {
 	display: block;
 	position: relative;
 	height: 40px;
+	max-height: 40px;
 	margin-bottom: 0px;
 	background-color: #bf6824;
 	padding-right: 60px;
@@ -505,6 +508,7 @@ footer #social #social-twitter {
 	display: block;
 	position: relative;
 	height: 30px;
+	max-height: 30px;
 	margin-bottom: 0px;
 	background-color: #c56d24;
 	padding-right: 60px;
@@ -513,10 +517,10 @@ footer #social #social-twitter {
 }
 
 #subnav_map_search {
-
 	display: block;
 	position: relative;
 	height: 40px;
+	max-height: 40px;
 	margin-bottom: 0px;
 	background-color: #c56d24;
 	padding-right: 60px;

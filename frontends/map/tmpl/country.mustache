@@ -12,6 +12,10 @@
 			{{^country}}
 				<div class="span6 info_box">
 					<h4>Overview Countries</h4>
+				{{#all_overview}}
+					<div class="lobbyplag map"
+						 data-lobbyplag='{{all_overview}}'></div>
+				{{/all_overview}}
 				</div>
 			{{/country}}
 			<div class="span{{^country}}6{{/country}}{{#country}}12{{/country}} info_box">
@@ -63,12 +67,12 @@
 		</div>
 		<div class="row">
 			<div class="span6 info_box">
-				<h4>Top 10 for less Data Privacy in {{country.name}}</h4>
+				<h4>Top 10 for less Data Privacy in {{^country}}Europe{{/country}}{{#country}}{{name}}{{/country}}</h4>
 
 				<div class="flop_box">{{#flops}}{{>mep_line}}{{/flops}}</div>
 			</div>
 			<div class="span6 info_box">
-				<h4>Top 10 for more Data Privacy in {{country.name}}</h4>
+				<h4>Top 10 for more Data Privacy in {{^country}}Europe{{/country}}{{#country}}{{name}}{{/country}}</h4>
 
 				<div class="top_box">{{#tops}}{{>mep_line}}{{/tops}}</div>
 			</div>
