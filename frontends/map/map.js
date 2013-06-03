@@ -391,16 +391,8 @@ app.get(config.prefix + '/groups/:group', function (req, res) {
 });
 
 function sendGroupCountry(_group, _country, req, res) {
-
-}
-
-app.get(config.prefix + '/groups/:group/:country', function (req, res) {
-		var _group = groups.findByID(req.params.group) || groups[0];
-		var _country = countries.findByID(req.params.country);
-		if (!_country) {
-			sendGroup(req, res, _group);
-			return;
-		}
+	var _data = filtercache['grocou' + _group.id + _country.id];
+	if (!_data) {
 		var _meps = meps.filterMepsByGroup(_group.id);
 		var _groups = groups.map(function (group) {
 			return {id: group.id, short: group.short, long: group.long, active: (group.id === _group.id)};
@@ -431,7 +423,7 @@ app.get(config.prefix + '/groups/:group/:country', function (req, res) {
 		if ((_constituencies) && (_constituencies.length > 0)) {
 			_local = '(' + _constituencies.join(', ') + ')';
 		}
-		sendTemplate(req, res, tmpl.group, {
+		_data = {
 			"active_groups": true,
 			group: _group,
 			groups: _groups,
@@ -441,9 +433,21 @@ app.get(config.prefix + '/groups/:group/:country', function (req, res) {
 			flops: _meps.flops(),
 			localparties: _local,
 			overview: _overview.getClassifiedOverview()
-		});
+		};
+		filtercache['grocou' + _group.id + _country.id] = _data;
 	}
-)
+	sendTemplate(req, res, tmpl.group, _data);
+}
+
+app.get(config.prefix + '/groups/:group/:country', function (req, res) {
+	var _group = groups.findByID(req.params.group) || groups[0];
+	var _country = countries.findByID(req.params.country);
+	if (!_country) {
+		sendGroup(req, res, _group);
+	} else {
+		sendGroupCountry(_group, _country, req, res);
+	}
+});
 
 app.get(config.prefix + '/meps', function (req, res) {
 	var query = url.parse(req.url, true).query;
@@ -451,8 +455,9 @@ app.get(config.prefix + '/meps', function (req, res) {
 	var _mep;
 	var _message;
 	if ((query.q) && (query.q.length > 0)) {
+		var _search = query.q.toLowerCase();
 		_meps = meps.filter(function (mep) {
-			return mep.name.indexOf(query.q) >= 0;
+			return mep.name.toLowerCase().indexOf(_search) >= 0;
 		});
 		if (_meps.length === 1) {
 			_mep = _meps[0];
