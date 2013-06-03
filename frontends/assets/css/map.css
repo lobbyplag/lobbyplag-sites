@@ -566,11 +566,15 @@ footer #social #social-twitter {
 
 .mep_image {
 	float: left;
-	border: 1px solid red;
-	height: 50px;
+	height: 60px;
 	width: 50px;
 	margin-left: 20px;
-	margin-top: 14px;
+	margin-top: 9px;
+	overflow: hidden;
+}
+
+.mep_image image {
+	width: 50px;
 }
 
 .mep_more {
@@ -635,7 +639,7 @@ footer #social #social-twitter {
 }
 
 .mep_info_box {
-	height: 160px;
+	height: 182px;
 }
 
 .mep_info_text {
