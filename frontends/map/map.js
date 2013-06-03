@@ -418,11 +418,13 @@ app.get(config.prefix + '/groups/:group/:country', function (req, res) {
 			c.meps.forEach(function (mep) {
 				if ((mep.country === _country.id) && (mep.group === _group.id)) {
 					if (!constituencies[mep.constituency]) {
-						console.log(mep.constituency);
+						if (mep.constituency)
+							console.log(mep.constituency);
+					} else {
+						var _name = constituencies[mep.constituency].short;
+						if (_constituencies.indexOf(_name) < 0)
+							_constituencies.push(_name);
 					}
-					var _name = constituencies[mep.constituency].short;
-					if (_constituencies.indexOf(_name) < 0)
-						_constituencies.push(_name);
 				}
 			});
 		});
