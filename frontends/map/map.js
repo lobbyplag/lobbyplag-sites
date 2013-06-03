@@ -386,9 +386,11 @@ app.get(config.prefix + '/countries', function (req, res) {
 function sendCountry(_country, req, res) {
 	var _data = filtercache['country' + _country.id];
 	if (!_data) {
-		var _countries = countries.map(function (country) {
-			return {id: country.id, name: country.name, active: country.id === _country.id};
-		});
+		var _countries = countries.filter(function (country) {
+				return meps.hasOneMepWithDataByCountry(country.id);
+			}).map(function (country) {
+				return {id: country.id, name: country.name, active: country.id === _country.id};
+			});
 		var _meps = meps.filterMepsByCountry(_country.id);
 		var _overview = classified_data.filterClassifiedByCountry(_country.id);
 		_data = {
