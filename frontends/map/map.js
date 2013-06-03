@@ -213,9 +213,18 @@ function initClassified() {
 		else
 			c.amend.directive = c.amend.relations[0].expand();
 	});
+//	var classified_data_edri = classified_data.filter(function (c) {
+//		return c.user === 'EDRI';
+//	});
 	classified_data = classified_data.filter(function (c) {
 		return c.user === 'MS';
 	});
+//	classified_data_edri.forEach(function (c) {
+//		var ms = classified_data.findByUID(c.uid);
+//		//if (ms.vote !== c.vote) {
+//			console.log(c.amend.uid + ';' + c.amend.directive + ';' + c.amend.number + ';' + ms.vote + ';' + c.vote);
+//	//	}
+//	});
 }
 initClassified();
 
@@ -358,7 +367,7 @@ function sendCountries(req, res) {
 	if (!_data) {
 		var _countries = countries.filter(function (country) {
 			return meps.hasOneMepWithDataByCountry(country.id);
-		})
+		});
 		var _overview_countries = {};
 		_countries.forEach(function (country) {
 			var obj = classified_data.filterClassifiedByCountry(country.id).getClassifiedOverview();
@@ -387,8 +396,8 @@ function sendCountry(_country, req, res) {
 	var _data = filtercache['country' + _country.id];
 	if (!_data) {
 		var _countries = countries.filter(function (country) {
-				return meps.hasOneMepWithDataByCountry(country.id);
-			}).map(function (country) {
+			return meps.hasOneMepWithDataByCountry(country.id);
+		}).map(function (country) {
 				return {id: country.id, name: country.name, active: country.id === _country.id};
 			});
 		var _meps = meps.filterMepsByCountry(_country.id);

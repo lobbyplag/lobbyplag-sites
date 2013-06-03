@@ -253,8 +253,6 @@ function importEDRI() {
 				(['stronger', 'weaker', 'neutral'].indexOf(entry.vote) < 0)
 			) {
 			noportc++;
-//			console.log('nay');
-//			console.log(entry);
 		} else {
 			classified_by_users_and_ids['EDRI'][entry.uid] = entry;
 			classified.push(entry);
