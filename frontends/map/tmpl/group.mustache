@@ -6,7 +6,7 @@
 </nav>
 <nav id="subnav_map_small" class="navbar navbar-inverse">
 	<ul class="nav">
-		<li{{^country}} class="active" {{/country}}><a href="/map/groups/{{id}}">All</a></li>
+		<li{{^country}} class="active" {{/country}}><a href="/map/groups/{{group.id}}">All</a></li>
 		<li class="space"></li>
 		{{#countries}}
 			<li{{#active}} class="active" {{/active}}><a href="/map/groups/{{group_id}}/{{id}}">{{id}}</a>
@@ -19,7 +19,11 @@
 			{{^country}}
 				<div class="span6 info_box">
 					<h4>{{group.short}} in Europe</h4>
-
+					<div class="mep_map">
+						<div class="lobbyplag map" data-lobbyplag='{{&overview_countries}}'>
+							<span style="font-size: 10px; line-height: 8px">{{overview_countries}}</span>
+						</div>
+					</div>
 				</div>
 			{{/country}}
 			<div class="span{{^country}}6{{/country}}{{#country}}12{{/country}} info_box">
@@ -35,7 +39,6 @@
 					{{/overview}}
 					<div class="btn_email">
 						<a class="btn btn-primary btn-small" href="#">Send E-Mail to all <span
-								class="label label-info label-group"
 								title="{{group.long}}">{{group.short}}</span>
 							MEPs</a>
 					</div>
@@ -68,13 +71,13 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="span6 info_box">
-				<h4>Top 10 for less Data Privacy by {{group.short}}</h4>
+			<div class="span6 info_box border_weaker">
+				<h4 class="background_weaker info_box_head">Top 10 for less Data Privacy by {{group.short}}</h4>
 
 				<div class="flop_box">{{#flops}}{{>mep_line}}{{/flops}}</div>
 			</div>
-			<div class="span6 info_box">
-				<h4>Top 10 for more Data Privacy by {{group.short}}</h4>
+			<div class="span6 info_box border_stronger">
+				<h4 class="background_stronger info_box_head">Top 10 for more Data Privacy by {{group.short}}</h4>
 
 				<div class="top_box">{{#tops}}{{>mep_line}}{{/tops}}</div>
 			</div>

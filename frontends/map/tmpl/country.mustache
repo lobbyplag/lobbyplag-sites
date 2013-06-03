@@ -12,18 +12,19 @@
 			{{^country}}
 				<div class="span6 info_box">
 					<h4>Overview Countries</h4>
-				{{#all_overview}}
-					<div class="lobbyplag map"
-						 data-lobbyplag='{{all_overview}}'></div>
-				{{/all_overview}}
+					<div class="mep_map">
+						<div class="lobbyplag map" data-lobbyplag='{{&overview_countries}}'>
+							<span style="font-size: 10px; line-height: 8px">{{overview_countries}}</span>
+						</div>
+					</div>
 				</div>
 			{{/country}}
 			<div class="span{{^country}}6{{/country}}{{#country}}12{{/country}} info_box">
 				<h4>Overview {{^country}}Europe{{/country}}{{#country}}{{name}}{{/country}} </h4>
 				{{#country}}
-				<div class="overview_text_box f32">
-				<span class="flag {{id}}"></span>
-				</div>
+					<div class="overview_text_box f32">
+						<span class="flag {{id}}"></span>
+					</div>
 				{{/country}}
 				<div class="overview_text_box">
 					{{#overview}}
@@ -34,7 +35,6 @@
 					{{/overview}}
 					<div class="btn_email">
 						<a class="btn btn-primary btn-small" href="#">Send E-Mail to all <span
-								class="label label-info label-group"
 								title="{{group.long}}">{{group.short}}</span>
 							MEPs</a>
 					</div>
@@ -66,18 +66,16 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="span6 info_box">
-				<h4>Top 10 for less Data Privacy in {{^country}}Europe{{/country}}{{#country}}{{name}}{{/country}}</h4>
-
+			<div class="span6 info_box border_weaker">
+				<h4 class="background_weaker info_box_head">Top 10 for less Data Privacy in {{^country}}
+					Europe{{/country}}{{#country}}{{name}}{{/country}}</h4>
 				<div class="flop_box">{{#flops}}{{>mep_line}}{{/flops}}</div>
 			</div>
-			<div class="span6 info_box">
-				<h4>Top 10 for more Data Privacy in {{^country}}Europe{{/country}}{{#country}}{{name}}{{/country}}</h4>
-
+			<div class="span6 info_box border_stronger">
+				<h4 class="background_stronger info_box_head">Top 10 for more Data Privacy in {{^country}}
+					Europe{{/country}}{{#country}}{{name}}{{/country}}</h4>
 				<div class="top_box">{{#tops}}{{>mep_line}}{{/tops}}</div>
 			</div>
 		</div>
 	</div>
 </div>
-
-

@@ -33,24 +33,6 @@ Array.prototype.hasOneMepWithDataByCountry = function (country_id) {
 	return false;
 };
 
-Array.prototype.hasOneMepByConstituency = function (constituency_id) {
-	for (var i = 0; i < this.length; i++) {
-		if (this[i].constituency === constituency_id) {
-			return true;
-		}
-	}
-	return false;
-};
-
-var filterConstituenciesByGroupAndCountry = function (obj, group_id, country_id) {
-	if (obj[country_id]) {
-		return obj[country_id].filter(function (constituency) {
-			return constituency.group === group_id;
-		});
-	} else
-		return [];
-};
-
 Array.prototype.filterMepsByGroup = function (group_id) {
 	return this.filter(function (mep) {
 		return mep.group === group_id;
@@ -77,6 +59,7 @@ Array.prototype.getClassifiedOverview = function () {
 	result.rate = result.pro - result.contra;
 	return result;
 };
+
 Array.prototype.filterClassifiedByGroupAndCountry = function (group_id, country_id) {
 	return this.filter(function (c) {
 		for (var i = 0; i < c.meps.length; i++) {
@@ -87,6 +70,7 @@ Array.prototype.filterClassifiedByGroupAndCountry = function (group_id, country_
 		return false;
 	});
 };
+
 Array.prototype.filterClassifiedByGroup = function (group_id) {
 	return this.filter(function (c) {
 		for (var i = 0; i < c.meps.length; i++) {
@@ -97,6 +81,7 @@ Array.prototype.filterClassifiedByGroup = function (group_id) {
 		return false;
 	});
 };
+
 Array.prototype.filterClassifiedByCountry = function (country_id) {
 	return this.filter(function (c) {
 		for (var i = 0; i < c.meps.length; i++) {
@@ -106,137 +91,6 @@ Array.prototype.filterClassifiedByCountry = function (country_id) {
 		return false;
 	});
 };
-
-var raw_constituencies = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'constituencies.json')));
-var constituencies = {};
-for (var key in raw_constituencies) {
-	if (raw_constituencies.hasOwnProperty(key)) {
-		raw_constituencies[key].forEach(function (_raw_constituency) {
-			_raw_constituency.country = key;
-			constituencies[_raw_constituency.id] = _raw_constituency;
-		});
-	}
-}
-
-
-var raw_countries = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'countries.json')));
-var countries = [];
-for (var key in raw_countries) {
-	countries.push(
-		{id: key, name: raw_countries[key]}
-	);
-}
-
-var raw_groups = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'groups.json')));
-var groups = [];
-for (var key in raw_groups) {
-	raw_groups[key].id = key;
-	groups.push(raw_groups[key]);
-}
-
-var raw_amendments = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'amendments.json')));
-var classified_data = JSON.parse(fs.readFileSync(path.resolve(__dirname, './data', 'classified.json')));
-classified_data.forEach(function (c) {
-	c.amend = raw_amendments.findByUID(c.uid);
-});
-classified_data = classified_data.filter(function (c) {
-	return c.user === 'MS';
-});
-
-var raw_meps_data = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'mep.json')));
-var meps = [];
-for (var key in raw_meps_data) {
-	var _mep = raw_meps_data[key];
-	_mep.id = key;
-	_mep.country_obj = countries.findByID(_mep.country);
-	if (!_mep.country_obj)
-		console.log('Missing Country for: ' + _mep.country);
-	_mep.group_obj = groups.findByID(_mep.group);
-	if (!_mep.group)
-		console.log('Missing Group for: ' + _mep.group);
-
-	_mep.constituency_obj = constituencies[_mep.constituency];
-	_mep.votes = {
-		pro: 0,
-		contra: 0,
-		neutral: 0,
-		rate: 0,
-		total: 0
-	};
-
-	classified_data.forEach(function (c) {
-		if (c.user === 'MS') {
-			c.amend.author_ids.forEach(function (autor) {
-				if (autor === _mep.id) {
-					if (c.vote === "neutral")
-						_mep.votes.neutral += 1;
-					else if (c.vote === "weaker")
-						_mep.votes.contra += 1;
-					else if (c.vote === "stronger")
-						_mep.votes.pro += 1;
-					_mep.votes.rate = _mep.votes.pro - _mep.votes.contra;
-					_mep.votes.total = _mep.votes.pro + _mep.votes.contra + _mep.votes.neutral;
-				}
-			});
-		}
-	});
-
-	meps.push(_mep);
-}
-
-classified_data.forEach(function (c) {
-	c.meps = meps.filter(function (mep) {
-		return c.amend.author_ids.indexOf(mep.id) >= 0;
-	});
-	if (c.meps.length === 0) {
-		console.log('Amendment without Authors ' + c.uid);
-	}
-});
-
-/* configure Express */
-
-var app = express();
-
-app.configure(function () {
-//	app.use(express.bodyParser());
-	app.use(express.favicon(__dirname + '/../assets/img/favicon.ico'));
-	app.use(express.compress());
-	app.use("/assets", express.static(path.resolve(__dirname, '../assets')));
-	app.use(express.logger());
-//	app.use(express.logger('dev'));
-});
-
-var
-	filtercache = {};
-
-/* read template */
-var tmpl = {
-	index: fs.readFileSync(path.resolve(__dirname, "tmpl/index.mustache")).toString(),
-	header: fs.readFileSync(__dirname + "/../assets/tmpl/header.mustache").toString(),
-	footer: fs.readFileSync(__dirname + "/../assets/tmpl/footer.mustache").toString(),
-
-	overview: fs.readFileSync(path.resolve(__dirname, "tmpl/overview.mustache")).toString(),
-	country: fs.readFileSync(path.resolve(__dirname, "tmpl/country.mustache")).toString(),
-	topics: fs.readFileSync(path.resolve(__dirname, "tmpl/topics.mustache")).toString(),
-	meps: fs.readFileSync(path.resolve(__dirname, "tmpl/meps.mustache")).toString(),
-	group: fs.readFileSync(path.resolve(__dirname, "tmpl/group.mustache")).toString(),
-
-	mep_line: fs.readFileSync(path.resolve(__dirname, "tmpl/mep_line.mustache")).toString(),
-	mail: fs.readFileSync(path.resolve(__dirname, "tmpl/mail.mustache")).toString()
-};
-
-var sendTemplate = function (req, res, template, data) {
-	data["active_map"] = true;
-	res.setHeader('Content-Type', 'text/html; charset=utf-8');
-	res.send(mustache.render(tmpl.index, data, {
-		"main": template,
-		"mep_line": tmpl.mep_line,
-		"header": tmpl.header,
-		"footer": tmpl.footer
-	}));
-	//res.end();
-};
-
 
 Array.prototype.flops = function () {
 	var result = this.filter(function (o) {
@@ -282,13 +136,207 @@ Array.prototype.tops = function () {
 	return result.slice(0, 10);
 };
 
-/* index */
+String.prototype.expand = function () {
+	return this.toString().replace(/([hrcaspit])/g,function (l) {
+		switch (l) {
+			case "h":
+				return "|Title ";
+				break;
+			case "r":
+				return "|Recital ";
+				break;
+			case "c":
+				return "|Chapter ";
+				break;
+			case "s":
+				return "|Section ";
+				break;
+			case "a":
+				return "|Article ";
+				break;
+			case "p":
+				return "|Paragraph ";
+				break;
+			case "i":
+				return "|Point ";
+				break;
+			case "t":
+				return "|Text ";
+				break;
+		}
+	}).replace(/^\|/, '').split(/\|/g).join(" – ");
+};
+
+var constituencies = {};
+function initConstituencies() {
+	var raw_constituencies = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'constituencies.json')));
+	for (var key in raw_constituencies) {
+		if (raw_constituencies.hasOwnProperty(key)) {
+			raw_constituencies[key].forEach(function (_raw_constituency) {
+				_raw_constituency.country = key;
+				constituencies[_raw_constituency.id] = _raw_constituency;
+			});
+		}
+	}
+};
+initConstituencies();
+
+var countries = [];
+function initCountries() {
+	var raw_countries = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'countries.json')));
+	for (var key in raw_countries) {
+		countries.push(
+			{id: key, name: raw_countries[key]}
+		);
+	}
+}
+initCountries();
+
+var groups = [];
+function initGroups() {
+	var raw_groups = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'groups.json')));
+	for (var key in raw_groups) {
+		raw_groups[key].id = key;
+		groups.push(raw_groups[key]);
+	}
+}
+initGroups();
+
+var classified_data = JSON.parse(fs.readFileSync(path.resolve(__dirname, './data', 'classified.json')));
+function initClassified() {
+	var raw_amendments = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'amendments.json')));
+	classified_data.forEach(function (c) {
+		c.amend = raw_amendments.findByUID(c.uid);
+		c.amend.diff = c.amend.text[0].diff;
+		if ((!c.amend.relations) || (!c.amend.relations[0]))
+			console.log('Missing Amendment Relation to Directive: ' + c.uid);
+		else
+			c.amend.directive = c.amend.relations[0].expand();
+	});
+	classified_data = classified_data.filter(function (c) {
+		return c.user === 'MS';
+	});
+}
+initClassified();
+
+var meps = [];
+function initMEPs() {
+	var raw_meps_data = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'mep.json')));
+	for (var key in raw_meps_data) {
+		var _mep = raw_meps_data[key];
+		_mep.id = key;
+		_mep.country_obj = countries.findByID(_mep.country);
+		if (!_mep.country_obj)
+			console.log('Missing Country for: ' + _mep.country);
+		_mep.group_obj = groups.findByID(_mep.group);
+		if (!_mep.group)
+			console.log('Missing Group for: ' + _mep.group);
+
+		_mep.constituency_obj = constituencies[_mep.constituency];
+		_mep.votes = {
+			pro: 0,
+			contra: 0,
+			neutral: 0,
+			rate: 0,
+			total: 0
+		};
+
+		classified_data.forEach(function (c) {
+			if (c.user === 'MS') {
+				c.amend.author_ids.forEach(function (autor) {
+					if (autor === _mep.id) {
+						if (c.vote === "neutral")
+							_mep.votes.neutral += 1;
+						else if (c.vote === "weaker")
+							_mep.votes.contra += 1;
+						else if (c.vote === "stronger")
+							_mep.votes.pro += 1;
+						_mep.votes.rate = _mep.votes.pro - _mep.votes.contra;
+						_mep.votes.total = _mep.votes.pro + _mep.votes.contra + _mep.votes.neutral;
+					}
+				});
+			}
+		});
+
+		meps.push(_mep);
+	}
+}
+initMEPs();
+
+function updateClassifiedWithMeps() {
+	classified_data.forEach(function (c) {
+		c.meps = meps.filter(function (mep) {
+			return c.amend.author_ids.indexOf(mep.id) >= 0;
+		});
+		if (c.meps.length === 0) {
+			console.log('Amendment without Authors ' + c.uid);
+		}
+	});
+}
+updateClassifiedWithMeps();
+
+/* configure Express */
+
+var app = express();
+
+app.configure(function () {
+	app.use(express.favicon(__dirname + '/../assets/img/favicon.ico'));
+	app.use(express.compress());
+	app.use("/assets", express.static(path.resolve(__dirname, '../assets')));
+	if (config.debug) {
+		app.use(express.logger('dev'));
+	} else {
+		app.use(express.logger());
+	}
+});
+
+
+/* templates */
+
+var filtercache = {};
+var tmpl = {
+	index: fs.readFileSync(path.resolve(__dirname, "tmpl/index.mustache")).toString(),
+	header: fs.readFileSync(__dirname + "/../assets/tmpl/header.mustache").toString(),
+	footer: fs.readFileSync(__dirname + "/../assets/tmpl/footer.mustache").toString(),
+
+	overview: fs.readFileSync(path.resolve(__dirname, "tmpl/overview.mustache")).toString(),
+	country: fs.readFileSync(path.resolve(__dirname, "tmpl/country.mustache")).toString(),
+	topics: fs.readFileSync(path.resolve(__dirname, "tmpl/topics.mustache")).toString(),
+	meps: fs.readFileSync(path.resolve(__dirname, "tmpl/meps.mustache")).toString(),
+	group: fs.readFileSync(path.resolve(__dirname, "tmpl/group.mustache")).toString(),
+
+	mep_line: fs.readFileSync(path.resolve(__dirname, "tmpl/mep_line.mustache")).toString(),
+	mail: fs.readFileSync(path.resolve(__dirname, "tmpl/mail.mustache")).toString()
+};
+
+var sendTemplate = function (req, res, template, data) {
+	data["active_map"] = true;
+	res.setHeader('Content-Type', 'text/html; charset=utf-8');
+//	if (!config.debug) {
+//		var oneHour = 3600;
+//		res.setHeader('Cache-Control', 'public, max-age=' + (oneHour));
+//	}
+	res.send(mustache.render(tmpl.index, data, {
+		"main": template,
+		"mep_line": tmpl.mep_line,
+		"header": tmpl.header,
+		"footer": tmpl.footer
+	}));
+};
 
 function sendIndex(req, res) {
 	var _data = filtercache['index'];
 	if (!_data) {
+		var _overview_countries = {};
+		countries.forEach(function (country) {
+			var obj = classified_data.filterClassifiedByCountry(country.id).getClassifiedOverview();
+			delete obj.total;
+			delete obj.rate;
+			_overview_countries[country.id] = obj;
+		});
 		_data = {
 			"active_overview": true,
+			overview_countries: JSON.stringify(_overview_countries),
 			tops: meps.tops(),
 			flops: meps.flops()
 		};
@@ -308,11 +356,22 @@ app.get(config.prefix + '/overview', function (req, res) {
 function sendCountries(req, res) {
 	var _data = filtercache['countries'];
 	if (!_data) {
+		var _countries = countries.filter(function (country) {
+			return meps.hasOneMepWithDataByCountry(country.id);
+		})
+		var _overview_countries = {};
+		_countries.forEach(function (country) {
+			var obj = classified_data.filterClassifiedByCountry(country.id).getClassifiedOverview();
+			delete obj.total;
+			delete obj.rate;
+			_overview_countries[country.id] = obj;
+		});
 		_data = {
 			"active_countries": true,
-			countries: countries,
+			countries: _countries,
 			tops: meps.tops(),
 			flops: meps.flops(),
+			overview_countries: JSON.stringify(_overview_countries),
 			overview: classified_data.getClassifiedOverview()
 		};
 		filtercache['countries'] = _data;
@@ -367,6 +426,14 @@ function sendGroup(_group, req, res) {
 		_countries = _countries.filter(function (country) {
 			return (_meps.hasOneMepWithDataByCountry(country.id));
 		});
+		var _classified = classified_data.filterClassifiedByGroup(_group.id);
+		var _overview_countries = {};
+		_countries.forEach(function (country) {
+			var obj = _classified.filterClassifiedByCountry(country.id).getClassifiedOverview();
+			delete obj.total;
+			delete obj.rate;
+			_overview_countries[country.id] = obj;
+		});
 		_data = {
 			"active_groups": true,
 			group: _group,
@@ -374,13 +441,13 @@ function sendGroup(_group, req, res) {
 			countries: _countries,
 			tops: _meps.tops(),
 			flops: _meps.flops(),
-			overview: classified_data.filterClassifiedByGroup(_group.id).getClassifiedOverview()
+			overview_countries: JSON.stringify(_overview_countries),
+			overview: _classified.getClassifiedOverview()
 		};
 		filtercache['group' + _group.id] = _data;
 	}
 	sendTemplate(req, res, tmpl.group, _data);
 }
-
 
 app.get(config.prefix + '/groups', function (req, res) {
 	sendGroup(groups[0], req, res)
@@ -454,6 +521,7 @@ app.get(config.prefix + '/meps', function (req, res) {
 	var _meps;
 	var _mep;
 	var _message;
+	var _classified;
 	if ((query.q) && (query.q.length > 0)) {
 		var _search = query.q.toLowerCase();
 		_meps = meps.filter(function (mep) {
@@ -477,26 +545,41 @@ app.get(config.prefix + '/meps', function (req, res) {
 	var _typeahead = meps.map(function (mep) {
 		return mep.name;
 	});
+	if (_mep) {
+		_classified = classified_data.filter(function (c) {
+			return c.amend.author_ids.indexOf(_mep.id) >= 0;
+		});
+		_classified.sort(function (a, b) {
+			if (a.amend.number < b.amend.number)
+				return -1;
+			if (a.amend.number > b.amend.number)
+				return 1;
+			return 0;
+		});
+	}
 	sendTemplate(req, res, tmpl.meps, {
 		"active_meps": true,
 		meps: _meps,
-		meps_haschildren: ((_meps) && (_meps.length > 1)),
+		meps_haschildren: ((_meps) && (_meps.length > 0)),
 		mep: _mep,
 		message: _message,
+		classified: _classified,
+		classified_haschildren: ((_classified) && (_classified.length > 0)),
 		"typeahead": JSON.stringify(_typeahead)
 	});
 });
 
+/* TODO */
 
 app.get(config.prefix + '/topics', function (req, res) {
 	sendTemplate(req, res, tmpl.topics, {"active_topics": true})
 });
 
-
 app.get(config.prefix + '/mail', function (req, res) {
 	sendTemplate(req, res, tmpl.mail, {})
 });
 
+/* Server */
 
 app.listen(config.port, config.hostname);
 console.log('Listen ' + config.hostname + ':' + config.port);
