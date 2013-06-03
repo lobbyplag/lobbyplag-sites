@@ -24,9 +24,9 @@ Array.prototype.findByID = function (id) {
 	return null;
 };
 
-Array.prototype.hasOneMepByCountry = function (country_id) {
+Array.prototype.hasOneMepWithDataByCountry = function (country_id) {
 	for (var i = 0; i < this.length; i++) {
-		if (this[i].country === country_id) {
+		if ((this[i].votes.total > 0) && (this[i].country === country_id)) {
 			return true;
 		}
 	}
@@ -358,7 +358,7 @@ function sendGroup(req, res, _group) {
 	});
 	var _meps = meps.filterMepsByGroup(_group.id);
 	_countries = _countries.filter(function (country) {
-		return (_meps.hasOneMepByCountry(country.id));
+		return (_meps.hasOneMepWithDataByCountry(country.id));
 	});
 	sendTemplate(req, res, tmpl.group, {
 		"active_groups": true,
@@ -389,7 +389,7 @@ app.get(config.prefix + '/groups/:group/:country', function (req, res) {
 		var _countries = countries.map(function (country) {
 			return {id: country.id, name: country.name, group_id: _group.id, active: ((_country) && (country.id === _country.id))};
 		}).filter(function (country) {
-				return (_meps.hasOneMepByCountry(country.id));
+				return (_meps.hasOneMepWithDataByCountry(country.id));
 			});
 		var _overview = classified_data.filterClassifiedByGroupAndCountry(_group.id, _country.id);
 		var _local;
