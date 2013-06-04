@@ -47,6 +47,7 @@
 			</div>
 		{{/meps_haschildren}}
 		{{#meps}}
+			<hr />
 			<div class="row">
 				<div class="span3">
 					<a href="/map/meps/?id={{id}}">{{name}}</a>
@@ -112,7 +113,8 @@
 		{{/mep}}
 		<div class="row">
 			<div class="span12">
-				<section class="info">
+{{#mep}}
+		<section class="info">
 					Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer
 					Erklärbärtext
 					Kurzer
@@ -122,6 +124,7 @@
 					Erklärbärtext Kurzer Erklärbärtext
 					Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext
 				</section>
+{{/mep}}
 				{{#classified_haschildren}}
 					<div class="accordion amend" id="accordion_amends">
 						<h3>Amendments by {{mep.name}}</h3>

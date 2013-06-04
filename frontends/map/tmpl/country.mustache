@@ -12,44 +12,90 @@
 			{{^country}}
 				<div class="span6 info_box">
 					<h4>Overview Countries</h4>
+
 					<div class="mep_map">
 						<div class="lobbyplag map" data-lobbyplag='{{&overview_countries}}'>
 							<span style="font-size: 10px; line-height: 8px">{{overview_countries}}</span>
 						</div>
 					</div>
 				</div>
-			{{/country}}
-			<div class="span{{^country}}6{{/country}}{{#country}}12{{/country}} info_box">
-				<h4>Overview {{^country}}Europe{{/country}}{{#country}}{{name}}{{/country}} </h4>
-				{{#country}}
-					<div class="overview_text_box f32">
-						<span class="flag {{id}}"></span>
+				<div class="span6 info_box">
+					<h4>Overview Europe</h4>
+
+					<div class="overview_text_box">
+						{{#overview}}
+							Amendments: {{total}}<br/>
+							<span class="legend_strong">...stronger: {{pro}}</span><br/>
+							<span class="legend_weak">...weaker: {{contra}}</span><br/>
+							<span class="legend_neutral">...neutral: {{neutral}}</span><br/>
+						{{/overview}}
+						<div class="btn_email">
+							<a class="btn btn-primary btn-small" href="#">Send E-Mail to all <span
+									title="{{group.long}}">{{group.short}}</span>
+								MEPs</a>
+						</div>
 					</div>
-				{{/country}}
-				<div class="overview_text_box">
-					{{#overview}}
-						Amendments: {{total}}<br/>
-						<span class="legend_strong">...stronger: {{pro}}</span><br/>
-						<span class="legend_weak">...weaker: {{contra}}</span><br/>
-						<span class="legend_neutral">...neutral: {{neutral}}</span><br/>
-					{{/overview}}
-					<div class="btn_email">
-						<a class="btn btn-primary btn-small" href="#">Send E-Mail to all <span
-								title="{{group.long}}">{{group.short}}</span>
-							MEPs</a>
-					</div>
-				</div>
-				<div class="overview_chart">
-					{{#overview}}
-						<div class="lobbyplag pie"
-							 data-lobbyplag='{"pro": {{pro}}, "contra": {{contra}}, "neutral": {{neutral}}}'>
+					<div class="overview_chart">
+						{{#overview}}
+							<div class="lobbyplag pie"
+								 data-lobbyplag='{"pro": {{pro}}, "contra": {{contra}}, "neutral": {{neutral}}}'>
 						<span style="font-size: 10px; line-height: 8px">P:{{pro}} / C: {{contra}}
 							/ N: {{neutral}}</span>
-						</div>
-					{{/overview}}
+							</div>
+						{{/overview}}
+					</div>
 				</div>
-			</div>
+			{{/country}}
+			{{#country}}
+				<div class="span12 info_box">
+					<h4>Overview {{name}}</h4>
+					<div class="overview_flag_box">
+						<img src="/assets/img/flags/res-64x64/{{iso}}.png" />
+					</div>
+					<div class="overview_text_box">
+						{{#overview}}
+							Amendments: {{total}}<br/>
+							<span class="legend_strong">...stronger: {{pro}}</span><br/>
+							<span class="legend_weak">...weaker: {{contra}}</span><br/>
+							<span class="legend_neutral">...neutral: {{neutral}}</span><br/>
+						{{/overview}}
+						<div class="btn_email">
+							<a class="btn btn-primary btn-small" href="#">Send E-Mail to all <span
+									title="{{group.long}}">{{group.short}}</span>
+								MEPs</a>
+						</div>
+					</div>
+					<div class="overview_chart">
+						{{#overview}}
+							<div class="lobbyplag pie"
+								 data-lobbyplag='{"pro": {{pro}}, "contra": {{contra}}, "neutral": {{neutral}}}'>
+						<span style="font-size: 10px; line-height: 8px">P:{{pro}} / C: {{contra}}
+							/ N: {{neutral}}</span>
+							</div>
+						{{/overview}}
+					</div>
+
+					<div class="overview_bar_box">
+						<div class="mep_bars">
+							{{#group_overview}}
+								<div class="mep_bar">
+									<div class="mep_bar_name">{{group.short}}</div>
+									<div class="mep_bar_bar">
+										<div class="lobbyplag bar" data-lobbyplag='{{&overview}}'>
+											<span style="font-size: 10px; line-height: 8px">{{overview}}</span>
+										</div>
+									</div>
+									<div class="mep_bar_btn"><a href="/map/groups/{{group.id}}" class="btn btn-small">More</a></div>
+								</div>
+							{{/group_overview}}
+						</div>
+					</div>
+
+				</div>
+			{{/country}}
+
 		</div>
+
 		<div class="row">
 			<div class="span12">
 				<section class="info">
@@ -69,11 +115,13 @@
 			<div class="span6 info_box border_weaker">
 				<h4 class="background_weaker info_box_head">Top 10 for less Data Privacy in {{^country}}
 					Europe{{/country}}{{#country}}{{name}}{{/country}}</h4>
+
 				<div class="flop_box">{{#flops}}{{>mep_line}}{{/flops}}</div>
 			</div>
 			<div class="span6 info_box border_stronger">
 				<h4 class="background_stronger info_box_head">Top 10 for more Data Privacy in {{^country}}
 					Europe{{/country}}{{#country}}{{name}}{{/country}}</h4>
+
 				<div class="top_box">{{#tops}}{{>mep_line}}{{/tops}}</div>
 			</div>
 		</div>

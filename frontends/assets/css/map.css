@@ -580,7 +580,7 @@ footer #social #social-twitter {
 
 .mep_map {
 	border: 1px solid red;
-	height: 160px;
+	height: 228px;
 	overflow: hidden;
 }
 
@@ -617,14 +617,24 @@ footer #social #social-twitter {
 	display: block;
 }
 
-.overview_text_box {
+.overview_bar_box, .overview_text_box {
 	position: relative;
 	display: inline-table;
 	text-align: left;
-	height: 140px;
-	width: 260px;
+	height: 220px;
 	top: 0;
 	margin-bottom: 10px;
+}
+
+.overview_flag_box {
+	position: relative;
+	display: inline;
+	top: 12px;
+	left: -8px;
+}
+
+.overview_text_box {
+	width: 200px;
 }
 
 .overview_chart {
@@ -636,7 +646,6 @@ footer #social #social-twitter {
 }
 
 .nav .space {
-	border-right: 1px solid red;
 }
 
 .mep_info_box {
@@ -736,7 +745,6 @@ footer #social #social-twitter {
 	cursor: default;
 }
 
-
 .label-group-epp {
 	background-color: #3399FF;
 	color: #ebebeb;
@@ -775,4 +783,26 @@ footer #social #social-twitter {
 .label-group-ni {
 	background-color: #999999;
 	color: #ebebeb;
+}
+
+.mep_bars {
+	text-align: left;
+	line-height: 24px;
+	height: 230px;
+}
+
+.mep_bar div {
+	display: inline-table;
+}
+
+.mep_bar_name {
+	text-align: right;
+	width: 120px;
+}
+
+.mep_bar_bar {
+	margin-left: 4px;
+	border: 1px solid red;
+	width: 220px;
+	height: 24px;
 }

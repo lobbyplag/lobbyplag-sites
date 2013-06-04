@@ -185,9 +185,14 @@ var countries = [];
 function initCountries() {
 	var raw_countries = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'countries.json')));
 	for (var key in raw_countries) {
-		countries.push(
-			{id: key, name: raw_countries[key]}
-		);
+		var country = {id: key, name: raw_countries[key]}
+		country.iso = key;
+		if (country.iso === 'uk') {
+			country.iso = 'gb';
+		} else if (country.iso === 'ir') {
+			country.iso = 'ie';
+		}
+		countries.push(country);
 	}
 }
 initCountries();
@@ -202,10 +207,12 @@ function initGroups() {
 }
 initGroups();
 
-var classified_data = JSON.parse(fs.readFileSync(path.resolve(__dirname, './data', 'classified.json')));
+var all_classified_data = JSON.parse(fs.readFileSync(path.resolve(__dirname, './data', 'classified.json')));
+var classified_data = [];
+
 function initClassified() {
 	var raw_amendments = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'amendments.json')));
-	classified_data.forEach(function (c) {
+	all_classified_data.forEach(function (c) {
 		c.amend = raw_amendments.findByUID(c.uid);
 		c.amend.diff = c.amend.text[0].diff;
 		if ((!c.amend.relations) || (!c.amend.relations[0]))
@@ -213,18 +220,9 @@ function initClassified() {
 		else
 			c.amend.directive = c.amend.relations[0].expand();
 	});
-//	var classified_data_edri = classified_data.filter(function (c) {
-//		return c.user === 'EDRI';
-//	});
-	classified_data = classified_data.filter(function (c) {
+	classified_data = all_classified_data.filter(function (c) {
 		return c.user === 'MS';
 	});
-//	classified_data_edri.forEach(function (c) {
-//		var ms = classified_data.findByUID(c.uid);
-//		//if (ms.vote !== c.vote) {
-//			console.log(c.amend.uid + ';' + c.amend.directive + ';' + c.amend.number + ';' + ms.vote + ';' + c.vote);
-//	//	}
-//	});
 }
 initClassified();
 
@@ -273,7 +271,7 @@ function initMEPs() {
 initMEPs();
 
 function updateClassifiedWithMeps() {
-	classified_data.forEach(function (c) {
+	all_classified_data.forEach(function (c) {
 		c.meps = meps.filter(function (mep) {
 			return c.amend.author_ids.indexOf(mep.id) >= 0;
 		});
@@ -283,6 +281,19 @@ function updateClassifiedWithMeps() {
 	});
 }
 updateClassifiedWithMeps();
+
+
+//var classified_data_edri = all_classified_data.filter(function (c) {
+//	return c.user === 'EDRI';
+//});
+//classified_data_edri.forEach(function (c) {
+//	var ms = classified_data.findByUID(c.uid);
+//	var _meps = c.meps.map(function (m) {
+//		return m.name;
+//	}).join(', ');
+//	console.log(c.amend.uid + ';' + c.amend.directive + ';' + _meps + ';' + ms.category + ';' + c.amend.number + ';' + ms.vote + ';' + c.vote+';'+(ms.vote !== c.vote));
+//});
+
 
 /* configure Express */
 
@@ -343,9 +354,20 @@ function sendIndex(req, res) {
 			delete obj.rate;
 			_overview_countries[country.id] = obj;
 		});
+		var _group_overview = [];
+		groups.forEach(function (group) {
+			var obj = classified_data.filterClassifiedByGroup(group.id).getClassifiedOverview();
+			delete obj.total;
+			delete obj.rate;
+			_group_overview.push({
+				group: group,
+				overview: JSON.stringify(obj)
+			})
+		});
 		_data = {
 			"active_overview": true,
 			overview_countries: JSON.stringify(_overview_countries),
+			group_overview: _group_overview,
 			tops: meps.tops(),
 			flops: meps.flops()
 		};
@@ -402,12 +424,24 @@ function sendCountry(_country, req, res) {
 			});
 		var _meps = meps.filterMepsByCountry(_country.id);
 		var _overview = classified_data.filterClassifiedByCountry(_country.id);
+
+		var _group_overview = [];
+		groups.forEach(function (group) {
+			var obj = _overview.filterClassifiedByGroup(group.id).getClassifiedOverview();
+			delete obj.total;
+			delete obj.rate;
+			_group_overview.push({
+				group: group,
+				overview: JSON.stringify(obj)
+			})
+		});
 		_data = {
 			"active_countries": true,
 			countries: _countries,
 			country: _country,
 			tops: _meps.tops(),
 			flops: _meps.flops(),
+			group_overview: _group_overview,
 			overview: _overview.getClassifiedOverview()
 		};
 		filtercache['country' + _country.id] = _data;
