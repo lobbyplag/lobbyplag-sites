@@ -23,11 +23,18 @@
 					{{#topics}}
 						<div class="accordion-group">
 							<div class="accordion-heading">
-								<a class="accordion-toggle" data-toggle="collapse"
+								<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion_topics"
 								   href="#collapse{{number}}">{{directive}}
+									{{#overview}}
+									<div class="mep_bar_bar pull-right">
+										<div class="lobbyplag bar" data-lobbyplag='{"pro": {{pro}}, "contra": {{contra}}, "neutral": {{neutral}}}'>
+											<span style="font-size: 10px; line-height: 8px">{"pro": {{pro}}, "contra": {{contra}}, "neutral": {{neutral}}}</span>
+										</div>
+									</div>
+									{{/overview}}
 								</a>
 							</div>
-							<div id="collapse{{number}}" class="accordion-body collapse in">
+							<div id="collapse{{number}}" class="accordion-body collapse">
 								<div class="accordion-inner topic">
 									<div class="mep_bars">
 										{{#group_overview}}{{>group_bars}}{{/group_overview}}

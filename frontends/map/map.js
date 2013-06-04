@@ -688,6 +688,19 @@ function sendTopics(req, res) {
 			obj.group_overview = generateGroupOverview(list);
 			_topics.push(obj);
 		}
+		_topics.sort(function (a, b) {
+			var as = a.directive.split(' ');
+			var bs = b.directive.split(' ');
+			if (as[0] < bs[0])
+				return -1;
+			if (as[0] > bs[0])
+				return 1;
+			if (parseInt(as[1]) < parseInt(bs[1]))
+				return -1;
+			if (parseInt(as[1]) > parseInt(bs[1]))
+				return 1;
+			return 0;
+		});
 		_data = {
 			active_topics: true,
 			topics: _topics
