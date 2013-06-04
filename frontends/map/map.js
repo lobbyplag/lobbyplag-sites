@@ -676,6 +676,8 @@ function sendTopics(req, res) {
 		var _topics_keys = {};
 		classified_data.forEach(function (c) {
 			var _root = c.amend.relations.join('|').extractRoot();
+			if (!_root)
+				console.log(c);
 			_topics_keys[_root] = _topics_keys[_root] || [];
 			_topics_keys[_root].push(c);
 		});

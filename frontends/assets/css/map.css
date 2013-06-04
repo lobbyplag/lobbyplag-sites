@@ -596,14 +596,8 @@ footer #social #social-twitter {
 	margin-bottom: 10px;
 }
 
-.overview_flag_box {
-	position: relative;
-	display: inline;
-	top: 12px;
-	left: -8px;
-}
-
 .overview_text_box {
+	margin-left: 4px;
 	width: 200px;
 }
 
@@ -770,6 +764,7 @@ footer #social #social-twitter {
 	text-align: left;
 	line-height: 24px;
 	height: 230px;
+	width: 500px;
 }
 
 .mep_bar div {
@@ -812,5 +807,6 @@ footer #social #social-twitter {
 #reportErrorModal .radio {
 	margin-top: 4px;
 	margin-right: 8px;
-    font-size: 16px;
+	font-size: 16px;
 }
+

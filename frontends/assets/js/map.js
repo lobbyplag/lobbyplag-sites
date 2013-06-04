@@ -15,10 +15,6 @@ var fix_height = function () {
 	$('#main-container').css('min-height', $(window).innerHeight() - ht);
 }
 
-$(document).ready(function () {
-	fix_height();
-});
-
 $(window).resize(function () {
 	//remove settings for "no script on"
 	$('#subnav').css('min-width', 0);
@@ -50,7 +46,7 @@ function sendReport(nr, vote, comment, user) {
 	}).fail(function () {
 			setReportResultError("We're sorry. An error occured");
 		});
-};
+}
 
 function reportError(vote, nr) {
 	if (nr) {
@@ -63,4 +59,12 @@ function reportError(vote, nr) {
 		$('#current_rating').text(vote);
 		$('#reportErrorModal').modal({keyboard: true, show: true});
 	}
-};
+}
+
+$(document).ready(function () {
+	$('.accordion').on('show hide', function (n) {
+		$(n.target).siblings('.accordion-heading').find('.accordion-toggle i').toggleClass('icon-chevron-right icon-chevron-down');
+	});
+//	$('.accordion-body.in').collapse('hide');
+	fix_height();
+});
