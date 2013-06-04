@@ -1,15 +1,15 @@
 <nav id="subnav_map" class="navbar navbar-inverse">
 	<ul class="nav">
 		{{#groups}}
-			<li{{#active}} class="active" {{/active}}><a href="/map/groups/{{id}}"> {{short}} </a></li>{{/groups}}
+			<li{{#active}} class="active" {{/active}}><a href="/map/groups/{{id}}" title="{{long}}"> {{short}} </a></li>{{/groups}}
 	</ul>
 </nav>
 <nav id="subnav_map_small" class="navbar navbar-inverse">
 	<ul class="nav">
-		<li{{^country}} class="active" {{/country}}><a href="/map/groups/{{group.id}}">All</a></li>
+		<li{{^country}} class="active" {{/country}}><a href="/map/groups/{{group.id}}"title="Show all countries">All</a></li>
 		<li class="space"></li>
 		{{#countries}}
-			<li{{#active}} class="active" {{/active}}><a href="/map/groups/{{group_id}}/{{id}}">{{id}}</a>
+			<li{{#active}} class="active" {{/active}}><a href="/map/groups/{{group_id}}/{{id}}" title="{{name}}">{{id}}</a>
 			</li>{{/countries}}
 	</ul>
 </nav>
