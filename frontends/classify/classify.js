@@ -203,6 +203,9 @@ function initClassification(cb) {
 	fs.exists(classify_filename, function (exists) {
 		if (exists) {
 			classified = JSON.parse(fs.readFileSync(classify_filename).toString());
+//			classified=classified.filter(function(_classi){
+//				return _classi.user === "MS";
+//			});
 			classified.forEach(function (_classi) {
 				classified_by_users_and_ids[_classi.user] = classified_by_users_and_ids[_classi.user] || {};
 				classified_by_users_and_ids[_classi.user][_classi.uid] = _classi;
@@ -219,6 +222,7 @@ var save_classified = function () {
 
 initClassification(function () {
 	//importEDRI();
+	//save_classified();
 });
 
 function importEDRI() {

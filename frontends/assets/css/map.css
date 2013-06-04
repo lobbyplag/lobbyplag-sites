@@ -451,88 +451,60 @@ footer #social #social-twitter {
 	height: 40px;
 }
 
-#subnav {
-
-	display: block;
-	position: relative;
-	height: 40px;
+#header-nav {
 	min-width: 640px !important;
-	margin-bottom: 0px;
-	background-color: #BB6622;
-	padding-right: 60px;
 }
 
-#subnav a {
-	padding-top: 5px;
-	padding-bottom: 5px;
-	height: 30px;
-	line-height: 35px;
-	font-size: 20px;
-	color: #fff;
+#subnav, #subnav_map, #subnav_map_small, #subnav_map_search {
+	position: relative;
+	display: block;
+	height: 35px;
+	min-width: 640px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+#subnav li:hover, #subnav_map li:hover, #subnav_map_small li:hover, #subnav_map_search li:hover {
+	background-color: #f68d28;
+}
+
+#subnav {
+	background-color: #BB6622;
 }
 
 #subnav_map {
-
-	display: block;
-	position: relative;
-	height: 40px;
-	min-width: 640px !important;
-	margin-bottom: 0px;
 	background-color: #bf6824;
-	padding-right: 60px;
 	border-top: 1px solid #a47e3c;
-
-}
-
-#subnav_map a {
-	margin: 0px !important;
-	padding-left: 4px !important;
-	padding-right: 4px !important;
-	padding-top: 5px;
-	padding-bottom: 5px;
-	text-transform: uppercase;
-	height: 30px;
-	line-height: 35px;
-	font-size: 20px;
-	color: #fff;
-
 }
 
 #subnav_map_small {
-
-	display: block;
-	position: relative;
-	height: 30px;
-	min-width: 640px !important;
-	margin-bottom: 0px;
 	background-color: #c56d24;
-	padding-right: 60px;
 	border-top: 1px solid #a47e3c;
-
 }
 
 #subnav_map_search {
-	display: block;
-	position: relative;
-	height: 40px;
-	max-height: 40px;
-	margin-bottom: 0px;
 	background-color: #c56d24;
-	padding-right: 60px;
 	border-top: 1px solid #a47e3c;
+}
 
+#subnav a, #subnav_map a, #subnav_map_small a {
+	padding-bottom:5px;
+	font-size: 20px;
+	color: #fff;
+}
+
+#subnav_map a {
+	padding-left: 6px !important;
+	padding-right: 6px !important;
+	text-transform: uppercase;
 }
 
 #subnav_map_small a {
-	padding-left: 4px !important;
-	padding-right: 4px !important;
+	padding-left: 8px !important;
+	padding-right: 8px !important;
 	text-transform: uppercase;
-	padding-top: 0px;
-	height: 20px;
-	line-height: 35px;
 	font-size: 16px;
-	color: #fff;
-
 }
 
 .label-country, .label-group {
@@ -663,7 +635,11 @@ footer #social #social-twitter {
 
 .form-search input {
 	margin-left: 10px;
-	margin-top: 4px;
+	margin-top: 5px;
+}
+
+.nav-search {
+	height: 40px;
 }
 
 .mep_info_box_image {

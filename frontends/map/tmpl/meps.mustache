@@ -1,11 +1,13 @@
 <nav id="subnav_map_search" class="navbar navbar-inverse">
-	<form class="form-search" action="/map/meps/" method="get">
-		<input name="q" type="text" placeholder="Search"
-			   data-source='{{typeahead}}'
-			   autocomplete="off"
-			   data-items="4" data-provide="typeahead" class="span3">
-		<button type="submit" class="btn">Search</button>
-	</form>
+	<div class="nav-search">
+		<form class="form-search" action="/map/meps/" method="get">
+			<input name="q" type="text" placeholder="Search"
+				   data-source='{{typeahead}}'
+				   autocomplete="off"
+				   data-items="4" data-provide="typeahead" class="span3">
+			<button type="submit" class="btn">Search</button>
+		</form>
+	</div>
 </nav>
 <div id="main-container">
 	<div id="main" role="main">
@@ -47,7 +49,7 @@
 			</div>
 		{{/meps_haschildren}}
 		{{#meps}}
-			<hr />
+			<hr/>
 			<div class="row">
 				<div class="span3">
 					<a href="/map/meps/?id={{id}}">{{name}}</a>
@@ -113,18 +115,19 @@
 		{{/mep}}
 		<div class="row">
 			<div class="span12">
-{{#mep}}
-		<section class="info">
-					Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer
-					Erklärbärtext
-					Kurzer
-					Erklärbärtext Kurzer
-					Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext
-					Kurzer
-					Erklärbärtext Kurzer Erklärbärtext
-					Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext
-				</section>
-{{/mep}}
+				{{#mep}}
+					<section class="info">
+						Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer
+						Erklärbärtext
+						Kurzer
+						Erklärbärtext Kurzer
+						Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer
+						Erklärbärtext
+						Kurzer
+						Erklärbärtext Kurzer Erklärbärtext
+						Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext
+					</section>
+				{{/mep}}
 				{{#classified_haschildren}}
 					<div class="accordion amend" id="accordion_amends">
 						<h3>Amendments by {{mep.name}}</h3>
