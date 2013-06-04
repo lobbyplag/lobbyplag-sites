@@ -800,3 +800,17 @@ footer #social #social-twitter {
 .committee_name {
 	font-style: italic;
 }
+
+.spanpadding3 {
+	margin-left: 270px;
+}
+
+#report_comment {
+	width: 96%;
+}
+
+#reportErrorModal .radio {
+	margin-top: 4px;
+	margin-right: 8px;
+    font-size: 16px;
+}

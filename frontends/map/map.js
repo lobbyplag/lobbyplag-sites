@@ -92,9 +92,9 @@ Array.prototype.filterClassifiedByCountry = function (country_id) {
 	});
 };
 
-Array.prototype.flops = function () {
+Array.prototype.flops = function (limit) {
 	var result = this.filter(function (o) {
-		return ((o.votes.total > 0) && (o.votes.rate <= 0));
+		return ((o.votes.total > 0) && (o.votes.rate < 0));
 	});
 	result.sort(function (a, b) {
 		if (a.votes.rate < b.votes.rate)
@@ -111,12 +111,15 @@ Array.prototype.flops = function () {
 			return 1;
 		return 0;
 	});
-	return result.slice(0, 10);
+	if (limit)
+		return result.slice(0, 10);
+	else
+		return result;
 };
 
-Array.prototype.tops = function () {
+Array.prototype.tops = function (limit) {
 	var result = this.filter(function (o) {
-		return ((o.votes.total > 0) && (o.votes.rate >= 0));
+		return ((o.votes.total > 0) && (o.votes.rate > 0));
 	});
 	result.sort(function (a, b) {
 		if (a.votes.rate < b.votes.rate)
@@ -133,7 +136,10 @@ Array.prototype.tops = function () {
 			return 1;
 		return 0;
 	});
-	return result.slice(0, 10);
+	if (limit)
+		return result.slice(0, 10);
+	else
+		return result;
 };
 
 String.prototype.expand = function () {
@@ -217,6 +223,7 @@ function initClassified() {
 	all_classified_data.forEach(function (c) {
 		c.amend = raw_amendments.findByUID(c.uid);
 		c.amend.diff = c.amend.text[0].diff;
+		c.tag = c.category.split('-')[0];
 		if ((!c.amend.relations) || (!c.amend.relations[0]))
 			console.log('Missing Amendment Relation to Directive: ' + c.uid);
 		else
@@ -310,6 +317,7 @@ var app = express();
 app.configure(function () {
 	app.use(express.favicon(__dirname + '/../assets/img/favicon.ico'));
 	app.use(express.compress());
+	app.use(express.bodyParser());
 	app.use("/assets", express.static(path.resolve(__dirname, '../assets')));
 	if (config.debug) {
 		app.use(express.logger('dev'));
@@ -320,6 +328,9 @@ app.configure(function () {
 
 
 /* templates */
+
+var reports_filename = path.resolve(__dirname, 'data', "reports.json.txt");
+var reports = fs.createWriteStream(reports_filename, {'flags': 'a'});
 
 var filtercache = {};
 var tmpl = {
@@ -692,6 +703,20 @@ app.get(config.prefix + '/topics', function (req, res) {
 
 app.get(config.prefix + '/mail', function (req, res) {
 	sendTemplate(req, res, tmpl.mail, {})
+});
+
+app.post(config.prefix + '/report', function (req, res) {
+	if (!req.body.nr)
+		res.send('Error: Missing Report Number!');
+	else if ((!req.body.vote) || (['weaker', 'stronger', 'neutral'].indexOf(req.body.vote) < 0))
+		res.send('Error: Invalid Rating!');
+	else if ((!req.body.comment) || (req.body.comment.trim().length === 0))
+		res.send('Error: Please enter a comment.');
+	else {
+		var _obj = {nr: req.body.nr, vote: req.body.vote, comment: req.body.comment, user: req.body.user, ip: req.connection.remoteAddress, date: new Date()};
+		reports.write(JSON.stringify(_obj) + ',');
+		res.send('Report has been saved. Thank you!');
+	}
 });
 
 /* Server */

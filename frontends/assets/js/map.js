@@ -26,3 +26,41 @@ $(window).resize(function () {
 	$('#subnav_map_small').css('min-width', 0);
 	fix_height();
 });
+
+function setReportResultError(data) {
+	$("#report_info").text(data);
+	$("#report_info").show();
+}
+
+function setReportResultOK(data) {
+	alert(data);
+}
+
+function sendReport(nr, vote, comment, user) {
+	$("#report_info").hide();
+	$.post('/map/report/', {nr: nr, vote: vote, comment: comment, user: user},function (data) {
+		if (data.indexOf('Error:') !== 0) {
+			$('#reportErrorModal').modal('hide');
+			$('#report_comment').val('');
+			$(':radio').prop('checked', false);
+			setReportResultOK(data);
+		} else {
+			setReportResultError(data);
+		}
+	}).fail(function () {
+			setReportResultError("We're sorry. An error occured");
+		});
+};
+
+function reportError(vote, nr) {
+	if (nr) {
+		$("#report_info").hide();
+		$('#btn_send').unbind('click');
+		$('#btn_send').click(function () {
+			sendReport(nr, $('input[name=vote]:checked', '#report_vote').val(), $('#report_comment').val(), $('#report_name').val());
+		});
+		$('#current_amend').text(nr);
+		$('#current_rating').text(vote);
+		$('#reportErrorModal').modal({keyboard: true, show: true});
+	}
+};

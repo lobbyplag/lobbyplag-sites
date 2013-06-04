@@ -109,10 +109,14 @@
 					{{#urls}}
 						<div class="mep_info_box_links pagination">
 							<ul>
-								{{#homepage}}<li><a href="{{homepage}}"title="{{homepage}}">Homepage</a></li>{{/homepage}}
-								{{#europarl}}<li><a href="{{europarl}}" title="{{europarl}}">EU Parliament</a></li>{{/europarl}}
-								{{#facebook}}<li><a href="{{facebook}}"	title="{{facebook}}">Facebook</a></li>{{/facebook}}
-								{{#twitter}}<li><a href="{{twitter}}"  title="{{twitter}}">Twitter</a></li>{{/twitter}}
+								{{#homepage}}
+									<li><a href="{{homepage}}" title="{{homepage}}">Homepage</a></li>{{/homepage}}
+								{{#europarl}}
+									<li><a href="{{europarl}}" title="{{europarl}}">EU Parliament</a></li>{{/europarl}}
+								{{#facebook}}
+									<li><a href="{{facebook}}" title="{{facebook}}">Facebook</a></li>{{/facebook}}
+								{{#twitter}}
+									<li><a href="{{twitter}}" title="{{twitter}}">Twitter</a></li>{{/twitter}}
 							</ul>
 						</div>
 					{{/urls}}
@@ -169,11 +173,14 @@
 									<div class="accordion-inner">
 										<div class="diff">{{&amend.diff}}</div>
 										<div class="tag">
-											{{#category}}
-												<span>Tag: #{{category}}</span>
+											{{#tag}}
+												<span>Tag: #{{tag}}</span>
 												<span><a href="#" class="btn btn-small">More Info</a></span>
-											{{/category}}
-											{{#comment}}<span>Comment: {{comment}}</span>{{/comment}}
+											{{/tag}}
+											{{#comment_disabled}}<span>Comment: {{comment}}</span>{{/comment_disabled}}
+											<a href="javascript:reportError('{{vote}}','{{amend.number}}');"
+											   class="pull-right btn btn-small alert-error"
+											   title="Report this Classification">Report Error</a>
 										</div>
 									</div>
 								</div>
@@ -185,3 +192,42 @@
 		</div>
 	</div>
 </div>
+
+<div id="reportErrorModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalJumpLabel"
+	 aria-hidden="true">
+	<div class="modal-header">
+		<h3 id="myModalJumpLabel">Report Error: Rating of Amendment #<span id="current_amend"></span></h3>
+	</div>
+	<div class="modal-body">
+		Current Rating is : <span id="current_rating"></span><br/>
+		<br/>
+		Your Rating would be :
+		<form class="form-inline" id="report_vote">
+			<fieldset>
+				<label class="radio">
+					<input type="radio" name="vote" value="weaker">
+					weaker
+				</label>
+				<label class="radio">
+					<input type="radio" name="vote" value="stronger">
+					stronger
+				</label>
+				<label class="radio">
+					<input type="radio" name="vote" value="neutral">
+					neutral
+				</label>
+			</fieldset>
+		</form>
+		Your Name (Optional):<br />
+		<input id="report_name" type="text" placeholder=""><br /><br />
+		Please enter a Comment (Mandatory)
+		<textarea id="report_comment"></textarea>
+	</div>
+	<label id="report_info" class="alert alert-info hidden"></label>
+
+	<div class="modal-footer">
+		<button id="btn_send" class="btn btn-primary">Send</button>
+		<button data-dismiss="modal" class="btn btn-primary">Cancel</button>
+	</div>
+</div>
+
