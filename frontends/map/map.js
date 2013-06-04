@@ -178,21 +178,23 @@ function initConstituencies() {
 			});
 		}
 	}
-};
+}
 initConstituencies();
 
 var countries = [];
 function initCountries() {
 	var raw_countries = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'countries.json')));
 	for (var key in raw_countries) {
-		var country = {id: key, name: raw_countries[key]}
-		country.iso = key;
-		if (country.iso === 'uk') {
-			country.iso = 'gb';
-		} else if (country.iso === 'ir') {
-			country.iso = 'ie';
+		if (raw_countries.hasOwnProperty(key)) {
+			var country = {id: key, name: raw_countries[key]}
+			country.iso = key;
+			if (country.iso === 'uk') {
+				country.iso = 'gb';
+			} else if (country.iso === 'ir') {
+				country.iso = 'ie';
+			}
+			countries.push(country);
 		}
-		countries.push(country);
 	}
 }
 initCountries();
@@ -325,6 +327,9 @@ var tmpl = {
 	meps: fs.readFileSync(path.resolve(__dirname, "tmpl/meps.mustache")).toString(),
 	group: fs.readFileSync(path.resolve(__dirname, "tmpl/group.mustache")).toString(),
 
+	countries_map: fs.readFileSync(path.resolve(__dirname, "tmpl/countries_map.mustache")).toString(),
+	pie: fs.readFileSync(path.resolve(__dirname, "tmpl/pie.mustache")).toString(),
+	group_bars: fs.readFileSync(path.resolve(__dirname, "tmpl/group_bars.mustache")).toString(),
 	mep_line: fs.readFileSync(path.resolve(__dirname, "tmpl/mep_line.mustache")).toString(),
 	mail: fs.readFileSync(path.resolve(__dirname, "tmpl/mail.mustache")).toString()
 };
@@ -339,10 +344,27 @@ var sendTemplate = function (req, res, template, data) {
 	res.send(mustache.render(tmpl.index, data, {
 		"main": template,
 		"mep_line": tmpl.mep_line,
+		"group_bars": tmpl.group_bars,
+		"countries_map": tmpl.countries_map,
+		"pie": tmpl.pie,
 		"header": tmpl.header,
 		"footer": tmpl.footer
 	}));
 };
+
+function generateGroupOverview(list) {
+	var _group_overview = [];
+	groups.forEach(function (group) {
+		var obj = list.filterClassifiedByGroup(group.id).getClassifiedOverview();
+		delete obj.total;
+		delete obj.rate;
+		_group_overview.push({
+			group: group,
+			overview: JSON.stringify(obj)
+		})
+	});
+	return _group_overview;
+}
 
 function sendIndex(req, res) {
 	var _data = filtercache['index'];
@@ -354,20 +376,10 @@ function sendIndex(req, res) {
 			delete obj.rate;
 			_overview_countries[country.id] = obj;
 		});
-		var _group_overview = [];
-		groups.forEach(function (group) {
-			var obj = classified_data.filterClassifiedByGroup(group.id).getClassifiedOverview();
-			delete obj.total;
-			delete obj.rate;
-			_group_overview.push({
-				group: group,
-				overview: JSON.stringify(obj)
-			})
-		});
 		_data = {
 			"active_overview": true,
 			overview_countries: JSON.stringify(_overview_countries),
-			group_overview: _group_overview,
+			group_overview: generateGroupOverview(classified_data),
 			tops: meps.tops(),
 			flops: meps.flops()
 		};
@@ -424,24 +436,13 @@ function sendCountry(_country, req, res) {
 			});
 		var _meps = meps.filterMepsByCountry(_country.id);
 		var _overview = classified_data.filterClassifiedByCountry(_country.id);
-
-		var _group_overview = [];
-		groups.forEach(function (group) {
-			var obj = _overview.filterClassifiedByGroup(group.id).getClassifiedOverview();
-			delete obj.total;
-			delete obj.rate;
-			_group_overview.push({
-				group: group,
-				overview: JSON.stringify(obj)
-			})
-		});
 		_data = {
 			"active_countries": true,
 			countries: _countries,
 			country: _country,
 			tops: _meps.tops(),
 			flops: _meps.flops(),
-			group_overview: _group_overview,
+			group_overview: generateGroupOverview(_overview),
 			overview: _overview.getClassifiedOverview()
 		};
 		filtercache['country' + _country.id] = _data;
@@ -616,8 +617,70 @@ app.get(config.prefix + '/meps', function (req, res) {
 
 /* TODO */
 
+String.prototype.extractRoot = function () {
+	return this.toString().replace(/([+hrcaspit])/g,function (l) {
+		switch (l) {
+			case "h":
+				return "|Title ";
+				break;
+			case "r":
+				return "|Recital ";
+				break;
+			case "c":
+				return "|Chapter ";
+				break;
+			case "s":
+				return "|Section ";
+				break;
+			case "a":
+				return "|Article ";
+				break;
+			case "p":
+				return "|Paragraph ";
+				break;
+			case "i":
+				return "|Point ";
+				break;
+			case "t":
+				return "|Text ";
+				break;
+			case "+":
+				return "| ";
+				break;
+		}
+	}).replace(/^\|/, '').split(/\|/g)[0];
+};
+
+function sendTopics(req, res) {
+	var _data = filtercache['topics'];
+	if (!_data) {
+
+		var _topics_keys = {};
+		classified_data.forEach(function (c) {
+			var _root = c.amend.relations.join('|').extractRoot();
+			_topics_keys[_root] = _topics_keys[_root] || [];
+			_topics_keys[_root].push(c);
+		});
+		var _topics = [];
+		for (var key in _topics_keys) {
+			var obj = {directive: key};
+			var list = _topics_keys[key];
+			obj.number = _topics.length;
+			obj.overview = list.getClassifiedOverview();
+			obj.group_overview = generateGroupOverview(list);
+			_topics.push(obj);
+		}
+		_data = {
+			active_topics: true,
+			topics: _topics
+		};
+		filtercache['topics'] = _data;
+	}
+	sendTemplate(req, res, tmpl.topics, _data);
+}
+
 app.get(config.prefix + '/topics', function (req, res) {
-	sendTemplate(req, res, tmpl.topics, {"active_topics": true})
+	sendTopics(req, res);
 });
 
 app.get(config.prefix + '/mail', function (req, res) {

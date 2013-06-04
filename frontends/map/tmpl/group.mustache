@@ -20,9 +20,7 @@
 				<div class="span6 info_box">
 					<h4>{{group.short}} in Europe</h4>
 					<div class="mep_map">
-						<div class="lobbyplag map" data-lobbyplag='{{&overview_countries}}'>
-							<span style="font-size: 10px; line-height: 8px">{{overview_countries}}</span>
-						</div>
+						{{#overview_countries}}{{>countries_map}}{{/overview_countries}}
 					</div>
 				</div>
 			{{/country}}
@@ -44,13 +42,7 @@
 					</div>
 				</div>
 				<div class="overview_chart">
-					{{#overview}}
-						<div class="lobbyplag pie"
-							 data-lobbyplag='{"pro": {{pro}}, "contra": {{contra}}, "neutral": {{neutral}}}'>
-						<span style="font-size: 10px; line-height: 8px">P:{{pro}} / C: {{contra}}
-							/ N: {{neutral}}</span>
-						</div>
-					{{/overview}}
+					{{#overview}}{{>pie}}{{/overview}}
 				</div>
 			</div>
 		</div>

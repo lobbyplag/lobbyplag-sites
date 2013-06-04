@@ -101,14 +101,7 @@
 						</div>
 					</div>
 					<div class="overview_chart">
-						{{#votes}}
-							<div class="lobbyplag pie"
-								 data-lobbyplag='{"pro": {{pro}}, "contra": {{contra}}, "neutral": {{neutral}}}'>
-						<span style="font-size: 10px; line-height: 8px">P:{{pro}} / C: {{contra}}
-							/ N: {{neutral}}</span>
-							</div>
-						{{/votes}}
-
+						{{#votes}}{{>pie}}{{/votes}}
 					</div>
 				</div>
 			</div>

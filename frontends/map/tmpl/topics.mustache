@@ -17,7 +17,32 @@
 		<div class="row">
 			<div class="span12 info_box">
 				<h4>Topics</h4>
-				<section class="topics"></section>
+			</div>
+			<div class="span12">
+				<div class="accordion topics" id="accordion_topics">
+					{{#topics}}
+						<div class="accordion-group">
+							<div class="accordion-heading">
+								<a class="accordion-toggle" data-toggle="collapse"
+								   href="#collapse{{number}}">{{directive}}
+								</a>
+							</div>
+							<div id="collapse{{number}}" class="accordion-body collapse in">
+								<div class="accordion-inner topic">
+									<div class="mep_bars">
+										{{#group_overview}}{{>group_bars}}{{/group_overview}}
+									</div>
+									<div>
+										<h4>European Parliament</h4>
+										<div class="overview_chart">
+											{{#overview}}{{>pie}}{{/overview}}
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					{{/topics}}
+				</div>
 			</div>
 		</div>
 	</div>

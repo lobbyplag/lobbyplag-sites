@@ -12,10 +12,6 @@
 		<a href="/map/meps?id={{id}}" class="btn btn-small">More</a>
 	</div>
 	<div class="mep_chart">
-		<div class="lobbyplag pie"
-			 data-lobbyplag='{"pro": {{votes.pro}}, "contra": {{votes.contra}}, "neutral": {{votes.neutral}}}'>
-			<span style="font-size: 10px; line-height: 8px">
-			P:{{votes.pro}} / C: {{votes.contra}} / N: {{votes.neutral}}
-			</span> </div>
+		{{#votes}}{{>pie}}{{/votes}}
 	</div>
 </div>

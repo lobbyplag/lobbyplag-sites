@@ -3,28 +3,14 @@
 		<div class="row">
 			<div class="span6 info_box">
 				<h4>Overview Countries</h4>
-
 				<div class="mep_map">
-					<div class="lobbyplag map" data-lobbyplag='{{&overview_countries}}'>
-						<span style="font-size: 10px; line-height: 8px">{{overview_countries}}</span>
-					</div>
+					{{#overview_countries}}{{>countries_map}}{{/overview_countries}}
 				</div>
 			</div>
 			<div class="span6 info_box">
 				<h4>Overview Parties</h4>
-
 				<div class="mep_bars">
-					{{#group_overview}}
-						<div class="mep_bar">
-							<div class="mep_bar_name">{{group.short}}</div>
-							<div class="mep_bar_bar">
-								<div class="lobbyplag bar" data-lobbyplag='{{&overview}}'>
-									<span style="font-size: 10px; line-height: 8px">{{overview}}</span>
-								</div>
-							</div>
-							<div class="mep_bar_btn"><a href="/map/groups/{{group.id}}" class="btn btn-small">More</a></div>
-						</div>
-					{{/group_overview}}
+					{{#group_overview}}{{>group_bars}}{{/group_overview}}
 				</div>
 			</div>
 		</div>

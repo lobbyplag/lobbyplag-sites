@@ -489,7 +489,7 @@ footer #social #social-twitter {
 }
 
 #subnav a, #subnav_map a, #subnav_map_small a {
-	padding-bottom:5px;
+	padding-bottom: 5px;
 	font-size: 20px;
 	color: #fff;
 }
@@ -574,12 +574,10 @@ footer #social #social-twitter {
 }
 
 .legend_weak {
-	font-size: 14px;
 	color: #740f16;
 }
 
 .legend_neutral {
-	font-size: 14px;
 	color: #746f71;
 }
 
@@ -781,4 +779,9 @@ footer #social #social-twitter {
 	border: 1px solid red;
 	width: 220px;
 	height: 24px;
+}
+
+.topic > div {
+	float: left;
+	padding-right: 60px;
 }

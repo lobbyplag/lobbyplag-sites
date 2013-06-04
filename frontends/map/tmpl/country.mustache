@@ -12,11 +12,8 @@
 			{{^country}}
 				<div class="span6 info_box">
 					<h4>Overview Countries</h4>
-
 					<div class="mep_map">
-						<div class="lobbyplag map" data-lobbyplag='{{&overview_countries}}'>
-							<span style="font-size: 10px; line-height: 8px">{{overview_countries}}</span>
-						</div>
+						{{#overview_countries}}{{>countries_map}}{{/overview_countries}}
 					</div>
 				</div>
 				<div class="span6 info_box">
@@ -36,21 +33,16 @@
 						</div>
 					</div>
 					<div class="overview_chart">
-						{{#overview}}
-							<div class="lobbyplag pie"
-								 data-lobbyplag='{"pro": {{pro}}, "contra": {{contra}}, "neutral": {{neutral}}}'>
-						<span style="font-size: 10px; line-height: 8px">P:{{pro}} / C: {{contra}}
-							/ N: {{neutral}}</span>
-							</div>
-						{{/overview}}
+						{{#overview}}{{>pie}}{{/overview}}
 					</div>
 				</div>
 			{{/country}}
 			{{#country}}
 				<div class="span12 info_box">
 					<h4>Overview {{name}}</h4>
+
 					<div class="overview_flag_box">
-						<img src="/assets/img/flags/res-64x64/{{iso}}.png" />
+						<img src="/assets/img/flags/res-64x64/{{iso}}.png"/>
 					</div>
 					<div class="overview_text_box">
 						{{#overview}}
@@ -66,28 +58,11 @@
 						</div>
 					</div>
 					<div class="overview_chart">
-						{{#overview}}
-							<div class="lobbyplag pie"
-								 data-lobbyplag='{"pro": {{pro}}, "contra": {{contra}}, "neutral": {{neutral}}}'>
-						<span style="font-size: 10px; line-height: 8px">P:{{pro}} / C: {{contra}}
-							/ N: {{neutral}}</span>
-							</div>
-						{{/overview}}
+						{{#overview}}{{>pie}}{{/overview}}
 					</div>
-
 					<div class="overview_bar_box">
 						<div class="mep_bars">
-							{{#group_overview}}
-								<div class="mep_bar">
-									<div class="mep_bar_name">{{group.short}}</div>
-									<div class="mep_bar_bar">
-										<div class="lobbyplag bar" data-lobbyplag='{{&overview}}'>
-											<span style="font-size: 10px; line-height: 8px">{{overview}}</span>
-										</div>
-									</div>
-									<div class="mep_bar_btn"><a href="/map/groups/{{group.id}}" class="btn btn-small">More</a></div>
-								</div>
-							{{/group_overview}}
+							{{#group_overview}}{{>group_bars}}{{/group_overview}}
 						</div>
 					</div>
 
