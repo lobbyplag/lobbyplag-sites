@@ -230,6 +230,7 @@ initClassified();
 
 var meps = [];
 function initMEPs() {
+	var raw_committees_data = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'committees.json')));
 	var raw_meps_data = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'mep.json')));
 	for (var key in raw_meps_data) {
 		var _mep = raw_meps_data[key];
@@ -241,6 +242,11 @@ function initMEPs() {
 		if (!_mep.group)
 			console.log('Missing Group for: ' + _mep.group);
 
+		if (_mep.committees) {
+			_mep.committees.forEach(function (committee) {
+				committee.name = raw_committees_data[committee.id];
+			});
+		}
 		_mep.constituency_obj = constituencies[_mep.constituency];
 		_mep.votes = {
 			pro: 0,
@@ -335,7 +341,8 @@ var tmpl = {
 };
 
 var sendTemplate = function (req, res, template, data) {
-	data["active_map"] = true;
+	data.active_map = true;
+	data.disable_email = true;
 	res.setHeader('Content-Type', 'text/html; charset=utf-8');
 //	if (!config.debug) {
 //		var oneHour = 3600;

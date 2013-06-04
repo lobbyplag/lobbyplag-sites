@@ -26,11 +26,13 @@
 							<span class="legend_weak">...weaker: {{contra}}</span><br/>
 							<span class="legend_neutral">...neutral: {{neutral}}</span><br/>
 						{{/overview}}
+						{{^disable_email}}
 						<div class="btn_email">
 							<a class="btn btn-primary btn-small" href="#">Send E-Mail to all <span
 									title="{{group.long}}">{{group.short}}</span>
 								MEPs</a>
 						</div>
+						{{/disable_email}}
 					</div>
 					<div class="overview_chart">
 						{{#overview}}{{>pie}}{{/overview}}
@@ -42,7 +44,7 @@
 					<h4>Overview {{name}}</h4>
 
 					<div class="overview_flag_box">
-						<img src="/assets/img/flags/res-64x64/{{iso}}.png"/>
+						<img src="/assets/img/flags/80x60/{{iso}}.png" alt="{{name}}" title="{{name}}" />
 					</div>
 					<div class="overview_text_box">
 						{{#overview}}
@@ -51,11 +53,13 @@
 							<span class="legend_weak">...weaker: {{contra}}</span><br/>
 							<span class="legend_neutral">...neutral: {{neutral}}</span><br/>
 						{{/overview}}
+						{{^disable_email}}
 						<div class="btn_email">
 							<a class="btn btn-primary btn-small" href="#">Send E-Mail to all <span
 									title="{{group.long}}">{{group.short}}</span>
 								MEPs</a>
 						</div>
+						{{/disable_email}}
 					</div>
 					<div class="overview_chart">
 						{{#overview}}{{>pie}}{{/overview}}

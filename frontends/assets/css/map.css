@@ -615,17 +615,6 @@ footer #social #social-twitter {
 	margin-bottom: 10px;
 }
 
-.nav .space {
-}
-
-.mep_info_box {
-	height: 182px;
-}
-
-.mep_info_text {
-	font-size: 14px;
-}
-
 .search_result_header {
 	margin-bottom: 8px;
 	border-bottom: 1px solid #d6ccc5;
@@ -640,13 +629,31 @@ footer #social #social-twitter {
 	height: 40px;
 }
 
-.mep_info_box_image {
-	float: left;
-	height: 140px;
-	width: 120px;
+.mep_info_box {
+	min-height: 184px;
+	text-align: left;
+	font-size: 14px;
+}
+
+.mep_info_box_links {
+	font-size: 14px;
+}
+
+.mep_info_image_box {
 	margin-left: 20px;
 	margin-top: 9px;
+	float: left;
+}
+
+.mep_info_box_image {
+	height: 140px;
+	width: 120px;
 	overflow: hidden;
+	margin-bottom: 8px;
+}
+
+.mep_info_box_data {
+	margin-left: 160px;
 }
 
 .mep_info_box_image image {
@@ -784,4 +791,12 @@ footer #social #social-twitter {
 .topic > div {
 	float: left;
 	padding-right: 60px;
+}
+
+.mep_info_text td {
+	vertical-align: top;
+}
+
+.committee_name {
+	font-style: italic;
 }

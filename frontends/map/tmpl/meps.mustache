@@ -71,20 +71,51 @@
 		{{#mep}}
 			<div class="row">
 				<div class="span6 info_box">
-					<div class="mep_info_box f16">
-						<div class="mep_info_box_image"><img src="{{urls.photo}}"/></div>
-						<h4>{{name}}</h4>
-						<span title="{{country_obj.name}}" class="flag {{country_obj.id}}"></span>
-						<!--		<span class="label label-info label-country"  title="{{country_obj.name}}">{{country_obj.id}}</span>-->
-					<span class="label label-info label-group-{{group_obj.id}}"
-						  title="{{group_obj.long}}">{{group_obj.short}}</span><br/> <br/>
+					<div class="mep_info_box">
+						<div class="mep_info_image_box">
+							<div class="mep_info_box_image">
+								<img src="{{urls.photo}}"/>
+							</div>
+							<img src="/assets/img/flags/20x15/{{country_obj.iso}}.png" alt="{{country_obj.name}}"
+								 title="{{country_obj.name}}"/>
+							<span class="label label-info label-group-{{group_obj.id}}"
+								  title="{{group_obj.long}}">{{group_obj.short}}</span>
+						</div>
+						<div class="mep_info_box_data">
+							<h4>{{name}}</h4>
 
-						<div class="mep_info_text">
-							Country: {{country_obj.name}}<br/>
-							Group: {{group_obj.long}} ({{group_obj.short}})<br/>
-							Party: {{constituency_obj.long}} ({{constituency_obj.short}})<br/>
+							<div class="mep_info_text">
+								<table>
+									<tr>
+										<td>Country:</td>
+										<td>{{country_obj.name}}</td>
+									</tr>
+									<tr>
+										<td>Group:</td>
+										<td>{{group_obj.long}} ({{group_obj.short}})</td>
+									</tr>
+									<tr>
+										<td>Party:</td>
+										<td>{{constituency_obj.long}} ({{constituency_obj.short}})</td>
+									</tr>
+								</table>
+								<br/>
+								{{#committees}}
+									{{role}} of <span class="committee_name">{{name}}</span><br/>
+								{{/committees}}
+							</div>
 						</div>
 					</div>
+					{{#urls}}
+						<div class="mep_info_box_links pagination">
+							<ul>
+								{{#homepage}}<li><a href="{{homepage}}"title="{{homepage}}">Homepage</a></li>{{/homepage}}
+								{{#europarl}}<li><a href="{{europarl}}" title="{{europarl}}">EU Parliament</a></li>{{/europarl}}
+								{{#facebook}}<li><a href="{{facebook}}"	title="{{facebook}}">Facebook</a></li>{{/facebook}}
+								{{#twitter}}<li><a href="{{twitter}}"  title="{{twitter}}">Twitter</a></li>{{/twitter}}
+							</ul>
+						</div>
+					{{/urls}}
 				</div>
 				<div class="span6 info_box">
 					<h4>Overview {{name}}</h4>
@@ -96,9 +127,11 @@
 							<span class="legend_weak">...weaker: {{contra}}</span><br/>
 							<span class="legend_neutral">...neutral: {{neutral}}</span><br/>
 						{{/votes}}
-						<div class="btn_email">
-							<a class="btn btn-primary btn-small" href="#">Send E-Mail</a>
-						</div>
+						{{^disable_email}}
+							<div class="btn_email">
+								<a class="btn btn-primary btn-small" href="#">Send E-Mail</a>
+							</div>
+						{{/disable_email}}
 					</div>
 					<div class="overview_chart">
 						{{#votes}}{{>pie}}{{/votes}}
