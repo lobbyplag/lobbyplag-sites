@@ -8,21 +8,21 @@
 		<link href="http://lobbyplag.eu/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 		<link href="http://lobbyplag.eu/assets/css/common.css" rel="stylesheet" type="text/css">
 		<link href="http://lobbyplag.eu/assets/css/index.css" rel="stylesheet" type="text/css">
-		<link href="../../assets/css/jvectormap.css" rel="stylesheet" type="text/css">
+		<!-- link href="../../assets/css/chart/jvectormap.css" rel="stylesheet" type="text/css"> -->
 
 		<script src="http://lobbyplag.eu/assets/js/jquery-1.9.1.min.js" type="text/javascript"></script>
 		<script src="http://lobbyplag.eu/assets/js/bootstrap.min.js" type="text/javascript"></script>
 		<script src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.4/underscore-min.js"></script>
-        <script src="../../assets/js/raphael.js"></script>
-        <script src="../../assets/js/g.raphael.js"></script>
-        <script src="../../assets/js/g.pie.js"></script>
-		<script src="../../assets/js/g.bar.js"></script>
-		<script src="../../assets/js/jquery.jvectormap-1.2.2.min.js"></script>
-		<script src="../../assets/js/jquery-jvectormap-europe-merc-en.js"></script>
+        <script src="../../assets/js/chart/raphael.js"></script>
+        <script src="../../assets/js/chart/g.raphael.js"></script>
+        <script src="../../assets/js/chart/g.pie.js"></script>
+		<script src="../../assets/js/chart/g.bar.js"></script>
+		<script src="../../assets/js/chart/jquery.jvectormap-1.2.2.min.js"></script>
+		<script src="../../assets/js/chart/jquery-jvectormap-europe-merc-en.js"></script>
 		<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
-        <script src="../../assets/js/jquery.lpchart.js"></script>
+        <script src="../../assets/js/chart/jquery.lpchart.js"></script>
         <script>
         $(document).ready(function() {
 			
@@ -118,8 +118,15 @@
 				<br/>140x140px
 			</div>
 			<div class="span4">
-				<div class="lobbyplag pie bigpie" data-lobbyplag="{&quot;pro&quot;: 10, &quot;contra&quot;: 30, &quot;neutral&quot;: 6}">
+				<div class="lobbyplag pie smallpie" data-lobbyplag="{&quot;pro&quot;: 10, &quot;contra&quot;: 30, &quot;neutral&quot;: 6}">
 				</div>
+				<br/>
+				<br/>
+				<br/>
+				
+				<div class="lobbyplag pie smallpie" data-lobbyplag="{&quot;pro&quot;: 0, &quot;contra&quot;: 30, &quot;neutral&quot;: 0}">
+				</div>
+
 			</div>
 			<div class="span2">
 			<br/> 220x24
