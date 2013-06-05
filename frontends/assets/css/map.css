@@ -501,7 +501,7 @@ footer #social #social-twitter {
 		-webkit-border-radius: 3px;
 		-moz-border-radius: 3px;
 		border-radius: 3px;
-		background-color: #d20;
+		background-color: #666;
 		color: #fff !important;
 		
 	}
@@ -510,7 +510,7 @@ footer #social #social-twitter {
 		.lp-subnav a:active,
 		.lp-subnav a:focus {
 			
-			background-color: #e31 !important;
+			background-color: #777 !important;
 			
 		}
 		
