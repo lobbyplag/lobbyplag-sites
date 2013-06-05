@@ -1,12 +1,12 @@
-<nav id="subnav_map" class="lp-subnav navbar navbar-inverse">
-	<ul class="nav pull-right">
+<nav id="subnav_map" class="lp-subnav navbar navbar-inverse clearfix">
+	<ul class="nav pull-right clearfix">
 		{{#groups}}
 			<li{{#active}} class="active" {{/active}}><a href="/map/groups/{{id}}" title="{{long}}"> {{short}} </a></li>
 		{{/groups}}
 	</ul>
 </nav>
-<nav id="subnav_map_small" class="lp-countries lp-subnav navbar navbar-inverse">
-	<ul class="nav pull-right">
+<nav id="subnav_map_small" class="lp-countries lp-subnav navbar navbar-inverse clearfix">
+	<ul class="nav pull-right clearfix">
 		<li{{^country}} class="active" {{/country}}>
 			<a href="/map/groups/{{group.id}}" title="Show all countries">All</a>
 		</li>
