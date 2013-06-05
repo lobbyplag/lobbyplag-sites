@@ -496,7 +496,7 @@ footer #social #social-twitter {
 		-webkit-border-radius: 3px;
 		-moz-border-radius: 3px;
 		border-radius: 3px;
-		background-color: #d20;
+		background-color: #c06b20;
 		color: #fff !important;
 		
 	}
@@ -1029,7 +1029,3 @@ div.vectormap {
 .topic_box h5 {
 	padding-left: 8px;
 }
-
-.topic_box_content {
-}
-

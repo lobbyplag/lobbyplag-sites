@@ -1,10 +1,10 @@
 <div class="topics_mep_row">
 	{{#mep}}
-		<a href="/maps/mep/?id={{id}}">{{name}}</a><br/>
+		<a href="/map/meps/?id={{id}}">{{name}}</a><br/>
 	<span class="topics_meps_subrow">
 		<img title="{{country_obj.name}}" alt="{{country_obj.name}}" src="/assets/img/flags/20x15/{{country_obj.iso}}.png"/>
 		<span class="label label-info label-group-{{group_obj.id}}"
-			  title="{{group_obj.long}} - {{constituency_obj.long}}">{{group_obj.short}}</span>
+			  title="{{group_obj.long}} {{constituency_obj.long}}">{{group_obj.short}}</span>
 
 	{{/mep}}- Amendments: {{count}}</span>
 </div>
