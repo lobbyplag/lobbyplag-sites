@@ -1,9 +1,10 @@
-<nav id="subnav_map" class="navbar navbar-inverse">
-	<ul class="nav">
+<nav id="subnav_map" class="lp-countries lp-subnav navbar navbar-inverse">
+	<ul class="nav pull-right">
 		<li{{^country}} class="active" {{/country}}><a href="/map/countries" title="Show all countries">All</a></li>
 		<li class="space"></li>
 		{{#countries}}
-			<li{{#active}} class="active" {{/active}}><a href="/map/countries/{{id}}" title="{{name}}">{{id}}</a></li>{{/countries}}
+			<li{{#active}} class="active" {{/active}}><a href="/map/countries/{{id}}" title="{{name}}">{{id}}</a></li>
+		{{/countries}}
 	</ul>
 </nav>
 <div id="main-container">
