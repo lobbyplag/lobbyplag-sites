@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Lobbyplag Chart Test Page</title>
+        <link href="http://lobbyplag.eu/assets/fonts/gentium-basic/gentium-book-basic.css" rel="stylesheet" type="text/css">
+		<link href="http://lobbyplag.eu/assets/fonts/source-code-pro/source-code-pro.css" rel="stylesheet" type="text/css">
+		<link href="http://lobbyplag.eu/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+		<link href="http://lobbyplag.eu/assets/css/common.css" rel="stylesheet" type="text/css">
+		<link href="http://lobbyplag.eu/assets/css/index.css" rel="stylesheet" type="text/css">
+		<link href="../../assets/css/jvectormap.css" rel="stylesheet" type="text/css">
+
+		<script src="http://lobbyplag.eu/assets/js/jquery-1.9.1.min.js" type="text/javascript"></script>
+		<script src="http://lobbyplag.eu/assets/js/bootstrap.min.js" type="text/javascript"></script>
+		<script src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.4/underscore-min.js"></script>
+        <script src="../../assets/js/raphael.js"></script>
+        <script src="../../assets/js/g.raphael.js"></script>
+        <script src="../../assets/js/g.pie.js"></script>
+		<script src="../../assets/js/g.bar.js"></script>
+		<script src="../../assets/js/jquery.jvectormap-1.2.2.min.js"></script>
+		<script src="../../assets/js/jquery-jvectormap-europe-merc-en.js"></script>
+		<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+        <script src="../../assets/js/jquery.lpchart.js"></script>
+        <script>
+        $(document).ready(function() {
+			
+			$("div.lobbyplag").lpchart({onClickRegion: function(a) { alert("Clicked: "+a) } });
+			
+			
+		});
+			
+			
+        
+        </script>
+		<style>
+			div.smallpie {
+					width: 	70px;
+					height: 70px;
+					margin-left:auto;
+					margin-right: auto;
+					left: 25px;
+			}
+			
+			div.bigpie {
+					width: 	140px;
+					height: 140px;
+			}
+			
+			
+			div.bar {
+				margin-left: 4px;
+				width: 220px;
+				height: 24px;
+			}
+
+			
+			div.graphwrapper {
+					position: relative;
+					width: 120px;
+					text-align:center;
+					float: left; 
+					height: 120px;
+			}
+			
+			div.vectormap {
+					width: 458px;
+					height: 228px; 
+					border: 1px solid #000000;
+				
+			}
+		
+		
+		</style>
+ </head>
+ <body>
+ <header></header>
+ <i>Due to relativ paths, this page will run on a local undeployed directory structure only </i>
+ <div id="main-container">
+	 <div id="main">
+		<div class="row">
+			<div class="span2"><br/>70x70px </div>
+			<div class="span10">
+			<div class="graphwrapper">
+				<div class="lobbyplag pie smallpie" data-lobbyplag='{ "pro" : 27, "contra" : 159, "neutral" : 76 }'></div>
+				Axel Voss
+
+			</div>
+			<div class="graphwrapper">
+				<div class="lobbyplag pie smallpie" data-lobbyplag='{ "pro" : 167, "contra" : 34, "neutral" : 100 }'></div>
+				Jan-Philipp Albrecht
+
+			</div>
+			<div class="graphwrapper">
+				<div class="lobbyplag pie smallpie" data-lobbyplag='{ "pro" : 18, "contra" : 81, "neutral" : 36 }'></div>
+				Monika Hohlmeier	
+			</div>
+			<div class="graphwrapper">
+				<div class="lobbyplag pie smallpie" data-lobbyplag='{ "pro" : 16, "contra" : 80, "neutral" : 47 }'></div>
+				Agustín Díaz 
+
+			</div>
+			<div class="graphwrapper">
+						<div class="lobbyplag pie smallpie" data-lobbyplag='{ "pro" : 4, "contra" : 60, "neutral" : 11 }'></div>
+						Renate Sommer 
+		
+			</div>
+			<div class="graphwrapper">
+				<div class="lobbyplag pie smallpie" data-lobbyplag='{ "pro" : 102, "contra" : 4, "neutral" : 17 }'></div>
+						Cornelia Ernst 
+		
+			</div>
+		</div>
+		</div>
+		<div class="row">
+			<div class="span2">
+				<br/>140x140px
+			</div>
+			<div class="span4">
+				<div class="lobbyplag pie bigpie" data-lobbyplag="{&quot;pro&quot;: 10, &quot;contra&quot;: 30, &quot;neutral&quot;: 6}">
+				</div>
+			</div>
+			<div class="span2">
+			<br/> 220x24
+			</div>
+		
+			<div class="span4">
+				<br/><br/>
+		 	<div class="mep_bar_name">
+					<div class="lobbyplag bar" data-lobbyplag="{&quot;pro&quot;:1,&quot;contra&quot;:7,&quot;neutral&quot;:0}">
+					</div>
+			</div>
+			<br/>	
+			 <div class="mep_bar_name">EPP
+					<div class="lobbyplag bar" data-lobbyplag="{&quot;pro&quot;:97,&quot;contra&quot;:366,&quot;neutral&quot;:178}">
+					</div>
+			 </div>	
+			<br />	
+			 <div class="mep_bar_name">S and D
+				<div class="lobbyplag bar" data-lobbyplag="{&quot;pro&quot;:209,&quot;contra&quot;:82,&quot;neutral&quot;:111}">
+				</div> 
+			 </div>	
+			<br />	
+			 <div class="mep_bar_name">ALDE
+					<div class="lobbyplag bar" data-lobbyplag="{&quot;pro&quot;:188,&quot;contra&quot;:548,&quot;neutral&quot;:305}">
+			 </div> 
+			</div>
+			<br />	
+			<div class="mep_bar_bar">ECR
+				<div class="lobbyplag bar" data-lobbyplag="{&quot;pro&quot;:7,&quot;contra&quot;:84,&quot;neutral&quot;:40}">
+				</div>
+			</div>						
+		</div>
+	</div>
+	<div class="row">
+		<div class="span2">
+			Karte
+		</div>
+		<div class="span8">
+			<div class="lobbyplag map vectormap" class="lobbyplag map" data-lobbyplag="{&quot;at&quot;:{&quot;pro&quot;:101,&quot;contra&quot;:56,&quot;neutral&quot;:36},&quot;be&quot;:{&quot;pro&quot;:15,&quot;contra&quot;:148,&quot;neutral&quot;:43},&quot;bg&quot;:{&quot;pro&quot;:20,&quot;contra&quot;:17,&quot;neutral&quot;:18},&quot;cy&quot;:{&quot;pro&quot;:0,&quot;contra&quot;:0,&quot;neutral&quot;:0},&quot;cz&quot;:{&quot;pro&quot;:0,&quot;contra&quot;:0,&quot;neutral&quot;:0},&quot;de&quot;:{&quot;pro&quot;:429,&quot;contra&quot;:314,&quot;neutral&quot;:297},&quot;dk&quot;:{&quot;pro&quot;:28,&quot;contra&quot;:151,&quot;neutral&quot;:82},&quot;ee&quot;:{&quot;pro&quot;:0,&quot;contra&quot;:0,&quot;neutral&quot;:0},&quot;es&quot;:{&quot;pro&quot;:29,&quot;contra&quot;:87,&quot;neutral&quot;:52},&quot;fi&quot;:{&quot;pro&quot;:5,&quot;contra&quot;:47,&quot;neutral&quot;:33},&quot;fr&quot;:{&quot;pro&quot;:126,&quot;contra&quot;:97,&quot;neutral&quot;:50},&quot;gr&quot;:{&quot;pro&quot;:67,&quot;contra&quot;:28,&quot;neutral&quot;:70},&quot;hu&quot;:{&quot;pro&quot;:9,&quot;contra&quot;:37,&quot;neutral&quot;:7},&quot;ie&quot;:{&quot;pro&quot;:8,&quot;contra&quot;:70,&quot;neutral&quot;:13},&quot;it&quot;:{&quot;pro&quot;:13,&quot;contra&quot;:58,&quot;neutral&quot;:11},&quot;lt&quot;:{&quot;pro&quot;:0,&quot;contra&quot;:0,&quot;neutral&quot;:0},&quot;lv&quot;:{&quot;pro&quot;:0,&quot;contra&quot;:0,&quot;neutral&quot;:0},&quot;lu&quot;:{&quot;pro&quot;:0,&quot;contra&quot;:8,&quot;neutral&quot;:0},&quot;mt&quot;:{&quot;pro&quot;:0,&quot;contra&quot;:0,&quot;neutral&quot;:0},&quot;nl&quot;:{&quot;pro&quot;:43,&quot;contra&quot;:137,&quot;neutral&quot;:44},&quot;pl&quot;:{&quot;pro&quot;:17,&quot;contra&quot;:34,&quot;neutral&quot;:6},&quot;pt&quot;:{&quot;pro&quot;:1,&quot;contra&quot;:0,&quot;neutral&quot;:2},&quot;ro&quot;:{&quot;pro&quot;:42,&quot;contra&quot;:151,&quot;neutral&quot;:88},&quot;se&quot;:{&quot;pro&quot;:14,&quot;contra&quot;:28,&quot;neutral&quot;:9},&quot;sk&quot;:{&quot;pro&quot;:0,&quot;contra&quot;:0,&quot;neutral&quot;:0},&quot;si&quot;:{&quot;pro&quot;:0,&quot;contra&quot;:0,&quot;neutral&quot;:0},&quot;gb&quot;:{&quot;pro&quot;:30,&quot;contra&quot;:164,&quot;neutral&quot;:81}}">
+
+			</div>
+	
+		</div>
+	</div>
+		
+	  </div>
+</div>	
+</body>
+</html>
