@@ -78,10 +78,19 @@
 			numbers.attr('opacity', 0);//no animation upfront for performance
 			//numbers.toBack().animate({ opacity: 0  });
 			var graph = r.set();
-			var pie = r.piechart(w / 2, h / 2, ra, [d.pro, d.neutral, d.contra],
-				{ unsorted: true,
-					startangle: 90,
-					colors: [o.green, o.neutral, o.red] });
+			var dset=[];
+			var cset=[];
+			var colormap={ "pro" : o.green, "contra" : o.red, "neutral" : o.neutral };
+			$(["pro","neutral","contra"]).each(function(i,e) {
+				if (d[e]>0) {
+					dset.push(d[e]);
+					cset.push(colormap[e]);
+				}
+			});
+			var pie=r.piechart(w/2,h/2,ra,dset,
+											{ unsorted: true, 
+											  startangle: 90, 
+											  colors : cset } );
 			graph.push(pie);
 			graph.push(r.circle(w / 2, h / 2, ra * 0.6).attr({ fill: defaults.neutral, stroke: o.neutral }));
 			var score = _makescore(d);
