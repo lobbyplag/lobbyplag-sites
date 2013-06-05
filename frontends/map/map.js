@@ -370,6 +370,9 @@ var tmpl = {
 	topics: fs.readFileSync(path.resolve(__dirname, "tmpl/topics.mustache")).toString(),
 	meps: fs.readFileSync(path.resolve(__dirname, "tmpl/meps.mustache")).toString(),
 	group: fs.readFileSync(path.resolve(__dirname, "tmpl/group.mustache")).toString(),
+	press: fs.readFileSync(path.resolve(__dirname, "tmpl/press.mustache")).toString(),
+	methods: fs.readFileSync(path.resolve(__dirname, "tmpl/methods.mustache")).toString(),
+	about: fs.readFileSync(path.resolve(__dirname, "tmpl/about.mustache")).toString(),
 
 	mep_topic_line: fs.readFileSync(path.resolve(__dirname, "tmpl/mep_topic_line.mustache")).toString(),
 	countries_map: fs.readFileSync(path.resolve(__dirname, "tmpl/countries_map.mustache")).toString(),
@@ -789,6 +792,19 @@ function sendTopics(req, res) {
 app.get(config.prefix + '/topics', function (req, res) {
 	sendTopics(req, res);
 });
+
+app.get(config.prefix + '/methods', function (req, res) {
+	sendTemplate(req, res, tmpl.methods, {active_methods: true})
+});
+
+app.get(config.prefix + '/press', function (req, res) {
+	sendTemplate(req, res, tmpl.press, {active_press: true})
+});
+
+app.get(config.prefix + '/about', function (req, res) {
+	sendTemplate(req, res, tmpl.about, {active_about: true})
+});
+
 
 app.get(config.prefix + '/mail', function (req, res) {
 	sendTemplate(req, res, tmpl.mail, {})

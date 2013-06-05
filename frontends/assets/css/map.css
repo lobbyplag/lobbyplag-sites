@@ -450,7 +450,7 @@ footer #social #social-twitter {
 /* subnav */
 
 #subnav {
-	
+
 	display: block;
 	position: relative;
 	min-height: 40px;
@@ -458,83 +458,83 @@ footer #social #social-twitter {
 	background-color: #555;
 	border-bottom: 2px solid #d20;
 	padding-right: 60px;
-	
+
 }
 
-	#subnav a {
-		
-		padding-top: 5px;
-		padding-bottom: 5px;
-		height: 30px;
-		line-height: 35px;
-		font-size: 20px;
-		color: #fff !important;
+#subnav a {
 
-	}
-	
+	padding-top: 5px;
+	padding-bottom: 5px;
+	height: 30px;
+	line-height: 35px;
+	font-size: 20px;
+	color: #fff !important;
+
+}
+
 /* further subnavs */
 
 .lp-subnav {
-	
+
 	display: block;
 	position: relative;
 	min-height: 35px;
 	margin-bottom: 0px;
 	background-color: #ccc;
 	padding-right: 60px;
-	
+
 }
 
-	.lp-subnav+.lp-subnav {
-		
-		min-height: 30px;
-		
-	}
+.lp-subnav+.lp-subnav {
 
-	.lp-subnav a {
-		
-		display: block;
-		padding: 0px 7px !important;
-		margin: 5px 2px;
-		height: 25px;
-		line-height: 30px;
-		font-size: 18px;
-		-webkit-border-radius: 3px;
-		-moz-border-radius: 3px;
-		border-radius: 3px;
-		background-color: #666;
-		color: #fff !important;
-		
-	}
-	
-		.lp-subnav a:hover,
-		.lp-subnav a:active,
-		.lp-subnav a:focus {
-			
-			background-color: #777 !important;
-			
-		}
-		
-		.lp-subnav li.active a:hover,
-		.lp-subnav li.active a:active,
-		.lp-subnav li.active a:focus {
-			
-			background-color: #111 !important;
-			
-		}
-		
-		.lp-subnav+.lp-subnav a {
-			
-			margin-top: 0px !important;
-			
-		}
-		
-		#subnav_map.lp-countries li+li a,
-		#subnav_map_small.lp-countries li+li a {
-			
-			text-transform: uppercase;
-			
-		}
+	min-height: 30px;
+
+}
+
+.lp-subnav a {
+
+	display: block;
+	padding: 0px 7px !important;
+	margin: 5px 2px;
+	height: 25px;
+	line-height: 30px;
+	font-size: 18px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	background-color: #666;
+	color: #fff !important;
+
+}
+
+.lp-subnav a:hover,
+.lp-subnav a:active,
+.lp-subnav a:focus {
+
+	background-color: #777 !important;
+
+}
+
+.lp-subnav li.active a:hover,
+.lp-subnav li.active a:active,
+.lp-subnav li.active a:focus {
+
+	background-color: #111 !important;
+
+}
+
+.lp-subnav+.lp-subnav a {
+
+	margin-top: 0px !important;
+
+}
+
+#subnav_map.lp-countries li+li a,
+#subnav_map_small.lp-countries li+li a {
+
+	text-transform: uppercase;
+
+}
 
 /*
 
@@ -1016,6 +1016,10 @@ div.vectormap {
 
 .borderred {
 	border: 1px solid red;
+}
+
+.subnav_smalltext {
+	font-size: 14px !important;
 }
 
 /*.topic > div {*/
