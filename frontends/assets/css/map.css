@@ -663,14 +663,6 @@ footer #social #social-twitter {
 	display: block;
 }
 
-/*.overview_bar_box, .overview_text_box {*/
-/*position: relative;*/
-/*display: inline-table;*/
-/*text-align: left;*/
-/*height: 220px;*/
-/*top: 0;*/
-/*}*/
-
 div.overview_height_large {
 	height: 240px;
 }
@@ -997,16 +989,31 @@ div.vectormap {
 }
 
 .topic {
-	text-align: center;
+	text-align: left;
 }
 
 .accordion-group {
 	margin-top: 10px;
 }
 
+.topics_meps_row {
+	font-size: 16px;
+}
+
+.topics_mep_row {
+	margin-top: 4px;
+}
+
+.topics_meps_subrow {
+	font-size: 14px;
+}
+
+.borderred {
+	border: 1px solid red;
+}
 
 /*.topic > div {*/
-	/*float: left;*/
-	/*padding-right: 60px;*/
+/*float: left;*/
+/*padding-right: 60px;*/
 /*}*/
 
