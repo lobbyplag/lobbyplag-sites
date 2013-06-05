@@ -1,5 +1,9 @@
 var fix_height = function () {
-	return;
+	//return;
+//	if ($(window).innerWidth() < 1000) {
+//		$('#main-container').css('min-height', 2000);
+//		return;
+//	}
 	var ht = 120;
 	var h = $('#subnav .nav').height() || 0;
 	$('#subnav').css('height', h);
@@ -17,11 +21,7 @@ var fix_height = function () {
 }
 
 $(window).resize(function () {
-	//remove settings for "no script on"
-	$('#subnav').css('min-width', 0);
-	$('#subnav_map').css('min-width', 0);
-	$('#subnav_map_small').css('min-width', 0);
-	// fix_height();
+    fix_height();
 });
 
 function setReportResultError(data) {
@@ -63,6 +63,9 @@ function reportError(vote, nr) {
 }
 
 $(document).ready(function () {
+//	$('#subnav').css('min-width', 0);
+//	$('#subnav_map').css('min-width', 0);
+//	$('#subnav_map_small').css('min-width', 0);
 	$('.accordion').on('show hide', function (n) {
 		$(n.target).siblings('.accordion-heading').find('.accordion-toggle i').toggleClass('icon-chevron-right icon-chevron-down');
 	});
