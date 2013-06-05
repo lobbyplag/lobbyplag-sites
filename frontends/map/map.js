@@ -360,8 +360,6 @@ function storecache(key, content) {
 	staticcache[key] = {called: 1, content: content};
 }
 
-
-var filtercache = {};
 var tmpl = {
 	index: fs.readFileSync(path.resolve(__dirname, "tmpl/index.mustache")).toString(),
 	header: fs.readFileSync(__dirname + "/../assets/tmpl/header.mustache").toString(),
@@ -373,6 +371,7 @@ var tmpl = {
 	meps: fs.readFileSync(path.resolve(__dirname, "tmpl/meps.mustache")).toString(),
 	group: fs.readFileSync(path.resolve(__dirname, "tmpl/group.mustache")).toString(),
 
+	mep_topic_line: fs.readFileSync(path.resolve(__dirname, "tmpl/mep_topic_line.mustache")).toString(),
 	countries_map: fs.readFileSync(path.resolve(__dirname, "tmpl/countries_map.mustache")).toString(),
 	pie: fs.readFileSync(path.resolve(__dirname, "tmpl/pie.mustache")).toString(),
 	group_bars: fs.readFileSync(path.resolve(__dirname, "tmpl/group_bars.mustache")).toString(),
@@ -388,6 +387,7 @@ var fillTemplate = function (template, data) {
 		"mep_line": tmpl.mep_line,
 		"group_bars": tmpl.group_bars,
 		"countries_map": tmpl.countries_map,
+		"mep_topic_line": tmpl.mep_topic_line,
 		"pie": tmpl.pie,
 		"header": tmpl.header,
 		"footer": tmpl.footer
@@ -750,9 +750,9 @@ function sendTopics(req, res) {
 					console.log(c);
 				}
 				mlist.sort(function (a, b) {
-					if (a.count < b.count)
-						return -1;
 					if (a.count > b.count)
+						return -1;
+					if (a.count < b.count)
 						return 1;
 					return 0;
 				});

@@ -25,21 +25,47 @@
 							<div class="accordion-heading">
 								<a class="accordion-toggle" data-toggle="collapse"
 								   href="#collapse{{number}}"><i class="icon-chevron-right"></i> {{directive}}
-									<!--	{{#overview}}
+									{{#overview}}
 										<div class="mep_bar_bar pull-right">
 											<div class="lobbyplag bar" data-lobbyplag='{"pro": {{pro}}, "contra": {{contra}}, "neutral": {{neutral}}}'>
 
 											</div>
 										</div>
 									{{/overview}}
-									-->
 								</a>
 							</div>
 							<div id="collapse{{number}}" class="accordion-body collapse">
 								<div class="accordion-inner topic">
-									<div class="row">
+									<div class="topic_content">
+										<div class="span4 topic_box border_weaker">
+											<h5 class="background_weaker info_box_head">For less Data Privacy: {{overview.contra}} Amendments</h5>
+											<div class="topic_box_content">
+												{{#overview_meps}}
+													{{#weaker}}{{>mep_topic_line}}{{/weaker}}
+												{{/overview_meps}}
+											</div>
+										</div>
+										<div class="span4 topic_box border_stronger">
+											<h5 class="background_stronger info_box_head">For more Data Privacy: {{overview.pro}} Amendments</h5>
+
+											<div class="topic_box_content">
+												{{#overview_meps}}
+													{{#stronger}}{{>mep_topic_line}}{{/stronger}}
+												{{/overview_meps}}
+											</div>
+										</div>
+										<div class="span4 topic_box border_neutral">
+											<h5 class="background_neutral info_box_head">Neutral: {{overview.neutral}} Amendments</h5>
+
+											<div class="topic_box_content">
+												{{#overview_meps}}
+													{{#neutral}}{{>mep_topic_line}}{{/neutral}}
+												{{/overview_meps}}
+											</div>
+										</div>
+									</div>
+									<!--
 										<div class="alert alert-info">Under Reconstruction</div>
-										<!--
 										<div class="span6 info_box">
 											<h4>Groups</h4>
 
@@ -61,7 +87,7 @@
 											</div>
 										</div>
 										-->
-									</div>
+
 
 								</div>
 							</div>

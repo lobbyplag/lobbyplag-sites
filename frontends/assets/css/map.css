@@ -909,8 +909,19 @@ div.vectormap {
 	text-align: left;
 }
 
+.topic_content {
+	padding-left: 10px;
+}
+
 .accordion-group {
 	margin-top: 10px;
+}
+
+.accordion-inner, .accordion-group {
+	margin-left: 0;
+	margin-right: 0;
+	padding-left: 0;
+	padding-right: 0;
 }
 
 .topics_meps_row {
@@ -918,19 +929,24 @@ div.vectormap {
 }
 
 .topics_mep_row {
-	margin-top: 4px;
+	padding: 6px;
+	border-top: 1px solid #CDCDCD;
 }
 
 .topics_meps_subrow {
 	font-size: 14px;
 }
 
-.borderred {
-	border: 1px solid red;
+.topic_box {
+	border-width: 1px;
+	border-style: solid;
+	margin-left: 4px !important;
 }
 
-/*.topic > div {*/
-/*float: left;*/
-/*padding-right: 60px;*/
-/*}*/
+.topic_box h5 {
+	padding-left: 8px;
+}
+
+.topic_box_content {
+}
 
