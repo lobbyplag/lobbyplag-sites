@@ -109,9 +109,9 @@
 			var bartop = ((h - barheight) / 2);
 			var texty = bartop + (h * 0.5) - 2;
 			numbers.push(r.rect(0, 0, w, h).attr({fill: "#ffffff", "stroke-width": "0px" }))
-			numbers.push(r.text(w - 10, texty, d.pro + " str").attr({ fill: o.green, "font-size": h * 0.5 + "px", "text-anchor": "end"}));
-			numbers.push(r.text(10, texty, d.contra + " wea").attr({ fill: o.red, "font-size": h * 0.5 + "px", "text-anchor": "start"}));
-			numbers.push(r.text(w / 2, texty, d.neutral + " neu").attr({ fill: o.neutral, "font-size": h * 0.5 + "px"}).darker(3));
+			numbers.push(r.text(w - 10, texty, d.pro + " stronger").attr({ fill: o.green, "font-size": h * 0.5 + "px", "text-anchor": "end"}));
+			numbers.push(r.text(10, texty, d.contra + " weaker").attr({ fill: o.red, "font-size": h * 0.5 + "px", "text-anchor": "start"}));
+			numbers.push(r.text(w / 2, texty, d.neutral + " neutral").attr({ fill: o.neutral, "font-size": h * 0.5 + "px"}).darker(3));
 			numbers.attr('opacity', 0); //no animation upfront for performance
 			//numbers.toBack().animate({ opacity: 0  });
 			var graph = r.set()

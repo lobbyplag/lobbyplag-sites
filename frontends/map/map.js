@@ -414,15 +414,20 @@ function generateGroupOverview(list, hideempty) {
 	return _group_overview;
 }
 
+function generateOverviewCountries(_classified, _countries) {
+	var _overview_countries = {};
+	_countries.forEach(function (country) {
+		var obj = _classified.filterClassifiedByCountry(country.id).getClassifiedOverview();
+		delete obj.total;
+		delete obj.rate;
+		_overview_countries[country.iso] = obj;
+	});
+	return _overview_countries;
+}
+
 function sendIndex(req, res) {
 	if (!cache_send(req, res, 'index')) {
-		var _overview_countries = {};
-		countries.forEach(function (country) {
-			var obj = classified_data.filterClassifiedByCountry(country.id).getClassifiedOverview();
-			delete obj.total;
-			delete obj.rate;
-			_overview_countries[country.iso] = obj;
-		});
+		var _overview_countries = generateOverviewCountries(classified_data, countries);
 		var _data = fillTemplate(tmpl.overview, {
 			"active_overview": true,
 			overview_countries: JSON.stringify(_overview_countries),
@@ -448,13 +453,7 @@ function sendCountries(req, res) {
 		var _countries = countries.filter(function (country) {
 			return meps.hasOneMepWithDataByCountry(country.id);
 		});
-		var _overview_countries = {};
-		_countries.forEach(function (country) {
-			var obj = classified_data.filterClassifiedByCountry(country.id).getClassifiedOverview();
-			delete obj.total;
-			delete obj.rate;
-			_overview_countries[country.iso] = obj;
-		});
+		var _overview_countries = generateOverviewCountries(classified_data, _countries);
 		var _data = fillTemplate(tmpl.country, {
 			"active_countries": true,
 			countries: _countries,
@@ -521,20 +520,15 @@ function sendGroup(_group, req, res) {
 			return {id: group.id, short: group.short, long: group.long, active: (group.id === _group.id)};
 		});
 		var _countries = countries.map(function (country) {
-			return {id: country.id, name: country.name, group_id: _group.id};
+			return {id: country.id, iso: country.iso, name: country.name, group_id: _group.id};
 		});
 		var _meps = meps.filterMepsByGroup(_group.id);
 		_countries = _countries.filter(function (country) {
 			return (_meps.hasOneMepWithDataByCountry(country.id));
 		});
+
 		var _classified = classified_data.filterClassifiedByGroup(_group.id);
-		var _overview_countries = {};
-		_countries.forEach(function (country) {
-			var obj = _classified.filterClassifiedByCountry(country.id).getClassifiedOverview();
-			delete obj.total;
-			delete obj.rate;
-			_overview_countries[country.id] = obj;
-		});
+		var _overview_countries = generateOverviewCountries(_classified, _countries);
 		var _data = fillTemplate(tmpl.group, {
 			"active_groups": true,
 			group: _group,
@@ -736,11 +730,38 @@ function sendTopics(req, res) {
 		});
 		var _topics = [];
 		for (var key in _topics_keys) {
+			var _overview_meps = {};
 			var obj = {directive: key};
 			var list = _topics_keys[key];
+
+			list.forEach(function (c) {
+				var mlist = _overview_meps[c.vote] || [];
+				_overview_meps[c.vote] = mlist;
+				if (c.meps) {
+					c.meps.forEach(function (mep) {
+						var obj = mlist.findByID(mep.id);
+						if (!obj) {
+							obj = {id: mep.id, mep: mep, count: 0 };
+							mlist.push(obj);
+						}
+						obj.count += 1;
+					});
+				} else {
+					console.log(c);
+				}
+				mlist.sort(function (a, b) {
+					if (a.count < b.count)
+						return -1;
+					if (a.count > b.count)
+						return 1;
+					return 0;
+				});
+			});
+
 			obj.number = _topics.length;
 			obj.overview = list.getClassifiedOverview();
 			obj.group_overview = generateGroupOverview(list, true);
+			obj.overview_meps = _overview_meps;
 			_topics.push(obj);
 		}
 		_topics.sort(function (a, b) {
