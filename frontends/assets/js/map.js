@@ -66,5 +66,8 @@ $(document).ready(function () {
 		$(n.target).siblings('.accordion-heading').find('.accordion-toggle i').toggleClass('icon-chevron-right icon-chevron-down');
 	});
 //	$('.accordion-body.in').collapse('hide');
+	$("div.lobbyplag").lpchart({onClickRegion: function (a) {
+		window.location = '/map/countries/' + a.toLowerCase();
+	}});
 	fix_height();
 });

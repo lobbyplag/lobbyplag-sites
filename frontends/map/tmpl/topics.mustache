@@ -25,26 +25,44 @@
 							<div class="accordion-heading">
 								<a class="accordion-toggle" data-toggle="collapse"
 								   href="#collapse{{number}}"><i class="icon-chevron-right"></i> {{directive}}
-									{{#overview}}
-									<div class="mep_bar_bar pull-right">
-										<div class="lobbyplag bar" data-lobbyplag='{"pro": {{pro}}, "contra": {{contra}}, "neutral": {{neutral}}}'>
-											<span style="font-size: 10px; line-height: 8px">{"pro": {{pro}}, "contra": {{contra}}, "neutral": {{neutral}}}</span>
+									<!--	{{#overview}}
+										<div class="mep_bar_bar pull-right">
+											<div class="lobbyplag bar" data-lobbyplag='{"pro": {{pro}}, "contra": {{contra}}, "neutral": {{neutral}}}'>
+
+											</div>
 										</div>
-									</div>
 									{{/overview}}
+									-->
 								</a>
 							</div>
 							<div id="collapse{{number}}" class="accordion-body collapse">
 								<div class="accordion-inner topic">
-									<div class="mep_bars">
-										{{#group_overview}}{{>group_bars}}{{/group_overview}}
-									</div>
-									<div>
-										<h4>European Parliament</h4>
-										<div class="overview_chart">
-											{{#overview}}{{>pie}}{{/overview}}
+									<div class="row">
+										<div class="alert alert-info">Under Reconstruction</div>
+										<!--
+										<div class="span6 info_box">
+											<h4>Groups</h4>
+
+											<div class="mep_bars">
+												{{#group_overview}}{{>group_bars}}{{/group_overview}}
+											</div>
 										</div>
+
+										<div class="span5 info_box">
+											<h4>European Parliament</h4>
+
+											<div class="overview">
+												<div class="overview_chart">
+
+													<div class="bigpie">
+														{{#overview}}{{>pie}}{{/overview}}
+													</div>
+												</div>
+											</div>
+										</div>
+										-->
 									</div>
+
 								</div>
 							</div>
 						</div>

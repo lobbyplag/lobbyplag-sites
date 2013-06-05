@@ -222,11 +222,35 @@ var save_classified = function () {
 
 initClassification(function () {
 	//importEDRI();
+	importEDRI2();
 	//save_classified();
 });
 
+function importEDRI2() {
+	var edri_filename = path.resolve(__dirname, 'data', 'import/' + "edri.json");
+	var edri = JSON.parse(fs.readFileSync(edri_filename).toString());
+	var noportc = 0, importc = 0;
+	classified_by_users_and_ids['EDRI'] = classified_by_users_and_ids['EDRI'] || {};
+	edri.forEach(function (entry) {
+		var amend = amendmentsByNumber(entry.nr);
+		if (!amend) {
+			console.log('data kernel panic, amendment ' + entry.nr + ' not found');
+			noportc++;
+		} else if (['stronger', 'weaker', 'neutral'].indexOf(entry.vote) < 0) {
+			noportc++;
+		} else {
+			var newentry = {uid: amend.uid, user: "EDRI", vote: entry.vote, topic: "", category: "", comment: "", conflict: false };
+			classified_by_users_and_ids['EDRI'][newentry.uid] = newentry;
+			classified.push(newentry);
+			importc++;
+		}
+	});
+	console.log('Import: ' + importc + '  -  Rejected: ' + noportc);
+	save_classified();
+}
+
 function importEDRI() {
-	var opinions_filename = path.resolve(__dirname, 'data', "opinions.json");
+	var opinions_filename = path.resolve(__dirname, 'data', 'import/' + "opinions.json");
 	var opinions = JSON.parse(fs.readFileSync(opinions_filename).toString());
 	var opinions = opinions.map(function (entry) {
 		if (entry.reaction === 'stonger')

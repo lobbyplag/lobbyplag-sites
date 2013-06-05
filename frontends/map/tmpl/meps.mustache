@@ -124,21 +124,27 @@
 				<div class="span6 info_box">
 					<h4>Overview {{name}}</h4>
 
-					<div class="overview_text_box">
-						{{#votes}}
-							Amendments: {{total}}<br/>
-							<span class="legend_strong">...stronger: {{pro}}</span><br/>
-							<span class="legend_weak">...weaker: {{contra}}</span><br/>
-							<span class="legend_neutral">...neutral: {{neutral}}</span><br/>
-						{{/votes}}
-						{{^disable_email}}
-							<div class="btn_email">
-								<a class="btn btn-primary btn-small" href="#">Send E-Mail</a>
+					<div class="overview overview_height_large">
+						<div class="overview_text_box">
+							{{#votes}}
+								<div class="overview_text">
+									Amendments: {{total}}<br/>
+									<span class="legend_strong">...stronger: {{pro}}</span><br/>
+									<span class="legend_weak">...weaker: {{contra}}</span><br/>
+									<span class="legend_neutral">...neutral: {{neutral}}</span><br/>
+								</div>
+							{{/votes}}
+							{{^disable_email}}
+								<div class="btn_email">
+									<a class="btn btn-primary btn-small" href="#">Send E-Mail</a>
+								</div>
+							{{/disable_email}}
+						</div>
+						<div class="overview_chart ">
+							<div class="bigpie">
+								{{#votes}}{{>pie}}{{/votes}}
 							</div>
-						{{/disable_email}}
-					</div>
-					<div class="overview_chart">
-						{{#votes}}{{>pie}}{{/votes}}
+						</div>
 					</div>
 				</div>
 			</div>
@@ -218,8 +224,8 @@
 				</label>
 			</fieldset>
 		</form>
-		Your Name (Optional):<br />
-		<input id="report_name" type="text" placeholder=""><br /><br />
+		Your Name (Optional):<br/>
+		<input id="report_name" type="text" placeholder=""><br/><br/>
 		Please enter a Comment (Mandatory)
 		<textarea id="report_comment"></textarea>
 	</div>

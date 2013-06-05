@@ -550,16 +550,9 @@ footer #social #social-twitter {
 	margin-top: 28px;
 }
 
-.mep_map {
-	border: 1px solid red;
-	height: 228px;
-	overflow: hidden;
-}
-
 .mep_chart {
 	margin-top: 4px;
 	float: right;
-	border: 1px solid red;
 	height: 70px;
 	width: 70px;
 	margin-right: 20px;
@@ -587,26 +580,49 @@ footer #social #social-twitter {
 	display: block;
 }
 
-.overview_bar_box, .overview_text_box {
-	position: relative;
-	display: inline-table;
-	text-align: left;
-	height: 220px;
-	top: 0;
-	margin-bottom: 10px;
+/*.overview_bar_box, .overview_text_box {*/
+/*position: relative;*/
+/*display: inline-table;*/
+/*text-align: left;*/
+/*height: 220px;*/
+/*top: 0;*/
+/*}*/
+
+div.overview_height_large {
+	height: 240px;
 }
 
-.overview_text_box {
+div.overview_height_large > div {
+	margin-top: 10px;
+}
+
+div.overview_height_small {
+	height: 180px;
+}
+
+div.overview {
+	width: 460px;
+	display: block;
+	margin: 0 auto;
+}
+
+div.overview_text_box {
 	margin-left: 4px;
-	width: 200px;
+	width: 240px;
+	text-align: left;
 }
 
-.overview_chart {
-	display: inline-table;
-	border: 1px solid red;
-	height: 140px;
+div.overview_text {
+	float: left;
+	padding-left: 80px;
+	padding-top: 40px;
+}
+
+div.overview_chart {
+	float: left;
+	padding-left: 20px;
+	padding-top: 20px;
 	width: 140px;
-	margin-bottom: 10px;
 }
 
 .search_result_header {
@@ -624,7 +640,7 @@ footer #social #social-twitter {
 }
 
 .mep_info_box {
-	min-height: 184px;
+	min-height: 192px;
 	text-align: left;
 	font-size: 14px;
 }
@@ -652,10 +668,6 @@ footer #social #social-twitter {
 
 .mep_info_box_image image {
 	width: 120px;
-}
-
-.accordion-group {
-	margin-top: 10px;
 }
 
 .background_stronger {
@@ -762,30 +774,24 @@ footer #social #social-twitter {
 
 .mep_bars {
 	text-align: left;
-	line-height: 24px;
+	padding-top: 10px;
 	height: 230px;
-	width: 500px;
+	width: 460px;
 }
 
 .mep_bar div {
-	display: inline-table;
+	float: left;
 }
 
-.mep_bar_name {
+div.mep_bar_name {
 	text-align: right;
 	width: 120px;
+	padding-top: 4px;
+	padding-right: 6px;
 }
 
-.mep_bar_bar {
-	margin-left: 4px;
-	border: 1px solid red;
-	width: 220px;
-	height: 24px;
-}
-
-.topic > div {
-	float: left;
-	padding-right: 60px;
+div.mep_bar_btn {
+	padding-left: 6px;
 }
 
 .mep_info_text td {
@@ -809,4 +815,115 @@ footer #social #social-twitter {
 	margin-right: 8px;
 	font-size: 16px;
 }
+
+div.lobbyplay {
+	margin: 0 !important;
+	padding: 0 !important;
+	display: inline !important;
+	position: relative;
+}
+
+div.lobbyplay svg {
+	margin: 0 !important;
+	padding: 0 !important;
+	display: inline !important;
+	position: relative;
+}
+
+.mep_bar_bar, div.bar, div.bar svg {
+	width: 220px;
+	height: 24px;
+	min-width: 220px;
+	min-height: 24px;
+	max-width: 220px;
+	max-height: 24px;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+div.smallpie .pie, div.smallpie .pie svg {
+	min-width: 70px;
+	min-height: 70px;
+	max-width: 70px;
+	max-height: 70px;
+	width: 70px;
+	height: 70px;
+}
+
+div.bigpie, div.bigpie div.pie, div.bigpie div.pie svg {
+	min-width: 140px;
+	min-height: 140px;
+	max-width: 140px;
+	max-height: 140px;
+	width: 140px;
+	height: 140px;
+}
+
+div.graphwrapper {
+	position: relative;
+	width: 120px;
+	text-align: center;
+	float: left;
+	height: 120px;
+}
+
+div.vectormap {
+	width: 458px;
+	height: 240px;
+}
+
+.mep_map {
+	height: 240px;
+	overflow: hidden;
+	border: 1px solid #000000;
+}
+
+.jvectormap-label {
+	position: absolute;
+	display: none;
+	border: solid 1px #CDCDCD;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 3px;
+	background: #FFFFFF;
+	color: #000000;
+	font-family: sans-serif, Verdana;
+	font-size: smaller;
+	padding: 3px;
+}
+
+.jvectormap-zoomin,
+.jvectormap-zoomout {
+	position: absolute;
+	left: 10px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	background: #292929;
+	padding: 3px;
+	color: white;
+	width: 10px;
+	height: 10px;
+	cursor: pointer;
+	line-height: 10px;
+	text-align: center;
+}
+
+.jvectormap-zoomin {
+	top: 10px;
+}
+
+.topic {
+	text-align: center;
+}
+
+.accordion-group {
+	margin-top: 10px;
+}
+
+
+/*.topic > div {*/
+	/*float: left;*/
+	/*padding-right: 60px;*/
+/*}*/
 
