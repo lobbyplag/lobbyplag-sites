@@ -20,7 +20,7 @@ $(window).resize(function () {
 	$('#subnav').css('min-width', 0);
 	$('#subnav_map').css('min-width', 0);
 	$('#subnav_map_small').css('min-width', 0);
-	fix_height();
+	// fix_height();
 });
 
 function setReportResultError(data) {
