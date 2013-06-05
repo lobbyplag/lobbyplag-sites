@@ -453,7 +453,7 @@ footer #social #social-twitter {
 	
 	display: block;
 	position: relative;
-	height: 40px;
+	min-height: 40px;
 	margin-bottom: 0px;
 	background-color: #555;
 	border-bottom: 2px solid #d20;
@@ -477,12 +477,18 @@ footer #social #social-twitter {
 	
 	display: block;
 	position: relative;
-	height: 30px;
+	min-height: 35px;
 	margin-bottom: 0px;
 	background-color: #ccc;
 	padding-right: 60px;
 	
 }
+
+	.lp-subnav+.lp-subnav {
+		
+		min-height: 30px;
+		
+	}
 
 	.lp-subnav a {
 		
@@ -492,11 +498,10 @@ footer #social #social-twitter {
 		height: 25px;
 		line-height: 30px;
 		font-size: 18px;
-		z-index: 10;
 		-webkit-border-radius: 3px;
 		-moz-border-radius: 3px;
 		border-radius: 3px;
-		background-color: #c06b20;
+		background-color: #d20;
 		color: #fff !important;
 		
 	}
@@ -992,19 +997,8 @@ div.vectormap {
 	text-align: left;
 }
 
-.topic_content {
-	padding-left: 10px;
-}
-
 .accordion-group {
 	margin-top: 10px;
-}
-
-.accordion-inner, .accordion-group {
-	margin-left: 0;
-	margin-right: 0;
-	padding-left: 0;
-	padding-right: 0;
 }
 
 .topics_meps_row {
@@ -1012,20 +1006,19 @@ div.vectormap {
 }
 
 .topics_mep_row {
-	padding: 6px;
-	border-top: 1px solid #CDCDCD;
+	margin-top: 4px;
 }
 
 .topics_meps_subrow {
 	font-size: 14px;
 }
 
-.topic_box {
-	border-width: 1px;
-	border-style: solid;
-	margin-left: 4px !important;
+.borderred {
+	border: 1px solid red;
 }
 
-.topic_box h5 {
-	padding-left: 8px;
-}
+/*.topic > div {*/
+/*float: left;*/
+/*padding-right: 60px;*/
+/*}*/
+

@@ -1,4 +1,5 @@
 var fix_height = function () {
+	return;
 	var ht = 120;
 	var h = $('#subnav .nav').height() || 0;
 	$('#subnav').css('height', h);
