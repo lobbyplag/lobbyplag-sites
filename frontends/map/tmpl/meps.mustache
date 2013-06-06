@@ -141,17 +141,18 @@
 									<span class="legend_neutral">...neutral: {{neutral}}</span><br/>
 								</div>
 							{{/votes}}
-							{{^disable_email}}
-								<div class="btn_email">
-									<a class="btn btn-primary btn-small" href="javascript:sendEmails();">Send E-Mail</a>
-								</div>
-							{{/disable_email}}
 						</div>
 						<div class="overview_chart ">
 							<div class="bigpie">
 								{{#votes}}{{>pie}}{{/votes}}
 							</div>
 						</div>
+							<div class="btn_email">
+								<a class="btn btn-primary btn-small" href="mailto:{{email}}">Send E-Mail</a>
+						{{^disable_email}}
+								<a class="btn btn-primary btn-small" href="javascript:sendEmails();">Send E-Mail</a>
+						{{/disable_email}}
+							</div>
 					</div>
 				</div>
 			</div>

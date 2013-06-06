@@ -21,6 +21,7 @@
 				</div>
 			</div>
 			<br/>
+
 			<div class="row">
 				<div class="span6 info_box">
 					<h4>Groups</h4>
@@ -42,23 +43,20 @@
 									<span class="legend_neutral">...neutral: {{neutral}}</span><br/>
 								</div>
 							{{/overview}}
-							{{^disable_email}}
-								<div class="btn_email">
-									<a class="btn btn-primary btn-small" href="#">Send E-Mail to all <span
-											title="{{group.long}}">{{group.short}}</span>
-										MEPs</a>
-								</div>
-							{{/disable_email}}
 						</div>
 						<div class="overview_chart">
 							<div class="bigpie">
 								{{#overview}}{{>pie}}{{/overview}}
 							</div>
 						</div>
+						<div class="btn_email">
+							<a class="btn btn-primary btn-small" href="#" onclick="sendEmails(this)">Send E-Mail to MEPs</a>
+						</div>
 					</div>
 				</div>
 			</div>
 			<br/>
+
 			<div class="row topic">
 				<div class="topic_content">
 					<table>
@@ -101,6 +99,7 @@
 				</div>
 			</div>
 			<br/>
+
 			<div class="row">
 				<div class="span12 info_box">
 					{{#prev}}<a title="Jump to previous article" href="/map/article/{{nr}}">&lt;&lt; {{title}}</a> - {{/prev}}

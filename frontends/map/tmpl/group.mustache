@@ -29,36 +29,60 @@
 						{{#overview_countries}}{{>countries_map}}{{/overview_countries}}
 					</div>
 				</div>
-			{{/country}}
-			<div class="span{{^country}}6{{/country}}{{#country}}12{{/country}} info_box">
-				<h4>Overview {{group.short}} in {{^country}}Europe{{/country}}{{#country}}{{name}}{{/country}}
-					{{localparties}}</h4>
+				<div class="span6 info_box">
+					<h4>Overview {{group.short}} in Europe {{localparties}}</h4>
 
-				<div class="overview {{^country}}overview_height_large{{/country}}{{#country}}overview_height_small{{/country}}">
-					<div class="overview_text_box">
-						{{#overview}}
-							<div class="overview_text">
-								Amendments: {{total}}<br/>
-								<span class="legend_strong">...stronger: {{pro}}</span><br/>
-								<span class="legend_weak">...weaker: {{contra}}</span><br/>
-								<span class="legend_neutral">...neutral: {{neutral}}</span><br/>
-							</div>
-						{{/overview}}
-					</div>
-					<div class="overview_chart">
-						<div class="bigpie">
-							{{#overview}}{{>pie}}{{/overview}}
+					<div class="overview overview_height_large">
+						<div class="overview_text_box">
+							{{#overview}}
+								<div class="overview_text">
+									Amendments: {{total}}<br/>
+									<span class="legend_strong">...stronger: {{pro}}</span><br/>
+									<span class="legend_weak">...weaker: {{contra}}</span><br/>
+									<span class="legend_neutral">...neutral: {{neutral}}</span><br/>
+								</div>
+							{{/overview}}
 						</div>
-					</div>
-					{{^disable_email}}
+						<div class="overview_chart">
+							<div class="bigpie">
+								{{#overview}}{{>pie}}{{/overview}}
+							</div>
+						</div>
 						<div class="btn_email">
-							<a class="btn btn-primary btn-small" href="javascript:sendEmails();">Send E-Mail to all <span
-									title="{{group.long}}">{{group.short}}</span>
+							<a class="btn btn-primary btn-small" lobbyplag-data="{{maildata}}" href="#" onclick="sendEmails(this)">Send E-Mail to <span title="{{group.long}}">{{group.short}}</span>
 								MEPs</a>
 						</div>
-					{{/disable_email}}
+					</div>
 				</div>
-			</div>
+			{{/country}}
+			{{#country}}
+				<div class="span12 info_box">
+					<h4>Overview {{group.short}} in {{name}}
+						{{localparties}}</h4>
+
+					<div class="overview overview_height_small">
+						<div class="overview_text_box">
+							{{#overview}}
+								<div class="overview_text">
+									Amendments: {{total}}<br/>
+									<span class="legend_strong">...stronger: {{pro}}</span><br/>
+									<span class="legend_weak">...weaker: {{contra}}</span><br/>
+									<span class="legend_neutral">...neutral: {{neutral}}</span><br/>
+								</div>
+							{{/overview}}
+						</div>
+						<div class="overview_chart">
+							<div class="bigpie">
+								{{#overview}}{{>pie}}{{/overview}}
+							</div>
+						</div>
+						<div class="btn_email_right">
+							<a class="btn btn-primary btn-small" lobbyplag-data="{{maildata}}" href="#" onclick="sendEmails(this)">Send E-Mail to all <span title="{{group.long}}">{{group.short}}</span>
+								MEPs in {{name}} </a>
+						</div>
+					</div>
+				</div>
+			{{/country}}
 		</div>
 		<div class="row">
 			<div class="span12">

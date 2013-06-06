@@ -598,7 +598,15 @@ footer #social #social-twitter {
 	position: relative;
 	right: 0;
 	bottom: 0;
+	top: 26px;
 	display: inline;
+}
+
+.btn_email_right {
+	position: absolute;
+	right: 50px;
+	bottom: 0;
+	top: 26px;
 }
 
 div.overview_height_large {

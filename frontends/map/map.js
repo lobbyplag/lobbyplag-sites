@@ -549,6 +549,7 @@ function sendCountry(_country, req, res) {
 			country: _country,
 			tops: _meps.tops(),
 			flops: _meps.flops(),
+			maildata: compileMailParameter(_country),
 			group_overview: generateGroupOverview(_overview),
 			overview: _overview.getClassifiedOverview()
 		});
@@ -597,6 +598,7 @@ function sendGroup(_group, req, res) {
 			group: _group,
 			groups: _groups,
 			countries: _countries,
+			maildata: compileMailParameter(null, [_group]),
 			tops: _meps.tops(),
 			flops: _meps.flops(),
 			overview_countries: JSON.stringify(_overview_countries),
@@ -655,6 +657,7 @@ function sendGroupCountry(_group, _country, req, res) {
 			countries: _countries,
 			tops: _meps.tops(),
 			flops: _meps.flops(),
+			maildata: compileMailParameter(_country, [_group]),
 			localparties: _local,
 			overview: _overview.getClassifiedOverview()
 		});
@@ -878,7 +881,7 @@ app.get(config.prefix + '/reportsfromtheuserssecretcsv', function (req, res) {
 			if (report.nr)
 				_lines.push(
 					cvsify(report.nr) + ';' + cvsify(report.vote) + ';' + cvsify(report.user) + ';' + cvsify(report.date) + ';' + cvsify(report.comment)
-			)
+				)
 		});
 		res.setHeader('Content-Type', 'text/cvs; charset=utf-8');
 		res.send(_lines.join("\n"));
