@@ -222,7 +222,7 @@ var save_classified = function () {
 
 initClassification(function () {
 	//importEDRI();
-	importEDRI2();
+	//importEDRI2();
 	//save_classified();
 });
 
