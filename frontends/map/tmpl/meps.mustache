@@ -36,6 +36,10 @@
 						Datenschutzreform
 						soll es besonders intensives Lobbying der Industrie gegeben haben.
 						-->
+						{{#meps_list}}<a href="/map/meps/{{id}}">{{name}}</a>
+							<img title="{{country_obj.name}}" alt="{{country_obj.name}}" src="/assets/img/flags/20x15/{{country_obj.iso}}.png"/>
+							<span class="label label-info label-group-{{group_obj.id}}" title="{{group_obj.long}} - {{constituency_obj.long}}">{{group_obj.short}}</span>
+						{{/meps_list}}
 					</div>
 				</div>
 			{{/mep}}
@@ -55,7 +59,7 @@
 			<hr/>
 			<div class="row">
 				<div class="span3">
-					<a href="/map/meps/?id={{id}}">{{name}}</a>
+					<a href="/map/meps/{{id}}">{{name}}</a>
 				</div>
 				<div class="span2">
 					<span class="label label-info label-country" title="{{country_obj.name}}">{{country_obj.id}}</span>
@@ -185,12 +189,12 @@
 										<div class="diff">{{&amend.diff}}</div>
 										<div class="tag">
 											{{#tagenabled}}
-											{{#tag}}
-												<span>Tag: #{{tag}}</span>
-												<span><a href="#" class="btn btn-small">More Info</a></span>
-											{{/tag}}
+												{{#tag}}
+													<span>Tag: #{{tag}}</span>
+													<span><a href="#" class="btn btn-small">More Info</a></span>
+												{{/tag}}
 											{{/tagenabled}}
-											{{#comment_disabled}}<span>Comment: {{comment}}</span>{{/comment_disabled}}
+											<span>Comment: {{comment}}</span>
 											<a href="javascript:reportError('{{vote}}','{{amend.number}}');"
 											   class="pull-right btn btn-small alert-error"
 											   title="Report this Classification">Report Error</a>

@@ -78,19 +78,19 @@
 			numbers.attr('opacity', 0);//no animation upfront for performance
 			//numbers.toBack().animate({ opacity: 0  });
 			var graph = r.set();
-			var dset=[];
-			var cset=[];
-			var colormap={ "pro" : o.green, "contra" : o.red, "neutral" : o.neutral };
-			$(["pro","neutral","contra"]).each(function(i,e) {
-				if (d[e]>0) {
+			var dset = [];
+			var cset = [];
+			var colormap = { "pro": o.green, "contra": o.red, "neutral": o.neutral };
+			$(["pro", "neutral", "contra"]).each(function (i, e) {
+				if (d[e] > 0) {
 					dset.push(d[e]);
 					cset.push(colormap[e]);
 				}
 			});
-			var pie=r.piechart(w/2,h/2,ra,dset,
-											{ unsorted: true, 
-											  startangle: 90, 
-											  colors : cset } );
+			var pie = r.piechart(w / 2, h / 2, ra, dset,
+				{ unsorted: true,
+					startangle: 90,
+					colors: cset });
 			graph.push(pie);
 			graph.push(r.circle(w / 2, h / 2, ra * 0.6).attr({ fill: defaults.neutral, stroke: o.neutral }));
 			var score = _makescore(d);
@@ -112,18 +112,18 @@
 			var d = $(element).data("lobbyplag");
 			var w = $(element).parent().width();  //element might not be validated and of wrong width
 			var h = $(element).parent().height(); //element might not be validated and of wrong width
-		//	console.log('init bar h:' + h + ' w:' + w);
+			//	console.log('init bar h:' + h + ' w:' + w);
 			var numbers = r.set();
 			var barheight = h * 0.75;
 			var bartop = ((h - barheight) / 2);
 			var texty = bartop + (h * 0.5) - 2;
-			numbers.push(r.rect(0, 0, w, h).attr({fill: "#ffffff", "stroke-width": "0px" }))
+			numbers.push(r.rect(0, 0, w, h).attr({fill: "#ffffff", "stroke-width": "0px" }));
 			numbers.push(r.text(w - 10, texty, d.pro + " stronger").attr({ fill: o.green, "font-size": h * 0.5 + "px", "text-anchor": "end"}));
 			numbers.push(r.text(10, texty, d.contra + " weaker").attr({ fill: o.red, "font-size": h * 0.5 + "px", "text-anchor": "start"}));
 			numbers.push(r.text(w / 2, texty, d.neutral + " neutral").attr({ fill: o.neutral, "font-size": h * 0.5 + "px"}).darker(3));
 			numbers.attr('opacity', 0); //no animation upfront for performance
 			//numbers.toBack().animate({ opacity: 0  });
-			var graph = r.set()
+			var graph = r.set();
 			var bar = r.hbarchart(1, bartop + 1, w, barheight, [
 				[d.contra],
 				[d.neutral],

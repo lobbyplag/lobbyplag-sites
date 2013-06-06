@@ -998,6 +998,26 @@ div.vectormap {
 	text-align: left;
 }
 
+.topic_content table {
+	width: 100%;
+}
+
+.topic_box {
+	border-width: 1px;
+	border-style: solid;
+}
+
+.topic_box h5 {
+	text-align: center;
+}
+
+.topic_content td {
+	width: 33%;
+	padding-left: 6px;
+	padding-right: 6px;
+	vertical-align: top;
+}
+
 .accordion-group {
 	margin-top: 10px;
 }
@@ -1007,6 +1027,8 @@ div.vectormap {
 }
 
 .topics_mep_row {
+	padding: 6px;
+	border-top: 1px solid #CDCDCD;
 	margin-top: 4px;
 }
 
@@ -1020,6 +1042,26 @@ div.vectormap {
 
 .subnav_smalltext {
 	font-size: 12px !important;
+}
+
+table.articles {
+	width: 100%;
+}
+
+table.articles td {
+	vertical-align: middle;
+}
+
+td.articles_col1 {
+	width: 15%;
+}
+
+td.articles_col2, td.articles_col3 {
+	font-size: 14px;
+}
+
+.dontuppercase {
+	text-transform: none !important;
 }
 
 /*.topic > div {*/

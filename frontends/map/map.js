@@ -299,6 +299,62 @@ function updateClassifiedWithMeps() {
 }
 updateClassifiedWithMeps();
 
+var articles = [];
+function initArticles() {
+	articles = JSON.parse(fs.readFileSync(path.resolve(__dirname, 'data', 'articles.json')));
+	articles.forEach(function (article) {
+		article.directive = 'Article ' + article.nr;
+		article.classified = article.classified || [];
+		classified_data.forEach(function (c) {
+			if (c.amend.directive.indexOf(article.directive) >= 0) {
+				article.classified.push(c);
+			}
+		});
+		article.overview_meps = {};
+		article.classified.forEach(function (c) {
+			article.overview_meps[c.vote] = article.overview_meps[c.vote] || [];
+			if (c.meps) {
+				c.meps.forEach(function (mep) {
+					var obj = article.classified.findByID(mep.id);
+					if (!obj) {
+						obj = {id: mep.id, mep: mep, count: 0 };
+						article.overview_meps[c.vote].push(obj);
+					}
+					obj.count += 1;
+				});
+			} else {
+				console.log(c);
+			}
+			article.overview_meps[c.vote].sort(function (a, b) {
+				if (a.count > b.count)
+					return -1;
+				if (a.count < b.count)
+					return 1;
+				return 0;
+			});
+		});
+		article.overview = article.classified.getClassifiedOverview();
+		article.group_overview = generateGroupOverview(article.classified, true);
+	});
+	articles = articles.filter(function (article) {
+		return (article.classified) && (article.classified.length > 0);
+	});
+	articles.sort(function (a, b) {
+		if (a.nr < b.nr)
+			return -1;
+		if (b.nr < a.nr)
+			return 1;
+		return 0;
+	});
+	for (var i = 0; i < articles.length; i++) {
+		if (i > 0)
+			articles[i].prev = {nr: articles[i - 1].nr, title: articles[i - 1].directive};
+		if (i < articles.length - 1)
+			articles[i].next = {nr: articles[i + 1].nr, title: articles[i + 1].directive};
+	}
+}
+initArticles();
+
 
 //var classified_data_edri = all_classified_data.filter(function (c) {
 //	return c.user === 'EDRI';
@@ -367,7 +423,8 @@ var tmpl = {
 
 	overview: fs.readFileSync(path.resolve(__dirname, "tmpl/overview.mustache")).toString(),
 	country: fs.readFileSync(path.resolve(__dirname, "tmpl/country.mustache")).toString(),
-	topics: fs.readFileSync(path.resolve(__dirname, "tmpl/topics.mustache")).toString(),
+	articles: fs.readFileSync(path.resolve(__dirname, "tmpl/articles.mustache")).toString(),
+	article: fs.readFileSync(path.resolve(__dirname, "tmpl/article.mustache")).toString(),
 	meps: fs.readFileSync(path.resolve(__dirname, "tmpl/meps.mustache")).toString(),
 	group: fs.readFileSync(path.resolve(__dirname, "tmpl/group.mustache")).toString(),
 	press: fs.readFileSync(path.resolve(__dirname, "tmpl/press.mustache")).toString(),
@@ -613,180 +670,93 @@ app.get(config.prefix + '/groups/:group/:country', function (req, res) {
 	}
 });
 
-app.get(config.prefix + '/meps', function (req, res) {
-		var query = url.parse(req.url, true).query;
-		var _meps;
-		var _mep;
-		var _message;
-		var _classified;
-		if ((query.q) && (query.q.length > 0)) {
-			var _search = query.q.toLowerCase();
-			_meps = meps.filter(function (mep) {
-				return mep.name.toLowerCase().indexOf(_search) >= 0;
-			});
-			if (_meps.length === 1) {
-				_mep = _meps[0];
-				_meps = null;
-			} else {
-				_message = 'Found ' + _meps.length;
-			}
-		}
-		if ((query.id) && (query.id.length > 0)) {
-			var _mapi = meps.findByID(query.id);
-			if (_mapi) {
-				_message = null;
-				_meps = null;
-				_mep = _mapi;
-			}
-		}
+function sendMep(_mep, _meps, _message, req, res) {
+	var _classified;
 
-		if (_mep) {
-			if (cache_send(req, res, 'mep_' + _mep.id)) {
-				return;
-			}
-		} else if ((!_meps) && (!_message)) {
-			if (cache_send(req, res, 'meps_base')) {
-				return;
-			}
+	if (_mep) {
+		if (cache_send(req, res, 'mep_' + _mep.id)) {
+			return;
 		}
-
-		var _typeahead = meps.map(function (mep) {
-			return mep.name;
-		});
-		if (_mep) {
-			_classified = classified_data.filter(function (c) {
-				return c.amend.author_ids.indexOf(_mep.id) >= 0;
-			});
-			_classified.sort(function (a, b) {
-				if (a.amend.number < b.amend.number)
-					return -1;
-				if (a.amend.number > b.amend.number)
-					return 1;
-				return 0;
-			});
-		}
-		var _data = fillTemplate(tmpl.meps, {
-			"active_meps": true,
-			meps: _meps,
-			meps_haschildren: ((_meps) && (_meps.length > 0)),
-			mep: _mep,
-			message: _message,
-			classified: _classified,
-			classified_haschildren: ((_classified) && (_classified.length > 0)),
-			"typeahead": JSON.stringify(_typeahead)
-		});
-		send(req, res, _data);
-		if (_mep) {
-			storecache('mep_' + _mep.id, _data);
-		} else if ((!_meps) && (!_message)) {
-			storecache('meps_base', _data);
+	} else if ((!_meps) && (!_message)) {
+		if (cache_send(req, res, 'meps_base')) {
+			return;
 		}
 	}
-)
-;
 
-/* TODO */
-
-String.prototype.extractRoot = function () {
-	return this.toString().replace(/([+hrcaspit])/g,function (l) {
-		switch (l) {
-			case "h":
-				return "|Title ";
-				break;
-			case "r":
-				return "|Recital ";
-				break;
-			case "c":
-				return "|Chapter ";
-				break;
-			case "s":
-				return "|Section ";
-				break;
-			case "a":
-				return "|Article ";
-				break;
-			case "p":
-				return "|Paragraph ";
-				break;
-			case "i":
-				return "|Point ";
-				break;
-			case "t":
-				return "|Text ";
-				break;
-			case "+":
-				return "| ";
-				break;
-		}
-	}).replace(/^\|/, '').split(/\|/g)[0];
-};
-
-function sendArticles(req, res) {
-	if (!cache_send(req, res, 'articles')) {
-		var _topics_keys = {};
-		classified_data.forEach(function (c) {
-			var _root = c.amend.relations.join('|').extractRoot();
-			if (!_root) {
-				console.log(c);
-				_root = '';
-			}
-			if (_root.indexOf('Article') >= 0) {
-				_topics_keys[_root] = _topics_keys[_root] || [];
-				_topics_keys[_root].push(c);
-			}
+	var _typeahead = meps.map(function (mep) {
+		return mep.name;
+	});
+	if (_mep) {
+		_classified = classified_data.filter(function (c) {
+			return c.amend.author_ids.indexOf(_mep.id) >= 0;
 		});
-		var _topics = [];
-		for (var key in _topics_keys) {
-			var _overview_meps = {};
-			var obj = {directive: key};
-			var list = _topics_keys[key];
-
-			list.forEach(function (c) {
-				var mlist = _overview_meps[c.vote] || [];
-				_overview_meps[c.vote] = mlist;
-				if (c.meps) {
-					c.meps.forEach(function (mep) {
-						var obj = mlist.findByID(mep.id);
-						if (!obj) {
-							obj = {id: mep.id, mep: mep, count: 0 };
-							mlist.push(obj);
-						}
-						obj.count += 1;
-					});
-				} else {
-					console.log(c);
-				}
-				mlist.sort(function (a, b) {
-					if (a.count > b.count)
-						return -1;
-					if (a.count < b.count)
-						return 1;
-					return 0;
-				});
-			});
-
-			obj.number = _topics.length;
-			obj.overview = list.getClassifiedOverview();
-			obj.group_overview = generateGroupOverview(list, true);
-			obj.overview_meps = _overview_meps;
-			_topics.push(obj);
-		}
-		_topics.sort(function (a, b) {
-			var as = a.directive.split(' ');
-			var bs = b.directive.split(' ');
-			if (as[0] < bs[0])
+		_classified.sort(function (a, b) {
+			if (a.amend.number < b.amend.number)
 				return -1;
-			if (as[0] > bs[0])
-				return 1;
-			if (parseInt(as[1]) < parseInt(bs[1]))
-				return -1;
-			if (parseInt(as[1]) > parseInt(bs[1]))
+			if (a.amend.number > b.amend.number)
 				return 1;
 			return 0;
 		});
-		var _data = fillTemplate(tmpl.topics, {
+	}
+	var _data = fillTemplate(tmpl.meps, {
+		"active_meps": true,
+		meps: _meps,
+		meps_haschildren: ((_meps) && (_meps.length > 0)),
+		mep: _mep,
+		message: _message,
+		classified: _classified,
+		classified_haschildren: ((_classified) && (_classified.length > 0)),
+		"typeahead": JSON.stringify(_typeahead)
+	});
+	send(req, res, _data);
+	if (_mep) {
+		storecache('mep_' + _mep.id, _data);
+	} else if ((!_meps) && (!_message)) {
+		storecache('meps_base', _data);
+	}
+}
+
+app.get(config.prefix + '/meps', function (req, res) {
+	var query = url.parse(req.url, true).query;
+	var _meps;
+	var _mep;
+	var _message;
+	if ((query.q) && (query.q.length > 0)) {
+		var _search = query.q.toLowerCase();
+		_meps = meps.filter(function (mep) {
+			return mep.name.toLowerCase().indexOf(_search) >= 0;
+		});
+		if (_meps.length === 1) {
+			_mep = _meps[0];
+			_meps = null;
+		} else {
+			_message = 'Found ' + _meps.length;
+		}
+	}
+	if ((query.id) && (query.id.length > 0)) {
+		var _mapi = meps.findByID(query.id);
+		if (_mapi) {
+			_message = null;
+			_meps = null;
+			_mep = _mapi;
+		}
+	}
+	sendMep(_mep, _meps, _message, req, res);
+});
+
+app.get(config.prefix + '/meps/:id', function (req, res) {
+	var _mep;
+	if ((req.params.id) && (req.params.id.length > 0)) {
+		_mep = meps.findByID(req.params.id);
+	}
+	sendMep(_mep, null, null, req, res);
+});
+
+function sendArticles(req, res) {
+	if (!cache_send(req, res, 'articles')) {
+		var _data = fillTemplate(tmpl.articles, {
 			active_articles: true,
-			topics: _topics
+			articles: articles
 		});
 		send(req, res, _data);
 		storecache('articles', _data);
@@ -794,6 +764,30 @@ function sendArticles(req, res) {
 }
 
 app.get(config.prefix + '/articles', function (req, res) {
+	sendArticles(req, res);
+});
+
+function sendArticle(req, res, article) {
+	if (!cache_send(req, res, 'articles_' + article.nr)) {
+		var _data = fillTemplate(tmpl.article, {
+			active_articles: true,
+			article: article
+		});
+		send(req, res, _data);
+		storecache('articles_' + article.nr, _data);
+	}
+}
+
+app.get(config.prefix + '/article/:nr', function (req, res) {
+	if (req.params.nr) {
+		var searchnr = parseInt(req.params.nr);
+		for (var i = 0; i < articles.length; i++) {
+			if (articles[i].nr === searchnr) {
+				sendArticle(req, res, articles[i]);
+				return;
+			}
+		}
+	}
 	sendArticles(req, res);
 });
 
@@ -816,13 +810,13 @@ app.get(config.prefix + '/about', function (req, res) {
 function getCacheStats() {
 	var result = [];
 	for (var key in staticcache) {
-		result.push(key + ': ' + staticcache[key].called);
+		result.push({key: staticcache[key].called});
 	}
-	return result.join("\n");
+	return result;
 }
 
 app.get(config.prefix + '/cachestats', function (req, res) {
-	res.send(getCacheStats());
+	res.json(getCacheStats());
 });
 
 app.post(config.prefix + '/report', function (req, res) {
@@ -840,9 +834,8 @@ app.post(config.prefix + '/report', function (req, res) {
 });
 
 process.on('SIGINT', function () {
-	var cachestats_filename = path.resolve(__dirname, 'data', "cachestats.txt");
-	var cachestats = fs.createWriteStream(cachestats_filename, {'flags': 'a'});
-	cachestats.write(getCacheStats());
+	var cachestats_filename = path.resolve(__dirname, 'data', "cachestats" + (new Date()) + ".json");
+	fs.writeFileSync(cachestats_filename, JSON.stringify(getCacheStats()));
 	process.exit();
 });
 

@@ -1,0 +1,113 @@
+{{#article}}
+	<nav id="subnav_map" class="lp-countries lp-subnav navbar navbar-inverse clearfix">
+		<ul class="nav pull-right clearfix">
+			{{#prev}}
+				<li><a class="dontuppercase" title="Jump to previous article" href="/map/article/{{nr}}">&lt;&lt; {{title}}</a></li> {{/prev}}
+			<li><a class="dontuppercase" title="Jump to article overview" href="/map/articles/">List of Articles</a></li>
+			{{#next}}
+				<li><a class="dontuppercase" title="Jump to next article" href="/map/article/{{nr}}">{{title}} &gt;&gt;</a></li> {{/next}}
+		</ul>
+	</nav>
+	<div id="main-container">
+		<div id="main" role="main">
+			<div class="row">
+				<div class="span12">
+					<h3>{{directive}} - {{name}} - {{topic}}</h3>
+				</div>
+			</div>
+			<div class="row">
+				<div class="span12">
+					{{desc_en}}
+				</div>
+			</div>
+			<br/>
+			<div class="row">
+				<div class="span6 info_box">
+					<h4>Groups</h4>
+
+					<div class="mep_bars">
+						{{#group_overview}}{{>group_bars}}{{/group_overview}}
+					</div>
+				</div>
+				<div class="span6 info_box">
+					<h4>European Parliament</h4>
+
+					<div class="overview overview_height_large">
+						<div class="overview_text_box">
+							{{#overview}}
+								<div class="overview_text">
+									Amendments: {{total}}<br/>
+									<span class="legend_strong">...stronger: {{pro}}</span><br/>
+									<span class="legend_weak">...weaker: {{contra}}</span><br/>
+									<span class="legend_neutral">...neutral: {{neutral}}</span><br/>
+								</div>
+							{{/overview}}
+							{{^disable_email}}
+								<div class="btn_email">
+									<a class="btn btn-primary btn-small" href="#">Send E-Mail to all <span
+											title="{{group.long}}">{{group.short}}</span>
+										MEPs</a>
+								</div>
+							{{/disable_email}}
+						</div>
+						<div class="overview_chart">
+							<div class="bigpie">
+								{{#overview}}{{>pie}}{{/overview}}
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<br/>
+			<div class="row topic">
+				<div class="topic_content">
+					<table>
+						<tr>
+							<td>
+								<div class="topic_box border_weaker">
+									<h5 class="background_weaker info_box_head">For less Data Privacy: {{overview.contra}} Amendments</h5>
+
+									<div class="topic_box_content">
+										{{#overview_meps}}
+											{{#weaker}}{{>mep_topic_line}}{{/weaker}}
+										{{/overview_meps}}
+									</div>
+								</div>
+							</td>
+							<td>
+								<div class="topic_box border_stronger">
+									<h5 class="background_stronger info_box_head">For more Data Privacy: {{overview.pro}} Amendments</h5>
+
+									<div class="topic_box_content">
+										{{#overview_meps}}
+											{{#stronger}}{{>mep_topic_line}}{{/stronger}}
+										{{/overview_meps}}
+									</div>
+								</div>
+							</td>
+							<td>
+								<div class="topic_box border_neutral">
+									<h5 class="background_neutral info_box_head">Neutral: {{overview.neutral}} Amendments</h5>
+
+									<div class="topic_box_content">
+										{{#overview_meps}}
+											{{#neutral}}{{>mep_topic_line}}{{/neutral}}
+										{{/overview_meps}}
+									</div>
+								</div>
+							</td>
+						</tr>
+					</table>
+				</div>
+			</div>
+			<br/>
+			<div class="row">
+				<div class="span12 info_box">
+					{{#prev}}<a title="Jump to previous article" href="/map/article/{{nr}}">&lt;&lt; {{title}}</a> - {{/prev}}
+					<a title="Jump to article overview" href="/map/articles/">List of Articles</a>
+					{{#next}} - <a title="Jump to next article" href="/map/article/{{nr}}">{{title}} &gt;&gt;</a>{{/next}}
+				</div>
+			</div>
+		</div>
+	</div>
+{{/article}}

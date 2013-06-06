@@ -1,7 +1,7 @@
 <div class="mep_line">
 	<div class="mep_image"><img src="{{urls.photo}}" /></div>
 	<div class="mep_info">
-		<span class="spanmep_name f16">
+		<span class="spanmep_name">
 			{{name}}<br/>
 			<img title="{{country_obj.name}}" alt="{{country_obj.name}}" src="/assets/img/flags/20x15/{{country_obj.iso}}.png" />
 			<span class="label label-info label-group-{{group_obj.id}}"
@@ -9,7 +9,7 @@
 		</span>
 	</div>
 	<div class="mep_more">
-		<a href="/map/meps?id={{id}}" class="btn btn-small">More</a>
+		<a href="/map/meps/{{id}}" class="btn btn-small">More</a>
 	</div>
 	<div class="mep_chart smallpie">
 		{{#votes}}{{>pie}}{{/votes}}
