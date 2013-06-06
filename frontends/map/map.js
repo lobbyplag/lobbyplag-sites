@@ -337,10 +337,10 @@ var reports = fs.createWriteStream(reports_filename, {'flags': 'a'});
 
 var send = function (req, res, data) {
 	res.setHeader('Content-Type', 'text/html; charset=utf-8');
-//	if (!config.debug) {
-//		var oneHour = 3600;
-//		res.setHeader('Cache-Control', 'public, max-age=' + (oneHour));
-//	}
+	if (!config.debug) {
+		var oneHour = 3600;
+		res.setHeader('Cache-Control', 'public, max-age=' + (oneHour));
+	}
 	res.send(data);
 };
 

@@ -29,6 +29,10 @@ app.configure(function(){
 
 /* show welcome */
 app.get('/', function(req, res){
+	res.redirect('/map')
+});
+
+app.get('/lp', function(req, res){
 	res.setHeader('Content-Type', 'text/html; charset=utf-8');
 	res.send(mustache.render(tmpl.index, {
 		"active_welcome": true,
