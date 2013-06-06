@@ -1,9 +1,9 @@
 var fix_height = function () {
 	//return;
-//	if ($(window).innerWidth() < 1000) {
-//		$('#main-container').css('min-height', 2000);
-//		return;
-//	}
+	if ($(window).innerWidth() < 1000) {
+		$('#main-container').css('min-height', 2000);
+		return;
+	}
 	var ht = 120;
 	var h = $('#subnav .nav').height() || 0;
 	$('#subnav').css('height', h);

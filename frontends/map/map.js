@@ -721,8 +721,8 @@ String.prototype.extractRoot = function () {
 	}).replace(/^\|/, '').split(/\|/g)[0];
 };
 
-function sendTopics(req, res) {
-	if (!cache_send(req, res, 'topics')) {
+function sendArticles(req, res) {
+	if (!cache_send(req, res, 'articles')) {
 		var _topics_keys = {};
 		classified_data.forEach(function (c) {
 			var _root = c.amend.relations.join('|').extractRoot();
@@ -781,16 +781,16 @@ function sendTopics(req, res) {
 			return 0;
 		});
 		var _data = fillTemplate(tmpl.topics, {
-			active_topics: true,
+			active_articles: true,
 			topics: _topics
 		});
 		send(req, res, _data);
-		storecache('topics', _data);
+		storecache('articles', _data);
 	}
 }
 
-app.get(config.prefix + '/topics', function (req, res) {
-	sendTopics(req, res);
+app.get(config.prefix + '/articles', function (req, res) {
+	sendArticles(req, res);
 });
 
 app.get(config.prefix + '/methods', function (req, res) {
