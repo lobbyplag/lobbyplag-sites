@@ -892,7 +892,7 @@ function findClassifyByAmendNr(nr) {
 	return null;
 }
 
-app.get(config.prefix + '/discuss/lide/:nr', function (req, res) {
+app.get(config.prefix + '/discuss/libe/:nr', function (req, res) {
 	var _classified = findClassifyByAmendNr(req.params.nr);
 	if (_classified) {
 		sendTemplate(req, res, tmpl.discuss, {classified: _classified});
