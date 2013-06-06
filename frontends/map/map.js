@@ -805,9 +805,20 @@ app.get(config.prefix + '/about', function (req, res) {
 	sendTemplate(req, res, tmpl.about, {active_about: true})
 });
 
+//app.get(config.prefix + '/mail', function (req, res) {
+//	sendTemplate(req, res, tmpl.mail, {})
+//});
 
-app.get(config.prefix + '/mail', function (req, res) {
-	sendTemplate(req, res, tmpl.mail, {})
+function getCacheStats() {
+	var result = [];
+	for (var key in staticcache) {
+		result.push(key + ': ' + staticcache[key].called);
+	}
+	return result.join("\n");
+}
+
+app.get(config.prefix + '/cachestats', function (req, res) {
+	res.send(getCacheStats());
 });
 
 app.post(config.prefix + '/report', function (req, res) {
@@ -822,6 +833,13 @@ app.post(config.prefix + '/report', function (req, res) {
 		reports.write(JSON.stringify(_obj) + ',');
 		res.send('Report has been saved. Thank you!');
 	}
+});
+
+process.on('SIGINT', function () {
+	var cachestats_filename = path.resolve(__dirname, 'data', "cachestats.txt");
+	var cachestats = fs.createWriteStream(cachestats_filename, {'flags': 'a'});
+	cachestats.write(getCacheStats());
+	process.exit();
 });
 
 /* Server */
