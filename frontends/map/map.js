@@ -494,6 +494,7 @@ function sendIndex(req, res) {
 			"active_overview": true,
 			overview_countries: JSON.stringify(_overview_countries),
 			group_overview: generateGroupOverview(classified_data),
+			euro_overview: JSON.stringify(classified_data.getClassifiedOverview()),
 			tops: meps.tops(),
 			flops: meps.flops()
 		});

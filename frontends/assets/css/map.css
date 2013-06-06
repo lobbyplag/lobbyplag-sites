@@ -535,8 +535,6 @@ footer #social #social-twitter {
 
 }
 
-
-
 .label-country, .label-group {
 	text-transform: uppercase;
 }
@@ -738,7 +736,6 @@ div.overview_chart {
 	border: #595959 solid 1px;
 	height: 12px;
 	line-height: 10px;
-	cursor: default;
 }
 
 .label-group-epp {
@@ -980,7 +977,7 @@ td.articles_col1 {
 	width: 640px;
 }
 
-#mailtool_body{
+#mailtool_body {
 	height: 640px;
 }
 
@@ -990,11 +987,15 @@ td.articles_col1 {
 	height: 1100px;
 }
 
+a.mep_name_link {
+	color: #000;
+}
+
 .spanmep_name, .topics_meps_row {
 	font-size: 16px;
 }
 
-.info, .topics_meps_subrow, td.articles_col2, td.articles_col3,.legend_strong,
+.info, .topics_meps_subrow, td.articles_col2, .legend_strong,
 .legend_weak, .legend_neutral, .mep_info_box_links, .mep_info_box, .amend .tag, .walloftext {
 	font-size: 14px;
 }
@@ -1003,9 +1004,28 @@ td.articles_col1 {
 	font-size: 12px !important;
 }
 
+.euro_bar {
+	padding-left: 30px;
+}
 
-/*.topic > div {*/
-/*float: left;*/
-/*padding-right: 60px;*/
-/*}*/
+.vector_map_frontpage {
+	height: 288px !important;
+}
+
+.vector_map_frontpage .vectormap {
+	height: 288px !important;
+}
+
+.mep_bar_frontpage {
+	height: 30px;
+}
+
+.mep_bars_frontpage .mep_bars {
+	height: 220px !important;
+}
+
+.mep_bars_frontpage h4 {
+	margin-bottom: 0;
+}
+
 

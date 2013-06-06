@@ -3,14 +3,30 @@
 		<div class="row">
 			<div class="span6 info_box">
 				<h4>Overview Countries</h4>
-				<div class="mep_map">
+
+				<div class="mep_map vector_map_frontpage">
 					{{#overview_countries}}{{>countries_map}}{{/overview_countries}}
 				</div>
 			</div>
 			<div class="span6 info_box">
-				<h4>Overview Parties</h4>
-				<div class="mep_bars">
-					{{#group_overview}}{{>group_bars}}{{/group_overview}}
+				{{#euro_overview}}
+					<div>
+						<h4>Overview European Parliament</h4>
+						<div class="mep_bar mep_bar_frontpage">
+							<div class="mep_bar_name">All</div>
+							<div class="mep_bar_bar">
+								<div class="lobbyplag bar" data-lobbyplag='{{&euro_overview}}'>
+								</div>
+							</div>
+							<div class="mep_bar_btn"><a href="/map/countries" class="btn btn-small">More</a></div>
+						</div>
+					</div>
+				{{/euro_overview}}
+				<div class="mep_bars_frontpage">
+					<h4>Overview Groups</h4>
+					<div class="mep_bars">
+						{{#group_overview}}{{>group_bars}}{{/group_overview}}
+					</div>
 				</div>
 			</div>
 		</div>

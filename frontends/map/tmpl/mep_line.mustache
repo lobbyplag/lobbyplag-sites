@@ -1,11 +1,10 @@
 <div class="mep_line">
-	<div class="mep_image"><img src="{{urls.photo}}" /></div>
+	<div class="mep_image"><a href="/map/meps/{{id}}"><img src="{{urls.photo}}" /></a></div>
 	<div class="mep_info">
 		<span class="spanmep_name">
-			{{name}}<br/>
-			<img title="{{country_obj.name}}" alt="{{country_obj.name}}" src="/assets/img/flags/20x15/{{country_obj.iso}}.png" />
-			<span class="label label-info label-group-{{group_obj.id}}"
-				  title="{{group_obj.long}} - {{constituency_obj.long}}">{{group_obj.short}}</span>
+			<a class="mep_name_link" href="/map/meps/{{id}}">{{name}}</a> <br/>
+			<a href="/map/countries/{{country_obj.id}}"><img title="{{country_obj.name}}" alt="{{country_obj.name}}" src="/assets/img/flags/20x15/{{country_obj.iso}}.png" /></a>
+			<a href="/map/groups/{{group_obj.id}}"><span class="label label-info label-group-{{group_obj.id}}" title="{{group_obj.long}} - {{constituency_obj.long}}">{{group_obj.short}}</span></a>
 		</span>
 	</div>
 	<div class="mep_more">
