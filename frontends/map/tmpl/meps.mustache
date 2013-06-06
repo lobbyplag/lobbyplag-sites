@@ -194,7 +194,7 @@
 													<span><a href="#" class="btn btn-small">More Info</a></span>
 												{{/tag}}
 											{{/tagenabled}}
-											<span>Comment: {{comment}}</span>
+											{{#comment}}<span>Comment: {{comment}}</span>{{/comment}}
 											<a href="javascript:reportError('{{vote}}','{{amend.number}}');"
 											   class="pull-right btn btn-small alert-error"
 											   title="Report this Classification">Report Error</a>
