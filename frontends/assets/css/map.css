@@ -664,9 +664,10 @@ footer #social #social-twitter {
 }
 
 .btn_email {
-	position: absolute;
+	position: relative;
+	right: 0;
 	bottom: 0;
-	display: block;
+	display: inline;
 }
 
 div.overview_height_large {
@@ -1062,6 +1063,20 @@ td.articles_col2, td.articles_col3 {
 
 .dontuppercase {
 	text-transform: none !important;
+}
+
+#mailToolModal {
+	width: 640px;
+}
+
+#mailtool_body{
+	height: 640px;
+}
+
+#mailtool {
+	width: 600px;
+	border: 0;
+	height: 1100px;
 }
 
 /*.topic > div {*/

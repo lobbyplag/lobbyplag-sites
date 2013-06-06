@@ -1,6 +1,7 @@
 var path = require('path')
 	, fs = require('fs')
 	, url = require('url')
+	, querystring = require("querystring")
 	, mustache = require('mustache')
 	, express = require('express');
 
@@ -306,7 +307,8 @@ function initArticles() {
 		article.directive = 'Article ' + article.nr;
 		article.classified = article.classified || [];
 		classified_data.forEach(function (c) {
-			if (c.amend.directive.indexOf(article.directive) >= 0) {
+			var test = c.amend.directive.split(' – ')[0].split('+')[0];
+			if (test === article.directive) {
 				article.classified.push(c);
 			}
 		});
@@ -390,7 +392,6 @@ app.configure(function () {
 var reports_filename = path.resolve(__dirname, 'data', "reports.json.txt");
 var reports = fs.createWriteStream(reports_filename, {'flags': 'a'});
 
-
 var send = function (req, res, data) {
 	res.setHeader('Content-Type', 'text/html; charset=utf-8');
 	if (!config.debug) {
@@ -430,6 +431,7 @@ var tmpl = {
 	press: fs.readFileSync(path.resolve(__dirname, "tmpl/press.mustache")).toString(),
 	methods: fs.readFileSync(path.resolve(__dirname, "tmpl/methods.mustache")).toString(),
 	about: fs.readFileSync(path.resolve(__dirname, "tmpl/about.mustache")).toString(),
+	mailtest: fs.readFileSync(path.resolve(__dirname, "tmpl/mailtest.mustache")).toString(),
 
 	mep_topic_line: fs.readFileSync(path.resolve(__dirname, "tmpl/mep_topic_line.mustache")).toString(),
 	countries_map: fs.readFileSync(path.resolve(__dirname, "tmpl/countries_map.mustache")).toString(),
@@ -803,10 +805,6 @@ app.get(config.prefix + '/about', function (req, res) {
 	sendTemplate(req, res, tmpl.about, {active_about: true})
 });
 
-//app.get(config.prefix + '/mail', function (req, res) {
-//	sendTemplate(req, res, tmpl.mail, {})
-//});
-
 function getCacheStats() {
 	var result = {};
 	for (var key in staticcache) {
@@ -815,8 +813,14 @@ function getCacheStats() {
 	return result;
 }
 
+function saveCacheStats() {
+	var cachestats_filename = path.resolve(__dirname, 'data', "cachestats" + (new Date()) + ".json");
+	fs.writeFileSync(cachestats_filename, JSON.stringify(getCacheStats()));
+}
+
 app.get(config.prefix + '/cachestats', function (req, res) {
 	res.json(getCacheStats());
+	saveCacheStats();
 });
 
 app.post(config.prefix + '/report', function (req, res) {
@@ -827,15 +831,49 @@ app.post(config.prefix + '/report', function (req, res) {
 	else if ((!req.body.comment) || (req.body.comment.trim().length === 0))
 		res.send('Error: Please enter a comment.');
 	else {
-		var _obj = {nr: req.body.nr, vote: req.body.vote, comment: req.body.comment, user: req.body.user, ip: req.headers['HTTP_X_FORWARDED'], date: new Date()};
+		var _obj = {nr: req.body.nr, vote: req.body.vote, comment: req.body.comment, user: req.body.user, date: new Date()};
 		reports.write(JSON.stringify(_obj) + ',');
 		res.send('Report has been saved. Thank you!');
 	}
 });
 
+
+function compileMailParameter(_country, _groups, _ia, _gov) {
+	var params = {};
+	if (_country)
+		params.country = _country.name;
+	if (_groups) {
+		var _groupsstring = _groups.map(function (group) {
+			return group.short;
+		}).join(',');
+		params.party = _groupsstring;
+	}
+	if (_ia) {
+		params.ia = 1;
+	}
+	if (_gov) {
+		params.gov = 1;
+	}
+	params.lang = 'en';
+	//- pos: [Format: "{a}-{b}"] - a,b signed Integer, a <= b; wird ignoriert, wenn falsches format oder a>b; gecapped mit min(pos(abgeordneter)) bzw. max(pos(abgeordneter))
+	return '?' + querystring.stringify(params);
+}
+
+app.get(config.prefix + '/mailtest', function (req, res) {
+	var params = [];
+	countries.forEach(function (county) {
+		params.push(compileMailParameter(county));
+	});
+	groups.forEach(function (group) {
+		params.push(compileMailParameter(null, [group]));
+	});
+	params.push(compileMailParameter(null, groups));
+	sendTemplate(req, res, tmpl.mailtest, {params: params});
+});
+
+
 process.on('SIGINT', function () {
-	var cachestats_filename = path.resolve(__dirname, 'data', "cachestats" + (new Date()) + ".json");
-	fs.writeFileSync(cachestats_filename, JSON.stringify(getCacheStats()));
+	saveCacheStats();
 	process.exit();
 });
 

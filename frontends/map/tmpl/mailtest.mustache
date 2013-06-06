@@ -1,0 +1,15 @@
+<div id="main-container">
+	<div id="main" role="main">
+		<div class="btn_email">
+			<a class="btn btn-primary btn-small" href="#" onclick="sendEmails(this)">No Parameters</a>
+			<a class="btn btn-primary btn-small" lobbyplag-data="?lang=de" href="#" onclick="sendEmails(this)">German</a>
+			<a class="btn btn-primary btn-small" lobbyplag-data="?lang=en" href="#" onclick="sendEmails(this)">English</a>
+			<a class="btn btn-primary btn-small" lobbyplag-data="?gov=1" href="#" onclick="sendEmails(this)">To Government</a>
+			<a class="btn btn-primary btn-small" lobbyplag-data="?ia=1" href="#" onclick="sendEmails(this)">LIDE</a>
+			<br/>
+			{{#params}}
+				<a class="btn btn-primary btn-small" lobbyplag-data="{{.}}" href="#" onclick="sendEmails(this)">{{.}}</a>
+			{{/params}}
+		</div>
+	</div>
+</div>

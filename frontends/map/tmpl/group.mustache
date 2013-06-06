@@ -33,6 +33,7 @@
 			<div class="span{{^country}}6{{/country}}{{#country}}12{{/country}} info_box">
 				<h4>Overview {{group.short}} in {{^country}}Europe{{/country}}{{#country}}{{name}}{{/country}}
 					{{localparties}}</h4>
+
 				<div class="overview {{^country}}overview_height_large{{/country}}{{#country}}overview_height_small{{/country}}">
 					<div class="overview_text_box">
 						{{#overview}}
@@ -43,19 +44,19 @@
 								<span class="legend_neutral">...neutral: {{neutral}}</span><br/>
 							</div>
 						{{/overview}}
-						{{^disable_email}}
-							<div class="btn_email">
-								<a class="btn btn-primary btn-small" href="#">Send E-Mail to all <span
-										title="{{group.long}}">{{group.short}}</span>
-									MEPs</a>
-							</div>
-						{{/disable_email}}
 					</div>
 					<div class="overview_chart">
 						<div class="bigpie">
 							{{#overview}}{{>pie}}{{/overview}}
 						</div>
 					</div>
+					{{^disable_email}}
+						<div class="btn_email">
+							<a class="btn btn-primary btn-small" href="javascript:sendEmails();">Send E-Mail to all <span
+									title="{{group.long}}">{{group.short}}</span>
+								MEPs</a>
+						</div>
+					{{/disable_email}}
 				</div>
 			</div>
 		</div>
