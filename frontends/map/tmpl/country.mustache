@@ -86,17 +86,14 @@
 		<div class="row">
 			<div class="span12">
 				<section class="info">
-					<!-- FIXME
-					Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer
-					Erklärbärtext
-					Kurzer
-					Erklärbärtext Kurzer
-					Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer
-					Erklärbärtext
-					Kurzer
-					Erklärbärtext Kurzer Erklärbärtext
-					Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext
-					-->
+{{^country}}
+		Here you can see an overview over all EU member states. Choose a country to see which Members of the European Parliament (MEPs) from a country are pushing for more or less data privacy.
+{{/country}}
+{{#country}}
+	Here you can see the results for {{name}} and for the political parties from {{name}}. You can choose a MEP to see what exactly a MEP was proposing, or you can go to another country.
+	If you want to get in contact with the MEPs from {{name}} you can also click on the email button.
+{{/country}}
+
 				</section>
 			</div>
 		</div>

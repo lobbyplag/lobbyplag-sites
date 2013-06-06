@@ -357,19 +357,6 @@ function initArticles() {
 }
 initArticles();
 
-
-//var classified_data_edri = all_classified_data.filter(function (c) {
-//	return c.user === 'EDRI';
-//});
-//classified_data_edri.forEach(function (c) {
-//	var ms = classified_data.findByUID(c.uid);
-//	var _meps = c.meps.map(function (m) {
-//		return m.name;
-//	}).join(', ');
-//	console.log(c.amend.uid + ';' + c.amend.directive + ';' + _meps + ';' + ms.category + ';' + c.amend.number + ';' + ms.vote + ';' + c.vote+';'+(ms.vote !== c.vote));
-//});
-
-
 /* configure Express */
 
 var app = express();

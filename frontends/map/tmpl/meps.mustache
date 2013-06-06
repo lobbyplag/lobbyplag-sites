@@ -15,27 +15,11 @@
 			{{^mep}}
 				<div class="row">
 					<div class="span12">
-						Please use the search box to find individual MEPs
-						<!-- FIXME
-						Die EU-Abgeordneten (engl. Abkürzung „MEPs“) wurden nach nationalen Listen gewählt und vertreten
-						direkt die EU-Bürger. Die meisten Abgeordneten gehören zu einer nationalen Partei und haben sich
-						auf
-						EU-Ebene in Fraktionen zusammengeschlossen. EU-Abgeordnete sind jedoch viel freier als die
-						meisten
-						nationalen Abgeordneten: Sie stimmen frei ab und sind nicht an eine „Parteilinie“ gebunden. Es
-						gibt aber
-						auch einige unabhängige Abgeordnete. Die nächste Wahl für das EU-Parlament ist schon 2014.
-						Für die Datenschutzreform sind vor allem die Abgeordneten im zuständigen Innenausschuss des
-						Parlaments (Abkürzung: „LIBE-Ausschuss“) interessant. Sie verhandeln einen Vorschlag, der dann
-						dem ganzen
-						Parlament vorgelegt wird. Die Abgeordneten werden von Lobbyisten für und gegen Datenschutz
-						besucht. Die Abgeordneten
-						müssen sich nicht mit Lobbyisten treffen, der Umgang  mit Lobbyisten ist von einem Abgeordneten
-						zum anderen
-						sehr verschieden. In der EU gibt es keine zwingenden Regeln für Lobbyismus. Bei der
-						Datenschutzreform
-						soll es besonders intensives Lobbying der Industrie gegeben haben.
-						-->
+						<section class="info">
+							Here you can search for a specific MEP and check out what they have proposed in the committee.
+							In addition you also find the contact details and further information about every MEP.
+							Just type in the name of a MEP in the search box.
+						</section>
 						{{#meps_list}}<a href="/map/meps/{{id}}">{{name}}</a>
 							<img title="{{country_obj.name}}" alt="{{country_obj.name}}" src="/assets/img/flags/20x15/{{country_obj.iso}}.png"/>
 							<span class="label label-info label-group-{{group_obj.id}}" title="{{group_obj.long}} - {{constituency_obj.long}}">{{group_obj.short}}</span>
@@ -147,12 +131,12 @@
 								{{#votes}}{{>pie}}{{/votes}}
 							</div>
 						</div>
-							<div class="btn_email">
-								<a class="btn btn-primary btn-small" href="mailto:{{email}}">Send an email</a>
-						{{^disable_email}}
+						<div class="btn_email">
+							<a class="btn btn-primary btn-small" href="mailto:{{email}}">Send an email</a>
+							{{^disable_email}}
 								<a class="btn btn-primary btn-small" href="javascript:sendEmails();">Send an email</a>
-						{{/disable_email}}
-							</div>
+							{{/disable_email}}
+						</div>
 					</div>
 				</div>
 			</div>
