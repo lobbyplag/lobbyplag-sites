@@ -315,7 +315,7 @@ function initArticles() {
 			article.overview_meps[c.vote] = article.overview_meps[c.vote] || [];
 			if (c.meps) {
 				c.meps.forEach(function (mep) {
-					var obj = article.classified.findByID(mep.id);
+					var obj = article.overview_meps[c.vote].findByID(mep.id);
 					if (!obj) {
 						obj = {id: mep.id, mep: mep, count: 0 };
 						article.overview_meps[c.vote].push(obj);
