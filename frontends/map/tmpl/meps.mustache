@@ -4,7 +4,7 @@
 			<input name="q" type="text" placeholder="Search MEP by Name"
 				   data-source='{{typeahead}}'
 				   autocomplete="off"
-				   data-items="4" data-provide="typeahead" class="span3">
+				   data-items="8" data-provide="typeahead" class="span3">
 			<button type="submit" class="btn">Search</button>
 		</form>
 	</div>
@@ -15,7 +15,7 @@
 			{{^mep}}
 				<div class="row">
 					<div class="span12">
-						Please use the search to display a Member of Parliament
+						Please use the search box to find individual MEPs
 						<!-- FIXME
 						Die EU-Abgeordneten (engl. Abkürzung „MEPs“) wurden nach nationalen Listen gewählt und vertreten
 						direkt die EU-Bürger. Die meisten Abgeordneten gehören zu einer nationalen Partei und haben sich
@@ -148,9 +148,9 @@
 							</div>
 						</div>
 							<div class="btn_email">
-								<a class="btn btn-primary btn-small" href="mailto:{{email}}">Send E-Mail</a>
+								<a class="btn btn-primary btn-small" href="mailto:{{email}}">Send an email</a>
 						{{^disable_email}}
-								<a class="btn btn-primary btn-small" href="javascript:sendEmails();">Send E-Mail</a>
+								<a class="btn btn-primary btn-small" href="javascript:sendEmails();">Send an email</a>
 						{{/disable_email}}
 							</div>
 					</div>

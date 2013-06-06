@@ -1036,4 +1036,20 @@ a.mep_name_link {
 	margin-bottom: 0;
 }
 
+.typeahead a:active {
+	background-color: #fff !important;
+}
+
+.typeahead a {
+	color: #000 !important;
+	background-color: #fff !important;
+	height: 18px !important;
+	background-image: none!important;
+}
+
+.typeahead a:hover, .typeahead a:active {
+	background-color: #eee !important;
+	background-image: linear-gradient(to bottom, #eee, #eee) !important;
+}
+
 
