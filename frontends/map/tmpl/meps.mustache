@@ -184,10 +184,12 @@
 									<div class="accordion-inner">
 										<div class="diff">{{&amend.diff}}</div>
 										<div class="tag">
+											{{#tagenabled}}
 											{{#tag}}
 												<span>Tag: #{{tag}}</span>
 												<span><a href="#" class="btn btn-small">More Info</a></span>
 											{{/tag}}
+											{{/tagenabled}}
 											{{#comment_disabled}}<span>Comment: {{comment}}</span>{{/comment_disabled}}
 											<a href="javascript:reportError('{{vote}}','{{amend.number}}');"
 											   class="pull-right btn btn-small alert-error"

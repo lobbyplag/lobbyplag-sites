@@ -814,7 +814,7 @@ function getCacheStats() {
 	for (var key in staticcache) {
 		result.push(key + ': ' + staticcache[key].called);
 	}
-	return result.join("\n");
+	return result.join("/n");
 }
 
 app.get(config.prefix + '/cachestats', function (req, res) {
