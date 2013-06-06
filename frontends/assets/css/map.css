@@ -443,7 +443,6 @@ footer #social #social-twitter {
 .info {
 	margin-top: 10px;
 	margin-bottom: 10px;
-	font-size: 14px;
 	text-align: justify;
 }
 
@@ -536,65 +535,7 @@ footer #social #social-twitter {
 
 }
 
-/*
 
-#subnav_placeholder {
-	height: 40px;
-}
-
-#subnav, #subnav_map, #subnav_map_small, #subnav_map_search {
-	position: relative;
-	display: block;
-	min-width: 640px;
-	margin-top: 0px;
-	margin-bottom: 0px;
-	padding: 0px;
-	padding-right: 60px;
-}
-
-#subnav li:hover, #subnav_map li:hover, #subnav_map_small li:hover, #subnav_map_search li:hover {
-	background-color: #f68d28;
-}
-
-#subnav {
-	background-color: #555555;
-}
-
-#subnav_map {
-	background-color: #bf6824;
-	border-top: 1px solid #a47e3c;
-}
-
-#subnav_map_small {
-	background-color: #c56d24;
-	border-top: 1px solid #a47e3c;
-}
-
-#subnav_map_search {
-	background-color: #c56d24;
-	border-top: 1px solid #a47e3c;
-}
-
-#subnav a, #subnav_map a, #subnav_map_small a {
-	padding-bottom: 5px;
-	font-size: 20px;
-	color: #fff;
-}
-
-#subnav_map a {
-	padding-left: 6px !important;
-	padding-right: 6px !important;
-	text-transform: uppercase;
-}
-
-#subnav_map_small a {
-	padding-left: 8px !important;
-	padding-right: 8px !important;
-	text-transform: uppercase;
-	font-size: 16px;
-}
-
-*/
 
 .label-country, .label-group {
 	text-transform: uppercase;
@@ -610,10 +551,6 @@ footer #social #social-twitter {
 	float: left;
 	max-width: 200px;
 	margin-top: 12px;
-}
-
-.spanmep_name {
-	font-size: 16px;
 }
 
 .mep_line div {
@@ -645,10 +582,6 @@ footer #social #social-twitter {
 	height: 70px;
 	width: 70px;
 	margin-right: 20px;
-}
-
-.legend_strong, .legend_weak, .legend_neutral {
-	font-size: 14px;
 }
 
 .legend_strong {
@@ -724,11 +657,6 @@ div.overview_chart {
 .mep_info_box {
 	min-height: 192px;
 	text-align: left;
-	font-size: 14px;
-}
-
-.mep_info_box_links {
-	font-size: 14px;
 }
 
 .mep_info_image_box {
@@ -786,7 +714,6 @@ div.overview_chart {
 
 .amend .tag {
 	margin-top: 6px;
-	font-size: 14px;
 }
 
 .amend .tag span {
@@ -1023,26 +950,14 @@ div.vectormap {
 	margin-top: 10px;
 }
 
-.topics_meps_row {
-	font-size: 16px;
-}
-
 .topics_mep_row {
 	padding: 6px;
 	border-top: 1px solid #CDCDCD;
 	margin-top: 4px;
 }
 
-.topics_meps_subrow {
-	font-size: 14px;
-}
-
 .borderred {
 	border: 1px solid red;
-}
-
-.subnav_smalltext {
-	font-size: 12px !important;
 }
 
 table.articles {
@@ -1055,10 +970,6 @@ table.articles td {
 
 td.articles_col1 {
 	width: 15%;
-}
-
-td.articles_col2, td.articles_col3 {
-	font-size: 14px;
 }
 
 .dontuppercase {
@@ -1078,6 +989,20 @@ td.articles_col2, td.articles_col3 {
 	border: 0;
 	height: 1100px;
 }
+
+.spanmep_name, .topics_meps_row {
+	font-size: 16px;
+}
+
+.info, .topics_meps_subrow, td.articles_col2, td.articles_col3,.legend_strong,
+.legend_weak, .legend_neutral, .mep_info_box_links, .mep_info_box, .amend .tag, .walloftext {
+	font-size: 14px;
+}
+
+.subnav_smalltext {
+	font-size: 12px !important;
+}
+
 
 /*.topic > div {*/
 /*float: left;*/
