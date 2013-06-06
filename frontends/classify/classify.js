@@ -132,6 +132,15 @@ function amendmentsByNumber(number) {
 	return null;
 }
 
+function findClassifiedByID(uid, list) {
+	for (var i = 0; i < list.length; i++) {
+		if (list[i].uid === uid)
+			return list[i];
+	}
+	return null;
+}
+
+
 function initAmendments() {
 	var _mep = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'mep.json')));
 	var _mep_groups = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'groups.json')));
@@ -203,9 +212,6 @@ function initClassification(cb) {
 	fs.exists(classify_filename, function (exists) {
 		if (exists) {
 			classified = JSON.parse(fs.readFileSync(classify_filename).toString());
-//			classified=classified.filter(function(_classi){
-//				return _classi.user === "MS";
-//			});
 			classified.forEach(function (_classi) {
 				classified_by_users_and_ids[_classi.user] = classified_by_users_and_ids[_classi.user] || {};
 				classified_by_users_and_ids[_classi.user][_classi.uid] = _classi;
@@ -221,75 +227,8 @@ var save_classified = function () {
 };
 
 initClassification(function () {
-	//importEDRI();
-	//importEDRI2();
-	//save_classified();
 });
 
-function importEDRI2() {
-	var edri_filename = path.resolve(__dirname, 'data', 'import/' + "edri.json");
-	var edri = JSON.parse(fs.readFileSync(edri_filename).toString());
-	var noportc = 0, importc = 0;
-	classified_by_users_and_ids['EDRI'] = classified_by_users_and_ids['EDRI'] || {};
-	edri.forEach(function (entry) {
-		var amend = amendmentsByNumber(entry.nr);
-		if (!amend) {
-			console.log('data kernel panic, amendment ' + entry.nr + ' not found');
-			noportc++;
-		} else if (['stronger', 'weaker', 'neutral'].indexOf(entry.vote) < 0) {
-			noportc++;
-		} else {
-			var newentry = {uid: amend.uid, user: "EDRI", vote: entry.vote, topic: "", category: "", comment: "", conflict: false };
-			classified_by_users_and_ids['EDRI'][newentry.uid] = newentry;
-			classified.push(newentry);
-			importc++;
-		}
-	});
-	console.log('Import: ' + importc + '  -  Rejected: ' + noportc);
-	save_classified();
-}
-
-function importEDRI() {
-	var opinions_filename = path.resolve(__dirname, 'data', 'import/' + "opinions.json");
-	var opinions = JSON.parse(fs.readFileSync(opinions_filename).toString());
-	var opinions = opinions.map(function (entry) {
-		if (entry.reaction === 'stonger')
-			entry.reaction = 'stronger';
-		if (!entry.text)
-			entry.text = '';
-		if (entry.text.indexOf('Comment: ') === 0)
-			entry.text = entry.text.split('Comment: ')[1];
-
-		if (!parseInt(entry.amendment))
-			console.log(entry)
-		else
-			entry.amendment = parseInt(entry.amendment);
-
-		var amend = amendmentsByNumber(entry.amendment);
-		if (!amend) {
-			console.log('data kernel panic, amendment ' + entry.amendment + ' not found');
-			amend = {uid: ''};
-		}
-
-		return {uid: amend.uid, user: "EDRI", vote: entry.reaction, topic: "", category: "", comment: entry.text, conflict: false };
-	});
-	classified_by_users_and_ids['EDRI'] = classified_by_users_and_ids['EDRI'] || {};
-	var importc = 0, noportc = 0;
-	opinions.forEach(function (entry) {
-		if (
-			(!entry.uid) ||
-				(['stronger', 'weaker', 'neutral'].indexOf(entry.vote) < 0)
-			) {
-			noportc++;
-		} else {
-			classified_by_users_and_ids['EDRI'][entry.uid] = entry;
-			classified.push(entry);
-			importc++;
-		}
-	});
-	console.log('Import: ' + importc + '  -  Rejected: ' + noportc);
-	save_classified();
-}
 
 /* tools */
 
@@ -400,7 +339,6 @@ var sendAmendment = function (res, index, user) {
 			_others.push(classified_by_users_and_ids[key][_amend.uid]);
 		}
 	}
-
 	_parcel.others = _others;
 	if ((!classified_by_users_and_ids[user]) || (!classified_by_users_and_ids[user][_amend.uid])) {
 		_parcel.classified = {vote: 'fehlt'};
@@ -474,6 +412,42 @@ app.get(config.prefix + '/rawdata', function (req, res) {
 			return obj;
 		});
 		res.json(result);
+	} else {
+		return res.redirect(config.prefix);
+	}
+});
+function cvsify(s) {
+	s = s || '';
+	if (s.indexOf(';') >= 0) {
+		s = '"' + s.replace('"', '""') + '"';
+	}
+	return s.replace("\n", ' ');
+}
+
+app.get(config.prefix + '/compare', function (req, res) {
+	if (req.user) {
+		var classified_data_two = classified.filter(function (c) {
+			return c.user === 'EDRI';
+		});
+		var classified_data_msone = classified.filter(function (c) {
+			return c.user === 'MS';
+		});
+		var result = [];
+		amendments.forEach(function (amendment) {
+			var userone = findClassifiedByID(amendment.uid, classified_data_msone);
+			if (userone) {
+				var usertwo = findClassifiedByID(amendment.uid, classified_data_two);
+				if (usertwo) {
+					var _meps = amendment.authors.map(function (m) {
+						return m.name;
+					}).join(', ');
+					result.push(cvsify(amendment.uid) + ';' + cvsify((amendment.relations[0] || '').expand()) + ';' +
+						cvsify(_meps) + ';' + cvsify(userone.category) + ';' + amendment.number + ';' + cvsify(userone.vote) + ';' + cvsify(usertwo.vote) + ';' + (userone.vote !== usertwo.vote));
+				}
+			}
+		});
+		res.setHeader('Content-Type', 'text/plain; charset=utf-8');
+		res.send(result.join("\n"));
 	} else {
 		return res.redirect(config.prefix);
 	}

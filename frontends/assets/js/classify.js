@@ -35,11 +35,11 @@ var classifyAmmendment = function (vote) {
 };
 
 var buildAuthor = function (author) {
-	return '<div class="display-person">' + author.name +
+	return '<span class="display-person">' + author.name +
 		' <span class="label label-info label-country" title="' + author.country_long + '">' +
 		author.country + '</span> <span class="label label-info label-group" title="' +
 		author.group_long + '">' +
-		author.group + '</span></div>';
+		author.group + '</span></span>';
 }
 
 var buildAuthors = function (authors) {
@@ -49,6 +49,20 @@ var buildAuthors = function (authors) {
 			html += buildAuthor(author);
 		});
 	$('#authors').html(html);
+};
+
+var buildOther = function (other) {
+	return '<span class="alert alert-info">' + other.user + ': ' + other.vote + '</span>';
+};
+
+var buildOthers = function (others, ownvote) {
+	var html = "";
+	if (others)
+		others.forEach(function (other) {
+			if (ownvote !== other.vote)
+				html += buildOther(other);
+		});
+	$('#others').html(html);
 };
 
 $.fn.typeahead.Constructor.prototype.show =
@@ -91,6 +105,7 @@ var displayAmmendment = function (data) {
 	$('#saveindicator').hide();
 	navig = data.navig || {};
 	buildAuthors(data.amend.authors);
+	buildOthers(data.others, data.classified.vote);
 	if (data.cats) {
 		$('#category').typeahead({source: data.cats, items: 10});
 	}
@@ -101,13 +116,13 @@ var displayAmmendment = function (data) {
 };
 
 var getAmmendment = function (uid) {
-	$.get('/classify/amendment/' + uid + '/' + user, {}, function (data) {
+	$.get('/classify/amendment/' + uid + '/' + user, {},function (data) {
 		if (data.amend) {
 			displayAmmendment(data);
 		} else {
 			alert('no data');
 		}
-	});
+	}).fail(function() { alert("Server has rejected the call and was probably restarted. Please refresh and login again."); })
 };
 
 var getAmmendmentNr = function (nr) {
@@ -117,8 +132,9 @@ var getAmmendmentNr = function (nr) {
 		} else {
 			alert('no data');
 		}
-	});
+	}).fail(function() { alert("Server has rejected the call and was probably restarted. Please refresh and login again."); })
 };
+
 
 var setupKeyCommands = function () {
 	shortcut.add("ctrl+left", function () {
@@ -288,7 +304,7 @@ $(document).ready(function () {
 	$('#topic').change(showChanged);
 
 	$('#totallysecret').click(function () {
-		$('#authors').toggle();
+		$('#hidden').toggle();
 	});
 
 //	$('#directive').mouseenter(function() {
