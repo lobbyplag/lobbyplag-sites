@@ -808,9 +808,9 @@ app.get(config.prefix + '/about', function (req, res) {
 //});
 
 function getCacheStats() {
-	var result = [];
+	var result = {};
 	for (var key in staticcache) {
-		result.push({key: staticcache[key].called});
+		result[key] = staticcache[key].called;
 	}
 	return result;
 }
