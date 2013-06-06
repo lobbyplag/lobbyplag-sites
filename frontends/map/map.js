@@ -814,7 +814,7 @@ function getCacheStats() {
 	for (var key in staticcache) {
 		result.push(key + ': ' + staticcache[key].called);
 	}
-	return result.join("/n");
+	return result.join("\n");
 }
 
 app.get(config.prefix + '/cachestats', function (req, res) {
@@ -829,7 +829,7 @@ app.post(config.prefix + '/report', function (req, res) {
 	else if ((!req.body.comment) || (req.body.comment.trim().length === 0))
 		res.send('Error: Please enter a comment.');
 	else {
-		var _obj = {nr: req.body.nr, vote: req.body.vote, comment: req.body.comment, user: req.body.user, ip: req.connection.remoteAddress, date: new Date()};
+		var _obj = {nr: req.body.nr, vote: req.body.vote, comment: req.body.comment, user: req.body.user, ip: req.headers['HTTP_X_FORWARDED'], date: new Date()};
 		reports.write(JSON.stringify(_obj) + ',');
 		res.send('Report has been saved. Thank you!');
 	}
