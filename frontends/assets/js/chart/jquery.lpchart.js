@@ -148,6 +148,9 @@
 				});
 		},
 		vectormap: function (element) {
+			if (element.r)
+				return;
+			element.r = true;
 			var d = $(element).data("lobbyplag");
 			var vmap = new jvm.WorldMap({
 				map: 'europe_merc_en',
