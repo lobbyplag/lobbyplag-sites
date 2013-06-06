@@ -860,6 +860,34 @@ function compileMailParameter(_country, _groups, _ia, _gov) {
 	return '?' + querystring.stringify(params);
 }
 
+function cvsify(s) {
+	s = s || '';
+	if (s.indexOf(';') >= 0) {
+		s = '"' + s.replace('"', '""') + '"';
+	}
+	return s.replace("\n", ' ');
+}
+
+app.get(config.prefix + '/reportsfromtheuserssecretcsv', function (req, res) {
+	try {
+		var _reports = JSON.parse('[' +
+			fs.readFileSync(path.resolve(__dirname, 'data', 'reports.json.txt'))
+			+ '{}]');
+		var _lines = ["NR;VOTE;USER;DATE;COMMENT"];
+		_reports.forEach(function (report) {
+			if (report.nr)
+				_lines.push(
+					cvsify(report.nr) + ';' + cvsify(report.vote) + ';' + cvsify(report.user) + ';' + cvsify(report.date) + ';' + cvsify(report.comment)
+			)
+		});
+		res.setHeader('Content-Type', 'text/cvs; charset=utf-8');
+		res.send(_lines.join("\n"));
+	} catch (e) {
+		console.log(e);
+		res.send('error :.-(');
+	}
+});
+
 app.get(config.prefix + '/mailtest', function (req, res) {
 	var params = [];
 	countries.forEach(function (county) {
