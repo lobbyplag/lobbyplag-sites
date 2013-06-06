@@ -895,7 +895,7 @@ function findClassifyByAmendNr(nr) {
 app.get(config.prefix + '/discuss/libe/:nr', function (req, res) {
 	var _classified = findClassifyByAmendNr(req.params.nr);
 	if (_classified) {
-		sendTemplate(req, res, tmpl.discuss, {classified: _classified});
+		sendTemplate(req, res, tmpl.discuss, {classified: _classified, sitetitle: 'LIBE#' + _classified.amend.number});
 	} else {
 		res.redirect(config.prefix);
 	}

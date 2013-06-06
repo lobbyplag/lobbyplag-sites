@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>LobbyPlag ➔ Amendments</title>
+	{{^sitetitle}}
+		<title>LobbyPlag ➔ Amendments</title>
+	{{/sitetitle}}
+	{{#sitetitle}}
+		<title>LobbyPlag ➔ Amendments ➔ {{sitetitle}}</title>
+	{{/sitetitle}}
 	<meta charset="utf-8"/>
 	<!--[if lt IE 9]>
 	<script src="/assets/js/html5shiv.min.js" type="text/javascript"></script><![endif]-->
@@ -50,7 +55,9 @@
 <div id="mailToolModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalMailToolLabel"
 	 aria-hidden="true">
 	<div class="modal-header">
-		<h3 id="myModalMailToolLabel">Send an email to the MEPs</span> <button data-dismiss="modal" class="btn pull-right" ><i class="icon-remove"></i></button></h3>
+		<h3 id="myModalMailToolLabel">Send an email to the MEPs</span>
+			<button data-dismiss="modal" class="btn pull-right"><i class="icon-remove"></i></button>
+		</h3>
 	</div>
 	<div id="mailtool_body" class="modal-body">
 		<iframe id="mailtool" src=""></iframe>
