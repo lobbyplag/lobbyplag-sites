@@ -336,7 +336,7 @@ function initArticles() {
 			});
 		});
 		article.overview = article.classified.getClassifiedOverview();
-		article.group_overview = generateGroupOverview(article.classified, true);
+		article.group_overview = generateGroupOverview(article.classified, null, true);
 	});
 	articles = articles.filter(function (article) {
 		return (article.classified) && (article.classified.length > 0);
@@ -460,10 +460,15 @@ var sendTemplate = function (req, res, template, data) {
 	send(req, res, fillTemplate(template, data));
 };
 
-function generateGroupOverview(list, hideempty) {
+function generateGroupOverview(list, _country, hideempty) {
 	var _group_overview = [];
 	groups.forEach(function (group) {
-		var obj = list.filterClassifiedByGroup(group.id).getClassifiedOverview();
+		var _list;
+		if (_country)
+			_list = list.filterClassifiedByGroupAndCountry(group.id, _country.id);
+		else
+			_list = list.filterClassifiedByGroup(group.id);
+		var obj = _list.getClassifiedOverview();
 		if ((obj.total > 0) || (!hideempty)) {
 			delete obj.total;
 			delete obj.rate;
@@ -550,7 +555,7 @@ function sendCountry(_country, req, res) {
 			tops: _meps.tops(),
 			flops: _meps.flops(),
 			maildata: compileMailParameter(_country),
-			group_overview: generateGroupOverview(_overview),
+			group_overview: generateGroupOverview(_overview, _country),
 			overview: _overview.getClassifiedOverview()
 		});
 		send(req, res, _data);
