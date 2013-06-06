@@ -726,10 +726,14 @@ function sendArticles(req, res) {
 		var _topics_keys = {};
 		classified_data.forEach(function (c) {
 			var _root = c.amend.relations.join('|').extractRoot();
-			if (!_root)
+			if (!_root) {
 				console.log(c);
-			_topics_keys[_root] = _topics_keys[_root] || [];
-			_topics_keys[_root].push(c);
+				_root = '';
+			}
+			if (_root.indexOf('Article') >= 0) {
+				_topics_keys[_root] = _topics_keys[_root] || [];
+				_topics_keys[_root].push(c);
+			}
 		});
 		var _topics = [];
 		for (var key in _topics_keys) {
