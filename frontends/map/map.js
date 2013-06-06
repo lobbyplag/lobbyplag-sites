@@ -220,7 +220,6 @@ initGroups();
 
 var all_classified_data = JSON.parse(fs.readFileSync(path.resolve(__dirname, './data', 'classified.json')));
 var classified_data = [];
-
 function initClassified() {
 	var raw_amendments = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'amendments.json')));
 	all_classified_data.forEach(function (c) {
@@ -419,6 +418,7 @@ var tmpl = {
 	methods: fs.readFileSync(path.resolve(__dirname, "tmpl/methods.mustache")).toString(),
 	about: fs.readFileSync(path.resolve(__dirname, "tmpl/about.mustache")).toString(),
 	mailtest: fs.readFileSync(path.resolve(__dirname, "tmpl/mailtest.mustache")).toString(),
+	discuss: fs.readFileSync(path.resolve(__dirname, "tmpl/discuss.mustache")).toString(),
 
 	mep_topic_line: fs.readFileSync(path.resolve(__dirname, "tmpl/mep_topic_line.mustache")).toString(),
 	countries_map: fs.readFileSync(path.resolve(__dirname, "tmpl/countries_map.mustache")).toString(),
@@ -880,6 +880,24 @@ app.get(config.prefix + '/reportsfromtheuserssecretcsv', function (req, res) {
 	} catch (e) {
 		console.log(e);
 		res.send('error :.-(');
+	}
+});
+
+function findClassifyByAmendNr(nr) {
+	nr = parseInt(nr);
+	for (var i = 0; i < classified_data.length; i++) {
+		if (classified_data[i].amend.number === nr)
+			return classified_data[i];
+	}
+	return null;
+}
+
+app.get(config.prefix + '/discuss/lide/:nr', function (req, res) {
+	var _classified = findClassifyByAmendNr(req.params.nr);
+	if (_classified) {
+		sendTemplate(req, res, tmpl.discuss, {classified: _classified});
+	} else {
+		res.redirect(config.prefix);
 	}
 });
 
