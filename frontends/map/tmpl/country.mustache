@@ -39,7 +39,7 @@
 			{{#country}}
 				<div class="span6 info_box">
 					<div class="overview_bar_box">
-						<h4>Overview Groups in {{name}}</h4>
+						<h4>Overview Groups in {{thename}}</h4>
 
 						<div class="mep_bars">
 							{{#group_overview}}{{>group_bars}}{{/group_overview}}
@@ -60,7 +60,7 @@
 						</div>
 
 						<div class="btn_email">
-							<a class="btn btn-primary btn-small" href="#" lobbyplag-data="{{maildata}}" onclick="sendEmails(this)">Send an email to the MEPs in {{name}}</a>
+							<a class="btn btn-primary btn-small" href="#" lobbyplag-data="{{maildata}}" onclick="sendEmails(this)">Send an email to the MEPs in {{thename}}</a>
 						</div>
 
 					</div>
@@ -76,8 +76,8 @@
 		Here you can see an overview over all EU member states. Choose a country to see which Members of the European Parliament (MEPs) from a country are pushing for more or less data privacy.
 {{/country}}
 {{#country}}
-	Here you can see the results for {{name}} and for the political parties from {{name}}. You can choose a MEP to see what exactly a MEP was proposing, or you can go to another country.
-	If you want to get in contact with the MEPs from {{name}} you can also click on the email button.
+	Here you can see the results for {{thename}} and for the political parties from {{thename}}. You can choose a MEP to see what exactly a MEP was proposing, or you can go to another country.
+	If you want to get in contact with the MEPs from {{thename}} you can also click on the email button.
 {{/country}}
 
 				</section>
@@ -86,7 +86,7 @@
 		<div class="row">
 			{{#flops.length}}
 				<div class="span6 {{^tops.length}}spanpadding3 {{/tops.length}}info_box border_weaker">
-					<h4 class="background_weaker info_box_head">Top {{flops.length}} for less Data Privacy in {{^country}}Europe{{/country}}{{#country}}{{name}}{{/country}}</h4>
+					<h4 class="background_weaker info_box_head">Top {{flops.length}} for less Data Privacy in {{^country}}Europe{{/country}}{{#country}}{{thename}}{{/country}}</h4>
 
 					<div class="flop_box">{{#flops}}{{>mep_line}}{{/flops}}</div>
 				</div>
@@ -94,7 +94,7 @@
 			{{#tops.length}}
 				<div class="span6 {{^flops.length}}spanpadding3 {{/flops.length}}info_box border_stronger">
 					<h4 class="background_stronger info_box_head">Top {{tops.length}} for more Data Privacy in {{^country}}
-						Europe{{/country}}{{#country}}{{name}}{{/country}}</h4>
+						Europe{{/country}}{{#country}}{{thename}}{{/country}}</h4>
 
 					<div class="top_box">{{#tops}}{{>mep_line}}{{/tops}}</div>
 				</div>

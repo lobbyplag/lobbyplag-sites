@@ -195,8 +195,10 @@ function initCountries() {
 	var raw_countries = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'countries.json')));
 	for (var key in raw_countries) {
 		if (raw_countries.hasOwnProperty(key)) {
-			var country = {id: key, name: raw_countries[key]}
-			country.iso = key;
+			var country = {id: key, name: raw_countries[key], thename: raw_countries[key], iso: key}
+			if ((country.id === 'uk') || (country.id === 'nl')) {
+				country.thename = 'the ' + country.name;
+			}
 			if (country.iso === 'uk') {
 				country.iso = 'gb';
 			} else if (country.iso === 'ir') {
@@ -788,7 +790,7 @@ function sendArticle(req, res, article) {
 		var _data = fillTemplate(tmpl.article, {
 			active_articles: true,
 			article: article,
-			sitetitle: 'Article '+article.nr
+			sitetitle: 'Article ' + article.nr
 		});
 		send(req, res, _data);
 		storecache('articles_' + article.nr, _data);

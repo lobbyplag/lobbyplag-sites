@@ -49,10 +49,10 @@
 			{{/country}}
 			{{#country}}
 				<div class="span12 info_box">
-					<h4>Overview {{group.short}} in {{name}}
+					<h4>Overview {{group.short}} in {{thename}}
 						{{localparties}}</h4>
 
-					<div class="overview overview_height_small">
+					<div class="overview overview_height_large">
 						<div class="overview_text_box">
 							{{#overview}}{{>amend_overview}}{{/overview}}
 						</div>
@@ -61,8 +61,8 @@
 								{{#overview}}{{>pie}}{{/overview}}
 							</div>
 						</div>
-						<div class="btn_email_right">
-							<a class="btn btn-primary btn-small" lobbyplag-data="{{maildata}}" href="#" onclick="sendEmails(this)">Send an email to the MEPs of <span title="{{group.long}}">{{group.short}}</span> in {{name}}</a>
+						<div class="btn_email">
+							<a class="btn btn-primary btn-small" lobbyplag-data="{{maildata}}" href="#" onclick="sendEmails(this)">Send an email to the MEPs of <span title="{{group.long}}">{{group.short}}</span> in {{thename}}</a>
 						</div>
 					</div>
 				</div>
@@ -76,7 +76,7 @@
 					You can also choose another political group, or send an email to all members of the {{group.short}} group.
 {{/country}}
 {{#country}}
-	Here you can see what the members of the {{group.short}} group from {{name}} have proposed.
+	Here you can see what the members of the {{group.short}} group from {{thename}} have proposed.
 	You can click on each MEP to see more about their proposals, or you can send them an email by clicking on the email button.
 {{/country}}
 				</section>
