@@ -1,18 +1,44 @@
+<nav id="subnav_map" class="lp-countries lp-subnav navbar navbar-inverse clearfix">
+	<ul class="nav pull-right clearfix">
+		{{#prev}}
+			<li><a class="dontuppercase" title="Jump to previous article" href="/map/discuss/libe/{{nr}}">&lt;&lt; {{title}}</a></li> {{/prev}}
+		<li><a class="dontuppercase" title="Jump to amendments overview" href="/map/amendments/libe/">List of Amendments</a></li>
+		{{#next}}
+			<li><a class="dontuppercase" title="Jump to next article" href="/map/discuss/libe/{{nr}}">{{title}} &gt;&gt;</a></li> {{/next}}
+	</ul>
+</nav>
 <div id="main-container">
 	<div id="main" role="main">
 		{{#classified}}
 			<div class="row">
 				<div class="span12">
-					<h4>Discuss Amendment LIBE #{{amend.number}}</h4>
+					<h3>Amendment LIBE #{{amend.number}}
+						<a href="javascript:reportError('{{vote}}','{{amend.number}}');"
+						   class="pull-right btn btn-small alert-error"
+						   title="Report this Rating">Report Error</a></h3>
 
-					<div class="diff">{{&amend.diff}}</div>
+					<div class="diff-box">
+						<div class="diff">{{&amend.diff}}</div>
+					</div>
+
+					<br/>
+					<span>Current Data Privacy Rating is : <span class="text_{{vote}}">{{vote}}</span></span>
+					{{#amend}}
+						{{#meps}}
+							<span class="pull-right">
+								&nbsp&nbsp
+								<a class="mep_name_link" href="/map/meps/{{id}}">{{name}}</a>
+								<a href="/map/countries/{{country_obj.id}}"><img title="{{country_obj.name}}" alt="{{country_obj.name}}" src="/assets/img/flags/20x15/{{country_obj.iso}}.png"/></a>
+								<a href="/map/groups/{{group_obj.id}}"><span class="label label-info label-group-{{group_obj.id}}" title="{{group_obj.long}} - {{constituency_obj.long}}">{{group_obj.short}}</span></a>
+							</span>
+						{{/meps}}
+					{{/amend}}
 				</div>
 			</div>
 			<br/>
 
 			<div class="row">
 				<div class="span12">
-					<div>Current Data Privacy Rating is : {{vote}}</div>
 				</div>
 			</div>
 			<br/>
@@ -25,7 +51,7 @@
 						var disqus_shortname = 'lobbyplag'; // required: replace example with your forum shortname
 						var disqus_identifier = 'LIBE{{amend.number}}';
 						var disqus_url = 'http://lobbyplag.eu/map/discuss/libe/{{amend.number}}';
-							/* * * DON'T EDIT BELOW THIS LINE * * */
+						/* * * DON'T EDIT BELOW THIS LINE * * */
 						(function () {
 							var dsq = document.createElement('script');
 							dsq.type = 'text/javascript';

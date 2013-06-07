@@ -43,6 +43,7 @@
 		<li{{#active_countries}} class="active"{{/active_countries}}><a href="/map/countries" title="View By Countries">Countries</a></li>
 		<li{{#active_groups}} class="active"{{/active_groups}}><a href="/map/groups" title="View By Groups &amp; Parties">Groups</a></li>
 		<li{{#active_meps}} class="active"{{/active_meps}}><a href="/map/meps" title="View By Members of European Parliament (MEP)">MEPs</a></li>
+		<li{{#active_amends}} class="active"{{/active_amends}}><a href="/map/amendments/libe/" title="View By LIBE Amendments">LIBE</a></li>
 		<li{{#active_articles}} class="active"{{/active_articles}}><a href="/map/articles" title="View By Articles">Articles</a></li>
 		<li{{#active_methods}} class="active"{{/active_methods}}><a href="/map/methods" class="subnav_smalltext" title="Methods">Methods</a></li>
 		<li{{#active_press}} class="active"{{/active_press}}><a href="/map/press" class="subnav_smalltext" title="Press Informations">Press</a></li>
@@ -63,6 +64,46 @@
 		<iframe id="mailtool" src=""></iframe>
 	</div>
 </div>
+
+<div id="reportErrorModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalJumpLabel"
+	 aria-hidden="true">
+	<div class="modal-header">
+		<h3 id="myModalJumpLabel">Report Error: Rating of Amendment #<span id="current_amend"></span></h3>
+	</div>
+	<div class="modal-body">
+		Current Rating is : <span id="current_rating"></span><br/>
+		<br/>
+		Your Rating would be :
+		<form class="form-inline" id="report_vote">
+			<fieldset>
+				<label class="radio">
+					<input type="radio" name="vote" value="weaker">
+					weaker
+				</label>
+				<label class="radio">
+					<input type="radio" name="vote" value="stronger">
+					stronger
+				</label>
+				<label class="radio">
+					<input type="radio" name="vote" value="neutral">
+					neutral
+				</label>
+			</fieldset>
+		</form>
+		Your Name (Optional):<br/>
+		<input id="report_name" type="text" placeholder=""><br/><br/>
+		Please enter a Comment (Mandatory)
+		<textarea id="report_comment"></textarea>
+	</div>
+	<label id="report_info" class="alert alert-info hidden"></label>
+
+	<div class="modal-footer">
+		<button id="btn_send" class="btn btn-primary">Send</button>
+		<button data-dismiss="modal" class="btn btn-primary">Cancel</button>
+	</div>
+</div>
+
+
 
 </body>
 

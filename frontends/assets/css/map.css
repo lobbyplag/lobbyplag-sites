@@ -582,16 +582,24 @@ footer #social #social-twitter {
 	margin-right: 20px;
 }
 
-.legend_strong {
+.text_stronger {
 	color: #007402;
 }
 
-.legend_weak {
+.text_weaker {
 	color: #740f16;
 }
 
-.legend_neutral {
+.text_neutral {
 	color: #746f71;
+}
+
+.diff-box {
+	padding: 10px;
+	background-color: #F5F5F5;
+	border: 1px solid #E3E3E3;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05) inset;
 }
 
 .btn_email {
@@ -704,6 +712,10 @@ div.overview_chart {
 
 .background_weaker a {
 	color: #fff;
+}
+
+.border_default {
+	border: 1px solid #d6ccc5;
 }
 
 .border_stronger {
@@ -1003,8 +1015,7 @@ a.mep_name_link {
 	font-size: 16px;
 }
 
-.info, .topics_meps_subrow, td.articles_col2, .legend_strong,
-.legend_weak, .legend_neutral, .mep_info_box_links, .mep_info_box, .amend .tag, .walloftext {
+.info, .topics_meps_subrow, .medium_textsize, .legend, .mep_info_box_links, .mep_info_box, .amend .tag, .walloftext {
 	font-size: 14px;
 }
 

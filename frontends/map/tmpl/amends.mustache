@@ -1,0 +1,48 @@
+<div id="main-container">
+	<div id="main" role="main">
+		<div class="row">
+			<div class="span12 info_box">
+				<h4>LIBE Amendments</h4>
+			</div>
+		</div>
+		<div class="row">
+			<div class="span12">
+				<section class="info">
+					Here you can see an overview over the EU amendments for a new data privacy regulation.
+					You can scroll through the amendments to find out,
+					for which parts of the law there have been amendments for more or less data privacy and which political groups have submitted them.
+				</section>
+			</div>
+		</div>
+		<div class="row">
+			<div class="span12">
+				<table class="articles table">
+					<tr>
+						<th>Amendment Nr#</th>
+						<th>Rating</th>
+						<th>Directive</th>
+						<th>Authors</th>
+					</tr>
+					{{#classified}}
+						<tr>
+							<td><a href="/map/discuss/libe/{{amend.number}}">LIBE #{{amend.number}}</a></td>
+							<td class="medium_textsize text_{{vote}}">{{vote}}</td>
+							<td class="medium_textsize">{{amend.directive}}</td>
+							<td class="medium_textsize">
+								{{#amend}}
+									{{#meps}}
+										<div>
+											<a class="mep_name_link" href="/map/meps/{{id}}">{{name}}</a>
+											<a href="/map/countries/{{country_obj.id}}"><img title="{{country_obj.name}}" alt="{{country_obj.name}}" src="/assets/img/flags/20x15/{{country_obj.iso}}.png"/></a>
+											<a href="/map/groups/{{group_obj.id}}"><span class="label label-info label-group-{{group_obj.id}}" title="{{group_obj.long}} - {{constituency_obj.long}}">{{group_obj.short}}</span></a>
+										</div>
+									{{/meps}}
+								{{/amend}}
+							</td>
+						</tr>
+					{{/classified}}
+				</table>
+			</div>
+		</div>
+	</div>
+</div>

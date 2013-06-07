@@ -282,6 +282,14 @@ function initMEPs() {
 			}
 		});
 
+		classified_data.sort(function (a, b) {
+			if (a.amend.number < b.amend.number)
+				return -1;
+			if (a.amend.number > b.amend.number)
+				return 1;
+			return 0;
+		});
+
 		meps.push(_mep);
 	}
 }
@@ -321,6 +329,8 @@ function initArticles() {
 						obj = {id: mep.id, mep: mep, count: 0 };
 						article.overview_meps[c.vote].push(obj);
 					}
+					obj.amend_nrs = obj.amend_nrs || [];
+					obj.amend_nrs.push(c.amend.number);
 					obj.count += 1;
 				});
 			} else {
@@ -419,7 +429,9 @@ var tmpl = {
 	about: fs.readFileSync(path.resolve(__dirname, "tmpl/about.mustache")).toString(),
 	mailtest: fs.readFileSync(path.resolve(__dirname, "tmpl/mailtest.mustache")).toString(),
 	discuss: fs.readFileSync(path.resolve(__dirname, "tmpl/discuss.mustache")).toString(),
+	amends: fs.readFileSync(path.resolve(__dirname, "tmpl/amends.mustache")).toString(),
 
+	amend_overview: fs.readFileSync(path.resolve(__dirname, "tmpl/amend_overview.mustache")).toString(),
 	mep_topic_line: fs.readFileSync(path.resolve(__dirname, "tmpl/mep_topic_line.mustache")).toString(),
 	countries_map: fs.readFileSync(path.resolve(__dirname, "tmpl/countries_map.mustache")).toString(),
 	pie: fs.readFileSync(path.resolve(__dirname, "tmpl/pie.mustache")).toString(),
@@ -437,6 +449,7 @@ var fillTemplate = function (template, data) {
 		"group_bars": tmpl.group_bars,
 		"countries_map": tmpl.countries_map,
 		"mep_topic_line": tmpl.mep_topic_line,
+		"amend_overview": tmpl.amend_overview,
 		"pie": tmpl.pie,
 		"header": tmpl.header,
 		"footer": tmpl.footer
@@ -669,7 +682,7 @@ app.get(config.prefix + '/groups/:group/:country', function (req, res) {
 });
 
 function sendMep(_mep, _meps, _message, req, res) {
-	var _classified;
+	var _classified, _sitetile;
 
 	if (_mep) {
 		if (cache_send(req, res, 'mep_' + _mep.id)) {
@@ -685,6 +698,7 @@ function sendMep(_mep, _meps, _message, req, res) {
 		return mep.name;
 	});
 	if (_mep) {
+		_sitetile = _mep.name;
 		_classified = classified_data.filter(function (c) {
 			return c.amend.author_ids.indexOf(_mep.id) >= 0;
 		});
@@ -695,6 +709,8 @@ function sendMep(_mep, _meps, _message, req, res) {
 				return 1;
 			return 0;
 		});
+	} else {
+		_sitetile = 'MEPs';
 	}
 	var _data = fillTemplate(tmpl.meps, {
 		"active_meps": true,
@@ -702,6 +718,7 @@ function sendMep(_mep, _meps, _message, req, res) {
 		meps_haschildren: ((_meps) && (_meps.length > 0)),
 		mep: _mep,
 		message: _message,
+		sitetitle: _sitetile,
 		classified: _classified,
 		classified_haschildren: ((_classified) && (_classified.length > 0)),
 		"typeahead": JSON.stringify(_typeahead)
@@ -754,7 +771,8 @@ function sendArticles(req, res) {
 	if (!cache_send(req, res, 'articles')) {
 		var _data = fillTemplate(tmpl.articles, {
 			active_articles: true,
-			articles: articles
+			articles: articles,
+			sitetitle: 'Articles'
 		});
 		send(req, res, _data);
 		storecache('articles', _data);
@@ -769,7 +787,8 @@ function sendArticle(req, res, article) {
 	if (!cache_send(req, res, 'articles_' + article.nr)) {
 		var _data = fillTemplate(tmpl.article, {
 			active_articles: true,
-			article: article
+			article: article,
+			sitetitle: 'Article '+article.nr
 		});
 		send(req, res, _data);
 		storecache('articles_' + article.nr, _data);
@@ -790,15 +809,15 @@ app.get(config.prefix + '/article/:nr', function (req, res) {
 });
 
 app.get(config.prefix + '/methods', function (req, res) {
-	sendTemplate(req, res, tmpl.methods, {active_methods: true})
+	sendTemplate(req, res, tmpl.methods, {active_methods: true, sitetitle: 'Methods'})
 });
 
 app.get(config.prefix + '/press', function (req, res) {
-	sendTemplate(req, res, tmpl.press, {active_press: true})
+	sendTemplate(req, res, tmpl.press, {active_press: true, sitetitle: 'Press'})
 });
 
 app.get(config.prefix + '/about', function (req, res) {
-	sendTemplate(req, res, tmpl.about, {active_about: true})
+	sendTemplate(req, res, tmpl.about, {active_about: true, sitetitle: 'About'})
 });
 
 function getCacheStats() {
@@ -832,7 +851,6 @@ app.post(config.prefix + '/report', function (req, res) {
 		res.send('Report has been saved. Thank you!');
 	}
 });
-
 
 function compileMailParameter(_country, _groups, _ia, _gov) {
 	var params = {};
@@ -892,13 +910,47 @@ function findClassifyByAmendNr(nr) {
 	return null;
 }
 
+function sendAmend(req, res, _classified) {
+	if (!cache_send(req, res, 'amend_' + _classified.amend.nr)) {
+		var next, prev;
+		for (var i = _classified.amend.number + 1; i < 5000; i++) {
+			if (findClassifyByAmendNr(i)) {
+				next = {nr: i, title: 'LIBE#' + i};
+				break;
+			}
+		}
+		for (var i = _classified.amend.number - 1; i > 0; i--) {
+			if (findClassifyByAmendNr(i)) {
+				prev = {nr: i, title: 'LIBE#' + i};
+				break;
+			}
+		}
+		var _data = fillTemplate(tmpl.discuss, {active_amends: true, classified: _classified, sitetitle: 'LIBE#' + _classified.amend.number, prev: prev, next: next});
+		send(req, res, _data);
+		storecache('amend_' + _classified.amend.nr, _data);
+	}
+}
+
+
 app.get(config.prefix + '/discuss/libe/:nr', function (req, res) {
 	var _classified = findClassifyByAmendNr(req.params.nr);
 	if (_classified) {
-		sendTemplate(req, res, tmpl.discuss, {classified: _classified, sitetitle: 'LIBE#' + _classified.amend.number});
+		sendAmend(req, res, _classified);
 	} else {
 		res.redirect(config.prefix);
 	}
+});
+
+function sendAmendments(req, res) {
+	if (!cache_send(req, res, 'amends_libe')) {
+		var _data = fillTemplate(tmpl.amends, {active_amends: true, classified: classified_data, sitetitle: 'LIBE'});
+		send(req, res, _data);
+		storecache('amends_libe', _data);
+	}
+}
+
+app.get(config.prefix + '/amendments/libe/', function (req, res) {
+	sendAmendments(req, res);
 });
 
 app.get(config.prefix + '/mailtest', function (req, res) {

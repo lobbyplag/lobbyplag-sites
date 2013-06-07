@@ -1,12 +1,15 @@
 <div class="topics_mep_row">
 	{{#mep}}
-		<a href="/map/meps/{{id}}">{{name}}</a><br/>
+		<a href="/map/meps/{{id}}">{{name}}</a>
+		&nbsp
+		<img title="{{country_obj.name}}" alt="{{country_obj.name}}" src="/assets/img/flags/20x15/{{country_obj.iso}}.png"/>
+		<span class="label label-info label-group-{{group_obj.id}}" title="{{group_obj.long}} {{constituency_obj.long}}">{{group_obj.short}}</span>
+		<br/>
 	{{/mep}} 
 	<span class="topics_meps_subrow">
-		{{#mep}}
-			<img title="{{country_obj.name}}" alt="{{country_obj.name}}" src="/assets/img/flags/20x15/{{country_obj.iso}}.png"/>
-			<span class="label label-info label-group-{{group_obj.id}}" title="{{group_obj.long}} {{constituency_obj.long}}">{{group_obj.short}}</span>
-		{{/mep}} 
-		- Amendments: {{count}}
+		LIBE Amendments:
+		{{#amend_nrs}}
+			&nbsp<a href="/map/discuss/libe/{{.}}" title="Jump to Amendment #{{.}}">#{{.}}</a>
+		{{/amend_nrs}}
 	</span>
 </div>

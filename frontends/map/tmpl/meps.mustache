@@ -117,14 +117,7 @@
 
 					<div class="overview overview_height_large">
 						<div class="overview_text_box">
-							{{#votes}}
-								<div class="overview_text">
-									Amendments: {{total}}<br/>
-									<span class="legend_strong">...stronger: {{pro}}</span><br/>
-									<span class="legend_weak">...weaker: {{contra}}</span><br/>
-									<span class="legend_neutral">...neutral: {{neutral}}</span><br/>
-								</div>
-							{{/votes}}
+							{{#votes}}{{>amend_overview}}{{/votes}}
 						</div>
 						<div class="overview_chart ">
 							<div class="bigpie">
@@ -198,42 +191,3 @@
 		</div>
 	</div>
 </div>
-
-<div id="reportErrorModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalJumpLabel"
-	 aria-hidden="true">
-	<div class="modal-header">
-		<h3 id="myModalJumpLabel">Report Error: Rating of Amendment #<span id="current_amend"></span></h3>
-	</div>
-	<div class="modal-body">
-		Current Rating is : <span id="current_rating"></span><br/>
-		<br/>
-		Your Rating would be :
-		<form class="form-inline" id="report_vote">
-			<fieldset>
-				<label class="radio">
-					<input type="radio" name="vote" value="weaker">
-					weaker
-				</label>
-				<label class="radio">
-					<input type="radio" name="vote" value="stronger">
-					stronger
-				</label>
-				<label class="radio">
-					<input type="radio" name="vote" value="neutral">
-					neutral
-				</label>
-			</fieldset>
-		</form>
-		Your Name (Optional):<br/>
-		<input id="report_name" type="text" placeholder=""><br/><br/>
-		Please enter a Comment (Mandatory)
-		<textarea id="report_comment"></textarea>
-	</div>
-	<label id="report_info" class="alert alert-info hidden"></label>
-
-	<div class="modal-footer">
-		<button id="btn_send" class="btn btn-primary">Send</button>
-		<button data-dismiss="modal" class="btn btn-primary">Cancel</button>
-	</div>
-</div>
-

@@ -34,14 +34,7 @@
 
 					<div class="overview overview_height_large">
 						<div class="overview_text_box">
-							{{#overview}}
-								<div class="overview_text">
-									Amendments: {{total}}<br/>
-									<span class="legend_strong">...stronger: {{pro}}</span><br/>
-									<span class="legend_weak">...weaker: {{contra}}</span><br/>
-									<span class="legend_neutral">...neutral: {{neutral}}</span><br/>
-								</div>
-							{{/overview}}
+							{{#overview}}{{>amend_overview}}{{/overview}}
 						</div>
 						<div class="overview_chart">
 							<div class="bigpie">
@@ -61,14 +54,7 @@
 
 					<div class="overview overview_height_small">
 						<div class="overview_text_box">
-							{{#overview}}
-								<div class="overview_text">
-									Amendments: {{total}}<br/>
-									<span class="legend_strong">...stronger: {{pro}}</span><br/>
-									<span class="legend_weak">...weaker: {{contra}}</span><br/>
-									<span class="legend_neutral">...neutral: {{neutral}}</span><br/>
-								</div>
-							{{/overview}}
+							{{#overview}}{{>amend_overview}}{{/overview}}
 						</div>
 						<div class="overview_chart">
 							<div class="bigpie">
