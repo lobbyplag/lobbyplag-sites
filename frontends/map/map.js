@@ -831,7 +831,7 @@ function getCacheStats() {
 }
 
 function saveCacheStats() {
-	var cachestats_filename = path.resolve(__dirname, 'data', "cachestats" + (new Date()) + ".json");
+	var cachestats_filename = path.resolve(__dirname, 'data', "cachestats" + (new Date()).getUTCDate() + ".json");
 	fs.writeFileSync(cachestats_filename, JSON.stringify(getCacheStats()));
 }
 
@@ -937,7 +937,6 @@ function sendAmend(req, res, _classified) {
 app.get(config.prefix + '/discuss/libe/:nr', function (req, res) {
 	var _classified = findClassifyByAmendNr(req.params.nr);
 	if (_classified) {
-		console.log(_classified);
 		sendAmend(req, res, _classified);
 	} else {
 		res.redirect(config.prefix);
