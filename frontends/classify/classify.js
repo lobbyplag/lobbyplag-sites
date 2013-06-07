@@ -183,11 +183,14 @@ function initAmendments() {
 		_amend.author_ids.forEach(function (_author_id) {
 			if ((_author_id in _mep)) {
 				_authors.push({
+					"uid": _author_id,
 					"name": _mep[_author_id].name,
 					"country": _mep[_author_id].country,
 					"country_long": _countries[_mep[_author_id].country],
 					"group": _mep_groups[_mep[_author_id].group].short,
-					"group_long": _mep_groups[_mep[_author_id].group].long
+					"group_id": _mep[_author_id].group,
+					"group_long": _mep_groups[_mep[_author_id].group].long,
+					"full": _mep[_author_id]
 				});
 			} else {
 				console.log('Author ' + _author_id + 'not found :.(');
@@ -418,10 +421,14 @@ app.get(config.prefix + '/rawdata', function (req, res) {
 });
 function cvsify(s) {
 	s = s || '';
-	if (s.indexOf(';') >= 0) {
-		s = '"' + s.replace('"', '""') + '"';
+	if (isNaN(s)) {
+		if (s.indexOf(';') >= 0) {
+			s = '"' + s.replace('"', '""') + '"';
+		}
+		return s.replace("\n", ' ');
+	} else {
+		return String(s);
 	}
-	return s.replace("\n", ' ');
 }
 
 app.get(config.prefix + '/compare', function (req, res) {
@@ -449,6 +456,92 @@ app.get(config.prefix + '/compare', function (req, res) {
 		res.setHeader('Content-Type', 'text/plain; charset=utf-8');
 		res.send(result.join("\n"));
 	} else {
+		return res.redirect(config.prefix);
+	}
+});
+
+
+app.get(config.prefix + '/overviewmeps', function (req, res) {
+	if (req.user) {
+		var raw_constituencies = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'constituencies.json')));
+		var raw_meps = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'mep.json')));
+		var raw_countries = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'countries.json')));
+		var raw_groups = JSON.parse(fs.readFileSync(path.resolve(__dirname, config.datadir, 'groups.json')));
+		var classified_data_msone = classified.filter(function (c) {
+			return c.user === 'MS';
+		});
+		var result = [];
+		result.push(
+			'id;' +
+				'title;' +
+				'firstname;' +
+				'surname;' +
+				'salutation;' +
+				'email;' +
+				'country;' +
+				'country_id;' +
+				'group;' +
+				'group_id;' +
+				'party_id;' +
+				'party_short;' +
+				'party_long;' +
+				'vote_stronger;' +
+				'vote_weaker;' +
+				'vote_neutral;' +
+				'rating;'
+		);
+		for (var key in raw_meps) {
+			var _mep = raw_meps[key];
+			var _con = "";
+			var _conshort = "";
+			var locals_parties = raw_constituencies[_mep.country];
+			for (var i = 0; i < locals_parties.length; i++) {
+				if (locals_parties[i].id === _mep.constituency) {
+					_con = locals_parties[i].long;
+					_conshort = locals_parties[i].short;
+					break;
+				}
+			}
+			var _group;
+			if (raw_groups[_mep.group]) {
+				_group = raw_groups[_mep.group];
+			} else {
+				_group = {short: '', long: ''};
+			}
+			var _vote = {};
+			classified_data_msone.forEach(function (c) {
+				var amend = amendments_by_ids[c.uid];
+				amend.authors.forEach(function (author) {
+					if (author.uid === key) {
+						_vote[c.vote] = (_vote[c.vote] || 0) + 1;
+					}
+				})
+			});
+			result.push(
+				cvsify(key) + ';' +
+					cvsify(_mep.title) + ';' +
+					cvsify(_mep.firstname) + ';' +
+					cvsify(_mep.surname) + ';' +
+					cvsify(_mep.salutation) + ';' +
+					cvsify(_mep.email) + ';' +
+					cvsify(raw_countries[_mep.country]) + ';' +
+					cvsify(_mep.country) + ';' +
+					cvsify(_group.long) + ';' +
+					cvsify(_mep.group) + ';' +
+					cvsify(_mep.constituency) + ';' +
+					cvsify(_conshort) + ';' +
+					cvsify(_con) + ';' +
+					(_vote.stronger || 0) + ';' +
+					(_vote.weaker || 0) + ';' +
+					(_vote.neutral || 0) + ';' +
+					((_vote.stronger || 0) - (_vote.weaker || 0))
+			);
+		}
+		res.setHeader('Content-Type', 'text/plain');
+		res.send(result.join("\n"));
+
+	}
+	else {
 		return res.redirect(config.prefix);
 	}
 });
