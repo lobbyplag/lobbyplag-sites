@@ -385,11 +385,12 @@ app.configure(function () {
 });
 
 
+/*
+ var reports_filename = path.resolve(__dirname, 'data', "reports.json.txt");
+ var reports = fs.createWriteStream(reports_filename, {'flags': 'a'});
+ */
+
 /* templates */
-
-var reports_filename = path.resolve(__dirname, 'data', "reports.json.txt");
-var reports = fs.createWriteStream(reports_filename, {'flags': 'a'});
-
 var send = function (req, res, data) {
 	res.setHeader('Content-Type', 'text/html; charset=utf-8');
 	if (!config.debug) {
@@ -527,6 +528,7 @@ function sendCountries(req, res) {
 		var _data = fillTemplate(tmpl.country, {
 			"active_countries": true,
 			countries: _countries,
+			sitetitle: 'Countries',
 			tops: meps.tops(),
 			flops: meps.flops(),
 			overview_countries: JSON.stringify(_overview_countries),
@@ -554,6 +556,7 @@ function sendCountry(_country, req, res) {
 			"active_countries": true,
 			countries: _countries,
 			country: _country,
+			sitetitle: _country.name,
 			tops: _meps.tops(),
 			flops: _meps.flops(),
 			maildata: compileMailParameter(_country),
@@ -605,6 +608,7 @@ function sendGroup(_group, req, res) {
 			group: _group,
 			groups: _groups,
 			countries: _countries,
+			sitetitle: _group.short,
 			maildata: compileMailParameter(null, [_group]),
 			tops: _meps.tops(),
 			flops: _meps.flops(),
@@ -662,6 +666,7 @@ function sendGroupCountry(_group, _country, req, res) {
 			groups: _groups,
 			country: _country,
 			countries: _countries,
+			sitetitle: _group.short + ' in ' + _country.thename,
 			tops: _meps.tops(),
 			flops: _meps.flops(),
 			maildata: compileMailParameter(_country, [_group]),
@@ -684,7 +689,7 @@ app.get(config.prefix + '/groups/:group/:country', function (req, res) {
 });
 
 function sendMep(_mep, _meps, _message, req, res) {
-	var _classified, _sitetile;
+	var _classified, _sitetitle;
 
 	if (_mep) {
 		if (cache_send(req, res, 'mep_' + _mep.id)) {
@@ -699,8 +704,9 @@ function sendMep(_mep, _meps, _message, req, res) {
 	var _typeahead = meps.map(function (mep) {
 		return mep.name;
 	});
+	_sitetitle = 'MEPs';
 	if (_mep) {
-		_sitetile = _mep.name;
+		_sitetitle = _mep.name;
 		_classified = classified_data.filter(function (c) {
 			return c.amend.author_ids.indexOf(_mep.id) >= 0;
 		});
@@ -711,8 +717,6 @@ function sendMep(_mep, _meps, _message, req, res) {
 				return 1;
 			return 0;
 		});
-	} else {
-		_sitetile = 'MEPs';
 	}
 	var _data = fillTemplate(tmpl.meps, {
 		"active_meps": true,
@@ -720,7 +724,7 @@ function sendMep(_mep, _meps, _message, req, res) {
 		meps_haschildren: ((_meps) && (_meps.length > 0)),
 		mep: _mep,
 		message: _message,
-		sitetitle: _sitetile,
+		sitetitle: _sitetitle,
 		classified: _classified,
 		classified_haschildren: ((_classified) && (_classified.length > 0)),
 		"typeahead": JSON.stringify(_typeahead)
@@ -831,7 +835,7 @@ function getCacheStats() {
 }
 
 function saveCacheStats() {
-	var cachestats_filename = path.resolve(__dirname, 'data', "cachestats" + (new Date()).getUTCDate() + ".json");
+	var cachestats_filename = path.resolve(__dirname, 'data', "cachestats" + String(new Date().valueOf()) + ".json");
 	fs.writeFileSync(cachestats_filename, JSON.stringify(getCacheStats()));
 }
 
@@ -839,21 +843,21 @@ app.get(config.prefix + '/cachestats', function (req, res) {
 	res.json(getCacheStats());
 	saveCacheStats();
 });
-
-app.post(config.prefix + '/report', function (req, res) {
-	if (!req.body.nr)
-		res.send('Error: Missing Report Number!');
-	else if ((!req.body.vote) || (['weaker', 'stronger', 'neutral'].indexOf(req.body.vote) < 0))
-		res.send('Error: Invalid Rating!');
-	else if ((!req.body.comment) || (req.body.comment.trim().length === 0))
-		res.send('Error: Please enter a comment.');
-	else {
-		var _obj = {nr: req.body.nr, vote: req.body.vote, comment: req.body.comment, user: req.body.user, date: new Date()};
-		reports.write(JSON.stringify(_obj) + ',');
-		res.send('Report has been saved. Thank you!');
-	}
-});
-
+/*
+ app.post(config.prefix + '/report', function (req, res) {
+ if (!req.body.nr)
+ res.send('Error: Missing Report Number!');
+ else if ((!req.body.vote) || (['weaker', 'stronger', 'neutral'].indexOf(req.body.vote) < 0))
+ res.send('Error: Invalid Rating!');
+ else if ((!req.body.comment) || (req.body.comment.trim().length === 0))
+ res.send('Error: Please enter a comment.');
+ else {
+ var _obj = {nr: req.body.nr, vote: req.body.vote, comment: req.body.comment, user: req.body.user, date: new Date()};
+ reports.write(JSON.stringify(_obj) + ',');
+ res.send('Report has been saved. Thank you!');
+ }
+ });
+ */
 function compileMailParameter(_country, _groups, _ia, _gov) {
 	var params = {};
 	if (_country)
@@ -882,27 +886,27 @@ function cvsify(s) {
 	}
 	return s.replace("\n", ' ');
 }
-
-app.get(config.prefix + '/reportsfromtheuserssecretcsv', function (req, res) {
-	try {
-		var _reports = JSON.parse('[' +
-			fs.readFileSync(path.resolve(__dirname, 'data', 'reports.json.txt'))
-			+ '{}]');
-		var _lines = ["NR;VOTE;USER;DATE;COMMENT"];
-		_reports.forEach(function (report) {
-			if (report.nr)
-				_lines.push(
-					cvsify(report.nr) + ';' + cvsify(report.vote) + ';' + cvsify(report.user) + ';' + cvsify(report.date) + ';' + cvsify(report.comment)
-				)
-		});
-		res.setHeader('Content-Type', 'text/cvs; charset=utf-8');
-		res.send(_lines.join("\n"));
-	} catch (e) {
-		console.log(e);
-		res.send('error :.-(');
-	}
-});
-
+/*
+ app.get(config.prefix + '/reportsfromtheuserssecretcsv', function (req, res) {
+ try {
+ var _reports = JSON.parse('[' +
+ fs.readFileSync(path.resolve(__dirname, 'data', 'reports.json.txt'))
+ + '{}]');
+ var _lines = ["NR;VOTE;USER;DATE;COMMENT"];
+ _reports.forEach(function (report) {
+ if (report.nr)
+ _lines.push(
+ cvsify(report.nr) + ';' + cvsify(report.vote) + ';' + cvsify(report.user) + ';' + cvsify(report.date) + ';' + cvsify(report.comment)
+ )
+ });
+ res.setHeader('Content-Type', 'text/cvs; charset=utf-8');
+ res.send(_lines.join("\n"));
+ } catch (e) {
+ console.log(e);
+ res.send('error :.-(');
+ }
+ });
+ */
 function findClassifyByAmendNr(nr) {
 	nr = parseInt(nr);
 	for (var i = 0; i < classified_data.length; i++) {
@@ -933,7 +937,6 @@ function sendAmend(req, res, _classified) {
 	}
 }
 
-
 app.get(config.prefix + '/discuss/libe/:nr', function (req, res) {
 	var _classified = findClassifyByAmendNr(req.params.nr);
 	if (_classified) {
@@ -945,7 +948,11 @@ app.get(config.prefix + '/discuss/libe/:nr', function (req, res) {
 
 function sendAmendments(req, res) {
 	if (!cache_send(req, res, 'amends_libe')) {
-		var _data = fillTemplate(tmpl.amends, {active_amends: true, classified: classified_data, sitetitle: 'LIBE'});
+		var _data = fillTemplate(tmpl.amends, {
+			active_amends: true,
+			classified: classified_data,
+			sitetitle: 'LIBE Amendments'
+		});
 		send(req, res, _data);
 		storecache('amends_libe', _data);
 	}

@@ -173,9 +173,11 @@
 												{{/tag}}
 											{{/tagenabled}}
 											{{#comment}}<span>Comment: {{comment}}</span>{{/comment}}
+											{{#enableReport}}
 											<a href="javascript:reportError('{{vote}}','{{amend.number}}');"
 											   class="pull-right btn btn-small alert-error"
 											   title="Report this Rating">Report Error</a> -
+											{{/enableReport}}
 											<a href="/map/discuss/libe/{{amend.number}}"
 											   class="pull-right btn btn-small alert-info"
 											   title="Discuss this Rating">Discuss this Rating</a>

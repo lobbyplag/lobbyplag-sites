@@ -13,10 +13,12 @@
 			<div class="row">
 				<div class="span12">
 					<h3>Amendment LIBE #{{amend.number}}
+					{{#enableReport}}
 						<a href="javascript:reportError('{{vote}}','{{amend.number}}');"
 						   class="pull-right btn btn-small alert-error"
-						   title="Report this Rating">Report Error</a></h3>
-
+						   title="Report this Rating">Report Error</a>
+					{{/enableReport}}</h3>
+					<h4>{{amend.directive}}</h4>
 					<div class="diff-box">
 						<div class="diff">{{&amend.diff}}</div>
 					</div>
