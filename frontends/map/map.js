@@ -913,7 +913,7 @@ function findClassifyByAmendNr(nr) {
 }
 
 function sendAmend(req, res, _classified) {
-	if (!cache_send(req, res, 'amend_' + _classified.amend.nr)) {
+	if (!cache_send(req, res, 'amend_' + _classified.amend.number)) {
 		var next, prev;
 		for (var i = _classified.amend.number + 1; i < 5000; i++) {
 			if (findClassifyByAmendNr(i)) {
@@ -929,7 +929,7 @@ function sendAmend(req, res, _classified) {
 		}
 		var _data = fillTemplate(tmpl.discuss, {active_amends: true, classified: _classified, sitetitle: 'LIBE#' + _classified.amend.number, prev: prev, next: next});
 		send(req, res, _data);
-		storecache('amend_' + _classified.amend.nr, _data);
+		storecache('amend_' + _classified.amend.number, _data);
 	}
 }
 
@@ -937,6 +937,7 @@ function sendAmend(req, res, _classified) {
 app.get(config.prefix + '/discuss/libe/:nr', function (req, res) {
 	var _classified = findClassifyByAmendNr(req.params.nr);
 	if (_classified) {
+		console.log(_classified);
 		sendAmend(req, res, _classified);
 	} else {
 		res.redirect(config.prefix);
