@@ -2,7 +2,7 @@
 	<div class="nav-search pull-right clearfix">
 		<form class="form-search" action="/map/meps/" method="get">
 			<input name="q" type="text" placeholder="Search MEP by Name"
-				   data-source='{{typeahead}}'
+				   data-source='{{data.typeahead}}'
 				   autocomplete="off"
 				   data-items="8" data-provide="typeahead" class="span3">
 			<button type="submit" class="btn">Search</button>
@@ -11,54 +11,55 @@
 </nav>
 <div id="main-container">
 	<div id="main" role="main">
-		{{^meps_haschildren}}
-			{{^mep}}
-				<div class="row">
-					<div class="span12">
-						<section class="info">
-							Here you can search for a specific MEP and check out what they have proposed in the committee.
-							In addition you also find the contact details and further information about every MEP.
-							Just type in the name of a MEP in the search box.
-						</section>
-						{{#meps_list}}<a href="/map/meps/{{id}}">{{name}}</a>
-							<img title="{{country_obj.name}}" alt="{{country_obj.name}}" src="/assets/img/flags/20x15/{{country_obj.iso}}.png"/>
-							<span class="label label-info label-group-{{group_obj.id}}" title="{{group_obj.long}} - {{constituency_obj.long}}">{{group_obj.short}}</span>
-						{{/meps_list}}
-					</div>
-				</div>
-			{{/mep}}
-		{{/meps_haschildren}}
-		{{#message}}
-			<h2>{{message}}</h2>
-		{{/message}}
-		{{#meps_haschildren}}
-			<div class="row search_result_header">
-				<div class="span3">Name</div>
-				<div class="span2">Country</div>
-				<div class="span3">Party</div>
-				<div class="span4">Group</div>
-			</div>
-		{{/meps_haschildren}}
-		{{#meps}}
-			<hr/>
+
+		{{^mep}}{{^meps}}
 			<div class="row">
-				<div class="span3">
+				<div class="span12">
+					<section class="info">
+						Here you can search for a specific MEP and check out what they have proposed in the committee.
+						In addition you also find the contact details and further information about every MEP.
+						Just type in the name of a MEP in the search box.
+					</section>
+				</div>
+				{{#meps_list}}
 					<a href="/map/meps/{{id}}">{{name}}</a>
-				</div>
-				<div class="span2">
-					<span class="label label-info label-country" title="{{country_obj.name}}">{{country_obj.id}}</span>
-					{{country_obj.name}}
-				</div>
-				<div class="span3">
-					{{constituency_obj.long}}
-				</div>
-				<div class="span4">
-					<span class="label label-info label-group-{{group_obj.id}}"
-						  title="{{group_obj.long}} - {{constituency_obj.long}}">{{group_obj.short}}</span>
-					{{group_obj.long}}
-				</div>
+					<img title="{{country_obj.name}}" alt="{{country_obj.name}}" src="/assets/img/flags/20x15/{{country_obj.iso}}.png"/>
+					<span class="label label-info label-group-{{group_obj.id}}" title="{{group_obj.long}} - {{constituency_obj.long}}">{{group_obj.short}}</span>
+				{{/meps_list}}
 			</div>
-		{{/meps}}
+		{{/meps}}{{/mep}}
+
+		{{#searchterm}}<h2>Nothing found for: {{searchterm}}</h2>{{/searchterm}}
+
+		{{#meps.length}}
+			<h2>Found {{meps.length}}</h2>
+			<table class="table search_result_table">
+				<tr>
+					<th>Name</th>
+					<th>Party</th>
+					<th>Rating</th>
+				</tr>
+				{{#meps}}
+					<tr>
+						<td class="search_result_colname">
+							<a href="/map/meps/{{id}}">{{name}}</a><br/>
+						</td>
+						<td>
+							<a href="/map/groups/{{group_obj.id}}"><span class="label label-info label-group-{{group_obj.id}}" title="{{group_obj.long}} - {{constituency_obj.long}}">{{group_obj.short}}</span></a> {{group_obj.long}}<br/>
+							<a href="/map/countries/{{country_obj.id}}"><img title="{{country_obj.name}}" alt="{{country_obj.name}}" src="/assets/img/flags/20x15/{{country_obj.iso}}.png"/></a> {{constituency_obj.long}}
+						</td>
+						<td>
+							{{#votes}}
+								<span class="text_stronger">stronger: {{pro}}</span><br/>
+								<span class="text_weaker">weaker: {{contra}}</span><br/>
+								<span class="text_neutral">neutral: {{neutral}}</span>
+							{{/votes}}
+						</td>
+					</tr>
+				{{/meps}}
+			</table>
+		{{/meps.length}}
+
 		{{#mep}}
 			<div class="row">
 				<div class="span6 info_box">
@@ -117,11 +118,11 @@
 
 					<div class="overview overview_height_large">
 						<div class="overview_text_box">
-							{{#votes}}{{>amend_overview}}{{/votes}}
+							{{#votes}}{{>partial_amend_overview_text}}{{/votes}}
 						</div>
 						<div class="overview_chart ">
 							<div class="bigpie">
-								{{#votes}}{{>pie}}{{/votes}}
+								{{#votes}}{{>partial_pie}}{{/votes}}
 							</div>
 						</div>
 						<div class="btn_email">
@@ -133,63 +134,50 @@
 					</div>
 				</div>
 			</div>
-		{{/mep}}
-		<div class="row">
-			<div class="span12">
-				{{#mep}}
-					<section class="info">
-						<!-- FIXME
-						Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer
-						Erklärbärtext
-						Kurzer
-						Erklärbärtext Kurzer
-						Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer
-						Erklärbärtext
-						Kurzer
-						Erklärbärtext Kurzer Erklärbärtext
-						Kurzer Erklärbärtext Kurzer Erklärbärtext Kurzer Erklärbärtext
-						-->
-					</section>
-				{{/mep}}
-				{{#classified_haschildren}}
-					<div class="accordion amend" id="accordion_amends">
-						<h3>Amendments by {{mep.name}}</h3>
-						{{#classified}}
-							<div class="accordion-group border_{{vote}}">
-								<div class="accordion-heading background_{{vote}}">
-									<a class="accordion-toggle" data-toggle="collapse"
-									   href="#collapse{{amend.number}}"><i class="icon-chevron-right"></i>
-										#{{amend.number}} - {{amend.directive}}
-									</a>
-								</div>
-								<div id="collapse{{amend.number}}" class="accordion-body collapse">
-									<div class="accordion-inner">
-										<div class="diff">{{&amend.diff}}</div>
-										<div class="tag">
-											{{#tagenabled}}
-												{{#tag}}
-													<span>Tag: #{{tag}}</span>
-													<span><a href="#" class="btn btn-small">More Info</a></span>
-												{{/tag}}
-											{{/tagenabled}}
-											{{#comment}}<span>Comment: {{comment}}</span>{{/comment}}
-											{{#enableReport}}
-											<a href="javascript:reportError('{{vote}}','{{amend.number}}');"
-											   class="pull-right btn btn-small alert-error"
-											   title="Report this Rating">Report Error</a> -
-											{{/enableReport}}
-											<a href="/map/discuss/libe/{{amend.number}}"
-											   class="pull-right btn btn-small alert-info"
-											   title="Discuss this Rating">Discuss this Rating</a>
 
+			<div class="row">
+				<div class="span12">
+					{{#classified.length}}
+						<div class="accordion amend" id="accordion_amends">
+							<h3>Amendments by {{name}}</h3>
+							{{#classified}}
+								<div class="accordion-group border_{{vote}}">
+									<div class="accordion-heading background_{{vote}}">
+										<a class="accordion-toggle" data-toggle="collapse"
+										   href="#collapse{{amend.number}}"><i class="icon-chevron-right"></i>
+											#{{amend.number}} - {{amend.directive}}
+										</a>
+									</div>
+									<div id="collapse{{amend.number}}" class="accordion-body collapse">
+										<div class="accordion-inner">
+											<div class="diff">{{&amend.diff}}</div>
+											<div class="tag">
+												&nbsp
+												{{#tagenabled}}
+													{{#tag}}
+														<span>Tag: #{{tag}}</span>
+														<span><a href="#" class="btn btn-small">More Info</a></span>
+													{{/tag}}
+												{{/tagenabled}}
+												{{#comment}}<span>Comment: {{comment}}</span>{{/comment}}
+												{{#enableReport}}
+													<a href="javascript:reportError('{{vote}}','{{amend.number}}');"
+													   class="pull-right btn btn-small alert-error"
+													   title="Report this Rating">Report Error</a> -
+												{{/enableReport}}
+												<a href="/map/discuss/libe/{{amend.number}}"
+												   class="pull-right btn btn-small alert-info"
+												   title="Discuss this Rating">Discuss this Rating</a>
+
+											</div>
 										</div>
 									</div>
 								</div>
-							</div>
-						{{/classified}}
-					</div>
-				{{/classified_haschildren}}
+							{{/classified}}
+						</div>
+					{{/classified.length}}
+				</div>
 			</div>
-		</div>
+		{{/mep}}
 	</div>
 </div>

@@ -1,57 +1,58 @@
 <div id="main-container">
 	<div id="main" role="main">
-		<div class="row">
-			<div class="span6 info_box">
-				<h4>Overview Countries</h4>
+		{{#data}}{{#europe}}
+			<div class="row">
+				<div class="span6 info_box">
+					<h4>Overview Countries</h4>
 
-				<div class="mep_map vector_map_frontpage">
-					{{#overview_countries}}{{>countries_map}}{{/overview_countries}}
+					<div class="mep_map vector_map_frontpage">
+						{{#overview_countries}}{{>partial_map}}{{/overview_countries}}
+					</div>
 				</div>
-			</div>
-			<div class="span6 info_box">
-				{{#euro_overview}}
+				<div class="span6 info_box">
 					<div>
 						<h4>Overview European Parliament</h4>
 
 						<div class="mep_bar mep_bar_frontpage">
 							<div class="mep_bar_name">All</div>
 							<div class="mep_bar_bar">
-								<div class="lobbyplag bar" data-lobbyplag='{{&euro_overview}}'>
-								</div>
+								{{#overview}}
+									<div class="lobbyplag bar" data-lobbyplag='{"pro": {{pro}}, "contra": {{contra}}, "neutral": {{neutral}}}'></div>
+								{{/overview}}
 							</div>
 							<div class="mep_bar_btn"><a href="/map/countries" class="btn btn-small">More</a></div>
 						</div>
 					</div>
-				{{/euro_overview}}
-				<div class="mep_bars_frontpage">
-					<h4>Overview Groups</h4>
+					<div class="mep_bars_frontpage">
+						<h4>Overview Groups</h4>
 
-					<div class="mep_bars">
-						{{#group_overview}}{{>group_bars}}{{/group_overview}}
+						<div class="mep_bars">
+							{{#groups_overviews}}{{>partial_group_bar}}{{/groups_overviews}}
+						</div>
 					</div>
 				</div>
 			</div>
-		</div>
-		<div class="row">
-			<div class="span12">
-				<section class="info">
-					Currently the EU is negotiating about new data privacy laws. This new EU Regulation will replace all existing national laws on data privacy.
-					Here you can see a general overview which Members of the European Parliament (MEPs) are pushing for more or less data privacy. Choose a
-					country, a political group or a MEP from the “Top 10” list to find out more.
-				</section>
+			<div class="row">
+				<div class="span12">
+					<section class="info">
+						Currently the EU is negotiating about new data privacy laws. This new EU Regulation will replace all existing national laws on data privacy.
+						Here you can see a general overview which Members of the European Parliament (MEPs) are pushing for more or less data privacy. Choose a
+						country, a political group or a MEP from the “Top 10” list to find out more.
+					</section>
+				</div>
 			</div>
-		</div>
-		<div class="row">
-			<div class="span6 info_box border_weaker">
-				<h4 class="background_weaker info_box_head">Top {{flops.length}} for less Data Privacy in Europe</h4>
+			<div class="row">
+				<div class="span6 info_box border_weaker">
+					<h4 class="background_weaker info_box_head">Top {{flops.length}} for less Data Privacy in Europe</h4>
 
-				<div class="flop_box">{{#flops}}{{>mep_line}}{{/flops}}</div>
-			</div>
-			<div class="span6 info_box border_stronger">
-				<h4 class="background_stronger info_box_head">Top {{tops.length}} for more Data Privacy in Europe</h4>
+					<div class="flop_box">{{#flops}}{{>partial_mep_line}}{{/flops}}</div>
+				</div>
+				<div class="span6 info_box border_stronger">
+					<h4 class="background_stronger info_box_head">Top {{tops.length}} for more Data Privacy in Europe</h4>
 
-				<div class="top_box">{{#tops}}{{>mep_line}}{{/tops}}</div>
+					<div class="top_box">{{#tops}}{{>partial_mep_line}}{{/tops}}</div>
+				</div>
 			</div>
-		</div>
+		{{/europe}}{{/data}}
 	</div>
 </div>

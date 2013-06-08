@@ -5,7 +5,7 @@ var fix_height = function () {
 	h += $('#subnav_map_search').height() || 0;
 	h += $('#subnav_map_small').height() || 0;
 	h += $('footer').height() || 0;
-	$('#main-container').css('min-height', $(window).innerHeight() - h);
+	$('#main-container').css('min-height', $(window).innerHeight() - h - 2);
 
 /*
 	 Damn Footer!

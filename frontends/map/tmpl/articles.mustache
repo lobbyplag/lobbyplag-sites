@@ -17,7 +17,7 @@
 		<div class="row">
 			<div class="span12">
 				<table class="articles table">
-					{{#articles}}
+					{{#data}}{{#articles}}
 						<tr>
 							<td class="articles_col1"><a href="/map/article/{{nr}}">{{directive}}</a></td>
 							<td class="articles_col2 medium_textsize">{{topic}}</td>
@@ -29,7 +29,7 @@
 							{{/overview}}
 							</td>
 						</tr>
-					{{/articles}}
+					{{/articles}}{{/data}}
 				</table>
 			</div>
 		</div>

@@ -23,7 +23,7 @@
 						<th>Directive</th>
 						<th>Authors</th>
 					</tr>
-					{{#classified}}
+					{{#data}}{{#classified}}
 						<tr>
 							<td><a href="/map/discuss/libe/{{amend.number}}">LIBE #{{amend.number}}</a></td>
 							<td class="medium_textsize text_{{vote}}">{{vote}}</td>
@@ -40,7 +40,7 @@
 								{{/amend}}
 							</td>
 						</tr>
-					{{/classified}}
+					{{/classified}}{{/data}}
 				</table>
 			</div>
 		</div>

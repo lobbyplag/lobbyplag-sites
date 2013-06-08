@@ -27,7 +27,7 @@
 					<h4>Groups</h4>
 
 					<div class="mep_bars">
-						{{#group_overview}}{{>group_bars}}{{/group_overview}}
+						{{#group_overview}}{{>partial_group_bar}}{{/group_overview}}
 					</div>
 				</div>
 				<div class="span6 info_box">
@@ -35,11 +35,11 @@
 
 					<div class="overview overview_height_large">
 						<div class="overview_text_box">
-							{{#overview}}{{>amend_overview}}{{/overview}}
+							{{#overview}}{{>partial_amend_overview_text}}{{/overview}}
 						</div>
 						<div class="overview_chart">
 							<div class="bigpie">
-								{{#overview}}{{>pie}}{{/overview}}
+								{{#overview}}{{>partial_pie}}{{/overview}}
 							</div>
 						</div>
 						<div class="btn_email">
@@ -51,46 +51,38 @@
 			<br/>
 
 			<div class="row topic">
-				<div class="topic_content">
-					<table>
-						<tr>
-							<td>
-								<div class="topic_box border_weaker">
-									<h5 class="background_weaker info_box_head">For less Data Privacy: {{overview.contra}} Amendments</h5>
-
-									<div class="topic_box_content">
-										{{#overview_meps}}
-											{{#weaker}}{{>mep_topic_line}}{{/weaker}}
-										{{/overview_meps}}
-									</div>
+				<table class="article_content">
+					<tr>
+						<td>
+							<div class="border_weaker">
+								<h5 class="background_weaker info_box_head">For less Data Privacy: {{overview.contra}} Amendments</h5>
+								<div>
+									{{#overview_meps}}{{#weaker}}{{>partial_article_mep}}{{/weaker}}{{/overview_meps}}
 								</div>
-							</td>
-							<td>
-								<div class="topic_box border_stronger">
-									<h5 class="background_stronger info_box_head">For more Data Privacy: {{overview.pro}} Amendments</h5>
+							</div>
+						</td>
+						<td>
+							<div class="border_stronger">
+								<h5 class="background_stronger info_box_head">For more Data Privacy: {{overview.pro}} Amendments</h5>
 
-									<div class="topic_box_content">
-										{{#overview_meps}}
-											{{#stronger}}{{>mep_topic_line}}{{/stronger}}
-										{{/overview_meps}}
-									</div>
+								<div>
+									{{#overview_meps}}{{#stronger}}{{>partial_article_mep}}{{/stronger}}{{/overview_meps}}
 								</div>
-							</td>
-							<td>
-								<div class="topic_box border_neutral">
-									<h5 class="background_neutral info_box_head">Neutral: {{overview.neutral}} Amendments</h5>
+							</div>
+						</td>
+						<td>
+							<div class="border_neutral">
+								<h5 class="background_neutral info_box_head">Neutral: {{overview.neutral}} Amendments</h5>
 
-									<div class="topic_box_content">
-										{{#overview_meps}}
-											{{#neutral}}{{>mep_topic_line}}{{/neutral}}
-										{{/overview_meps}}
-									</div>
+								<div>
+									{{#overview_meps}}{{#neutral}}{{>partial_article_mep}}{{/neutral}}{{/overview_meps}}
 								</div>
-							</td>
-						</tr>
-					</table>
-				</div>
+							</div>
+						</td>
+					</tr>
+				</table>
 			</div>
+
 			<br/>
 
 			<div class="row">
