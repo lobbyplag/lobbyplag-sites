@@ -24,6 +24,7 @@ var tmpl = {
 var app = express();
 
 app.configure(function(){
+	app.use(express.favicon(__dirname + '/../assets/img/favicon.ico'));
 	app.use("/assets", express.static(path.resolve(__dirname, '../assets')));
 });
 
@@ -43,6 +44,12 @@ app.get('/lp', function(req, res){
 		"footer": tmpl.footer
 	}));
 	res.end();
+});
+
+app.get('/compare/overview', function(req, res){
+	//fix for wrong dradio link
+	// http://wissen.dradio.de/lobbyplag-politikerampel.33.de.html?dram:article_id=249190
+	res.redirect('/map')
 });
 
 app.get('/sources', function(req, res){

@@ -29,9 +29,10 @@ $(document).ready(function(){
 	});
 
 	/* get templates */
-	$.get('assets/tmpl/directive.mustache', function(data){
-		tmpl['directive'] = data;
-	},'html');
+// file does not exists
+// $.get('assets/tmpl/directive.mustache', function(data){
+//		tmpl['directive'] = data;
+//	},'html');
 
 	/* apply diff buttons */
 	apply_buttons();

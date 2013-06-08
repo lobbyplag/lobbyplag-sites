@@ -105,6 +105,7 @@ _plags = _plags.sort(function(a, b){
 var app = express();
 
 app.configure(function(){
+	app.use(express.favicon(__dirname + '/../assets/img/favicon.ico'));
 	app.use("/assets", express.static(path.resolve(__dirname, '../assets')));
 });
 
