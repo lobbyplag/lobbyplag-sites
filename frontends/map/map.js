@@ -409,7 +409,6 @@ function ArticleList(value) {
 	me.initArticles = function (classified, groups) {
 		var _articles = JSON.parse(fs.readFileSync(path.resolve(__dirname, 'data', 'articles.json')));
 		_articles.forEach(function (article) {
-			me.push(article);
 			article.directive = 'Article ' + article.nr;
 			article.classified = article.classified || ClassifyList();
 			classified.forEach(function (c) {
@@ -451,6 +450,8 @@ function ArticleList(value) {
 					group, article.classified.filterClassifiedByGroup(group.id).getClassifiedOverview
 				)
 			});
+			if (article.classified.length > 0)
+				me.push(article);
 		});
 		_articles = _articles.filter(function (article) {
 			return (article.classified) && (article.classified.length > 0);
