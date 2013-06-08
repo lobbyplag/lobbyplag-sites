@@ -1,0 +1,11 @@
+<div class="mep_bar_local">
+	<div class="mep_bar_name">
+		<span class="mep_bar_local">{{#localparties}}<span title="{{long}}">{{short}}&nbsp</span>{{/localparties}}{{^localparties.length}}-{{/localparties.length}}</span>
+	</div>
+	<div class="mep_bar_bar">
+		<div class="lobbyplag bar"{{#overview}} data-lobbyplag='{"pro": {{pro}}, "contra": {{contra}}, "neutral": {{neutral}}}' {{/overview}}></div>
+	</div>
+	<div class="mep_bar_btn">
+		<a href="/map/groups/{{group.id}}"><span class="label label-info label-group-{{group.id}}" title="{{group.long}}">{{group.short}}</span></a>
+	</div>
+</div>

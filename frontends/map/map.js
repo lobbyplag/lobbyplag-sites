@@ -271,8 +271,8 @@ function Overview() {
 
 function GroupOverList(value) {
 	var me = value || [];
-	me.addGroupOverview = function (group, overview) {
-		me.push({group: group, overview: overview});
+	me.addGroupOverview = function (group, overview, localparties) {
+		me.push({group: group, overview: overview, localparties: localparties});
 	};
 	return me;
 }
@@ -384,6 +384,16 @@ function ClassifyList(value) {
 		return ClassifyList(this.filter(function (c) {
 			for (var i = 0; i < c.meps.length; i++) {
 				if (c.meps[i].country === country_id)
+					return true;
+			}
+			return false;
+		}));
+	};
+
+	me.filterClassifiedByLocal = function (con_id) {
+		return ClassifyList(this.filter(function (c) {
+			for (var i = 0; i < c.meps.length; i++) {
+				if (c.meps[i].constituency === con_id)
 					return true;
 			}
 			return false;
@@ -540,15 +550,15 @@ var LPData = function () {
 				name: country.name,
 				group_id: _group.id,
 				active: ((_country) && (country.id === _country.id)
-		)};
+					)};
 		}).filter(function (country) {
 				return (_menu_meps.hasOneMepWithDataByCountry(country.id));
 			});
 		return {groups: _menu_groups, countries: _menu_countries, group: _group, country: _country};
 	};
 	me.getLocalParties = function (_group, _country) {
-		var _local;
 		var _constituencies = [];
+		var _constituenciesdone = {};
 		var _overview = me.classified.filterClassifiedByGroupAndCountry(_group.id, _country.id);
 		_overview.forEach(function (c) {
 			c.meps.forEach(function (mep) {
@@ -556,18 +566,14 @@ var LPData = function () {
 					if (!me.constituencies[mep.constituency]) {
 						if (mep.constituency)
 							console.log('Missing constituency: ' + mep.constituency);
-					} else {
-						var _name = me.constituencies[mep.constituency].short;
-						if (_constituencies.indexOf(_name) < 0)
-							_constituencies.push(_name);
+					} else if (!_constituenciesdone[mep.constituency]) {
+						_constituenciesdone[mep.constituency] = true;
+						_constituencies.push(me.constituencies[mep.constituency]);
 					}
 				}
 			});
 		});
-		if ((_constituencies) && (_constituencies.length > 0)) {
-			_local = '(' + _constituencies.join(', ') + ')';
-		}
-		return _local;
+		return _constituencies;
 	};
 
 	function init() {
@@ -608,22 +614,35 @@ var LPData = function () {
 			me.countries.forEach(function (country) {
 				var _country_list = me.classified.filterClassifiedByGroupAndCountry(group.id, country.id);
 				var _country_meps = me.meps.filterMepsByGroupAndCountry(group.id, country.id);
-				group.groupcountries[country.id] = {
+				var _groupcountry = {
 					group: group,
 					country: country,
+					local_overviews: GroupOverList(),
 					maildata: utils.compileMailParameter(country, [group]),
-					localparties: me.getLocalParties(group, country),
+					localparties: me.getLocalParties(group, country).map(function (con) {
+						return con.short;
+					}).join(', '),
 					overview: _country_list.getClassifiedOverview(),
 					tops: _country_meps.tops(),
 					flops: _country_meps.flops(),
 					menu: me.getGroupMenu(group, country)
 				};
+				var _locals = me.getLocalParties(group, country);
+				_locals.filter(function (con) {
+					return con.group = group.id;
+				}).forEach(
+					function (con) {
+						var _obj = me.classified.filterClassifiedByLocal(con.id).getClassifiedOverview();
+						_groupcountry.local_overviews.addGroupOverview(group, _obj, [con]);
+					});
+				group.groupcountries[country.id] = _groupcountry;
 			});
 		});
 		me.countries.forEach(function (country) {
 			var _list = me.classified.filterClassifiedByCountry(country.id);
 			country.overview = _list.getClassifiedOverview();
 			country.groups_overviews = GroupOverList();
+			country.local_overviews = GroupOverList();
 			country.maildata = utils.compileMailParameter(country);
 			var _meps = me.meps.filterMepsByCountry(country.id);
 			country.tops = _meps.tops(10);
@@ -634,7 +653,14 @@ var LPData = function () {
 					return {id: _country.id, name: _country.name, active: _country.id === country.id};
 				});
 			me.groups.forEach(function (group) {
-				country.groups_overviews.addGroupOverview(group, group.groupcountries[country.id].overview);
+				var _locals = me.getLocalParties(group, country);
+				if (group.groupcountries[country.id].overview.getTotal() > 0) {
+					country.groups_overviews.addGroupOverview(group, group.groupcountries[country.id].overview, _locals);
+				}
+				_locals.forEach(function (con) {
+					var _obj = me.classified.filterClassifiedByLocal(con.id).getClassifiedOverview();
+					country.local_overviews.addGroupOverview(group, _obj, [con]);
+				});
 			});
 		});
 	}
@@ -714,6 +740,7 @@ var tmpl = {
 	partial_map: fs.readFileSync(path.resolve(__dirname, "tmpl/partial_map.mustache")).toString(),
 	partial_pie: fs.readFileSync(path.resolve(__dirname, "tmpl/partial_pie.mustache")).toString(),
 	partial_group_bar: fs.readFileSync(path.resolve(__dirname, "tmpl/partial_group_bar.mustache")).toString(),
+	partial_group_bar_local: fs.readFileSync(path.resolve(__dirname, "tmpl/partial_group_bar_local.mustache")).toString(),
 	partial_mep_line: fs.readFileSync(path.resolve(__dirname, "tmpl/partial_mep_line.mustache")).toString()
 };
 
@@ -728,6 +755,7 @@ var fillTemplate = function (template, _data) {
 		partial_map: tmpl.partial_map,
 		partial_article_mep: tmpl.partial_article_mep,
 		partial_amend_overview_text: tmpl.partial_amend_overview_text,
+		partial_group_bar_local: tmpl.partial_group_bar_local,
 		partial_pie: tmpl.partial_pie,
 		"header": tmpl.header,
 		"footer": tmpl.footer

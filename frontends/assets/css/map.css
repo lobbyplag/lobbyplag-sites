@@ -794,28 +794,6 @@ div.overview_chart {
 	color: #ebebeb;
 }
 
-.mep_bars {
-	text-align: left;
-	padding-top: 10px;
-	height: 230px;
-	width: 460px;
-}
-
-.mep_bar div {
-	float: left;
-}
-
-div.mep_bar_name {
-	text-align: right;
-	width: 120px;
-	padding-top: 4px;
-	padding-right: 6px;
-}
-
-div.mep_bar_btn {
-	padding-left: 6px;
-}
-
 .mep_info_text td {
 	vertical-align: top;
 }
@@ -864,6 +842,28 @@ div.lobbyplay svg {
 
 /* bar */
 
+.mep_bars {
+	text-align: left;
+	padding-top: 10px;
+	height: 230px;
+	width: 460px;
+}
+
+.mep_bar div {
+	float: left;
+}
+
+div.mep_bar_btn {
+	padding-left: 6px;
+}
+
+div.mep_bar_name {
+	text-align: right;
+	width: 120px;
+	padding-top: 4px;
+	padding-right: 6px;
+}
+
 .mep_bar_bar, div.bar, div.bar svg {
 	width: 220px;
 	height: 24px;
@@ -873,6 +873,33 @@ div.lobbyplay svg {
 	max-height: 24px;
 	margin: 0 !important;
 	padding: 0 !important;
+}
+
+div.mep_bar_local .mep_bar_group {
+	font-size: 16px;
+}
+
+div.mep_bar_local .mep_bar_btn {
+	padding-top: 2px;
+	line-height: 20px;
+}
+
+div.mep_bar_local .mep_bar_local {
+	font-style: italic;
+}
+
+div.mep_bar_local .mep_bar_name {
+	font-style: italic;
+
+	width: 110px;
+}
+
+div.mep_bar_local {
+	display: inline-block;
+}
+
+div.mep_bar_local div {
+	float: left;
 }
 
 /* pie */
@@ -940,7 +967,6 @@ div.vectormap {
 .jvectormap-zoomout {
 	top: 30px;
 }
-
 
 /* articles */
 

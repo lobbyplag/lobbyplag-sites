@@ -1,24 +1,24 @@
 {{#menu}}
-<nav id="subnav_map" class="lp-subnav navbar navbar-inverse clearfix">
-	<ul class="nav pull-right clearfix">
-		{{#groups}}
-			<li{{#active}} class="active" {{/active}}><a href="/map/groups/{{id}}" title="{{long}}"> {{short}} </a></li>
-		{{/groups}}
-	</ul>
-</nav>
-<nav id="subnav_map_small" class="lp-countries lp-subnav navbar navbar-inverse clearfix">
-	<ul class="nav pull-right clearfix">
-		<li{{^country}} class="active" {{/country}}>
-			<a href="/map/groups/{{group.id}}" title="Show all countries">All</a>
-		</li>
-		<li class="space"></li>
-		{{#countries}}
-			<li{{#active}} class="active" {{/active}}>
-				<a href="/map/groups/{{group_id}}/{{id}}" title="{{name}}">{{id}}</a>
+	<nav id="subnav_map" class="lp-subnav navbar navbar-inverse clearfix">
+		<ul class="nav pull-right clearfix">
+			{{#groups}}
+				<li{{#active}} class="active" {{/active}}><a href="/map/groups/{{id}}" title="{{long}}"> {{short}} </a></li>
+			{{/groups}}
+		</ul>
+	</nav>
+	<nav id="subnav_map_small" class="lp-countries lp-subnav navbar navbar-inverse clearfix">
+		<ul class="nav pull-right clearfix">
+			<li{{^country}} class="active" {{/country}}>
+				<a href="/map/groups/{{group.id}}" title="Show all countries">All</a>
 			</li>
-		{{/countries}}
-	</ul>
-</nav>
+			<li class="space"></li>
+			{{#countries}}
+				<li{{#active}} class="active" {{/active}}>
+					<a href="/map/groups/{{group_id}}/{{id}}" title="{{name}}">{{id}}</a>
+				</li>
+			{{/countries}}
+		</ul>
+	</nav>
 {{/menu}}
 <div id="main-container">
 	<div id="main" role="main">
@@ -61,12 +61,14 @@
 				{{#flops.length}}
 					<div class="span6 {{^tops.length}}spanpadding3 {{/tops.length}}info_box border_weaker">
 						<h4 class="background_weaker info_box_head">Top {{flops.length}} for less Data Privacy by {{short}}</h4>
+
 						<div class="flop_box">{{#flops}}{{>partial_mep_line}}{{/flops}}</div>
 					</div>
 				{{/flops.length}}
 				{{#tops.length}}
 					<div class="span6 {{^flops.length}}spanpadding3 {{/flops.length}}info_box border_stronger">
-						<h4 class="background_stronger info_box_head">Top {{tops.length}} for more Data Privacy	by {{short}}</h4>
+						<h4 class="background_stronger info_box_head">Top {{tops.length}} for more Data Privacy by {{short}}</h4>
+
 						<div class="top_box">{{#tops}}{{>partial_mep_line}}{{/tops}}</div>
 					</div>
 				{{/tops.length}}
@@ -75,8 +77,18 @@
 		{{/group}}{{/countrygroup}}
 		{{#countrygroup}}
 			<div class="row">
-				<div class="span12 info_box">
-					<h4>Overview {{group.short}} in {{country.thename}} {{localparties}}</h4>
+				<div class="span6 info_box">
+					<div class="overview_bar_box">
+						<h4>Overview Groups in {{country.thename}}</h4>
+
+						<div class="mep_bars">
+							{{#countrygroup}}{{#local_overviews}}{{>partial_group_bar_local}}{{/local_overviews}}{{/countrygroup}}
+						</div>
+					</div>
+				</div>
+
+				<div class="span6 info_box">
+					<h4>Overview {{group.short}} in {{country.thename}}{{#localparties}} ({{localparties}}){{/localparties}}</h4>
 
 					<div class="overview overview_height_large">
 						<div class="overview_text_box">
