@@ -5555,10 +5555,10 @@
 	{
 		"uid": "26e68cb9c9d3d1125e6475913e1d2d5a6416df9a",
 		"user": "MS",
-		"vote": "neutral",
+		"vote": "weaker",
 		"topic": "",
 		"category": "018",
-		"comment": "Intention unclear.",
+		"comment": "",
 		"conflict": false
 	},
 	{
@@ -5816,7 +5816,7 @@
 	{
 		"uid": "bd1f5e3ca49739ec9d3fc27f4d9d93c80ad9894d",
 		"user": "MS",
-		"vote": "neutral",
+		"vote": "stronger",
 		"topic": "",
 		"category": "018",
 		"comment": "Intention unclear.",
@@ -13880,10 +13880,10 @@
 	{
 		"uid": "939f563e6dc800414167cda1708bb3749e95fd66",
 		"user": "MS",
-		"vote": "neutral",
+		"vote": "weaker",
 		"topic": "",
 		"category": "059 - Right to Object",
-		"comment": "Intention unclear.",
+		"comment": "",
 		"conflict": false
 	},
 	{
@@ -14123,10 +14123,10 @@
 	{
 		"uid": "918f4c26510a35166f5771ce2162e903db47c974",
 		"user": "MS",
-		"vote": "neutral",
+		"vote": "weaker",
 		"topic": "",
 		"category": "010 - Profiling / Tracking",
-		"comment": "Intention unclear.",
+		"comment": "",
 		"conflict": false
 	},
 	{
@@ -14276,7 +14276,7 @@
 	{
 		"uid": "070c5d8ed5e9a3026468e634b1f78ac6fe4cdeee",
 		"user": "MS",
-		"vote": "neutral",
+		"vote": "weaker",
 		"topic": "",
 		"category": "010 - Profiling / Tracking",
 		"comment": "Two sided.",
@@ -18308,7 +18308,7 @@
 	{
 		"uid": "e41ffc39c4a5f237ea528209e064a5a7e37b33c2",
 		"user": "MS",
-		"vote": "neutral",
+		"vote": "stronger",
 		"topic": "",
 		"category": "",
 		"comment": "",
@@ -34140,6 +34140,2499 @@
 		"uid": "1f2a614e5922c3a7a20090266283dc25bda0d46f",
 		"user": "MS",
 		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "091028e1360cd1675fb4365a764aa45f1cb307ae",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "ee1690bc41ec86f8e3d9dc883879696f77d75500",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "197d4544c55cf94f3b99baff9a1cfafa2d979bc8",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "5aeddad0a6ab2d085c1ccb3c1ca156a13f8065d9",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "2299dc4ff7ec03408522f4be1b7d76dd0517120f",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "New Concept. Overall consequence unclear. ",
+		"conflict": false
+	},
+	{
+		"uid": "a5e67ff8e723fde9b4e62e34912c21bd8ea8696a",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "f6d330e820e62f69f8971bde8f20fb597b508a56",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "New Concept. Overall consequence unclear. ",
+		"conflict": false
+	},
+	{
+		"uid": "fdb2aa8b8c56089fa926ddf72d2aca732ce18018",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "82d1d6320182d6c33c019284d05e7d77d2e42256",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "c191158609472cb0db35a50315be9e5794c9b0df",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "df62093822277f7e6d3c70977b1eea14637218ad",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "3fd4aef9979b42310500832febfdf62622414872",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "fa01de867fd0181bee07e8ebc99486ba5c5b7c84",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "3fb016cd361205f1a1d9130ac980b5089592e9fc",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "New Concept. Overall consequence unclear. ",
+		"conflict": false
+	},
+	{
+		"uid": "c56855266b398fa5bb989526d43a90aff670fec7",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "New Concept. Overall consequence unclear. ",
+		"conflict": false
+	},
+	{
+		"uid": "56c685d3491eb2c542954b8f680522a1da1e721e",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "3c0d6b4595aa4e4f58efe61fd86aa57bf4d40380",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "4bfc89e4a9258b28950e98db9255e6801370dfc0",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "New Concept. Overall consequence unclear. ",
+		"conflict": false
+	},
+	{
+		"uid": "0a216ce2cb548a45d09ad9b125fc936763919820",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "d77941dc50782643b0eca3faf33ead60ecbcd82b",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "6687e3c59b15f911115609213e4b8e261c8284a5",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "81e57931e1e8c0dedbfa3e33fac633fb83b1f303",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "1485b80df68af98e3b98b1a52f46cc6380558943",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "a90b6c800c2819941a7f6ad123c4e5e42ef3a24b",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "2fa450567862a22ffdeebac60d640e9b2722f8ef",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "New Concept. Overall consequence unclear. ",
+		"conflict": false
+	},
+	{
+		"uid": "b3dcec234d33576d4a5f5b1602043b61e8e27a3a",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "New Concept. Overall consequence unclear. ",
+		"conflict": false
+	},
+	{
+		"uid": "9e1f0709e70e3c25ce2b6ae1e411256368fe7abc",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "1e54e76fe1402598ecd6e7c2422f4e55629c5f16",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "New Concept. Overall consequence unclear. ",
+		"conflict": false
+	},
+	{
+		"uid": "641e591ec39df48aac0de723e256139e1ee4d73c",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "New Concept. Overall consequence unclear. ",
+		"conflict": false
+	},
+	{
+		"uid": "ab461363f49a05aa9ec1b8df9a23961bc395c7c1",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "a1733fbad2e533a8d089eefb1a91c49903f5204b",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "46a23255ffc1dd6191118d3102f85efd6fee99c2",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "1a0a3a8d70bf09c8d6cca554ab9895fd3b06309c",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "3b7c3899ebcf8fad3b8534e969829d1c08af7cf9",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "1062c3298e6eb7510e4e044a1ac57498831e1b05",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "3247729e6f00a6ae52eccab41c965048ea4536a1",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "3858be71654d71fdb8adfa459d411a160a9d77c4",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "c742c0a86fd7cfa786129c1114a12006cc8e855e",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "3146727139e402006470bbb59931e90a66798071",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "caa871eb1ec662968794a736e9c80424ec2fd006",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "7400a9a8e8b2428aa5a4102eb88120563bc2f673",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "a27b0d8866f0395866022a79691f570608b75764",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "bbfa368b3cd9d2246ce81ae7cef4c76f5d728e9b",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "99ec605107d17223677ee1a94cc333220eb2d0f9",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "c7a6258032b9fda50398c70c8933f09e5a99c758",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "c780bcd31833d2c493579b52846adf129ce0c0c3",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "8a4fd9a90250d2355d1fa2c28987d21b01014bde",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "9c4d71deabc7a7f8c75a8fcb8e8a829593892cc0",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "d586c9262fd2d11f8a3c9f32d3e3e8529c29f637",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "f7bbdfe92a0f665882a8b94de273ccbfb3ec9766",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "b422e3f3c6bdfd8e8ee5910d54e352765284b2e9",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "71417ee3e261881512947478b1dc0da58050a9f9",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "8a976489503d28c1ec1d21cec4747d48d0a9145a",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "8b02aad867886609a78ab62277c96b340d6eecb3",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "ca8a05d2e5e8bc37d374ea5a3f47feb85bd50304",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "75ebcbbf08e74de5d17b053b4fbfea55cab9ec14",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "Intention unclear.",
+		"conflict": false
+	},
+	{
+		"uid": "66bdc2968c10861b31526dc53968331952b3edda",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "f350a14481df53b01b7ac45d5e0f92e91a1bda9b",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "Intention unclear.",
+		"conflict": false
+	},
+	{
+		"uid": "05d35bcebb95e3b5bc23d8e05c3ecc92f6fcb080",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "Intention unclear.",
+		"conflict": false
+	},
+	{
+		"uid": "181041b9a045fb01d016ccd04c8942ea0600fecb",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "11dd6780047e2fa02b7f535f3278ebbc5537ab81",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "2443b157928bda060c27cfedc01042463840b53f",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "2f41e15413327fb8c0be7e3bf3db123af1605c1b",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "f2d05065f007ec1d1d9b8de1ddb0f314d144a3e9",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "9f84c62305b7206a6b61001c373638467aff722d",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "21d0ce852fa25c87988852f331249a872d3607c5",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "Two sided. Less reasons to dismiss lead to more independence, but the appointing bodies are more political than courts.",
+		"conflict": false
+	},
+	{
+		"uid": "e278eb6098131daae4cc52ccf9421dec99727231",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "9ede117c87012e604386b50f8e6b944a57a82d1f",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "f12d2b4a5b82c06481fb082075e9cfab0cd8d605",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "6accf01c151ed58f918f43534f442337d79bbf5b",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "0e7bdbc8820a77b5761690c6b459c770bab8dda1",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "f3cbab8699a70401ab4a49c2dec1df5487d3256d",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "375122085cbb3ae1e60002cfe72e01925837928c",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "0ca9f9ce22bcbeb79f03f7fad54dd878e65a7809",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "db57dddeb48edbac57f31481b1543189ef4fe0a6",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "d9ef172a5bfacd8bc2e9f432e2ec78031ab52dcc",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "1a2a6ec9145db65779aa9185a4dd590b3652761c",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "e67979cc9f20b71414731887529417b68b343ab6",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "bfd0f48f9519ce91b5a1fecb76ff724a3b461641",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "2c6aa14a216f3f81fe6047fefa33b7fde1263301",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "a942006be430fdf4d75270fb7c8aae5808872de1",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "a44ddc3e6b51e87cbe6e949752c7e7ad4e21333c",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "22a1d87c68ec4131ad44b00c80711d4000726dce",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "a3319c48b02eb0ec556ecffb7d43ac89f2ba88d8",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "1e30756600368f8e60b1a4766a613db1140e3e14",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "856dfdd9a0857f8ca0c411346b0d2ef5faeb6fdc",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "Intention unclear.",
+		"conflict": false
+	},
+	{
+		"uid": "6083aa65515eeb176bc4c9d456055035346d691b",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "1b73208eadb22cf91094d27e97e5ac78a73c0582",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "76ca11745e917c66ea10059f7db5d64c3c3b9cf5",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "2f285e0fc19df2333acb755b780a523b6dc5e86c",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "96496eb9952a6712b7fe77752a615165aeea205a",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "dad1021fe3ece1b6608b33498403f7a6bf3ac99c",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "9655d736caeeb4efef4f43bd3daaaa4db325ec21",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "74412008de988cf9712932282befd90903929992",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "cb063760417f36c9fea63b018cf4bbf93fb74c62",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "5eb52b5f3d587fae6f3949cfdcf1940bbe4aa5e2",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "02056c0ab0490923d7cd275f231189ed11ff60dc",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "e3f295218b629223fa725d61a60aef6a4dea4454",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "89abbc2115c0e22c59019b4e1032988a20cfe663",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "7a3a6358e7c6528287d25ad0127b989946d27d60",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "76bc7ac8ed12c4f9050ac0ce0e301ead7e0ce59d",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "be147cae7b77bfaf2f560d00cd4ca4ce33d4f326",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "39a6445d6297dc098884a21ae52bfa55d7ba9f62",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "2649bdd2e308ff4555247167f941d20fdcc93c13",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "7d635083c12585d82069d9abf4693e2bba692f2c",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "49978934d7e7078492b7d3aef9c3c2084a0c8dc7",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "9070688e8dabac9cd7efa8ba0929a902f2c97e9f",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "5bb5c0011053f1b78dfe2c888169a420ba17b01e",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "f853059779ddbaa1294fb28045e68771a5fbe19a",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "6a25c815d32962437e21b896b6f71732b40b3e69",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "94608f6b4717875754c4ea05b3d6a156d9b3a4c5",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "a7fb5d09604803b893ed6b1ed8513a09cd333822",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "83463e262c247f2c11adb1110d0f1aebe00fd26f",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "66ae8d4cfe0ce68dc14dabef3f6099a85f8ba2a1",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "1ad1503684960dfd3fff4acab9b50d95b73ffbce",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "0d23229cd0a6c72139e1d6d8662ee1bafdb75751",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "0a3c5c85fb335f7d6ef435001561f13bda0f2ae1",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "0d6720aa1a335322906acc75026f085893ab2f7e",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "a814004e0313eb3c1e54c6c1e3e3ac96daaca03d",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "67dae371d25ccb011ad4c2df69cb3eea6d7b1b2f",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "05fe94dfd0ff6ee7f3f87e6a591af995e3d40bf5",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "653dbc4af1d87d1ab6ab8e7f92a0614ea985b93b",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "a580f4b4a7d8edfa8a71bb5f5e6059068158ef4d",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "b3c336117fdff430c615bf27057514e4fb5a828b",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "fec26a99e874b66b5d8d0467d838a9a087c2c9ba",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "2ad886ab53d1f66a10e8665d81e53953a93fe07a",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "edd7b7b82046c1f738853c282daf535a7c51e743",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "b11d8ea37cf42bb3297d1238b9ee4d5200f95619",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "f57471759832408389815b92480854c9f25539be",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "1dfa59c0440054438838b6f0dbc9c826275343ce",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "c1a606d6d1c44e0f034963f51a04e1eb4b783216",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "499c3b06f3b53be96a108b365814580cbd50d712",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "63882dcaf9d901bb2a6f08e8f256618278854506",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "f1a8d39073be555dfd009acb1e534f617a3df8c4",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "1b96a07fcbe17d59ca9abd8a544b540e204b8fd2",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "974350e2297091408cdf53494b7431e29605f729",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "Intention unclear.",
+		"conflict": false
+	},
+	{
+		"uid": "fa752f1c6204530e79cdb61262c22bbe84fc13e9",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "1081242ad7ee027060385fe9b2c73fe4a36a0b01",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "dfd4c9ce46c3829cf3cc2ba8e8a3c3aa0b0ee8a9",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "f3d0e70ece8cc2869d80c24ec7b27dd0d28e24ae",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "93ffc9a8846bdac8d66141f560e8d81a2f30807c",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "725c6a412a284820218f8baf5bf4974739efffc6",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "50c4bbea01ab5a2509de479a1015afce2b225200",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "0a33befaf41f4e48004a1a231ee5927a2bdb04ec",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "Alternative Concept. Consequences unclear.",
+		"conflict": false
+	},
+	{
+		"uid": "949c81c8153227407785b6d5634942917e7d4057",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "f9d53169fb16f6af60df74a974ab283fc4514288",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "Alternative concept. Consequences unclear.",
+		"conflict": false
+	},
+	{
+		"uid": "f981deefacc4443ed1493280a61ee90ab0c7403e",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "e4218819f394cb412062691dcd20362d7cd22604",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "2ceed29cddd41d92aeb4b288272af4358d2887ee",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "7785e2640aa9353526c4dbd2a14d22870ad7c88f",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "3378663c21fd72a1b211faa564af9627f8d7a156",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "baf8466b7bb017c5882e3c5572da480e5d684f83",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "0ff2dc5f6f472bd3b7a3405381c90851c1341e9d",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "cd6e48b18718e82f71515c86035c2df9f26a3db9",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "df1ef4ea5b86c4876f79d3d961b49c6a7c6f752c",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "2bb96a5045dcd2d679bcaa5cdecf167c50236cfc",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "86e6587086d1b7adf78472b10bce418a8b72dcda",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "ce956e5db3ee836122e5dc2522b0eaef2818818b",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "827f097768a8971f8bdba595442e6d7788f17296",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "e52b5c0398ead6702806635a63a3249c70dd5666",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "4f7c21f539072e2a4333800f2bbd468e55baf047",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "7bdd7ba519555e00c65f7f6beea4d0b8d2e981c0",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "b5158852f77544e708e78ca16f5d2b56c0289853",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "17e518fa25835fbf591da9849f3996350a9930ae",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "e7affd875ba5707a7d07a8cabc0471c68b5e7689",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "8bc51f997b1d00e385d5dbc0ba23140255fcd02b",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "47efde68023c0979bf5d1fbb95015ca3ad3fdc06",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "2dc70cd60b18f1cfbb3d58615fb8bea476dbcece",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "ecd3a1d1171fa02627980260b9f575ec64cc3c3c",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "00c43851db91fbf5f53cab9f1b36468cb0a451d4",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "454000fcfab08032083d357ef4725fb7b53e147b",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "544a404bcc12f9a13125d25524bfe9677f3b1bd8",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "487c19a15660420248f47d2d624089ccec13549f",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "8e8ac816a127edb758dd94d16c8445287ec0747d",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "f084071db33d17146b654596e9560096647c1b6d",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "be615ae27baff194860ad2f62c0cc05eff6d6bb2",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "e8a13a81594754b702da96d81116bee13bffefe8",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "43e8db6969b928c0b1b3b429324ff25e7d6a73f2",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "51089c99ef5d84b211a61c8deba61f6fe2d16ff7",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "c7de6d17aa2a90379083f21d368ab7406d1c1b1e",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "6359104658eb7b52370eadb2c700192131ec4dc5",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "fb33361b1358135a5504fff9804cd46f4f978f8f",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "1a6d7a1df06e9a28d6321e2981e44ca7e86b16b0",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "3b5b1ff37fb9688a48edbcfe445e44291b7c3360",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "ff2686447699a3d201a53d48889caa1748764bda",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "44328e31738733089d1449c3fe0e81f23c9fe33a",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "275485a1cc667b51d60f3c4e443230a7662d3e65",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "e80017d97ed9557fc7871692114b797a6f0c3c38",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "b2151a16c85887b767b47470f488379ae1c303f7",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "2fec8371504a6eeebc64b20ddbeec0934e4b2778",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "e91a45d8c32874b5fd7b88b8fbac97ee88677e9b",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "2f5593d1e41937bdbfb6eb3fb39b8c3f6e15db1a",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "6aa700345a1bc1b3a475d2af7dc12839d8c5dea3",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "1e8a972c3037584d8c9ce1c6aa44991588e91890",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "0c8242ae1deacb68f634cb51addee2048044d4da",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "79c5cbbbeb4ba1d276e2a688b8769019cc9fe0da",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "3cabddf0224e0e84f713b54a643d32c30afd2f83",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "0e1e420b55ea2b71466418ca482a99b4f70c4e01",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "247aff0aadcf87559b5c604721cefe4f0e8e7c0d",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "eacb1911329ded12429d6c8379a2e7146deb0765",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "491bb45c28b9177ac41f98b00213222ac750b7ff",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "38193fd99c7378667e5bfa2848561e0c509fe079",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "499a4f3295e65c3bb935f08cf0523cc63ae5ce9e",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "4393829a903a8a53a3281602c8ee2a6b6539e9c9",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "eaf654138d311ec17643ab20a8a23c176fb87a8f",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "d5c58a9fdba8c6756bbe172e2b8197d636edc94c",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "e3d61443d5b35c9dac9e155ba877e2b38759c90d",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "5348d17f054f80925a515e95b57cf48ff988989a",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "c23e62fb0a6988dec5277987ac627816f4ca6356",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "4ae33c9c935a1144ffb4ec78d8cbacaf47bff6a3",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "6208c2c9eacba13ed6407d5d9998cf52648ec41a",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "71ea927b0796d4f3080c9008562e09934809c404",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "f86ef6ebdc58449531432c7c3ed19e1cdc98c191",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "d6d5d31cb56db8052835e9613f064161e7e78472",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "No equal rights for data subjects.",
+		"conflict": false
+	},
+	{
+		"uid": "afd8869f85cf43a4c0700fd873ca632040b12829",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "db0efeb59d97fa937145aaaba271cc6454a92a1f",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "No rights for data subjects.",
+		"conflict": false
+	},
+	{
+		"uid": "986d39cd55b406596b7cf1d55375ab29574a21e1",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "No equal rights for data subject.",
+		"conflict": false
+	},
+	{
+		"uid": "679bf88733948287ca162c2940dc684f314869f9",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "be655dce079b5f996e8c000db31c9bb791cbf16a",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "d256cfdf31d3e260630fe00b5a4a79f5bdc2f545",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "9b843873969ae35719e72a7953a18582994a1b2b",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "65a26ad9f0b2196eff77d80842c96f6172c62c9f",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "f6f930d74038b067b669107bb60d24c7b5910d83",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "37090e6bf11ee12e6f78b8e54d42ac10ccf571ed",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "041a6bf8a0525e083c5f5dc02962344f1c946cb3",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "952dbaa1e27350eb08cb421d4a3ade472f11b31b",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "8cd0dc9e79aa494fe6d01e4e961e69728c3ac75c",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "59b82c860d6511da2384cb73111b22a41ea6da79",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "16d7214125e72cfb304c8e01517b97e807f68ec9",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "7cce8290e67f848a9dbc6f5affe654e53876bb34",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "3f2d69e4614860ef2b7d8c93a64f016487e2abfb",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "56192e4dd7f309b61dd90b02f88e5f2ce78df030",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "056e755222dd5d71a26ec8bc278d0cb5c464b998",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "047 - KOMMISSION",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "e210ddcb82186a117d2ac9cb068128eecd909231",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "f5537e6ef047445d053d79ff63b9eb77b4a98fcb",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "db88e92d14a3656c96076780a828cbc6dfaa186a",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "1679854e2ba4cc44c48761af0edacf6a4528f48f",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "12f5e206070ff7f4af8528b3c111a5e21c0d6aaa",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "6c68c3df34f0cfbf3060b6d86dd6b87a51e43287",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "4412019170c9749592a9fdc5f66a8786b6bb755e",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "e0588f648b7351aba97e030ec41e95661301c318",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "924339368bbecd143f889813b51e620555622293",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "3b74783dfe303219ee356a61a58a1cbb61ad0efd",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "821233074c649237baa20f8c7c1f5f1f83383f77",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "a458dca1c1b081a006093e9187e9765955e63e10",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "d285bb1c7d88a1b914ac86d5fb41763484d015d9",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "9e65e2f0933a11a78a611181f0f8dcfc391960de",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "33e5a240b19334b06e92a88fb2e2cdd93a504799",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "7dabc25b8c8e6052e2ce07c6ad3190d091b0e076",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "c49d2ce29e83382c80ac423926b2d76a06a7a5c0",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "4a5f985bb650555ce363ff27e59c2d499c1a9f02",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "e2782ceadabbf8769d1552fe390babee258b6bd7",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "ea7f8553a4529fc91aedceadce4dda4e444e4851",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "00e0922bef3dbfaf9b1af2a5be924b5c1022a7bb",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "5b18198a0f9db1f1b2d702d6a4e38365eb7cb98b",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "dd492cfa4ff3ecab4f7faaf6bb12c303c6645dcb",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "0d543a093f19583e118b389948514907ee22185d",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "8e5594447897de5765727c6d26fd3ec539b43eec",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "e0bee70a0849e06ee50cb8547537ee6318a85877",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "1c15a9c1f068718649fc60e425dff201d406c45f",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "a7cd5b1c078df286b8b9e833788210c33d0f85d5",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "70b4be26734e57cdb62fa7e234c6d21b49aeb976",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "a3553a2d4d7eb53a5164f17f258d9d527ab78f32",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "ce201735a56e8c6eb84ab132013414ed6b6d7341",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "6c0ffb3467a9d522de79652433b6f45ec16e326b",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "28be5a04adc74c741db0673e3164a4d4673e5ed3",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "e4bece5a6246d35ce02e095955ee9e360097ac10",
+		"user": "MS",
+		"vote": "weaker",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "f050afbedad408b19c403b196d8c2d18aed7b895",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "ed462acb917be70ba25b4ba98b2655a1c89606a0",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "9277eb299d4756b6d7e81615fafae699d262afc3",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "a1795881c6e137408bf4af399668fba542b2e933",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "e43fa090ac69f13292e1cd710a033cf1624230f7",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "a3eb05562e4d3d0a5849d1abed24cc1308101a67",
+		"user": "MS",
+		"vote": "neutral",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "90fcf9e0ff2b75a177d9e584e24199bb11af2f75",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "6449f1def8377cf503315b5cb43d3cbcebb9206b",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "9f3caf92f3e5f07f6621897e78f1c873293cc83a",
+		"user": "MS",
+		"vote": "stronger",
+		"topic": "",
+		"category": "",
+		"comment": "",
+		"conflict": false
+	},
+	{
+		"uid": "dcf4a904ad8390b3c13b81a2f333b28f37fe7665",
+		"user": "MS",
+		"vote": "stronger",
 		"topic": "",
 		"category": "",
 		"comment": "",
