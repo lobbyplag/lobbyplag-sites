@@ -30,7 +30,7 @@ app.configure(function(){
 
 /* show welcome */
 app.get('/', function(req, res){
-	res.redirect('/map')
+	res.redirect('/governments')
 });
 
 app.get('/lp', function(req, res){
